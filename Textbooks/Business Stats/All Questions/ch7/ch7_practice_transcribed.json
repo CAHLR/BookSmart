@@ -1,0 +1,386 @@
+[
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next ten exercises: A manufacturer produces 25-pound lifting weights. The lowest actual weight is 24 pounds, and the highest is 26 pounds. Each weight is equally likely so the distribution of weights is uniform. A sample of 100 weights is taken.",
+        "Question": "a) What is the distribution for the weights of one 25-pound lifting weight? What is the mean and standard deviation? b) What is the distribution for the mean weight of 100 25-pound lifting weights? c) Find the probability that the mean actual weight for the 100 weights is less than 24.9.",
+        "Image Links": [],
+        "Answer": "a) U (24, 26), 25, 0.5774 b) N (25, 0.0577) c) 0.0416",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next ten exercises: A manufacturer produces 25-pound lifting weights. The lowest actual weight is 24 pounds, and the highest is 26 pounds. Each weight is equally likely so the distribution of weights is uniform. A sample of 100 weights is taken.",
+        "Question": "Draw the graph from Exercise 7.1",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next ten exercises: A manufacturer produces 25-pound lifting weights. The lowest actual weight is 24 pounds, and the highest is 26 pounds. Each weight is equally likely so the distribution of weights is uniform. A sample of 100 weights is taken.",
+        "Question": "Find the probability that the mean actual weight for the 100 weights is greater than 25.2.",
+        "Image Links": [],
+        "Answer": "0.0003",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next ten exercises: A manufacturer produces 25-pound lifting weights. The lowest actual weight is 24 pounds, and the highest is 26 pounds. Each weight is equally likely so the distribution of weights is uniform. A sample of 100 weights is taken.",
+        "Question": "Draw the graph from Exercise 7.3",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next ten exercises: A manufacturer produces 25-pound lifting weights. The lowest actual weight is 24 pounds, and the highest is 26 pounds. Each weight is equally likely so the distribution of weights is uniform. A sample of 100 weights is taken.",
+        "Question": "Find the 90 th percentile for the mean weight for the 100 weights.",
+        "Image Links": [],
+        "Answer": "25.07",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next ten exercises: A manufacturer produces 25-pound lifting weights. The lowest actual weight is 24 pounds, and the highest is 26 pounds. Each weight is equally likely so the distribution of weights is uniform. A sample of 100 weights is taken.",
+        "Question": "Draw the graph from Exercise 7.5",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next ten exercises: A manufacturer produces 25-pound lifting weights. The lowest actual weight is 24 pounds, and the highest is 26 pounds. Each weight is equally likely so the distribution of weights is uniform. A sample of 100 weights is taken.",
+        "Question": "a) What is the distribution for the sum of the weights of 100 25-pound lifting weights? b) Find P ( \u03a3x < 2,450).",
+        "Image Links": [],
+        "Answer": "a) N (2,500, 5.7735) b) 0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next ten exercises: A manufacturer produces 25-pound lifting weights. The lowest actual weight is 24 pounds, and the highest is 26 pounds. Each weight is equally likely so the distribution of weights is uniform. A sample of 100 weights is taken.",
+        "Question": "Draw the graph from Exercise 7.7",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next ten exercises: A manufacturer produces 25-pound lifting weights. The lowest actual weight is 24 pounds, and the highest is 26 pounds. Each weight is equally likely so the distribution of weights is uniform. A sample of 100 weights is taken.",
+        "Question": "Find the 90 th percentile for the total weight of the 100 weights.",
+        "Image Links": [],
+        "Answer": "2,507.40",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next ten exercises: A manufacturer produces 25-pound lifting weights. The lowest actual weight is 24 pounds, and the highest is 26 pounds. Each weight is equally likely so the distribution of weights is uniform. A sample of 100 weights is taken.",
+        "Question": "Draw the graph from Exercise 7.9",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next five exercises: The length of time a particular smartphone's battery lasts follows an exponential distribution with a mean of ten months. A sample of 64 of these smartphones is taken.",
+        "Question": "a) What is the standard deviation? b) What is the parameter m ?",
+        "Image Links": [],
+        "Answer": "a) 10 b) $$\\frac{1}{10}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next five exercises: The length of time a particular smartphone's battery lasts follows an exponential distribution with a mean of ten months. A sample of 64 of these smartphones is taken.",
+        "Question": "What is the distribution for the length of time one battery lasts?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next five exercises: The length of time a particular smartphone's battery lasts follows an exponential distribution with a mean of ten months. A sample of 64 of these smartphones is taken.",
+        "Question": "What is the distribution for the mean length of time 64 batteries last?",
+        "Image Links": [],
+        "Answer": "N $$( \\text{10,\u00a0} \\frac{10}{8} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next five exercises: The length of time a particular smartphone's battery lasts follows an exponential distribution with a mean of ten months. A sample of 64 of these smartphones is taken.",
+        "Question": "What is the distribution for the total length of time 64 batteries last?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next five exercises: The length of time a particular smartphone's battery lasts follows an exponential distribution with a mean of ten months. A sample of 64 of these smartphones is taken.",
+        "Question": "Find the probability that the sample mean is between seven and 11.",
+        "Image Links": [],
+        "Answer": "0.7799",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next five exercises: The length of time a particular smartphone's battery lasts follows an exponential distribution with a mean of ten months. A sample of 64 of these smartphones is taken.",
+        "Question": "Find the 80 th percentile for the total length of time 64 batteries last.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next five exercises: The length of time a particular smartphone's battery lasts follows an exponential distribution with a mean of ten months. A sample of 64 of these smartphones is taken.",
+        "Question": "Find the IQR for the mean amount of time 64 batteries last.",
+        "Image Links": [],
+        "Answer": "1.69",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next five exercises: The length of time a particular smartphone's battery lasts follows an exponential distribution with a mean of ten months. A sample of 64 of these smartphones is taken.",
+        "Question": "Find the middle 80% for the total amount of time 64 batteries last.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next eight exercises: A uniform distribution has a minimum of six and a maximum of ten. A sample of 50 is taken.",
+        "Question": "Find P ( \u03a3x > 420).",
+        "Image Links": [],
+        "Answer": "0.0072",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next eight exercises: A uniform distribution has a minimum of six and a maximum of ten. A sample of 50 is taken.",
+        "Question": "Find the 90 th percentile for the sums.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next eight exercises: A uniform distribution has a minimum of six and a maximum of ten. A sample of 50 is taken.",
+        "Question": "Find the 15 th percentile for the sums.",
+        "Image Links": [],
+        "Answer": "391.54",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next eight exercises: A uniform distribution has a minimum of six and a maximum of ten. A sample of 50 is taken.",
+        "Question": "Find the first quartile for the sums.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next eight exercises: A uniform distribution has a minimum of six and a maximum of ten. A sample of 50 is taken.",
+        "Question": "Find the third quartile for the sums.",
+        "Image Links": [],
+        "Answer": "405.51",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next eight exercises: A uniform distribution has a minimum of six and a maximum of ten. A sample of 50 is taken.",
+        "Question": "Find the 80 th percentile for the sums.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next eight exercises: A uniform distribution has a minimum of six and a maximum of ten. A sample of 50 is taken.",
+        "Question": "A population has a mean of 25 and a standard deviation of 2. If it is sampled repeatedly with samples of size 49, what is the mean and standard deviation of the sample means?",
+        "Image Links": [],
+        "Answer": "Mean = 25, standard deviation = 2/7",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next eight exercises: A uniform distribution has a minimum of six and a maximum of ten. A sample of 50 is taken.",
+        "Question": "A population has a mean of 48 and a standard deviation of 5. If it is sampled repeatedly with samples of size 36, what is the mean and standard deviation of the sample means?",
+        "Image Links": [],
+        "Answer": "Mean = 48, standard deviation = 5/6",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next eight exercises: A uniform distribution has a minimum of six and a maximum of ten. A sample of 50 is taken.",
+        "Question": "A population has a mean of 90 and a standard deviation of 6. If it is sampled repeatedly with samples of size 64, what is the mean and standard deviation of the sample means?",
+        "Image Links": [],
+        "Answer": "Mean = 90, standard deviation = 3/4",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next eight exercises: A uniform distribution has a minimum of six and a maximum of ten. A sample of 50 is taken.",
+        "Question": "A population has a mean of 120 and a standard deviation of 2.4. If it is sampled repeatedly with samples of size 40, what is the mean and standard deviation of the sample means?",
+        "Image Links": [],
+        "Answer": "Mean = 120, standard deviation = 0.38",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next eight exercises: A uniform distribution has a minimum of six and a maximum of ten. A sample of 50 is taken.",
+        "Question": "A population has a mean of 17 and a standard deviation of 1.2. If it is sampled repeatedly with samples of size 50, what is the mean and standard deviation of the sample means?",
+        "Image Links": [],
+        "Answer": "Mean = 17, standard deviation = 0.17",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next eight exercises: A uniform distribution has a minimum of six and a maximum of ten. A sample of 50 is taken.",
+        "Question": "A population has a mean of 17 and a standard deviation of 0.2. If it is sampled repeatedly with samples of size 16, what is the expected value and standard deviation of the sample means?",
+        "Image Links": [],
+        "Answer": "Expected value = 17, standard deviation = 0.05",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next eight exercises: A uniform distribution has a minimum of six and a maximum of ten. A sample of 50 is taken.",
+        "Question": "A population has a mean of 38 and a standard deviation of 3. If it is sampled repeatedly with samples of size 48, what is the expected value and standard deviation of the sample means?",
+        "Image Links": [],
+        "Answer": "Expected value = 38, standard deviation = 0.43",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Using the Central Limit Theorem",
+        "Problem Statement": "Use the following information to answer the next eight exercises: A uniform distribution has a minimum of six and a maximum of ten. A sample of 50 is taken.",
+        "Question": "A population has a mean of 14 and a standard deviation of 5. If it is sampled repeatedly with samples of size 60, what is the expected value and standard deviation of the sample means?",
+        "Image Links": [],
+        "Answer": "Expected value = 14, standard deviation = 0.65",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.3 The Central Limit Theorem for Proportions",
+        "Problem Statement": "",
+        "Question": "A question is asked of a class of 200 first-year students, and 23% of the students know the correct answer. If a sample of 50 students is taken\nrepeatedly, what is the expected value of the mean of the sampling\ndistribution of sample proportions?",
+        "Image Links": [],
+        "Answer": "0.23",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.3 The Central Limit Theorem for Proportions",
+        "Problem Statement": "",
+        "Question": "A question is asked of a class of 200 first-year students, and 23% of the students know the correct answer. If a sample of 50 students is taken\nrepeatedly, what is the standard deviation of the mean of the sampling\ndistribution of sample proportions?",
+        "Image Links": [],
+        "Answer": "0.060",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.3 The Central Limit Theorem for Proportions",
+        "Problem Statement": "",
+        "Question": "A game is played repeatedly. A player wins one-fifth of the time. If samples of 40 times the game is played are taken repeatedly, what is\nthe expected value of the mean of the sampling distribution of sample\nproportions?",
+        "Image Links": [],
+        "Answer": "1/5",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.3 The Central Limit Theorem for Proportions",
+        "Problem Statement": "",
+        "Question": "A game is played repeatedly. A player wins one-fifth of the time. If samples of 40 times the game is played are taken repeatedly, what is\nthe standard deviation of the mean of the sampling distribution of\nsample proportions?",
+        "Image Links": [],
+        "Answer": "0.063",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.3 The Central Limit Theorem for Proportions",
+        "Problem Statement": "",
+        "Question": "A virus attacks one in three of the people exposed to it. An entire large city is exposed. If samples of 70 people are taken, what is the\nexpected value of the mean of the sampling distribution of sample\nproportions?",
+        "Image Links": [],
+        "Answer": "1/3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.3 The Central Limit Theorem for Proportions",
+        "Problem Statement": "",
+        "Question": "A virus attacks one in three of the people exposed to it. An entire large city is exposed. If samples of 70 people are taken, what is the\nstandard deviation of the mean of the sampling distribution of sample\nproportions?",
+        "Image Links": [],
+        "Answer": "0.056",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.3 The Central Limit Theorem for Proportions",
+        "Problem Statement": "",
+        "Question": "A company inspects products coming through its production\nprocess, and rejects detected products. One-tenth of the items are\nrejected. If samples of 50 items are taken, what is the expected value\nof the mean of the sampling distribution of sample proportions?",
+        "Image Links": [],
+        "Answer": "1/10",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.3 The Central Limit Theorem for Proportions",
+        "Problem Statement": "",
+        "Question": "A company inspects products coming through its production\nprocess, and rejects detected products. One-tenth of the items are\nrejected. If samples of 50 items are taken, what is the standard\ndeviation of the mean of the sampling distribution of sample\nproportions?",
+        "Image Links": [],
+        "Answer": "0.042",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.4 Finite Population Correction Factor",
+        "Problem Statement": "",
+        "Question": "A fishing boat has 1,000 fish on board, with an average weight of 120 pounds and a standard deviation of 6.0 pounds.  If sample sizes of 50 fish are checked, what is the probability the fish in a sample will have mean weight within 2.8 pounds the true mean of the population?",
+        "Image Links": [],
+        "Answer": "0.999",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.4 Finite Population Correction Factor",
+        "Problem Statement": "",
+        "Question": "An experimental garden has 500 sunflowers plants.  The plants are being treated so they grow to unusual heights.  The average height is 9.3 feet with a standard deviation of 0.5 foot.   If sample sizes of 60 plants are taken, what is the probability the plants in a given sample will have an average height within 0.1 foot of the true mean of the population?",
+        "Image Links": [],
+        "Answer": "0.901",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.4 Finite Population Correction Factor",
+        "Problem Statement": "",
+        "Question": "A company has 800 employees.  The average number of workdays between absence for illness is 123 with a standard deviation of 14 days.  Samples of 50 employees are examined.  What is the probability a sample has a mean of workdays with no absence for illness of at least 124 days?",
+        "Image Links": [],
+        "Answer": "0.301",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.4 Finite Population Correction Factor",
+        "Problem Statement": "",
+        "Question": "Cars pass an automatic speed check device that monitors 2,000 cars on a given day.  This population of cars has an average speed of 67 miles per hour with a standard deviation of 2 miles per hour.  If samples of 30 cars are taken, what is the probability a given sample will have an average speed within 0.50 mile per hour of the population mean?",
+        "Image Links": [],
+        "Answer": "0.832",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.4 Finite Population Correction Factor",
+        "Problem Statement": "",
+        "Question": "A town keeps weather records.  From these records it has been determined that it rains on an average of 37% of the days each year.  If 30 days are selected at random from one year, what is the probability that at least 5 and at most 11 days had rain?",
+        "Image Links": [],
+        "Answer": "0.483",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.4 Finite Population Correction Factor",
+        "Problem Statement": "",
+        "Question": "A maker of yardsticks has an ink problem that causes the markings to smear on 4% of the yardsticks.  The daily production run is 2,000 yardsticks.  What is the probability if a sample of 100 yardsticks is checked, there will be ink smeared on at most 4 yardsticks?",
+        "Image Links": [],
+        "Answer": "0.500",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.4 Finite Population Correction Factor",
+        "Problem Statement": "",
+        "Question": "A school has 300 students.  Usually, there are an average of 21 students who are absent.  If a sample of 30 students is taken on a certain day, what is the probability that at most 2 students in the sample will be absent?",
+        "Image Links": [],
+        "Answer": "0.502",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.4 Finite Population Correction Factor",
+        "Problem Statement": "",
+        "Question": "A college gives a placement test to 5,000 incoming students each year.  On the average 1,213 place in one or more developmental courses.  If a sample of 50 is taken from the 5,000, what is the probability at most 12 of those sampled will have to take at least one developmental course?",
+        "Image Links": [],
+        "Answer": "0.519",
+        "Answer Image Links": []
+    }
+]

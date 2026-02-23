@@ -1,0 +1,178 @@
+[
+    {
+        "Topic": "13.1 The Correlation Coefficient r",
+        "Problem Statement": "",
+        "Question": "In order to have a correlation coefficient between traits A and B,  it is necessary to have: a) one group of subjects, some of whom possess characteristics of trait A, the remainder possessing those of trait B b) measures of trait A on one group of subjects and of trait B on another group c) two groups of subjects, one which could be classified as A or not A, the other as B or not B d) two groups of subjects, one which could be classified as A or not A, the other as B or not B",
+        "Image Links": [],
+        "Answer": "d",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.1 The Correlation Coefficient r",
+        "Problem Statement": "",
+        "Question": "Define the Correlation Coefficient and give a unique example of its use.",
+        "Image Links": [],
+        "Answer": "A measure of the degree to which variation of one variable is related to variation in one or more other variables.  The most commonly used correlation coefficient indicates the degree to which variation in one variable is described by a straight line relation with another variable. Suppose that sample information is available on family income and Years of schooling of the head of the household.  A correlation coefficient = 0 would indicate no linear association at all between these two variables.  A correlation of 1 would indicate perfect linear association (where all variation in family income could be associated with schooling and vice versa).",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.1 The Correlation Coefficient r",
+        "Problem Statement": "",
+        "Question": "If the correlation between age of an auto and money spent for repairs is +.90 a) 81% of the variation in the money spent for repairs is explained by the age of the auto b) 81% of money spent for repairs is unexplained by the age of the auto c) 90% of the money spent for repairs is explained by the age of the auto d) none of the above",
+        "Image Links": [],
+        "Answer": "a.  81% of the variation in the money spent for repairs is explained by the age of the auto",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.1 The Correlation Coefficient r",
+        "Problem Statement": "",
+        "Question": "Suppose that college grade-point average and verbal portion of an IQ test had a correlation of .40.  What percentage of the variance do these two have in common? a) 20 b) 16 c) 40 d) 80",
+        "Image Links": [],
+        "Answer": "b. 16",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.1 The Correlation Coefficient r",
+        "Problem Statement": "",
+        "Question": "True or false?  If false, explain why: The coefficient of determination can have values between -1 and +1.",
+        "Image Links": [],
+        "Answer": "The coefficient of determination is r\u00b7\u00b72 with 0 \u2264 r\u00b7\u00b72 \u2264 1, since -1 \u2264 r \u2264 1.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.1 The Correlation Coefficient r",
+        "Problem Statement": "",
+        "Question": "True or False: Whenever r is calculated on the basis of a sample, the value which we obtain for r is only an estimate of the true correlation coefficient which we would obtain if we calculated it for the entire population.",
+        "Image Links": [],
+        "Answer": "True",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.1 The Correlation Coefficient r",
+        "Problem Statement": "",
+        "Question": "Under a \"scatter diagram\" there is a notation that the coefficient of correlation is .10.  What does this mean? a) plus and minus 10% from the means includes about 68% of the cases b) one-tenth of the variance of one variable is shared with the other variable c) one-tenth of one variable is caused by the other variable d) on a scale from -1 to +1, the degree of linear relationship between the two variables is +.10",
+        "Image Links": [],
+        "Answer": "d.  on a scale from -1 to +1, the degree of linear relationship between the two variables is +.10",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.1 The Correlation Coefficient r",
+        "Problem Statement": "",
+        "Question": "The correlation coefficient for X and Y is known to be zero.  We then can conclude that: a) X and Y have standard distributions b) the variances of X and Y are equal c) there exists no relationship between X and Y d) there exists no linear relationship between X and Y e) none of these",
+        "Image Links": [],
+        "Answer": "d.  there exists no linear relationship between X and Y",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.1 The Correlation Coefficient r",
+        "Problem Statement": "",
+        "Question": "What would you guess the value of the correlation coefficient to be for the pair of variables: \"number of man-hours worked\" and  \"number  of units of work completed\"? a) Approximately 0.9 b) Approximately 0.4 c) Approximately 0.0 d) Approximately -0.4 e) Approximately -0.9",
+        "Image Links": [],
+        "Answer": "Approximately 0.9",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.1 The Correlation Coefficient r",
+        "Problem Statement": "",
+        "Question": "In a given group, the correlation between height measured in feet and weight measured in pounds is +.68.  Which of the following would alter the value of r? a) height is expressed centimeters. b) weight is expressed in Kilograms. c) both of the above will affect r. d) neither of the above changes will affect r.",
+        "Image Links": [],
+        "Answer": "d. neither of the above changes will affect r.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 The Regression Equation",
+        "Problem Statement": "",
+        "Question": "Suppose that you have at your disposal the information below for each of 30 drivers.  Propose a model (including a very brief indication of symbols used to represent independent variables) to explain how miles per gallon vary from driver to driver on the basis of the factors measured. Information: 1) miles driven per day 2) weight of car 3) number of cylinders in car 4) average speed 5) miles per gallon 6) number of passengers",
+        "Image Links": [],
+        "Answer": "$$Y_{j} = b_{0} + b_{1} \\cdot X_{1} + b_{2} \\cdot X_{2} + b_{3} \\cdot X_{3} + b_{4} \\cdot X_{4} + b_{5} \\cdot X_{6} + e_{j}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 The Regression Equation",
+        "Problem Statement": "",
+        "Question": "Consider a sample least squares regression analysis between a dependent variable (Y) and an independent variable (X).  A sample correlation coefficient of -1 (minus one) tells us that a) there is no relationship between Y and X in the sample b) there is no relationship between Y and X in the population c) there is a perfect negative relationship between Y and X in the population d) there is a perfect negative relationship between Y and X in the sample.",
+        "Image Links": [],
+        "Answer": "d.  there is a perfect negative relationship between Y and X in the sample.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 The Regression Equation",
+        "Problem Statement": "",
+        "Question": "In correlational analysis, when the points scatter widely about the regression line, this means that the correlation is a) negative. b) low. c) heterogeneous. d) between two measures that are unreliable.",
+        "Image Links": [],
+        "Answer": "b. low",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.5 Interpretation of Regression Coefficients: Elasticity and Logarithmic Transformation",
+        "Problem Statement": "",
+        "Question": "In a linear regression, why do we need to be concerned with the range of the independent (X) variable?",
+        "Image Links": [],
+        "Answer": "The precision of the estimate of the Y variable depends on the range of the independent (X) variable explored.  If we explore a very small range of the X variable, we won't be able to make much use of the regression. Also, extrapolation is not recommended.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.5 Interpretation of Regression Coefficients: Elasticity and Logarithmic Transformation",
+        "Problem Statement": "",
+        "Question": "Suppose one collected the following information where X is diameter of tree trunk and Y is tree height. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nX & Y \\\\ \\hline\n4 & 8 \\\\ \\hline\n2 & 4 \\\\ \\hline\n8 & 18 \\\\ \\hline\n6 & 22 \\\\ \\hline\n10 & 30 \\\\ \\hline\n6 & 8 \\\\ \\hline\n\\end{tabular}\n\\end{table} Regression equation: $$\\overset{^}{y}_{i} = -3.6 + 3.1 \\cdot X_{i}$$ What is your estimate of the average height of all trees having a trunk diameter of 7 inches?",
+        "Image Links": [],
+        "Answer": "$$\\overset{^}{y} = -3.6 + ( 3.1 \\cdot 7 ) = 18.1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.5 Interpretation of Regression Coefficients: Elasticity and Logarithmic Transformation",
+        "Problem Statement": "",
+        "Question": "The manufacturers of a chemical used in flea collars claim that under standard test conditions each additional unit of the chemical will bring about a reduction of 5 fleas (i.e. where $$X_{j} = \\text{amount of chemical}$$ and $$Y_{J} = B_{0} + B_{1} \\cdot X_{J} + E_{J}$$ , $$H_{0}$$ : $$B_{1} = -5$$ Suppose that a test has been conducted and results from a computer include: Intercept = 60 Slope = -4 Standard error of the regression coefficient = 1.0 Degrees of Freedom for Error = 2000 95% Confidence Interval for the slope -2.04, -5.96 Is this evidence consistent with the claim that the number of fleas is reduced at a rate of 5 fleas per unit chemical?",
+        "Image Links": [],
+        "Answer": "Most simply, since -5 is included in the confidence interval for the slope, we can conclude that the evidence is consistent with the claim at the 95% confidence level. Using a t test: $$H_{0}$$ : $$B_{1} = -5$$ $$H_{A}$$ : $$B_{1} \\ne -5$$ $$t_{\\text{calculated}} = \\frac{-5 - ( -4 )}{1} = -1$$ $$t_{\\text{critical}} = -1.96$$ Since $$t_{\\text{calc}}$$ < $$t_{\\text{crit}}$$ we retain the null hypothesis that $$B_{1} = -5$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.6 Predicting with a Regression Equation",
+        "Problem Statement": "",
+        "Question": "True or False?  If False, correct it: Suppose you are performing a simple linear regression of Y on X and you test the hypothesis that the slope \u03b2 is zero against a two-sided alternative.  You have $$n = 25$$ observations and your computed test (t) statistic is 2.6.  Then your P -value is given by .01 < P < .02, which gives borderline significance (i.e. you would reject $$H_{0}$$ at $$\\alpha = .02$$ but fail to reject $$H_{0}$$ at $$\\alpha = .01$$ ).",
+        "Image Links": [],
+        "Answer": "True. t (critical, df = 23, two-tailed, \u03b1 = .02) = \u00b1 2.5 t critical, df = 23, two-tailed, \u03b1 = .01 = \u00b1 2.8",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.6 Predicting with a Regression Equation",
+        "Problem Statement": "",
+        "Question": "An economist is interested in the possible influence of \"Miracle Wheat\" on the average yield of wheat in a district.  To do so they fit a linear regression of average yield per year against year after introduction of \"Miracle Wheat\" for a ten year period. The fitted trend line is $$\\overset{^}{y}_{j} = 80 + 1.5 \\cdot X_{j}$$ ( $$Y_{j}$$ : Average yield in j year after introduction) ( $$X_{j}$$ : j year after introduction). a) What is the estimated average yield for the fourth year after introduction? b) Do you want to use this trend line to estimate yield for, say, 20 years after introduction?  Why?  What would your estimate be?",
+        "Image Links": [],
+        "Answer": "a) $$80 + 1.5 \\cdot 4 = 86$$ b) No. Most business statisticians would not want to extrapolate that far.  If someone did, the estimate would be 110, but some other factors probably come into play with 20 years.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.6 Predicting with a Regression Equation",
+        "Problem Statement": "",
+        "Question": "An interpretation of $$r = 0.5$$ is that the following part of the Y-variation is associated with which variation in X: a) most b) half c) very little d) one quarter e) none of these",
+        "Image Links": [],
+        "Answer": "d. one quarter",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.6 Predicting with a Regression Equation",
+        "Problem Statement": "",
+        "Question": "Which of the following values of r indicates the most accurate prediction of one variable from another? a) $$r = 1.18$$ b) $$r = -.77$$ c) $$r = .68$$",
+        "Image Links": [],
+        "Answer": "b. $$r = -.77$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.7 How to Use Microsoft Excel\u00ae for Regression Analysis",
+        "Problem Statement": "",
+        "Question": "A computer program for multiple regression has been used to fit $$\\overset{^}{y}_{j} = b_{0} + b_{1} \\cdot X_{1 j} + b_{2} \\cdot X_{2 j} + b_{3} \\cdot X_{3 j}$$ . Part of the computer output includes: \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\ni & $$b_{i}$$ & $$S_{b_{i}}$$ \\\\ \\hline\n0 & 8 & 1.6 \\\\ \\hline\n1 & 2.2 & .24 \\\\ \\hline\n2 & -.72 & .32 \\\\ \\hline\n3 & 0.005 & 0.002 \\\\ \\hline\n\\end{tabular}\n\\end{table} a) Calculation of confidence interval for $$b_{2}$$ consists of _______\u00b1 (a student's t value) (_______) b) The confidence level for this interval is reflected in the value used for _______. c) The degrees of freedom available for estimating the variance are directly concerned with the value used for _______",
+        "Image Links": [],
+        "Answer": "a) -.72, .32 b) the t value c) the t value",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.7 How to Use Microsoft Excel\u00ae for Regression Analysis",
+        "Problem Statement": "",
+        "Question": "An investigator has used a multiple regression program on 20 data points to obtain a regression equation with 3 variables. Part of the computer output is: \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\nVariable & Coefficient & Standard Error of$$b_{i}$$ \\\\ \\hline\n1 & 0.45 & 0.21 \\\\ \\hline\n2 & 0.80 & 0.10 \\\\ \\hline\n3 & 3.10 & 0.86 \\\\ \\hline\n\\end{tabular}\n\\end{table} a) 0.80 is an estimate of ___________. b) 0.10 is an estimate of ___________. c) Assuming the responses satisfy the normality assumption, we can be 95% confident that the value of $$\\beta_{2}$$ is in the interval,_______ \u00b1 [t .025 \u22c5 _______], where t .025 is the critical value of the student's t -distribution with ____ degrees of freedom.",
+        "Image Links": [],
+        "Answer": "a) The population value for $$\\beta_{2}$$ , the change that occurs in Y with a unit change in $$X_{2}$$ , when the other variables are held constant. b) The population value for the standard error of the distribution of estimates of $$\\beta_{2}$$ . c) .8, .1, 16 = 20 - 4.",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,288 @@
+[
+    {
+        "Topic": "2.1 Display Data",
+        "Problem Statement": "",
+        "Question": "Table 2.66 contains the percentages of adults who were never married in the 50 U.S. states and Washington, DC. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\nState & Percent (%) & State & Percent (%) & State & Percent (%) \\\\ \\hline\nAlabama & 32.2 & Kentucky & 31.3 & North Dakota & 27.2 \\\\ \\hline\nAlaska & 24.5 & Louisiana & 31.0 & Ohio & 29.2 \\\\ \\hline\nArizona & 24.3 & Maine & 26.8 & Oklahoma & 30.4 \\\\ \\hline\nArkansas & 30.1 & Maryland & 27.1 & Oregon & 26.8 \\\\ \\hline\nCalifornia & 24.0 & Massachusetts & 23.0 & Pennsylvania & 28.6 \\\\ \\hline\nColorado & 21.0 & Michigan & 30.9 & Rhode Island & 25.5 \\\\ \\hline\nConnecticut & 22.5 & Minnesota & 24.8 & South Carolina & 31.5 \\\\ \\hline\nDelaware & 28.0 & Mississippi & 34.0 & South Dakota & 27.3 \\\\ \\hline\nWashington, DC & 22.2 & Missouri & 30.5 & Tennessee & 30.8 \\\\ \\hline\nFlorida & 26.6 & Montana & 23.0 & Texas & 31.0 \\\\ \\hline\nGeorgia & 29.6 & Nebraska & 26.9 & Utah & 22.5 \\\\ \\hline\nHawaii & 22.7 & Nevada & 22.4 & Vermont & 23.2 \\\\ \\hline\nIdaho & 26.5 & New Hampshire & 25.0 & Virginia & 26.0 \\\\ \\hline\nIllinois & 28.2 & New Jersey & 23.8 & Washington & 25.5 \\\\ \\hline\nIndiana & 29.6 & New Mexico & 25.1 & West Virginia & 32.5 \\\\ \\hline\nIowa & 28.4 & New York & 23.9 & Wisconsin & 26.3 \\\\ \\hline\nKansas & 29.4 & North Carolina & 27.8 & Wyoming & 25.1 \\\\ \\hline\n\\end{tabular}\n\\end{table} a) Use a random number generator to randomly pick eight states. Construct a bar graph of the rates of those eight states. b) Construct a bar graph for all the states beginning with the letter \"A.\" c) Construct a bar graph for all the states beginning with the letter \"M.\"",
+        "Image Links": [],
+        "Answer": "a) Example solution for using the random number generator for the TI-84+ to generate a simple random sample of 8 states. Instructions are as follows. Number the entries in the table 1-51 (Includes Washington, DC; Numbered vertically) Press MATH Arrow over to PRB Press 5:randInt( Enter 51,1,8) Eight numbers are generated (use the right arrow key to scroll through the numbers). The numbers correspond to the numbered states (for this example: {47 21 9 23 51 13 25 4}. If any numbers are repeated, generate a different number by using 5:randInt(51,1)). Here, the states (and Washington DC) are {Arkansas, Washington DC, Idaho, Maryland, Michigan, Mississippi, Virginia, Wyoming}. Corresponding percents are {30.1, 22.2, 26.5, 27.1, 30.9, 34.0, 26.0, 25.1}. Figure 2.34 b) Figure 2.35 c) Figure 2.36",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.1 Display Data",
+        "Problem Statement": "",
+        "Question": "Suppose that three book publishers were interested in the number of fiction paperbacks adult consumers purchase per month. Each publisher conducted a survey. In the survey, adult consumers were asked the number of fiction paperbacks they had purchased the previous month. The results are as follows: \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\n# of books & Freq. & Rel. freq. \\\\ \\hline\n0 & 10 &  \\\\ \\hline\n1 & 12 &  \\\\ \\hline\n2 & 16 &  \\\\ \\hline\n3 & 12 &  \\\\ \\hline\n4 & 8 &  \\\\ \\hline\n5 & 6 &  \\\\ \\hline\n6 & 2 &  \\\\ \\hline\n8 & 2 &  \\\\ \\hline\n\\end{tabular}\n\\end{table} \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\n# of books & Freq. & Rel. freq. \\\\ \\hline\n0 & 18 &  \\\\ \\hline\n1 & 24 &  \\\\ \\hline\n2 & 24 &  \\\\ \\hline\n3 & 22 &  \\\\ \\hline\n4 & 15 &  \\\\ \\hline\n5 & 10 &  \\\\ \\hline\n7 & 5 &  \\\\ \\hline\n9 & 1 &  \\\\ \\hline\n\\end{tabular}\n\\end{table} \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\n# of books & Freq. & Rel. freq. \\\\ \\hline\n0-1 & 20 &  \\\\ \\hline\n2-3 & 35 &  \\\\ \\hline\n4-5 & 12 &  \\\\ \\hline\n6-7 & 2 &  \\\\ \\hline\n8-9 & 1 &  \\\\ \\hline\n\\end{tabular}\n\\end{table} a) Find the relative frequencies for each survey. Write them in the charts. b) Use the frequency column to construct a histogram for each publisher's survey. For Publishers A and B, make bar widths of one. For Publisher C, make bar widths of two. c) In complete sentences, give two reasons why the graphs for Publishers A and B are not identical. d) Would you have expected the graph for Publisher C to look like the other two graphs? Why or why not? e) Make new histograms for Publisher A and Publisher B. This time, make bar widths of two. f) Now, compare the graph for Publisher C to the new graphs for Publishers A and B.  Are the graphs more similar or more different? Explain your answer.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.1 Display Data",
+        "Problem Statement": "",
+        "Question": "Often, cruise ships conduct all on-board transactions, with the exception of gambling, on a cashless basis. At the end of the cruise, guests pay one bill that covers all onboard transactions. Suppose that 60 single travelers and 70 couples were surveyed as to their on-board bills for a seven-day cruise from Los Angeles to the Mexican Riviera. Following is a summary of the bills for each group. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\nAmount($) & Frequency & Rel. frequency \\\\ \\hline\n51-100 & 5 &  \\\\ \\hline\n101-150 & 10 &  \\\\ \\hline\n151-200 & 15 &  \\\\ \\hline\n201-250 & 15 &  \\\\ \\hline\n251-300 & 10 &  \\\\ \\hline\n301-350 & 5 &  \\\\ \\hline\n\\end{tabular}\n\\end{table} \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\nAmount($) & Frequency & Rel. frequency \\\\ \\hline\n100-150 & 5 &  \\\\ \\hline\n201-250 & 5 &  \\\\ \\hline\n251-300 & 5 &  \\\\ \\hline\n301-350 & 5 &  \\\\ \\hline\n351-400 & 10 &  \\\\ \\hline\n401-450 & 10 &  \\\\ \\hline\n451-500 & 10 &  \\\\ \\hline\n501-550 & 10 &  \\\\ \\hline\n551-600 & 5 &  \\\\ \\hline\n601-650 & 5 &  \\\\ \\hline\n\\end{tabular}\n\\end{table} a) Fill in the relative frequency for each group. b) Construct a histogram for the singles group. Scale the x -axis by $50 widths. Use relative frequency on the y -axis. c) Construct a histogram for the couples group. Scale the x -axis by $50 widths. Use relative frequency on the y -axis. d) Compare the two graphs: List two similarities between the graphs. List two differences between the graphs. Overall, are the graphs more similar or different? e) Construct a new graph for the couples by hand. Since each couple is paying for two individuals, instead of scaling the x -axis by $50, scale it by $100. Use relative frequency on the y -axis. f) Compare the graph for the singles with the new graph for the couples: List two similarities between the graphs. Overall, are the graphs more similar or different? g) How did scaling the couples graph differently change the way you compared it to the singles graph? h) Based on the graphs, do you think that individuals spend the same amount, more or less, as singles as they do person by person as a couple? Explain why in one or two complete sentences.",
+        "Image Links": [],
+        "Answer": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\nAmount($) & Frequency & Relative frequency \\\\ \\hline\n51-100 & 5 & 0.08 \\\\ \\hline\n101-150 & 10 & 0.17 \\\\ \\hline\n151-200 & 15 & 0.25 \\\\ \\hline\n201-250 & 15 & 0.25 \\\\ \\hline\n251-300 & 10 & 0.17 \\\\ \\hline\n301-350 & 5 & 0.08 \\\\ \\hline\n\\end{tabular}\n\\end{table} \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\nAmount($) & Frequency & Relative frequency \\\\ \\hline\n100-150 & 5 & 0.07 \\\\ \\hline\n201-250 & 5 & 0.07 \\\\ \\hline\n251-300 & 5 & 0.07 \\\\ \\hline\n301-350 & 5 & 0.07 \\\\ \\hline\n351-400 & 10 & 0.14 \\\\ \\hline\n401-450 & 10 & 0.14 \\\\ \\hline\n451-500 & 10 & 0.14 \\\\ \\hline\n501-550 & 10 & 0.14 \\\\ \\hline\n551-600 & 5 & 0.07 \\\\ \\hline\n601-650 & 5 & 0.07 \\\\ \\hline\n\\end{tabular}\n\\end{table} a) See Table 2.90 and Table 2.91 . b) In the following histogram data values that fall on the right boundary are counted in the class interval, while values that fall on the left boundary are not counted (with the exception of the first interval where both boundary values are included). Figure 2.37 c) In the following histogram, the data values that fall on the right boundary are counted in the class interval, while values that fall on the left boundary are not counted (with the exception of the first interval where values on both boundaries are included). Figure 2.38 d) Compare the two graphs: Answers may vary. Possible answers include: Both graphs have a single peak. Both graphs use class intervals with width equal to $50. Answers may vary. Possible answers include: The couples graph has a class interval with no values. It takes almost twice as many class intervals to display the data for couples. Answers may vary. Possible answers include: The graphs are more similar than different because the overall patterns for the graphs are the same. e) Answers may vary. f) Compare the graph for the Singles with the new graph for the Couples: Both graphs have a single peak. Both graphs display 6 class intervals. Both graphs show the same general pattern. Answers may vary. Possible answers include: Although the width of the class intervals for couples is double that of the class intervals for singles, the graphs are more similar than they are different. g) Answers may vary. Possible answers include: You are able to compare the graphs interval by interval. It is easier to compare the overall patterns with the new scale on the Couples graph. Because a couple represents two individuals, the new scale leads to a more accurate comparison. h) Answers may vary. Possible answers include: Based on the histograms, it seems that spending does not vary much from singles to individuals who are part of a couple. The overall patterns are the same. The range of spending for couples is approximately double the range for individuals.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.1 Display Data",
+        "Problem Statement": "",
+        "Question": "Twenty-five randomly selected students were asked the number of movies they watched the previous week. The results are as follows. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|}\n\\hline\n# of movies & Frequency & Relative frequency & Cumulative relative frequency \\\\ \\hline\n0 & 5 &  &  \\\\ \\hline\n1 & 9 &  &  \\\\ \\hline\n2 & 6 &  &  \\\\ \\hline\n3 & 4 &  &  \\\\ \\hline\n4 & 1 &  &  \\\\ \\hline\n\\end{tabular}\n\\end{table} a) Construct a histogram of the data. b) Complete the columns of the chart.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.1 Display Data",
+        "Problem Statement": "Use the following information to answer the next two exercises: Suppose 111 people who shopped in a special T-shirt store were asked the number of T-shirts they own costing more than $19 each. Figure 2.24",
+        "Question": "The percentage of  people who own at most three T-shirts costing more than $19 each is approximately: a) 21 b) 59 c) 41 d) Cannot be determined",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3c82c531f5ebe0f3ba81ef1923a6cd7b6ac39b6c"
+        ],
+        "Answer": "c",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.1 Display Data",
+        "Problem Statement": "Use the following information to answer the next two exercises: Suppose 111 people who shopped in a special T-shirt store were asked the number of T-shirts they own costing more than $19 each. Figure 2.24",
+        "Question": "If the data were collected by asking the first 111 people who entered the store, then the type of sampling is: a) cluster b) simple random c) stratified d) convenience",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3c82c531f5ebe0f3ba81ef1923a6cd7b6ac39b6c"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.1 Display Data",
+        "Problem Statement": "Use the following information to answer the next two exercises: Suppose 111 people who shopped in a special T-shirt store were asked the number of T-shirts they own costing more than $19 each. Figure 2.24",
+        "Question": "Following are the rates of unmarried adults for the 50 U.S. states and Washington, DC. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\nState & Percent (%) & State & Percent (%) & State & Percent (%) \\\\ \\hline\nAlabama & 32.2 & Kentucky & 31.3 & North Dakota & 27.2 \\\\ \\hline\nAlaska & 24.5 & Louisiana & 31.0 & Ohio & 29.2 \\\\ \\hline\nArizona & 24.3 & Maine & 26.8 & Oklahoma & 30.4 \\\\ \\hline\nArkansas & 30.1 & Maryland & 27.1 & Oregon & 26.8 \\\\ \\hline\nCalifornia & 24.0 & Massachusetts & 23.0 & Pennsylvania & 28.6 \\\\ \\hline\nColorado & 21.0 & Michigan & 30.9 & Rhode Island & 25.5 \\\\ \\hline\nConnecticut & 22.5 & Minnesota & 24.8 & South Carolina & 31.5 \\\\ \\hline\nDelaware & 28.0 & Mississippi & 34.0 & South Dakota & 27.3 \\\\ \\hline\nWashington, DC & 22.2 & Missouri & 30.5 & Tennessee & 30.8 \\\\ \\hline\nFlorida & 26.6 & Montana & 23.0 & Texas & 31.0 \\\\ \\hline\nGeorgia & 29.6 & Nebraska & 26.9 & Utah & 22.5 \\\\ \\hline\nHawaii & 22.7 & Nevada & 22.4 & Vermont & 23.2 \\\\ \\hline\nIdaho & 26.5 & New Hampshire & 25.0 & Virginia & 26.0 \\\\ \\hline\nIllinois & 28.2 & New Jersey & 23.8 & Washington & 25.5 \\\\ \\hline\nIndiana & 29.6 & New Mexico & 25.1 & West Virginia & 32.5 \\\\ \\hline\nIowa & 28.4 & New York & 23.9 & Wisconsin & 26.3 \\\\ \\hline\nKansas & 29.4 & North Carolina & 27.8 & Wyoming & 25.1 \\\\ \\hline\n\\end{tabular}\n\\end{table} Construct a bar graph of the unmarried adult rates of your state and the four states closest to your state. Hint: Label the x -axis with the states.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3c82c531f5ebe0f3ba81ef1923a6cd7b6ac39b6c"
+        ],
+        "Answer": "Answers will vary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.2 Measures of the Location of the Data",
+        "Problem Statement": "",
+        "Question": "The median age for Black people in the United States currently is 30.9 years; for White people in the United States it is 42.3 years. a) Based upon this information, give two reasons why the median age for Black people could be lower than the median age for White people. b) Does the lower median age for Black people necessarily mean that Black people die younger than White people? Why or why not? c) How might it be possible for Black people and White people to die at approximately the same age, but for the median age for White people to be higher?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.2 Measures of the Location of the Data",
+        "Problem Statement": "",
+        "Question": "Six hundred adult Americans were asked by telephone poll, \"What do you think constitutes a middle-class income?\" The results are in Table 2.74 . Also, include left endpoint, but not the right endpoint. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nSalary ($) & Relative frequency \\\\ \\hline\n< 20,000 & 0.02 \\\\ \\hline\n20,000-25,000 & 0.09 \\\\ \\hline\n25,000-30,000 & 0.19 \\\\ \\hline\n30,000-40,000 & 0.26 \\\\ \\hline\n40,000-50,000 & 0.18 \\\\ \\hline\n50,000-75,000 & 0.17 \\\\ \\hline\n75,000-99,999 & 0.02 \\\\ \\hline\n100,000+ & 0.01 \\\\ \\hline\n\\end{tabular}\n\\end{table} a) What percentage of the survey answered \"not sure\"? b) What percentage think that middle-class is from $25,000 to $50,000? c) Construct a histogram of the data. Should all bars have the same width, based on the data? Why or why not? How should the <20,000 and the 100,000+ intervals be handled? Why? d) Find the 40 th and 80 th percentiles e) Construct a bar graph of the data",
+        "Image Links": [],
+        "Answer": "a) 1 - (0.02+0.09+0.19+0.26+0.18+0.17+0.02+0.01) = 0.06 b) 0.19+0.26+0.18 = 0.63 c) Answers may vary. d) 40 th percentile will fall between 30,000 and 40,000 80 th percentile will fall between 50,000 and 75,000 e) Answers may vary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.3 Measures of the Center of the Data",
+        "Problem Statement": "",
+        "Question": "The countries with the highest rates of obesity in the world have obesity rates that range from 11.4% to 74.6%. This data is summarized in the following table. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nPercent of population & Number of countries \\\\ \\hline\n11.4-20.45 & 29 \\\\ \\hline\n20.45-29.45 & 13 \\\\ \\hline\n29.45-38.45 & 4 \\\\ \\hline\n38.45-47.45 & 0 \\\\ \\hline\n47.45-56.45 & 2 \\\\ \\hline\n56.45-65.45 & 1 \\\\ \\hline\n65.45-74.45 & 0 \\\\ \\hline\n74.45-83.45 & 1 \\\\ \\hline\n\\end{tabular}\n\\end{table} a) What is the best estimate of the average obesity percentage for these countries? b) The United States has an average obesity rate of 33.9%. Is this rate above average or below? c) How does the United States compare to other countries?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.3 Measures of the Center of the Data",
+        "Problem Statement": "",
+        "Question": "Table 2.76 gives the percent of children under five considered to be underweight. What is the best estimate for the mean percentage of underweight children? \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nPercent of underweight children & Number of countries \\\\ \\hline\n16-21.45 & 23 \\\\ \\hline\n21.45-26.9 & 4 \\\\ \\hline\n26.9-32.35 & 9 \\\\ \\hline\n32.35-37.8 & 7 \\\\ \\hline\n37.8-43.25 & 6 \\\\ \\hline\n43.25-48.7 & 1 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "The mean percentage, $$\\overset{-}{x} = \\frac{1328.65}{50} = 26.75$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.4 Sigma Notation and Calculating the Arithmetic Mean",
+        "Problem Statement": "",
+        "Question": "A sample of 10 prices is chosen from a population of 100 similar\nitems. The values obtained from the sample, and the values for\nthe population, are given in Table 2.77 and Table 2.78 respectively. a) Is the mean of the sample within $1 of the population mean? b) What is the difference in the sample and population means? \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|}\n\\hline\nPrices of the sample \\\\ \\hline\n$21 \\\\ \\hline\n$23 \\\\ \\hline\n$21 \\\\ \\hline\n$24 \\\\ \\hline\n$22 \\\\ \\hline\n$22 \\\\ \\hline\n$25 \\\\ \\hline\n$21 \\\\ \\hline\n$20 \\\\ \\hline\n$24 \\\\ \\hline\n\\end{tabular}\n\\end{table} \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nPrices of the population & Frequency \\\\ \\hline\n$20 & 20 \\\\ \\hline\n$21 & 35 \\\\ \\hline\n$22 & 15 \\\\ \\hline\n$23 & 10 \\\\ \\hline\n$24 & 18 \\\\ \\hline\n$25 & 2 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "a) Yes b) The sample is 0.5 higher.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.4 Sigma Notation and Calculating the Arithmetic Mean",
+        "Problem Statement": "",
+        "Question": "A standardized test is given to ten people at the beginning of\nthe school year with the results given in Table 2.79 below. At\nthe end of the year the same people were again tested. a) What is the average improvement? b) Does it matter if the means are subtracted, or if the individual values are subtracted? \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\nStudent & Beginning score & Ending score \\\\ \\hline\n1 & 1100 & 1120 \\\\ \\hline\n2 & 980 & 1030 \\\\ \\hline\n3 & 1200 & 1208 \\\\ \\hline\n4 & 998 & 1000 \\\\ \\hline\n5 & 893 & 948 \\\\ \\hline\n6 & 1015 & 1030 \\\\ \\hline\n7 & 1217 & 1224 \\\\ \\hline\n8 & 1232 & 1245 \\\\ \\hline\n9 & 967 & 988 \\\\ \\hline\n10 & 988 & 997 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "a) 20 b) No",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.4 Sigma Notation and Calculating the Arithmetic Mean",
+        "Problem Statement": "",
+        "Question": "A small class of 7 students has a mean grade of 82 on a test. If\nsix of the grades are 80, 82,86, 90, 90, and 95, what is the other grade?",
+        "Image Links": [],
+        "Answer": "51",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.4 Sigma Notation and Calculating the Arithmetic Mean",
+        "Problem Statement": "",
+        "Question": "A class of 20 students has a mean grade of 80 on a test.\nNineteen of the students has a mean grade between 79 and 82,\ninclusive. a) What is the lowest possible grade of the other student? b) What is the highest possible grade of the other student?",
+        "Image Links": [],
+        "Answer": "a) 42 b) 99",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.4 Sigma Notation and Calculating the Arithmetic Mean",
+        "Problem Statement": "",
+        "Question": "If the mean of 20 prices is $10.39, and 5 of the items with a mean of $10.99 are sampled, what is the mean of the other 15 prices?",
+        "Image Links": [],
+        "Answer": "$10.19",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.5 Geometric Mean",
+        "Problem Statement": "",
+        "Question": "An investment grows from $10,000 to $22,000 in five years. What is the average rate of return?",
+        "Image Links": [],
+        "Answer": "17%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.5 Geometric Mean",
+        "Problem Statement": "",
+        "Question": "An initial investment of $20,000 grows at a rate of 9% for five years. What is its final value?",
+        "Image Links": [],
+        "Answer": "$30,772.48",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.5 Geometric Mean",
+        "Problem Statement": "",
+        "Question": "A culture contains 1,300 bacteria. The bacteria grow to 2,000 in 10 hours. What is the rate at which the bacteria grow per hour to\nthe nearest tenth of a percent?",
+        "Image Links": [],
+        "Answer": "4.4%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.5 Geometric Mean",
+        "Problem Statement": "",
+        "Question": "An investment of $3,000 grows at a rate of 5% for one year, then at a rate of 8% for three years. What is the average rate of return\nto the nearest hundredth of a percent?",
+        "Image Links": [],
+        "Answer": "7.24%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.5 Geometric Mean",
+        "Problem Statement": "",
+        "Question": "An investment of $10,000 goes down to $9,500 in four years. What is the average return per year to the nearest hundredth of a percent?",
+        "Image Links": [],
+        "Answer": "-1.27%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.6 Skewness and the Mean, Median, and Mode",
+        "Problem Statement": "",
+        "Question": "The median age of the U.S. population in 1980 was 30.0 years. In 1991, the median age was 33.1 years. a) What does it mean for the median age to rise? b) Give two reasons why the median age could rise. c) For the median age to rise, is the actual number of children less in 1991 than it was in 1980? Why or why not?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.7 Measures of the Spread of the Data",
+        "Problem Statement": "Use the following information to answer the next nine exercises: The population parameters below describe the full-time equivalent number of students (FTES) each year at Lake Tahoe Community College over a 29-year period. - \u03bc = 1000 FTES - median = 1,014 FTES - \u03c3 = 474 FTES - first quartile = 528.5 FTES - third quartile = 1,447.5 FTES - n = 29 years",
+        "Question": "A sample of 11 years is taken. About how many are expected to have a FTES of 1014 or above? Explain how you determined your answer.",
+        "Image Links": [],
+        "Answer": "The median value is the middle value in the ordered list of data values. The median value of a set of 11 will be the 6th number in order. Six years will have totals at or below the median.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.7 Measures of the Spread of the Data",
+        "Problem Statement": "Use the following information to answer the next nine exercises: The population parameters below describe the full-time equivalent number of students (FTES) each year at Lake Tahoe Community College over a 29-year period. - \u03bc = 1000 FTES - median = 1,014 FTES - \u03c3 = 474 FTES - first quartile = 528.5 FTES - third quartile = 1,447.5 FTES - n = 29 years",
+        "Question": "75% of all years have an FTES: a) at or below: _____ b) at or above: _____",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.7 Measures of the Spread of the Data",
+        "Problem Statement": "Use the following information to answer the next nine exercises: The population parameters below describe the full-time equivalent number of students (FTES) each year at Lake Tahoe Community College over a 29-year period. - \u03bc = 1000 FTES - median = 1,014 FTES - \u03c3 = 474 FTES - first quartile = 528.5 FTES - third quartile = 1,447.5 FTES - n = 29 years",
+        "Question": "The population standard deviation = _____",
+        "Image Links": [],
+        "Answer": "474 FTES",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.7 Measures of the Spread of the Data",
+        "Problem Statement": "Use the following information to answer the next nine exercises: The population parameters below describe the full-time equivalent number of students (FTES) each year at Lake Tahoe Community College over a 29-year period. - \u03bc = 1000 FTES - median = 1,014 FTES - \u03c3 = 474 FTES - first quartile = 528.5 FTES - third quartile = 1,447.5 FTES - n = 29 years",
+        "Question": "What percent of the FTES were from 528.5 to 1447.5? How do you know?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.7 Measures of the Spread of the Data",
+        "Problem Statement": "Use the following information to answer the next nine exercises: The population parameters below describe the full-time equivalent number of students (FTES) each year at Lake Tahoe Community College over a 29-year period. - \u03bc = 1000 FTES - median = 1,014 FTES - \u03c3 = 474 FTES - first quartile = 528.5 FTES - third quartile = 1,447.5 FTES - n = 29 years",
+        "Question": "What is the IQR ? What does the IQR represent?",
+        "Image Links": [],
+        "Answer": "919",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.7 Measures of the Spread of the Data",
+        "Problem Statement": "Use the following information to answer the next nine exercises: The population parameters below describe the full-time equivalent number of students (FTES) each year at Lake Tahoe Community College over a 29-year period. - \u03bc = 1000 FTES - median = 1,014 FTES - \u03c3 = 474 FTES - first quartile = 528.5 FTES - third quartile = 1,447.5 FTES - n = 29 years",
+        "Question": "How many standard deviations away from the mean is the median? Additional Information: The population for a specific six-year period was given in an updated report. The data are reported here. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\hline\nYear & 1 & 2 & 3 & 4 & 5 & 6 \\\\ \\hline\nTotal FTES & 1,585 & 1,690 & 1,735 & 1,935 & 2,021 & 1,890 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.7 Measures of the Spread of the Data",
+        "Problem Statement": "Use the following information to answer the next nine exercises: The population parameters below describe the full-time equivalent number of students (FTES) each year at Lake Tahoe Community College over a 29-year period. - \u03bc = 1000 FTES - median = 1,014 FTES - \u03c3 = 474 FTES - first quartile = 528.5 FTES - third quartile = 1,447.5 FTES - n = 29 years",
+        "Question": "Calculate the mean, median, standard deviation, the first quartile, the third quartile and the IQR . Round to one decimal place.",
+        "Image Links": [],
+        "Answer": "mean = 1,809.3 median = 1,812.5 standard deviation = 151.2 first quartile = 1,690 third quartile = 1,935 IQR = 245",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.7 Measures of the Spread of the Data",
+        "Problem Statement": "Use the following information to answer the next nine exercises: The population parameters below describe the full-time equivalent number of students (FTES) each year at Lake Tahoe Community College over a 29-year period. - \u03bc = 1000 FTES - median = 1,014 FTES - \u03c3 = 474 FTES - first quartile = 528.5 FTES - third quartile = 1,447.5 FTES - n = 29 years",
+        "Question": "Compare the IQR for the FTES for the previous 29-year period with the IQR for the six-year period shown in Table 2.80 . Why do you suppose the IQR s are so different?",
+        "Image Links": [],
+        "Answer": "Hint: Think about the number of years covered by each time period and what happened to higher education during those periods.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.7 Measures of the Spread of the Data",
+        "Problem Statement": "Use the following information to answer the next nine exercises: The population parameters below describe the full-time equivalent number of students (FTES) each year at Lake Tahoe Community College over a 29-year period. - \u03bc = 1000 FTES - median = 1,014 FTES - \u03c3 = 474 FTES - first quartile = 528.5 FTES - third quartile = 1,447.5 FTES - n = 29 years",
+        "Question": "Three students were applying to the same graduate school. They came from schools with different grading systems. Which student had the best GPA when compared to other students at his school? Explain how you determined your answer. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|}\n\\hline\nStudent & GPA & School Average GPA & School Standard Deviation \\\\ \\hline\nThuy & 2.7 & 3.2 & 0.8 \\\\ \\hline\nVichet & 87 & 75 & 20 \\\\ \\hline\nKamala & 8.6 & 8 & 0.4 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.7 Measures of the Spread of the Data",
+        "Problem Statement": "Use the following information to answer the next nine exercises: The population parameters below describe the full-time equivalent number of students (FTES) each year at Lake Tahoe Community College over a 29-year period. - \u03bc = 1000 FTES - median = 1,014 FTES - \u03c3 = 474 FTES - first quartile = 528.5 FTES - third quartile = 1,447.5 FTES - n = 29 years",
+        "Question": "A music school has budgeted to purchase three musical instruments. They plan to purchase a piano costing $3,000, a guitar costing $550, and a drum set costing $600. The mean cost for a piano is $4,000 with a standard deviation of $2,500. The mean cost for a guitar is $500 with a standard deviation of $200. The mean cost for drums is $700 with a standard deviation of $100. Which cost is the lowest, when compared to other instruments of the same type? Which cost is the highest when compared to other instruments of the same type. Justify your answer.",
+        "Image Links": [],
+        "Answer": "For pianos, the cost of the piano is 0.4 standard deviations BELOW the mean.  For guitars, the cost of the guitar is 0.25 standard deviations ABOVE the mean. For drums, the cost of the drum set is 1.0 standard deviations BELOW the mean. Of the three, the drums cost the lowest in comparison to the cost of other instruments of the same type. The guitar costs the most in comparison to the cost of other instruments of the same type.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.7 Measures of the Spread of the Data",
+        "Problem Statement": "Use the following information to answer the next nine exercises: The population parameters below describe the full-time equivalent number of students (FTES) each year at Lake Tahoe Community College over a 29-year period. - \u03bc = 1000 FTES - median = 1,014 FTES - \u03c3 = 474 FTES - first quartile = 528.5 FTES - third quartile = 1,447.5 FTES - n = 29 years",
+        "Question": "An elementary school class ran one mile with a mean of 11 minutes and a standard deviation of three minutes. Rachel, a student in the class, ran one mile in eight minutes. A junior high school class ran one mile with a mean of nine minutes and a standard deviation of two minutes. Kenji, a student in the class, ran 1 mile in 8.5 minutes. A high school class ran one mile with a mean of seven minutes and a standard deviation of four minutes.  Nedda, a student in the class, ran one mile in eight minutes. a) Why is Kenji considered a better runner than Nedda, even though Nedda ran faster than he? b) Who is the fastest runner with respect to their class? Explain why.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.7 Measures of the Spread of the Data",
+        "Problem Statement": "Use the following information to answer the next nine exercises: The population parameters below describe the full-time equivalent number of students (FTES) each year at Lake Tahoe Community College over a 29-year period. - \u03bc = 1000 FTES - median = 1,014 FTES - \u03c3 = 474 FTES - first quartile = 528.5 FTES - third quartile = 1,447.5 FTES - n = 29 years",
+        "Question": "A selection of countries has poverty rates that range from 11.4% to 74.6%. This data is summarized in Table 14 . \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nPercent of population & Number of countries \\\\ \\hline\n11.4-20.45 & 29 \\\\ \\hline\n20.45-29.45 & 13 \\\\ \\hline\n29.45-38.45 & 4 \\\\ \\hline\n38.45-47.45 & 0 \\\\ \\hline\n47.45-56.45 & 2 \\\\ \\hline\n56.45-65.45 & 1 \\\\ \\hline\n65.45-74.45 & 0 \\\\ \\hline\n74.45-83.45 & 1 \\\\ \\hline\n\\end{tabular}\n\\end{table} What is the best estimate of the average poverty percentage for these countries? What is the standard deviation for the listed poverty rates? The United States has an average poverty rate of 33.9%. Is this rate above average or below? How \u201cunusual\u201d is the United States\u2019 poverty rate compared to the average rate? Explain.",
+        "Image Links": [],
+        "Answer": "$$\\overset{-}{x} = 23.32$$ Using the TI 83/84, we obtain a standard deviation of: $$s_{x} = 12.95.$$ The poverty rate of the United States is 10.58% higher than the average poverty rate. Since the standard deviation is 12.95, we see that 23.32 + 12.95 = 36.27 is the poverty percentage that is one standard deviation from the mean. The United States poverty rate is slightly less than one standard deviation from the mean. Therefore, we can assume that the United States does not have an unusually high percentage of people experiencing poverty.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.7 Measures of the Spread of the Data",
+        "Problem Statement": "Use the following information to answer the next nine exercises: The population parameters below describe the full-time equivalent number of students (FTES) each year at Lake Tahoe Community College over a 29-year period. - \u03bc = 1000 FTES - median = 1,014 FTES - \u03c3 = 474 FTES - first quartile = 528.5 FTES - third quartile = 1,447.5 FTES - n = 29 years",
+        "Question": "Table 2.83 gives the percent of children under five considered to be underweight. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nPercent of underweight children & Number of countries \\\\ \\hline\n16-21.45 & 23 \\\\ \\hline\n21.45-26.9 & 4 \\\\ \\hline\n26.9-32.35 & 9 \\\\ \\hline\n32.35-37.8 & 7 \\\\ \\hline\n37.8-43.25 & 6 \\\\ \\hline\n43.25-48.7 & 1 \\\\ \\hline\n\\end{tabular}\n\\end{table} What is the best estimate for the mean percentage of underweight children? What is the standard deviation? Which interval(s) could be considered unusual? Explain.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

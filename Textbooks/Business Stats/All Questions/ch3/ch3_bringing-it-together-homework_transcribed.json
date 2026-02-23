@@ -1,0 +1,34 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A previous year, the weights of the members of the San Francisco 49ers and the Dallas Cowboys were published in the San Jose Mercury News . The factual data are compiled into Table 3.24 . \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\nShirt # & \u2264 210 & 211-250 & 251-290 & 290\u2264 \\\\ \\hline\n1-33 & 21 & 5 & 0 & 0 \\\\ \\hline\n34-66 & 6 & 18 & 7 & 4 \\\\ \\hline\n66-99 & 6 & 12 & 22 & 5 \\\\ \\hline\n\\end{tabular}\n\\end{table} For the following, suppose that you randomly select one player from the 49ers or Cowboys. If having a shirt number from one to 33 and weighing at most 210 pounds were independent events, then what should be true about P (Shirt# 1-33|\u2264 210 pounds)?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The probability that someone develops cancer during their lifetime is 0.4567. The probability that a person has at least one false positive test result (meaning the test comes back for cancer when the person does not have it) is 0.51. Some of the following questions do not have enough information for you to answer them. Write \u201cnot enough information\u201d for those answers. Let C = a person develops cancer and P = person has at least one false positive. a) $$P ( C ) =$$ ______ b) $$P ( P | C ) =$$ ______ c) $$P ( P | C' ) =$$ ______ d) If a test comes up positive, based upon numerical values, can you assume that person has cancer? Justify numerically and explain why or why not.",
+        "Image Links": [],
+        "Answer": "a) P ( C ) = 0.4567 b) not enough information c) not enough information d) No, because over half (0.51) of men have at least one false positive text",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Given events G and H : P ( G ) = 0.43; P ( H ) = 0.26; $$P ( H \\cap G )$$ = 0.14 a) Find $$P ( H \\cup G ) .$$ b) Find the probability of the complement of event $$( H \\cap G ) .$$ c) Find the probability of the complement of event $$( H \\cup G ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Given events $$J$$ and $$K : P ( J ) = 0.18 ;$$ $$P ( K ) = 0.37 ;$$ $$P ( J \\cup K ) = 0.45$$ a) Find $$P ( J \\cap K ) .$$ b) Find the probability of the complement of event $$( J \\cap K ) .$$ c) Find the probability of the complement of event $$( J \\cap K ) .$$",
+        "Image Links": [],
+        "Answer": "a) $$( J \\cup K ) = P ( J ) + P ( K ) - P ( J \\cap K ) ;$$ $$0.45 = 0.18 + 0.37 - P ( J \\cap K ) ;$$ solve to find $$P ( J \\cap K ) = 0.10$$ b) $$P ( \\text{NOT} ( J \\cap K ) ) = 1 - P ( J \\cap K )$$ $$= 1 - 0.10 = 0.90$$ c) $$P ( \\text{NOT} ( J \\cup K ) ) = 1 - P ( J \\cup K )$$ $$= 1 - 0.45 = 0.55$$",
+        "Answer Image Links": []
+    }
+]

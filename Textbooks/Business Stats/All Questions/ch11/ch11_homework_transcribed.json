@@ -1,0 +1,474 @@
+[
+    {
+        "Topic": "11.1 Facts About the Chi-Square Distribution",
+        "Problem Statement": "Decide whether the following statements are true or false.",
+        "Question": "As the number of degrees of freedom increases, the graph of the chi-square distribution looks more and more symmetrical.",
+        "Image Links": [],
+        "Answer": "true",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.1 Facts About the Chi-Square Distribution",
+        "Problem Statement": "Decide whether the following statements are true or false.",
+        "Question": "The standard deviation of the chi-square distribution is twice the mean.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.1 Facts About the Chi-Square Distribution",
+        "Problem Statement": "Decide whether the following statements are true or false.",
+        "Question": "The mean and the median of the chi-square distribution are the same if df = 24.",
+        "Image Links": [],
+        "Answer": "false",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Test of a Single Variance",
+        "Problem Statement": "Use the following information to answer the next twelve exercises: Suppose an airline claims that its flights are consistently on time with an average delay of at most 15 minutes. It claims that the average delay is so consistent that the variance is no more than 150 minutes. Doubting the consistency part of the claim, a disgruntled traveler calculates the delays for his next 25 flights. The average delay for those 25 flights is 22 minutes with a standard deviation of 15 minutes.",
+        "Question": "Is the traveler disputing the claim about the average or about the variance?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Test of a Single Variance",
+        "Problem Statement": "Use the following information to answer the next twelve exercises: Suppose an airline claims that its flights are consistently on time with an average delay of at most 15 minutes. It claims that the average delay is so consistent that the variance is no more than 150 minutes. Doubting the consistency part of the claim, a disgruntled traveler calculates the delays for his next 25 flights. The average delay for those 25 flights is 22 minutes with a standard deviation of 15 minutes.",
+        "Question": "A sample standard deviation of 15 minutes is the same as a sample variance of __________ minutes.",
+        "Image Links": [],
+        "Answer": "225",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Test of a Single Variance",
+        "Problem Statement": "Use the following information to answer the next twelve exercises: Suppose an airline claims that its flights are consistently on time with an average delay of at most 15 minutes. It claims that the average delay is so consistent that the variance is no more than 150 minutes. Doubting the consistency part of the claim, a disgruntled traveler calculates the delays for his next 25 flights. The average delay for those 25 flights is 22 minutes with a standard deviation of 15 minutes.",
+        "Question": "Is this a right-tailed, left-tailed, or two-tailed test?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Test of a Single Variance",
+        "Problem Statement": "Use the following information to answer the next twelve exercises: Suppose an airline claims that its flights are consistently on time with an average delay of at most 15 minutes. It claims that the average delay is so consistent that the variance is no more than 150 minutes. Doubting the consistency part of the claim, a disgruntled traveler calculates the delays for his next 25 flights. The average delay for those 25 flights is 22 minutes with a standard deviation of 15 minutes.",
+        "Question": "H 0 : __________",
+        "Image Links": [],
+        "Answer": "H 0 : \u03c3 2 \u2264 150",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Test of a Single Variance",
+        "Problem Statement": "Use the following information to answer the next twelve exercises: Suppose an airline claims that its flights are consistently on time with an average delay of at most 15 minutes. It claims that the average delay is so consistent that the variance is no more than 150 minutes. Doubting the consistency part of the claim, a disgruntled traveler calculates the delays for his next 25 flights. The average delay for those 25 flights is 22 minutes with a standard deviation of 15 minutes.",
+        "Question": "df = ________",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Test of a Single Variance",
+        "Problem Statement": "Use the following information to answer the next twelve exercises: Suppose an airline claims that its flights are consistently on time with an average delay of at most 15 minutes. It claims that the average delay is so consistent that the variance is no more than 150 minutes. Doubting the consistency part of the claim, a disgruntled traveler calculates the delays for his next 25 flights. The average delay for those 25 flights is 22 minutes with a standard deviation of 15 minutes.",
+        "Question": "chi-square test statistic = ________",
+        "Image Links": [],
+        "Answer": "36",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Test of a Single Variance",
+        "Problem Statement": "Use the following information to answer the next twelve exercises: Suppose an airline claims that its flights are consistently on time with an average delay of at most 15 minutes. It claims that the average delay is so consistent that the variance is no more than 150 minutes. Doubting the consistency part of the claim, a disgruntled traveler calculates the delays for his next 25 flights. The average delay for those 25 flights is 22 minutes with a standard deviation of 15 minutes.",
+        "Question": "Graph the situation. Label and scale the horizontal axis. Mark the mean and test statistic. Shade the area associated with the level of confidence.",
+        "Image Links": [],
+        "Answer": "Answers may vary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Test of a Single Variance",
+        "Problem Statement": "Use the following information to answer the next twelve exercises: Suppose an airline claims that its flights are consistently on time with an average delay of at most 15 minutes. It claims that the average delay is so consistent that the variance is no more than 150 minutes. Doubting the consistency part of the claim, a disgruntled traveler calculates the delays for his next 25 flights. The average delay for those 25 flights is 22 minutes with a standard deviation of 15 minutes.",
+        "Question": "Let \u03b1 = 0.05 Decision: ________ Conclusion (write out in a complete sentence.): ________",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Test of a Single Variance",
+        "Problem Statement": "Use the following information to answer the next twelve exercises: Suppose an airline claims that its flights are consistently on time with an average delay of at most 15 minutes. It claims that the average delay is so consistent that the variance is no more than 150 minutes. Doubting the consistency part of the claim, a disgruntled traveler calculates the delays for his next 25 flights. The average delay for those 25 flights is 22 minutes with a standard deviation of 15 minutes.",
+        "Question": "How did you know to test the variance instead of the mean?",
+        "Image Links": [],
+        "Answer": "The claim is that the variance is no more than 150 minutes.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Test of a Single Variance",
+        "Problem Statement": "Use the following information to answer the next twelve exercises: Suppose an airline claims that its flights are consistently on time with an average delay of at most 15 minutes. It claims that the average delay is so consistent that the variance is no more than 150 minutes. Doubting the consistency part of the claim, a disgruntled traveler calculates the delays for his next 25 flights. The average delay for those 25 flights is 22 minutes with a standard deviation of 15 minutes.",
+        "Question": "If an additional test were done on the claim of the average delay, which distribution would you use?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Test of a Single Variance",
+        "Problem Statement": "Use the following information to answer the next twelve exercises: Suppose an airline claims that its flights are consistently on time with an average delay of at most 15 minutes. It claims that the average delay is so consistent that the variance is no more than 150 minutes. Doubting the consistency part of the claim, a disgruntled traveler calculates the delays for his next 25 flights. The average delay for those 25 flights is 22 minutes with a standard deviation of 15 minutes.",
+        "Question": "If an additional test were done on the claim of the average delay, but 45 flights were surveyed, which distribution would you use?",
+        "Image Links": [],
+        "Answer": "a Student's t - or normal distribution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Test of a Single Variance",
+        "Problem Statement": "Use the following information to answer the next twelve exercises: Suppose an airline claims that its flights are consistently on time with an average delay of at most 15 minutes. It claims that the average delay is so consistent that the variance is no more than 150 minutes. Doubting the consistency part of the claim, a disgruntled traveler calculates the delays for his next 25 flights. The average delay for those 25 flights is 22 minutes with a standard deviation of 15 minutes.",
+        "Question": "A plant manager is concerned their equipment may need recalibrating. It seems that the actual weight of the 15 oz. cereal boxes it fills has been fluctuating. The standard deviation should be at most 0.5 oz. In order to determine if the machine needs to be recalibrated, 84 randomly selected boxes of cereal from the next day\u2019s production were weighed. The standard deviation of the 84 boxes was 0.54. Does the machine need to be recalibrated?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Test of a Single Variance",
+        "Problem Statement": "Use the following information to answer the next twelve exercises: Suppose an airline claims that its flights are consistently on time with an average delay of at most 15 minutes. It claims that the average delay is so consistent that the variance is no more than 150 minutes. Doubting the consistency part of the claim, a disgruntled traveler calculates the delays for his next 25 flights. The average delay for those 25 flights is 22 minutes with a standard deviation of 15 minutes.",
+        "Question": "Consumers may be interested in whether the cost of a particular calculator varies from store to store. Based on surveying 43 stores, which yielded a sample mean of $84 and a sample standard deviation of $12, test the claim that the standard deviation is greater than $15.",
+        "Image Links": [],
+        "Answer": "a) H 0 : \u03c3 = 15 b) H a : \u03c3 > 15 c) df = 42 d) chi-square with df = 42 e) test statistic = 26.88 f) Answers may vary. g) Alpha = 0.05 Decision: Cannot reject null hypothesis. Reason for decision: Calculated value of test statistics is either in or out of the tail of the distribution. Conclusion: There is insufficient evidence to conclude that the standard deviation is greater than 15.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Test of a Single Variance",
+        "Problem Statement": "Use the following information to answer the next twelve exercises: Suppose an airline claims that its flights are consistently on time with an average delay of at most 15 minutes. It claims that the average delay is so consistent that the variance is no more than 150 minutes. Doubting the consistency part of the claim, a disgruntled traveler calculates the delays for his next 25 flights. The average delay for those 25 flights is 22 minutes with a standard deviation of 15 minutes.",
+        "Question": "Isabella, an accomplished Bay to Breakers runner, claims that the standard deviation for her time to run the 7.5 mile race is at most three minutes. To test her claim, Rupinder looks up five of her race times. They are 55 minutes, 61 minutes, 58 minutes, 63 minutes, and 57 minutes.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Test of a Single Variance",
+        "Problem Statement": "Use the following information to answer the next twelve exercises: Suppose an airline claims that its flights are consistently on time with an average delay of at most 15 minutes. It claims that the average delay is so consistent that the variance is no more than 150 minutes. Doubting the consistency part of the claim, a disgruntled traveler calculates the delays for his next 25 flights. The average delay for those 25 flights is 22 minutes with a standard deviation of 15 minutes.",
+        "Question": "Airline companies are interested in the consistency of the number of babies on each flight, so that they have adequate safety equipment. They are also interested in the variation of the number of babies. Suppose that an airline executive believes the average number of babies on flights is six with a variance of nine at most. The airline conducts a survey. The results of the 18 flights surveyed give a sample average of 6.4 with a sample standard deviation of 3.9. Conduct a hypothesis test of the airline executive\u2019s belief.",
+        "Image Links": [],
+        "Answer": "a) H 0 : \u03c3 \u2264 3 b) H a : \u03c3 > 3 c) df = 17 d) chi-square distribution with df = 17 e) test statistic = 28.73 f) Answers may vary. g) Alpha: 0.05 Decision: Cannot accept the null hypothesis. Reason for decision: Calculated value of test statistics is either in or out of the tail of the distribution. Conclusion: There is sufficient evidence to conclude that the standard deviation is greater than three.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Test of a Single Variance",
+        "Problem Statement": "Use the following information to answer the next twelve exercises: Suppose an airline claims that its flights are consistently on time with an average delay of at most 15 minutes. It claims that the average delay is so consistent that the variance is no more than 150 minutes. Doubting the consistency part of the claim, a disgruntled traveler calculates the delays for his next 25 flights. The average delay for those 25 flights is 22 minutes with a standard deviation of 15 minutes.",
+        "Question": "The number of births per woman in China is 1.6 down from 5.91 in 1966. This fertility rate has been attributed to the law passed in 1979 restricting births to one per woman. Suppose that a group of students studied whether or not the standard deviation of births per woman was greater than 0.75. They asked 50 women across China the number of births they had had. The results are shown in Table 11.29 . Does the students\u2019 survey indicate that the standard deviation is greater than 0.75? \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\n# of births & Frequency \\\\ \\hline\n0 & 5 \\\\ \\hline\n1 & 30 \\\\ \\hline\n2 & 10 \\\\ \\hline\n3 & 5 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Test of a Single Variance",
+        "Problem Statement": "Use the following information to answer the next twelve exercises: Suppose an airline claims that its flights are consistently on time with an average delay of at most 15 minutes. It claims that the average delay is so consistent that the variance is no more than 150 minutes. Doubting the consistency part of the claim, a disgruntled traveler calculates the delays for his next 25 flights. The average delay for those 25 flights is 22 minutes with a standard deviation of 15 minutes.",
+        "Question": "According to an avid aquarist, the average number of fish in a 20-gallon tank is 10, with a standard deviation of two. His friend, also an aquarist, does not believe that the standard deviation is two. They count the number of fish in 15 other 20-gallon tanks. Based on the results that follow, do you think that the standard deviation is different from two? Data: 11; 10; 9; 10; 10; 11; 11; 10; 12; 9; 7; 9; 11; 10; 11",
+        "Image Links": [],
+        "Answer": "a) H 0 : \u03c3 = 2 b) H a : \u03c3 \u2260 2 c) df = 14 d) chi-square distribution with df = 14 e) chi-square test statistic = 5.2094 f) Answers may vary. g) Alpha = 0.05 Decision: Cannot accept the null hypothesis Reason for decision: Calculated value of test statistics is either in or out of the tail of the distribution. Conclusion: There is sufficient evidence to conclude that the standard deviation is different than 2.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Test of a Single Variance",
+        "Problem Statement": "Use the following information to answer the next twelve exercises: Suppose an airline claims that its flights are consistently on time with an average delay of at most 15 minutes. It claims that the average delay is so consistent that the variance is no more than 150 minutes. Doubting the consistency part of the claim, a disgruntled traveler calculates the delays for his next 25 flights. The average delay for those 25 flights is 22 minutes with a standard deviation of 15 minutes.",
+        "Question": "The manager of \"Frenchies\" is concerned that patrons are not consistently receiving the same amount of French fries with each order. The chef claims that the standard deviation for a ten-ounce order of fries is at most 1.5 oz., but the manager thinks that it may be higher. The manager randomly weighs 49 orders of fries, which yields a mean of 11 oz. and a standard deviation of two oz.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Test of a Single Variance",
+        "Problem Statement": "Use the following information to answer the next twelve exercises: Suppose an airline claims that its flights are consistently on time with an average delay of at most 15 minutes. It claims that the average delay is so consistent that the variance is no more than 150 minutes. Doubting the consistency part of the claim, a disgruntled traveler calculates the delays for his next 25 flights. The average delay for those 25 flights is 22 minutes with a standard deviation of 15 minutes.",
+        "Question": "You want to buy a specific computer. A sales representative of the manufacturer claims that retail stores sell this computer at an average price of $1,249 with a very narrow standard deviation of $25. You find a website that has a price comparison for the same computer at a series of stores as follows: $1,299; $1,229.99; $1,193.08; $1,279; $1,224.95; $1,229.99; $1,269.95; $1,249. Can you argue that pricing has a larger standard deviation than claimed by the manufacturer? Use the 5% significance level. As a potential buyer, what would be the practical conclusion from your analysis?",
+        "Image Links": [],
+        "Answer": "The sample standard deviation is $34.29. H 0 : \u03c3 2 = 25 2 H a : \u03c3 2 > 25 2 df = n - 1 = 7. test statistic: $$x^{2} = \\  x_{7}^{2} = \\  \\frac{( n - 1 ) s^{2}}{25^{2}} = \\  \\frac{( 8 - 1 ) ( 34.29 )^{2}}{25^{2}} = 13.169$$ ; Alpha: 0.05 Decision: Cannot reject the null hypothesis. Reason for decision: Calculated value of test statistics is either in or out of the tail of the distribution. Conclusion: At the 5% level, there is insufficient evidence to conclude that the variance is more than 625.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Test of a Single Variance",
+        "Problem Statement": "Use the following information to answer the next twelve exercises: Suppose an airline claims that its flights are consistently on time with an average delay of at most 15 minutes. It claims that the average delay is so consistent that the variance is no more than 150 minutes. Doubting the consistency part of the claim, a disgruntled traveler calculates the delays for his next 25 flights. The average delay for those 25 flights is 22 minutes with a standard deviation of 15 minutes.",
+        "Question": "A company packages apples by weight. One of the weight grades is Class A apples. Class A apples have a mean weight of 150 g, and there is a maximum allowed weight tolerance of 5% above or below the mean for apples in the same consumer package. A batch of apples is selected to be included in a Class A apple package. Given the following apple weights of the batch, does the fruit comply with the Class A grade weight tolerance requirements. Conduct an appropriate hypothesis test. (a) at the 5% significance level (b) at the 1% significance level Weights in selected apple batch (in grams): 158; 167; 149; 169; 164; 139; 154; 150; 157; 171; 152; 161; 141; 166; 172;",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Goodness-of-Fit Test",
+        "Problem Statement": "",
+        "Question": "A six-sided die is rolled 120 times. Fill in the expected frequency column. Then, conduct a hypothesis test to determine if the die is fair. The data in Table 11.30 are the result of the 120 rolls. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\nFace value & Frequency & Expected frequency \\\\ \\hline\n1 & 15 &  \\\\ \\hline\n2 & 29 &  \\\\ \\hline\n3 & 16 &  \\\\ \\hline\n4 & 15 &  \\\\ \\hline\n5 & 30 &  \\\\ \\hline\n6 & 15 &  \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Goodness-of-Fit Test",
+        "Problem Statement": "",
+        "Question": "The marital status distribution of the U.S. male population, ages 15 and older, is as shown in Table 11.31 . \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\nMarital status & Percent & Expected frequency \\\\ \\hline\nNever married & 31.3 &  \\\\ \\hline\nMarried & 56.1 &  \\\\ \\hline\nWidowed & 2.5 &  \\\\ \\hline\nDivorced/Separated & 10.1 &  \\\\ \\hline\n\\end{tabular}\n\\end{table} Suppose that a random sample of 400 U.S. young adult men, 18 to 24 years old, yielded the following frequency distribution. We are interested in whether this age group of males fits the distribution of the U.S. adult population. Calculate the frequency one would expect when surveying 400 people. Fill in Table 11.31 , rounding to two decimal places. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nMarital status & Frequency \\\\ \\hline\nNever married & 140 \\\\ \\hline\nMarried & 238 \\\\ \\hline\nWidowed & 2 \\\\ \\hline\nDivorced/Separated & 20 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\nMarital status & Percent & Expected frequency \\\\ \\hline\nNever married & 31.3 & 125.2 \\\\ \\hline\nMarried & 56.1 & 224.4 \\\\ \\hline\nWidowed & 2.5 & 10 \\\\ \\hline\nDivorced/Separated & 10.1 & 40.4 \\\\ \\hline\n\\end{tabular}\n\\end{table} a) The data fits the distribution. b) The data does not fit the distribution. c) 3 d) chi-square distribution with df = 3 e) 19.27 f) 0.0002 g) Answers may vary. h) Alpha = 0.05 Decision: Cannot accept null hypothesis at the 5% level of significance Reason for decision: Calculated value of test statistics is either in or out of the tail of the distribution. Conclusion: Data does not fit the distribution.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Goodness-of-Fit Test",
+        "Problem Statement": "Use the following information to answer the next two exercises: The columns in Table 11.33 contain the Race/Ethnicity of U.S. Public Schools for a recent year, the percentages for students using mass transit to get to school, and the Overall Student Population. Suppose the right column contains the result of a survey of 1,000 local students from that year who used mass transit to get to school. Race/Ethnicity Percentage Who Use Mass Transit to Get to School Overall student population Survey frequency Asian, Asian American, or Pacific Islander 10.2% 5.4% 113 Black or African-American 8.2% 14.5% 94 Hispanic or Latino 15.5% 15.9% 136 American Indian or Alaska Native 0.6% 1.2% 10 White 59.4% 61.6% 604 Not reported/other 6.1% 1.4% 43 Table 11.33",
+        "Question": "Perform a goodness-of-fit test to determine whether the local results follow the distribution of the U.S. overall student population based on ethnicity.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Goodness-of-Fit Test",
+        "Problem Statement": "Use the following information to answer the next two exercises: The columns in Table 11.33 contain the Race/Ethnicity of U.S. Public Schools for a recent year, the percentages for students using mass transit to get to school, and the Overall Student Population. Suppose the right column contains the result of a survey of 1,000 local students from that year who used mass transit to get to school. Race/Ethnicity Percentage Who Use Mass Transit to Get to School Overall student population Survey frequency Asian, Asian American, or Pacific Islander 10.2% 5.4% 113 Black or African-American 8.2% 14.5% 94 Hispanic or Latino 15.5% 15.9% 136 American Indian or Alaska Native 0.6% 1.2% 10 White 59.4% 61.6% 604 Not reported/other 6.1% 1.4% 43 Table 11.33",
+        "Question": "Perform a goodness-of-fit test to determine whether the local results follow the distribution of those who use mass transit, based on ethnicity.",
+        "Image Links": [],
+        "Answer": "a) H 0 : The local results follow the distribution of the percentage of students who use mass transit to get to school b) H a : The local results do not follow the distribution of the percentage of students who use mass transit to get to school c) df = 5 d) chi-square distribution with df = 5 e) chi-square test statistic = 13.4 f) Answers may vary. g) Alpha = 0.05 Decision: Cannot accept null when a = 0.05 Reason for Decision: Calculated value of test statistics is either in or out of the tail of the distribution. Conclusion: Local data do not fit the mass transit Distribution. Decision: Do not reject null when a = 0.01 Conclusion: There is insufficient evidence to conclude that local data do not follow the distribution of students who use mass transit distribution.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Goodness-of-Fit Test",
+        "Problem Statement": "Use the following information to answer the next two exercises: The columns in Table 11.33 contain the Race/Ethnicity of U.S. Public Schools for a recent year, the percentages for students using mass transit to get to school, and the Overall Student Population. Suppose the right column contains the result of a survey of 1,000 local students from that year who used mass transit to get to school. Race/Ethnicity Percentage Who Use Mass Transit to Get to School Overall student population Survey frequency Asian, Asian American, or Pacific Islander 10.2% 5.4% 113 Black or African-American 8.2% 14.5% 94 Hispanic or Latino 15.5% 15.9% 136 American Indian or Alaska Native 0.6% 1.2% 10 White 59.4% 61.6% 604 Not reported/other 6.1% 1.4% 43 Table 11.33",
+        "Question": "The City of South Lake Tahoe, CA, has an Asian population of 1,419 people, out of a total population of 23,609. Suppose that a survey of 1,419 self-reported Asians in the Manhattan, NY, area yielded the data in Table 11.34 . Conduct a goodness-of-fit test to determine if the self-reported sub-groups of Asians in the Manhattan area fit that of the Lake Tahoe area. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\nRace & Lake Tahoe frequency & Manhattan frequency \\\\ \\hline\nAsian Indian & 131 & 174 \\\\ \\hline\nChinese & 118 & 557 \\\\ \\hline\nFilipino & 1,045 & 518 \\\\ \\hline\nJapanese & 80 & 54 \\\\ \\hline\nKorean & 12 & 29 \\\\ \\hline\nVietnamese & 9 & 21 \\\\ \\hline\nOther & 24 & 66 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Goodness-of-Fit Test",
+        "Problem Statement": "Use the following information to answer the next two exercises: UCLA conducted a survey of more than 263,000 first-year students from 385 colleges in a certain year. Suppose a survey of 5,000 graduating women and 5,000 graduating men was done as a follow-up last year to determine what their actual majors were. The results are shown in the tables for Exercise 11.91 and Exercise 11.92 . The second column in each table does not add to 100% because of rounding.",
+        "Question": "Conduct a goodness-of-fit test to determine if the actual college majors of graduating women fit the distribution of their expected majors. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\nMajor & Women - expected major & Women - actual major \\\\ \\hline\nArts & Humanities & 14.0% & 670 \\\\ \\hline\nBiological Sciences & 8.4% & 410 \\\\ \\hline\nBusiness & 13.1% & 685 \\\\ \\hline\nEducation & 13.0% & 650 \\\\ \\hline\nEngineering & 2.6% & 145 \\\\ \\hline\nPhysical Sciences & 2.6% & 125 \\\\ \\hline\nProfessional & 18.9% & 975 \\\\ \\hline\nSocial Sciences & 13.0% & 605 \\\\ \\hline\nTechnical & 0.4% & 15 \\\\ \\hline\nOther & 5.8% & 300 \\\\ \\hline\nUndecided & 8.0% & 420 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "a) H 0 : The actual college majors of graduating women fit the distribution of their expected majors b) H a : The actual college majors of graduating women do not fit the distribution of their expected majors c) df = 10 d) chi-square distribution with df = 10 e) test statistic = 11.48 f) Answers may vary. g) Alpha = 0.05 Decision: Cannot reject null when a = 0.05 and a = 0.01 Reason for decision: Calculated value of test statistics is either in or out of the tail of the distribution. Conclusion: There is insufficient evidence to conclude that the distribution of actual college majors of graduating women fits the distribution of their expected majors.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Goodness-of-Fit Test",
+        "Problem Statement": "Use the following information to answer the next two exercises: UCLA conducted a survey of more than 263,000 first-year students from 385 colleges in a certain year. Suppose a survey of 5,000 graduating women and 5,000 graduating men was done as a follow-up last year to determine what their actual majors were. The results are shown in the tables for Exercise 11.91 and Exercise 11.92 . The second column in each table does not add to 100% because of rounding.",
+        "Question": "Conduct a goodness-of-fit test to determine if the actual college majors of graduating men fit the distribution of their expected majors. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\nMajor & Men - expected major & Men - actual major \\\\ \\hline\nArts & Humanities & 11.0% & 600 \\\\ \\hline\nBiological Sciences & 6.7% & 330 \\\\ \\hline\nBusiness & 22.7% & 1130 \\\\ \\hline\nEducation & 5.8% & 305 \\\\ \\hline\nEngineering & 15.6% & 800 \\\\ \\hline\nPhysical Sciences & 3.6% & 175 \\\\ \\hline\nProfessional & 9.3% & 460 \\\\ \\hline\nSocial Sciences & 7.6% & 370 \\\\ \\hline\nTechnical & 1.8% & 90 \\\\ \\hline\nOther & 8.2% & 400 \\\\ \\hline\nUndecided & 6.6% & 340 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Goodness-of-Fit Test",
+        "Problem Statement": "Read the statement and decide whether it is true or false.",
+        "Question": "In general, if the observed values and expected values of a goodness-of-fit test are not close together, then the test statistic can get very large and on a graph will be way out in the right tail.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Goodness-of-Fit Test",
+        "Problem Statement": "Read the statement and decide whether it is true or false.",
+        "Question": "Use a goodness-of-fit test to determine if high school principals believe that students are absent equally during the week or not.",
+        "Image Links": [],
+        "Answer": "true",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Goodness-of-Fit Test",
+        "Problem Statement": "Read the statement and decide whether it is true or false.",
+        "Question": "The test to use to determine if a six-sided die is fair is a goodness-of-fit test.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Goodness-of-Fit Test",
+        "Problem Statement": "Read the statement and decide whether it is true or false.",
+        "Question": "In a goodness-of fit test, if the p -value is 0.0113, in general, do not reject the null hypothesis.",
+        "Image Links": [],
+        "Answer": "false",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Goodness-of-Fit Test",
+        "Problem Statement": "Read the statement and decide whether it is true or false.",
+        "Question": "A sample of 212 commercial businesses was surveyed for recycling one commodity; a commodity here means any one type of recyclable material such as plastic or aluminum. Table 11.37 shows the business categories in the survey, the sample size of each category, and the number of businesses in each category that recycle one commodity. Based on the study, on average half of the businesses were expected to be recycling one commodity. As a result, the last column shows the expected number of businesses in each category that recycle one commodity. At the 5% significance level, perform a hypothesis test to determine if the observed number of businesses that recycle one commodity follows the uniform distribution of the expected values. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|}\n\\hline\nBusiness type & Number in class & Observed number that recycle one commodity & Expected number that recycle one commodity \\\\ \\hline\nOffice & 35 & 19 & 17.5 \\\\ \\hline\nRetail/Wholesale & 48 & 27 & 24 \\\\ \\hline\nFood/Restaurants & 53 & 35 & 26.5 \\\\ \\hline\nManufacturing/Medical & 52 & 21 & 26 \\\\ \\hline\nHotel/Mixed & 24 & 9 & 12 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Goodness-of-Fit Test",
+        "Problem Statement": "Read the statement and decide whether it is true or false.",
+        "Question": "Table 11.38 contains information from a survey among 499 participants classified according to their age groups. The second column shows the percentage of obese people per age class among the study participants. The last column comes from a different study at the national level that shows the corresponding percentages of obese people in the same age classes in the USA. Perform a hypothesis test at the 5% significance level to determine whether the survey participants are a representative sample of the USA obese population. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\nAge class (years) & Obese (percentage) & Expected USA average (percentage) \\\\ \\hline\n20-30 & 15.0 & 32.6 \\\\ \\hline\n31-40 & 26.5 & 32.6 \\\\ \\hline\n41-50 & 13.6 & 36.6 \\\\ \\hline\n51-60 & 21.9 & 36.6 \\\\ \\hline\n61-70 & 21.0 & 39.7 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "The hypotheses for the goodness-of-fit test are: a) H 0 : Surveyed obese fit the distribution of expected obese b) H a : Surveyed obese do not fit the distribution of expected obese Use a chi-square distribution with df = 4 to evaluate the data. The test statistic is X 2 = 9.85 The P -value = 0.0431 At 5% significance level, \u03b1 = 0.05. For this data, P < \u03b1. Reject the null hypothesis. At the 5% level of significance, from the data, there is sufficient evidence to conclude that the surveyed obese do not fit the distribution of expected obese.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Test of Independence",
+        "Problem Statement": "",
+        "Question": "A recent debate about where in the United States skiers believe the skiing is best prompted the following survey. Test to see if the best ski area is independent of the level of the skier. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|}\n\\hline\nU.S. ski area & Beginner & Intermediate & Advanced \\\\ \\hline\nTahoe & 20 & 30 & 40 \\\\ \\hline\nUtah & 10 & 30 & 60 \\\\ \\hline\nColorado & 10 & 40 & 50 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Test of Independence",
+        "Problem Statement": "",
+        "Question": "Car manufacturers are interested in whether there is a relationship between the size of car an individual drives and the number of people in the driver\u2019s family (that is, whether car size and family size are independent). To test this, suppose that 800 car owners were randomly surveyed with the  results in Table 11.40 . Conduct a test of independence. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\nFamily Size & Sub & Compact & Mid-size & Full-size & Van & Truck \\\\ \\hline\n1 & 20 & 35 & 40 & 35 \\\\ \\hline\n2 & 20 & 50 & 70 & 80 \\\\ \\hline\n3-4 & 20 & 50 & 100 & 90 \\\\ \\hline\n5+ & 20 & 30 & 70 & 70 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "a) H 0 : Car size is independent of family size. b) H a : Car size is dependent on family size. c) df = 9 d) chi-square distribution with df = 9 e) test statistic = 15.8284 f) Answers may vary. g) Alpha: 0.05 Decision: Cannot reject the null hypothesis. Reason for decision: Calculated value of test statistics is either in or out of the tail of the distribution. Conclusion: At the 5% significance level, there is insufficient evidence to conclude that car size and family size are dependent.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Test of Independence",
+        "Problem Statement": "",
+        "Question": "College students may be interested in whether or not their majors have any effect on starting salaries after graduation. Suppose that 300 recent graduates were surveyed as to their majors in college and their starting salaries after graduation. Table 11.41 shows the data. Conduct a test of independence. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|}\n\\hline\nMajor & < $50,000 & $50,000 - $68,999 & $69,000 + \\\\ \\hline\nEnglish & 5 & 20 & 5 \\\\ \\hline\nEngineering & 10 & 30 & 60 \\\\ \\hline\nNursing & 10 & 15 & 15 \\\\ \\hline\nBusiness & 10 & 20 & 30 \\\\ \\hline\nPsychology & 20 & 30 & 20 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Test of Independence",
+        "Problem Statement": "",
+        "Question": "Some travel agents claim that honeymoon hot spots vary according to age of the bride. Suppose that 280 recent brides were interviewed as to where they spent their honeymoons. The information is given in Table 11.42 . Conduct a test of independence. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\nLocation & 20-29 & 30-39 & 40-49 & 50 and over \\\\ \\hline\nNiagara Falls & 15 & 25 & 25 & 20 \\\\ \\hline\nPoconos & 15 & 25 & 25 & 10 \\\\ \\hline\nEurope & 10 & 25 & 15 & 5 \\\\ \\hline\nVirgin Islands & 20 & 25 & 15 & 5 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "a) H 0 : Honeymoon locations are independent of bride\u2019s age. b) H a : Honeymoon locations are dependent on bride\u2019s age. c) df = 9 d) chi-square distribution with df = 9 e) test statistic = 15.7027 f) Answers may vary. g) Alpha: 0.05 Decision: Cannot reject the null hypothesis. Reason for decision: Calculated value of test statistics is either in or out of the tail of the distribution. Conclusion: At the 5% significance level, there is insufficient evidence to conclude that honeymoon location and bride age are dependent.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Test of Independence",
+        "Problem Statement": "",
+        "Question": "A manager of a sports club keeps information concerning the main sport in which members participate and their ages. To test whether there is a relationship between the age of a member and their choice of sport, 643 members of the sports club are randomly selected. Conduct a test of independence. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\nSport & 18 - 25 & 26 - 30 & 31 - 40 & 41 and over \\\\ \\hline\nRacquetball & 42 & 58 & 30 & 46 \\\\ \\hline\nTennis & 58 & 76 & 38 & 65 \\\\ \\hline\nSwimming & 72 & 60 & 65 & 33 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Test of Independence",
+        "Problem Statement": "",
+        "Question": "A major food manufacturer is concerned that the sales for its skinny french fries have been decreasing. As a part of a feasibility study, the company conducts research into the types of fries sold across the country to determine if the type of fries sold is independent of the area of the country. The results of the study are shown in Table 11.44 . Conduct a test of independence. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\nType of Fries & Northeast & South & Central & West \\\\ \\hline\nSkinny fries & 70 & 50 & 20 & 25 \\\\ \\hline\nCurly fries & 100 & 60 & 15 & 30 \\\\ \\hline\nSteak fries & 20 & 40 & 10 & 10 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "a) H 0 : The types of fries sold are independent of the location. b) H a : The types of fries sold are dependent on the location. c) df = 6 d) chi-square distribution with df = 6 e) test statistic =18.8369 f) Answers may vary. g) Alpha: 0.05 Decision: Cannot accept the null hypothesis. Reason for decision: Calculated value of test statistics is either in or out of the tail of the distribution. Conclusion: At the 5% significance level, There is sufficient evidence that types of fries and location are dependent.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Test of Independence",
+        "Problem Statement": "",
+        "Question": "According to Dan Lenard, an independent insurance agent in the Buffalo, N.Y. area, the following is a breakdown of the amount of life insurance purchased by men in the following age groups. He is interested in whether the age of the man and the amount of life insurance purchased are independent events. Conduct a test for independence. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\nAge of Men & None & < $200,000 & $200,000-$400,000 & $401,001-$1,000,000 & $1,000,001+ \\\\ \\hline\n20-29 & 40 & 15 & 40 & 0 & 5 \\\\ \\hline\n30-39 & 35 & 5 & 20 & 20 & 10 \\\\ \\hline\n40-49 & 20 & 0 & 30 & 0 & 30 \\\\ \\hline\n50+ & 40 & 30 & 15 & 15 & 10 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Test of Independence",
+        "Problem Statement": "",
+        "Question": "Suppose that 600 thirty-year-olds were surveyed to determine whether or not there is a relationship between the level of education an individual has and salary. Conduct a test of independence. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\nAnnual salary & Not a high school graduate & High school graduate & College graduate & Masters or doctorate \\\\ \\hline\n< $30,000 & 15 & 25 & 10 & 5 \\\\ \\hline\n$30,000-$40,000 & 20 & 40 & 70 & 30 \\\\ \\hline\n$40,000-$50,000 & 10 & 20 & 40 & 55 \\\\ \\hline\n$50,000-$60,000 & 5 & 10 & 20 & 60 \\\\ \\hline\n$60,000+ & 0 & 5 & 10 & 150 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "a) H 0 : Salary is independent of level of education. b) H a : Salary is dependent on level of education. c) df = 12 d) chi-square distribution with df = 12 e) test statistic = 255.7704 f) Answers may vary. g) Alpha: 0.05 Decision: Cannot accept the null hypothesis. Reason for decision: Calculated value of test statistics is either in or out of the tail of the distribution. Conclusion: At the 5% significance level, there is sufficient evidence to conclude that salary and level of education are dependent.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Test of Independence",
+        "Problem Statement": "Read the statement and decide whether it is true or false.",
+        "Question": "The number of degrees of freedom for a test of independence is equal to the sample size minus one.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Test of Independence",
+        "Problem Statement": "Read the statement and decide whether it is true or false.",
+        "Question": "The test for independence uses tables of observed and expected data values.",
+        "Image Links": [],
+        "Answer": "true",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Test of Independence",
+        "Problem Statement": "Read the statement and decide whether it is true or false.",
+        "Question": "The test to use when determining if the college or university a student chooses to attend is related to their socioeconomic status is a test for independence.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Test of Independence",
+        "Problem Statement": "Read the statement and decide whether it is true or false.",
+        "Question": "In a test of independence, the expected number is equal to the row total multiplied by the column total divided by the total surveyed.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Test of Independence",
+        "Problem Statement": "Read the statement and decide whether it is true or false.",
+        "Question": "An ice cream maker performs a nationwide survey about favorite flavors of ice cream in different geographic areas of the U.S. Based on Table 11.47 , do the numbers suggest that geographic location is independent of favorite ice cream flavors? Test at the 5% significance level. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|c|}\n\\hline\nU.S. region/Flavor & Strawberry & Chocolate & Vanilla & Rocky road & Mint chocolate chip & Pistachio & Row total \\\\ \\hline\nWest & 12 & 21 & 22 & 19 & 15 & 8 & 97 \\\\ \\hline\nMidwest & 10 & 32 & 22 & 11 & 15 & 6 & 96 \\\\ \\hline\nEast & 8 & 31 & 27 & 8 & 15 & 7 & 96 \\\\ \\hline\nSouth & 15 & 28 & 30 & 8 & 15 & 6 & 102 \\\\ \\hline\nColumn total & 45 & 112 & 101 & 46 & 60 & 27 & 391 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Test of Independence",
+        "Problem Statement": "Read the statement and decide whether it is true or false.",
+        "Question": "Table 11.48 provides a recent survey of the youngest online entrepreneurs whose net worth is estimated at one million dollars or more. Their ages range from 17 to 30. Each cell in the table illustrates the number of entrepreneurs who correspond to the specific age group and their net worth. Are the ages and net worth independent? Perform a test of independence at the 5% significance level. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\nAge group\\ Net worth value (in millions of US dollars) & 1-5 & 6-24 & \u226525 & Row total \\\\ \\hline\n17-25 & 8 & 7 & 5 & 20 \\\\ \\hline\n26-30 & 6 & 5 & 9 & 20 \\\\ \\hline\nColumn total & 14 & 12 & 14 & 40 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "a) H 0 : Age is independent of the youngest online entrepreneurs\u2019 net worth. b) H a : Age is dependent on the net worth of the youngest online entrepreneurs. c) df = 2 d) chi-square distribution with df = 2 e) test statistic = 1.76 f) Answers may vary. g) Alpha: 0.05 Decision: Cannot reject the null hypothesis. Reason for decision: Calculated value of test statistics is either in or out of the tail of the distribution. Conclusion: At the 5% significance level, there is insufficient evidence to conclude that age and net worth for the youngest online entrepreneurs are dependent.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Test of Independence",
+        "Problem Statement": "Read the statement and decide whether it is true or false.",
+        "Question": "A poll in California surveyed people about taxing sugar-sweetened beverages. The results are presented in Table 11.49 , and are classified by ethnic group and response type. Are the poll responses independent of the participants\u2019 ethnic group? Conduct a test of independence at the 5% significance level. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\nOpinion/Ethnicity & Asian-American & White/Non-Hispanic & Black & Hispanic/Latino & Row total \\\\ \\hline\nAgainst tax & 48 & 433 & 41 & 160 & 682 \\\\ \\hline\nIn favor of tax & 54 & 234 & 24 & 147 & 459 \\\\ \\hline\nNo opinion & 16 & 43 & 16 & 19 & 94 \\\\ \\hline\nColumn total & 118 & 710 & 81 & 326 & 1235 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.5 Test for Homogeneity",
+        "Problem Statement": "",
+        "Question": "A psychologist is interested in testing whether there is a difference in the distribution of personality types for business majors and social science majors. The results of the study are shown in Table 11.50 . Conduct a test of homogeneity. Test at a 5% level of significance. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\n & Open & Conscientious & Extrovert & Agreeable & Neurotic \\\\ \\hline\nBusiness & 41 & 52 & 46 & 61 & 58 \\\\ \\hline\nSocial Science & 72 & 75 & 63 & 80 & 65 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "a) H 0 :  The distribution for personality types is the same for both majors b) H a : The distribution for personality types is not the same for both majors c) df = 4 d) chi-square with df = 4 e) test statistic = 3.01 f) Answers may vary. g) Alpha: 0.05 Decision: Cannot reject the null hypothesis. Reason for decision:   Calculated value of test statistics is either in or out of the tail of the distribution. Conclusion:  There is insufficient evidence to conclude that the distribution of personality types is different for business and social science majors.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.5 Test for Homogeneity",
+        "Problem Statement": "",
+        "Question": "Do men and women select different breakfasts? The breakfasts ordered by randomly selected men and women at a popular breakfast place is shown in Table 11.51 . Conduct a test for homogeneity at a 5% level of significance. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\n & French toast & Pancakes & Waffles & Omelettes \\\\ \\hline\nMen & 47 & 35 & 28 & 53 \\\\ \\hline\nWomen & 65 & 59 & 55 & 60 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.5 Test for Homogeneity",
+        "Problem Statement": "",
+        "Question": "A fish and wildlife technician is interested in whether the distribution of fish caught in Green Valley Lake is the same as the distribution of fish caught in Echo Lake. Of the 191 randomly selected fish caught in Green Valley Lake, 105 were rainbow trout, 27 were other trout, 35 were bass, and 24 were catfish. Of the 293 randomly selected fish caught in Echo Lake, 115 were rainbow trout, 58 were other trout, 67 were bass, and 53 were catfish. Perform a test for homogeneity at a 5% level of significance.",
+        "Image Links": [],
+        "Answer": "a) H 0 : The distribution for fish caught is the same in Green Valley Lake and in Echo Lake. b) H a : The distribution for fish caught is not the same in Green Valley Lake and in Echo Lake. c) 3 d) chi-square with df = 3 e) 11.75 f) Answers may vary. g) Alpha: 0.05 Decision: Cannot accept the null hypothesis. Reason for decision: Calculated value of test statistics is either in or out of the tail of the distribution. Conclusion: There is evidence to conclude that the distribution of fish caught is different in Green Valley Lake and in Echo Lake",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.5 Test for Homogeneity",
+        "Problem Statement": "",
+        "Question": "In a recent year, the United States had 1.5 million homeschooled students, according to the U.S. National Center for Education Statistics. In Table 11.52 you can see that parents decide to homeschool their children for different reasons, and some reasons are ranked by parents as more important than others. According to the survey results shown in the table, is the distribution of applicable reasons the same as the distribution of the most important reason? Provide your assessment at the 5% significance level. Did you expect the result you obtained? \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|}\n\\hline\nReasons for Homeschooling & Applicable reason (in thousands of respondents) & Most important reason (in thousands of respondents) & Row total \\\\ \\hline\nConcern about the environment of other schools & 1,321 & 309 & 1,630 \\\\ \\hline\nDissatisfaction with academic instruction at other schools & 1,096 & 258 & 1,354 \\\\ \\hline\nTo provide religious or moral instruction & 1,257 & 540 & 1,797 \\\\ \\hline\nChild has special needs, other than physical or mental & 315 & 55 & 370 \\\\ \\hline\nNontraditional approach to child\u2019s education & 984 & 99 & 1,083 \\\\ \\hline\nOther reasons (e.g., finances, travel, family time, etc.) & 485 & 216 & 701 \\\\ \\hline\nColumn total & 5,458 & 1,477 & 6,935 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.5 Test for Homogeneity",
+        "Problem Statement": "",
+        "Question": "When looking at energy consumption, we are often interested in detecting trends over time and how they correlate among different countries. The information in Table 11.53 shows the average energy use (in units of kg of oil equivalent per capita) in the USA and the joint European Union countries (EU) for a specific six-year period. Do the energy use values in these two areas come from the same distribution? Perform the analysis at the 5% significance level. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|}\n\\hline\nYear & European Union & United States & Row total \\\\ \\hline\n6 & 3,413 & 7,164 & 10,557 \\\\ \\hline\n5 & 3,302 & 7,057 & 10,359 \\\\ \\hline\n4 & 3,505 & 7,488 & 10,993 \\\\ \\hline\n3 & 3,537 & 7,758 & 11,295 \\\\ \\hline\n2 & 3,595 & 7,697 & 11,292 \\\\ \\hline\n1 & 3,613 & 7,847 & 11,460 \\\\ \\hline\nColumn total & 20,965 & 45,011 & 65,976 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "a) H 0 : The distribution of average energy use in the USA is the same as in Europe between Year 1 and Year 6. b) H a : The distribution of average energy use in the USA is not the same as in Europe between Year 1 and Year 6. c) df = 4 d) chi-square with df = 4 e) test statistic = 2.7434 f) Answers may vary. g) Alpha: 0.05 Decision: Cannot reject the null hypothesis. Reason for decision: Calculated value of test statistics is either in or out of the tail of the distribution. Conclusion: At the 5% significance level, there is insufficient evidence to conclude that the average energy use values in the US and EU are not derived from different distributions for the period from Year 1 to Year 6.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.5 Test for Homogeneity",
+        "Problem Statement": "",
+        "Question": "The Insurance Institute for Highway Safety collects safety information about all types of cars every year, and publishes a report of Top Safety Picks among all cars, makes, and models. Table 11.54 presents the number of Top Safety Picks in six car categories for specific two years. Analyze the table data to conclude whether the distribution of cars that earned the Top Safety Picks safety award has remained the same between Year 1 and Year 2. Derive your results at the 5% significance level. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|c|}\n\\hline\nYear \\ Car type & Small & Mid-size & Large & Small SUV & Mid-size SUV & Large SUV & Row total \\\\ \\hline\nYear 1 & 12 & 22 & 10 & 10 & 27 & 6 & 87 \\\\ \\hline\nYear 2 & 31 & 30 & 19 & 11 & 29 & 4 & 124 \\\\ \\hline\nColumn total & 43 & 52 & 29 & 21 & 56 & 10 & 211 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.6 Comparison of the Chi-Square Tests",
+        "Problem Statement": "",
+        "Question": "Is there a difference between the distribution of community college statistics students and the distribution of university statistics students in what technology they use on their homework? Of some randomly selected community college students, 43 used a computer, 102 used a calculator with built in statistics functions, and 65 used a table from the textbook. Of some randomly selected university students, 28 used a computer, 33 used a calculator with built in statistics functions, and 40 used a table from the textbook. Conduct an appropriate hypothesis test using a 0.05 level of significance.",
+        "Image Links": [],
+        "Answer": "a) H 0 : The distribution for technology use is the same for community college students and university students. b) H a : The distribution for technology use is not the same for community college students and university students. c) 2 d) chi-square with df = 2 e) 7.05 f) p -value = 0.0294 g) Answers may vary. h) Alpha: 0.05 Decision: Cannot accept the null hypothesis. Reason for decision: p -value < alpha Conclusion: There is sufficient evidence to conclude that the distribution of technology use for statistics homework is not the same for statistics students at community colleges and at universities.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.6 Comparison of the Chi-Square Tests",
+        "Problem Statement": "Read the statement and decide whether it is true or false.",
+        "Question": "If df = 2, the chi-square distribution has a shape that reminds us of the exponential.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]
