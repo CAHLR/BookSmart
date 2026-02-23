@@ -1,0 +1,428 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "If $$f ( x ) = \\sum_{n = 0}^{\\infty} \\frac{x^{n}}{n \\text{!}}$$ and $$g ( x ) = \\sum_{n = 0}^{\\infty} ( -1 )^{n} \\frac{x^{n}}{n \\text{!}} ,$$ find the power series of $$\\frac{1}{2} ( f ( x ) + g ( x ) )$$ and of $$\\frac{1}{2} ( f ( x ) - g ( x ) ) .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{2} ( f ( x ) + g ( x ) ) = \\sum_{n = 0}^{\\infty} \\frac{x^{2 n}}{( 2 n ) \\text{!}}$$ and $$\\frac{1}{2} ( f ( x ) - g ( x ) ) = \\sum_{n = 0}^{\\infty} \\frac{x^{2 n + 1}}{( 2 n + 1 ) \\text{!}} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "If $$C ( x ) = \\sum_{n = 0}^{\\infty} \\frac{x^{2 n}}{( 2 n ) \\text{!}}$$ and $$S ( x ) = \\sum_{n = 0}^{\\infty} \\frac{x^{2 n + 1}}{( 2 n + 1 ) \\text{!}} ,$$ find the power series of $$C ( x ) + S ( x )$$ and of $$C ( x ) - S ( x ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use partial fractions to find the power series of each function.",
+        "Question": "$$\\frac{4}{( x - 3 ) ( x + 1 )}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{4}{( x - 3 ) ( x + 1 )} = \\frac{1}{x - 3} - \\frac{1}{x + 1} = - \\frac{1}{3 ( 1 - \\frac{x}{3} )} - \\frac{1}{1 - ( \\text{unicode[:-]} x )} = - \\frac{1}{3} \\sum_{n = 0}^{\\infty} ( \\frac{x}{3} )^{n} - \\sum_{n = 0}^{\\infty} ( -1 )^{n} x^{n} = \\sum_{n = 0}^{\\infty} ( ( -1 )^{n + 1} - \\frac{1}{3^{n + 1}} ) x^{n}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use partial fractions to find the power series of each function.",
+        "Question": "$$\\frac{3}{( x + 2 ) ( x - 1 )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use partial fractions to find the power series of each function.",
+        "Question": "$$\\frac{5}{( x^{2} + 4 ) ( x^{2} - 1 )}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{5}{( x^{2} + 4 ) ( x^{2} - 1 )} = \\frac{1}{x^{2} - 1} - \\frac{1}{4} \\frac{1}{1 + ( \\frac{x}{2} )^{2}} = \\text{unicode[:-]} \\sum_{n = 0}^{\\infty} x^{2 n} - \\frac{1}{4} \\sum_{n = 0}^{\\infty} ( -1 )^{n} ( \\frac{x}{2} )^{2 n} = \\sum_{n = 0}^{\\infty} ( - 1 + ( -1 ) \\cdotp^{n + 1} \\frac{1}{2^{n + 2}} ) x^{2 n}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use partial fractions to find the power series of each function.",
+        "Question": "$$\\frac{30}{( x^{2} + 1 ) ( x^{2} - 9 )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, express each series as a rational function.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{1}{x^{n}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{x} \\sum_{n = 0}^{\\infty} \\frac{1}{x^{n}} = \\frac{1}{x} \\frac{1}{1 - \\frac{1}{x}} = \\frac{1}{x - 1}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, express each series as a rational function.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{1}{x^{2 n}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, express each series as a rational function.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{1}{( x - 3 )^{2 n - 1}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{x - 3} \\frac{1}{1 - \\frac{1}{( x - 3 )^{2}}} = \\frac{x - 3}{( x - 3 )^{2} - 1}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, express each series as a rational function.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} ( \\frac{1}{( x - 3 )^{2 n - 1}} - \\frac{1}{( x - 2 )^{2 n - 1}} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The following exercises explore applications of annuities .",
+        "Question": "Calculate the present values P of an annuity in which $10,000 is to be paid out annually for a period of 20 years, assuming interest rates of $$r = 0.03 , r = 0.05 ,$$ and $$r = 0.07 .$$",
+        "Image Links": [],
+        "Answer": "$$P = P_{1} + \\text{cdots} + P_{20}$$ where $$P_{k} = 10,000 \\frac{1}{( 1 + r )^{k}} .$$ Then $$P = 10,000 \\sum_{k = 1}^{20} \\frac{1}{( 1 + r )^{k}} = 10,000 \\frac{1 - ( 1 + r )^{-20}}{r} .$$ When $$r = 0.03 , P \\approx 10,000 \\times 14.8775 = 148,775 .$$ When $$r = 0.05 , P \\approx 10,000 \\times 12.4622 = 124,622 .$$ When $$r = 0.07 , P \\approx 105,940 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The following exercises explore applications of annuities .",
+        "Question": "Calculate the present values P of annuities in which $9,000 is to be paid out annually perpetually, assuming interest rates of $$r = 0.03 , r = 0.05$$ and $$r = 0.07 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The following exercises explore applications of annuities .",
+        "Question": "Calculate the annual payouts C to be given for 20 years on annuities having present value $100,000 assuming respective interest rates of $$r = 0.03 , r = 0.05 ,$$ and $$r = 0.07 .$$",
+        "Image Links": [],
+        "Answer": "In general, $$P = \\frac{C ( 1 - ( 1 + r )^{\\text{unicode[:-]} N} )}{r}$$ for N years of payouts, or $$C = \\frac{P r}{1 - ( 1 + r )^{\\text{unicode[:-]} N}} .$$ For $$N = 20$$ and $$P = 100,000 ,$$ one has $$C = 6721.57$$ when $$r = 0.03 ; C = 8024.26$$ when $$r = 0.05 ;$$ and $$C \\approx 9439.29$$ when $$r = 0.07 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The following exercises explore applications of annuities .",
+        "Question": "Calculate the annual payouts C to be given perpetually on annuities having present value $100,000 assuming respective interest rates of $$r = 0.03 , r = 0.05 ,$$ and $$r = 0.07 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The following exercises explore applications of annuities .",
+        "Question": "Suppose that an annuity has a present value $$P = 1 \\text{million dollars} .$$ What interest rate r would allow for perpetual annual payouts of $50,000?",
+        "Image Links": [],
+        "Answer": "In general, $$P = \\frac{C}{r} .$$ Thus, $$r = \\frac{C}{P} = 5 \\times \\frac{10^{4}}{10^{6}} = 0.05 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The following exercises explore applications of annuities .",
+        "Question": "Suppose that an annuity has a present value $$P = 10 \\text{million dollars} \\text{.}$$ What interest rate r would allow for perpetual annual payouts of $100,000?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, express the sum of each power series in terms of geometric series, and then express the sum as a rational function.",
+        "Question": "$$x + x^{2} - x^{3} + x^{4} + x^{5} - x^{6} + \\text{cdots}$$ ( Hint: Group powers x 3 k , $$x^{3 k - 1} ,$$ and $$x^{3 k - 2} . )$$",
+        "Image Links": [],
+        "Answer": "$$( x + x^{2} - x^{3} ) ( 1 + x^{3} + x^{6} + \\text{cdots} ) = \\frac{x + x^{2} - x^{3}}{1 - x^{3}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, express the sum of each power series in terms of geometric series, and then express the sum as a rational function.",
+        "Question": "$$x + x^{2} - x^{3} - x^{4} + x^{5} + x^{6} - x^{7} - x^{8} + \\text{cdots}$$ ( Hint: Group powers x 4 k , $$x^{4 k - 1} ,$$ etc.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, express the sum of each power series in terms of geometric series, and then express the sum as a rational function.",
+        "Question": "$$x - x^{2} - x^{3} + x^{4} - x^{5} - x^{6} + x^{7} - \\text{cdots}$$ ( Hint: Group powers x 3 k , $$x^{3 k - 1} ,$$ and $$x^{3 k - 2} . )$$",
+        "Image Links": [],
+        "Answer": "$$( x - x^{2} - x^{3} ) ( 1 + x^{3} + x^{6} + \\text{cdots} ) = \\frac{x - x^{2} - x^{3}}{1 - x^{3}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, express the sum of each power series in terms of geometric series, and then express the sum as a rational function.",
+        "Question": "$$\\frac{x}{2} + \\frac{x^{2}}{4} - \\frac{x^{3}}{8} + \\frac{x^{4}}{16} + \\frac{x^{5}}{32} - \\frac{x^{6}}{64} + \\text{cdots}$$ ( Hint: Group powers $$( \\frac{x}{2} )^{3 k} , ( \\frac{x}{2} )^{3 k - 1} ,$$ and $$( \\frac{x}{2} )^{3 k - 2} . )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the power series of $$f ( x ) g ( x )$$ given f and g as defined.",
+        "Question": "$$f ( x ) = 2 \\sum_{n = 0}^{\\infty} x^{n} , g ( x ) = \\sum_{n = 0}^{\\infty} n x^{n}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = 2 , b_{n} = n$$ so $$c_{n} = \\sum_{k = 0}^{n} b_{k} a_{n - k} = 2 \\sum_{k = 0}^{n} k = ( n ) ( n + 1 )$$ and $$f ( x ) g ( x ) = \\sum_{n = 1}^{\\infty} n ( n + 1 ) x^{n}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the power series of $$f ( x ) g ( x )$$ given f and g as defined.",
+        "Question": "$$f ( x ) = \\sum_{n = 1}^{\\infty} x^{n} , g ( x ) = \\sum_{n = 1}^{\\infty} \\frac{1}{n} x^{n} .$$ Express the coefficients of $$f ( x ) g ( x )$$ in terms of $$H_{n} = \\sum_{k = 1}^{n} \\frac{1}{k} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the power series of $$f ( x ) g ( x )$$ given f and g as defined.",
+        "Question": "$$f ( x ) = g ( x ) = \\sum_{n = 1}^{\\infty} ( \\frac{x}{2} )^{n}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = b_{n} = 2^{\\text{unicode[:-]} n}$$ so $$c_{n} = \\sum_{k = 1}^{n} b_{k} a_{n - k} = 2^{\\text{unicode[:-]} n} \\sum_{k = 1}^{n} 1 = \\frac{n}{2^{n}}$$ and $$f ( x ) g ( x ) = \\sum_{n = 1}^{\\infty} n ( \\frac{x}{2} )^{n}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the power series of $$f ( x ) g ( x )$$ given f and g as defined.",
+        "Question": "$$f ( x ) = g ( x ) = \\sum_{n = 1}^{\\infty} n x^{n}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, differentiate the given series expansion of f term-by-term to obtain the corresponding series expansion for the derivative of f .",
+        "Question": "$$f ( x ) = \\frac{1}{1 + x} = \\sum_{n = 0}^{\\infty} ( -1 )^{n} x^{n}$$",
+        "Image Links": [],
+        "Answer": "The derivative of $$f$$ is $$- \\frac{1}{( 1 + x )^{2}} = \\text{unicode[:-]} \\sum_{n = 0}^{\\infty} ( -1 )^{n} ( n + 1 ) x^{n} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, differentiate the given series expansion of f term-by-term to obtain the corresponding series expansion for the derivative of f .",
+        "Question": "$$f ( x ) = \\frac{1}{1 - x^{2}} = \\sum_{n = 0}^{\\infty} x^{2 n}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, integrate the given series expansion of $$f$$ term-by-term from zero to x to obtain the corresponding series expansion for the indefinite integral of $$f .$$",
+        "Question": "$$f ( x ) = \\frac{2 x}{( 1 + x^{2} )^{2}} = \\sum_{n = 1}^{\\infty} ( -1 )^{n} ( 2 n ) x^{2 n - 1}$$",
+        "Image Links": [],
+        "Answer": "The indefinite integral of $$f$$ is $$- \\frac{1}{1 + x^{2}} = \\sum_{n = 0}^{\\infty} ( -1 )^{n} x^{2 n} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, integrate the given series expansion of $$f$$ term-by-term from zero to x to obtain the corresponding series expansion for the indefinite integral of $$f .$$",
+        "Question": "$$f ( x ) = \\frac{2 x}{1 + x^{2}} = 2 \\sum_{n = 0}^{\\infty} ( -1 )^{n} x^{2 n + 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate each infinite series by identifying it as the value of a derivative or integral of geometric series.",
+        "Question": "Evaluate $$\\sum_{n = 1}^{\\infty} \\frac{n}{2^{n}}$$ as $$f^{\\prime} ( \\frac{1}{2} )$$ where $$f ( x ) = \\sum_{n = 0}^{\\infty} x^{n} .$$",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = \\sum_{n = 0}^{\\infty} x^{n} = \\frac{1}{1 - x} ; f^{\\prime} ( \\frac{1}{2} ) = \\sum_{n = 1}^{\\infty} \\frac{n}{2^{n - 1}} = {\\frac{d}{d x} ( 1 - x )^{-1} |}_{x = 1 \\text{/} 2} = {\\frac{1}{( 1 - x )^{2}} |}_{x = 1 \\text{/} 2} = 4$$ so $$\\sum_{n = 1}^{\\infty} \\frac{n}{2^{n}} = 2 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate each infinite series by identifying it as the value of a derivative or integral of geometric series.",
+        "Question": "Evaluate $$\\sum_{n = 1}^{\\infty} \\frac{n}{3^{n}}$$ as $$f^{\\prime} ( \\frac{1}{3} )$$ where $$f ( x ) = \\sum_{n = 0}^{\\infty} x^{n} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate each infinite series by identifying it as the value of a derivative or integral of geometric series.",
+        "Question": "Evaluate $$\\sum_{n = 2}^{\\infty} \\frac{n ( n - 1 )}{2^{n}}$$ as $$f^{\\second} ( \\frac{1}{2} )$$ where $$f ( x ) = \\sum_{n = 0}^{\\infty} x^{n} .$$",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = \\sum_{n = 0}^{\\infty} x^{n} = \\frac{1}{1 - x} ; f^{\\second} ( \\frac{1}{2} ) = \\sum_{n = 2}^{\\infty} \\frac{n ( n - 1 )}{2^{n - 2}} = {\\frac{d^{2}}{d x^{2}} ( 1 - x )^{-1} |}_{x = 1 \\text{/} 2} = {\\frac{2}{( 1 - x )^{3}} |}_{x = 1 \\text{/} 2} = 16$$ so $$\\sum_{n = 2}^{\\infty} \\frac{n ( n - 1 )}{2^{n}} = 4 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate each infinite series by identifying it as the value of a derivative or integral of geometric series.",
+        "Question": "Evaluate $$\\sum_{n = 0}^{\\infty} \\frac{( -1 )^{n}}{2 n + 1}$$ as $$\\int_{0}^{1} f ( t ) d t$$ where $$f ( x ) = \\sum_{n = 0}^{\\infty} ( -1 )^{n} x^{2 n} = \\frac{1}{1 + x^{2}} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given that $$\\frac{1}{1 - x} = \\sum_{n = 0}^{\\infty} x^{n} ,$$ use term-by-term differentiation or integration to find power series for each function centered at the given point.",
+        "Question": "$$f ( x ) = \\text{ln} x$$ centered at $$x = 1$$ ( Hint: $$x = 1 - ( 1 - x ) )$$",
+        "Image Links": [],
+        "Answer": "$$\\int \\sum ( 1 - x )^{n} d x = \\int \\sum ( -1 )^{n} ( x - 1 )^{n} d x = \\sum \\frac{( -1 )^{n} ( x - 1 )^{n + 1}}{n + 1}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given that $$\\frac{1}{1 - x} = \\sum_{n = 0}^{\\infty} x^{n} ,$$ use term-by-term differentiation or integration to find power series for each function centered at the given point.",
+        "Question": "$$\\text{ln} ( 1 - x )$$ at $$x = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given that $$\\frac{1}{1 - x} = \\sum_{n = 0}^{\\infty} x^{n} ,$$ use term-by-term differentiation or integration to find power series for each function centered at the given point.",
+        "Question": "$$\\text{ln} ( 1 - x^{2} )$$ at $$x = 0$$",
+        "Image Links": [],
+        "Answer": "$$\\text{unicode[:-]} \\int_{t = 0}^{x^{2}} \\frac{1}{1 - t} d t = \\text{unicode[:-]} \\sum_{n = 0}^{\\infty} \\int_{0}^{x^{2}} t^{n} d x - \\sum_{n = 0}^{\\infty} \\frac{x^{2 ( n + 1 )}}{n + 1} = \\text{unicode[:-]} \\sum_{n = 1}^{\\infty} \\frac{x^{2 n}}{n}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given that $$\\frac{1}{1 - x} = \\sum_{n = 0}^{\\infty} x^{n} ,$$ use term-by-term differentiation or integration to find power series for each function centered at the given point.",
+        "Question": "$$f ( x ) = \\frac{2 x}{( 1 - x^{2} )^{2}}$$ at $$x = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given that $$\\frac{1}{1 - x} = \\sum_{n = 0}^{\\infty} x^{n} ,$$ use term-by-term differentiation or integration to find power series for each function centered at the given point.",
+        "Question": "$$f ( x ) = \\text{tan}^{-1} ( x^{2} )$$ at $$x = 0$$",
+        "Image Links": [],
+        "Answer": "$$\\int_{0}^{x^{2}} \\frac{d t}{1 + t^{2}} = \\sum_{n = 0}^{\\infty} ( -1 )^{n} \\int_{0}^{x^{2}} t^{2 n} d t = \\sum_{n = 0}^{\\infty} ( -1 )^{n} \\frac{t^{2 n + 1}}{2 n + 1} |_{t = 0}^{x^{2}} = \\sum_{n = 0}^{\\infty} ( -1 )^{n} \\frac{x^{4 n + 2}}{2 n + 1}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given that $$\\frac{1}{1 - x} = \\sum_{n = 0}^{\\infty} x^{n} ,$$ use term-by-term differentiation or integration to find power series for each function centered at the given point.",
+        "Question": "$$f ( x ) = \\text{ln} ( 1 + x^{2} )$$ at $$x = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given that $$\\frac{1}{1 - x} = \\sum_{n = 0}^{\\infty} x^{n} ,$$ use term-by-term differentiation or integration to find power series for each function centered at the given point.",
+        "Question": "$$f ( x ) = \\int_{0}^{x} \\text{ln} t d t$$ where $$\\text{ln} ( x ) = \\sum_{n = 1}^{\\infty} ( -1 )^{n - 1} \\frac{( x - 1 )^{n}}{n}$$",
+        "Image Links": [],
+        "Answer": "Term-by-term integration gives $$\\int_{0}^{x} \\text{ln} t d t = \\sum_{n = 1}^{\\infty} ( -1 )^{n - 1} \\frac{( x - 1 )^{n + 1}}{n ( n + 1 )} = \\sum_{n = 1}^{\\infty} ( -1 )^{n - 1} ( \\frac{1}{n} - \\frac{1}{n + 1} ) ( x - 1 )^{n + 1} = ( x - 1 ) \\text{ln} x + \\sum_{n = 2}^{\\infty} ( -1 )^{n} \\frac{( x - 1 )^{n}}{n} = x \\text{ln} x - x .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given that $$\\frac{1}{1 - x} = \\sum_{n = 0}^{\\infty} x^{n} ,$$ use term-by-term differentiation or integration to find power series for each function centered at the given point.",
+        "Question": "[T] Evaluate the power series expansion $$\\text{ln} ( 1 + x ) = \\sum_{n = 1}^{\\infty} ( -1 )^{n - 1} \\frac{x^{n}}{n}$$ at $$x = 1$$ to show that $$\\text{ln} ( 2 )$$ is the sum of the alternating harmonic series. Use the alternating series test to determine how many terms of the sum are needed to estimate $$\\text{ln} ( 2 )$$ accurate to within 0.001, and find such an approximation.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given that $$\\frac{1}{1 - x} = \\sum_{n = 0}^{\\infty} x^{n} ,$$ use term-by-term differentiation or integration to find power series for each function centered at the given point.",
+        "Question": "[T] Subtract the infinite series of $$\\text{ln} ( 1 - x )$$ from $$\\text{ln} ( 1 + x )$$ to get a power series for $$\\text{ln} ( \\frac{1 + x}{1 - x} ) .$$ Evaluate at $$x = \\frac{1}{3} .$$ What is the smallest N such that the N th partial sum of this series approximates $$\\text{ln} ( 2 )$$ with an error less than 0.001?",
+        "Image Links": [],
+        "Answer": "We have $$\\text{ln} ( 1 - x ) = \\text{unicode[:-]} \\sum_{n = 1}^{\\infty} \\frac{x^{n}}{n}$$ so $$\\text{ln} ( 1 + x ) = \\sum_{n = 1}^{\\infty} ( -1 )^{n - 1} \\frac{x^{n}}{n} .$$ Thus, $$\\text{ln} ( \\frac{1 + x}{1 - x} ) = \\sum_{n = 1}^{\\infty} ( 1 + ( -1 )^{n - 1} ) \\frac{x^{n}}{n} = 2 \\sum_{n = 1}^{\\infty} \\frac{x^{2 n - 1}}{2 n - 1} .$$ When $$x = \\frac{1}{3}$$ we obtain $$\\text{ln} ( 2 ) = 2 \\sum_{n = 1}^{\\infty} \\frac{1}{3^{2 n - 1} ( 2 n - 1 )} .$$ We have $$2 \\sum_{n = 1}^{3} \\frac{1}{3^{2 n - 1} ( 2 n - 1 )} = 0.69300 \\text{unicode[:ddot.]} ,$$ while $$2 \\sum_{n = 1}^{4} \\frac{1}{3^{2 n - 1} ( 2 n - 1 )} = 0.69313 \\text{unicode[:ddot.]}$$ and $$\\text{ln} ( 2 ) = 0.69314 \\text{unicode[:ddot.]} ;$$ therefore, $$N = 4 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, using a substitution if indicated, express each series in terms of elementary functions and find the radius of convergence of the sum.",
+        "Question": "$$\\sum_{k = 0}^{\\infty} ( x^{k} - x^{2 k + 1} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, using a substitution if indicated, express each series in terms of elementary functions and find the radius of convergence of the sum.",
+        "Question": "$$\\sum_{k = 1}^{\\infty} \\frac{x^{3 k}}{6 k}$$",
+        "Image Links": [],
+        "Answer": "$$\\sum_{k = 1}^{\\infty} \\frac{x^{k}}{k} = \\text{unicode[:-]} \\text{ln} ( 1 - x )$$ so $$\\sum_{k = 1}^{\\infty} \\frac{x^{3 k}}{6 k} = - \\frac{1}{6} \\text{ln} ( 1 - x^{3} ) .$$ The radius of convergence is equal to 1 by the ratio test.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, using a substitution if indicated, express each series in terms of elementary functions and find the radius of convergence of the sum.",
+        "Question": "$$\\sum_{k = 1}^{\\infty} ( 1 + x^{2} )^{\\text{unicode[:-]} k}$$ using $$y = \\frac{1}{1 + x^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, using a substitution if indicated, express each series in terms of elementary functions and find the radius of convergence of the sum.",
+        "Question": "$$\\sum_{k = 1}^{\\infty} 2^{\\text{unicode[:-]} k x}$$ using $$y = 2^{\\text{unicode[:-]} x}$$",
+        "Image Links": [],
+        "Answer": "If $$y = 2^{\\text{unicode[:-]} x} ,$$ then $$\\sum_{k = 1}^{\\infty} y^{k} = \\frac{y}{1 - y} = \\frac{2^{\\text{unicode[:-]} x}}{1 - 2^{\\text{unicode[:-]} x}} = \\frac{1}{2^{x} - 1} .$$ If $$a_{k} = 2^{\\text{unicode[:-]} k x} ,$$ then $$\\frac{a_{k + 1}}{a_{k}} = 2^{\\text{unicode[:-]} x} < 1$$ when $$x > 0 .$$ So the series converges for all $$x > 0 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, using a substitution if indicated, express each series in terms of elementary functions and find the radius of convergence of the sum.",
+        "Question": "Show that, up to powers x 3 and y 3 , $$E ( x ) = \\sum_{n = 0}^{\\infty} \\frac{x^{n}}{n \\text{!}}$$ satisfies $$E ( x + y ) = E ( x ) E ( y ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, using a substitution if indicated, express each series in terms of elementary functions and find the radius of convergence of the sum.",
+        "Question": "Differentiate the series $$E ( x ) = \\sum_{n = 0}^{\\infty} \\frac{x^{n}}{n \\text{!}}$$ term-by-term to show that $$E ( x )$$ is equal to its derivative.",
+        "Image Links": [],
+        "Answer": "Answers will vary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, using a substitution if indicated, express each series in terms of elementary functions and find the radius of convergence of the sum.",
+        "Question": "Show that if $$f ( x ) = \\sum_{n = 0}^{\\infty} a_{n} x^{n}$$ is a sum of even powers, that is, $$a_{n} = 0$$ if n is odd, then $$F = \\int_{0}^{x} f ( t ) d t$$ is a sum of odd powers, while if f is a sum of odd powers, then F is a sum of even powers.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, using a substitution if indicated, express each series in terms of elementary functions and find the radius of convergence of the sum.",
+        "Question": "[T] Suppose that the coefficients a n of the series $$\\sum_{n = 0}^{\\infty} a_{n} x^{n}$$ are defined by the recurrence relation $$a_{n} = \\frac{a_{n - 1}}{n} + \\frac{a_{n - 2}}{n ( n - 1 )} .$$ For $$a_{0} = 0$$ and $$a_{1} = 1 ,$$ compute and plot the sums $$S_{N} = \\sum_{n = 0}^{N} a_{n} x^{n}$$ for $$N = 2 , 3 , 4 , 5$$ on $$[ -1 , 1 ] .$$",
+        "Image Links": [],
+        "Answer": "The solid curve is S 5 . The dashed curve is S 2 , dotted is S 3 , and dash-dotted is S 4",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7707f0b277c3aecefdf82ba945a21b9fe34181a0"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, using a substitution if indicated, express each series in terms of elementary functions and find the radius of convergence of the sum.",
+        "Question": "[T] Suppose that the coefficients a n of the series $$\\sum_{n = 0}^{\\infty} a_{n} x^{n}$$ are defined by the recurrence relation $$a_{n} = \\frac{a_{n - 1}}{\\sqrt{n}} - \\frac{a_{n - 2}}{\\sqrt{n ( n - 1 )}} .$$ For $$a_{0} = 1$$ and $$a_{1} = 0 ,$$ compute and plot the sums $$S_{N} = \\sum_{n = 0}^{N} a_{n} x^{n}$$ for $$N = 2 , 3 , 4 , 5$$ on $$[ -1 , 1 ] .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, using a substitution if indicated, express each series in terms of elementary functions and find the radius of convergence of the sum.",
+        "Question": "[T] Given the power series expansion $$\\text{ln} ( 1 + x ) = \\sum_{n = 1}^{\\infty} ( -1 )^{n - 1} \\frac{x^{n}}{n} ,$$ determine how many terms N of the sum evaluated at $$x = -1 \\text{/} 2$$ are needed to approximate $$\\text{ln} ( 2 )$$ accurate to within 1/1000. Evaluate the corresponding partial sum $$\\sum_{n = 1}^{N} ( -1 )^{n - 1} \\frac{x^{n}}{n} .$$",
+        "Image Links": [],
+        "Answer": "When $$x = - \\frac{1}{2} , \\text{unicode[:-]} \\text{ln} ( 2 ) = \\text{ln} ( \\frac{1}{2} ) = \\text{unicode[:-]} \\sum_{n = 1}^{\\infty} \\frac{1}{n 2^{n}} .$$ Since $$\\sum_{n = 11}^{\\infty} \\frac{1}{n 2^{n}} < \\sum_{n = 11}^{\\infty} \\frac{1}{2^{n}} = \\frac{1}{2^{10}} ,$$ one has $$\\sum_{n = 1}^{10} \\frac{1}{n 2^{n}} = 0.69306 \\text{unicode[:ddot.]}$$ whereas $$\\text{ln} ( 2 ) = 0.69314 \\text{unicode[:ddot.]} ;$$ therefore, $$N = 10 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, using a substitution if indicated, express each series in terms of elementary functions and find the radius of convergence of the sum.",
+        "Question": "[T] Given the power series expansion $$\\text{tan}^{-1} ( x ) = \\sum_{k = 0}^{\\infty} ( -1 )^{k} \\frac{x^{2 k + 1}}{2 k + 1} ,$$ use the alternating series test to determine how many terms N of the sum evaluated at $$x = 1$$ are needed to approximate $$\\text{tan}^{-1} ( 1 ) = \\frac{\\pi}{4}$$ accurate to within 1/1000. Evaluate the corresponding partial sum $$\\sum_{k = 0}^{N} ( -1 )^{k} \\frac{x^{2 k + 1}}{2 k + 1} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, using a substitution if indicated, express each series in terms of elementary functions and find the radius of convergence of the sum.",
+        "Question": "[T] Recall that $$\\text{tan}^{-1} ( \\frac{1}{\\sqrt{3}} ) = \\frac{\\pi}{6} .$$ Assuming an exact value of $$( \\frac{1}{\\sqrt{3}} ) ,$$ estimate $$\\frac{\\pi}{6}$$ by evaluating partial sums $$S_{N} ( \\frac{1}{\\sqrt{3}} )$$ of the power series expansion $$\\text{tan}^{-1} ( x ) = \\sum_{k = 0}^{\\infty} ( -1 )^{k} \\frac{x^{2 k + 1}}{2 k + 1}$$ at $$x = \\frac{1}{\\sqrt{3}} .$$ What is the smallest number N such that $$6 S_{N} ( \\frac{1}{\\sqrt{3}} )$$ approximates \u03c0 accurately to within 0.001? How many terms are needed for accuracy to within 0.00001?",
+        "Image Links": [],
+        "Answer": "$$6 S_{N} ( \\frac{1}{\\sqrt{3}} ) = 2 \\sqrt{3} \\sum_{n = 0}^{N} ( -1 )^{n} \\frac{1}{3^{n} ( 2 n + 1 )} .$$ One has $$\\pi - 6 S_{4} ( \\frac{1}{\\sqrt{3}} ) = 0.00101 \\text{unicode[:ddot.]}$$ and $$\\pi - 6 S_{5} ( \\frac{1}{\\sqrt{3}} ) = 0.00028 \\text{unicode[:ddot.]}$$ so $$N = 5$$ is the smallest partial sum with accuracy to within 0.001. Also, $$\\pi - 6 S_{7} ( \\frac{1}{\\sqrt{3}} ) = 0.00002 \\text{unicode[:ddot.]}$$ while $$\\pi - 6 S_{8} ( \\frac{1}{\\sqrt{3}} ) = -0.000007 \\text{unicode[:ddot.]}$$ so $$N = 8$$ is the smallest N to give accuracy to within 0.00001.",
+        "Answer Image Links": []
+    }
+]

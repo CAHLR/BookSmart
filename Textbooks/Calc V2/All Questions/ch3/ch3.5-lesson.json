@@ -1,0 +1,442 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "Use a table of integrals to evaluate the following integrals.",
+        "Question": "$$\\int_{0}^{4} \\frac{x}{\\sqrt{1 + 2 x}} d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a table of integrals to evaluate the following integrals.",
+        "Question": "$$\\int \\frac{x + 3}{x^{2} + 2 x + 2} d x$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{2} \\text{ln} | x^{2} + 2 x + 2 | + 2 \\text{arctan} ( x + 1 ) + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a table of integrals to evaluate the following integrals.",
+        "Question": "$$\\int x^{3} \\sqrt{1 + 2 x^{2}} d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a table of integrals to evaluate the following integrals.",
+        "Question": "$$\\int \\frac{1}{\\sqrt{x^{2} + 6 x}} d x$$",
+        "Image Links": [],
+        "Answer": "$$\\text{cosh}^{-1} ( \\frac{x + 3}{3} ) + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a table of integrals to evaluate the following integrals.",
+        "Question": "$$\\int \\frac{x}{x + 1} d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a table of integrals to evaluate the following integrals.",
+        "Question": "$$\\int x \\cdotp 2^{x^{2}} d x$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2^{x^{2} - 1}}{\\text{ln} 2} + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a table of integrals to evaluate the following integrals.",
+        "Question": "$$\\int \\frac{1}{4 x^{2} + 25} d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a table of integrals to evaluate the following integrals.",
+        "Question": "$$\\int \\frac{d y}{\\sqrt{4 - y^{2}}}$$",
+        "Image Links": [],
+        "Answer": "$$\\text{arcsin} ( \\frac{y}{2} ) + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a table of integrals to evaluate the following integrals.",
+        "Question": "$$\\int \\text{sin}^{3} ( 2 x ) \\text{cos} ( 2 x ) d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a table of integrals to evaluate the following integrals.",
+        "Question": "$$\\int \\text{csc} ( 2 w ) \\text{cot} ( 2 w ) d w$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{1}{2} \\text{csc} ( 2 w ) + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a table of integrals to evaluate the following integrals.",
+        "Question": "$$\\int 2^{y} d y$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a table of integrals to evaluate the following integrals.",
+        "Question": "$$\\int_{0}^{1} \\frac{3 x d x}{\\sqrt{x^{2} + 8}}$$",
+        "Image Links": [],
+        "Answer": "$$9 - 6 \\sqrt{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a table of integrals to evaluate the following integrals.",
+        "Question": "$$\\int_{-1 \\text{/} 4}^{1 \\text{/} 4} \\text{sec}^{2} ( \\pi x ) \\text{tan} ( \\pi x ) d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a table of integrals to evaluate the following integrals.",
+        "Question": "$$\\int_{0}^{\\pi \\text{/} 2} \\text{tan}^{2} ( \\frac{x}{2} ) d x$$",
+        "Image Links": [],
+        "Answer": "$$2 - \\frac{\\pi}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a table of integrals to evaluate the following integrals.",
+        "Question": "$$\\int \\text{cos}^{3} x d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a table of integrals to evaluate the following integrals.",
+        "Question": "$$\\int \\text{tan}^{5} ( 3 x ) d x$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{12} \\text{tan}^{4} ( 3 x ) - \\frac{1}{6} \\text{tan}^{2} ( 3 x ) + \\frac{1}{3} \\text{ln} | \\text{sec} ( 3 x ) | + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a table of integrals to evaluate the following integrals.",
+        "Question": "$$\\int \\text{sin}^{2} y \\text{cos}^{3} y d y$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a CAS to evaluate the following integrals. Tables can also be used to verify the answers.",
+        "Question": "[T] $$\\int \\frac{d w}{1 + \\text{sec} ( \\frac{w}{2} )}$$",
+        "Image Links": [],
+        "Answer": "$$2 \\text{cot} ( \\frac{w}{2} ) - 2 \\text{csc} ( \\frac{w}{2} ) + w + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a CAS to evaluate the following integrals. Tables can also be used to verify the answers.",
+        "Question": "[T] $$\\int \\frac{d w}{1 - \\text{cos} ( 7 w )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a CAS to evaluate the following integrals. Tables can also be used to verify the answers.",
+        "Question": "[T] $$\\int_{0}^{t} \\frac{d t}{4 \\text{cos} t + 3 \\text{sin} t}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{5} \\text{ln} | \\frac{2 ( 5 + 4 \\text{sin} t - 3 \\text{cos} t )}{4 \\text{cos} t + 3 \\text{sin} t} |$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a CAS to evaluate the following integrals. Tables can also be used to verify the answers.",
+        "Question": "[T] $$\\int \\frac{\\sqrt{x^{2} - 9}}{3 x} d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a CAS to evaluate the following integrals. Tables can also be used to verify the answers.",
+        "Question": "[T] $$\\int \\frac{d x}{x^{1 \\text{/} 2} + x^{1 \\text{/} 3}}$$",
+        "Image Links": [],
+        "Answer": "$$6 x^{1 \\text{/} 6} - 3 x^{1 \\text{/} 3} + 2 \\sqrt{x} - 6 \\text{ln} [ 1 + x^{1 \\text{/} 6} ] + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a CAS to evaluate the following integrals. Tables can also be used to verify the answers.",
+        "Question": "[T] $$\\int \\frac{d x}{x \\sqrt{x - 1}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a CAS to evaluate the following integrals. Tables can also be used to verify the answers.",
+        "Question": "[T] $$\\int x^{3} \\text{sin} x d x$$",
+        "Image Links": [],
+        "Answer": "$$\\text{unicode[:-]} x^{3} \\text{cos} x + 3 x^{2} \\text{sin} x + 6 x \\text{cos} x - 6 \\text{sin} x + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a CAS to evaluate the following integrals. Tables can also be used to verify the answers.",
+        "Question": "[T] $$\\int x \\sqrt{x^{4} - 9} d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a CAS to evaluate the following integrals. Tables can also be used to verify the answers.",
+        "Question": "[T] $$\\int \\frac{x}{1 + e^{\\text{unicode[:-]} x^{2}}} d x$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{2} ( x^{2} + \\text{ln} | 1 + e^{\\text{unicode[:-]} x^{2}} | ) + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a CAS to evaluate the following integrals. Tables can also be used to verify the answers.",
+        "Question": "[T] $$\\int \\frac{\\sqrt{3 - 5 x}}{2 x} d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a CAS to evaluate the following integrals. Tables can also be used to verify the answers.",
+        "Question": "[T] $$\\int \\frac{d x}{x \\sqrt{x - 1}}$$",
+        "Image Links": [],
+        "Answer": "$$2 \\text{arctan} ( \\sqrt{x - 1} ) + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a CAS to evaluate the following integrals. Tables can also be used to verify the answers.",
+        "Question": "[T] $$\\int e^{x} \\text{cos}^{-1} ( e^{x} ) d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a calculator or CAS to evaluate the following integrals.",
+        "Question": "[T] $$\\int_{0}^{\\pi \\text{/} 4} \\text{cos} ( 2 x ) d x$$",
+        "Image Links": [],
+        "Answer": "$$0.5 = \\frac{1}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a calculator or CAS to evaluate the following integrals.",
+        "Question": "[T] $$\\int_{0}^{1} x \\cdotp e^{\\text{unicode[:-]} x^{2}} d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a calculator or CAS to evaluate the following integrals.",
+        "Question": "[T] $$\\int_{0}^{8} \\frac{2 x}{\\sqrt{x^{2} + 36}} d x$$",
+        "Image Links": [],
+        "Answer": "8.0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a calculator or CAS to evaluate the following integrals.",
+        "Question": "[T] $$\\int_{0}^{2 \\text{/} \\sqrt{3}} \\frac{1}{4 + 9 x^{2}} d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a calculator or CAS to evaluate the following integrals.",
+        "Question": "[T] $$\\int \\frac{d x}{x^{2} + 4 x + 13}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{3} \\text{arctan} ( \\frac{1}{3} ( x + 2 ) ) + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a calculator or CAS to evaluate the following integrals.",
+        "Question": "[T] $$\\int \\frac{d x}{1 + \\text{sin} x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use tables to evaluate the integrals. You may need to complete the square or change variables to put the integral into a form given in the table.",
+        "Question": "$$\\int \\frac{d x}{x^{2} + 2 x + 10}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{3} \\text{arctan} ( \\frac{x + 1}{3} ) + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use tables to evaluate the integrals. You may need to complete the square or change variables to put the integral into a form given in the table.",
+        "Question": "$$\\int \\frac{d x}{\\sqrt{x^{2} - 6 x}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use tables to evaluate the integrals. You may need to complete the square or change variables to put the integral into a form given in the table.",
+        "Question": "$$\\int \\frac{e^{x}}{\\sqrt{e^{2 x} - 4}} d x$$",
+        "Image Links": [],
+        "Answer": "$$\\text{ln} ( e^{x} + \\sqrt{-4 + e^{2 x}} ) + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use tables to evaluate the integrals. You may need to complete the square or change variables to put the integral into a form given in the table.",
+        "Question": "$$\\int \\frac{\\text{cos} x}{\\text{sin}^{2} x + 2 \\text{sin} x} d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use tables to evaluate the integrals. You may need to complete the square or change variables to put the integral into a form given in the table.",
+        "Question": "$$\\int \\frac{\\text{arctan} ( x^{3} )}{x^{4}} d x$$",
+        "Image Links": [],
+        "Answer": "$$\\text{ln} x - \\frac{1}{6} \\text{ln} ( x^{6} + 1 ) - \\frac{\\text{arctan} ( x^{3} )}{3 x^{3}} + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use tables to evaluate the integrals. You may need to complete the square or change variables to put the integral into a form given in the table.",
+        "Question": "$$\\int \\frac{\\text{ln} | x | \\text{arcsin} ( \\text{ln} | x | )}{x} d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use tables to perform the integration.",
+        "Question": "$$\\int \\frac{d x}{\\sqrt{x^{2} + 16}}$$",
+        "Image Links": [],
+        "Answer": "$$\\text{ln} | x + \\sqrt{16 + x^{2}} | + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use tables to perform the integration.",
+        "Question": "$$\\int \\frac{3 x}{2 x + 7} d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use tables to perform the integration.",
+        "Question": "$$\\int \\frac{d x}{1 - \\text{cos} ( 4 x )}$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{1}{4} \\text{cot} ( 2 x ) + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use tables to perform the integration.",
+        "Question": "$$\\int \\frac{d x}{\\sqrt{4 x + 1}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use tables to perform the integration.",
+        "Question": "Find the area bounded by $$y ( 4 + 25 x^{2} ) = 5 , x = 0 , y = 0 , \\text{and} x = 4 .$$ Use a table of integrals or a CAS.",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{2} \\text{arctan} 10$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use tables to perform the integration.",
+        "Question": "The region bounded between the curve $$y = \\frac{1}{\\sqrt{1 + \\text{cos} x}} , 0.3 \\le x \\le 1.1 ,$$ and the x -axis is revolved about the x -axis to generate a solid. Use a table of integrals to find the volume of the solid generated. (Round the answer to two decimal places.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use tables to perform the integration.",
+        "Question": "Use substitution and a table of integrals to find the area of the surface generated by revolving the curve $$y = e^{x} , 0 \\le x \\le 3 ,$$ about the x -axis. (Round the answer to two decimal places.)",
+        "Image Links": [],
+        "Answer": "1276.14",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use tables to perform the integration.",
+        "Question": "[T] Use an integral table and a calculator to find the area of the surface generated by revolving the curve $$y = \\frac{x^{2}}{2} , 0 \\le x \\le 1 ,$$ about the x -axis. (Round the answer to two decimal places.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use tables to perform the integration.",
+        "Question": "[T] Use a CAS or tables to find the area of the surface generated by revolving the curve $$y = \\text{cos} x , 0 \\le x \\le \\frac{\\pi}{2} ,$$ about the x -axis. (Round the answer to two decimal places.)",
+        "Image Links": [],
+        "Answer": "7.21",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use tables to perform the integration.",
+        "Question": "Find the length of the curve $$y = \\frac{x^{2}}{4}$$ over $$[ 0 , 8 ] .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use tables to perform the integration.",
+        "Question": "Find the length of the curve $$y = e^{x}$$ over $$[ 0 , \\text{ln} ( 2 ) ] .$$",
+        "Image Links": [],
+        "Answer": "$$\\sqrt{5} - \\sqrt{2} + \\text{ln} | \\frac{2 + 2 \\sqrt{2}}{1 + \\sqrt{5}} |$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use tables to perform the integration.",
+        "Question": "Find the area of the surface formed by revolving the graph of $$y = 2 \\sqrt{x}$$ over the interval $$[ 0 , 9 ]$$ about the x -axis.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use tables to perform the integration.",
+        "Question": "Find the average value of the function $$f ( x ) = \\frac{1}{x^{2} + 1}$$ over the interval $$[ -3 , 3 ] .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{3} \\text{arctan} ( 3 ) \\approx 0.416$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use tables to perform the integration.",
+        "Question": "Approximate the arc length of the curve $$y = \\text{tan} ( \\pi x )$$ over the interval $$[ 0 , \\frac{1}{4} ] .$$ (Round the answer to three decimal places.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

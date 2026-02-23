@@ -1,0 +1,480 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, use the direction field below from the differential equation $$y \\prime = -2 y .$$ Sketch the graph of the solution for the given initial conditions. ",
+        "Question": "$$y ( 0 ) = 1$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0446bc5f3d815cd14255a97f1517bc5508451ff1"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, use the direction field below from the differential equation $$y \\prime = -2 y .$$ Sketch the graph of the solution for the given initial conditions. ",
+        "Question": "$$y ( 0 ) = 0$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0446bc5f3d815cd14255a97f1517bc5508451ff1"
+        ],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/935c0aceccadaf10f597eccdeaa8972ebbb6e166"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, use the direction field below from the differential equation $$y \\prime = -2 y .$$ Sketch the graph of the solution for the given initial conditions. ",
+        "Question": "$$y ( 0 ) = -1$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0446bc5f3d815cd14255a97f1517bc5508451ff1"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, use the direction field below from the differential equation $$y \\prime = -2 y .$$ Sketch the graph of the solution for the given initial conditions. ",
+        "Question": "Are there any equilibria? What are their stabilities?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0446bc5f3d815cd14255a97f1517bc5508451ff1"
+        ],
+        "Answer": "$$y = 0$$ is a stable equilibrium",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, use the direction field below from the differential equation $$y \\prime = y^{2} - 2 y .$$ Sketch the graph of the solution for the given initial conditions. ",
+        "Question": "$$y ( 0 ) = 3$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ce46e28a8a8d8d6b0f1a3cd3029a2bdf9854c6b0"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, use the direction field below from the differential equation $$y \\prime = y^{2} - 2 y .$$ Sketch the graph of the solution for the given initial conditions. ",
+        "Question": "$$y ( 0 ) = 1$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ce46e28a8a8d8d6b0f1a3cd3029a2bdf9854c6b0"
+        ],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/58faecd722433ab234650bc77116bc01adaf3f57"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, use the direction field below from the differential equation $$y \\prime = y^{2} - 2 y .$$ Sketch the graph of the solution for the given initial conditions. ",
+        "Question": "$$y ( 0 ) = -1$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ce46e28a8a8d8d6b0f1a3cd3029a2bdf9854c6b0"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, use the direction field below from the differential equation $$y \\prime = y^{2} - 2 y .$$ Sketch the graph of the solution for the given initial conditions. ",
+        "Question": "Are there any equilibria? What are their stabilities?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ce46e28a8a8d8d6b0f1a3cd3029a2bdf9854c6b0"
+        ],
+        "Answer": "$$y = 0$$ is a stable equilibrium and $$y = 2$$ is unstable",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Draw the direction field for the following differential equations, then solve the differential equation.",
+        "Question": "$$y \\prime = t^{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Draw the direction field for the following differential equations, then solve the differential equation.",
+        "Question": "$$y \\prime = e^{t}$$",
+        "Image Links": [],
+        "Answer": "General solution is $$y = e^{t} + C$$ .",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1827291f33927482586a7842110dfda7a25728a5"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Draw the direction field for the following differential equations, then solve the differential equation.",
+        "Question": "$$\\frac{d y}{d x} = x^{2} \\text{cos} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Draw the direction field for the following differential equations, then solve the differential equation.",
+        "Question": "$$\\frac{d y}{d t} = t e^{t}$$",
+        "Image Links": [],
+        "Answer": "General solution is $$y = e^{t} ( t - 1 ) + C$$ .",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5dc3f2c11ff74e8c30027ecb70967bbaa9c6b13c"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Draw the direction field for the following differential equations, then solve the differential equation.",
+        "Question": "$$\\frac{d x}{d t} = \\text{cosh} ( t )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Draw the directional field for the following differential equations. What can you say about the behavior of the solution? Are there equilibria? What stability do these equilibria have?",
+        "Question": "$$y \\prime = y^{2} - 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/efbf81a98c18d2f253c1c209d3795bd272750dd2"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Draw the directional field for the following differential equations. What can you say about the behavior of the solution? Are there equilibria? What stability do these equilibria have?",
+        "Question": "$$y \\prime = y - x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Draw the directional field for the following differential equations. What can you say about the behavior of the solution? Are there equilibria? What stability do these equilibria have?",
+        "Question": "$$y \\prime = 1 - y^{2} - x^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5903bc9f58c43082fd215d4945cd0e0ac58a592a"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Draw the directional field for the following differential equations. What can you say about the behavior of the solution? Are there equilibria? What stability do these equilibria have?",
+        "Question": "$$y \\prime = t^{2} \\text{sin} y$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Draw the directional field for the following differential equations. What can you say about the behavior of the solution? Are there equilibria? What stability do these equilibria have?",
+        "Question": "$$y \\prime = 3 y + x y$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b9371a6e563daa06111ba44ffde3dd15fd716dda"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": " ",
+        "Question": "$$y \\prime = -3 y$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/23f17feecb8a952c8f2d5878fd47e2c429eb71f0"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": " ",
+        "Question": "$$y \\prime = -3 t$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/23f17feecb8a952c8f2d5878fd47e2c429eb71f0"
+        ],
+        "Answer": "E",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": " ",
+        "Question": "$$y \\prime = e^{t}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/23f17feecb8a952c8f2d5878fd47e2c429eb71f0"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": " ",
+        "Question": "$$y \\prime = \\frac{1}{2} y + t$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/23f17feecb8a952c8f2d5878fd47e2c429eb71f0"
+        ],
+        "Answer": "A",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": " ",
+        "Question": "$$y \\prime = \\text{unicode[:-]} t y$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/23f17feecb8a952c8f2d5878fd47e2c429eb71f0"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": " ",
+        "Question": "$$y \\prime = t \\text{sin} y$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e183cdcc1f8a87fb842bc2d05f9cec9d8f4dba3f"
+        ],
+        "Answer": "B",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": " ",
+        "Question": "$$y \\prime = \\text{unicode[:-]} t \\text{cos} y$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e183cdcc1f8a87fb842bc2d05f9cec9d8f4dba3f"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": " ",
+        "Question": "$$y \\prime = t \\text{tan} y$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e183cdcc1f8a87fb842bc2d05f9cec9d8f4dba3f"
+        ],
+        "Answer": "A",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": " ",
+        "Question": "$$y \\prime = \\text{sin}^{2} y$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e183cdcc1f8a87fb842bc2d05f9cec9d8f4dba3f"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": " ",
+        "Question": "$$y \\prime = y^{2} t^{3}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e183cdcc1f8a87fb842bc2d05f9cec9d8f4dba3f"
+        ],
+        "Answer": "C",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Estimate the following solutions using Euler\u2019s method with $$n = 5$$ steps over the interval $$t = [ 0 , 1 ] .$$ If you are able to solve the initial-value problem exactly, compare your solution with the exact solution. If you are unable to solve the initial-value problem, the exact solution will be provided for you to compare with Euler\u2019s method. How accurate is Euler\u2019s method?",
+        "Question": "$$y \\prime = -3 y , y ( 0 ) = 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Estimate the following solutions using Euler\u2019s method with $$n = 5$$ steps over the interval $$t = [ 0 , 1 ] .$$ If you are able to solve the initial-value problem exactly, compare your solution with the exact solution. If you are unable to solve the initial-value problem, the exact solution will be provided for you to compare with Euler\u2019s method. How accurate is Euler\u2019s method?",
+        "Question": "$$y \\prime = t^{2}$$",
+        "Image Links": [],
+        "Answer": "$$2.24 ,$$ exact: $$3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Estimate the following solutions using Euler\u2019s method with $$n = 5$$ steps over the interval $$t = [ 0 , 1 ] .$$ If you are able to solve the initial-value problem exactly, compare your solution with the exact solution. If you are unable to solve the initial-value problem, the exact solution will be provided for you to compare with Euler\u2019s method. How accurate is Euler\u2019s method?",
+        "Question": "$$y^{\\prime} = 3 t - y , y ( 0 ) = 1 .$$ Exact solution is $$y = 3 t + 4 e^{\\text{unicode[:-]} t} - 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Estimate the following solutions using Euler\u2019s method with $$n = 5$$ steps over the interval $$t = [ 0 , 1 ] .$$ If you are able to solve the initial-value problem exactly, compare your solution with the exact solution. If you are unable to solve the initial-value problem, the exact solution will be provided for you to compare with Euler\u2019s method. How accurate is Euler\u2019s method?",
+        "Question": "$$y^{\\prime} = y + t^{2} , y ( 0 ) = 3 .$$ Exact solution is $$y = 5 e^{t} - 2 - t^{2} - 2 t$$",
+        "Image Links": [],
+        "Answer": "$$7.739364 ,$$ exact: $$5 ( e - 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Estimate the following solutions using Euler\u2019s method with $$n = 5$$ steps over the interval $$t = [ 0 , 1 ] .$$ If you are able to solve the initial-value problem exactly, compare your solution with the exact solution. If you are unable to solve the initial-value problem, the exact solution will be provided for you to compare with Euler\u2019s method. How accurate is Euler\u2019s method?",
+        "Question": "$$y^{\\prime} = 2 t , y ( 0 ) = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Estimate the following solutions using Euler\u2019s method with $$n = 5$$ steps over the interval $$t = [ 0 , 1 ] .$$ If you are able to solve the initial-value problem exactly, compare your solution with the exact solution. If you are unable to solve the initial-value problem, the exact solution will be provided for you to compare with Euler\u2019s method. How accurate is Euler\u2019s method?",
+        "Question": "[T] $$y \\prime = e^{( x + y )} , y ( 0 ) = -1 .$$ Exact solution is $$y = \\text{unicode[:-]} \\text{ln} ( e + 1 - e^{x} )$$",
+        "Image Links": [],
+        "Answer": "$$-0.2535$$ exact: $$0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Estimate the following solutions using Euler\u2019s method with $$n = 5$$ steps over the interval $$t = [ 0 , 1 ] .$$ If you are able to solve the initial-value problem exactly, compare your solution with the exact solution. If you are unable to solve the initial-value problem, the exact solution will be provided for you to compare with Euler\u2019s method. How accurate is Euler\u2019s method?",
+        "Question": "$$y^{\\prime} = y^{2} \\text{ln} ( x + 1 ) , y ( 0 ) = 1 .$$ Exact solution is $$y = - \\frac{1}{( x + 1 ) ( \\text{ln} ( x + 1 ) - 1 )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Estimate the following solutions using Euler\u2019s method with $$n = 5$$ steps over the interval $$t = [ 0 , 1 ] .$$ If you are able to solve the initial-value problem exactly, compare your solution with the exact solution. If you are unable to solve the initial-value problem, the exact solution will be provided for you to compare with Euler\u2019s method. How accurate is Euler\u2019s method?",
+        "Question": "$$y^{\\prime} = 2^{x} , y ( 0 ) = 0 ,$$ Exact solution is $$y = \\frac{2^{x} - 1}{\\text{ln} ( 2 )}$$",
+        "Image Links": [],
+        "Answer": "$$1.345 ,$$ exact: $$\\frac{1}{\\text{ln} ( 2 )}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Estimate the following solutions using Euler\u2019s method with $$n = 5$$ steps over the interval $$t = [ 0 , 1 ] .$$ If you are able to solve the initial-value problem exactly, compare your solution with the exact solution. If you are unable to solve the initial-value problem, the exact solution will be provided for you to compare with Euler\u2019s method. How accurate is Euler\u2019s method?",
+        "Question": "$$y^{\\prime} = y , y ( 0 ) = -1 .$$ Exact solution is $$y = \\text{unicode[:-]} e^{x} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Estimate the following solutions using Euler\u2019s method with $$n = 5$$ steps over the interval $$t = [ 0 , 1 ] .$$ If you are able to solve the initial-value problem exactly, compare your solution with the exact solution. If you are unable to solve the initial-value problem, the exact solution will be provided for you to compare with Euler\u2019s method. How accurate is Euler\u2019s method?",
+        "Question": "$$y^{\\prime} = -5 t , y ( 0 ) = -2 .$$ Exact solution is $$y = - \\frac{5}{2} t^{2} - 2$$",
+        "Image Links": [],
+        "Answer": "$$-4 ,$$ exact: $$\\text{unicode[:-]} 1 \\text{/} 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Here $$c$$ represents the contact rate and $$r$$ is the recovery rate.",
+        "Question": "Show that, by our assumption that the total population size is constant $$( S + I = N ) ,$$ you can reduce the system to a single differential equation in $$I \\text{:} I \\prime = c ( N - I ) I - r I .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Here $$c$$ represents the contact rate and $$r$$ is the recovery rate.",
+        "Question": "Assuming the parameters are $$c = 0.5 , N = 5 ,$$ and $$r = 0.5 ,$$ draw the resulting directional field.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/50671dd6a43562e5363cfc86d3d336988b1dc931"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Here $$c$$ represents the contact rate and $$r$$ is the recovery rate.",
+        "Question": "[T] Use computational software or a calculator to compute an approximate\n          solution to the initial-value problem $$y \\prime = t y , y ( 0 ) = 2$$ using Euler's Method with a given step size $$h .$$ Find the solution at $$t = 1$$ in terms of $$h .$$ Hint : Here is \"pseudo-code\" for how to write a computer program to\n          perform Euler's Method for $$y \\prime = f ( t , y ) , y ( 0 ) = y_{0} \\text{:}$$ Create function $$f ( t , y ) .$$ Define parameters $$y ( 0 ) = y_{0} , t ( 0 ) = 0 ,$$ step size $$h ,$$ and total number of steps, $$N$$ Write a for loop: for $$\\text{k} = 0 \\textbf{to} N$$ $$\\text{fn} = \\text{f} ( \\text{t} ( \\text{k} ) , \\text{y} ( \\text{k} ) )$$ $$\\text{y} ( \\text{k+1} ) = \\text{y} ( \\text{k} ) + \\text{h*fn}$$ $$\\text{t} ( \\text{k+1} ) = \\text{t} ( \\text{k} ) + \\text{h}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Refer to your answer for Exercise 4.106 to solve the following exercises.",
+        "Question": "Solve the initial-value problem for the exact solution.",
+        "Image Links": [],
+        "Answer": "$$y \\prime = 2 e^{t^{2} \\text{/} 2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Refer to your answer for Exercise 4.106 to solve the following exercises.",
+        "Question": "Draw the directional field",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Refer to your answer for Exercise 4.106 to solve the following exercises.",
+        "Question": "Compute using $$h = 1$$",
+        "Image Links": [],
+        "Answer": "$$2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Refer to your answer for Exercise 4.106 to solve the following exercises.",
+        "Question": "Compute using [T] $$h = 0.1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Refer to your answer for Exercise 4.106 to solve the following exercises.",
+        "Question": "Compute using [T] $$h = 0.001$$",
+        "Image Links": [],
+        "Answer": "$$3.2756$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Refer to your answer for Exercise 4.106 to solve the following exercises.",
+        "Question": "Compute using [T] $$h = 0.0001$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Refer to your answer for Exercise 4.106 to solve the following exercises.",
+        "Question": "[T] Evaluate the exact solution at $$t = 1 .$$ Make a table of errors for the relative error between the Euler\u2019s method solution and the exact solution. How much does the error change? Can you explain?",
+        "Image Links": [],
+        "Answer": "$$2 \\sqrt{e}$$ \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nStep Size & Relative Error \\\\ \\hline\n$$h = 0.1$$ & $$0.3935$$ \\\\ \\hline\n$$h = 0.01$$ & $$0.06163$$ \\\\ \\hline\n$$h = 0.001$$ & $$0.006612$$ \\\\ \\hline\n$$h = 0.0001$$ & $$0.0006661$$ \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Consider the initial-value problem $$y \\prime = -2 y , y ( 0 ) = 2 .$$",
+        "Question": "Show that $$y = 2 e^{-2 x}$$ solves this initial-value problem.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Consider the initial-value problem $$y \\prime = -2 y , y ( 0 ) = 2 .$$",
+        "Question": "Draw the directional field of this differential equation.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/fecebfff44c84924274ecd44c752998a705b6b21"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Consider the initial-value problem $$y \\prime = -2 y , y ( 0 ) = 2 .$$",
+        "Question": "[T] By hand or by calculator or computer, approximate the solution using Euler\u2019s Method at $$t = 10$$ using $$h = 5 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Consider the initial-value problem $$y \\prime = -2 y , y ( 0 ) = 2 .$$",
+        "Question": "[T] By calculator or computer, approximate the solution using Euler\u2019s Method at $$t = 10$$ using $$h = 100 .$$",
+        "Image Links": [],
+        "Answer": "$$4.0741 e^{-10}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Consider the initial-value problem $$y \\prime = -2 y , y ( 0 ) = 2 .$$",
+        "Question": "[T] Plot exact answer and each Euler approximation (for $$h = 5$$ and $$h = 100 )$$ at each $$h$$ on the directional field. What do you notice?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

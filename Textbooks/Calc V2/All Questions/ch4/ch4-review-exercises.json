@@ -1,0 +1,236 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "True or False? Justify your answer with a proof or a counterexample.",
+        "Question": "The differential equation $$y \\prime = 3 x^{2} y - \\text{cos} ( x ) y^{\\second}$$ is linear.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "True or False? Justify your answer with a proof or a counterexample.",
+        "Question": "The differential equation $$y \\prime = x - y$$ is separable.",
+        "Image Links": [],
+        "Answer": "F",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "True or False? Justify your answer with a proof or a counterexample.",
+        "Question": "You can explicitly solve all first-order differential equations by separation or by the method of integrating factors.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "True or False? Justify your answer with a proof or a counterexample.",
+        "Question": "You can determine the behavior of all first-order differential equations using directional fields or Euler\u2019s method.",
+        "Image Links": [],
+        "Answer": "T",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, find the general solution to the differential equations.",
+        "Question": "$$y^{\\prime} = x^{2} + 3 e^{x} - 2 x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, find the general solution to the differential equations.",
+        "Question": "$$y \\prime = 2^{x} + \\text{cos}^{-1} x$$",
+        "Image Links": [],
+        "Answer": "$$y ( x ) = \\frac{2^{x}}{\\text{ln} ( 2 )} + x \\text{cos}^{-1} x - \\sqrt{1 - x^{2}} + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, find the general solution to the differential equations.",
+        "Question": "$$y \\prime = y ( x^{2} + 1 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, find the general solution to the differential equations.",
+        "Question": "$$y \\prime = e^{\\text{unicode[:-]} y} \\text{sin} x$$",
+        "Image Links": [],
+        "Answer": "$$y ( x ) = \\text{ln} ( C - \\text{cos} x )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, find the general solution to the differential equations.",
+        "Question": "$$y \\prime = 3 x - 2 y$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, find the general solution to the differential equations.",
+        "Question": "$$y \\prime = y \\text{ln} y$$",
+        "Image Links": [],
+        "Answer": "$$y ( x ) = e^{e^{C + x}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, find the solution to the initial value problem.",
+        "Question": "$$y \\prime = 8 x - \\text{ln} x - 3 x^{4} , y ( 1 ) = 5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, find the solution to the initial value problem.",
+        "Question": "$$y \\prime = 3 x - \\text{cos} x + 2 , y ( 0 ) = 4$$",
+        "Image Links": [],
+        "Answer": "$$y ( x ) = 4 + \\frac{3}{2} x^{2} + 2 x - \\text{sin} x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, find the solution to the initial value problem.",
+        "Question": "$$x y \\prime = y ( x - 2 ) , y ( 1 ) = 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, find the solution to the initial value problem.",
+        "Question": "$$y \\prime = 3 y^{2} ( x + \\text{cos} x ) , y ( 0 ) = -2$$",
+        "Image Links": [],
+        "Answer": "$$y ( x ) = - \\frac{2}{1 + 3 ( x^{2} + 2 \\text{sin} x )}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, find the solution to the initial value problem.",
+        "Question": "$$( x - 1 ) y \\prime = y - 2 , y ( 0 ) = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, find the solution to the initial value problem.",
+        "Question": "$$y \\prime = 3 y - x + 6 x^{2} , y ( 0 ) = -1$$",
+        "Image Links": [],
+        "Answer": "$$y ( x ) = -2 x^{2} - 2 x - \\frac{1}{3} - \\frac{2}{3} e^{3 x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, draw the directional field associated with the differential equation, then solve the differential equation. Draw a sample solution on the directional field.",
+        "Question": "$$y \\prime = 2 y - y^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, draw the directional field associated with the differential equation, then solve the differential equation. Draw a sample solution on the directional field.",
+        "Question": "$$y \\prime = \\frac{1}{x} + \\text{ln} x - y ,$$ for $$x > 0$$",
+        "Image Links": [],
+        "Answer": "$$y ( x ) = C e^{\\text{unicode[:-]} x} + \\text{ln} x$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ada85e71929144bcf483d10530a462c171917deb"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, use Euler\u2019s Method with $$n = 5$$ steps over the interval $$t = [ 0 , 1 ] .$$ Then solve the initial-value problem exactly. How close is your Euler\u2019s Method estimate?",
+        "Question": "$$y \\prime = -4 y x , y ( 0 ) = 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, use Euler\u2019s Method with $$n = 5$$ steps over the interval $$t = [ 0 , 1 ] .$$ Then solve the initial-value problem exactly. How close is your Euler\u2019s Method estimate?",
+        "Question": "$$y \\prime = 3^{x} - 2 y , y ( 0 ) = 0$$",
+        "Image Links": [],
+        "Answer": "Euler: $$0.6939 ,$$ exact solution: $$y ( x ) = \\frac{3^{x} - e^{-2 x}}{2 + \\text{ln} ( 3 )}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, set up and solve the differential equations.",
+        "Question": "A car drives along a freeway, accelerating according to $$a = 5 \\text{sin} ( \\pi t ) ,$$ where $$t$$ represents time in minutes. Find the velocity at any time $$t ,$$ assuming the car starts with an initial speed of $$60$$ mph.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, set up and solve the differential equations.",
+        "Question": "You throw a ball of mass $$2$$ kilograms into the air with an upward velocity of $$8$$ m/s. Find exactly the time the ball will remain in the air, assuming that gravity is given by $$g = 9.8 \\text{m/s}^{2} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{40}{49}$$ second",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, set up and solve the differential equations.",
+        "Question": "You drop a ball with a mass of $$5$$ kilograms out an airplane window at a height of $$5000$$ m. How long does it take for the ball to reach the ground?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, set up and solve the differential equations.",
+        "Question": "You drop the same ball of mass $$5$$ kilograms out of the same airplane window at the same height, except this time you assume a drag force proportional to the ball\u2019s velocity, using a proportionality constant of $$3$$ and the ball reaches terminal velocity. Solve for the distance fallen as a function of time. How long does it take the ball to reach the ground?",
+        "Image Links": [],
+        "Answer": "$$x ( t ) = 5000 + \\frac{245}{9} - \\frac{49}{3} t - \\frac{245}{9} e^{\\text{unicode[:-]} 5 \\text{/} 3 t} , t = 307.8$$ seconds",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, set up and solve the differential equations.",
+        "Question": "A drug is administered to a patient every $$24$$ hours and is cleared at a rate proportional to the amount of drug left in the body, with proportionality constant $$0.2 .$$ If the patient needs a baseline level of $$5$$ mg to be in the bloodstream at all times, how large should the dose be?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, set up and solve the differential equations.",
+        "Question": "A $$1000$$ -liter tank contains pure water and a solution of $$0.2$$ kg salt/L is pumped into the tank at a rate of $$1$$ L/min and is drained at the same rate. Solve for total amount of salt in the tank at time $$t .$$",
+        "Image Links": [],
+        "Answer": "$$T ( t ) = 200 ( 1 - e^{\\text{unicode[:-]} t \\text{/} 1000} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, set up and solve the differential equations.",
+        "Question": "You boil water to make tea. When you pour the water into your teapot, the temperature is $$100 \\text{\u00b0C.}$$ After $$5$$ minutes in your $$15 \\text{\u00b0C}$$ room, the temperature of the tea is $$85 \\text{\u00b0C.}$$ Solve the equation to determine the temperatures of the tea at time $$t .$$ How long must you wait until the tea is at a drinkable temperature $$( 72 \\text{\u00b0C} )?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, set up and solve the differential equations.",
+        "Question": "The human population (in thousands) of Nevada in $$1950$$ was roughly $$160 .$$ If the carrying capacity is estimated at $$10$$ million individuals, and assuming a growth rate of $$2 \\text{%}$$ per year, develop a logistic growth model and solve for the population in Nevada at any time (use $$1950$$ as time = 0). What population does your model predict for $$2000 ?$$ How close is your prediction to the true value of $$1,998,257 ?$$",
+        "Image Links": [],
+        "Answer": "$$P ( t ) = \\frac{1600000 e^{0.02 t}}{9840 + 160 e^{0.02 t}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, set up and solve the differential equations.",
+        "Question": "Repeat the previous problem but use Gompertz growth model. Which is more accurate?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

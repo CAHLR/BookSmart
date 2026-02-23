@@ -1,0 +1,34 @@
+[
+    {
+        "Topic": "Checkpoint 5.12",
+        "Problem Statement": "",
+        "Question": "What does the divergence test tell us about the series $$\\sum_{n = 1}^{\\infty} \\text{cos} ( 1 \\text{/} n^{2} ) \\text{?}$$",
+        "Image Links": [],
+        "Answer": "The series diverges.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.13",
+        "Problem Statement": "",
+        "Question": "Use the integral test to determine whether the series $$\\sum_{n = 1}^{\\infty} \\frac{n}{3 n^{2} + 1}$$ converges or diverges.",
+        "Image Links": [],
+        "Answer": "The series diverges.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.14",
+        "Problem Statement": "",
+        "Question": "Does the series $$\\sum_{n = 1}^{\\infty} \\frac{1}{n^{5 \\text{/} 4}}$$ converge or diverge?",
+        "Image Links": [],
+        "Answer": "The series converges.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.15",
+        "Problem Statement": "",
+        "Question": "For $$\\sum_{n = 1}^{\\infty} \\frac{1}{n^{4}} ,$$ calculate $$S_{5}$$ and estimate the error $$R_{5} .$$",
+        "Image Links": [],
+        "Answer": "$$S_{5} \\approx 1.09035 ,$$ $$R_{5} < 0.00267$$",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Topic": "Checkpoint 6.4",
+        "Problem Statement": "",
+        "Question": "Suppose that $$\\sum_{n = 0}^{\\infty} a_{n} x^{n}$$ has an interval of convergence of $$( -1 , 1 ) .$$ Find the interval of convergence of $$\\sum_{n = 0}^{\\infty} a_{n} ( \\frac{x}{2} )^{n} .$$",
+        "Image Links": [],
+        "Answer": "Interval of convergence is $$( -2 , 2 ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.5",
+        "Problem Statement": "",
+        "Question": "Use the series for $$f ( x ) = \\frac{1}{1 - x}$$ on $$| x | < 1$$ to construct a series for $$\\frac{1}{( 1 - x ) ( x - 2 )} .$$ Determine the interval of convergence.",
+        "Image Links": [],
+        "Answer": "$$\\sum_{n = 0}^{\\infty} ( -1 + \\frac{1}{2^{n + 1}} ) x^{n} .$$ The interval of convergence is $$( -1 , 1 ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.6",
+        "Problem Statement": "",
+        "Question": "Find the function represented by the power series $$\\sum_{n = 0}^{\\infty} \\frac{1}{3^{n}} x^{n} .$$ Determine its interval of convergence.",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = \\frac{3}{3 - x} .$$ The interval of convergence is $$( -3 , 3 ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.7",
+        "Problem Statement": "",
+        "Question": "Multiply the series $$\\frac{1}{1 - x} = \\sum_{n = 0}^{\\infty} x^{n}$$ by itself to construct a series for $$\\frac{1}{( 1 - x ) ( 1 - x )} .$$",
+        "Image Links": [],
+        "Answer": "$$1 + 2 x + 3 x^{2} + 4 x^{3} + \\text{cdots}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.8",
+        "Problem Statement": "",
+        "Question": "Differentiate the series $$\\frac{1}{( 1 - x )^{2}} = \\sum_{n = 0}^{\\infty} ( n + 1 ) x^{n}$$ term-by-term to find a power series representation for $$\\frac{2}{( 1 - x )^{3}}$$ on the interval $$( -1 , 1 ) .$$",
+        "Image Links": [],
+        "Answer": "$$\\sum_{n = 0}^{\\infty} ( n + 2 ) ( n + 1 ) x^{n}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.9",
+        "Problem Statement": "",
+        "Question": "Integrate the power series $$\\text{ln} ( 1 + x ) = \\sum_{n = 1}^{\\infty} ( -1 )^{n + 1} \\frac{x^{n}}{n}$$ term-by-term to evaluate $$\\int \\text{ln} ( 1 + x ) d x .$$",
+        "Image Links": [],
+        "Answer": "$$\\sum_{n = 2}^{\\infty} \\frac{( -1 )^{n} x^{n}}{n ( n - 1 )}$$",
+        "Answer Image Links": []
+    }
+]

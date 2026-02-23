@@ -1,0 +1,474 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the Taylor polynomials of degree two approximating the given function centered at the given point.",
+        "Question": "$$f ( x ) = 1 + x + x^{2}$$ at $$a = 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the Taylor polynomials of degree two approximating the given function centered at the given point.",
+        "Question": "$$f ( x ) = 1 + x + x^{2}$$ at $$a = -1$$",
+        "Image Links": [],
+        "Answer": "$$f ( -1 ) = 1 ; f^{\\prime} ( -1 ) = -1 ; f^{\\second} ( -1 ) = 2 ; f ( x ) = 1 - ( x + 1 ) + ( x + 1 )^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the Taylor polynomials of degree two approximating the given function centered at the given point.",
+        "Question": "$$f ( x ) = \\text{cos} ( 2 x )$$ at $$a = \\pi$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the Taylor polynomials of degree two approximating the given function centered at the given point.",
+        "Question": "$$f ( x ) = \\text{sin} ( 2 x )$$ at $$a = \\frac{\\pi}{2}$$",
+        "Image Links": [],
+        "Answer": "$$f^{\\prime} ( x ) = 2 \\text{cos} ( 2 x ) ; f^{\\second} ( x ) = -4 \\text{sin} ( 2 x ) ; p_{2} ( x ) = -2 ( x - \\frac{\\pi}{2} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the Taylor polynomials of degree two approximating the given function centered at the given point.",
+        "Question": "$$f ( x ) = \\sqrt{x}$$ at $$a = 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the Taylor polynomials of degree two approximating the given function centered at the given point.",
+        "Question": "$$f ( x ) = \\text{ln} x$$ at $$a = 1$$",
+        "Image Links": [],
+        "Answer": "$$f^{\\prime} ( x ) = \\frac{1}{x} ; f^{\\second} ( x ) = - \\frac{1}{x^{2}} ; p_{2} ( x ) = 0 + ( x - 1 ) - \\frac{1}{2} ( x - 1 )^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the Taylor polynomials of degree two approximating the given function centered at the given point.",
+        "Question": "$$f ( x ) = \\frac{1}{x}$$ at $$a = 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the Taylor polynomials of degree two approximating the given function centered at the given point.",
+        "Question": "$$f ( x ) = e^{x}$$ at $$a = 1$$",
+        "Image Links": [],
+        "Answer": "$$p_{2} ( x ) = e + e ( x - 1 ) + \\frac{e}{2} ( x - 1 )^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, verify that the given choice of n in the remainder estimate $$| R_{n} | \\le \\frac{M}{( n + 1 ) \\text{!}} ( x - a )^{n + 1} ,$$ where M is the maximum value of $$| f^{( n + 1 )} ( z ) |$$ on the interval between a and the indicated point, yields $$| R_{n} | \\le \\frac{1}{1000} .$$ Find the value of the Taylor polynomial p n of $$f$$ at the indicated point.  If $$| R n |$$ is not less than $$1 / 1000$$ , determine what it is.",
+        "Question": "[T] $$\\sqrt{10} ; a = 9 , n = 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, verify that the given choice of n in the remainder estimate $$| R_{n} | \\le \\frac{M}{( n + 1 ) \\text{!}} ( x - a )^{n + 1} ,$$ where M is the maximum value of $$| f^{( n + 1 )} ( z ) |$$ on the interval between a and the indicated point, yields $$| R_{n} | \\le \\frac{1}{1000} .$$ Find the value of the Taylor polynomial p n of $$f$$ at the indicated point.  If $$| R n |$$ is not less than $$1 / 1000$$ , determine what it is.",
+        "Question": "[T] $$( 28 )^{1 \\text{/} 3} ; a = 27 , n = 1$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{d^{2}}{d x^{2}} x^{1 \\text{/} 3} = - \\frac{2}{9 x^{5 \\text{/} 3}} \\geq -0.00092 \\text{unicode[:ddot.]}$$ when $$x \\geq 28$$ so the remainder estimate applies to the linear approximation $$x^{1 \\text{/} 3} \\approx p_{1} ( 27 ) = 3 + \\frac{x - 27}{27} ,$$ which gives $$( 28 )^{1 \\text{/} 3} \\approx 3 + \\frac{1}{27} = 3. \\overline{037} ,$$ while $$( 28 )^{1 \\text{/} 3} \\approx 3.03658 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, verify that the given choice of n in the remainder estimate $$| R_{n} | \\le \\frac{M}{( n + 1 ) \\text{!}} ( x - a )^{n + 1} ,$$ where M is the maximum value of $$| f^{( n + 1 )} ( z ) |$$ on the interval between a and the indicated point, yields $$| R_{n} | \\le \\frac{1}{1000} .$$ Find the value of the Taylor polynomial p n of $$f$$ at the indicated point.  If $$| R n |$$ is not less than $$1 / 1000$$ , determine what it is.",
+        "Question": "[T] $$\\text{sin} ( 6 ) ; a = 2 \\pi , n = 5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, verify that the given choice of n in the remainder estimate $$| R_{n} | \\le \\frac{M}{( n + 1 ) \\text{!}} ( x - a )^{n + 1} ,$$ where M is the maximum value of $$| f^{( n + 1 )} ( z ) |$$ on the interval between a and the indicated point, yields $$| R_{n} | \\le \\frac{1}{1000} .$$ Find the value of the Taylor polynomial p n of $$f$$ at the indicated point.  If $$| R n |$$ is not less than $$1 / 1000$$ , determine what it is.",
+        "Question": "[T] e 2 ; $$a = 0 , n = 9$$",
+        "Image Links": [],
+        "Answer": "Using the estimate $$\\frac{2^{10}}{10 \\text{!}} < 0.000283$$ we can use the Taylor expansion of order 9 to estimate e x at $$x = 2 .$$ as $$e^{2} \\approx p_{9} ( 2 ) = 1 + 2 + \\frac{2^{2}}{2} + \\frac{2^{3}}{6} + \\text{cdots} + \\frac{2^{9}}{9 \\text{!}} = 7.3887 \\text{unicode[:ddot.]}$$ whereas $$e^{2} \\approx 7.3891 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, verify that the given choice of n in the remainder estimate $$| R_{n} | \\le \\frac{M}{( n + 1 ) \\text{!}} ( x - a )^{n + 1} ,$$ where M is the maximum value of $$| f^{( n + 1 )} ( z ) |$$ on the interval between a and the indicated point, yields $$| R_{n} | \\le \\frac{1}{1000} .$$ Find the value of the Taylor polynomial p n of $$f$$ at the indicated point.  If $$| R n |$$ is not less than $$1 / 1000$$ , determine what it is.",
+        "Question": "[T] $$\\text{cos} ( \\frac{\\pi}{5} ) ; a = 0 , n = 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, verify that the given choice of n in the remainder estimate $$| R_{n} | \\le \\frac{M}{( n + 1 ) \\text{!}} ( x - a )^{n + 1} ,$$ where M is the maximum value of $$| f^{( n + 1 )} ( z ) |$$ on the interval between a and the indicated point, yields $$| R_{n} | \\le \\frac{1}{1000} .$$ Find the value of the Taylor polynomial p n of $$f$$ at the indicated point.  If $$| R n |$$ is not less than $$1 / 1000$$ , determine what it is.",
+        "Question": "[T] $$\\text{ln} ( 2 ) ; a = 1 , n = 1000$$",
+        "Image Links": [],
+        "Answer": "Since $$\\frac{d^{n}}{d x^{n}} ( \\text{ln} x ) = ( -1 )^{n - 1} \\frac{( n - 1 ) \\text{!}}{x^{n}} , R_{1000} \\approx \\frac{1}{1001} .$$ One has $$p_{1000} ( 1 ) = \\sum_{n = 1}^{1000} \\frac{( -1 )^{n - 1}}{n} \\approx 0.6936$$ whereas $$\\text{ln} ( 2 ) \\approx 0.6931 \\text{cdots} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, verify that the given choice of n in the remainder estimate $$| R_{n} | \\le \\frac{M}{( n + 1 ) \\text{!}} ( x - a )^{n + 1} ,$$ where M is the maximum value of $$| f^{( n + 1 )} ( z ) |$$ on the interval between a and the indicated point, yields $$| R_{n} | \\le \\frac{1}{1000} .$$ Find the value of the Taylor polynomial p n of $$f$$ at the indicated point.  If $$| R n |$$ is not less than $$1 / 1000$$ , determine what it is.",
+        "Question": "Integrate the approximation $$\\text{sin} t \\approx t - \\frac{t^{3}}{6} + \\frac{t^{5}}{120} - \\frac{t^{7}}{5040}$$ evaluated at \u03c0t to approximate $$\\int_{0}^{1} \\frac{\\text{sin} \\pi t}{\\pi t} d t .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, verify that the given choice of n in the remainder estimate $$| R_{n} | \\le \\frac{M}{( n + 1 ) \\text{!}} ( x - a )^{n + 1} ,$$ where M is the maximum value of $$| f^{( n + 1 )} ( z ) |$$ on the interval between a and the indicated point, yields $$| R_{n} | \\le \\frac{1}{1000} .$$ Find the value of the Taylor polynomial p n of $$f$$ at the indicated point.  If $$| R n |$$ is not less than $$1 / 1000$$ , determine what it is.",
+        "Question": "Integrate the approximation $$e^{x} \\approx 1 + x + \\frac{x^{2}}{2} + \\text{cdots} + \\frac{x^{6}}{720}$$ evaluated at - x 2 to approximate $$\\int_{0}^{1} e^{\\text{unicode[:-]} x^{2}} d x .$$",
+        "Image Links": [],
+        "Answer": "$$\\int_{0}^{1} ( 1 - x^{2} + \\frac{x^{4}}{2} - \\frac{x^{6}}{6} + \\frac{x^{8}}{24} - \\frac{x^{10}}{120} + \\frac{x^{12}}{720} ) d x$$ $$= 1 - \\frac{1^{3}}{3} + \\frac{1^{5}}{10} - \\frac{1^{7}}{42} + \\frac{1^{9}}{9 \\cdotp 24} - \\frac{1^{11}}{120 \\cdotp 11} + \\frac{1^{13}}{720 \\cdotp 13} \\approx 0.74683$$ whereas $$\\int_{0}^{1} e^{\\text{unicode[:-]} x^{2}} d x \\approx 0.74682 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the smallest value of n such that the remainder estimate $$| R_{n} | \\le \\frac{M}{( n + 1 ) \\text{!}} ( x - a )^{n + 1} ,$$ where M is the maximum value of $$| f^{( n + 1 )} ( z ) |$$ on the interval between a and the indicated point, yields $$| R_{n} | \\le \\frac{1}{1000}$$ on the indicated interval.",
+        "Question": "$$f ( x ) = \\text{sin} x$$ on $$[ \\text{unicode[:-]} \\pi , \\pi ] , a = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the smallest value of n such that the remainder estimate $$| R_{n} | \\le \\frac{M}{( n + 1 ) \\text{!}} ( x - a )^{n + 1} ,$$ where M is the maximum value of $$| f^{( n + 1 )} ( z ) |$$ on the interval between a and the indicated point, yields $$| R_{n} | \\le \\frac{1}{1000}$$ on the indicated interval.",
+        "Question": "$$f ( x ) = \\text{cos} x$$ on $$[ - \\frac{\\pi}{2} , \\frac{\\pi}{2} ] , a = 0$$",
+        "Image Links": [],
+        "Answer": "Since $$f^{( n + 1 )} ( z )$$ is $$\\text{sin} z$$ or $$\\text{cos} z ,$$ we have $$M = 1 .$$ Since $$| x - 0 | \\le \\frac{\\pi}{2} ,$$ we seek the smallest n such that $$\\frac{\\pi^{n + 1}}{2^{n + 1} ( n + 1 ) \\text{!}} \\le 0.001 .$$ The smallest such value is $$n = 7 .$$ The remainder estimate is $$R_{7} \\le 0.00092 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the smallest value of n such that the remainder estimate $$| R_{n} | \\le \\frac{M}{( n + 1 ) \\text{!}} ( x - a )^{n + 1} ,$$ where M is the maximum value of $$| f^{( n + 1 )} ( z ) |$$ on the interval between a and the indicated point, yields $$| R_{n} | \\le \\frac{1}{1000}$$ on the indicated interval.",
+        "Question": "$$f ( x ) = e^{-2 x}$$ on $$[ -1 , 1 ] , a = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the smallest value of n such that the remainder estimate $$| R_{n} | \\le \\frac{M}{( n + 1 ) \\text{!}} ( x - a )^{n + 1} ,$$ where M is the maximum value of $$| f^{( n + 1 )} ( z ) |$$ on the interval between a and the indicated point, yields $$| R_{n} | \\le \\frac{1}{1000}$$ on the indicated interval.",
+        "Question": "$$f ( x ) = e^{\\text{unicode[:-]} x}$$ on $$[ -3 , 3 ] , a = 0$$",
+        "Image Links": [],
+        "Answer": "Since $$f^{( n + 1 )} ( z ) = \\text{unicode[:+-]} e^{\\text{unicode[:-]} z}$$ one has $$M = e^{3} .$$ Since $$| x - 0 | \\le 3 ,$$ one seeks the smallest n such that $$\\frac{3^{n + 1} e^{3}}{( n + 1 ) \\text{!}} \\le 0.001 .$$ The smallest such value is $$n = 14 .$$ The remainder estimate is $$R_{14} \\le 0.000220 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, the maximum of the right-hand side of the remainder estimate $$| R_{1} | \\le \\frac{\\text{max} | f^{\\second} ( z ) |}{2} R^{2}$$ on $$[ a - R , a + R ]$$ occurs at a or $$a \\pm R .$$ Estimate the maximum value of R such that $$\\frac{\\text{max} | f^{\\second} ( z ) |}{2} R^{2} \\le 0.1$$ on $$[ a - R , a + R ]$$ by plotting this maximum as a function of R .",
+        "Question": "[T] e x approximated by $$1 + x , a = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, the maximum of the right-hand side of the remainder estimate $$| R_{1} | \\le \\frac{\\text{max} | f^{\\second} ( z ) |}{2} R^{2}$$ on $$[ a - R , a + R ]$$ occurs at a or $$a \\pm R .$$ Estimate the maximum value of R such that $$\\frac{\\text{max} | f^{\\second} ( z ) |}{2} R^{2} \\le 0.1$$ on $$[ a - R , a + R ]$$ by plotting this maximum as a function of R .",
+        "Question": "[T] $$\\text{sin} x$$ approximated by x , $$a = 0$$",
+        "Image Links": [],
+        "Answer": "Since $$\\text{sin} x$$ is increasing for small x and since $$\\mathrm{si} n^{\\second} x = \\text{unicode[:-]} \\text{sin} x ,$$ the estimate applies whenever $$R^{2} \\text{sin} ( R ) \\le 0.2 ,$$ which applies up to $$R = 0.596 .$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ce15d7c627612b93aa83bdbb8dd9e97b570b7ebc"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, the maximum of the right-hand side of the remainder estimate $$| R_{1} | \\le \\frac{\\text{max} | f^{\\second} ( z ) |}{2} R^{2}$$ on $$[ a - R , a + R ]$$ occurs at a or $$a \\pm R .$$ Estimate the maximum value of R such that $$\\frac{\\text{max} | f^{\\second} ( z ) |}{2} R^{2} \\le 0.1$$ on $$[ a - R , a + R ]$$ by plotting this maximum as a function of R .",
+        "Question": "[T] $$\\text{ln} x$$ approximated by $$x - 1 , a = 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, the maximum of the right-hand side of the remainder estimate $$| R_{1} | \\le \\frac{\\text{max} | f^{\\second} ( z ) |}{2} R^{2}$$ on $$[ a - R , a + R ]$$ occurs at a or $$a \\pm R .$$ Estimate the maximum value of R such that $$\\frac{\\text{max} | f^{\\second} ( z ) |}{2} R^{2} \\le 0.1$$ on $$[ a - R , a + R ]$$ by plotting this maximum as a function of R .",
+        "Question": "[T] $$\\text{cos} x$$ approximated by $$1 , a = 0$$",
+        "Image Links": [],
+        "Answer": "Since the second derivative of $$\\text{cos} x$$ is $$\\text{unicode[:-]} \\text{cos} x$$ and since $$\\text{cos} x$$ is decreasing away from $$x = 0 ,$$ the estimate applies when $$R^{2} \\text{cos} R \\le 0.2$$ or $$R \\le 0.447 .$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/4731977bb869ac84d173f381a63b614e0018e43e"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the Taylor series of the given function centered at the indicated point.",
+        "Question": "$$x^{4}$$ at $$a = -1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the Taylor series of the given function centered at the indicated point.",
+        "Question": "$$1 + x + x^{2} + x^{3}$$ at $$a = -1$$",
+        "Image Links": [],
+        "Answer": "$$( x + 1 )^{3} - 2 ( x + 1 )^{2} + 2 ( x + 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the Taylor series of the given function centered at the indicated point.",
+        "Question": "$$\\text{sin} x$$ at $$a = \\pi$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the Taylor series of the given function centered at the indicated point.",
+        "Question": "$$\\text{cos} x$$ at $$a = 2 \\pi$$",
+        "Image Links": [],
+        "Answer": "Values of derivatives are the same as for $$x = 0$$ so $$\\text{cos} x = \\sum_{n = 0}^{\\infty} ( -1 )^{n} \\frac{( x - 2 \\pi )^{2 n}}{( 2 n ) \\text{!}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the Taylor series of the given function centered at the indicated point.",
+        "Question": "$$\\text{sin} x$$ at $$x = \\frac{\\pi}{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the Taylor series of the given function centered at the indicated point.",
+        "Question": "$$\\text{cos} x$$ at $$x = \\frac{\\pi}{2}$$",
+        "Image Links": [],
+        "Answer": "$$\\text{cos} ( \\frac{\\pi}{2} ) = 0 , \\text{unicode[:-]} \\text{sin} ( \\frac{\\pi}{2} ) = -1$$ so $$\\text{cos} x = \\sum_{n = 0}^{\\infty} ( -1 )^{n + 1} \\frac{( x - \\frac{\\pi}{2} )^{2 n + 1}}{( 2 n + 1 ) \\text{!}} ,$$ which is also $$\\text{unicode[:-]} \\text{cos} ( x - \\frac{\\pi}{2} ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the Taylor series of the given function centered at the indicated point.",
+        "Question": "$$e^{x}$$ at $$a = -1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the Taylor series of the given function centered at the indicated point.",
+        "Question": "$$e^{x}$$ at $$a = 1$$",
+        "Image Links": [],
+        "Answer": "The derivatives are $$f^{( n )} ( 1 ) = e$$ so $$e^{x} = e \\sum_{n = 0}^{\\infty} \\frac{( x - 1 )^{n}}{n \\text{!}} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the Taylor series of the given function centered at the indicated point.",
+        "Question": "$$\\frac{1}{( x - 1 )^{2}}$$ at $$a = 0$$ ( Hint: Differentiate $$\\frac{1}{1 - x} . )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the Taylor series of the given function centered at the indicated point.",
+        "Question": "$$\\frac{1}{( x - 1 )^{3}}$$ at $$a = 0$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{( x - 1 )^{3}} = \\text{unicode[:-]} ( \\frac{1}{2} ) \\frac{d^{2}}{d x^{2}} \\frac{1}{1 - x} = \\text{unicode[:-]} \\sum_{n = 0}^{\\infty} ( \\frac{( n + 2 ) ( n + 1 ) x^{n}}{2} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the Taylor series of the given function centered at the indicated point.",
+        "Question": "$$F ( x ) = \\int_{0}^{x} \\text{cos} ( \\sqrt{t} ) d t ; f ( t ) = \\sum_{n = 0}^{\\infty} ( -1 )^{n} \\frac{t^{n}}{( 2 n ) \\text{!}}$$ at $$a = 0$$ ( Note : $$f$$ is the Taylor series of $$\\text{cos} ( \\sqrt{t} ) . )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the Taylor series of each function around $$x = 1 .$$",
+        "Question": "$$f ( x ) = 2 - x$$",
+        "Image Links": [],
+        "Answer": "$$2 - x = 1 - ( x - 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the Taylor series of each function around $$x = 1 .$$",
+        "Question": "$$f ( x ) = x^{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the Taylor series of each function around $$x = 1 .$$",
+        "Question": "$$f ( x ) = ( x - 2 )^{2}$$",
+        "Image Links": [],
+        "Answer": "$$( ( x - 1 ) - 1 )^{2} = ( x - 1 )^{2} - 2 ( x - 1 ) + 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the Taylor series of each function around $$x = 1 .$$",
+        "Question": "$$f ( x ) = \\text{ln} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the Taylor series of each function around $$x = 1 .$$",
+        "Question": "$$f ( x ) = \\frac{1}{x}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{1 - ( 1 - x )} = \\sum_{n = 0}^{\\infty} ( -1 )^{n} ( x - 1 )^{n}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the Taylor series of each function around $$x = 1 .$$",
+        "Question": "$$f ( x ) = \\frac{1}{2 x - x^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the Taylor series of each function around $$x = 1 .$$",
+        "Question": "$$f ( x ) = \\frac{x}{4 x - 2 x^{2} - 1}$$",
+        "Image Links": [],
+        "Answer": "$$x \\sum_{n = 0}^{\\infty} 2^{n} ( 1 - x )^{2 n} = \\sum_{n = 0}^{\\infty} 2^{n} ( x - 1 )^{2 n + 1} + \\sum_{n = 0}^{\\infty} 2^{n} ( x - 1 )^{2 n}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the Taylor series of each function around $$x = 1 .$$",
+        "Question": "$$f ( x ) = e^{\\text{unicode[:-]} x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the Taylor series of each function around $$x = 1 .$$",
+        "Question": "$$f ( x ) = e^{2 x}$$",
+        "Image Links": [],
+        "Answer": "$$e^{2 x} = e^{2 ( x - 1 ) + 2} = e^{2} \\sum_{n = 0}^{\\infty} \\frac{2^{n} ( x - 1 )^{n}}{n \\text{!}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "[T] In the following exercises, identify the value of x such that the given series $$\\sum_{n = 0}^{\\infty} a_{n}$$ is the value of the Maclaurin series of $$f ( x )$$ at $$x .$$ Approximate the value of $$f ( x )$$ using $$S_{10} = \\sum_{n = 0}^{10} a_{n} .$$",
+        "Question": "$$\\sum_{n = 0}^{\\infty} \\frac{1}{n \\text{!}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "[T] In the following exercises, identify the value of x such that the given series $$\\sum_{n = 0}^{\\infty} a_{n}$$ is the value of the Maclaurin series of $$f ( x )$$ at $$x .$$ Approximate the value of $$f ( x )$$ using $$S_{10} = \\sum_{n = 0}^{10} a_{n} .$$",
+        "Question": "$$\\sum_{n = 0}^{\\infty} \\frac{2^{n}}{n \\text{!}}$$",
+        "Image Links": [],
+        "Answer": "$$x = e^{2} ; S_{10} = \\frac{34,913}{4725} \\approx 7.3889947$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "[T] In the following exercises, identify the value of x such that the given series $$\\sum_{n = 0}^{\\infty} a_{n}$$ is the value of the Maclaurin series of $$f ( x )$$ at $$x .$$ Approximate the value of $$f ( x )$$ using $$S_{10} = \\sum_{n = 0}^{10} a_{n} .$$",
+        "Question": "$$\\sum_{n = 0}^{\\infty} \\frac{( -1 )^{n} ( 2 \\pi )^{2 n}}{( 2 n ) \\text{!}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "[T] In the following exercises, identify the value of x such that the given series $$\\sum_{n = 0}^{\\infty} a_{n}$$ is the value of the Maclaurin series of $$f ( x )$$ at $$x .$$ Approximate the value of $$f ( x )$$ using $$S_{10} = \\sum_{n = 0}^{10} a_{n} .$$",
+        "Question": "$$\\sum_{n = 0}^{\\infty} \\frac{( -1 )^{n} ( 2 \\pi )^{2 n + 1}}{( 2 n + 1 ) \\text{!}}$$",
+        "Image Links": [],
+        "Answer": "$$\\text{sin} ( 2 \\pi ) = 0 ; S_{10} = 8.27 \\times 10^{-5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The following exercises make use of the functions $$S_{5} ( x ) = x - \\frac{x^{3}}{6} + \\frac{x^{5}}{120}$$ and $$C_{4} ( x ) = 1 - \\frac{x^{2}}{2} + \\frac{x^{4}}{24}$$ on $$[ \\text{unicode[:-]} \\pi , \\pi ] .$$",
+        "Question": "[T] Plot $$\\text{sin}^{2} x - ( S_{5} ( x ) )^{2}$$ on $$[ \\text{unicode[:-]} \\pi , \\pi ] .$$ Compare the maximum difference with the square of the Taylor remainder estimate for $$\\text{sin} x .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The following exercises make use of the functions $$S_{5} ( x ) = x - \\frac{x^{3}}{6} + \\frac{x^{5}}{120}$$ and $$C_{4} ( x ) = 1 - \\frac{x^{2}}{2} + \\frac{x^{4}}{24}$$ on $$[ \\text{unicode[:-]} \\pi , \\pi ] .$$",
+        "Question": "[T] Plot $$\\text{cos}^{2} x - ( C_{4} ( x ) )^{2}$$ on $$[ \\text{unicode[:-]} \\pi , \\pi ] .$$ Compare the maximum difference with the square of the Taylor remainder estimate for $$\\text{cos} x .$$",
+        "Image Links": [],
+        "Answer": "The difference is small on the interior of the interval but approaches $$1$$ near the endpoints. The remainder estimate is $$| R_{4} | = \\frac{\\pi^{5}}{120} \\approx 2.552 .$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7dc376cc1a61b7bdc2c2fd459a6d3270981ff62f"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The following exercises make use of the functions $$S_{5} ( x ) = x - \\frac{x^{3}}{6} + \\frac{x^{5}}{120}$$ and $$C_{4} ( x ) = 1 - \\frac{x^{2}}{2} + \\frac{x^{4}}{24}$$ on $$[ \\text{unicode[:-]} \\pi , \\pi ] .$$",
+        "Question": "[T] Plot $$| 2 S_{5} ( x ) C_{4} ( x ) - \\text{sin} ( 2 x ) |$$ on $$[ \\text{unicode[:-]} \\pi , \\pi ] .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The following exercises make use of the functions $$S_{5} ( x ) = x - \\frac{x^{3}}{6} + \\frac{x^{5}}{120}$$ and $$C_{4} ( x ) = 1 - \\frac{x^{2}}{2} + \\frac{x^{4}}{24}$$ on $$[ \\text{unicode[:-]} \\pi , \\pi ] .$$",
+        "Question": "[T] Compare $$\\frac{S_{5} ( x )}{C_{4} ( x )}$$ on $$[ -1 , 1 ]$$ to $$\\text{tan} x .$$ Compare this with the Taylor remainder estimate for the approximation of $$\\text{tan} x$$ by $$x + \\frac{x^{3}}{3} + \\frac{2 x^{5}}{15} .$$",
+        "Image Links": [],
+        "Answer": "The difference is on the order of $$10^{-4}$$ on $$[ -1 , 1 ]$$ while the Taylor approximation error is around $$0.1$$ near $$\\pm 1 .$$ The top curve is a plot of $$\\text{tan}^{2} x - ( \\frac{S_{5} ( x )}{C_{4} ( x )} )^{2}$$ and the lower dashed plot shows $$t^{2} - ( \\frac{S_{5}}{C_{4}} )^{2} .$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a927d1abba510a04b7eacea47c572c7c74d5a657"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The following exercises make use of the functions $$S_{5} ( x ) = x - \\frac{x^{3}}{6} + \\frac{x^{5}}{120}$$ and $$C_{4} ( x ) = 1 - \\frac{x^{2}}{2} + \\frac{x^{4}}{24}$$ on $$[ \\text{unicode[:-]} \\pi , \\pi ] .$$",
+        "Question": "[T] Plot $$e^{x} - e_{4} ( x )$$ where $$e_{4} ( x ) = 1 + x + \\frac{x^{2}}{2} + \\frac{x^{3}}{6} + \\frac{x^{4}}{24}$$ on $$[ 0 , 2 ] .$$ Compare the maximum error with the Taylor remainder estimate.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The following exercises make use of the functions $$S_{5} ( x ) = x - \\frac{x^{3}}{6} + \\frac{x^{5}}{120}$$ and $$C_{4} ( x ) = 1 - \\frac{x^{2}}{2} + \\frac{x^{4}}{24}$$ on $$[ \\text{unicode[:-]} \\pi , \\pi ] .$$",
+        "Question": "(Taylor approximations and root finding.) Recall that Newton\u2019s method $$x_{n + 1} = x_{n} - \\frac{f ( x_{n} )}{f \\prime ( x_{n} )}$$ approximates solutions of $$f ( x ) = 0$$ near the input $$x_{0} .$$ If $$f$$ and $$g$$ are inverse functions, explain why a solution of $$g ( x ) = a$$ is the value $$f ( a ) \\text{of} f .$$ Let $$p_{N} ( x )$$ be the $$N \\text{th}$$ degree Maclaurin polynomial of $$e^{x} .$$ Use Newton\u2019s method to approximate solutions of $$p_{N} ( x ) - 2 = 0$$ for $$N = 4 , 5 , 6 .$$ Explain why the approximate roots of $$p_{N} ( x ) - 2 = 0$$ are approximate values of $$\\text{ln} ( 2 ) .$$",
+        "Image Links": [],
+        "Answer": "a. Answers will vary. b. The following are the $$x_{n}$$ values after $$10$$ iterations of Newton\u2019s method to approximation a root of $$p_{N} ( x ) - 2 = 0 \\text{:}$$ for $$N = 4 , x = 0.6939... ;$$ for $$N = 5 , x = 0.6932... ;$$ for $$N = 6 , x = 0.69315... ; .$$ ( Note: $$\\text{ln} ( 2 ) = 0.69314 ... )$$ c. Answers will vary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the fact that if $$q ( x ) = \\sum_{n = 1}^{\\infty} a_{n} ( x - c )^{n}$$ converges in an interval containing $$c ,$$ then $$\\underset{x \\rightarrow c}{\\text{lim}} q \\left(\\right. x \\left.\\right) = a_{0}^{}$$ to evaluate each limit using Taylor series.",
+        "Question": "$$\\underset{x \\rightarrow 0}{\\text{lim}} \\frac{\\text{cos} x - 1}{x^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the fact that if $$q ( x ) = \\sum_{n = 1}^{\\infty} a_{n} ( x - c )^{n}$$ converges in an interval containing $$c ,$$ then $$\\underset{x \\rightarrow c}{\\text{lim}} q \\left(\\right. x \\left.\\right) = a_{0}^{}$$ to evaluate each limit using Taylor series.",
+        "Question": "$$\\underset{x \\rightarrow 0}{\\text{lim}} \\frac{\\text{ln} \\left(\\right. 1 - x^{2} \\left.\\right)}{x^{2}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\text{ln} ( 1 - x^{2} )}{x^{2}} \\vec{} \\text{unicode[:-]} 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the fact that if $$q ( x ) = \\sum_{n = 1}^{\\infty} a_{n} ( x - c )^{n}$$ converges in an interval containing $$c ,$$ then $$\\underset{x \\rightarrow c}{\\text{lim}} q \\left(\\right. x \\left.\\right) = a_{0}^{}$$ to evaluate each limit using Taylor series.",
+        "Question": "$$\\underset{x \\rightarrow 0}{\\text{lim}} \\frac{e^{x^{2}} - x^{2} - 1}{x^{4}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the fact that if $$q ( x ) = \\sum_{n = 1}^{\\infty} a_{n} ( x - c )^{n}$$ converges in an interval containing $$c ,$$ then $$\\underset{x \\rightarrow c}{\\text{lim}} q \\left(\\right. x \\left.\\right) = a_{0}^{}$$ to evaluate each limit using Taylor series.",
+        "Question": "$$\\underset{x \\rightarrow 0^{+}}{\\text{lim}} \\frac{\\text{cos} \\left(\\right. \\sqrt{x} \\left.\\right) - 1}{2 x}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\text{cos} ( \\sqrt{x} ) - 1}{2 x} \\approx \\frac{( 1 - \\frac{x}{2} + \\frac{x^{2}}{4 \\text{!}} - \\text{cdots} ) - 1}{2 x} \\vec{} - \\frac{1}{4}$$",
+        "Answer Image Links": []
+    }
+]

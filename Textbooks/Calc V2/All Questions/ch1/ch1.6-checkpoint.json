@@ -1,0 +1,74 @@
+[
+    {
+        "Topic": "Checkpoint 1.31",
+        "Problem Statement": "",
+        "Question": "Find the antiderivative of the function using substitution: $$x^{2} e^{-2 x^{3}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\int x^{2} e^{-2 x^{3}} d x = - \\frac{1}{6} e^{-2 x^{3}} + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 1.32",
+        "Problem Statement": "",
+        "Question": "Find the antiderivative of $$e^{x} ( 3 e^{x} - 2 )^{2} .$$",
+        "Image Links": [],
+        "Answer": "$$\\int e^{x} ( 3 e^{x} - 2 )^{2} d x = \\frac{1}{9} ( 3 e^{x} - 2 )^{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 1.33",
+        "Problem Statement": "",
+        "Question": "Evaluate the indefinite integral $$\\int 2 x^{3} e^{x^{4}} d x .$$",
+        "Image Links": [],
+        "Answer": "$$\\int 2 x^{3} e^{x^{4}} d x = \\frac{1}{2} e^{x^{4}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 1.34",
+        "Problem Statement": "",
+        "Question": "Evaluate $$\\int_{0}^{2} e^{2 x} d x .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{2} \\int_{0}^{4} e^{u} d u = \\frac{1}{2} ( e^{4} - 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 1.35",
+        "Problem Statement": "",
+        "Question": "From Example 1.42 , suppose the bacteria grow at a rate of $$q ( t ) = 2^{t} .$$ Assume the culture still starts with 10,000 bacteria. Find $$Q ( t ) .$$ How many bacteria are in the dish after 3 hours?",
+        "Image Links": [],
+        "Answer": "$$Q ( t ) = \\frac{2^{t}}{\\text{ln} 2} + 8.557 .$$ There are 20,099 bacteria in the dish after 3 hours.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 1.36",
+        "Problem Statement": "",
+        "Question": "Suppose the rate of growth of the fly population is given by $$g ( t ) = e^{0.01 t} ,$$ and the initial fly population is 100 flies. How many flies are in the population after 15 days?",
+        "Image Links": [],
+        "Answer": "There are 116 flies.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 1.37",
+        "Problem Statement": "",
+        "Question": "Evaluate the definite integral using substitution: $$\\int_{1}^{2} \\frac{1}{x^{3}} e^{4 x^{-2}} d x .$$",
+        "Image Links": [],
+        "Answer": "$$\\int_{1}^{2} \\frac{1}{x^{3}} e^{4 x^{-2}} d x = \\frac{1}{8} [ e^{4} - e ]$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 1.38",
+        "Problem Statement": "",
+        "Question": "Find the antiderivative of $$\\frac{1}{x + 2} .$$",
+        "Image Links": [],
+        "Answer": "$$\\text{ln} | x + 2 | + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 1.39",
+        "Problem Statement": "",
+        "Question": "Find the antiderivative of $$\\text{log}_{3} x .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{x}{\\text{ln} 3} ( \\text{ln} x - 1 ) + C$$",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,210 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "True or False? Justify your answer with a proof or a counterexample.",
+        "Question": "If $$\\underset{n \\rightarrow \\infty}{\\text{lim}} a_{n} = 0 ,$$ then $$\\sum_{n = 1}^{\\infty} a_{n}$$ converges.",
+        "Image Links": [],
+        "Answer": "false",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "True or False? Justify your answer with a proof or a counterexample.",
+        "Question": "If $$\\underset{n \\rightarrow \\infty}{\\text{lim}} a_{n} \\neq 0 ,$$ then $$\\sum_{n = 1}^{\\infty} a_{n}$$ diverges.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "True or False? Justify your answer with a proof or a counterexample.",
+        "Question": "If $$\\sum_{n = 1}^{\\infty} | a_{n} |$$ converges, then $$\\sum_{n = 1}^{\\infty} a_{n}$$ converges.",
+        "Image Links": [],
+        "Answer": "true",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "True or False? Justify your answer with a proof or a counterexample.",
+        "Question": "If $$\\sum_{n = 1}^{\\infty} 2^{n} a_{n}$$ converges, then $$\\sum_{n = 1}^{\\infty} ( -2 )^{n} a_{n}$$ converges.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Is the sequence bounded, monotone, and convergent or divergent? If it is convergent, find the limit.",
+        "Question": "$$a_{n} = \\frac{3 + n^{2}}{1 - n}$$",
+        "Image Links": [],
+        "Answer": "unbounded, not monotone, divergent",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Is the sequence bounded, monotone, and convergent or divergent? If it is convergent, find the limit.",
+        "Question": "$$a_{n} = \\text{ln} ( \\frac{1}{n} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Is the sequence bounded, monotone, and convergent or divergent? If it is convergent, find the limit.",
+        "Question": "$$a_{n} = \\frac{\\text{ln} ( n + 1 )}{\\sqrt{n + 1}}$$",
+        "Image Links": [],
+        "Answer": "bounded, monotone, convergent, $$0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Is the sequence bounded, monotone, and convergent or divergent? If it is convergent, find the limit.",
+        "Question": "$$a_{n} = \\frac{2^{n + 1}}{5^{n}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Is the sequence bounded, monotone, and convergent or divergent? If it is convergent, find the limit.",
+        "Question": "$$a_{n} = \\frac{\\text{ln} ( \\text{cos} n )}{n}$$",
+        "Image Links": [],
+        "Answer": "unbounded, not monotone, divergent",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Is the series convergent or divergent?",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{1}{n^{2} + 5 n + 4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Is the series convergent or divergent?",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\text{ln} ( \\frac{n + 1}{n} )$$",
+        "Image Links": [],
+        "Answer": "diverges",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Is the series convergent or divergent?",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{2^{n}}{n^{4}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Is the series convergent or divergent?",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{e^{n}}{n \\text{!}}$$",
+        "Image Links": [],
+        "Answer": "converges",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Is the series convergent or divergent?",
+        "Question": "$$\\sum_{n = 1}^{\\infty} n^{\\text{unicode[:-]} ( n + 1 \\text{/} n )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Is the series convergent or divergent? If convergent, is it absolutely convergent?",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{( -1 )^{n}}{\\sqrt{n}}$$",
+        "Image Links": [],
+        "Answer": "converges, but not absolutely",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Is the series convergent or divergent? If convergent, is it absolutely convergent?",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{( -1 )^{n} n \\text{!}}{3^{n}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Is the series convergent or divergent? If convergent, is it absolutely convergent?",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{( -1 )^{n} n \\text{!}}{n^{n}}$$",
+        "Image Links": [],
+        "Answer": "converges absolutely",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Is the series convergent or divergent? If convergent, is it absolutely convergent?",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\text{sin} ( \\frac{n \\pi}{2} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Is the series convergent or divergent? If convergent, is it absolutely convergent?",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\text{cos} ( \\pi n ) e^{\\text{unicode[:-]} n}$$",
+        "Image Links": [],
+        "Answer": "converges absolutely",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Evaluate",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{2^{n + 4}}{7^{n}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Evaluate",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{1}{( n + 1 ) ( n + 2 )}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Evaluate",
+        "Question": "A legend from India tells that a mathematician invented chess for a king. The king enjoyed the game so much he allowed the mathematician to demand any payment. The mathematician asked for one grain of rice for the first square on the chessboard, two grains of rice for the second square on the chessboard, four grains of rice for the third square on the chessboard, and so on. Find an exact expression for the total payment (in grains of rice) requested by the mathematician. Assuming there are $$30,000$$ grains of rice in $$1$$ pound, and $$2000$$ pounds in $$1$$ ton, how many tons of rice did the mathematician attempt to receive?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The following problems consider a simple population model of the housefly, which can be exhibited by the recursive formula $$x_{n + 1} = b x_{n} ,$$ where $$x_{n}$$ is the population of houseflies at generation $$n ,$$ and $$b$$ is the average number of offspring per housefly who survive to the next generation. Assume a starting population $$x_{0} .$$",
+        "Question": "Find $$\\underset{n \\rightarrow \\infty}{\\text{lim}} x_{n}$$ if $$b > 1 ,$$ $$b < 1 ,$$ and $$b = 1 .$$",
+        "Image Links": [],
+        "Answer": "$$\\infty ,$$ $$0 ,$$ $$x_{0}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The following problems consider a simple population model of the housefly, which can be exhibited by the recursive formula $$x_{n + 1} = b x_{n} ,$$ where $$x_{n}$$ is the population of houseflies at generation $$n ,$$ and $$b$$ is the average number of offspring per housefly who survive to the next generation. Assume a starting population $$x_{0} .$$",
+        "Question": "Find an expression for $$S_{n} = \\sum_{i = 0}^{n} x_{i}$$ in terms of $$b$$ and $$x_{0} .$$ What does it physically represent?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The following problems consider a simple population model of the housefly, which can be exhibited by the recursive formula $$x_{n + 1} = b x_{n} ,$$ where $$x_{n}$$ is the population of houseflies at generation $$n ,$$ and $$b$$ is the average number of offspring per housefly who survive to the next generation. Assume a starting population $$x_{0} .$$",
+        "Question": "If $$b = \\frac{3}{4}$$ and $$x_{0} = 100 ,$$ find $$S_{10}$$ and $$\\underset{n \\rightarrow \\infty}{\\text{lim}} S_{n}$$",
+        "Image Links": [],
+        "Answer": "$$S_{10} \\approx 383 ,$$ $$\\underset{n \\rightarrow \\infty}{\\text{lim}} S_{n} = 400$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The following problems consider a simple population model of the housefly, which can be exhibited by the recursive formula $$x_{n + 1} = b x_{n} ,$$ where $$x_{n}$$ is the population of houseflies at generation $$n ,$$ and $$b$$ is the average number of offspring per housefly who survive to the next generation. Assume a starting population $$x_{0} .$$",
+        "Question": "For what values of $$b$$ will the series converge and diverge? What does the series converge to?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

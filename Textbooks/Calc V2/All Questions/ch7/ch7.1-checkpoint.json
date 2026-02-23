@@ -1,0 +1,30 @@
+[
+    {
+        "Topic": "Checkpoint 7.1",
+        "Problem Statement": "",
+        "Question": "Sketch the curve described by the parametric equations $$x ( t ) = 3 t + 2 , y ( t ) = t^{2} - 1 , -3 \\le t \\le 2 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d777f6e8b35fa6012d45ef71293d954559e16175"
+        ]
+    },
+    {
+        "Topic": "Checkpoint 7.2",
+        "Problem Statement": "",
+        "Question": "Eliminate the parameter for the plane curve defined by the following parametric equations and describe the resulting graph. $$x ( t ) = 2 + \\frac{3}{t} , y ( t ) = t - 1 , 2 \\le t \\le 6$$",
+        "Image Links": [],
+        "Answer": "$$x = 2 + \\frac{3}{y + 1} ,$$ or $$y = -1 + \\frac{3}{x - 2} .$$ This equation describes a portion of a rectangular hyperbola centered at $$( 2 , -1 ) .$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/950e07492151e3f07d7cd94ee98b8dc94aedcb9c"
+        ]
+    },
+    {
+        "Topic": "Checkpoint 7.3",
+        "Problem Statement": "",
+        "Question": "Find two different sets of parametric equations to represent the graph of $$y = x^{2} + 2 x .$$",
+        "Image Links": [],
+        "Answer": "One possibility is $$x ( t ) = t , y ( t ) = t^{2} + 2 t .$$ Another possibility is $$x ( t ) = 2 t - 3 , y ( t ) = ( 2 t - 3 )^{2} + 2 ( 2 t - 3 ) = 4 t^{2} - 8 t + 3 .$$ There are, in fact, an infinite number of possibilities.",
+        "Answer Image Links": []
+    }
+]

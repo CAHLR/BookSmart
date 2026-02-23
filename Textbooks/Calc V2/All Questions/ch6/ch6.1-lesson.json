@@ -1,0 +1,504 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, state whether each statement is true, or give an example to show that it is false.",
+        "Question": "If $$\\sum_{n = 1}^{\\infty} a_{n} x^{n}$$ converges, then $$a_{n} x^{n} \\vec{} 0$$ as $$n \\vec{} \\infty .$$",
+        "Image Links": [],
+        "Answer": "True. If a series converges then its terms tend to zero.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, state whether each statement is true, or give an example to show that it is false.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} a_{n} x^{n}$$ converges at $$x = 0$$ for any real numbers $$a_{n} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, state whether each statement is true, or give an example to show that it is false.",
+        "Question": "Given any sequence $$a_{n} ,$$ there is always some $$R > 0 ,$$ possibly very small, such that $$\\sum_{n = 1}^{\\infty} a_{n} x^{n}$$ converges on $$( \\text{unicode[:-]} R , R ) .$$",
+        "Image Links": [],
+        "Answer": "False. It would imply that $$a_{n} x^{n} \\vec{} 0$$ for $$| x | < R .$$ If $$a_{n} = n^{n} ,$$ then $$a_{n} x^{n} = ( n x )^{n}$$ does not tend to zero for any $$x \\ne 0 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, state whether each statement is true, or give an example to show that it is false.",
+        "Question": "If $$\\sum_{n = 1}^{\\infty} a_{n} x^{n}$$ has radius of convergence $$R > 0$$ and if $$| b_{n} | \\le | a_{n} |$$ for all n , then the radius of convergence of $$\\sum_{n = 1}^{\\infty} b_{n} x^{n}$$ is greater than or equal to R .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, state whether each statement is true, or give an example to show that it is false.",
+        "Question": "Suppose that $$\\sum_{n = 0}^{\\infty} a_{n} ( x - 3 )^{n}$$ converges at $$x = 6 .$$ At which of the following points might the series diverge? Use the fact that if $$\\sum a_{n} ( x - c )^{n}$$ converges at x , then it converges at any point closer to c than x . $$x = 1$$ $$x = 2$$ $$x = 3$$ $$x = 0$$ $$x = 5.99$$ $$x = 0.000001$$",
+        "Image Links": [],
+        "Answer": "It must converge on $$( 0 , 6 ]$$ and hence at: a. $$x = 1 ;$$ b. $$x = 2 ;$$ c. $$x = 3 ;$$ d. $$x = 0 ;$$ e. $$x = 5.99 ;$$ and f. $$x = 0.000001 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, state whether each statement is true, or give an example to show that it is false.",
+        "Question": "Suppose that $$\\sum_{n = 0}^{\\infty} a_{n} ( x + 1 )^{n}$$ converges at $$x = -2 .$$ At which of the following points must the series also converge? Use the fact that if $$\\sum a_{n} ( x - c )^{n}$$ converges at x , then it converges at any point closer to c than x . $$x = 2$$ $$x = -1$$ $$x = -3$$ $$x = 0$$ $$x = 0.99$$ $$x = 0.000001$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, suppose that $$| \\frac{a_{n + 1}}{a_{n}} | \\vec{} 1$$ as $$n \\vec{} \\infty .$$ Find the radius of convergence for each series.",
+        "Question": "$$\\sum_{n = 0}^{\\infty} a_{n} 2^{n} x^{n}$$",
+        "Image Links": [],
+        "Answer": "$$| \\frac{a_{n + 1} 2^{n + 1} x^{n + 1}}{a_{n} 2^{n} x^{n}} | = 2 | x | | \\frac{a_{n + 1}}{a_{n}} | \\vec{} 2 | x |$$ so $$R = \\frac{1}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, suppose that $$| \\frac{a_{n + 1}}{a_{n}} | \\vec{} 1$$ as $$n \\vec{} \\infty .$$ Find the radius of convergence for each series.",
+        "Question": "$$\\sum_{n = 0}^{\\infty} \\frac{a_{n} x^{n}}{2^{n}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, suppose that $$| \\frac{a_{n + 1}}{a_{n}} | \\vec{} 1$$ as $$n \\vec{} \\infty .$$ Find the radius of convergence for each series.",
+        "Question": "$$\\sum_{n = 0}^{\\infty} \\frac{a_{n} \\pi^{n} x^{n}}{e^{n}}$$",
+        "Image Links": [],
+        "Answer": "$$| \\frac{a_{n + 1} ( \\frac{\\pi}{e} )^{n + 1} x^{n + 1}}{a_{n} ( \\frac{\\pi}{e} )^{n} x^{n}} | = \\frac{\\pi | x |}{e} | \\frac{a_{n + 1}}{a_{n}} | \\vec{} \\frac{\\pi | x |}{e}$$ so $$R = \\frac{e}{\\pi}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, suppose that $$| \\frac{a_{n + 1}}{a_{n}} | \\vec{} 1$$ as $$n \\vec{} \\infty .$$ Find the radius of convergence for each series.",
+        "Question": "$$\\sum_{n = 0}^{\\infty} \\frac{a_{n} ( -1 )^{n} x^{n}}{10^{n}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, suppose that $$| \\frac{a_{n + 1}}{a_{n}} | \\vec{} 1$$ as $$n \\vec{} \\infty .$$ Find the radius of convergence for each series.",
+        "Question": "$$\\sum_{n = 0}^{\\infty} a_{n} ( -1 )^{n} x^{2 n}$$",
+        "Image Links": [],
+        "Answer": "$$| \\frac{a_{n + 1} ( -1 )^{n + 1} x^{2 n + 2}}{a_{n} ( -1 )^{n} x^{2 n}} | = | x^{2} | | \\frac{a_{n + 1}}{a_{n}} | \\vec{} | x^{2} |$$ so $$R = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, suppose that $$| \\frac{a_{n + 1}}{a_{n}} | \\vec{} 1$$ as $$n \\vec{} \\infty .$$ Find the radius of convergence for each series.",
+        "Question": "$$\\sum_{n = 0}^{\\infty} a_{n} ( -4 )^{n} x^{2 n}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the radius of convergence R and interval of convergence for $$\\sum a_{n} x^{n}$$ with the given coefficients $$a_{n} .$$",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{( 2 x )^{n}}{n}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = \\frac{2^{n}}{n}$$ so $$\\frac{a_{n + 1} x}{a_{n}} \\vec{} 2 x .$$ so $$R = \\frac{1}{2} .$$ When $$x = \\frac{1}{2}$$ the series is harmonic and diverges. When $$x = - \\frac{1}{2}$$ the series is alternating harmonic and converges. The interval of convergence is $$I = [ - \\frac{1}{2} , \\frac{1}{2} ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the radius of convergence R and interval of convergence for $$\\sum a_{n} x^{n}$$ with the given coefficients $$a_{n} .$$",
+        "Question": "$$\\sum_{n = 1}^{\\infty} ( -1 )^{n} \\frac{x^{n}}{\\sqrt{n}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the radius of convergence R and interval of convergence for $$\\sum a_{n} x^{n}$$ with the given coefficients $$a_{n} .$$",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{n x^{n}}{2^{n}}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = \\frac{n}{2^{n}}$$ so $$\\frac{a_{n + 1} x}{a_{n}} \\vec{} \\frac{x}{2}$$ so $$R = 2 .$$ When $$x = \\text{unicode[:+-]} 2$$ the series diverges by the divergence test. The interval of convergence is $$I = ( -2 , 2 ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the radius of convergence R and interval of convergence for $$\\sum a_{n} x^{n}$$ with the given coefficients $$a_{n} .$$",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{n x^{n}}{e^{n}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the radius of convergence R and interval of convergence for $$\\sum a_{n} x^{n}$$ with the given coefficients $$a_{n} .$$",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{n^{2} x^{n}}{2^{n}}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = \\frac{n^{2}}{2^{n}}$$ so $$R = 2 .$$ When $$x = \\text{unicode[:+-]} 2$$ the series diverges by the divergence test. The interval of convergence is $$I = ( -2 , 2 ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the radius of convergence R and interval of convergence for $$\\sum a_{n} x^{n}$$ with the given coefficients $$a_{n} .$$",
+        "Question": "$$\\sum_{k = 1}^{\\infty} \\frac{k^{e} x^{k}}{e^{k}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the radius of convergence R and interval of convergence for $$\\sum a_{n} x^{n}$$ with the given coefficients $$a_{n} .$$",
+        "Question": "$$\\sum_{k = 1}^{\\infty} \\frac{\\pi^{k} x^{k}}{k^{\\pi}}$$",
+        "Image Links": [],
+        "Answer": "$$a_{k} = \\frac{\\pi^{k}}{k^{\\pi}}$$ so $$R = \\frac{1}{\\pi} .$$ When $$x = \\text{unicode[:+-]} \\frac{1}{\\pi}$$ the series is an absolutely convergent p -series. The interval of convergence is $$I = [ - \\frac{1}{\\pi} , \\frac{1}{\\pi} ] .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the radius of convergence R and interval of convergence for $$\\sum a_{n} x^{n}$$ with the given coefficients $$a_{n} .$$",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{x^{n}}{n \\text{!}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the radius of convergence R and interval of convergence for $$\\sum a_{n} x^{n}$$ with the given coefficients $$a_{n} .$$",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{10^{n} x^{n}}{n \\text{!}}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = \\frac{10^{n}}{n \\text{!}} , \\frac{a_{n + 1} x}{a_{n}} = \\frac{10 x}{n + 1} \\vec{} 0 < 1$$ so the series converges for all x by the ratio test and $$I = ( \\text{unicode[:-]} \\infty , \\infty ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the radius of convergence R and interval of convergence for $$\\sum a_{n} x^{n}$$ with the given coefficients $$a_{n} .$$",
+        "Question": "$$\\sum_{n = 1}^{\\infty} ( -1 )^{n} \\frac{x^{n}}{\\text{ln} ( 2 n )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the radius of convergence of each series.",
+        "Question": "$$\\sum_{k = 1}^{\\infty} \\frac{( k \\text{!} )^{2} x^{k}}{( 2 k ) \\text{!}}$$",
+        "Image Links": [],
+        "Answer": "$$a_{k} = \\frac{( k \\text{!} )^{2}}{( 2 k ) \\text{!}}$$ so $$\\frac{a_{k + 1}}{a_{k}} = \\frac{( k + 1 )^{2}}{( 2 k + 2 ) ( 2 k + 1 )} \\vec{} \\frac{1}{4}$$ so $$R = 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the radius of convergence of each series.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{( 2 n ) \\text{!} x^{n}}{n^{2 n}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the radius of convergence of each series.",
+        "Question": "$$\\sum_{k = 1}^{\\infty} \\frac{k \\text{!}}{1 \\cdotp 3 \\cdotp 5 \\text{cdots} ( 2 k - 1 )} x^{k}$$",
+        "Image Links": [],
+        "Answer": "$$a_{k} = \\frac{k \\text{!}}{1 \\cdotp 3 \\cdotp 5 \\text{cdots} ( 2 k - 1 )}$$ so $$\\frac{a_{k + 1}}{a_{k}} = \\frac{k + 1}{2 k + 1} \\vec{} \\frac{1}{2}$$ so $$R = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the radius of convergence of each series.",
+        "Question": "$$\\sum_{k = 1}^{\\infty} \\frac{2 \\cdotp 4 \\cdotp 6 \\text{cdots} 2 k}{( 2 k ) \\text{!}} x^{k}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the radius of convergence of each series.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{x^{n}}{\\left (\\begin{matrix}2 n \\\\ n\\end{matrix}\\right )}$$ where $$\\left (\\begin{matrix}n \\\\ k\\end{matrix}\\right ) = \\frac{n \\text{!}}{k \\text{!} ( n - k ) \\text{!}}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = \\frac{1}{\\left (\\begin{matrix}2 n \\\\ n\\end{matrix}\\right )}$$ so $$\\frac{a_{n + 1}}{a_{n}} = \\frac{( ( n + 1 ) \\text{!} )^{2}}{( 2 n + 2 ) \\text{!}} \\frac{2 n \\text{!}}{( n \\text{!} )^{2}} = \\frac{( n + 1 )^{2}}{( 2 n + 2 ) ( 2 n + 1 )} \\vec{} \\frac{1}{4}$$ so $$R = 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the radius of convergence of each series.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\text{sin}^{2} n x^{n}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the ratio test to determine the radius of convergence of each series.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{( n \\text{!} )^{3}}{( 3 n ) \\text{!}} x^{n}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{a_{n + 1}}{a_{n}} = \\frac{( n + 1 )^{3}}{( 3 n + 3 ) ( 3 n + 2 ) ( 3 n + 1 )} \\vec{} \\frac{1}{27}$$ so $$R = 27$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the ratio test to determine the radius of convergence of each series.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{2^{3 n} ( n \\text{!} )^{3}}{( 3 n ) \\text{!}} x^{n}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the ratio test to determine the radius of convergence of each series.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{n \\text{!}}{n^{n}} x^{n}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = \\frac{n \\text{!}}{n^{n}}$$ so $$\\frac{a_{n + 1}}{a_{n}} = \\frac{( n + 1 ) \\text{!}}{n \\text{!}} \\frac{n^{n}}{( n + 1 )^{n + 1}} = ( \\frac{n}{n + 1} )^{n} \\vec{} \\frac{1}{e}$$ so $$R = e$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the ratio test to determine the radius of convergence of each series.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{( 2 n ) \\text{!}}{n^{2 n}} x^{n}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given that $$\\frac{1}{1 - x} = \\sum_{n = 0}^{\\infty} x^{n}$$ with convergence in $$( -1 , 1 ) ,$$ find the power series for each function with the given center a , and identify its interval of convergence.",
+        "Question": "$$f ( x ) = \\frac{1}{x} ; a = 1$$ ( Hint: $$\\frac{1}{x} = \\frac{1}{1 - ( 1 - x )} )$$",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = \\sum_{n = 0}^{\\infty} ( 1 - x )^{n}$$ on $$I = ( 0 , 2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given that $$\\frac{1}{1 - x} = \\sum_{n = 0}^{\\infty} x^{n}$$ with convergence in $$( -1 , 1 ) ,$$ find the power series for each function with the given center a , and identify its interval of convergence.",
+        "Question": "$$f ( x ) = \\frac{1}{1 - x^{2}} ; a = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given that $$\\frac{1}{1 - x} = \\sum_{n = 0}^{\\infty} x^{n}$$ with convergence in $$( -1 , 1 ) ,$$ find the power series for each function with the given center a , and identify its interval of convergence.",
+        "Question": "$$f ( x ) = \\frac{x}{1 - x^{2}} ; a = 0$$",
+        "Image Links": [],
+        "Answer": "$$\\sum_{n = 0}^{\\infty} x^{2 n + 1}$$ on $$I = ( -1 , 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given that $$\\frac{1}{1 - x} = \\sum_{n = 0}^{\\infty} x^{n}$$ with convergence in $$( -1 , 1 ) ,$$ find the power series for each function with the given center a , and identify its interval of convergence.",
+        "Question": "$$f ( x ) = \\frac{1}{1 + x^{2}} ; a = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given that $$\\frac{1}{1 - x} = \\sum_{n = 0}^{\\infty} x^{n}$$ with convergence in $$( -1 , 1 ) ,$$ find the power series for each function with the given center a , and identify its interval of convergence.",
+        "Question": "$$f ( x ) = \\frac{x^{2}}{1 + x^{2}} ; a = 0$$",
+        "Image Links": [],
+        "Answer": "$$\\sum_{n = 0}^{\\infty} ( -1 )^{n} x^{2 n + 2}$$ on $$I = ( -1 , 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given that $$\\frac{1}{1 - x} = \\sum_{n = 0}^{\\infty} x^{n}$$ with convergence in $$( -1 , 1 ) ,$$ find the power series for each function with the given center a , and identify its interval of convergence.",
+        "Question": "$$f ( x ) = \\frac{1}{2 - x} ; a = 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given that $$\\frac{1}{1 - x} = \\sum_{n = 0}^{\\infty} x^{n}$$ with convergence in $$( -1 , 1 ) ,$$ find the power series for each function with the given center a , and identify its interval of convergence.",
+        "Question": "$$f ( x ) = \\frac{1}{1 - 2 x} ; a = 0 .$$",
+        "Image Links": [],
+        "Answer": "$$\\sum_{n = 0}^{\\infty} 2^{n} x^{n}$$ on $$( - \\frac{1}{2} , \\frac{1}{2} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given that $$\\frac{1}{1 - x} = \\sum_{n = 0}^{\\infty} x^{n}$$ with convergence in $$( -1 , 1 ) ,$$ find the power series for each function with the given center a , and identify its interval of convergence.",
+        "Question": "$$f ( x ) = \\frac{1}{1 - 4 x^{2}} ; a = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given that $$\\frac{1}{1 - x} = \\sum_{n = 0}^{\\infty} x^{n}$$ with convergence in $$( -1 , 1 ) ,$$ find the power series for each function with the given center a , and identify its interval of convergence.",
+        "Question": "$$f ( x ) = \\frac{x^{2}}{1 - 4 x^{2}} ; a = 0$$",
+        "Image Links": [],
+        "Answer": "$$\\sum_{n = 0}^{\\infty} 4^{n} x^{2 n + 2}$$ on $$( - \\frac{1}{2} , \\frac{1}{2} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given that $$\\frac{1}{1 - x} = \\sum_{n = 0}^{\\infty} x^{n}$$ with convergence in $$( -1 , 1 ) ,$$ find the power series for each function with the given center a , and identify its interval of convergence.",
+        "Question": "$$f ( x ) = \\frac{x^{2}}{5 - 4 x + x^{2}} ; a = 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the next exercise to find the radius of convergence of the given series in the subsequent exercises.",
+        "Question": "Explain why, if $$| a_{n} |^{1 \\text{/} n} \\vec{} r > 0 ,$$ then $$| a_{n} x^{n} |^{1 \\text{/} n} \\vec{} | x | r < 1$$ whenever $$| x | < \\frac{1}{r}$$ and, therefore, the radius of convergence of $$\\sum_{n = 1}^{\\infty} a_{n} x^{n}$$ is $$R = \\frac{1}{r} .$$",
+        "Image Links": [],
+        "Answer": "$$| a_{n} x^{n} |^{1 \\text{/} n} = | a_{n} |^{1 \\text{/} n} | x | \\vec{} | x | r$$ as $$n \\vec{} \\infty$$ and $$| x | r < 1$$ when $$| x | < \\frac{1}{r} .$$ Therefore, $$\\sum_{n = 1}^{\\infty} a_{n} x^{n}$$ converges when $$| x | < \\frac{1}{r}$$ by the n th root test.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the next exercise to find the radius of convergence of the given series in the subsequent exercises.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{x^{n}}{n^{n}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the next exercise to find the radius of convergence of the given series in the subsequent exercises.",
+        "Question": "$$\\sum_{k = 1}^{\\infty} ( \\frac{k - 1}{2 k + 3} )^{k} x^{k}$$",
+        "Image Links": [],
+        "Answer": "$$a_{k} = ( \\frac{k - 1}{2 k + 3} )^{k}$$ so $$( a_{k} )^{1 \\text{/} k} \\vec{} \\frac{1}{2} < 1$$ so $$R = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the next exercise to find the radius of convergence of the given series in the subsequent exercises.",
+        "Question": "$$\\sum_{k = 1}^{\\infty} ( \\frac{2 k^{2} - 1}{k^{2} + 3} )^{k} x^{k}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the next exercise to find the radius of convergence of the given series in the subsequent exercises.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} a_{n} = ( n^{1 \\text{/} n} - 1 )^{n} x^{n}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = ( n^{1 \\text{/} n} - 1 )^{n}$$ so $$( a_{n} )^{1 \\text{/} n} \\vec{} 0$$ so $$R = \\infty$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the next exercise to find the radius of convergence of the given series in the subsequent exercises.",
+        "Question": "Suppose that $$p ( x ) = \\sum_{n = 0}^{\\infty} a_{n} x^{n}$$ such that $$a_{n} = 0$$ if n is even. Explain why $$p ( x ) = - p ( \\text{unicode[:-]} x ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the next exercise to find the radius of convergence of the given series in the subsequent exercises.",
+        "Question": "Suppose that $$p ( x ) = \\sum_{n = 0}^{\\infty} a_{n} x^{n}$$ such that $$a_{n} = 0$$ if n is odd. Explain why $$p ( x ) = p ( \\text{unicode[:-]} x ) .$$",
+        "Image Links": [],
+        "Answer": "We can rewrite $$p ( x ) = \\sum_{n = 0}^{\\infty} a_{2 n + 1} x^{2 n + 1}$$ and $$p ( x ) = p ( \\text{unicode[:-]} x )$$ since only even powers of $$x$$ remain, $$p ( x )$$ is an even function, for which, by definition $$p ( x ) = p ( -x )$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the next exercise to find the radius of convergence of the given series in the subsequent exercises.",
+        "Question": "Suppose that $$p ( x ) = \\sum_{n = 0}^{\\infty} a_{n} x^{n}$$ converges on $$( -1 , 1 ] .$$ Find the interval of convergence of $$p ( A x ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the next exercise to find the radius of convergence of the given series in the subsequent exercises.",
+        "Question": "Suppose that $$p ( x ) = \\sum_{n = 0}^{\\infty} a_{n} x^{n}$$ converges on $$( -1 , 1 ] .$$ Find the interval of convergence of $$p ( 2 x - 1 ) .$$",
+        "Image Links": [],
+        "Answer": "If $$x \\in [ 0 , 1 ] ,$$ then $$y = 2 x - 1 \\in [ -1 , 1 ]$$ so $$p ( 2 x - 1 ) = p ( y ) = \\sum_{n = 0}^{\\infty} a_{n} y^{n}$$ converges.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, suppose that $$p ( x ) = \\sum_{n = 0}^{\\infty} a_{n} x^{n}$$ satisfies $$\\underset{n \\rightarrow \\infty}{\\text{lim}} \\frac{a_{n + 1}}{a_{n}} = 1$$ where $$a_{n} \\geq 0$$ for each n . State whether each series converges on the full interval $$( -1 , 1 ) ,$$ or if there is not enough information to draw a conclusion. Use the comparison test when appropriate.",
+        "Question": "$$\\sum_{n = 0}^{\\infty} a_{n} x^{2 n}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, suppose that $$p ( x ) = \\sum_{n = 0}^{\\infty} a_{n} x^{n}$$ satisfies $$\\underset{n \\rightarrow \\infty}{\\text{lim}} \\frac{a_{n + 1}}{a_{n}} = 1$$ where $$a_{n} \\geq 0$$ for each n . State whether each series converges on the full interval $$( -1 , 1 ) ,$$ or if there is not enough information to draw a conclusion. Use the comparison test when appropriate.",
+        "Question": "$$\\sum_{n = 0}^{\\infty} a_{2 n} x^{2 n}$$",
+        "Image Links": [],
+        "Answer": "Converges on $$( -1 , 1 )$$ by the ratio test",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, suppose that $$p ( x ) = \\sum_{n = 0}^{\\infty} a_{n} x^{n}$$ satisfies $$\\underset{n \\rightarrow \\infty}{\\text{lim}} \\frac{a_{n + 1}}{a_{n}} = 1$$ where $$a_{n} \\geq 0$$ for each n . State whether each series converges on the full interval $$( -1 , 1 ) ,$$ or if there is not enough information to draw a conclusion. Use the comparison test when appropriate.",
+        "Question": "$$\\sum_{n = 0}^{\\infty} a_{2 n} x^{n} ( H i n t \\text{:} x = \\text{unicode[:+-]} \\sqrt{x^{2}} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, suppose that $$p ( x ) = \\sum_{n = 0}^{\\infty} a_{n} x^{n}$$ satisfies $$\\underset{n \\rightarrow \\infty}{\\text{lim}} \\frac{a_{n + 1}}{a_{n}} = 1$$ where $$a_{n} \\geq 0$$ for each n . State whether each series converges on the full interval $$( -1 , 1 ) ,$$ or if there is not enough information to draw a conclusion. Use the comparison test when appropriate.",
+        "Question": "$$\\sum_{n = 0}^{\\infty} a_{n^{2}} x^{n^{2}}$$ ( Hint: Let $$b_{k} = a_{k}$$ if $$k = n^{2}$$ for some n , otherwise $$b_{k} = 0 . )$$",
+        "Image Links": [],
+        "Answer": "Consider the series $$\\sum b_{k} x^{k}$$ where $$b_{k} = a_{k}$$ if $$k = n^{2}$$ and $$b_{k} = 0$$ otherwise. Then $$b_{k} \\le a_{k}$$ and so the series converges on $$( -1 , 1 )$$ by the comparison test.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, suppose that $$p ( x ) = \\sum_{n = 0}^{\\infty} a_{n} x^{n}$$ satisfies $$\\underset{n \\rightarrow \\infty}{\\text{lim}} \\frac{a_{n + 1}}{a_{n}} = 1$$ where $$a_{n} \\geq 0$$ for each n . State whether each series converges on the full interval $$( -1 , 1 ) ,$$ or if there is not enough information to draw a conclusion. Use the comparison test when appropriate.",
+        "Question": "Suppose that $$p ( x )$$ is a polynomial of degree N . Find the radius and interval of convergence of $$\\sum_{n = 1}^{\\infty} p ( n ) x^{n} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, suppose that $$p ( x ) = \\sum_{n = 0}^{\\infty} a_{n} x^{n}$$ satisfies $$\\underset{n \\rightarrow \\infty}{\\text{lim}} \\frac{a_{n + 1}}{a_{n}} = 1$$ where $$a_{n} \\geq 0$$ for each n . State whether each series converges on the full interval $$( -1 , 1 ) ,$$ or if there is not enough information to draw a conclusion. Use the comparison test when appropriate.",
+        "Question": "[T] Plot the graphs of $$\\frac{1}{1 - x}$$ and of the partial sums $$S_{N} = \\sum_{n = 0}^{N} x^{n}$$ for $$n = 10 , 20 , 30$$ on the interval $$[ -0.99 , 0.99 ] .$$ Comment on the approximation of $$\\frac{1}{1 - x}$$ by $$S_{N}$$ near $$x = -1$$ and near $$x = 1$$ as N increases.",
+        "Image Links": [],
+        "Answer": "The approximation is more accurate near $$x = -1 .$$ The partial sums follow $$\\frac{1}{1 - x}$$ more closely as N increases but are never accurate near $$x = 1$$ since the series diverges there.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/06fe870483012d77c5b903e5d81958022e5f87fa"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, suppose that $$p ( x ) = \\sum_{n = 0}^{\\infty} a_{n} x^{n}$$ satisfies $$\\underset{n \\rightarrow \\infty}{\\text{lim}} \\frac{a_{n + 1}}{a_{n}} = 1$$ where $$a_{n} \\geq 0$$ for each n . State whether each series converges on the full interval $$( -1 , 1 ) ,$$ or if there is not enough information to draw a conclusion. Use the comparison test when appropriate.",
+        "Question": "[T] Plot the graphs of $$\\text{unicode[:-]} \\text{ln} ( 1 - x )$$ and of the partial sums $$S_{N} = \\sum_{n = 1}^{N} \\frac{x^{n}}{n}$$ for $$n = 10 , 50 , 100$$ on the interval $$[ -0.99 , 0.99 ] .$$ Comment on the behavior of the sums near $$x = -1$$ and near $$x = 1$$ as N increases.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, suppose that $$p ( x ) = \\sum_{n = 0}^{\\infty} a_{n} x^{n}$$ satisfies $$\\underset{n \\rightarrow \\infty}{\\text{lim}} \\frac{a_{n + 1}}{a_{n}} = 1$$ where $$a_{n} \\geq 0$$ for each n . State whether each series converges on the full interval $$( -1 , 1 ) ,$$ or if there is not enough information to draw a conclusion. Use the comparison test when appropriate.",
+        "Question": "[T] Plot the graphs of the partial sums $$S_{n} = \\sum_{n = 1}^{N} \\frac{x^{n}}{n^{2}}$$ for $$n = 10 , 50 , 100$$ on the interval $$[ -0.99 , 0.99 ] .$$ Comment on the behavior of the sums near $$x = -1$$ and near $$x = 1$$ as N increases.",
+        "Image Links": [],
+        "Answer": "The approximation appears to stabilize quickly near both $$x = \\text{unicode[:+-]} 1 .$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/cb964c8ac4c881dc4ecb09929113d01328b65f92"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, suppose that $$p ( x ) = \\sum_{n = 0}^{\\infty} a_{n} x^{n}$$ satisfies $$\\underset{n \\rightarrow \\infty}{\\text{lim}} \\frac{a_{n + 1}}{a_{n}} = 1$$ where $$a_{n} \\geq 0$$ for each n . State whether each series converges on the full interval $$( -1 , 1 ) ,$$ or if there is not enough information to draw a conclusion. Use the comparison test when appropriate.",
+        "Question": "[T] Plot the graphs of the partial sums $$S_{N} = \\sum_{n = 1}^{N} \\text{sin} n x^{n}$$ for $$n = 10 , 50 , 100$$ on the interval $$[ -0.99 , 0.99 ] .$$ Comment on the behavior of the sums near $$x = -1$$ and near $$x = 1$$ as N increases.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, suppose that $$p ( x ) = \\sum_{n = 0}^{\\infty} a_{n} x^{n}$$ satisfies $$\\underset{n \\rightarrow \\infty}{\\text{lim}} \\frac{a_{n + 1}}{a_{n}} = 1$$ where $$a_{n} \\geq 0$$ for each n . State whether each series converges on the full interval $$( -1 , 1 ) ,$$ or if there is not enough information to draw a conclusion. Use the comparison test when appropriate.",
+        "Question": "[T] Plot the graphs of the partial sums $$S_{N} = \\sum_{n = 0}^{N} ( -1 )^{n} \\frac{x^{2 n + 1}}{( 2 n + 1 ) \\text{!}}$$ for $$n = 3 , 5 , 10$$ on the interval $$[ -2 \\pi , 2 \\pi ] .$$ Comment on how these plots approximate $$\\text{sin} x$$ as N increases.",
+        "Image Links": [],
+        "Answer": "The polynomial curves have roots close to those of $$\\text{sin} x$$ up to their degree and then the polynomials diverge from $$\\text{sin} x .$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/59d7df4f24ec2936bd160ce2fab9fd7bc7656acf"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, suppose that $$p ( x ) = \\sum_{n = 0}^{\\infty} a_{n} x^{n}$$ satisfies $$\\underset{n \\rightarrow \\infty}{\\text{lim}} \\frac{a_{n + 1}}{a_{n}} = 1$$ where $$a_{n} \\geq 0$$ for each n . State whether each series converges on the full interval $$( -1 , 1 ) ,$$ or if there is not enough information to draw a conclusion. Use the comparison test when appropriate.",
+        "Question": "[T] Plot the graphs of the partial sums $$S_{N} = \\sum_{n = 0}^{N} ( -1 )^{n} \\frac{x^{2 n}}{( 2 n ) \\text{!}}$$ for $$n = 3 , 5 , 10$$ on the interval $$[ -2 \\pi , 2 \\pi ] .$$ Comment on how these plots approximate $$\\text{cos} x$$ as N increases.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

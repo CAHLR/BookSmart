@@ -1,0 +1,522 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "Determine the order of the following differential equations.",
+        "Question": "$$y^{\\prime} + y = 3 y^{2}$$",
+        "Image Links": [],
+        "Answer": "$$1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Determine the order of the following differential equations.",
+        "Question": "$$( y^{\\prime} )^{2} = y^{\\prime} + 2 y$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Determine the order of the following differential equations.",
+        "Question": "$$y \\text{\u2034} + y^{\\second} y^{\\prime} = 3 x^{2}$$",
+        "Image Links": [],
+        "Answer": "$$3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Determine the order of the following differential equations.",
+        "Question": "$$y^{\\prime} = y^{\\second} + 3 t^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Determine the order of the following differential equations.",
+        "Question": "$$\\frac{d y}{d t} = t$$",
+        "Image Links": [],
+        "Answer": "$$1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Determine the order of the following differential equations.",
+        "Question": "$$\\frac{d y}{d x} + \\frac{d^{2} y}{d x^{2}} = 3 x^{4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Determine the order of the following differential equations.",
+        "Question": "$$( \\frac{d y}{d t} )^{2} + 8 \\frac{d y}{d t} + 3 y = 4 t$$",
+        "Image Links": [],
+        "Answer": "$$1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Verify that the following functions are solutions to the given differential equation.",
+        "Question": "$$y = \\frac{x^{3}}{3}$$ solves $$y^{\\prime} = x^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Verify that the following functions are solutions to the given differential equation.",
+        "Question": "$$y = 2 e^{\\text{unicode[:-]} x} + x - 1$$ solves $$y^{\\prime} = x - y$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Verify that the following functions are solutions to the given differential equation.",
+        "Question": "$$y = e^{3 x} - \\frac{e^{x}}{2}$$ solves $$y^{\\prime} = 3 y + e^{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Verify that the following functions are solutions to the given differential equation.",
+        "Question": "$$y = \\frac{1}{1 - x}$$ solves $$y^{\\prime} = y^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Verify that the following functions are solutions to the given differential equation.",
+        "Question": "$$y = e^{x^{2} \\text{/} 2}$$ solves $$y^{\\prime} = x y$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Verify that the following functions are solutions to the given differential equation.",
+        "Question": "$$y = 4 + \\text{ln} x$$ solves $$x y^{\\prime} = 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Verify that the following functions are solutions to the given differential equation.",
+        "Question": "$$y = 3 - x + x \\text{ln} x$$ solves $$y^{\\prime} = \\text{ln} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Verify that the following functions are solutions to the given differential equation.",
+        "Question": "$$y = 2 e^{x} - x - 1$$ solves $$y^{\\prime} = y + x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Verify that the following functions are solutions to the given differential equation.",
+        "Question": "$$y = e^{x} + \\frac{\\text{sin} x}{2} - \\frac{\\text{cos} x}{2}$$ solves $$y^{\\prime} = \\text{cos} x + y$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Verify that the following functions are solutions to the given differential equation.",
+        "Question": "$$y = \\pi e^{\\text{unicode[:-]} \\text{cos} x}$$ solves $$y^{\\prime} = y \\text{sin} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Verify the following general solutions and find the particular solution.",
+        "Question": "Find the particular solution to the differential equation $$y^{\\prime} = 4 x^{2}$$ that passes through $$( -3 , -30 ) ,$$ given that $$y = C + \\frac{4 x^{3}}{3}$$ is a general solution.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Verify the following general solutions and find the particular solution.",
+        "Question": "Find the particular solution to the differential equation $$y^{\\prime} = 3 x^{3}$$ that passes through $$( 1 , 4.75 ) ,$$ given that $$y = C + \\frac{3 x^{4}}{4}$$ is a general solution.",
+        "Image Links": [],
+        "Answer": "$$y = 4 + \\frac{3 x^{4}}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Verify the following general solutions and find the particular solution.",
+        "Question": "Find the particular solution to the differential equation $$y^{\\prime} = 3 x^{2} y$$ that passes through $$( 0 , 12 ) ,$$ given that $$y = C e^{x^{3}}$$ is a general solution.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Verify the following general solutions and find the particular solution.",
+        "Question": "Find the particular solution to the differential equation $$y^{\\prime} = 2 x y$$ that passes through $$( 0 , \\frac{1}{2} ) ,$$ given that $$y = C e^{x^{2}}$$ is a general solution.",
+        "Image Links": [],
+        "Answer": "$$y = \\frac{1}{2} e^{x^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Verify the following general solutions and find the particular solution.",
+        "Question": "Find the particular solution to the differential equation $$y^{\\prime} = ( 2 x y )^{2}$$ that passes through $$( 1 , - \\frac{1}{2} ) ,$$ given that $$y = - \\frac{3}{C + 4 x^{3}}$$ is a general solution.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Verify the following general solutions and find the particular solution.",
+        "Question": "Find the particular solution to the differential equation $$y^{\\prime} x^{2} = y$$ that passes through $$( 1 , \\frac{2}{e} ) ,$$ given that $$y = C e^{\\text{unicode[:-]} 1 \\text{/} x}$$ is a general solution.",
+        "Image Links": [],
+        "Answer": "$$y = 2 e^{\\text{unicode[:-]} 1 \\text{/} x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Verify the following general solutions and find the particular solution.",
+        "Question": "Find the particular solution to the differential equation $$8 \\frac{d x}{d t} = -2 \\text{cos} ( 2 t ) - \\text{cos} ( 4 t )$$ that passes through $$( \\pi , \\pi ) ,$$ given that $$x = C - \\frac{1}{8} \\text{sin} ( 2 t ) - \\frac{1}{32} \\text{sin} ( 4 t )$$ is a general solution.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Verify the following general solutions and find the particular solution.",
+        "Question": "Find the particular solution to the differential equation $$\\frac{d u}{d t} = \\text{tan} u$$ that passes through $$( 1 , \\frac{\\pi}{2} ) ,$$ given that $$u = \\text{sin}^{-1} ( e^{C + t} )$$ is a general solution.",
+        "Image Links": [],
+        "Answer": "$$u = \\text{sin}^{-1} ( e^{-1 + t} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Verify the following general solutions and find the particular solution.",
+        "Question": "Find the particular solution to the differential equation $$\\frac{d y}{d t} = e^{( t + y )}$$ that passes through $$( 1 , 0 ) ,$$ given that $$y = \\text{unicode[:-]} \\text{ln} ( C - e^{t} )$$ is a general solution.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Verify the following general solutions and find the particular solution.",
+        "Question": "Find the particular solution to the differential equation $$y^{\\prime} ( 1 - x^{2} ) = 1 + y$$ that passes through $$( 0 , -2 ) ,$$ given that $$y = C \\frac{\\sqrt{x + 1}}{\\sqrt{1 - x}} - 1$$ is a general solution.",
+        "Image Links": [],
+        "Answer": "$$y = - \\frac{\\sqrt{x + 1}}{\\sqrt{1 - x}} - 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, find the general solution to the differential equation.",
+        "Question": "$$y^{\\prime} = 3 x + e^{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, find the general solution to the differential equation.",
+        "Question": "$$y^{\\prime} = \\text{ln} x + \\text{tan} x$$",
+        "Image Links": [],
+        "Answer": "$$y = C - x + x \\text{ln} x - \\text{ln} ( \\text{cos} x )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, find the general solution to the differential equation.",
+        "Question": "$$y^{\\prime} = \\text{sin} x e^{\\text{cos} x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, find the general solution to the differential equation.",
+        "Question": "$$y^{\\prime} = 4^{x}$$",
+        "Image Links": [],
+        "Answer": "$$y = C + \\frac{4^{x}}{\\text{ln} ( 4 )}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, find the general solution to the differential equation.",
+        "Question": "$$y^{\\prime} = \\text{sin}^{-1} ( 2 x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, find the general solution to the differential equation.",
+        "Question": "$$y^{\\prime} = 2 t \\sqrt{t^{2} + 16}$$",
+        "Image Links": [],
+        "Answer": "$$y = \\frac{2}{3} \\sqrt{t^{2} + 16} ( t^{2} + 16 ) + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, find the general solution to the differential equation.",
+        "Question": "$$x^{\\prime} = \\text{coth} t + \\text{ln} t + 3 t^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, find the general solution to the differential equation.",
+        "Question": "$$x^{\\prime} = t \\sqrt{4 + t}$$",
+        "Image Links": [],
+        "Answer": "$$x = \\frac{2}{15} \\sqrt{4 + t} ( 3 t^{2} + 4 t - 32 ) + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, find the general solution to the differential equation.",
+        "Question": "$$y^{\\prime} = y$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, find the general solution to the differential equation.",
+        "Question": "$$y^{\\prime} = \\frac{y}{x}$$",
+        "Image Links": [],
+        "Answer": "$$y = C x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the following initial-value problems starting from $$y ( 0 ) = 1$$ and $$y ( 0 ) = -1 .$$ Draw both solutions on the same graph.",
+        "Question": "$$\\frac{d y}{d t} = 2 t$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the following initial-value problems starting from $$y ( 0 ) = 1$$ and $$y ( 0 ) = -1 .$$ Draw both solutions on the same graph.",
+        "Question": "$$\\frac{d y}{d t} = \\text{unicode[:-]} t$$",
+        "Image Links": [],
+        "Answer": "$$y = 1 - \\frac{t^{2}}{2} , y = - \\frac{t^{2}}{2} - 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the following initial-value problems starting from $$y ( 0 ) = 1$$ and $$y ( 0 ) = -1 .$$ Draw both solutions on the same graph.",
+        "Question": "$$\\frac{d y}{d t} = 2 y$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the following initial-value problems starting from $$y ( 0 ) = 1$$ and $$y ( 0 ) = -1 .$$ Draw both solutions on the same graph.",
+        "Question": "$$\\frac{d y}{d t} = \\text{unicode[:-]} y$$",
+        "Image Links": [],
+        "Answer": "$$y = e^{\\text{unicode[:-]} t} , y = \\text{unicode[:-]} e^{\\text{unicode[:-]} t}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the following initial-value problems starting from $$y ( 0 ) = 1$$ and $$y ( 0 ) = -1 .$$ Draw both solutions on the same graph.",
+        "Question": "$$\\frac{d y}{d t} = 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the following initial-value problems starting from $$y_{0} = 10 .$$ At what time does $$y$$ increase to $$100$$ or drop to $$1 ?$$",
+        "Question": "$$\\frac{d y}{d t} = 4 t$$",
+        "Image Links": [],
+        "Answer": "$$y = 2 ( t^{2} + 5 ) , t = 3 \\sqrt{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the following initial-value problems starting from $$y_{0} = 10 .$$ At what time does $$y$$ increase to $$100$$ or drop to $$1 ?$$",
+        "Question": "$$\\frac{d y}{d t} = 4 y$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the following initial-value problems starting from $$y_{0} = 10 .$$ At what time does $$y$$ increase to $$100$$ or drop to $$1 ?$$",
+        "Question": "$$\\frac{d y}{d t} = -2 y$$",
+        "Image Links": [],
+        "Answer": "$$y = 10 e^{-2 t} , t = - \\frac{1}{2} \\text{ln} ( \\frac{1}{10} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the following initial-value problems starting from $$y_{0} = 10 .$$ At what time does $$y$$ increase to $$100$$ or drop to $$1 ?$$",
+        "Question": "$$\\frac{d y}{d t} = e^{4 t}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the following initial-value problems starting from $$y_{0} = 10 .$$ At what time does $$y$$ increase to $$100$$ or drop to $$1 ?$$",
+        "Question": "$$\\frac{d y}{d t} = e^{-4 t}$$",
+        "Image Links": [],
+        "Answer": "$$y = \\frac{1}{4} ( 41 - e^{-4 t} ) ,$$ never",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Recall that a family of solutions includes solutions to a differential equation that differ by a constant. For the following problems, use your calculator to graph a family of solutions to the given differential equation. Use initial conditions from $$y ( t = 0 ) = -10$$ to $$y ( t = 0 ) = 10$$ increasing by $$2 .$$ Is there some critical point where the behavior of the solution begins to change?",
+        "Question": "[T] $$y^{\\prime} = y ( x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Recall that a family of solutions includes solutions to a differential equation that differ by a constant. For the following problems, use your calculator to graph a family of solutions to the given differential equation. Use initial conditions from $$y ( t = 0 ) = -10$$ to $$y ( t = 0 ) = 10$$ increasing by $$2 .$$ Is there some critical point where the behavior of the solution begins to change?",
+        "Question": "[T] $$x y^{\\prime} = y$$",
+        "Image Links": [],
+        "Answer": "Solution changes from increasing to decreasing at $$y ( 0 ) = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Recall that a family of solutions includes solutions to a differential equation that differ by a constant. For the following problems, use your calculator to graph a family of solutions to the given differential equation. Use initial conditions from $$y ( t = 0 ) = -10$$ to $$y ( t = 0 ) = 10$$ increasing by $$2 .$$ Is there some critical point where the behavior of the solution begins to change?",
+        "Question": "[T] $$y^{\\prime} = t^{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Recall that a family of solutions includes solutions to a differential equation that differ by a constant. For the following problems, use your calculator to graph a family of solutions to the given differential equation. Use initial conditions from $$y ( t = 0 ) = -10$$ to $$y ( t = 0 ) = 10$$ increasing by $$2 .$$ Is there some critical point where the behavior of the solution begins to change?",
+        "Question": "[T] $$y^{\\prime} = x + y$$ ( Hint: $$y = C e^{x} - x - 1$$ is the general solution)",
+        "Image Links": [],
+        "Answer": "Solution changes from increasing to decreasing at $$y ( 0 ) = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Recall that a family of solutions includes solutions to a differential equation that differ by a constant. For the following problems, use your calculator to graph a family of solutions to the given differential equation. Use initial conditions from $$y ( t = 0 ) = -10$$ to $$y ( t = 0 ) = 10$$ increasing by $$2 .$$ Is there some critical point where the behavior of the solution begins to change?",
+        "Question": "[T] $$y^{\\prime} = x \\text{ln} x + \\text{sin} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Recall that a family of solutions includes solutions to a differential equation that differ by a constant. For the following problems, use your calculator to graph a family of solutions to the given differential equation. Use initial conditions from $$y ( t = 0 ) = -10$$ to $$y ( t = 0 ) = 10$$ increasing by $$2 .$$ Is there some critical point where the behavior of the solution begins to change?",
+        "Question": "Find the general solution to describe the velocity of a ball of mass $$1 \\text{lb}$$ that is thrown upward at a rate $$a$$ ft/sec.",
+        "Image Links": [],
+        "Answer": "$$v ( t ) = -32 t + a$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Recall that a family of solutions includes solutions to a differential equation that differ by a constant. For the following problems, use your calculator to graph a family of solutions to the given differential equation. Use initial conditions from $$y ( t = 0 ) = -10$$ to $$y ( t = 0 ) = 10$$ increasing by $$2 .$$ Is there some critical point where the behavior of the solution begins to change?",
+        "Question": "In the preceding problem, if the initial velocity of the ball thrown into the air is $$a = 25$$ ft/s, write the particular solution to the velocity of the ball. Solve to find the time when the ball hits the ground.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Recall that a family of solutions includes solutions to a differential equation that differ by a constant. For the following problems, use your calculator to graph a family of solutions to the given differential equation. Use initial conditions from $$y ( t = 0 ) = -10$$ to $$y ( t = 0 ) = 10$$ increasing by $$2 .$$ Is there some critical point where the behavior of the solution begins to change?",
+        "Question": "You throw two objects with differing masses $$m_{1}$$ and $$m_{2}$$ upward into the air with the same initial velocity $$a$$ ft/s. What is the difference in their velocity after $$1$$ second?",
+        "Image Links": [],
+        "Answer": "$$0$$ ft/s",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Recall that a family of solutions includes solutions to a differential equation that differ by a constant. For the following problems, use your calculator to graph a family of solutions to the given differential equation. Use initial conditions from $$y ( t = 0 ) = -10$$ to $$y ( t = 0 ) = 10$$ increasing by $$2 .$$ Is there some critical point where the behavior of the solution begins to change?",
+        "Question": "[T] You throw a ball of mass $$1$$ kilogram upward with a velocity of $$a = 25$$ m/s on Mars, where the acceleration of gravity is $$g = -3.711$$ m/s 2 . Use your calculator to approximate how much longer the ball is in the air on Mars than on Earth, where $$g = - 9 . 8 m / s^{2}$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Recall that a family of solutions includes solutions to a differential equation that differ by a constant. For the following problems, use your calculator to graph a family of solutions to the given differential equation. Use initial conditions from $$y ( t = 0 ) = -10$$ to $$y ( t = 0 ) = 10$$ increasing by $$2 .$$ Is there some critical point where the behavior of the solution begins to change?",
+        "Question": "[T] For the previous problem, use your calculator to approximate how much higher the ball went on Mars, where $$g = - 9 . 8 m / s^{2}$$ .",
+        "Image Links": [],
+        "Answer": "$$52.354$$ meters",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Recall that a family of solutions includes solutions to a differential equation that differ by a constant. For the following problems, use your calculator to graph a family of solutions to the given differential equation. Use initial conditions from $$y ( t = 0 ) = -10$$ to $$y ( t = 0 ) = 10$$ increasing by $$2 .$$ Is there some critical point where the behavior of the solution begins to change?",
+        "Question": "[T] A car on the freeway accelerates according to $$a = 15 \\text{cos} ( \\pi t ) ,$$ where $$t$$ is measured in hours. Set up and solve the differential equation to determine the velocity of the car if it has an initial speed of $$50$$ mph. After $$40$$ minutes of driving, what is the driver\u2019s velocity?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Recall that a family of solutions includes solutions to a differential equation that differ by a constant. For the following problems, use your calculator to graph a family of solutions to the given differential equation. Use initial conditions from $$y ( t = 0 ) = -10$$ to $$y ( t = 0 ) = 10$$ increasing by $$2 .$$ Is there some critical point where the behavior of the solution begins to change?",
+        "Question": "[T] For the car in the preceding problem, find the expression for the distance the car has traveled in time $$t ,$$ assuming an initial distance of $$0 .$$ How long does it take the car to travel $$100$$ miles? Round your answer to hours and minutes.",
+        "Image Links": [],
+        "Answer": "$$x = 50 t - \\frac{15}{\\pi^{2}} \\text{cos} ( \\pi t ) + \\frac{3}{\\pi^{2}} , 2$$ hours $$1$$ minute",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Recall that a family of solutions includes solutions to a differential equation that differ by a constant. For the following problems, use your calculator to graph a family of solutions to the given differential equation. Use initial conditions from $$y ( t = 0 ) = -10$$ to $$y ( t = 0 ) = 10$$ increasing by $$2 .$$ Is there some critical point where the behavior of the solution begins to change?",
+        "Question": "[T] For the previous problem, find the total distance traveled in the first hour.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Recall that a family of solutions includes solutions to a differential equation that differ by a constant. For the following problems, use your calculator to graph a family of solutions to the given differential equation. Use initial conditions from $$y ( t = 0 ) = -10$$ to $$y ( t = 0 ) = 10$$ increasing by $$2 .$$ Is there some critical point where the behavior of the solution begins to change?",
+        "Question": "Substitute $$y = B e^{3 t}$$ into $$y^{\\prime} - y = 8 e^{3 t}$$ to find a particular solution.",
+        "Image Links": [],
+        "Answer": "$$y = 4 e^{3 t}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Recall that a family of solutions includes solutions to a differential equation that differ by a constant. For the following problems, use your calculator to graph a family of solutions to the given differential equation. Use initial conditions from $$y ( t = 0 ) = -10$$ to $$y ( t = 0 ) = 10$$ increasing by $$2 .$$ Is there some critical point where the behavior of the solution begins to change?",
+        "Question": "Substitute $$y = a \\text{cos} ( 2 t ) + b \\text{sin} ( 2 t )$$ into $$y^{\\prime} + y = 4 \\text{sin} ( 2 t )$$ to find a particular solution.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Recall that a family of solutions includes solutions to a differential equation that differ by a constant. For the following problems, use your calculator to graph a family of solutions to the given differential equation. Use initial conditions from $$y ( t = 0 ) = -10$$ to $$y ( t = 0 ) = 10$$ increasing by $$2 .$$ Is there some critical point where the behavior of the solution begins to change?",
+        "Question": "Substitute $$y = a + b t + c t^{2}$$ into $$y^{\\prime} + y = 1 + t^{2}$$ to find a particular solution.",
+        "Image Links": [],
+        "Answer": "$$y = 3 - 2 t + t^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Recall that a family of solutions includes solutions to a differential equation that differ by a constant. For the following problems, use your calculator to graph a family of solutions to the given differential equation. Use initial conditions from $$y ( t = 0 ) = -10$$ to $$y ( t = 0 ) = 10$$ increasing by $$2 .$$ Is there some critical point where the behavior of the solution begins to change?",
+        "Question": "Substitute $$y = a e^{t} \\text{cos} t + b e^{t} \\text{sin} t$$ into $$y^{\\prime} = 2 e^{t} \\text{cos} t$$ to find a particular solution.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Recall that a family of solutions includes solutions to a differential equation that differ by a constant. For the following problems, use your calculator to graph a family of solutions to the given differential equation. Use initial conditions from $$y ( t = 0 ) = -10$$ to $$y ( t = 0 ) = 10$$ increasing by $$2 .$$ Is there some critical point where the behavior of the solution begins to change?",
+        "Question": "Solve $$y^{\\prime} = e^{k t}$$ with the initial condition $$y ( 0 ) = 0$$ and solve $$y^{\\prime} = 1$$ with the same initial condition. As $$k$$ approaches $$0 ,$$ what do you notice?",
+        "Image Links": [],
+        "Answer": "$$y = \\frac{1}{k} ( e^{k t} - 1 )$$ and $$y = x$$",
+        "Answer Image Links": []
+    }
+]

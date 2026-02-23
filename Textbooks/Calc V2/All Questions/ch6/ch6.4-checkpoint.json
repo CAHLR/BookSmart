@@ -1,0 +1,58 @@
+[
+    {
+        "Topic": "Checkpoint 6.16",
+        "Problem Statement": "",
+        "Question": "Find the binomial series for $$f ( x ) = \\frac{1}{( 1 + x )^{2}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\sum_{n = 0}^{\\infty} ( -1 )^{n} ( n + 1 ) x^{n}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.17",
+        "Problem Statement": "",
+        "Question": "Find the Maclaurin series for $$\\text{sin} ( x^{2} ) .$$",
+        "Image Links": [],
+        "Answer": "$$\\sum_{n = 0}^{\\infty} \\frac{( -1 )^{n} x^{4 n + 2}}{( 2 n + 1 ) \\text{!}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.18",
+        "Problem Statement": "",
+        "Question": "Find the binomial series for $$f ( x ) = \\frac{1}{( 1 + x )^{3 \\text{/} 2}}$$",
+        "Image Links": [],
+        "Answer": "$$\\sum_{n = 1}^{\\infty} \\frac{( -1 )^{n}}{n \\text{!}} \\frac{1 \\cdotp 3 \\cdotp 5 \\text{cdots} ( 2 n - 1 )}{2^{n}} x^{n}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.19",
+        "Problem Statement": "",
+        "Question": "Use power series to solve $$y^{\\prime} = 2 y , y ( 0 ) = 5 .$$",
+        "Image Links": [],
+        "Answer": "$$y = 5 e^{2 x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.20",
+        "Problem Statement": "",
+        "Question": "Use power series to solve $$y^{\\second} + x^{2} y = 0$$ with the initial condition $$y ( 0 ) = a$$ and $$y^{\\prime} ( 0 ) = b .$$",
+        "Image Links": [],
+        "Answer": "$$y = a ( 1 - \\frac{x^{4}}{3 \\cdotp 4} + \\frac{x^{8}}{3 \\cdotp 4 \\cdotp 7 \\cdotp 8} - \\text{cdots} ) + b ( x - \\frac{x^{5}}{4 \\cdotp 5} + \\frac{x^{9}}{4 \\cdotp 5 \\cdotp 8 \\cdotp 9} - \\text{cdots} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.21",
+        "Problem Statement": "",
+        "Question": "Express $$\\int \\text{cos} \\sqrt{x} d x$$ as an infinite series. Evaluate $$\\int_{0}^{1} \\text{cos} \\sqrt{x} d x$$ to within an error of $$0.01 .$$",
+        "Image Links": [],
+        "Answer": "$$C + \\sum_{n = 1}^{\\infty} ( -1 )^{n + 1} \\frac{x^{n}}{n ( 2 n - 2 ) \\text{!}}$$ The definite integral is approximately $$0.514$$ to within an error of $$0.01 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.22",
+        "Problem Statement": "",
+        "Question": "Use the first five terms of the Maclaurin series for $$e^{\\text{unicode[:-]} x^{2} \\text{/} 2}$$ to estimate the probability that a randomly selected test score is between $$100$$ and $$150 .$$ Use the alternating series test to determine the accuracy of this estimate.",
+        "Image Links": [],
+        "Answer": "The estimate is approximately $$0.3414 .$$ This estimate is accurate to within $$0.0000094 .$$",
+        "Answer Image Links": []
+    }
+]

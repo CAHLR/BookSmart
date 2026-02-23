@@ -1,0 +1,450 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "Simplify the following expressions by writing each one using a single trigonometric function.",
+        "Question": "$$4 - 4 \\text{sin}^{2} \\theta$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Simplify the following expressions by writing each one using a single trigonometric function.",
+        "Question": "$$9 \\text{sec}^{2} \\theta - 9$$",
+        "Image Links": [],
+        "Answer": "$$9 \\text{tan}^{2} \\theta$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Simplify the following expressions by writing each one using a single trigonometric function.",
+        "Question": "$$a^{2} + a^{2} \\text{tan}^{2} \\theta$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Simplify the following expressions by writing each one using a single trigonometric function.",
+        "Question": "$$a^{2} + a^{2} \\text{sinh}^{2} \\theta$$",
+        "Image Links": [],
+        "Answer": "$$a^{2} \\text{cosh}^{2} \\theta$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Simplify the following expressions by writing each one using a single trigonometric function.",
+        "Question": "$$16 \\text{cosh}^{2} \\theta - 16$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the technique of completing the square to express each trinomial as the square of a binomial or the square of a binomial plus a constant.",
+        "Question": "$$4 x^{2} - 4 x + 1$$",
+        "Image Links": [],
+        "Answer": "$$4 ( x - \\frac{1}{2} )^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the technique of completing the square to express each trinomial as the square of a binomial or the square of a binomial plus a constant.",
+        "Question": "$$2 x^{2} - 8 x + 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the technique of completing the square to express each trinomial as the square of a binomial or the square of a binomial plus a constant.",
+        "Question": "$$\\text{unicode[:-]} x^{2} - 2 x + 4$$",
+        "Image Links": [],
+        "Answer": "$$\\text{unicode[:-]} ( x + 1 )^{2} + 5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Integrate using the method of trigonometric substitution. Express the final answer in terms of the variable.",
+        "Question": "$$\\int \\frac{d x}{\\sqrt{4 - x^{2}}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Integrate using the method of trigonometric substitution. Express the final answer in terms of the variable.",
+        "Question": "$$\\int \\frac{d x}{\\sqrt{x^{2} - a^{2}}}$$",
+        "Image Links": [],
+        "Answer": "$$\\text{ln} | x + \\sqrt{\\text{unicode[:-]} a^{2} + x^{2}} | + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Integrate using the method of trigonometric substitution. Express the final answer in terms of the variable.",
+        "Question": "$$\\int \\sqrt{4 - x^{2}} d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Integrate using the method of trigonometric substitution. Express the final answer in terms of the variable.",
+        "Question": "$$\\int \\frac{d x}{\\sqrt{1 + 9 x^{2}}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{3} \\text{ln} | \\sqrt{9 x^{2} + 1} + 3 x | + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Integrate using the method of trigonometric substitution. Express the final answer in terms of the variable.",
+        "Question": "$$\\int \\frac{x^{2} d x}{\\sqrt{1 - x^{2}}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Integrate using the method of trigonometric substitution. Express the final answer in terms of the variable.",
+        "Question": "$$\\int \\frac{d x}{x^{2} \\sqrt{1 - x^{2}}}$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{\\sqrt{1 - x^{2}}}{x} + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Integrate using the method of trigonometric substitution. Express the final answer in terms of the variable.",
+        "Question": "$$\\int \\frac{d x}{( 1 + x^{2} )^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Integrate using the method of trigonometric substitution. Express the final answer in terms of the variable.",
+        "Question": "$$\\int \\sqrt{x^{2} + 9} d x$$",
+        "Image Links": [],
+        "Answer": "$$9 [ \\frac{x \\sqrt{x^{2} + 9}}{18} + \\frac{1}{2} l n | \\frac{\\sqrt{x^{2} + 9}}{3} + \\frac{x}{3} | ] + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Integrate using the method of trigonometric substitution. Express the final answer in terms of the variable.",
+        "Question": "$$\\int \\frac{\\sqrt{x^{2} - 25}}{x} d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Integrate using the method of trigonometric substitution. Express the final answer in terms of the variable.",
+        "Question": "$$\\int \\frac{\\theta^{3} d \\theta}{\\sqrt{9 - \\theta^{2}}}$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{1}{3} \\sqrt{9 - \\theta^{2}} ( 18 + \\theta^{2} ) + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Integrate using the method of trigonometric substitution. Express the final answer in terms of the variable.",
+        "Question": "$$\\int \\frac{d x}{\\sqrt{x^{6} - x^{2}}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Integrate using the method of trigonometric substitution. Express the final answer in terms of the variable.",
+        "Question": "$$\\int \\sqrt{x^{6} - x^{8}} d x$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{( -1 + x^{2} ) ( 2 + 3 x^{2} ) \\sqrt{x^{6} - x^{8}}}{15 x^{3}} + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Integrate using the method of trigonometric substitution. Express the final answer in terms of the variable.",
+        "Question": "$$\\int \\frac{d x}{( 1 + x^{2} )^{3 \\text{/} 2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Integrate using the method of trigonometric substitution. Express the final answer in terms of the variable.",
+        "Question": "$$\\int \\frac{d x}{( x^{2} - 9 )^{3 \\text{/} 2}}$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{x}{9 \\sqrt{-9 + x^{2}}} + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Integrate using the method of trigonometric substitution. Express the final answer in terms of the variable.",
+        "Question": "$$\\int \\frac{\\sqrt{1 + x^{2}} d x}{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Integrate using the method of trigonometric substitution. Express the final answer in terms of the variable.",
+        "Question": "$$\\int \\frac{x^{2} d x}{\\sqrt{x^{2} - 1}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{2} ( \\text{ln} | x + \\sqrt{x^{2} - 1} | + x \\sqrt{x^{2} - 1} ) + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Integrate using the method of trigonometric substitution. Express the final answer in terms of the variable.",
+        "Question": "$$\\int \\frac{x^{2} d x}{x^{2} + 4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Integrate using the method of trigonometric substitution. Express the final answer in terms of the variable.",
+        "Question": "$$\\int \\frac{d x}{x^{2} \\sqrt{x^{2} + 1}}$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{\\sqrt{1 + x^{2}}}{x} + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Integrate using the method of trigonometric substitution. Express the final answer in terms of the variable.",
+        "Question": "$$\\int \\frac{x^{2} d x}{\\sqrt{1 + x^{2}}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Integrate using the method of trigonometric substitution. Express the final answer in terms of the variable.",
+        "Question": "$$\\int ( 1 - x^{2} )^{3 \\text{/} 2} d x$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{8} ( x ( 5 - 2 x^{2} ) \\sqrt{1 - x^{2}} + 3 \\text{arcsin} x ) + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the substitutions $$x = \\text{sinh} \\theta , \\text{cosh} \\theta ,$$ or $$\\text{tanh} \\theta .$$ Express the final answers in terms of the variable x.",
+        "Question": "$$\\int \\frac{d x}{\\sqrt{x^{2} - 1}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the substitutions $$x = \\text{sinh} \\theta , \\text{cosh} \\theta ,$$ or $$\\text{tanh} \\theta .$$ Express the final answers in terms of the variable x.",
+        "Question": "$$\\int \\frac{d x}{x \\sqrt{1 - x^{2}}}$$",
+        "Image Links": [],
+        "Answer": "$$\\text{ln} x - \\text{ln} | 1 + \\sqrt{1 - x^{2}} | + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the substitutions $$x = \\text{sinh} \\theta , \\text{cosh} \\theta ,$$ or $$\\text{tanh} \\theta .$$ Express the final answers in terms of the variable x.",
+        "Question": "$$\\int \\sqrt{x^{2} - 1} d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the substitutions $$x = \\text{sinh} \\theta , \\text{cosh} \\theta ,$$ or $$\\text{tanh} \\theta .$$ Express the final answers in terms of the variable x.",
+        "Question": "$$\\int \\frac{\\sqrt{x^{2} - 1}}{x^{2}} d x$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{\\sqrt{-1 + x^{2}}}{x} + \\text{ln} | x + \\sqrt{-1 + x^{2}} | + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the substitutions $$x = \\text{sinh} \\theta , \\text{cosh} \\theta ,$$ or $$\\text{tanh} \\theta .$$ Express the final answers in terms of the variable x.",
+        "Question": "$$\\int \\frac{d x}{1 - x^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the substitutions $$x = \\text{sinh} \\theta , \\text{cosh} \\theta ,$$ or $$\\text{tanh} \\theta .$$ Express the final answers in terms of the variable x.",
+        "Question": "$$\\int \\frac{\\sqrt{1 + x^{2}}}{x^{2}} d x$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{\\sqrt{1 + x^{2}}}{x} + \\text{arcsinh} x + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the technique of completing the square to evaluate the following integrals.",
+        "Question": "$$\\int \\frac{1}{x^{2} - 6 x} d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the technique of completing the square to evaluate the following integrals.",
+        "Question": "$$\\int \\frac{1}{x^{2} + 2 x + 1} d x$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{1}{1 + x} + C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the technique of completing the square to evaluate the following integrals.",
+        "Question": "$$\\int \\frac{1}{\\sqrt{\\text{unicode[:-]} x^{2} + 2 x + 8}} d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the technique of completing the square to evaluate the following integrals.",
+        "Question": "$$\\int \\frac{1}{\\sqrt{\\text{unicode[:-]} x^{2} + 10 x}} d x$$",
+        "Image Links": [],
+        "Answer": "$$\\text{arcsin} ( \\frac{\\mathrm{x} - 5}{5} ) \\text{+} C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the technique of completing the square to evaluate the following integrals.",
+        "Question": "$$\\int \\frac{1}{\\sqrt{x^{2} + 4 x - 12}} d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the technique of completing the square to evaluate the following integrals.",
+        "Question": "Evaluate the integral without using calculus: $$\\int_{-3}^{3} \\sqrt{9 - x^{2}} d x .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{9 \\pi}{2} ;$$ area of a semicircle with radius 3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the technique of completing the square to evaluate the following integrals.",
+        "Question": "Find the area enclosed by the ellipse $$\\frac{x^{2}}{4} + \\frac{y^{2}}{9} = 1 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the technique of completing the square to evaluate the following integrals.",
+        "Question": "Evaluate the integral $$\\int \\frac{d x}{\\sqrt{1 - x^{2}}}$$ using two different substitutions. First, let $$x = \\text{cos} \\theta$$ and evaluate using trigonometric substitution. Second, let $$x = \\text{sin} \\theta$$ and use trigonometric substitution. Are the answers the same?",
+        "Image Links": [],
+        "Answer": "$$\\text{arcsin} ( x ) + C$$ is the common answer.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the technique of completing the square to evaluate the following integrals.",
+        "Question": "Evaluate the integral $$\\int \\frac{d x}{x \\sqrt{x^{2} - 1}}$$ using the substitution $$x = \\text{sec} \\theta .$$ Next, evaluate the same integral using the substitution $$x = \\text{csc} \\theta .$$ Show that the results are equivalent.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the technique of completing the square to evaluate the following integrals.",
+        "Question": "Evaluate the integral $$\\int \\frac{x}{x^{2} + 1} d x$$ using the form $$\\int \\frac{1}{u} d u .$$ Next, evaluate the same integral using $$x = \\text{tan} \\theta .$$ Are the results the same?",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{2} \\text{ln} ( 1 + x^{2} ) + C$$ is the result using either method.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the technique of completing the square to evaluate the following integrals.",
+        "Question": "State the method of integration you would use to evaluate the integral $$\\int x \\sqrt{x^{2} + 1} d x .$$ Why did you choose this method?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the technique of completing the square to evaluate the following integrals.",
+        "Question": "State the method of integration you would use to evaluate the integral $$\\int x^{2} \\sqrt{x^{2} - 1} d x .$$ Why did you choose this method?",
+        "Image Links": [],
+        "Answer": "Use trigonometric substitution. Let $$x = \\text{sec} ( \\theta ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the technique of completing the square to evaluate the following integrals.",
+        "Question": "Evaluate $$\\int_{-1}^{1} \\frac{x d x}{x^{2} + 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the technique of completing the square to evaluate the following integrals.",
+        "Question": "Find the length of the arc of the curve over the specified interval: $$y = \\text{ln} x , [ 1 , 5 ] .$$ Round the answer to three decimal places.",
+        "Image Links": [],
+        "Answer": "4.367",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the technique of completing the square to evaluate the following integrals.",
+        "Question": "Find the surface area of the solid generated by revolving the region bounded by the graphs of $$y = x^{2} , y = 0 , x = 0 , \\text{and} x = \\sqrt{2}$$ about the x -axis. (Round the answer to three decimal places).",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the technique of completing the square to evaluate the following integrals.",
+        "Question": "The region bounded by the graph of $$f ( x ) = \\frac{1}{1 + x^{2}}$$ and the x -axis between $$x = 0$$ and $$x = 1$$ is revolved about the x- axis. Find the volume of the solid that is generated.",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\pi^{2}}{8} + \\frac{\\pi}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the initial-value problem for y as a function of x .",
+        "Question": "$$( x^{2} + 36 ) \\frac{d y}{d x} = 1 , y ( 6 ) = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the initial-value problem for y as a function of x .",
+        "Question": "$$( 64 - x^{2} ) \\frac{d y}{d x} = 1 , y ( 0 ) = 3$$",
+        "Image Links": [],
+        "Answer": "$$y = \\frac{1}{16} \\text{ln} | \\frac{x + 8}{x - 8} | + 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the initial-value problem for y as a function of x .",
+        "Question": "Find the area bounded by $$y = \\frac{2}{\\sqrt{64 - 4 x^{2}}} , x = 0 , y = 0 , \\text{and} x = 2 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the initial-value problem for y as a function of x .",
+        "Question": "An oil storage tank can be described as the volume generated by revolving the area bounded by $$y = \\frac{16}{\\sqrt{64 + x^{2}}} , x = 0 , y = 0 , x = 2$$ about the x -axis. Find the volume of the tank (in cubic meters).",
+        "Image Links": [],
+        "Answer": "24.6 m 3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the initial-value problem for y as a function of x .",
+        "Question": "During each cycle, the velocity v (in feet per second) of a robotic welding device is given by $$v = 2 t - \\frac{14}{4 + t^{2}} ,$$ where t is time in seconds. Find the expression for the displacement s (in feet) as a function of t if $$s = 0$$ when $$t = 0 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the initial-value problem for y as a function of x .",
+        "Question": "Find the length of the curve $$y = \\sqrt{16 - x^{2}}$$ between $$x = 0$$ and $$x = 2 .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2 \\pi}{3}$$",
+        "Answer Image Links": []
+    }
+]
