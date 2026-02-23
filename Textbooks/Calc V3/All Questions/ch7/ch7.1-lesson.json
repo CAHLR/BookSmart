@@ -1,0 +1,430 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "Classify each of the following equations as linear or nonlinear. If the equation is linear, determine whether it is homogeneous or nonhomogeneous.",
+        "Question": "$$x^{3} y^{\\second} + ( x - 1 ) y^{\\prime} - 8 y = 0$$",
+        "Image Links": [],
+        "Answer": "linear, homogenous",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Classify each of the following equations as linear or nonlinear. If the equation is linear, determine whether it is homogeneous or nonhomogeneous.",
+        "Question": "$$( 1 + y^{2} ) y^{\\second} + x y^{\\prime} - 3 y = \\text{cos} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Classify each of the following equations as linear or nonlinear. If the equation is linear, determine whether it is homogeneous or nonhomogeneous.",
+        "Question": "$$x y^{\\second} + e^{y} y^{\\prime} = x$$",
+        "Image Links": [],
+        "Answer": "nonlinear",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Classify each of the following equations as linear or nonlinear. If the equation is linear, determine whether it is homogeneous or nonhomogeneous.",
+        "Question": "$$y^{\\second} + \\frac{4}{x} y^{\\prime} - 8 x y = 5 x^{2} + 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Classify each of the following equations as linear or nonlinear. If the equation is linear, determine whether it is homogeneous or nonhomogeneous.",
+        "Question": "$$y^{\\second} + ( \\text{sin} x ) y^{\\prime} - x y = 4 y$$",
+        "Image Links": [],
+        "Answer": "linear, homogeneous",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Classify each of the following equations as linear or nonlinear. If the equation is linear, determine whether it is homogeneous or nonhomogeneous.",
+        "Question": "$$y^{\\second} + ( \\frac{x + 3}{y} ) y^{\\prime} = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, verify that the given function is a solution to the differential equation. Use a graphing utility to graph the particular solutions for several values of c 1 and c 2 . What do the solutions have in common?",
+        "Question": "[T] $$y^{\\second} + 2 y^{\\prime} - 3 y = 0 ;$$ $$y ( x ) = c_{1} e^{x} + c_{2} e^{-3 x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, verify that the given function is a solution to the differential equation. Use a graphing utility to graph the particular solutions for several values of c 1 and c 2 . What do the solutions have in common?",
+        "Question": "[T] $$x^{2} y^{\\second} - 2 y - 3 x^{2} + 1 = 0 ;$$ $$y ( x ) = c_{1} x^{2} + c_{2} x^{-1} + x^{2} \\text{ln} ( x ) + \\frac{1}{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, verify that the given function is a solution to the differential equation. Use a graphing utility to graph the particular solutions for several values of c 1 and c 2 . What do the solutions have in common?",
+        "Question": "[T] $$y^{\\second} + 14 y^{\\prime} + 49 y = 0 ;$$ $$y ( x ) = c_{1} e^{-7 x} + c_{2} x e^{-7 x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, verify that the given function is a solution to the differential equation. Use a graphing utility to graph the particular solutions for several values of c 1 and c 2 . What do the solutions have in common?",
+        "Question": "[T] $$6 y^{\\second} - 49 y^{\\prime} + 8 y = 0 ;$$ $$y ( x ) = c_{1} e^{x \\text{/} 6} + c_{2} e^{8 x}$$ Find the general solution to the linear differential equation.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, verify that the given function is a solution to the differential equation. Use a graphing utility to graph the particular solutions for several values of c 1 and c 2 . What do the solutions have in common?",
+        "Question": "$$y^{\\second} - 3 y^{\\prime} - 10 y = 0$$",
+        "Image Links": [],
+        "Answer": "$$y = c_{1} e^{5 x} + c_{2} e^{-2 x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, verify that the given function is a solution to the differential equation. Use a graphing utility to graph the particular solutions for several values of c 1 and c 2 . What do the solutions have in common?",
+        "Question": "$$y^{\\second} - 7 y^{\\prime} + 12 y = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, verify that the given function is a solution to the differential equation. Use a graphing utility to graph the particular solutions for several values of c 1 and c 2 . What do the solutions have in common?",
+        "Question": "$$y^{\\second} + 4 y^{\\prime} + 4 y = 0$$",
+        "Image Links": [],
+        "Answer": "$$y = c_{1} e^{-2 x} + c_{2} x e^{-2 x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, verify that the given function is a solution to the differential equation. Use a graphing utility to graph the particular solutions for several values of c 1 and c 2 . What do the solutions have in common?",
+        "Question": "$$4 y^{\\second} - 12 y^{\\prime} + 9 y = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, verify that the given function is a solution to the differential equation. Use a graphing utility to graph the particular solutions for several values of c 1 and c 2 . What do the solutions have in common?",
+        "Question": "$$2 y^{\\second} - 3 y^{\\prime} - 5 y = 0$$",
+        "Image Links": [],
+        "Answer": "$$y = c_{1} e^{5 x \\text{/} 2} + c_{2} e^{\\text{unicode[:-]} x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, verify that the given function is a solution to the differential equation. Use a graphing utility to graph the particular solutions for several values of c 1 and c 2 . What do the solutions have in common?",
+        "Question": "$$3 y^{\\second} - 14 y^{\\prime} + 8 y = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, verify that the given function is a solution to the differential equation. Use a graphing utility to graph the particular solutions for several values of c 1 and c 2 . What do the solutions have in common?",
+        "Question": "$$y^{\\second} + y^{\\prime} + y = 0$$",
+        "Image Links": [],
+        "Answer": "$$y = e^{\\text{unicode[:-]} x \\text{/} 2} ( c_{1} \\text{cos} \\frac{\\sqrt{3} x}{2} + c_{2} \\text{sin} \\frac{\\sqrt{3} x}{2} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, verify that the given function is a solution to the differential equation. Use a graphing utility to graph the particular solutions for several values of c 1 and c 2 . What do the solutions have in common?",
+        "Question": "$$5 y^{\\second} + 2 y^{\\prime} + 4 y = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, verify that the given function is a solution to the differential equation. Use a graphing utility to graph the particular solutions for several values of c 1 and c 2 . What do the solutions have in common?",
+        "Question": "$$y^{\\second} - 121 y = 0$$",
+        "Image Links": [],
+        "Answer": "$$y = c_{1} e^{-11 x} + c_{2} e^{11 x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, verify that the given function is a solution to the differential equation. Use a graphing utility to graph the particular solutions for several values of c 1 and c 2 . What do the solutions have in common?",
+        "Question": "$$8 y^{\\second} + 14 y^{\\prime} - 15 y = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, verify that the given function is a solution to the differential equation. Use a graphing utility to graph the particular solutions for several values of c 1 and c 2 . What do the solutions have in common?",
+        "Question": "$$y^{\\second} + 81 y = 0$$",
+        "Image Links": [],
+        "Answer": "$$y = c_{1} \\text{cos} 9 x + c_{2} \\text{sin} 9 x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, verify that the given function is a solution to the differential equation. Use a graphing utility to graph the particular solutions for several values of c 1 and c 2 . What do the solutions have in common?",
+        "Question": "$$y^{\\second} - y^{\\prime} + 11 y = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, verify that the given function is a solution to the differential equation. Use a graphing utility to graph the particular solutions for several values of c 1 and c 2 . What do the solutions have in common?",
+        "Question": "$$2 y^{\\second} = 0$$",
+        "Image Links": [],
+        "Answer": "$$y = c_{1} + c_{2} x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, verify that the given function is a solution to the differential equation. Use a graphing utility to graph the particular solutions for several values of c 1 and c 2 . What do the solutions have in common?",
+        "Question": "$$y^{\\second} - 6 y^{\\prime} + 9 y = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, verify that the given function is a solution to the differential equation. Use a graphing utility to graph the particular solutions for several values of c 1 and c 2 . What do the solutions have in common?",
+        "Question": "$$3 y^{\\second} - 2 y^{\\prime} - 7 y = 0$$",
+        "Image Links": [],
+        "Answer": "$$y = c_{1} e^{( ( 1 + \\sqrt{22} ) \\text{/} 3 ) x} + c_{2} e^{( ( 1 - \\sqrt{22} ) \\text{/} 3 ) x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, verify that the given function is a solution to the differential equation. Use a graphing utility to graph the particular solutions for several values of c 1 and c 2 . What do the solutions have in common?",
+        "Question": "$$4 y^{\\second} - 10 y^{\\prime} = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, verify that the given function is a solution to the differential equation. Use a graphing utility to graph the particular solutions for several values of c 1 and c 2 . What do the solutions have in common?",
+        "Question": "$$36 \\frac{d^{2} y}{d x^{2}} + 12 \\frac{d y}{d x} + y = 0$$",
+        "Image Links": [],
+        "Answer": "$$y = c_{1} e^{\\text{unicode[:-]} x \\text{/} 6} + c_{2} x e^{\\text{unicode[:-]} x \\text{/} 6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, verify that the given function is a solution to the differential equation. Use a graphing utility to graph the particular solutions for several values of c 1 and c 2 . What do the solutions have in common?",
+        "Question": "$$25 \\frac{d^{2} y}{d x^{2}} - 80 \\frac{d y}{d x} + 64 y = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, verify that the given function is a solution to the differential equation. Use a graphing utility to graph the particular solutions for several values of c 1 and c 2 . What do the solutions have in common?",
+        "Question": "$$\\frac{d^{2} y}{d x^{2}} - 9 \\frac{d y}{d x} = 0$$",
+        "Image Links": [],
+        "Answer": "$$y = c_{1} + c_{2} e^{9 x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, verify that the given function is a solution to the differential equation. Use a graphing utility to graph the particular solutions for several values of c 1 and c 2 . What do the solutions have in common?",
+        "Question": "$$4 \\frac{d^{2} y}{d x^{2}} + 8 y = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the initial-value problem.",
+        "Question": "$$y^{\\second} + 5 y^{\\prime} + 6 y = 0 , y ( 0 ) = 0 , \\text{} y^{\\prime} ( 0 ) = -2$$",
+        "Image Links": [],
+        "Answer": "$$y = -2 e^{-2 x} + 2 e^{-3 x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the initial-value problem.",
+        "Question": "$$y^{\\second} + 2 y^{\\prime} - 8 y = 0 , y ( 0 ) = 5 , \\text{} y^{\\prime} ( 0 ) = 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the initial-value problem.",
+        "Question": "$$y^{\\second} + 4 y = 0 , y ( 0 ) = 3 , \\text{} y^{\\prime} ( 0 ) = 10$$",
+        "Image Links": [],
+        "Answer": "$$y = 3 \\text{cos} ( 2 x ) + 5 \\text{sin} ( 2 x )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the initial-value problem.",
+        "Question": "$$y^{\\second} - 18 y^{\\prime} + 81 y = 0 , y ( 0 ) = 1 , \\text{} y^{\\prime} ( 0 ) = 5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the initial-value problem.",
+        "Question": "$$y^{\\second} - y^{\\prime} - 30 y = 0 , y ( 0 ) = 1 , \\text{} y^{\\prime} ( 0 ) = -16$$",
+        "Image Links": [],
+        "Answer": "$$y = \\text{unicode[:-]} e^{6 x} + 2 e^{-5 x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the initial-value problem.",
+        "Question": "$$4 y^{\\second} + 4 y^{\\prime} - 8 y = 0 , y ( 0 ) = 2 , \\text{} y^{\\prime} ( 0 ) = 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the initial-value problem.",
+        "Question": "$$25 y^{\\second} + 10 y^{\\prime} + y = 0 , y ( 0 ) = 2 , \\text{} y^{\\prime} ( 0 ) = 1$$",
+        "Image Links": [],
+        "Answer": "$$y = 2 e^{\\text{unicode[:-]} x \\text{/} 5} + \\frac{7}{5} x e^{\\text{unicode[:-]} x \\text{/} 5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the initial-value problem.",
+        "Question": "$$y^{\\second} + y = 0 , y ( \\pi ) = 1 , \\text{} y^{\\prime} ( \\pi ) = -5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the boundary-value problem, if possible.",
+        "Question": "$$y^{\\second} + y^{\\prime} - 42 y = 0 , y ( 0 ) = 0 , \\text{} y ( 1 ) = 2$$",
+        "Image Links": [],
+        "Answer": "$$y = ( \\frac{2}{e^{6} - e^{-7}} ) e^{6 x} - ( \\frac{2}{e^{6} - e^{-7}} ) e^{-7 x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the boundary-value problem, if possible.",
+        "Question": "$$9 y^{\\second} + y = 0 , y ( \\frac{3 \\pi}{2} ) = 6 , \\text{} y ( 0 ) = -8$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the boundary-value problem, if possible.",
+        "Question": "$$y^{\\second} + 10 y^{\\prime} + 34 y = 0 , y ( 0 ) = 6 , \\text{} y ( \\pi ) = 2$$",
+        "Image Links": [],
+        "Answer": "No solutions exist.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the boundary-value problem, if possible.",
+        "Question": "$$y^{\\second} + 7 y^{\\prime} - 60 y = 0 , y ( 0 ) = 4 , \\text{} y ( 2 ) = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the boundary-value problem, if possible.",
+        "Question": "$$y^{\\second} - 4 y^{\\prime} + 4 y = 0 , y ( 0 ) = 2 , \\text{} y ( 1 ) = -1$$",
+        "Image Links": [],
+        "Answer": "$$y = 2 e^{2 x} - \\frac{2 e^{2} + 1}{e^{2}} x e^{2 x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the boundary-value problem, if possible.",
+        "Question": "$$y^{\\second} - 5 y^{\\prime} = 0 , y ( 0 ) = 3 , \\text{} y ( -1 ) = 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the boundary-value problem, if possible.",
+        "Question": "$$y^{\\second} + 9 y = 0 , y ( 0 ) = 4 , \\text{} y ( \\frac{\\pi}{3} ) = -4$$",
+        "Image Links": [],
+        "Answer": "$$y = 4 \\text{cos} 3 x + c_{2} \\text{sin} 3 x , \\text{infinitely many solutions}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the boundary-value problem, if possible.",
+        "Question": "$$4 y^{\\second} + 25 y = 0 , y ( 0 ) = 2 , \\text{} y ( 2 \\pi ) = -2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the boundary-value problem, if possible.",
+        "Question": "Find a differential equation with a general solution that is $$y = c_{1} e^{x \\text{/} 5} + c_{2} e^{-4 x} .$$",
+        "Image Links": [],
+        "Answer": "$$5 y^{\\second} + 19 y^{\\prime} - 4 y = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the boundary-value problem, if possible.",
+        "Question": "Find a differential equation with a general solution that is $$y = c_{1} e^{x} + c_{2} e^{-4 x \\text{/} 3} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following differential equations: a) Solve the initial value problem. b) [T] Use a graphing utility to graph the particular solution.",
+        "Question": "$$y^{\\second} + 64 y = 0 ; y ( 0 ) = 3 , y^{\\prime} ( 0 ) = 16$$",
+        "Image Links": [],
+        "Answer": "a. $$y = 3 \\text{cos} ( 8 x ) + 2 \\text{sin} ( 8 x )$$ b.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b7a1701c3540e2ce7e877ad060ce26c784f0add5"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following differential equations: a) Solve the initial value problem. b) [T] Use a graphing utility to graph the particular solution.",
+        "Question": "$$y^{\\second} - 2 y^{\\prime} + 10 y = 0 y ( 0 ) = 1 , y^{\\prime} ( 0 ) = 13$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following differential equations: a) Solve the initial value problem. b) [T] Use a graphing utility to graph the particular solution.",
+        "Question": "$$y^{\\second} + 5 y^{\\prime} + 15 y = 0 y ( 0 ) = -2 , y^{\\prime} ( 0 ) = 7$$",
+        "Image Links": [],
+        "Answer": "a. $$y = e^{( -5 \\text{/} 2 ) x} [ -2 \\text{cos} ( \\frac{\\sqrt{35}}{2} x ) + \\frac{4 \\sqrt{35}}{35} \\text{sin} ( \\frac{\\sqrt{35}}{2} x ) ]$$ b.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/fef86ff2ae8e73e8edbd21ff78ef99a077f4cda1"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following differential equations: a) Solve the initial value problem. b) [T] Use a graphing utility to graph the particular solution.",
+        "Question": "(Principle of superposition) Prove that if $$y_{1} ( x )$$ and $$y_{2} ( x )$$ are solutions to a linear homogeneous differential equation, $$y^{\\second} + p ( x ) y^{\\prime} + q ( x ) y = 0 ,$$ then the function $$y ( x ) = c_{1} y_{1} ( x ) + c_{2} y_{2} ( x ) ,$$ where $$c_{1}$$ and $$c_{2}$$ are constants, is also a solution.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following differential equations: a) Solve the initial value problem. b) [T] Use a graphing utility to graph the particular solution.",
+        "Question": "Prove that if a, b, and c are positive constants, then all solutions to the second-order linear differential equation $$a y^{\\second} + b y^{\\prime} + c y = 0$$ approach zero as $$x \\vec{} \\infty \\text{.}$$ ( Hint: Consider three cases: two distinct roots, repeated real roots, and complex conjugate roots.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

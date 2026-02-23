@@ -1,0 +1,50 @@
+[
+    {
+        "Topic": "Checkpoint 5.43",
+        "Problem Statement": "",
+        "Question": "Let a transformation $$T$$ be defined as $$T ( u , v ) = ( x , y )$$ where $$x = u + v , y = 3 v .$$ Find the image of the rectangle $$G = \\{ ( u , v ) \\text{:} 0 \\le u \\le 1 , 0 \\le v \\le 2 \\}$$ from the $$u v \\text{-plane}$$ after the transformation into a region $$R$$ in the $$x y \\text{-plane} \\text{.}$$ Show that $$T$$ is a one-to-one transformation and find $$T^{-1} ( x , y ) .$$",
+        "Image Links": [],
+        "Answer": "$$T^{-1} ( x , y ) = ( u , v )$$ where $$u = \\frac{3 x - y}{3}$$ and $$v = \\frac{y}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.44",
+        "Problem Statement": "",
+        "Question": "Find the Jacobian of the transformation given in the previous checkpoint: $$T ( u , v ) = ( u + v , 2 v ) .$$",
+        "Image Links": [],
+        "Answer": "$$J ( u , v ) = \\frac{\\partial ( x , y )}{\\partial ( u , v )} = \\left |\\begin{matrix}\\frac{\\partial x}{\\partial u} &  & \\frac{\\partial x}{\\partial v} \\\\ \\frac{\\partial y}{\\partial u} &  & \\frac{\\partial y}{\\partial v}\\end{matrix}\\right | = \\left |\\begin{matrix}1 &  & 1 \\\\ 0 &  & 2\\end{matrix}\\right | = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.45",
+        "Problem Statement": "",
+        "Question": "Considering the integral $$\\int_{0}^{1} \\int_{0}^{\\sqrt{1 - x^{2}}} ( x^{2} + y^{2} ) d y d x ,$$ use the change of variables $$x = r \\text{cos} \\theta$$ and $$y = r \\text{sin} \\theta ,$$ and find the resulting integral.",
+        "Image Links": [],
+        "Answer": "$$\\int_{0}^{\\pi \\text{/} 2} \\int_{0}^{1} r^{3} d r d \\theta$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.46",
+        "Problem Statement": "",
+        "Question": "Make appropriate changes of variables in the integral $$\\iint_{R} \\frac{4}{( x - y )^{2}} d y d x ,$$ where $$R$$ is the trapezoid bounded by the lines $$x - y = 2 , x - y = 4 , x = 0 , \\text{and} y = 0 .$$ Write the resulting integral.",
+        "Image Links": [],
+        "Answer": "$$x = \\frac{1}{2} ( v + u )$$ and $$y = \\frac{1}{2} ( v - u )$$ and $$\\int_{2}^{4} \\int_{-u}^{u} \\frac{4}{u^{2}} ( \\frac{1}{2} ) d v d u .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.47",
+        "Problem Statement": "",
+        "Question": "Using the substitutions $$x = v$$ and $$y = \\sqrt{u + v} ,$$ evaluate the integral $$\\iint_{R} y \\text{sin} ( y^{2} - x ) d A$$ where $$R$$ is the region bounded by the lines $$y = \\sqrt{x} , x = 2 , \\text{and} y = 0 .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{2} ( \\text{sin} 2 - 2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.48",
+        "Problem Statement": "",
+        "Question": "Let $$D$$ be the region in $$x y z \\text{-space}$$ defined by $$1 \\le x \\le 2 , 0 \\le x y \\le 2 , \\text{and} 0 \\le z \\le 1 .$$ Evaluate $$\\iiint_{D} ( x^{2} y + 3 x y z ) d x d y d z$$ by using the transformation $$u = x , v = x y ,$$ and $$w = 3 z .$$",
+        "Image Links": [],
+        "Answer": "$$\\int_{0}^{3} \\int_{0}^{2} \\int_{1}^{2} ( \\frac{v}{3} + \\frac{v w}{3 u} ) d u d v d w = 2 + \\text{ln} 8$$",
+        "Answer Image Links": []
+    }
+]

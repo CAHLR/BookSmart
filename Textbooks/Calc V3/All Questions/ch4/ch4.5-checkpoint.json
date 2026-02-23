@@ -1,0 +1,44 @@
+[
+    {
+        "Topic": "Checkpoint 4.23",
+        "Problem Statement": "",
+        "Question": "Calculate $$d z \\text{/} d t$$ given the following functions. Express the final answer in terms of $$t .$$ $$z = f ( x , y ) = x^{2} - 3 x y + 2 y^{2} , x = x ( t ) = 3 \\text{sin} 2 t , y = y ( t ) = 4 \\text{cos} 2 t$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{aa}\\frac{d z}{d t} & = \\frac{\\partial f}{\\partial x} \\frac{d x}{d t} + \\frac{\\partial f}{\\partial y} \\frac{d y}{d t} \\\\  & = ( 2 x - 3 y ) ( 6 \\text{cos} 2 t ) + ( -3 x + 4 y ) ( -8 \\text{sin} 2 t ) \\\\  & = -92 \\text{sin} 2 t \\text{cos} 2 t - 72 ( \\text{cos}^{2} 2 t - \\text{sin}^{2} 2 t ) \\\\  & = -46 \\text{sin} 4 t - 72 \\text{cos} 4 t .\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.24",
+        "Problem Statement": "",
+        "Question": "Calculate $$\\partial z \\text{/} \\partial u$$ and $$\\partial z \\text{/} \\partial v$$ given the following functions: $$z = f ( x , y ) = \\frac{2 x - y}{x + 3 y} , x ( u , v ) = e^{2 u} \\text{cos} 3 v , y ( u , v ) = e^{2 u} \\text{sin} 3 v .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\partial z}{\\partial u} = 0 , \\frac{\\partial z}{\\partial v} = \\frac{-21}{( 3 \\text{sin} 3 v + \\text{cos} 3 v )^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.25",
+        "Problem Statement": "",
+        "Question": "Calculate $$\\partial w \\text{/} \\partial u$$ and $$\\partial w \\text{/} \\partial v$$ given the following functions: $$\\left .\\begin{matrix}{} \\\\  \\\\ w & = & f ( x , y , z ) = \\frac{x + 2 y - 4 z}{2 x - y + 3 z} \\\\ x & = & x ( u , v ) = e^{2 u} \\text{cos} 3 v \\\\ y & = & y ( u , v ) = e^{2 u} \\text{sin} 3 v \\\\ z & = & z ( u , v ) = e^{2 u} .\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{a}\\frac{\\partial w}{\\partial u} = 0 \\\\ \\frac{\\partial w}{\\partial v} = \\frac{15 - 33 \\text{sin} 3 v + 6 \\text{cos} 3 v}{( 3 + 2 \\text{cos} 3 v - \\text{sin} 3 v )^{2}}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.26",
+        "Problem Statement": "",
+        "Question": "Create a tree diagram for the case when $$w = f ( x , y ) , x = x ( t , u , v ) , y = y ( t , u , v )$$ and write out the formulas for the three partial derivatives of $$w .$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{a}\\frac{\\partial w}{\\partial t} = \\frac{\\partial w}{\\partial x} \\frac{\\partial x}{\\partial t} + \\frac{\\partial w}{\\partial y} \\frac{\\partial y}{\\partial t} \\\\ \\frac{\\partial w}{\\partial u} = \\frac{\\partial w}{\\partial x} \\frac{\\partial x}{\\partial u} + \\frac{\\partial w}{\\partial y} \\frac{\\partial y}{\\partial u} \\\\ \\frac{\\partial w}{\\partial v} = \\frac{\\partial w}{\\partial x} \\frac{\\partial x}{\\partial v} + \\frac{\\partial w}{\\partial y} \\frac{\\partial y}{\\partial v}\\end{matrix}\\right .$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d3f1e8c03699c36194b8f5b08c612be998ec7e09"
+        ]
+    },
+    {
+        "Topic": "Checkpoint 4.27",
+        "Problem Statement": "",
+        "Question": "Find $$d y \\text{/} d x$$ if $$y$$ is defined implicitly as a function of $$x$$ by the equation $$x^{2} + x y - y^{2} + 7 x - 3 y - 26 = 0 .$$ What is the equation of the tangent line to the graph of this curve at point $$( 3 , -2 ) ?$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{d y}{d x} = {\\frac{2 x + y + 7}{2 y - x + 3} |}_{( 3 , -2 )} = \\frac{2 ( 3 ) + ( -2 ) + 7}{2 ( -2 ) - ( 3 ) + 3} = - \\frac{11}{4}$$ Equation of the tangent line: $$y = - \\frac{11}{4} x + \\frac{25}{4}$$",
+        "Answer Image Links": []
+    }
+]

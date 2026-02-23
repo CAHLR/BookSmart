@@ -1,0 +1,52 @@
+[
+    {
+        "Topic": "Checkpoint 6.34",
+        "Problem Statement": "",
+        "Question": "Use Green\u2019s theorem to calculate line integral $$\\int_{C} \\text{sin} ( x^{2} ) d x + ( 3 x - y ) d y ,$$ where C is a right triangle with vertices $$( -1 , 2 ) ,$$ $$( 4 , 2 ) ,$$ and $$( 4 , 5 )$$ oriented counterclockwise.",
+        "Image Links": [],
+        "Answer": "$$\\frac{45}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.35",
+        "Problem Statement": "",
+        "Question": "Find the area of the region enclosed by the curve with parameterization $$\\mathbf{\\text{r}} ( t ) = \\langle \\text{sin} t \\text{cos} t , \\text{sin} t \\rangle , 0 \\le t \\le \\pi .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/260c9cefb25ed90efddad28322ba1a42d6337c81"
+        ],
+        "Answer": "$$\\frac{2}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.36",
+        "Problem Statement": "",
+        "Question": "Calculate the flux of $$\\mathbf{\\text{F}} ( x , y ) = \\langle x^{3} , y^{3} \\rangle$$ across a unit circle oriented counterclockwise.",
+        "Image Links": [],
+        "Answer": "$$\\frac{3 \\pi}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.37",
+        "Problem Statement": "",
+        "Question": "Find a stream function for vector field $$\\mathbf{\\text{F}} ( x , y ) = \\langle x \\text{sin} y , \\text{cos} y \\rangle .$$",
+        "Image Links": [],
+        "Answer": "$$g ( x , y ) = \\text{unicode[:-]} x \\text{cos} y$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.38",
+        "Problem Statement": "",
+        "Question": "Is the function $$f ( x , y ) = e^{x + 5 y}$$ harmonic?",
+        "Image Links": [],
+        "Answer": "No",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.39",
+        "Problem Statement": "",
+        "Question": "Calculate integral $$\\int_{\\partial D} \\mathbf{\\text{F}} \\cdotp d \\mathbf{\\text{r}} ,$$ where D is the annulus given by the polar inequalities $$2 \\le r \\le 5 , 0 \\le \\theta \\le 2 \\pi ,$$ and $$\\mathbf{\\text{F}} ( x , y ) = \\langle x^{3} , 5 x + e^{y} \\text{sin} y \\rangle .$$",
+        "Image Links": [],
+        "Answer": "$$105 \\pi$$",
+        "Answer Image Links": []
+    }
+]

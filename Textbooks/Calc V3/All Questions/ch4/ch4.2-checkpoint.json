@@ -1,0 +1,50 @@
+[
+    {
+        "Topic": "Checkpoint 4.6",
+        "Problem Statement": "",
+        "Question": "Evaluate the following limit: $$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 5 , -2 \\left.\\right)}{\\text{lim}} \\sqrt[3]{\\frac{x^{2} - y}{y^{2} + x - 1}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 5 , -2 \\left.\\right)}{\\text{lim}} \\sqrt[3]{\\frac{x^{2} - y}{y^{2} + x - 1}} = \\frac{3}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.7",
+        "Problem Statement": "",
+        "Question": "Show that $$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 2 , 1 \\left.\\right)}{\\text{lim}} \\frac{\\left(\\right. x - 2 \\left.\\right) \\left(\\right. y - 1 \\left.\\right)}{\\left(\\left(\\right. x - 2 \\left.\\right)\\right)^{2} + \\left(\\left(\\right. y - 1 \\left.\\right)\\right)^{2}}$$ does not exist.",
+        "Image Links": [],
+        "Answer": "If $$y = k ( x - 2 ) + 1 ,$$ then $$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 2 , 1 \\left.\\right)}{\\text{lim}} \\frac{\\left(\\right. x - 2 \\left.\\right) \\left(\\right. y - 1 \\left.\\right)}{\\left(\\left(\\right. x - 2 \\left.\\right)\\right)^{2} + \\left(\\left(\\right. y - 1 \\left.\\right)\\right)^{2}} = \\frac{k}{1 + k^{2}} .$$ Since the answer depends on $$k ,$$ the limit fails to exist.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.8",
+        "Problem Statement": "",
+        "Question": "Evaluate the following limit: $$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 5 , -2 \\left.\\right)}{\\text{lim}} \\sqrt{29 - x^{2} - y^{2}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 5 , -2 \\left.\\right)}{\\text{lim}} \\sqrt{29 - x^{2} - y^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.9",
+        "Problem Statement": "",
+        "Question": "Show that the function $$f ( x , y ) = \\sqrt{26 - 2 x^{2} - y^{2}}$$ is continuous at point $$( 2 , -3 ) .$$",
+        "Image Links": [],
+        "Answer": "The domain of $$f$$ contains the ordered pair $$( 2 , -3 )$$ because $$f ( a , b ) = f ( 2 , -3 ) = \\sqrt{16 - 2 ( 2 )^{2} - ( -3 )^{2}} = 3$$ $$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. a , b \\left.\\right)}{\\text{lim}} f \\left(\\right. x , y \\left.\\right) = 3$$ $$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. a , b \\left.\\right)}{\\text{lim}} f \\left(\\right. x , y \\left.\\right) = f \\left(\\right. a , b \\left.\\right) = 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.10",
+        "Problem Statement": "",
+        "Question": "Show that the functions $$f ( x , y ) = 2 x^{2} y^{3} + 3$$ and $$g ( x , y ) = ( 2 x^{2} y^{3} + 3 )^{4}$$ are continuous everywhere.",
+        "Image Links": [],
+        "Answer": "The polynomials $$g ( x ) = 2 x^{2}$$ and $$h ( y ) = y^{3}$$ are continuous at every real number; therefore, by the product of continuous functions theorem, $$f ( x , y ) = 2 x^{2} y^{3}$$ is continuous at every point $$( x , y )$$ in the $$x y \\text{-plane.}$$ Furthermore, any constant function is continuous everywhere, so $$g ( x , y ) = 3$$ is continuous at every point $$( x , y )$$ in the $$x y \\text{-plane.}$$ Therefore, $$f ( x , y ) = 2 x^{2} y^{3} + 3$$ is continuous at every point $$( x , y )$$ in the $$x y \\text{-plane.}$$ Last, $$h ( x ) = x^{4}$$ is continuous at every real number $$x ,$$ so by the continuity of composite functions theorem $$g ( x , y ) = ( 2 x^{2} y^{3} + 3 )^{4}$$ is continuous at every point $$( x , y )$$ in the $$x y \\text{-plane.}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.11",
+        "Problem Statement": "",
+        "Question": "Find $$\\underset{\\left(\\right. x , y , z \\left.\\right) \\rightarrow \\left(\\right. 4 , -1 , 3 \\left.\\right)}{\\text{lim}} \\sqrt{13 - x^{2} - 2 y^{2} + z^{2}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\underset{\\left(\\right. x , y , z \\left.\\right) \\rightarrow \\left(\\right. 4 , -1 , 3 \\left.\\right)}{\\text{lim}} \\sqrt{13 - x^{2} - 2 y^{2} + z^{2}} = 2$$",
+        "Answer Image Links": []
+    }
+]

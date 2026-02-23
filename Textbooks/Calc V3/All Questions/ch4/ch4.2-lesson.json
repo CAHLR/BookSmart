@@ -1,0 +1,422 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the limit of the function.",
+        "Question": "$$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 1 , 2 \\left.\\right)}{\\text{lim}} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the limit of the function.",
+        "Question": "$$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 1 , 2 \\left.\\right)}{\\text{lim}} \\frac{5 x^{2} y}{x^{2} + y^{2}}$$",
+        "Image Links": [],
+        "Answer": "2.0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the limit of the function.",
+        "Question": "Show that the limit $$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 0 , 0 \\left.\\right)}{\\text{lim}} \\frac{5 x^{2} y}{x^{2} + y^{2}}$$ exists and is the same along the paths: $$y \\text{-axis}$$ and $$x \\text{-axis,}$$ and along $$y = x .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits at the indicated values of $$x \\text{and} y .$$ If the limit does not exist, state this and explain why the limit does not exist.",
+        "Question": "$$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 0 , 0 \\left.\\right)}{\\text{lim}} \\frac{4 x^{2} + 10 y^{2} + 4}{4 x^{2} - 10 y^{2} + 6}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits at the indicated values of $$x \\text{and} y .$$ If the limit does not exist, state this and explain why the limit does not exist.",
+        "Question": "$$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 11 , 13 \\left.\\right)}{\\text{lim}} \\sqrt{\\frac{1}{x y}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits at the indicated values of $$x \\text{and} y .$$ If the limit does not exist, state this and explain why the limit does not exist.",
+        "Question": "$$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 0 , 1 \\left.\\right)}{\\text{lim}} \\frac{y^{2} \\text{sin} x}{x}$$",
+        "Image Links": [],
+        "Answer": "$$1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits at the indicated values of $$x \\text{and} y .$$ If the limit does not exist, state this and explain why the limit does not exist.",
+        "Question": "$$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 0 , 0 \\left.\\right)}{\\text{lim}} \\text{sin} \\left(\\right. \\frac{x^{8} + y^{7}}{x - y + 10} \\left.\\right)$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits at the indicated values of $$x \\text{and} y .$$ If the limit does not exist, state this and explain why the limit does not exist.",
+        "Question": "$$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. \\pi / 4 , 1 \\left.\\right)}{\\text{lim}} \\frac{y \\text{tan} x}{y + 1}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits at the indicated values of $$x \\text{and} y .$$ If the limit does not exist, state this and explain why the limit does not exist.",
+        "Question": "$$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 0 , \\pi / 4 \\left.\\right)}{\\text{lim}} \\frac{\\text{sec} x + 2}{3 x - \\text{tan} y}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits at the indicated values of $$x \\text{and} y .$$ If the limit does not exist, state this and explain why the limit does not exist.",
+        "Question": "$$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 2 , 5 \\left.\\right)}{\\text{lim}} \\left(\\right. \\frac{1}{x} - \\frac{5}{y} \\left.\\right)$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{1}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits at the indicated values of $$x \\text{and} y .$$ If the limit does not exist, state this and explain why the limit does not exist.",
+        "Question": "$$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 4 , 4 \\left.\\right)}{\\text{lim}} x \\text{ln} y$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits at the indicated values of $$x \\text{and} y .$$ If the limit does not exist, state this and explain why the limit does not exist.",
+        "Question": "$$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 4 , 4 \\left.\\right)}{\\text{lim}} e^{- x^{2} - y^{2}}$$",
+        "Image Links": [],
+        "Answer": "$$e^{-32}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits at the indicated values of $$x \\text{and} y .$$ If the limit does not exist, state this and explain why the limit does not exist.",
+        "Question": "$$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 0 , 0 \\left.\\right)}{\\text{lim}} \\sqrt{9 - x^{2} - y^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits at the indicated values of $$x \\text{and} y .$$ If the limit does not exist, state this and explain why the limit does not exist.",
+        "Question": "$$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 1 , 2 \\left.\\right)}{\\text{lim}} \\left(\\right. x^{2} y^{3} - x^{3} y^{2} + 3 x + 2 y \\left.\\right)$$",
+        "Image Links": [],
+        "Answer": "$$11.0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits at the indicated values of $$x \\text{and} y .$$ If the limit does not exist, state this and explain why the limit does not exist.",
+        "Question": "$$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. \\pi , \\pi \\left.\\right)}{\\text{lim}} x \\text{sin} \\left(\\right. \\frac{x + y}{4} \\left.\\right)$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits at the indicated values of $$x \\text{and} y .$$ If the limit does not exist, state this and explain why the limit does not exist.",
+        "Question": "$$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 0 , 0 \\left.\\right)}{\\text{lim}} \\frac{x y + 1}{x^{2} + y^{2} + 1}$$",
+        "Image Links": [],
+        "Answer": "$$1.0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits at the indicated values of $$x \\text{and} y .$$ If the limit does not exist, state this and explain why the limit does not exist.",
+        "Question": "$$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 0 , 0 \\left.\\right)}{\\text{lim}} \\frac{x^{2} + y^{2}}{\\sqrt{x^{2} + y^{2} + 1} - 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits at the indicated values of $$x \\text{and} y .$$ If the limit does not exist, state this and explain why the limit does not exist.",
+        "Question": "$$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 0 , 0 \\left.\\right)}{\\text{lim}} \\text{ln} \\left(\\right. x^{2} + y^{2} \\left.\\right)$$",
+        "Image Links": [],
+        "Answer": "The limit does not exist because when $$x$$ and $$y$$ both approach zero, the function approaches $$\\text{ln} 0 ,$$ which is undefined (approaches negative infinity).",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, complete the statement.",
+        "Question": "A point $$( x_{0} , y_{0} )$$ in a plane region $$R$$ is an interior point of $$R$$ if _________________.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, complete the statement.",
+        "Question": "A point $$( x_{0} , y_{0} )$$ in a plane region $$R$$ is called a boundary point of $$R$$ if ___________.",
+        "Image Links": [],
+        "Answer": "every open disk centered at $$( x_{0} , y_{0} )$$ contains points inside $$R$$ and outside $$R$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use algebraic techniques to evaluate the limit.",
+        "Question": "$$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 2 , 1 \\left.\\right)}{\\text{lim}} \\frac{x - y - 1}{\\sqrt{x - y} - 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use algebraic techniques to evaluate the limit.",
+        "Question": "$$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 0 , 0 \\left.\\right)}{\\text{lim}} \\frac{x^{4} - 4 y^{4}}{x^{2} + 2 y^{2}}$$",
+        "Image Links": [],
+        "Answer": "$$0.0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use algebraic techniques to evaluate the limit.",
+        "Question": "$$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 0 , 0 \\left.\\right)}{\\text{lim}} \\frac{x^{3} - y^{3}}{x - y}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use algebraic techniques to evaluate the limit.",
+        "Question": "$$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 0 , 0 \\left.\\right)}{\\text{lim}} \\frac{x^{2} - x y}{\\sqrt{x} - \\sqrt{y}}$$",
+        "Image Links": [],
+        "Answer": "$$0.00$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits of the functions of three variables.",
+        "Question": "$$\\underset{\\left(\\right. x , y , z \\left.\\right) \\rightarrow \\left(\\right. 1 , 2 , 3 \\left.\\right)}{\\text{lim}} \\frac{x z^{2} - y^{2} z}{x y z - 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits of the functions of three variables.",
+        "Question": "$$\\underset{\\left(\\right. x , y , z \\left.\\right) \\rightarrow \\left(\\right. 0 , 0 , 0 \\left.\\right)}{\\text{lim}} \\frac{x^{2} - y^{2} - z^{2}}{x^{2} + y^{2} - z^{2}}$$",
+        "Image Links": [],
+        "Answer": "The limit does not exist.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limit of the function by determining the value the function approaches along the indicated paths. If the limit does not exist, explain why not.",
+        "Question": "$$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 0 , 0 \\left.\\right)}{\\text{lim}} \\frac{x y + y^{3}}{x^{2} + y^{2}}$$ Along the $$x \\text{-axis}$$ $$( y = 0 )$$ Along the $$y \\text{-axis}$$ $$( x = 0 )$$ Along the path $$y = 2 x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limit of the function by determining the value the function approaches along the indicated paths. If the limit does not exist, explain why not.",
+        "Question": "Evaluate $$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 0 , 0 \\left.\\right)}{\\text{lim}} \\frac{x y + y^{3}}{x^{2} + y^{2}}$$ using the results of previous problem.",
+        "Image Links": [],
+        "Answer": "The limit does not exist. The function approaches two different values along different paths.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limit of the function by determining the value the function approaches along the indicated paths. If the limit does not exist, explain why not.",
+        "Question": "$$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 0 , 0 \\left.\\right)}{\\text{lim}} \\frac{x^{2} y}{x^{4} + y^{2}}$$ Along the x -axis $$( y = 0 )$$ Along the y -axis $$( x = 0 )$$ Along the path $$y = x^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limit of the function by determining the value the function approaches along the indicated paths. If the limit does not exist, explain why not.",
+        "Question": "Evaluate $$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 0 , 0 \\left.\\right)}{\\text{lim}} \\frac{x^{2} y}{x^{4} + y^{2}}$$ using the results of previous problem.",
+        "Image Links": [],
+        "Answer": "The limit does not exist because the function approaches two different values along the paths.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Discuss the continuity of the following functions. Find the largest region in the $$x y \\text{-plane}$$ in which the following functions are continuous.",
+        "Question": "$$f ( x , y ) = \\text{sin} ( x y )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Discuss the continuity of the following functions. Find the largest region in the $$x y \\text{-plane}$$ in which the following functions are continuous.",
+        "Question": "$$f ( x , y ) = \\text{ln} ( x + y )$$",
+        "Image Links": [],
+        "Answer": "The function $$f$$ is continuous in the region $$y > \\text{unicode[:-]} x .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Discuss the continuity of the following functions. Find the largest region in the $$x y \\text{-plane}$$ in which the following functions are continuous.",
+        "Question": "$$f ( x , y ) = e^{3 x y}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Discuss the continuity of the following functions. Find the largest region in the $$x y \\text{-plane}$$ in which the following functions are continuous.",
+        "Question": "$$f ( x , y ) = \\frac{1}{x y}$$",
+        "Image Links": [],
+        "Answer": "The function $$f$$ is continuous at all points in the $$x y \\text{-plane}$$ except at $$( 0 , 0 ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine the region in which the function is continuous. Explain your answer.",
+        "Question": "$$f ( x , y ) = \\frac{x^{2} y}{x^{2} + y^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine the region in which the function is continuous. Explain your answer.",
+        "Question": "$$f ( x , y ) = \\left \\{\\begin{matrix}\\frac{x^{2} y}{x^{2} + y^{2}} & \\text{if} ( x , y ) \\ne ( 0 , 0 ) \\\\ 0 & \\text{if} ( x , y ) = ( 0 , 0 )\\end{matrix}\\right \\}$$ ( Hint : Show that the function approaches different values along two different paths.)",
+        "Image Links": [],
+        "Answer": "The function is continuous at $$( 0 , 0 )$$ since the limit of the function at $$( 0 , 0 )$$ is $$0 ,$$ the same value of $$f ( 0 , 0 ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine the region in which the function is continuous. Explain your answer.",
+        "Question": "$$f ( x , y ) = \\frac{\\text{sin} ( x^{2} + y^{2} )}{x^{2} + y^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine the region in which the function is continuous. Explain your answer.",
+        "Question": "Determine whether $$g ( x , y ) = \\frac{x^{2} - y^{2}}{x^{2} + y^{2}}$$ is continuous at $$( 0 , 0 ) .$$",
+        "Image Links": [],
+        "Answer": "The function is discontinuous at $$( 0 , 0 ) .$$ The limit at $$( 0 , 0 )$$ fails to exist and $$g ( 0 , 0 )$$ does not exist.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine the region in which the function is continuous. Explain your answer.",
+        "Question": "Create a plot using graphing software to determine where the limit does not exist. Find where in the coordinate plane $$f ( x , y ) = \\frac{1}{x^{2} - y}$$ is continuous.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine the region in which the function is continuous. Explain your answer.",
+        "Question": "Determine the region of the $$x y \\text{-plane}$$ in which the function $$g ( x , y ) = \\text{arctan} ( \\frac{x y^{2}}{x + y} )$$ is continuous. Use technology to support your conclusion.",
+        "Image Links": [],
+        "Answer": "Since the function $$\\text{arctan} x$$ is continuous over $$( \\text{unicode[:-]} \\infty , \\infty ) ,$$ $$g ( x , y ) = \\text{arctan} ( \\frac{x y^{2}}{x + y} )$$ is continuous where $$z = \\frac{x y^{2}}{x + y}$$ is continuous. The inner function $$z$$ is continuous on all points of the $$x y \\text{-plane}$$ except where $$y = \\text{unicode[:-]} x .$$ Thus, $$g ( x , y ) = \\text{arctan} ( \\frac{x y^{2}}{x + y} )$$ is continuous on all points of the coordinate plane except at points at which $$y = \\text{unicode[:-]} x .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine the region in which the function is continuous. Explain your answer.",
+        "Question": "Determine the region of the $$x y \\text{-plane}$$ in which $$f ( x , y ) = \\text{ln} ( x^{2} + y^{2} - 1 )$$ is continuous. Use technology to support your conclusion. ( Hint : Choose the range of values for $$x \\text{and} y$$ carefully!)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine the region in which the function is continuous. Explain your answer.",
+        "Question": "At what points in space is $$g ( x , y , z ) = x^{2} + y^{2} - 2 z^{2}$$ continuous?",
+        "Image Links": [],
+        "Answer": "All points $$P ( x , y , z )$$ in space",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine the region in which the function is continuous. Explain your answer.",
+        "Question": "At what points in space is $$g ( x , y , z ) = \\frac{1}{x^{2} + z^{2} - 1}$$ continuous?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine the region in which the function is continuous. Explain your answer.",
+        "Question": "Show that $$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 0 , 0 \\left.\\right)}{\\text{lim}} \\frac{1}{x^{2} + y^{2}}$$ does not exist at $$( 0 , 0 )$$ by plotting the graph of the function.",
+        "Image Links": [],
+        "Answer": "The graph increases without bound as $$x \\text{and} y$$ both approach zero.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a80507a49861a63ecd11ea62b46f7bf45caaf3d8"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine the region in which the function is continuous. Explain your answer.",
+        "Question": "[T] Evaluate $$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 0 , 0 \\left.\\right)}{\\text{lim}} \\frac{- x y^{2}}{x^{2} + y^{4}}$$ by plotting the function using a CAS. Determine analytically the limit along the path $$x = y^{2} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine the region in which the function is continuous. Explain your answer.",
+        "Question": "[T] Use a CAS to draw a contour map of $$z = \\sqrt{9 - x^{2} - y^{2}} .$$ What is the name of the geometric shape of the level curves? Give the general equation of the level curves. What is the maximum value of $$z ?$$ What is the domain of the function? What is the range of the function?",
+        "Image Links": [],
+        "Answer": "a. b. The level curves are circles centered at $$( 0 , 0 )$$ with radius $$9 - c .$$ c. $$x^{2} + y^{2} = 9 - c$$ d. $$z = 3$$ e. $$\\{ ( x , y ) \\in \\RR^{2} | x^{2} + y^{2} \\le 9 \\}$$ f. $$\\{ z | 0 \\le z \\le 3 \\}$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2db47cf14340578e2220a0713890a53088f14674"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine the region in which the function is continuous. Explain your answer.",
+        "Question": "True or False : If we evaluate $$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 0 , 0 \\left.\\right)}{\\text{lim}} f \\left(\\right. x \\left.\\right)$$ along several paths and each time the limit is $$1 ,$$ we can conclude that $$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 0 , 0 \\left.\\right)}{\\text{lim}} f \\left(\\right. x \\left.\\right) = 1 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine the region in which the function is continuous. Explain your answer.",
+        "Question": "Use polar coordinates to find $$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 0 , 0 \\left.\\right)}{\\text{lim}} \\frac{\\text{sin} \\sqrt{x^{2} + y^{2}}}{\\sqrt{x^{2} + y^{2}}} .$$ You can also find the limit using L\u2019H\u00f4pital\u2019s rule.",
+        "Image Links": [],
+        "Answer": "$$1.0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine the region in which the function is continuous. Explain your answer.",
+        "Question": "Use polar coordinates to find $$\\underset{\\left(\\right. x , y \\left.\\right) \\rightarrow \\left(\\right. 0 , 0 \\left.\\right)}{\\text{lim}} \\text{cos} \\left(\\right. x^{2} + y^{2} \\left.\\right) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine the region in which the function is continuous. Explain your answer.",
+        "Question": "Discuss the continuity of $$f ( g ( x , y ) )$$ where $$f ( t ) = 1 \\text{/} t$$ and $$g ( x , y ) = 2 x - 5 y .$$",
+        "Image Links": [],
+        "Answer": "$$f ( g ( x , y ) )$$ is continuous at all points $$( x , y )$$ that are not on the line $$2 x - 5 y = 0 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine the region in which the function is continuous. Explain your answer.",
+        "Question": "Given $$f ( x , y ) = x^{2} - 4 y ,$$ find $$\\underset{h \\rightarrow 0}{\\text{lim}} \\frac{f \\left(\\right. x + h , y \\left.\\right) - f \\left(\\right. x , y \\left.\\right)}{h} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine the region in which the function is continuous. Explain your answer.",
+        "Question": "Given $$f ( x , y ) = x^{2} - 4 y ,$$ find $$\\underset{h \\rightarrow 0}{\\text{lim}} \\frac{f \\left(\\right. 1 + h , y \\left.\\right) - f \\left(\\right. 1 , y \\left.\\right)}{h} .$$",
+        "Image Links": [],
+        "Answer": "$$2.0$$",
+        "Answer Image Links": []
+    }
+]

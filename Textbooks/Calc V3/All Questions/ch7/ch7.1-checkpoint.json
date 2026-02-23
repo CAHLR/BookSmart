@@ -1,0 +1,78 @@
+[
+    {
+        "Topic": "Checkpoint 7.1",
+        "Problem Statement": "",
+        "Question": "Classify each of the following equations as linear or nonlinear. If the equation is linear, determine further whether it is homogeneous or nonhomogeneous. $$( y^{\\second} )^{2} - y^{\\prime} + 8 x^{3} y = 0$$ $$( \\text{sin} t ) y^{\\second} + \\text{cos} t - 3 t y^{\\prime} = 0$$",
+        "Image Links": [],
+        "Answer": "Nonlinear Linear, nonhomogeneous",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 7.2",
+        "Problem Statement": "",
+        "Question": "Show that $$y = 2 x^{2}$$ is a solution to the differential equation $$\\frac{1}{2} x^{2} y^{\\second} - x y^{\\prime} + y = 0 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 7.3",
+        "Problem Statement": "",
+        "Question": "Consider the differential equation $$y^{\\second} + 5 y^{\\prime} + 6 y = 0 .$$ Given that $$e^{-2 x}$$ and $$e^{-3 x}$$ are solutions to this differential equation, show that $$3 e^{-2 x} + 6 e^{-3 x}$$ is a solution.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 7.4",
+        "Problem Statement": "",
+        "Question": "Determine whether the following pairs of functions are linearly dependent or linearly independent: $$f_{1} ( x ) = e^{x} ,$$ $$f_{2} ( x ) = 3 e^{3 x} .$$",
+        "Image Links": [],
+        "Answer": "Linearly independent",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 7.5",
+        "Problem Statement": "",
+        "Question": "If $$y_{1} ( x ) = e^{3 x}$$ and $$y_{2} ( x ) = x e^{3 x}$$ are solutions to $$y^{\\second} - 6 y^{\\prime} + 9 y = 0 ,$$ what is the general solution?",
+        "Image Links": [],
+        "Answer": "$$y ( x ) = c_{1} e^{3 x} + c_{2} x e^{3 x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 7.6",
+        "Problem Statement": "",
+        "Question": "Find the general solution to the following differential equations: $$y^{\\second} - 2 y^{\\prime} + 10 y = 0$$ $$y^{\\second} + 14 y^{\\prime} + 49 y = 0$$",
+        "Image Links": [],
+        "Answer": "$$y ( x ) = e^{x} ( c_{1} \\text{cos} 3 x + c_{2} \\text{sin} 3 x )$$ $$y ( x ) = c_{1} e^{-7 x} + c_{2} x e^{-7 x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 7.7",
+        "Problem Statement": "",
+        "Question": "Solve the initial-value problem $$y^{\\second} - 3 y^{\\prime} - 10 y = 0 ,$$ $$y ( 0 ) = 0 ,$$ $$y^{\\prime} ( 0 ) = 7 .$$",
+        "Image Links": [],
+        "Answer": "$$y ( x ) = \\text{unicode[:-]} e^{-2 x} + e^{5 x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 7.8",
+        "Problem Statement": "",
+        "Question": "Solve the following initial-value problem and graph the solution: $$y^{\\second} - 2 y^{\\prime} + 10 y = 0 , y ( 0 ) = 2 , y^{\\prime} ( 0 ) = -1$$",
+        "Image Links": [],
+        "Answer": "$$y ( x ) = e^{x} ( 2 \\text{cos} 3 x - \\text{sin} 3 x )$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b736f909c87d0f189dec16bf6f1d7b35a8fdabbb"
+        ]
+    },
+    {
+        "Topic": "Checkpoint 7.9",
+        "Problem Statement": "",
+        "Question": "Suppose the following initial-value problem models the position (in feet) of a mass in a spring-mass system at any given time. Solve the initial-value problem and graph the solution. What is the position of the mass at time $$t = 0.3$$ sec? How fast is it moving at time $$t = 0.1$$ sec? In what direction? $$y^{\\second} + 14 y^{\\prime} + 49 y = 0 , y ( 0 ) = 0 , y^{\\prime} ( 0 ) = 1$$",
+        "Image Links": [],
+        "Answer": "$$y ( t ) = t e^{-7 t}$$ At time $$t = 0.3 ,$$ $$y ( 0.3 ) = 0.3 e^{( -7 * 0.3 )} = 0.3 e^{-2.1} \\approx 0.0367 .$$ The mass is 0.0367 ft below equilibrium. At time $$t = 0.1 ,$$ $$y^{\\prime} ( 0.1 ) = 0.3 e^{-0.7} \\approx 0.1490 .$$ The mass is moving downward at a speed of 0.1490 ft/sec.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3b392c2ce6515578d0c09b083b5a76aed4693ebf"
+        ]
+    }
+]

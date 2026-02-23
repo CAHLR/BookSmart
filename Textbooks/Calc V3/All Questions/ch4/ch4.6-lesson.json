@@ -1,0 +1,404 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the directional derivative using the limit definition only.",
+        "Question": "$$f ( x , y ) = 5 - 2 x^{2} - \\frac{1}{2} y^{2}$$ at point $$P ( 3 , 4 )$$ in the direction of $$\\text{u} = ( \\text{cos} \\frac{\\pi}{4} ) \\mathbf{i} + ( \\text{sin} \\frac{\\pi}{4} ) \\mathbf{j}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the directional derivative using the limit definition only.",
+        "Question": "$$f ( x , y ) = y^{2} \\text{cos} ( 2 x )$$ at point $$P ( \\frac{\\pi}{3} , 2 )$$ in the direction of $$\\text{u} = ( \\text{cos} \\frac{\\pi}{4} ) \\mathbf{i} + ( \\text{sin} \\frac{\\pi}{4} ) \\mathbf{j}$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{4 \\sqrt{3} + 3}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the directional derivative using the limit definition only.",
+        "Question": "Find the directional derivative of $$f ( x , y ) = y^{2} \\text{sin} ( 2 x )$$ at point $$P ( \\frac{\\pi}{4} , 2 )$$ in the direction of $$\\mathbf{u} = 5 \\mathbf{i} + 12 \\mathbf{j} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the directional derivative of the function at point $$P$$ in the direction of $$\\mathbf{u}$$ or $$\\mathbf{v}$$ as appropriate.",
+        "Question": "$$f ( x , y ) = x y ,$$ $$P ( 0 , -2 ) ,$$ $$\\mathbf{v} = \\frac{1}{2} \\mathbf{i} + \\frac{\\sqrt{3}}{2} \\mathbf{j}$$",
+        "Image Links": [],
+        "Answer": "$$-1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the directional derivative of the function at point $$P$$ in the direction of $$\\mathbf{u}$$ or $$\\mathbf{v}$$ as appropriate.",
+        "Question": "$$h ( x , y ) = e^{x} \\text{sin} y , P ( 1 , \\frac{\\pi}{2} ) , \\mathbf{v} = \\text{unicode[:-]} \\mathbf{i}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the directional derivative of the function at point $$P$$ in the direction of $$\\mathbf{u}$$ or $$\\mathbf{v}$$ as appropriate.",
+        "Question": "$$h ( x , y , z ) = x y z , P ( 2 , 1 , 1 ) , \\mathbf{v} = 2 \\mathbf{i} + \\mathbf{j} - \\mathbf{k}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2}{\\sqrt{6}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the directional derivative of the function at point $$P$$ in the direction of $$\\mathbf{u}$$ or $$\\mathbf{v}$$ as appropriate.",
+        "Question": "$$f ( x , y ) = x y , P ( 1 , 1 ) , \\mathbf{u} = \\langle \\frac{\\sqrt{2}}{2} , \\frac{\\sqrt{2}}{2} \\rangle$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the directional derivative of the function at point $$P$$ in the direction of $$\\mathbf{u}$$ or $$\\mathbf{v}$$ as appropriate.",
+        "Question": "$$f ( x , y ) = x^{2} - y^{2} , \\left .\\begin{matrix}{aa}\\mathbf{u} = \\langle \\frac{\\sqrt{3}}{2} , \\frac{1}{2} \\rangle , & P ( 1 , 0 )\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$\\sqrt{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the directional derivative of the function at point $$P$$ in the direction of $$\\mathbf{u}$$ or $$\\mathbf{v}$$ as appropriate.",
+        "Question": "$$f ( x , y ) = 3 x + 4 y + 7 , \\left .\\begin{matrix}{aa}\\mathbf{u} = \\langle \\frac{3}{5} , \\frac{4}{5} \\rangle , & P ( 0 , \\frac{\\pi}{2} )\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the directional derivative of the function at point $$P$$ in the direction of $$\\mathbf{u}$$ or $$\\mathbf{v}$$ as appropriate.",
+        "Question": "$$\\left .\\begin{matrix}{aaa}f ( x , y ) = e^{x} \\text{cos} y , & \\mathbf{u} = \\langle 0 , 1 \\rangle , & P = ( 0 , \\frac{\\pi}{2} )\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$-1.0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the directional derivative of the function at point $$P$$ in the direction of $$\\mathbf{u}$$ or $$\\mathbf{v}$$ as appropriate.",
+        "Question": "$$\\left .\\begin{matrix}{aaa}f ( x , y ) = y^{10} , & \\mathbf{u} = \\langle 0 , -1 \\rangle , & P = ( 1 , -1 )\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the directional derivative of the function at point $$P$$ in the direction of $$\\mathbf{u}$$ or $$\\mathbf{v}$$ as appropriate.",
+        "Question": "$$f ( x , y ) = \\text{ln} ( x^{2} + y^{2} ) , \\left .\\begin{matrix}{aa}\\mathbf{u} = \\langle \\frac{3}{5} , \\frac{4}{5} \\rangle , & P ( 1 , 2 )\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{22}{25}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the directional derivative of the function at point $$P$$ in the direction of $$\\mathbf{u}$$ or $$\\mathbf{v}$$ as appropriate.",
+        "Question": "$$f ( x , y ) = x^{2} y , \\left .\\begin{matrix}{aa}P ( -5 , 5 ) , & \\mathbf{v} = 3 \\mathbf{i} - 4 \\mathbf{j}\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the directional derivative of the function at point $$P$$ in the direction of $$\\mathbf{u}$$ or $$\\mathbf{v}$$ as appropriate.",
+        "Question": "$$f ( x , y , z ) = y^{2} + x z , \\left .\\begin{matrix}{aa}P ( 1 , 2 , 2 ) , & \\mathbf{v} = \\langle 2 , -1 , 2 \\rangle\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the directional derivative of the function in the direction of the unit vector $$\\mathbf{u} = \\text{cos} \\theta \\mathbf{i} + \\text{sin} \\theta \\mathbf{j} .$$",
+        "Question": "$$f ( x , y ) = x^{2} + 2 y^{2} , \\theta = \\frac{\\pi}{6}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the directional derivative of the function in the direction of the unit vector $$\\mathbf{u} = \\text{cos} \\theta \\mathbf{i} + \\text{sin} \\theta \\mathbf{j} .$$",
+        "Question": "$$f ( x , y ) = \\frac{y}{x + 2 y} , \\theta = - \\frac{\\pi}{4}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\text{unicode[:-]} \\sqrt{2} ( x + y )}{2 ( x + 2 y )^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the directional derivative of the function in the direction of the unit vector $$\\mathbf{u} = \\text{cos} \\theta \\mathbf{i} + \\text{sin} \\theta \\mathbf{j} .$$",
+        "Question": "$$f ( x , y ) = \\text{cos} ( 3 x + y ) , \\theta = \\frac{\\pi}{4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the directional derivative of the function in the direction of the unit vector $$\\mathbf{u} = \\text{cos} \\theta \\mathbf{i} + \\text{sin} \\theta \\mathbf{j} .$$",
+        "Question": "$$w ( x , y ) = y e^{x} , \\theta = \\frac{\\pi}{3}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{e^{x} ( y + \\sqrt{3} )}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the directional derivative of the function in the direction of the unit vector $$\\mathbf{u} = \\text{cos} \\theta \\mathbf{i} + \\text{sin} \\theta \\mathbf{j} .$$",
+        "Question": "$$\\left .\\begin{matrix}{aa}f ( x , y ) = x \\text{arctan} ( y ) , & \\theta = \\frac{\\pi}{2}\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the directional derivative of the function in the direction of the unit vector $$\\mathbf{u} = \\text{cos} \\theta \\mathbf{i} + \\text{sin} \\theta \\mathbf{j} .$$",
+        "Question": "$$\\left .\\begin{matrix}{aa}f ( x , y ) = \\text{ln} ( x + 2 y ) , & \\theta = \\frac{\\pi}{3}\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1 + 2 \\sqrt{3}}{2 ( x + 2 y )}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the gradient.",
+        "Question": "Find the gradient of $$f ( x , y ) = \\frac{14 - x^{2} - y^{2}}{3} .$$ Then, find the gradient at point $$P ( 1 , 2 ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the gradient.",
+        "Question": "Find the gradient of $$f ( x , y , z ) = x y + y z + x z$$ at point $$P ( 1 , 2 , 3 ) .$$",
+        "Image Links": [],
+        "Answer": "$$\\langle 5 , 4 , 3 \\rangle$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the gradient.",
+        "Question": "Find the gradient of $$f ( x , y , z )$$ at $$P$$ and the directional derivative in the direction of $$\\mathbf{u} \\text{:}$$ $$f ( x , y , z ) = \\text{ln} ( x^{2} + 2 y^{2} + 3 z^{2} ) , \\left .\\begin{matrix}{aa}P ( 2 , 1 , 4 ) , & \\mathbf{u} = \\frac{-3}{13} \\mathbf{i} - \\frac{4}{13} \\mathbf{j} - \\frac{12}{13} \\mathbf{k}\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the gradient.",
+        "Question": "$$f ( x , y , z ) = 4 x^{5} y^{2} z^{3} , \\left .\\begin{matrix}{aa}P ( 2 , -1 , 1 ) , & \\mathbf{u} = \\frac{1}{3} \\mathbf{i} + \\frac{2}{3} \\mathbf{j} - \\frac{2}{3} \\mathbf{k}\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$-320$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the directional derivative of the function at point $$P$$ in the direction of $$Q .$$",
+        "Question": "$$f ( x , y ) = x^{2} + 3 y^{2} , \\left .\\begin{matrix}{aa}P ( 1 , 1 ) , & Q ( 4 , 5 )\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the directional derivative of the function at point $$P$$ in the direction of $$Q .$$",
+        "Question": "$$f ( x , y , z ) = \\frac{y}{x + z} , \\left .\\begin{matrix}{aa}P ( 2 , 1 , -1 ) , & Q ( -1 , 2 , 0 )\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3}{\\sqrt{11}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the derivative of the function at $$P$$ in the direction of $$\\mathbf{u} .$$",
+        "Question": "$$f ( x , y ) = -7 x + 2 y , \\left .\\begin{matrix}{aa}P ( 2 , -4 ) , & \\mathbf{u} = 4 \\mathbf{i} - 3 \\mathbf{j}\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the derivative of the function at $$P$$ in the direction of $$\\mathbf{u} .$$",
+        "Question": "$$f ( x , y ) = \\text{ln} ( 5 x + 4 y ) , \\left .\\begin{matrix}{aa}P ( 3 , 9 ) , & \\mathbf{u} = 6 \\mathbf{i} + 8 \\mathbf{j}\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{31}{255}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the derivative of the function at $$P$$ in the direction of $$\\mathbf{u} .$$",
+        "Question": "[T] Use technology to sketch the level curve of $$f ( x , y ) = 4 x - 2 y + 3$$ that passes through $$P ( 1 , 2 )$$ and draw the gradient vector at $$P .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the derivative of the function at $$P$$ in the direction of $$\\mathbf{u} .$$",
+        "Question": "[T] Use technology to sketch the level curve of $$f ( x , y ) = x^{2} + 4 y^{2}$$ that passes through $$P ( -2 , 0 )$$ and draw the gradient vector at $$P .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5b53eff58ebdc054f7a1b2295afe65360da5ba0e"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the gradient vector at the indicated point.",
+        "Question": "$$f ( x , y ) = x y^{2} - y x^{2} , P ( -1 , 1 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the gradient vector at the indicated point.",
+        "Question": "$$f ( x , y ) = x e^{y} - \\text{ln} ( x ) , P ( -3 , 0 )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{4}{3} \\mathbf{i} - 3 \\mathbf{j}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the gradient vector at the indicated point.",
+        "Question": "$$f ( x , y , z ) = x y - \\text{ln} ( z ) , P ( 2 , -2 , 2 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the gradient vector at the indicated point.",
+        "Question": "$$f ( x , y , z ) = x \\sqrt{y^{2} + z^{2}} , P ( -2 , -1 , -1 )$$",
+        "Image Links": [],
+        "Answer": "$$\\sqrt{2} \\mathbf{i} + \\sqrt{2} \\mathbf{j} + \\sqrt{2} \\mathbf{k}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the derivative of the function.",
+        "Question": "$$f ( x , y ) = x^{2} + x y + y^{2}$$ at point $$( -5 , -4 )$$ in the direction the function increases most rapidly",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the derivative of the function.",
+        "Question": "$$f ( x , y ) = e^{x y}$$ at point $$( 6 , 7 )$$ in the direction the function increases most rapidly",
+        "Image Links": [],
+        "Answer": "$$1.6 ( 10^{19} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the derivative of the function.",
+        "Question": "$$f ( x , y ) = \\text{arctan} ( \\frac{y}{x} )$$ at point $$( -9 , 9 )$$ in the direction the function increases most rapidly",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the derivative of the function.",
+        "Question": "$$f ( x , y , z ) = \\text{ln} ( x y + y z + z x )$$ at point $$( -9 , -18 , -27 )$$ in the direction the function increases most rapidly",
+        "Image Links": [],
+        "Answer": "$$\\frac{5 \\sqrt{2}}{99}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the derivative of the function.",
+        "Question": "$$f ( x , y , z ) = \\frac{x}{y} + \\frac{y}{z} + \\frac{z}{x}$$ at point $$( 5 , -5 , 5 )$$ in the direction the function increases most rapidly",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the maximum rate of change of $$f$$ at the given point and the direction in which it occurs.",
+        "Question": "$$f ( x , y ) = x e^{\\text{unicode[:-]} y} ,$$ $$( 1 , 0 )$$",
+        "Image Links": [],
+        "Answer": "$$\\sqrt{2} , \\langle 1 , -1 \\rangle$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the maximum rate of change of $$f$$ at the given point and the direction in which it occurs.",
+        "Question": "$$f ( x , y ) = \\sqrt{x^{2} + 2 y} ,$$ $$( 4 , 10 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the maximum rate of change of $$f$$ at the given point and the direction in which it occurs.",
+        "Question": "$$f ( x , y ) = \\text{cos} ( 3 x + 2 y ) , ( \\frac{\\pi}{6} , - \\frac{\\pi}{8} )$$",
+        "Image Links": [],
+        "Answer": "$$\\sqrt{\\frac{13}{2}} , \\langle -3 , -2 \\rangle$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find equations of a) the tangent plane and b) the normal line to the given surface at the given point.",
+        "Question": "The level surface $$f ( x , y , z ) = 12$$ for $$f ( x , y , z ) = 4 x^{2} - 2 y^{2} + z^{2}$$ at point $$( 2 , 2 , 2 ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find equations of a) the tangent plane and b) the normal line to the given surface at the given point.",
+        "Question": "$$f ( x , y , z ) = x y + y z + x z = 3$$ at point $$( 1 , 1 , 1 )$$",
+        "Image Links": [],
+        "Answer": "a. $$x + y + z = 3 ,$$ b. $$x - 1 = y - 1 = z - 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find equations of a) the tangent plane and b) the normal line to the given surface at the given point.",
+        "Question": "$$f ( x , y , z ) = x y z = 6$$ at point $$( 1 , 2 , 3 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find equations of a) the tangent plane and b) the normal line to the given surface at the given point.",
+        "Question": "$$f ( x , y , z ) = x e^{y} \\text{cos} z - z = 1$$ at point $$( 1 , 0 , 0 )$$",
+        "Image Links": [],
+        "Answer": "a. $$x + y - z = 1 ,$$ b. $$x - 1 = y = \\text{unicode[:-]} z$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the problem.",
+        "Question": "The temperature $$T$$ in a metal sphere is inversely proportional to the distance from the center of the sphere (the origin: $$( 0 , 0 , 0 ) ) .$$ The temperature at point $$( 1 , 2 , 2 )$$ is $$120 \\text{\u00b0} \\text{C} .$$ Find the rate of change of the temperature at point $$( 1 , 2 , 2 )$$ in the direction toward point $$( 2 , 1 , 3 ) .$$ Show that, at any point in the sphere, the direction of greatest increase in temperature is given by a vector that points toward the origin.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the problem.",
+        "Question": "The electrical potential (voltage) in a certain region of space is given by the function $$V ( x , y , z ) = 5 x^{2} - 3 x y + x y z .$$ Find the rate of change of the voltage at point $$( 3 , 4 , 5 )$$ in the direction of the vector $$\\langle 1 , 1 , -1 \\rangle .$$ In which direction does the voltage change most rapidly at point $$( 3 , 4 , 5 ) ?$$ What is the maximum rate of change of the voltage at point $$( 3 , 4 , 5 ) ?$$",
+        "Image Links": [],
+        "Answer": "a. $$\\frac{32}{\\sqrt{3}} ,$$ b. $$\\langle 38 , 6 , 12 \\rangle ,$$ c. $$2 \\sqrt{406}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the problem.",
+        "Question": "If the electric potential at a point $$( x , y )$$ in the xy -plane is $$V ( x , y ) = e^{-2 x} \\text{cos} ( 2 y ) ,$$ then the electric intensity vector at $$( x , y )$$ is $$\\mathbf{E} = \\text{unicode[:-]} \\nabla V ( x , y ) .$$ Find the electric intensity vector at $$( \\frac{\\pi}{4} , 0 ) .$$ Show that, at each point in the plane, the electric potential decreases most rapidly in the direction of the vector $$\\mathbf{E} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the problem.",
+        "Question": "In two dimensions, the motion of an ideal fluid is governed by a velocity potential $$\\phi .$$ The velocity components of the fluid $$u$$ in the x- direction and $$v$$ in the y -direction, are given by $$\\langle u , v \\rangle = \\nabla \\phi .$$ Find the velocity components associated with the velocity potential $$\\phi ( x , y ) = \\text{sin} \\pi x \\text{sin} 2 \\pi y .$$",
+        "Image Links": [],
+        "Answer": "$$\\langle u , v \\rangle = \\langle \\pi \\text{cos} ( \\pi x ) \\text{sin} ( 2 \\pi y ) , 2 \\pi \\text{sin} ( \\pi x ) \\text{cos} ( 2 \\pi y ) \\rangle$$",
+        "Answer Image Links": []
+    }
+]

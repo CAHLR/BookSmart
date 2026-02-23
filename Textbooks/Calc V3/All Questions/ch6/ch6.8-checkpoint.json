@@ -1,0 +1,38 @@
+[
+    {
+        "Topic": "Checkpoint 6.65",
+        "Problem Statement": "",
+        "Question": "Verify the divergence theorem for vector field $$\\mathbf{\\text{F}} ( x , y , z ) = \\langle x + y + z , y , 2 x - y \\rangle$$ and surface S given by the cylinder $$x^{2} + y^{2} = 1 , 0 \\le z \\le 3$$ plus the circular top and bottom of the cylinder. Assume that S is oriented outward.",
+        "Image Links": [],
+        "Answer": "Both integrals equal $$6 \\pi .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.66",
+        "Problem Statement": "",
+        "Question": "Use the divergence theorem to calculate flux integral $$\\iint_{S} \\mathbf{\\text{F}} \\cdotp d \\mathbf{\\text{S}} ,$$ where S is the boundary of the box given by $$0 \\le x \\le 2 , 1 \\le y \\le 4 , 0 \\le z \\le 1 ,$$ and $$\\mathbf{\\text{F}} = \\langle x^{2} + y z , y - z , 2 x + 2 y + 2 z \\rangle$$ (see the following figure).",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/fa8b2142bc81bdd12599548fa09480f093c2293b"
+        ],
+        "Answer": "30",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.67",
+        "Problem Statement": "",
+        "Question": "Let $$\\mathbf{\\text{v}} = \\langle \\frac{x}{z} , \\frac{y}{z} , 0 \\rangle$$ be the velocity field of a fluid. Let C be the solid cube given by $$1 \\le x \\le 4 , 2 \\le y \\le 5 , 1 \\le z \\le 4 ,$$ and let S be the boundary of this cube (see the following figure). Find the flow rate of the fluid across S .",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/45a6455289cadd1546ff0f55a0f72a5278bb1427"
+        ],
+        "Answer": "$$9 \\text{ln} ( 16 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.68",
+        "Problem Statement": "",
+        "Question": "Work the previous example for surface S that is a sphere of radius 4 centered at the origin, oriented outward.",
+        "Image Links": [],
+        "Answer": "$$\\approx 6.777 \\times 10^{9}$$",
+        "Answer Image Links": []
+    }
+]

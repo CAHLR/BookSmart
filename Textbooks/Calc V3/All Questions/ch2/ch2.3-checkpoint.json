@@ -1,0 +1,78 @@
+[
+    {
+        "Topic": "Checkpoint 2.21",
+        "Problem Statement": "",
+        "Question": "Find $$\\mathbf{\\text{u}} \\cdotp \\mathbf{\\text{v}} ,$$ where $$\\mathbf{\\text{u}} = \\langle 2 , 9 , -1 \\rangle$$ and $$\\mathbf{\\text{v}} = \\langle -3 , 1 , -4 \\rangle .$$",
+        "Image Links": [],
+        "Answer": "7",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 2.22",
+        "Problem Statement": "",
+        "Question": "Find the following products for $$\\mathbf{\\text{p}} = \\langle 7 , 0 , 2 \\rangle ,$$ $$\\mathbf{\\text{q}} = \\langle -2 , 2 , -2 \\rangle ,$$ and $$\\mathbf{\\text{r}} = \\langle 0 , 2 , -3 \\rangle .$$ $$( \\mathbf{\\text{r}} \\cdotp \\mathbf{\\text{p}} ) \\mathbf{\\text{q}}$$ $$\\Vert \\mathbf{\\text{p}} \\Vert^{2}$$",
+        "Image Links": [],
+        "Answer": "a. $$( \\mathbf{\\text{r}} \\cdotp \\mathbf{\\text{p}} ) \\mathbf{\\text{q}} = \\langle 12 , -12 , 12 \\rangle ;$$ b. $$\\Vert \\mathbf{\\text{p}} \\Vert^{2} = 53$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 2.23",
+        "Problem Statement": "",
+        "Question": "Find the measure of the angle, in radians, formed by vectors $$\\mathbf{\\text{a}} = \\langle 1 , 2 , 0 \\rangle$$ and $$\\mathbf{\\text{b}} = \\langle 2 , 4 , 1 \\rangle .$$ Round to the nearest hundredth.",
+        "Image Links": [],
+        "Answer": "$$\\theta \\approx 0.22$$ rad",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 2.24",
+        "Problem Statement": "",
+        "Question": "For which value of x is $$\\mathbf{\\text{p}} = \\langle 2 , 8 , -1 \\rangle$$ orthogonal to $$\\mathbf{\\text{q}} = \\langle x , -1 , 2 \\rangle ?$$",
+        "Image Links": [],
+        "Answer": "$$x = 5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 2.25",
+        "Problem Statement": "",
+        "Question": "Let $$\\mathbf{\\text{v}} = \\langle 3 , -5 , 1 \\rangle .$$ Find the measure of the angles formed by each pair of vectors. $$\\textbf{v}$$ and i $$\\textbf{v}$$ and j $$\\textbf{v}$$ and k",
+        "Image Links": [],
+        "Answer": "a. $$\\alpha \\approx 1.04$$ rad; b. $$\\beta \\approx 2.58$$ rad; c. $$\\gamma \\approx 1.40$$ rad",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 2.26",
+        "Problem Statement": "",
+        "Question": "On June 1, AAA Party Supply Store decided to increase the price they charge for party favors to $2 per package. They also changed suppliers for their invitations, and are now able to purchase invitations for only 10\u00a2 per package. All their other costs and prices remain the same. If AAA sells 1408 invitations, 147 party favors, 2112 decorations, and 1894 food service items in the month of June, use vectors and dot products to calculate their total sales and profit for June.",
+        "Image Links": [],
+        "Answer": "Sales = $15,685.50; profit = $14,073.15",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 2.27",
+        "Problem Statement": "",
+        "Question": "Express $$\\mathbf{\\text{v}} = 5 \\mathbf{\\text{i}} - \\mathbf{\\text{j}}$$ as a sum of orthogonal vectors such that one of the vectors has the same direction as $$\\mathbf{\\text{u}} = 4 \\mathbf{\\text{i}} + 2 \\mathbf{\\text{j}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\text{v}} = \\mathbf{\\text{p}} + \\mathbf{\\text{q}} ,$$ where $$\\mathbf{\\text{p}} = \\frac{18}{5} \\mathbf{\\text{i}} + \\frac{9}{5} \\mathbf{\\text{j}}$$ and $$\\mathbf{\\text{q}} = \\frac{7}{5} \\mathbf{\\text{i}} - \\frac{14}{5} \\mathbf{\\text{j}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 2.28",
+        "Problem Statement": "",
+        "Question": "Repeat the previous example, but assume the ocean current is moving southeast instead of northeast, as shown in the following figure.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e4378fee157d4e003bf43223b07874f89b2fa396"
+        ],
+        "Answer": "21 knots",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 2.29",
+        "Problem Statement": "",
+        "Question": "A constant force of 30 lb is applied at an angle of 60\u00b0 to pull a handcart 10 ft across the ground ( Figure 2.52 ). What is the work done by this force? Figure 2.52",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/795c4523c755a55e6e34fde0464fcdd4f82f9aa6"
+        ],
+        "Answer": "150 ft-lb",
+        "Answer Image Links": []
+    }
+]

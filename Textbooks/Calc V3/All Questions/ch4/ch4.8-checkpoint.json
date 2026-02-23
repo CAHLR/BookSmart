@@ -1,0 +1,34 @@
+[
+    {
+        "Topic": "Checkpoint 4.37",
+        "Problem Statement": "",
+        "Question": "Use the method of Lagrange multipliers to find the maximum value of $$f ( x , y ) = 9 x^{2} + 36 x y - 4 y^{2} - 18 x - 8 y$$ subject to the constraint $$3 x + 4 y = 32 .$$",
+        "Image Links": [],
+        "Answer": "$$f$$ has a maximum value of $$976$$ at the point $$( 8 , 2 ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.38",
+        "Problem Statement": "",
+        "Question": "A company has determined that its production level is given by the Cobb-Douglas function $$f ( x , y ) = 2.5 x^{0.45} y^{0.55}$$ where x represents the total number of labor hours in $$1$$ year and y represents the total capital input for the company. Suppose $$1$$ unit of labor costs $$\\text{$} 40$$ and $$1$$ unit of capital costs $$\\text{$} 50 .$$ Use the method of Lagrange multipliers to find the maximum value of $$f ( x , y ) = 2.5 x^{0.45} y^{0.55}$$ subject to a budgetary constraint of $$\\text{$} 500,000$$ per year.",
+        "Image Links": [],
+        "Answer": "A maximum production level of $$13890$$ occurs with $$5625$$ labor hours and $$\\text{$} 5500$$ of total capital input.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.39",
+        "Problem Statement": "",
+        "Question": "Use the method of Lagrange multipliers to find the minimum value of the function $$f ( x , y , z ) = x + y + z$$ subject to the constraint $$x^{2} + y^{2} + z^{2} = 1 .$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{aaa}f ( \\frac{\\sqrt{3}}{3} , \\frac{\\sqrt{3}}{3} , \\frac{\\sqrt{3}}{3} ) & = & \\frac{\\sqrt{3}}{3} + \\frac{\\sqrt{3}}{3} + \\frac{\\sqrt{3}}{3} = \\sqrt{3} \\\\ f ( - \\frac{\\sqrt{3}}{3} , - \\frac{\\sqrt{3}}{3} , - \\frac{\\sqrt{3}}{3} ) & = & - \\frac{\\sqrt{3}}{3} - \\frac{\\sqrt{3}}{3} - \\frac{\\sqrt{3}}{3} = \\text{unicode[:-]} \\sqrt{3} .\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.40",
+        "Problem Statement": "",
+        "Question": "Use the method of Lagrange multipliers to find the minimum value of the function $$f ( x , y , z ) = x^{2} + y^{2} + z^{2}$$ subject to the constraints $$2 x + y + 2 z = 9$$ and $$5 x + 5 y + 7 z = 29 .$$",
+        "Image Links": [],
+        "Answer": "$$f ( 2 , 1 , 2 ) = 9$$ is a minimum.",
+        "Answer Image Links": []
+    }
+]

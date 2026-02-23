@@ -1,0 +1,506 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, each set of parametric equations represents a line. Without eliminating the parameter, find the slope of each line.",
+        "Question": "$$\\left .\\begin{matrix}{aa}x = 3 + t , & y = 1 - t\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, each set of parametric equations represents a line. Without eliminating the parameter, find the slope of each line.",
+        "Question": "$$\\left .\\begin{matrix}{aa}x = 8 + 2 t , & y = 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, each set of parametric equations represents a line. Without eliminating the parameter, find the slope of each line.",
+        "Question": "$$\\left .\\begin{matrix}{aa}x = 4 - 3 t , & y = -2 + 6 t\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, each set of parametric equations represents a line. Without eliminating the parameter, find the slope of each line.",
+        "Question": "$$\\left .\\begin{matrix}{aa}x = -5 t + 7 , & y = 3 t - 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{-3}{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine the slope of the tangent line, then find the equation of the tangent line at the given value of the parameter.",
+        "Question": "$$\\left .\\begin{matrix}{aa}x = 3 \\text{sin} t , & y = 3 \\text{cos} t , t = \\frac{\\pi}{4}\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine the slope of the tangent line, then find the equation of the tangent line at the given value of the parameter.",
+        "Question": "$$\\left .\\begin{matrix}{aa}x = \\text{cos} t , & y = 8 \\text{sin} t ,\\end{matrix}\\right . t = \\frac{\\pi}{2}$$",
+        "Image Links": [],
+        "Answer": "$$\\text{Slope} = 0 ;$$ $$y = 8 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine the slope of the tangent line, then find the equation of the tangent line at the given value of the parameter.",
+        "Question": "$$\\left .\\begin{matrix}{aa}x = 2 t , & y = t^{3} , t = -1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine the slope of the tangent line, then find the equation of the tangent line at the given value of the parameter.",
+        "Question": "$$\\left .\\begin{matrix}{aa}x = t + \\frac{1}{t} , & y = t - \\frac{1}{t} , t = 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "Slope is undefined; $$x = 2 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine the slope of the tangent line, then find the equation of the tangent line at the given value of the parameter.",
+        "Question": "$$\\left .\\begin{matrix}{aa}x = \\sqrt{t} , & y = 2 t , t = 4\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find all points on the curve that have the given slope.",
+        "Question": "$$\\left .\\begin{matrix}{aa}x = 4 \\text{cos} t , & y = 4 \\text{sin} t ,\\end{matrix}\\right .$$ slope = 0.5",
+        "Image Links": [],
+        "Answer": "$$\\tan{\\ } t \\  = \\  - 2 \\\\  ( \\frac{4}{\\sqrt{5}} , \\frac{-8}{\\sqrt{5}} ) , \\  ( \\frac{4}{\\sqrt{5}} , \\frac{-8}{\\sqrt{5}} )$$ , $$( \\frac{- 4}{\\sqrt{5}} , \\frac{8}{\\sqrt{5}} )$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find all points on the curve that have the given slope.",
+        "Question": "$$\\left .\\begin{matrix}{aa}x = 2 \\text{cos} t , & y = 8 \\text{sin} t , \\text{slope} = -1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find all points on the curve that have the given slope.",
+        "Question": "$$\\left .\\begin{matrix}{aa}x = t + \\frac{1}{t} , & y = t - \\frac{1}{t} , \\text{slope} = 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "No points possible; undefined expression.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find all points on the curve that have the given slope.",
+        "Question": "$$\\left .\\begin{matrix}{aa}x = 2 + \\sqrt{t} , & y = 2 - 4 t , \\text{slope} = 0\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation of the tangent line in Cartesian coordinates for the given parameter t .",
+        "Question": "$$\\left .\\begin{matrix}{aa}x = e^{\\sqrt{t}} , & y = 1 - \\text{ln} t^{2} , t = 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$y = \\text{unicode[:-]} ( \\frac{4}{e} ) x + 5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation of the tangent line in Cartesian coordinates for the given parameter t .",
+        "Question": "$$\\left .\\begin{matrix}{aa}x = t \\text{ln} t , & y = \\text{sin}^{2} t ,\\end{matrix}\\right . t = \\frac{\\pi}{4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation of the tangent line in Cartesian coordinates for the given parameter t .",
+        "Question": "$$\\left .\\begin{matrix}{aa}x = e^{t} , & y = ( t - 1 )^{2} , \\text{at} ( 1 , 1 )\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$y = -2 x + 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation of the tangent line in Cartesian coordinates for the given parameter t .",
+        "Question": "For $$x = \\text{sin} ( 2 t ) , y = 2 \\text{sin} t$$ where $$0 \\le t < 2 \\pi .$$ Find all values of t at which a horizontal tangent line exists.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation of the tangent line in Cartesian coordinates for the given parameter t .",
+        "Question": "For $$x = \\text{sin} ( 2 t ) , y = 2 \\text{sin} t$$ where $$0 \\le t < 2 \\pi .$$ Find all values of t at which a vertical tangent line exists.",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\pi}{4} , \\frac{5 \\pi}{4} , \\frac{3 \\pi}{4} , \\frac{7 \\pi}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation of the tangent line in Cartesian coordinates for the given parameter t .",
+        "Question": "Find all points on the curve $$x = 4 \\text{sin} ( t ) , y = 4 \\text{cos} ( t )$$ that have the slope of $$0.5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation of the tangent line in Cartesian coordinates for the given parameter t .",
+        "Question": "Find $$\\frac{d y}{d x}$$ for $$x = \\text{sin} ( t ) , y = \\text{cos} ( t ) .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{d y}{d x} = \\text{unicode[:-]} \\text{tan} ( t )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation of the tangent line in Cartesian coordinates for the given parameter t .",
+        "Question": "Find the equation of the tangent line to $$x = \\text{sin} ( t ) , y = \\text{cos} ( t )$$ at $$t = \\frac{\\pi}{4} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation of the tangent line in Cartesian coordinates for the given parameter t .",
+        "Question": "For the curve $$x = 4 t , y = 3 t - 2 ,$$ find the slope and concavity of the curve at $$t = 3 .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{d y}{d x} = \\frac{3}{4}$$ and $$\\frac{d^{2} y}{d x^{2}} = 0 ,$$ so the curve is neither concave up nor concave down at $$t = 3 .$$ Therefore the graph is linear and has a constant slope but no concavity.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation of the tangent line in Cartesian coordinates for the given parameter t .",
+        "Question": "For the parametric curve whose equation is $$x = 4 \\text{cos} \\theta , y = 4 \\text{sin} \\theta ,$$ find the slope and concavity of the curve at $$\\theta = \\frac{\\pi}{4} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation of the tangent line in Cartesian coordinates for the given parameter t .",
+        "Question": "Find the slope and concavity for the curve whose equation is $$x = 2 + \\text{sec} \\theta , y = 1 + 2 \\text{tan} \\theta$$ at $$\\theta = \\frac{\\pi}{6} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{d y}{d x} = 4 , \\frac{d^{2} y}{d x^{2}} = -6 \\sqrt{3} ;$$ the curve is concave down at $$\\theta = \\frac{\\pi}{6} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation of the tangent line in Cartesian coordinates for the given parameter t .",
+        "Question": "Find all points on the curve $$x = t + 4 , y = t^{3} - 3 t$$ at which there are vertical and horizontal tangents.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation of the tangent line in Cartesian coordinates for the given parameter t .",
+        "Question": "Find all points on the curve $$x = \\text{sec} \\theta , y = \\text{tan} \\theta$$ at which horizontal and vertical tangents exist.",
+        "Image Links": [],
+        "Answer": "No horizontal tangents. Vertical tangents at $$( 1 , 0 ) , ( -1 , 0 ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$d^{2} y \\text{/} d x^{2} .$$",
+        "Question": "$$\\left .\\begin{matrix}{aa}x = t^{4} - 1 , & y = t - t^{2}\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$d^{2} y \\text{/} d x^{2} .$$",
+        "Question": "$$\\left .\\begin{matrix}{aa}x = \\text{sin} ( \\pi t ) , & y = \\text{cos} ( \\pi t )\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$\\text{unicode[:-]} \\text{sec}^{3} ( \\pi t )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$d^{2} y \\text{/} d x^{2} .$$",
+        "Question": "$$\\left .\\begin{matrix}{aa}x = e^{\\text{unicode[:-]} t} , & y = t\\end{matrix}\\right . e^{2 t}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find points on the curve at which tangent line is horizontal or vertical.",
+        "Question": "$$\\left .\\begin{matrix}{aa}x = t ( t^{2} - 3 ) , & y = 3 ( t^{2} - 3 )\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "Horizontal $$( 0 , -9 ) ;$$ vertical $$( \\text{unicode[:+-]} 2 , -6 ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find points on the curve at which tangent line is horizontal or vertical.",
+        "Question": "$$\\left .\\begin{matrix}{aa}x = \\frac{3 t}{1 + t^{3}} , & y = \\frac{3 t^{2}}{1 + t^{3}}\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$d y \\text{/} d x$$ at the value of the parameter.",
+        "Question": "$$\\left .\\begin{matrix}{aa}x = \\text{cos} t , & y = \\text{sin} t , t = \\frac{3 \\pi}{4}\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "1",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$d y \\text{/} d x$$ at the value of the parameter.",
+        "Question": "$$\\left .\\begin{matrix}{aa}x = \\sqrt{t} , & y = 2 t + 4 , t = 9\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$d y \\text{/} d x$$ at the value of the parameter.",
+        "Question": "$$\\left .\\begin{matrix}{aa}x = 4 \\text{cos} ( 2 \\pi s ) , & y = 3 \\text{sin}\\end{matrix}\\right . ( 2 \\pi s ) , s = - \\frac{1}{4}$$",
+        "Image Links": [],
+        "Answer": "0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$d^{2} y \\text{/} d x^{2}$$ at the given point without eliminating the parameter.",
+        "Question": "$$\\left .\\begin{matrix}{aaa}x = \\frac{1}{2} t^{2} , & y = \\frac{1}{3} t^{3} , & t = 2\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$d^{2} y \\text{/} d x^{2}$$ at the given point without eliminating the parameter.",
+        "Question": "$$x = \\sqrt{t} , y = 2 t + 4 , t = 1$$",
+        "Image Links": [],
+        "Answer": "4",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$d^{2} y \\text{/} d x^{2}$$ at the given point without eliminating the parameter.",
+        "Question": "Find t intervals on which the curve $$x = 3 t^{2} , y = t^{3} - t$$ is concave up as well as concave down.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$d^{2} y \\text{/} d x^{2}$$ at the given point without eliminating the parameter.",
+        "Question": "Determine the concavity of the curve $$x = 2 t + \\text{ln} t , y = 2 t - \\text{ln} t .$$",
+        "Image Links": [],
+        "Answer": "Concave up on $$t > 0 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$d^{2} y \\text{/} d x^{2}$$ at the given point without eliminating the parameter.",
+        "Question": "Sketch and find the area under one arch of the cycloid $$x = r ( \\theta - \\text{sin} \\theta ) , y = r ( 1 - \\text{cos} \\theta ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$d^{2} y \\text{/} d x^{2}$$ at the given point without eliminating the parameter.",
+        "Question": "Find the area bounded by the curve $$x = \\text{cos} t , y = e^{t} , 0 \\le t \\le \\frac{\\pi}{2}$$ and the lines $$y = 1$$ and $$x = 0 .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{e^{\\frac{\\mathrm{\\pi}}{2}} - 1}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$d^{2} y \\text{/} d x^{2}$$ at the given point without eliminating the parameter.",
+        "Question": "Find the area enclosed by the ellipse $$x = a \\text{cos} \\theta , y = b \\text{sin} \\theta , 0 \\le \\theta < 2 \\pi .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$d^{2} y \\text{/} d x^{2}$$ at the given point without eliminating the parameter.",
+        "Question": "Find the area of the region bounded by $$x = 2 \\text{sin}^{2} \\theta , y = 2 \\text{sin}^{2} \\theta \\text{tan} \\theta ,$$ for $$0 \\le \\theta \\le \\frac{\\pi}{2} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3 \\pi}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the area of the regions bounded by the parametric curves and the indicated values of the parameter.",
+        "Question": "$$x = 2 \\text{cot} \\theta , y = 2 \\text{sin}^{2} \\theta , 0 \\le \\theta \\le \\pi$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the area of the regions bounded by the parametric curves and the indicated values of the parameter.",
+        "Question": "[T] $$x = 2 a \\text{cos} t - a \\text{cos} ( 2 t ) , y = 2 a \\text{sin} t - a \\text{sin} ( 2 t ) , 0 \\le t < 2 \\pi$$",
+        "Image Links": [],
+        "Answer": "$$6 \\pi a^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the area of the regions bounded by the parametric curves and the indicated values of the parameter.",
+        "Question": "[T] $$x = a \\text{sin} ( 2 t ) , y = b \\text{sin} ( t ) , 0 \\le t < 2 \\pi$$ (the \u201chourglass\u201d)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the area of the regions bounded by the parametric curves and the indicated values of the parameter.",
+        "Question": "[T] $$x = 2 a \\text{cos} t - a \\text{sin} ( 2 t ) , y = b \\text{sin} t , 0 \\le t < 2 \\pi$$ (the \u201cteardrop\u201d)",
+        "Image Links": [],
+        "Answer": "$$2 \\pi a b$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the arc length of the curve on the indicated interval of the parameter.",
+        "Question": "$$x = 4 t + 3 , y = 3 t - 2 , 0 \\le t \\le 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the arc length of the curve on the indicated interval of the parameter.",
+        "Question": "$$\\left .\\begin{matrix}{aaa}x = \\frac{1}{3} t^{3} , & y = \\frac{1}{2} t^{2} , & 0 \\le t \\le 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{3} ( 2 \\sqrt{2} - 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the arc length of the curve on the indicated interval of the parameter.",
+        "Question": "$$\\left .\\begin{matrix}{aaa}x = \\text{cos} ( 2 t ) , & y = \\text{sin} ( 2 t ) , & 0 \\le t \\le \\frac{\\pi}{2}\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the arc length of the curve on the indicated interval of the parameter.",
+        "Question": "$$\\left .\\begin{matrix}{aaa}x = 1 + t^{2} , & y = ( 1 + t )^{3} , & 0 \\le t \\le 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$7.075$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the arc length of the curve on the indicated interval of the parameter.",
+        "Question": "$$\\left .\\begin{matrix}{aaa}x = e^{t} \\text{cos} t , & y = e^{t} \\text{sin} t , & 0 \\le t \\le \\frac{\\pi}{2}\\end{matrix}\\right .$$ (Use a CAS for this and express the answer as a decimal rounded to three places.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the arc length of the curve on the indicated interval of the parameter.",
+        "Question": "$$x = a \\text{cos}^{3} \\theta , y = a \\text{sin}^{3} \\theta$$ on the interval $$[ 0 , 2 \\pi )$$ (the hypocycloid)",
+        "Image Links": [],
+        "Answer": "$$6 a$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the arc length of the curve on the indicated interval of the parameter.",
+        "Question": "Find the length of one arch of the cycloid $$x = 4 ( t - \\text{sin} t ) , y = 4 ( 1 - \\text{cos} t ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the arc length of the curve on the indicated interval of the parameter.",
+        "Question": "Find the distance traveled by a particle with position $$( x , y )$$ as t varies in the given time interval: $$\\left .\\begin{matrix}{aaa}x = \\text{sin}^{2} t , & y = \\text{cos}^{2} t , & 0 \\le t \\le 3 \\pi\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "$$6 \\sqrt{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the arc length of the curve on the indicated interval of the parameter.",
+        "Question": "Find the length of one arch of the cycloid $$x = \\theta - \\text{sin} \\theta , y = 1 - \\text{cos} \\theta .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the arc length of the curve on the indicated interval of the parameter.",
+        "Question": "Show that the total length of the ellipse $$x = 4 \\text{sin} \\theta , y = 3 \\text{cos} \\theta$$ is $$L = 16 \\int_{0}^{\\pi \\text{/} 2} \\sqrt{1 - e^{2} \\text{sin}^{2} \\theta} d \\theta ,$$ where $$e = \\frac{c}{a}$$ and $$c = \\sqrt{a^{2} - b^{2}} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the arc length of the curve on the indicated interval of the parameter.",
+        "Question": "Find the length of the curve $$x = e^{t} - t , y = 4 e^{t \\text{/} 2} , -8 \\le t \\le 3 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the area of the surface obtained by rotating the given curve about the x -axis.",
+        "Question": "$$\\left .\\begin{matrix}{aaa}x = t^{3} , & y = t^{2} , & 0 \\le t \\le 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2 \\pi ( 247 \\sqrt{13} + 64 )}{1215}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the area of the surface obtained by rotating the given curve about the x -axis.",
+        "Question": "$$\\left .\\begin{matrix}{aaa}x = a \\text{cos}^{3} \\theta , & y = a \\text{sin}^{3} \\theta , & 0 \\le \\theta \\le\\end{matrix}\\right . \\frac{\\pi}{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the area of the surface obtained by rotating the given curve about the x -axis.",
+        "Question": "[T] Use a CAS to find the area of the surface generated by rotating $$x = t + t^{3} , y = t - \\frac{1}{t^{2}} , 1 \\le t \\le 2$$ about the x -axis. (Answer to three decimal places.)",
+        "Image Links": [],
+        "Answer": "59.101",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the area of the surface obtained by rotating the given curve about the x -axis.",
+        "Question": "Find the surface area obtained by rotating $$x = 3 t^{2} , y = 2 t^{3} , 0 \\le t \\le 5$$ about the y -axis.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the area of the surface obtained by rotating the given curve about the x -axis.",
+        "Question": "Find the area of the surface generated by revolving $$x = t^{2} , y = 2 t , 0 \\le t \\le 4$$ about the x -axis.",
+        "Image Links": [],
+        "Answer": "$$\\frac{8 \\pi}{3} ( 17 \\sqrt{17} - 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the area of the surface obtained by rotating the given curve about the x -axis.",
+        "Question": "Find the surface area generated by revolving $$x = t^{2} , y = 2 t^{2} , 0 \\le t \\le 1$$ about the y -axis.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

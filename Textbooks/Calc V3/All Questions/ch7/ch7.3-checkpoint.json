@@ -1,0 +1,58 @@
+[
+    {
+        "Topic": "Checkpoint 7.15",
+        "Problem Statement": "",
+        "Question": "A 200-g mass stretches a spring 5 cm. Find the equation of motion of the mass if it is released from rest from a position 10 cm below the equilibrium position. What is the frequency of this motion?",
+        "Image Links": [],
+        "Answer": "$$x ( t ) = 0.1 \\text{cos} ( 14 t )$$ (in meters); frequency is $$\\frac{14}{2 \\pi}$$ Hz.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 7.16",
+        "Problem Statement": "",
+        "Question": "Express the function $$x ( t ) = \\text{cos} ( 4 t ) + 4 \\text{sin} ( 4 t )$$ in the form $$A \\text{sin} ( \\upomega t + \\upphi ) .$$ What is the frequency of motion? The amplitude?",
+        "Image Links": [],
+        "Answer": "$$x ( t ) = \\sqrt{17} \\text{sin} ( 4 t + 0.245 ) ,$$ $$\\text{frequency} = \\frac{4}{2 \\pi} \\approx 0.637 ,$$ $$A = \\sqrt{17}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 7.17",
+        "Problem Statement": "",
+        "Question": "A 2-kg mass is attached to a spring with spring constant 24 N/m. The system is then immersed in a medium imparting a damping force equal to 16 times the instantaneous velocity of the mass. Find the equation of motion if it is released from rest at a point 40 cm below equilibrium.",
+        "Image Links": [],
+        "Answer": "$$x ( t ) = 0.6 e^{-2 t} - 0.2 e^{-6 t}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 7.18",
+        "Problem Statement": "",
+        "Question": "A 1-lb weight stretches a spring 6 in., and the system is attached to a dashpot that imparts a damping force equal to half the instantaneous velocity of the mass. Find the equation of motion if the mass is released from rest at a point 6 in. below equilibrium.",
+        "Image Links": [],
+        "Answer": "$$x ( t ) = \\frac{1}{2} e^{-8 t} + 4 t e^{-8 t}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 7.19",
+        "Problem Statement": "",
+        "Question": "A 1-kg mass stretches a spring 49 cm. The system is immersed in a medium that imparts a damping force equal to four times the instantaneous velocity of the mass. Find the equation of motion if the mass is released from rest at a point 24 cm above equilibrium.",
+        "Image Links": [],
+        "Answer": "$$x ( t ) = -0.24 e^{-2 t} \\text{cos} ( 4 t ) - 0.12 e^{-2 t} \\text{sin} ( 4 t )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 7.20",
+        "Problem Statement": "",
+        "Question": "A mass of 2 kg is attached to a spring with constant 32 N/m and comes to rest in the equilibrium position. Beginning at time $$t = 0 ,$$ an external force equal to $$f ( t ) = 68 e^{-2 t} \\text{cos} ( 4 t )$$ is applied to the system. Find the equation of motion if there is no damping. What is the transient solution? What is the steady-state solution?",
+        "Image Links": [],
+        "Answer": "$$x ( t ) = - \\frac{1}{2} \\text{cos} ( 4 t ) + \\frac{9}{4} \\text{sin} ( 4 t ) + \\frac{1}{2} e^{-2 t} \\text{cos} ( 4 t ) - 2 e^{-2 t} \\text{sin} ( 4 t )$$ $$\\text{Transient solution:} \\frac{1}{2} e^{-2 t} \\text{cos} ( 4 t ) - 2 e^{-2 t} \\text{sin} ( 4 t )$$ $$\\text{Steady-state solution:} - \\frac{1}{2} \\text{cos} ( 4 t ) + \\frac{9}{4} \\text{sin} ( 4 t )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 7.21",
+        "Problem Statement": "",
+        "Question": "Find the charge on the capacitor in an RLC series circuit where $$L = 1 \\text{/} 5$$ H, $$R = 2 \\text{/} 5 \\text{omega} ,$$ $$C = 1 \\text{/} 2$$ F, and $$E ( t ) = 50$$ V. Assume the initial charge on the capacitor is 0 C and the initial current is 4 A.",
+        "Image Links": [],
+        "Answer": "$$q ( t ) = -25 e^{\\text{unicode[:-]} t} \\text{cos} ( 3 t ) - 7 e^{\\text{unicode[:-]} t} \\text{sin} ( 3 t ) + 25$$",
+        "Answer Image Links": []
+    }
+]

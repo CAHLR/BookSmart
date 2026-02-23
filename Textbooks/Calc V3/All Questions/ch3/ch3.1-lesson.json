@@ -1,0 +1,342 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Give the component functions $$x = f ( t )$$ and $$y = g ( t )$$ for the vector-valued function $$\\mathbf{\\text{r}} ( t ) = 3 \\text{sec} t \\mathbf{\\text{i}} + 2 \\text{tan} t \\mathbf{\\text{j}} .$$",
+        "Image Links": [],
+        "Answer": "$$f ( t ) = 3 \\text{sec} t , g ( t ) = 2 \\text{tan} t$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Given $$\\mathbf{\\text{r}} ( t ) = 3 \\text{sec} t \\mathbf{\\text{i}} + 2 \\text{tan} t \\mathbf{\\text{j}} ,$$ find the following values (if possible). $$\\mathbf{\\text{r}} ( \\frac{\\pi}{4} )$$ $$\\mathbf{\\text{r}} ( \\pi )$$ $$\\mathbf{\\text{r}} ( \\frac{\\pi}{2} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Sketch the curve of the vector-valued function $$\\mathbf{\\text{r}} ( t ) = 3 \\text{sec} t \\mathbf{\\text{i}} + 2 \\text{tan} t \\mathbf{\\text{j}}$$ and give the orientation of the curve. Sketch asymptotes as a guide to the graph.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8e45e37682e84340ecfa0e1c8f41208bc739629f"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Evaluate $$\\underset{t \\rightarrow 0}{\\text{lim}} \\langle e^{t} , \\frac{\\text{sin} t}{t} , e^{- t} \\rangle .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Given the vector-valued function $$\\mathbf{\\text{r}} ( t ) = \\langle \\text{cos} t , \\text{sin} t \\rangle ,$$ find the following values: $$\\underset{t \\rightarrow \\frac{\\pi}{3}}{\\text{lim}} \\text{r} \\left(\\right. t \\left.\\right)$$ $$\\mathbf{\\text{r}} ( \\frac{\\pi}{3} )$$ Is $$\\mathbf{\\text{r}} ( t )$$ continuous at $$t = \\frac{\\pi}{3} ?$$ Graph $$\\mathbf{\\text{r}} ( t ) .$$",
+        "Image Links": [],
+        "Answer": "a. $$\\langle \\frac{1}{2} , \\frac{\\sqrt{3}}{2} \\rangle ,$$ b. $$\\langle \\frac{1}{2} , \\frac{\\sqrt{3}}{2} \\rangle ,$$ c. Yes, the limit as t approaches $$\\pi \\text{/} 3$$ is equal to $$\\mathbf{\\text{r}} ( \\pi \\text{/} 3 ) ,$$ d.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9194300feec68d65669bca343aa696cce53f921f"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Given the vector-valued function $$\\mathbf{\\text{r}} ( t ) = \\langle t , t^{2} + 1 \\rangle ,$$ find the following values: $$\\underset{t \\rightarrow -3}{\\text{lim}} \\text{r} \\left(\\right. t \\left.\\right)$$ $$\\mathbf{\\text{r}} ( -3 )$$ Is $$\\mathbf{\\text{r}} ( t )$$ continuous at $$x = -3 ?$$ $$\\mathbf{\\text{r}} ( t + 2 ) - \\mathbf{\\text{r}} ( t )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Let $$\\mathbf{\\text{r}} ( t ) = e^{t} \\mathbf{\\text{i}} + \\text{sin} t \\mathbf{\\text{j}} + \\text{ln} t \\mathbf{\\text{k}} .$$ Find the following values: $$\\mathbf{\\text{r}} ( \\frac{\\pi}{4} )$$ $$\\underset{t \\rightarrow \\pi / 4}{\\text{lim}} \\text{r} \\left(\\right. t \\left.\\right)$$ Is $$\\mathbf{\\text{r}} ( t )$$ continuous at $$t = \\frac{\\pi}{4} ?$$",
+        "Image Links": [],
+        "Answer": "a. $$\\langle e^{\\pi \\text{/} 4} , \\frac{\\sqrt{2}}{2} , \\text{ln} ( \\frac{\\pi}{4} ) \\rangle ;$$ b. $$\\langle e^{\\pi \\text{/} 4} , \\frac{\\sqrt{2}}{2} , \\text{ln} ( \\frac{\\pi}{4} ) \\rangle ;$$ c. Yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the limit of the following vector-valued functions at the indicated value of t .",
+        "Question": "$$\\underset{t \\rightarrow 4}{\\text{lim}} \\langle \\sqrt{t - 3} , \\frac{\\sqrt{t} - 2}{t - 4} , \\text{tan} \\left(\\right. \\frac{\\pi}{t} \\left.\\right) \\rangle$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the limit of the following vector-valued functions at the indicated value of t .",
+        "Question": "$$\\underset{t \\rightarrow \\pi / 2}{\\text{lim}} \\text{r} \\left(\\right. t \\left.\\right)$$ for $$\\mathbf{\\text{r}} ( t ) = e^{t} \\mathbf{\\text{i}} + \\text{sin} t \\mathbf{\\text{j}} + \\text{ln} t \\mathbf{\\text{k}}$$",
+        "Image Links": [],
+        "Answer": "$$\\langle e^{\\pi \\text{/} 2} , 1 , \\text{ln} ( \\frac{\\pi}{2} ) \\rangle$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the limit of the following vector-valued functions at the indicated value of t .",
+        "Question": "$$\\underset{t \\rightarrow \\infty}{\\text{lim}} \\langle e^{-2 t} , \\frac{2 t + 3}{3 t - 1} , \\text{arctan} \\left(\\right. 2 t \\left.\\right) \\rangle$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the limit of the following vector-valued functions at the indicated value of t .",
+        "Question": "$$\\underset{t \\rightarrow e^{2}}{\\text{lim}} \\langle t \\text{ln} \\left(\\right. t \\left.\\right) , \\frac{\\text{ln} t}{t^{2}} , \\sqrt{\\text{ln} \\left(\\right. t^{2} \\left.\\right)} \\rangle$$",
+        "Image Links": [],
+        "Answer": "$$2 e^{2} \\mathbf{\\text{i}} + \\frac{2}{e^{4}} \\mathbf{\\text{j}} + 2 \\mathbf{\\text{k}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the limit of the following vector-valued functions at the indicated value of t .",
+        "Question": "$$\\underset{t \\rightarrow \\pi / 6}{\\text{lim}} \\langle \\left(\\text{cos}\\right)^{2} t , \\left(\\text{sin}\\right)^{2} t , 1 \\rangle$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the limit of the following vector-valued functions at the indicated value of t .",
+        "Question": "$$\\underset{t \\rightarrow \\infty}{\\text{lim}} \\text{r} \\left(\\right. t \\left.\\right)$$ for $$\\mathbf{\\text{r}} ( t ) = 2 e^{\\text{unicode[:-]} t} \\mathbf{\\text{i}} + e^{\\text{unicode[:-]} t} \\mathbf{\\text{j}} + \\text{ln} ( t - 1 ) \\mathbf{\\text{k}}$$",
+        "Image Links": [],
+        "Answer": "The limit does not exist because the limit of $$\\text{ln} ( t - 1 )$$ as t approaches infinity does not exist.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the limit of the following vector-valued functions at the indicated value of t .",
+        "Question": "Describe the curve defined by the vector-valued function $$\\mathbf{\\text{r}} ( t ) = ( 1 + t ) \\mathbf{\\text{i}} + ( 2 + 5 t ) \\mathbf{\\text{j}} + ( -1 + 6 t ) \\mathbf{\\text{k}} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the domain of the vector-valued functions.",
+        "Question": "Domain: $$\\mathbf{\\text{r}} ( t ) = \\langle t^{2} , \\text{tan} t , \\text{ln} t \\rangle$$",
+        "Image Links": [],
+        "Answer": "$$t > 0 , t \\ne ( 2 k + 1 ) \\frac{\\pi}{2} ,$$ where k is an integer",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the domain of the vector-valued functions.",
+        "Question": "Domain: $$\\mathbf{\\text{r}} ( t ) = \\langle t^{2} , \\sqrt{t - 3} , \\frac{3}{2 t + 1} \\rangle$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the domain of the vector-valued functions.",
+        "Question": "Domain: $$\\mathbf{\\text{r}} ( t ) = \\langle \\text{csc} ( t ) , \\frac{1}{\\sqrt{t - 3}} , \\text{ln} ( t - 2 ) \\rangle$$",
+        "Image Links": [],
+        "Answer": "$$t > 3 , t \\ne n \\pi ,$$ where n is an integer",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Let $$\\mathbf{\\text{r}} ( t ) = \\langle \\text{cos} t , t , \\text{sin} t \\rangle$$ and use it to answer the following questions.",
+        "Question": "For what values of t is $$\\mathbf{\\text{r}} ( t )$$ continuous?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Let $$\\mathbf{\\text{r}} ( t ) = \\langle \\text{cos} t , t , \\text{sin} t \\rangle$$ and use it to answer the following questions.",
+        "Question": "Sketch the graph of $$\\mathbf{\\text{r}} ( t ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/31fa5c97f9dcda6bce70a75f0389e4399d267402"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Let $$\\mathbf{\\text{r}} ( t ) = \\langle \\text{cos} t , t , \\text{sin} t \\rangle$$ and use it to answer the following questions.",
+        "Question": "Find the domain of $$\\mathbf{\\text{r}} ( t ) = 2 e^{\\text{unicode[:-]} t} \\mathbf{\\text{i}} + e^{\\text{unicode[:-]} t} \\mathbf{\\text{j}} + \\text{ln} ( t - 1 ) \\mathbf{\\text{k}} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Let $$\\mathbf{\\text{r}} ( t ) = \\langle \\text{cos} t , t , \\text{sin} t \\rangle$$ and use it to answer the following questions.",
+        "Question": "For what values of t is $$\\mathbf{\\text{r}} ( t ) = 2 e^{\\text{unicode[:-]} t} \\mathbf{\\text{i}} + e^{\\text{unicode[:-]} t} \\mathbf{\\text{j}} + \\text{ln} ( t - 1 ) \\mathbf{\\text{k}}$$ continuous?",
+        "Image Links": [],
+        "Answer": "All t such that $$t \\in ( 1 , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Eliminate the parameter t , write the equation in Cartesian coordinates, then sketch the graphs of the vector-valued functions.",
+        "Question": "$$\\mathbf{\\text{r}} ( t ) = 2 t \\mathbf{\\text{i}} + t^{2} \\mathbf{\\text{j}}$$ ( Hint: Let $$x = 2 t$$ and $$y = t^{2} .$$ Solve the first equation for x in terms of t and substitute this result into the second equation.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Eliminate the parameter t , write the equation in Cartesian coordinates, then sketch the graphs of the vector-valued functions.",
+        "Question": "$$\\mathbf{\\text{r}} ( t ) = t^{3} \\mathbf{\\text{i}} + 2 t \\mathbf{\\text{j}}$$",
+        "Image Links": [],
+        "Answer": "$$y = 2 \\sqrt[3]{x} ,$$ a variation of the cube-root function",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ac8799f2a96d6607f88da608a077f00cba956fbb"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Eliminate the parameter t , write the equation in Cartesian coordinates, then sketch the graphs of the vector-valued functions.",
+        "Question": "$$\\mathbf{\\text{r}} ( t ) = 2 ( \\text{sinh} t ) \\mathbf{\\text{i}} + 2 ( \\text{cosh} t ) \\mathbf{\\text{j}} , t > 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Eliminate the parameter t , write the equation in Cartesian coordinates, then sketch the graphs of the vector-valued functions.",
+        "Question": "$$\\mathbf{\\text{r}} ( t ) = 3 ( \\text{cos} t ) \\mathbf{\\text{i}} + 3 ( \\text{sin} t ) \\mathbf{\\text{j}}$$",
+        "Image Links": [],
+        "Answer": "$$x^{2} + y^{2} = 9 ,$$ a circle centered at $$( 0 , 0 )$$ with radius 3, and a counterclockwise orientation",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/bf0507ba78bfa8d22f1209d3ea532cce9184add9"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Eliminate the parameter t , write the equation in Cartesian coordinates, then sketch the graphs of the vector-valued functions.",
+        "Question": "$$\\mathbf{\\text{r}} ( t ) = \\langle 3 \\text{sin} t , 3 \\text{cos} t \\rangle$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a graphing utility to sketch each of the following vector-valued functions:",
+        "Question": "[T] $$\\textbf{r} \\left(\\right. t \\left.\\right) = \\left(2 \\left(\\text{cos}\\right)^{2} t\\right) \\textbf{i} + \\left(\\right. 2 - \\sqrt{t} \\left.\\right) \\textbf{j}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/dcd13f0e180dd64d99b08de9ae38b2ac2e9d0fbe"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a graphing utility to sketch each of the following vector-valued functions:",
+        "Question": "[T] $$\\mathbf{\\text{r}} ( t ) = \\langle e^{\\text{cos} ( 3 t )} , e^{\\text{unicode[:-]} \\text{sin} ( t )} \\rangle$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a graphing utility to sketch each of the following vector-valued functions:",
+        "Question": "[T] $$\\mathbf{\\text{r}} ( t ) = \\langle 2 - \\text{sin} ( 2 t ) , 3 + 2 \\text{cos} t \\rangle$$",
+        "Image Links": [],
+        "Answer": "Find a vector-valued function that traces out the given curve in the indicated direction.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/36494eb04dfac97e5fb80c421860fa44f70847d5"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a graphing utility to sketch each of the following vector-valued functions:",
+        "Question": "$$4 x^{2} + 9 y^{2} = 36 ;$$ clockwise and counterclockwise",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a graphing utility to sketch each of the following vector-valued functions:",
+        "Question": "$$\\mathbf{\\text{r}} ( t ) = \\langle t , t^{2} \\rangle ;$$ from left to right",
+        "Image Links": [],
+        "Answer": "For left to right, $$y = x^{2} ,$$ where t increases",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use a graphing utility to sketch each of the following vector-valued functions:",
+        "Question": "The line through P and Q where P is $$( 1 , 4 , -2 )$$ and Q is $$( 3 , 9 , 6 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Consider the curve described by the vector-valued function $$\\mathbf{\\text{r}} ( t ) = ( 50 e^{\\text{unicode[:-]} t} \\text{cos} t ) \\mathbf{\\text{i}} + ( 50 e^{\\text{unicode[:-]} t} \\text{sin} t ) \\mathbf{\\text{j}} + ( 5 - 5 e^{\\text{unicode[:-]} t} ) \\mathbf{\\text{k}} .$$",
+        "Question": "What is the initial point of the path corresponding to $$\\mathbf{\\text{r}} ( 0 ) ?$$",
+        "Image Links": [],
+        "Answer": "$$( 50 , 0 , 0 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Consider the curve described by the vector-valued function $$\\mathbf{\\text{r}} ( t ) = ( 50 e^{\\text{unicode[:-]} t} \\text{cos} t ) \\mathbf{\\text{i}} + ( 50 e^{\\text{unicode[:-]} t} \\text{sin} t ) \\mathbf{\\text{j}} + ( 5 - 5 e^{\\text{unicode[:-]} t} ) \\mathbf{\\text{k}} .$$",
+        "Question": "What is $$\\underset{t \\rightarrow \\infty}{\\text{lim}} \\text{r} \\left(\\right. t \\left.\\right) ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Consider the curve described by the vector-valued function $$\\mathbf{\\text{r}} ( t ) = ( 50 e^{\\text{unicode[:-]} t} \\text{cos} t ) \\mathbf{\\text{i}} + ( 50 e^{\\text{unicode[:-]} t} \\text{sin} t ) \\mathbf{\\text{j}} + ( 5 - 5 e^{\\text{unicode[:-]} t} ) \\mathbf{\\text{k}} .$$",
+        "Question": "[T] Use technology to sketch the curve.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6e41364b81a16a2bcf3ba92ce68a07d7f1b8df08"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Consider the curve described by the vector-valued function $$\\mathbf{\\text{r}} ( t ) = ( 50 e^{\\text{unicode[:-]} t} \\text{cos} t ) \\mathbf{\\text{i}} + ( 50 e^{\\text{unicode[:-]} t} \\text{sin} t ) \\mathbf{\\text{j}} + ( 5 - 5 e^{\\text{unicode[:-]} t} ) \\mathbf{\\text{k}} .$$",
+        "Question": "Eliminate the parameter t to show that $$z = 5 - \\frac{r}{10}$$ where $$r^{2} = x^{2} + y^{2} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Consider the curve described by the vector-valued function $$\\mathbf{\\text{r}} ( t ) = ( 50 e^{\\text{unicode[:-]} t} \\text{cos} t ) \\mathbf{\\text{i}} + ( 50 e^{\\text{unicode[:-]} t} \\text{sin} t ) \\mathbf{\\text{j}} + ( 5 - 5 e^{\\text{unicode[:-]} t} ) \\mathbf{\\text{k}} .$$",
+        "Question": "[T] Let $$r ( t ) = \\text{cos} t \\mathbf{\\text{i}} + \\text{sin} t \\mathbf{\\text{j}} + 0.3 \\text{sin} ( 2 t ) \\mathbf{\\text{k}} .$$ Use technology to graph the curve (called the roller-coaster curve ) over the interval $$[ 0 , 2 \\pi ) .$$ Choose at least two views to determine the peaks and valleys.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5f15ac7bb7df6d9f22c3e79ec06796b11e8625af"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Consider the curve described by the vector-valued function $$\\mathbf{\\text{r}} ( t ) = ( 50 e^{\\text{unicode[:-]} t} \\text{cos} t ) \\mathbf{\\text{i}} + ( 50 e^{\\text{unicode[:-]} t} \\text{sin} t ) \\mathbf{\\text{j}} + ( 5 - 5 e^{\\text{unicode[:-]} t} ) \\mathbf{\\text{k}} .$$",
+        "Question": "[T] Use the result of the preceding problem to construct an equation of a roller coaster with a steep drop from the peak and steep incline from the \u201cvalley.\u201d Then, use technology to graph the equation.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Consider the curve described by the vector-valued function $$\\mathbf{\\text{r}} ( t ) = ( 50 e^{\\text{unicode[:-]} t} \\text{cos} t ) \\mathbf{\\text{i}} + ( 50 e^{\\text{unicode[:-]} t} \\text{sin} t ) \\mathbf{\\text{j}} + ( 5 - 5 e^{\\text{unicode[:-]} t} ) \\mathbf{\\text{k}} .$$",
+        "Question": "Use the results of the preceding two problems to construct an equation of a path of a roller coaster with more than two turning points (peaks and valleys).",
+        "Image Links": [],
+        "Answer": "One possibility is $$r ( t ) = \\text{cos} t \\mathbf{\\text{i}} + \\text{sin} t \\mathbf{\\text{j}} + \\text{sin} ( 4 t ) \\mathbf{\\text{k}} .$$ By increasing the coefficient of t in the third component, the number of turning points will increase.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/28e112ec60b9e89b677329e3693c4084c62aad52"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Consider the curve described by the vector-valued function $$\\mathbf{\\text{r}} ( t ) = ( 50 e^{\\text{unicode[:-]} t} \\text{cos} t ) \\mathbf{\\text{i}} + ( 50 e^{\\text{unicode[:-]} t} \\text{sin} t ) \\mathbf{\\text{j}} + ( 5 - 5 e^{\\text{unicode[:-]} t} ) \\mathbf{\\text{k}} .$$",
+        "Question": "Graph the curve $$\\mathbf{\\text{r}} ( t ) = ( 4 + \\text{cos} ( 18 t ) ) \\text{cos} ( t ) \\mathbf{\\text{i}} + ( 4 + \\text{cos} ( 18 t ) \\text{sin} ( t ) ) \\mathbf{\\text{j}} + 0.3 \\text{sin} ( 18 t ) \\mathbf{\\text{k}}$$ using two viewing angles of your choice to see the overall shape of the curve. Does the curve resemble a \u201cslinky\u201d? What changes to the equation should be made to increase the number of coils of the slinky?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

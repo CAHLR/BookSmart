@@ -1,0 +1,58 @@
+[
+    {
+        "Topic": "Checkpoint 4.12",
+        "Problem Statement": "",
+        "Question": "Use the definition of the partial derivative as a limit to calculate $$\\partial f \\text{/} \\partial x$$ and $$\\partial f \\text{/} \\partial y$$ for the function $$f ( x , y ) = 4 x^{2} + 2 x y - y^{2} + 3 x - 2 y + 5 .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\partial f}{\\partial x} = 8 x + 2 y + 3 , \\frac{\\partial f}{\\partial y} = 2 x - 2 y - 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.13",
+        "Problem Statement": "",
+        "Question": "Calculate $$\\partial f \\text{/} \\partial x$$ and $$\\partial f \\text{/} \\partial y$$ for the function $$f ( x , y ) = \\text{tan} ( x^{3} - 3 x^{2} y^{2} + 2 y^{4} )$$ by holding the opposite variable constant, then differentiating.",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{a}\\frac{\\partial f}{\\partial x} = ( 3 x^{2} - 6 x y^{2} ) \\text{sec}^{2} ( x^{3} - 3 x^{2} y^{2} + 2 y^{4} ) \\\\ \\frac{\\partial f}{\\partial y} = ( -6 x^{2} y + 8 y^{3} ) \\text{sec}^{2} ( x^{3} - 3 x^{2} y^{2} + 2 y^{4} )\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.14",
+        "Problem Statement": "",
+        "Question": "Use a contour map to estimate $$\\partial f \\text{/} \\partial y$$ at point $$( 0 , \\sqrt{2} )$$ for the function $$f ( x , y ) = x^{2} - y^{2} .$$ Compare this with the exact answer.",
+        "Image Links": [],
+        "Answer": "Using the curves corresponding to $$c = -2 \\text{and} c = -3 ,$$ we obtain $${\\frac{\\partial f}{\\partial y} |}_{( x , y ) = ( 0 , \\sqrt{2} )} \\approx \\frac{f ( 0 , \\sqrt{3} ) - f ( 0 , \\sqrt{2} )}{\\sqrt{3} - \\sqrt{2}} = \\frac{-3 - ( -2 )}{\\sqrt{3} - \\sqrt{2}} \\cdotp \\frac{\\sqrt{3} + \\sqrt{2}}{\\sqrt{3} + \\sqrt{2}} = \\text{unicode[:-]} \\sqrt{3} - \\sqrt{2} \\approx -3.146 .$$ The exact answer is $${\\frac{\\partial f}{\\partial y} |}_{( x , y ) = ( 0 , \\sqrt{2} )} = ( {-2 y |}_{( x , y ) = ( 0 , \\sqrt{2} )} = -2 \\sqrt{2} \\approx -2.828 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.15",
+        "Problem Statement": "",
+        "Question": "Use the limit definition of partial derivatives to calculate $$\\partial f \\text{/} \\partial x$$ for the function $$f ( x , y , z ) = 2 x^{2} - 4 x^{2} y + 2 y^{2} + 5 x z^{2} - 6 x + 3 z - 8 .$$ Then find $$\\partial f \\text{/} \\partial y$$ and $$\\partial f \\text{/} \\partial z$$ by setting the other two variables constant and differentiating accordingly.",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\partial f}{\\partial x} = 4 x - 8 x y + 5 z^{2} - 6 , \\frac{\\partial f}{\\partial y} = -4 x^{2} + 4 y , \\frac{\\partial f}{\\partial z} = 10 x z + 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.16",
+        "Problem Statement": "",
+        "Question": "Calculate $$\\partial f \\text{/} \\partial x ,$$ $$\\partial f \\text{/} \\partial y ,$$ and $$\\partial f \\text{/} \\partial z$$ for the function $$f ( x , y , z ) = \\text{sec} ( x^{2} y ) - \\text{tan} ( x^{3} y z^{2} ) .$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{a}\\frac{\\partial f}{\\partial x} = 2 x y \\text{sec} ( x^{2} y ) \\text{tan} ( x^{2} y ) - 3 x^{2} y z^{2} \\text{sec}^{2} ( x^{3} y z^{2} ) \\\\ \\frac{\\partial f}{\\partial y} = x^{2} \\text{sec} ( x^{2} y ) \\text{tan} ( x^{2} y ) - x^{3} z^{2} \\text{sec}^{2} ( x^{3} y z^{2} ) \\\\ \\frac{\\partial f}{\\partial z} = -2 x^{3} y z \\text{sec}^{2} ( x^{3} y z^{2} )\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.17",
+        "Problem Statement": "",
+        "Question": "Calculate all four second partial derivatives for the function $$f ( x , y ) = \\text{sin} ( 3 x - 2 y ) + \\text{cos} ( x + 4 y ) .$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{a}\\frac{\\partial^{2} f}{\\partial x^{2}} = -9 \\text{sin} ( 3 x - 2 y ) - \\text{cos} ( x + 4 y ) \\\\ \\frac{\\partial^{2} f}{\\partial x \\partial y} = 6 \\text{sin} ( 3 x - 2 y ) - 4 \\text{cos} ( x + 4 y ) \\\\ \\frac{\\partial^{2} f}{\\partial y \\partial x} = 6 \\text{sin} ( 3 x - 2 y ) - 4 \\text{cos} ( x + 4 y ) \\\\ \\frac{\\partial^{2} f}{\\partial y^{2}} = -4 \\text{sin} ( 3 x - 2 y ) - 16 \\text{cos} ( x + 4 y )\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.18",
+        "Problem Statement": "",
+        "Question": "Verify that $$u ( x , y , t ) = 2 \\text{sin} ( \\frac{x}{3} ) \\text{sin} ( \\frac{y}{4} ) e^{-25 t \\text{/} 16}$$ is a solution to the heat equation $$u_{t} = 9 ( u_{x x} + u_{y y} ) .$$ (4.21)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

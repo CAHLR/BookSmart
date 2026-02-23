@@ -1,0 +1,330 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The domain of vector field $$\\mathbf{\\text{F}} = \\mathbf{\\text{F}} ( x , y )$$ is a set of points $$( x , y )$$ in a plane, and the range of F is a set of what in the plane?",
+        "Image Links": [],
+        "Answer": "Vectors",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the statement is true or false .",
+        "Question": "Vector field $$\\mathbf{\\text{F}} = \\langle 3 x^{2} , 1 \\rangle$$ is a gradient field for both $$\\upphi_{1} ( x , y ) = x^{3} + y$$ and $$\\upphi_{2} ( x , y ) = y + x^{3} + 100 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the statement is true or false .",
+        "Question": "Vector field $$\\mathbf{\\text{F}} = \\frac{\\langle y , x \\rangle}{\\sqrt{x^{2} + y^{2}}}$$ is constant in direction and magnitude on a unit circle.",
+        "Image Links": [],
+        "Answer": "False",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the statement is true or false .",
+        "Question": "Vector field $$\\mathbf{\\text{F}} = \\frac{\\langle y , x \\rangle}{\\sqrt{x^{2} + y^{2}}}$$ is neither a radial field nor a rotation.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, describe each vector field by drawing some of its vectors.",
+        "Question": "[T] $$\\mathbf{\\text{F}} ( x , y ) = x \\mathbf{\\text{i}} + y \\mathbf{\\text{j}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a50e1ddde3653836bed3632b2be8a89816996ab6"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, describe each vector field by drawing some of its vectors.",
+        "Question": "[T] $$\\mathbf{\\text{F}} ( x , y ) = \\text{unicode[:-]} y \\mathbf{\\text{i}} + x \\mathbf{\\text{j}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, describe each vector field by drawing some of its vectors.",
+        "Question": "[T] $$\\mathbf{\\text{F}} ( x , y ) = x \\mathbf{\\text{i}} - y \\mathbf{\\text{j}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f9ac8b38b5fa714cedd2cb2954c296676986edb6"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, describe each vector field by drawing some of its vectors.",
+        "Question": "[T] $$\\mathbf{\\text{F}} ( x , y ) = \\mathbf{\\text{i}} + \\mathbf{\\text{j}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, describe each vector field by drawing some of its vectors.",
+        "Question": "[T] $$\\mathbf{\\text{F}} ( x , y ) = 2 x \\mathbf{\\text{i}} + 3 y \\mathbf{\\text{j}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d34038f2d192db6b22fe16e54d9c5af5906f6577"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, describe each vector field by drawing some of its vectors.",
+        "Question": "[T] $$\\mathbf{\\text{F}} ( x , y ) = 3 \\mathbf{\\text{i}} + x \\mathbf{\\text{j}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, describe each vector field by drawing some of its vectors.",
+        "Question": "[T] $$\\mathbf{\\text{F}} ( x , y ) = y \\mathbf{\\text{i}} + \\text{sin} x \\mathbf{\\text{j}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ee368dba199a7074c8d64a3e26d2f642f3f5bb9d"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, describe each vector field by drawing some of its vectors.",
+        "Question": "[T] $$\\mathbf{\\text{F}} ( x , y , z ) = x \\mathbf{\\text{i}} + y \\mathbf{\\text{j}} + z \\mathbf{\\text{k}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, describe each vector field by drawing some of its vectors.",
+        "Question": "[T] $$\\mathbf{\\text{F}} ( x , y , z ) = 2 x \\mathbf{\\text{i}} - 2 y \\mathbf{\\text{j}} - 2 z \\mathbf{\\text{k}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2a7e11e79809b9c933e92a5c532d753f86c9711a"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, describe each vector field by drawing some of its vectors.",
+        "Question": "[T] $$\\mathbf{\\text{F}} ( x , y , z ) = \\frac{y}{z} \\mathbf{\\text{i}} - \\frac{x}{z} \\mathbf{\\text{j}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the gradient vector field of each function $$f .$$",
+        "Question": "$$f ( x , y ) = x \\text{sin} y + \\text{cos} y$$",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\text{F}} ( x , y ) = \\text{sin} ( y ) \\mathbf{\\text{i}} + ( x \\text{cos} y - \\text{sin} y ) \\mathbf{\\text{j}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the gradient vector field of each function $$f .$$",
+        "Question": "$$f ( x , y , z ) = z e^{\\text{unicode[:-]} x y}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the gradient vector field of each function $$f .$$",
+        "Question": "$$f ( x , y , z ) = x^{2} y + x y + y^{2} z$$",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\text{F}} ( x , y , z ) = ( 2 x y + y ) \\mathbf{\\text{i}} + ( x^{2} + x + 2 y z ) \\mathbf{\\text{j}} + y^{2} \\mathbf{\\text{k}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the gradient vector field of each function $$f .$$",
+        "Question": "$$f ( x , y ) = x^{2} \\text{sin} ( 5 y )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the gradient vector field of each function $$f .$$",
+        "Question": "$$f ( x , y ) = \\text{ln} ( 1 + x^{2} + 2 y^{2} )$$",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\text{F}} ( x , y ) = ( \\frac{2 x}{1 + x^{2} + 2 y^{2}} ) \\mathbf{\\text{i}} + ( \\frac{4 y}{1 + x^{2} + 2 y^{2}} ) \\mathbf{\\text{j}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the gradient vector field of each function $$f .$$",
+        "Question": "$$f ( x , y , z ) = x \\text{cos} ( \\frac{y}{z} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the gradient vector field of each function $$f .$$",
+        "Question": "What is vector field $$\\mathbf{\\text{F}} ( x , y )$$ with a value at $$( x , y )$$ that is of unit length and points toward $$( 1 , 0 ) ?$$",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\text{F}} ( x , y ) = \\frac{( 1 - x ) \\mathbf{\\text{i}} - y \\mathbf{\\text{j}}}{\\sqrt{( 1 - x )^{2} + y^{2}}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write formulas for the vector fields with the given properties.",
+        "Question": "All vectors are parallel to the x -axis and all vectors on a vertical line have the same magnitude.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write formulas for the vector fields with the given properties.",
+        "Question": "All vectors point toward the origin and have constant length.",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\text{F}} ( x , y ) = \\frac{- x \\mathbf{\\text{i}} - y \\mathbf{\\text{j}}}{\\sqrt{x^{2} + y^{2}}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write formulas for the vector fields with the given properties.",
+        "Question": "All vectors are of unit length and are perpendicular to the position vector at that point.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write formulas for the vector fields with the given properties.",
+        "Question": "Give a formula $$\\mathbf{\\text{F}} ( x , y ) = M ( x , y ) \\mathbf{\\text{i}} + N ( x , y ) \\mathbf{\\text{j}}$$ for the vector field in a plane that has the properties that $$\\mathbf{\\text{F}} = 0$$ at $$( 0 , 0 )$$ and that at any other point $$( a , b ) ,$$ F is tangent to circle $$x^{2} + y^{2} = a^{2} + b^{2}$$ and points in the clockwise direction with magnitude $$|| \\mathbf{F} || = \\sqrt{a^{2} + b^{2}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\text{F}} ( x , y ) = y \\mathbf{\\text{i}} - x \\mathbf{\\text{j}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write formulas for the vector fields with the given properties.",
+        "Question": "Is vector field $$\\mathbf{\\text{F}} ( x , y ) = ( P ( x , y ) , Q ( x , y ) ) = ( \\text{sin} x + y ) \\mathbf{\\text{i}} + ( \\text{cos} y + x ) \\mathbf{\\text{j}}$$ a gradient field?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write formulas for the vector fields with the given properties.",
+        "Question": "Find a formula for vector field $$\\mathbf{\\text{F}} ( x , y ) = M ( x , y ) \\mathbf{\\text{i}} + N ( x , y ) \\mathbf{\\text{j}}$$ given the fact that for all points $$( x , y ) ,$$ F points toward the origin and $$|| \\mathbf{F} || = \\frac{10}{x^{2} + y^{2}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\text{F}} ( x , y ) = \\frac{-10}{( x^{2} + y^{2} )^{3 \\text{/} 2}} ( x \\mathbf{\\text{i}} + y \\mathbf{\\text{j}} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, assume that an electric field in the xy -plane caused by an infinite line of charge along the x -axis is a gradient field with potential function $$V ( x , y ) = c \\text{ln} ( \\frac{r_{0}}{\\sqrt{x^{2} + y^{2}}} ) ,$$ where $$c > 0$$ is a constant and $$r_{0}$$ is a reference distance at which the potential is assumed to be zero.",
+        "Question": "Find the components of the electric field in the x - and y -directions, where $$\\mathbf{\\text{E}} ( x , y ) = \\text{unicode[:-]} \\text{grad} V ( x , y ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, assume that an electric field in the xy -plane caused by an infinite line of charge along the x -axis is a gradient field with potential function $$V ( x , y ) = c \\text{ln} ( \\frac{r_{0}}{\\sqrt{x^{2} + y^{2}}} ) ,$$ where $$c > 0$$ is a constant and $$r_{0}$$ is a reference distance at which the potential is assumed to be zero.",
+        "Question": "Show that the electric field at a point in the xy -plane is directed outward from the origin and has magnitude $$|| \\mathbf{E} || = \\frac{c}{r} ,$$",
+        "Image Links": [],
+        "Answer": "$$E = \\frac{c}{| r |^{2}} r = \\frac{c}{| r |} \\frac{r}{| r |}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "A flow line (or streamline ) of a vector field $$\\mathbf{\\text{F}}$$ is a curve $$\\mathbf{\\text{r}} ( t )$$ such that $$d \\mathbf{\\text{r}} \\text{/} d t = \\mathbf{\\text{F}} ( \\mathbf{\\text{r}} ( t ) ) .$$ If $$\\mathbf{\\text{F}}$$ represents the velocity field of a moving particle, then the flow lines are paths taken by the particle. Therefore, flow lines are tangent to the vector field. For the following exercises, show that the given curve $$\\mathbf{\\text{c}} ( t )$$ is a flow line of the given velocity vector field $$\\mathbf{\\text{F}} ( x , y , z ) .$$",
+        "Question": "$$\\mathbf{\\text{c}} ( t ) = ( e^{2 t} , \\text{ln} | t | , \\frac{1}{t} ) , t \\ne 0 ; \\mathbf{\\text{F}} ( x , y , z ) = \\langle 2 x , z , \\text{unicode[:-]} z^{2} \\rangle$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "A flow line (or streamline ) of a vector field $$\\mathbf{\\text{F}}$$ is a curve $$\\mathbf{\\text{r}} ( t )$$ such that $$d \\mathbf{\\text{r}} \\text{/} d t = \\mathbf{\\text{F}} ( \\mathbf{\\text{r}} ( t ) ) .$$ If $$\\mathbf{\\text{F}}$$ represents the velocity field of a moving particle, then the flow lines are paths taken by the particle. Therefore, flow lines are tangent to the vector field. For the following exercises, show that the given curve $$\\mathbf{\\text{c}} ( t )$$ is a flow line of the given velocity vector field $$\\mathbf{\\text{F}} ( x , y , z ) .$$",
+        "Question": "$$\\mathbf{\\text{c}} ( t ) = ( \\text{sin} t , \\text{cos} t , e^{t} ) ; \\mathbf{\\text{F}} ( x , y , z ) = \\langle y , \\text{unicode[:-]} x , z \\rangle$$",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\text{c}} \\text{unicode[:']} ( t ) = ( \\text{cos} t , \\text{unicode[:-]} \\text{sin} t , e^{\\text{unicode[:-]} t} ) = \\mathbf{\\text{F}} ( \\mathbf{\\text{c}} ( t ) )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, let $$\\mathbf{\\text{F}} = x \\mathbf{\\text{i}} + y \\mathbf{\\text{j}} ,$$ $$\\mathbf{\\text{G}} = \\text{unicode[:-]} y \\mathbf{\\text{i}} + x \\mathbf{\\text{j}} ,$$ and $$\\mathbf{\\text{H}} = x \\mathbf{\\text{i}} - y \\mathbf{\\text{j}} .$$ Match F , G , and H with their graphs.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7df714b3b26a3b589fb41309416450ba3663a5a2"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, let $$\\mathbf{\\text{F}} = x \\mathbf{\\text{i}} + y \\mathbf{\\text{j}} ,$$ $$\\mathbf{\\text{G}} = \\text{unicode[:-]} y \\mathbf{\\text{i}} + x \\mathbf{\\text{j}} ,$$ and $$\\mathbf{\\text{H}} = x \\mathbf{\\text{i}} - y \\mathbf{\\text{j}} .$$ Match F , G , and H with their graphs.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/01e0bfff7ab1f2d7119c126e6fc7c7aed73495a2"
+        ],
+        "Answer": "H",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, let $$\\mathbf{\\text{F}} = x \\mathbf{\\text{i}} + y \\mathbf{\\text{j}} ,$$ $$\\mathbf{\\text{G}} = \\text{unicode[:-]} y \\mathbf{\\text{i}} + x \\mathbf{\\text{j}} ,$$ and $$\\mathbf{\\text{H}} = x \\mathbf{\\text{i}} - y \\mathbf{\\text{j}} .$$ Match F , G , and H with their graphs.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/526b83c6958c9534b7678d98080340d8bb2d3402"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, let $$\\mathbf{\\text{F}} = x \\mathbf{\\text{i}} + y \\mathbf{\\text{j}} ,$$ $$\\mathbf{\\text{G}} = \\text{unicode[:-]} y \\mathbf{\\text{i}} + x \\mathbf{\\text{j}} ,$$ and $$\\mathbf{\\text{H}} = x \\mathbf{\\text{i}} - y \\mathbf{\\text{j}} .$$ Match the vector fields with their graphs in $$( \\text{I} ) - ( \\text{IV} ) .$$ a) $$\\mathbf{\\text{F}} + \\mathbf{\\text{G}}$$ b) $$\\mathbf{\\text{F}} + \\mathbf{\\text{H}}$$ c) $$\\mathbf{\\text{G}} + \\mathbf{\\text{H}}$$ d) $$\\text{unicode[:-]} \\mathbf{\\text{F}} + \\mathbf{\\text{G}}$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d901375109d423a016cb03374dff907d622efec0"
+        ],
+        "Answer": "d. $$\\text{unicode[:-]} \\mathbf{\\text{F}} + \\mathbf{\\text{G}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, let $$\\mathbf{\\text{F}} = x \\mathbf{\\text{i}} + y \\mathbf{\\text{j}} ,$$ $$\\mathbf{\\text{G}} = \\text{unicode[:-]} y \\mathbf{\\text{i}} + x \\mathbf{\\text{j}} ,$$ and $$\\mathbf{\\text{H}} = x \\mathbf{\\text{i}} - y \\mathbf{\\text{j}} .$$ Match the vector fields with their graphs in $$( \\text{I} ) - ( \\text{IV} ) .$$ a) $$\\mathbf{\\text{F}} + \\mathbf{\\text{G}}$$ b) $$\\mathbf{\\text{F}} + \\mathbf{\\text{H}}$$ c) $$\\mathbf{\\text{G}} + \\mathbf{\\text{H}}$$ d) $$\\text{unicode[:-]} \\mathbf{\\text{F}} + \\mathbf{\\text{G}}$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/531a2f28a3c69cd48ffbbe926615611357af28c6"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, let $$\\mathbf{\\text{F}} = x \\mathbf{\\text{i}} + y \\mathbf{\\text{j}} ,$$ $$\\mathbf{\\text{G}} = \\text{unicode[:-]} y \\mathbf{\\text{i}} + x \\mathbf{\\text{j}} ,$$ and $$\\mathbf{\\text{H}} = x \\mathbf{\\text{i}} - y \\mathbf{\\text{j}} .$$ Match the vector fields with their graphs in $$( \\text{I} ) - ( \\text{IV} ) .$$ a) $$\\mathbf{\\text{F}} + \\mathbf{\\text{G}}$$ b) $$\\mathbf{\\text{F}} + \\mathbf{\\text{H}}$$ c) $$\\mathbf{\\text{G}} + \\mathbf{\\text{H}}$$ d) $$\\text{unicode[:-]} \\mathbf{\\text{F}} + \\mathbf{\\text{G}}$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/dcffe50d5ff03fe61395885a8825cc457f29ab86"
+        ],
+        "Answer": "a. $$\\mathbf{\\text{F}} + \\mathbf{\\text{G}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, let $$\\mathbf{\\text{F}} = x \\mathbf{\\text{i}} + y \\mathbf{\\text{j}} ,$$ $$\\mathbf{\\text{G}} = \\text{unicode[:-]} y \\mathbf{\\text{i}} + x \\mathbf{\\text{j}} ,$$ and $$\\mathbf{\\text{H}} = x \\mathbf{\\text{i}} - y \\mathbf{\\text{j}} .$$ Match the vector fields with their graphs in $$( \\text{I} ) - ( \\text{IV} ) .$$ a) $$\\mathbf{\\text{F}} + \\mathbf{\\text{G}}$$ b) $$\\mathbf{\\text{F}} + \\mathbf{\\text{H}}$$ c) $$\\mathbf{\\text{G}} + \\mathbf{\\text{H}}$$ d) $$\\text{unicode[:-]} \\mathbf{\\text{F}} + \\mathbf{\\text{G}}$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1a0a90098883e189d037882d84c86f0df80d8516"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

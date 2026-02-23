@@ -1,0 +1,526 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, specify whether the region is of Type I or Type II.",
+        "Question": "The region $$D$$ bounded by $$y = x^{3} ,$$ $$y = x^{3} + 1 ,$$ $$x = 0 ,$$ and $$x = 1$$ as given in the following figure.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a52540ff13dc7f0a1cdca32b473ad20477345f7a"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, specify whether the region is of Type I or Type II.",
+        "Question": "Find the average value of the function $$f ( x , y ) = 3 x y$$ on the region graphed in the previous exercise.",
+        "Image Links": [],
+        "Answer": "$$\\frac{27}{20}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, specify whether the region is of Type I or Type II.",
+        "Question": "Find the area of the region $$D$$ given in the previous exercise.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, specify whether the region is of Type I or Type II.",
+        "Question": "The region $$D$$ bounded by $$y = \\text{sin} x , y = 1 + \\text{sin} x , x = 0 , \\text{and} x = \\frac{\\pi}{2}$$ as given in the following figure.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/180ccf6903b002a57dcf874120be976297eeeebd"
+        ],
+        "Answer": "Type I but not Type II",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, specify whether the region is of Type I or Type II.",
+        "Question": "Find the average value of the function $$f ( x , y ) = \\text{cos} x$$ on the region graphed in the previous exercise.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, specify whether the region is of Type I or Type II.",
+        "Question": "Find the area of the region $$D$$ given in the previous exercise.",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\pi}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, specify whether the region is of Type I or Type II.",
+        "Question": "The region $$D$$ bounded by $$x = y^{2} - 1$$ and $$x = \\sqrt{1 - y^{2}}$$ as given in the following figure.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f064b8ad672d1b6e8124b17995b1d9d47172eea9"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, specify whether the region is of Type I or Type II.",
+        "Question": "Find the volume of the solid under the graph of the function $$f ( x , y ) = x y + 1$$ and above the region in the figure in the previous exercise.",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{6} ( 8 + 3 \\pi )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, specify whether the region is of Type I or Type II.",
+        "Question": "The region $$D$$ bounded by $$y = 0 , x = -10 + y , \\text{and} x = 10 - y$$ as given in the following figure.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/06c3522ebd2c3b74bee389381357bc9079d5214c"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, specify whether the region is of Type I or Type II.",
+        "Question": "Find the volume of the solid under the graph of the function $$f ( x , y ) = x + y$$ and above the region in the figure from the previous exercise.",
+        "Image Links": [],
+        "Answer": "$$\\frac{1000}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, specify whether the region is of Type I or Type II.",
+        "Question": "The region $$D$$ bounded by $$y = 0 , x = y - 1 ,$$ $$x = \\frac{\\pi}{2}$$ as given in the following figure.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/76b1844e6243219bf243c07b259403322627c20d"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, specify whether the region is of Type I or Type II.",
+        "Question": "The region $$D$$ bounded by $$y = 0$$ and $$y = x^{2} - 1$$ as given in the following figure.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/026ca08b92f8905b3ca1528e972331b666adbe19"
+        ],
+        "Answer": "Type I and Type II",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, specify whether the region is of Type I or Type II.",
+        "Question": "Let $$D$$ be the region bounded by the curves of equations $$y = x , y = \\text{unicode[:-]} x ,$$ and $$y = 2 - x^{2} .$$ Explain why $$D$$ is neither of Type I nor II.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, specify whether the region is of Type I or Type II.",
+        "Question": "Let $$D$$ be the region bounded by the curves of equations $$y = \\text{cos} x$$ and $$y = 4 - x^{2}$$ and the $$x$$ -axis. Explain why $$D$$ is neither of Type I nor II.",
+        "Image Links": [],
+        "Answer": "The region $$D$$ is not of Type I: it does not lie between two vertical lines and the graphs of two continuous functions $$g_{1} ( x )$$ and $$g_{2} ( x ) .$$ The region $$D$$ is not of Type II: it does not lie between two horizontal lines and the graphs of two continuous functions $$h_{1} ( y )$$ and $$h_{2} ( y ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the double integral $$\\iint_{D} f ( x , y ) d A$$ over the region $$D .$$",
+        "Question": "$$f ( x , y ) = 2 x + 5 y$$ and $$D = \\{ ( x , y ) | 0 \\le x \\le 1 , x^{3} \\le y \\le x^{3} + 1 \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the double integral $$\\iint_{D} f ( x , y ) d A$$ over the region $$D .$$",
+        "Question": "$$f ( x , y ) = 1$$ and $$D = \\{ ( x , y ) | 0 \\le x \\le \\frac{\\pi}{2} , \\text{sin} x \\le y \\le 1 + \\text{sin} x \\}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\pi}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the double integral $$\\iint_{D} f ( x , y ) d A$$ over the region $$D .$$",
+        "Question": "$$f ( x , y ) = 2$$ and $$D = \\{ ( x , y ) | 0 \\le y \\le 1 , y - 1 \\le x \\le \\text{arccos} y \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the double integral $$\\iint_{D} f ( x , y ) d A$$ over the region $$D .$$",
+        "Question": "$$f ( x , y ) = x y$$ and $$D = \\{ ( x , y ) | - 1 \\le y \\le 1 , y^{2} - 1 \\le x \\le \\sqrt{1 - y^{2}} \\}$$",
+        "Image Links": [],
+        "Answer": "$$0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the double integral $$\\iint_{D} f ( x , y ) d A$$ over the region $$D .$$",
+        "Question": "$$f ( x , y ) = \\text{sin} y$$ and $$D$$ is the triangular region with vertices $$( 0 , 0 ) , ( 0 , 3 ) , \\text{and} ( 3 , 0 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the double integral $$\\iint_{D} f ( x , y ) d A$$ over the region $$D .$$",
+        "Question": "$$f ( x , y ) = \\text{unicode[:-]} x + 1$$ and $$D$$ is the triangular region with vertices $$( 0 , 0 ) , ( 0 , 2 ) , \\text{and} ( 2 , 2 )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Evaluate the iterated integrals.",
+        "Question": "$$\\int_{0}^{1} \\int_{2 x}^{3 x} ( x + y^{2} ) d y d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Evaluate the iterated integrals.",
+        "Question": "$$\\int_{0}^{1} \\int_{2 \\sqrt{x}}^{2 \\sqrt{x} + 1} ( x y + 1 ) d y d x$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{41}{20}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Evaluate the iterated integrals.",
+        "Question": "$$\\int_{e}^{e^{2}} \\int_{\\text{ln} u}^{2} ( v + \\text{ln} u ) d v d u$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Evaluate the iterated integrals.",
+        "Question": "$$\\int_{1}^{2} \\int_{\\text{unicode[:-]} u^{2} - 1}^{\\text{unicode[:-]} u} ( 8 u v ) d v d u$$",
+        "Image Links": [],
+        "Answer": "$$-63$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Evaluate the iterated integrals.",
+        "Question": "$$\\int_{0}^{1} \\int_{\\text{unicode[:-]} \\sqrt{1 - y^{2}}}^{\\sqrt{1 - y^{2}}} ( 2 x + 4 x^{3} ) d x d y$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Evaluate the iterated integrals.",
+        "Question": "$$\\int_{0}^{1 \\text{/} 2} \\int_{\\text{unicode[:-]} \\sqrt{1 - 4 y^{2}}}^{\\sqrt{1 - 4 y^{2}}} 4 d x d y$$",
+        "Image Links": [],
+        "Answer": "$$\\pi$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Evaluate the iterated integrals.",
+        "Question": "Let $$D$$ be the region in the first quadrant bounded by $$y = 1 - x^{2} , y = 4 - x^{2} ,$$ and the $$x$$ - and $$y$$ -axes. Show that $$\\iint_{D} x d A = \\int_{0}^{1} \\int_{1 - x^{2}}^{4 - x^{2}} x d y d x + \\int_{1}^{2} \\int_{0}^{4 - x^{2}} x d y d x$$ by dividing the region $$D$$ into two regions of Type I. Evaluate the integral $$\\iint_{D} x d A .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Evaluate the iterated integrals.",
+        "Question": "Let $$D$$ be the region bounded by $$y = 1 ,$$ $$y = x ,$$ $$y = \\text{ln} x ,$$ and the $$x$$ -axis. Show that $$\\iint_{D} y d A = \\int_{0}^{1} \\int_{0}^{x} y d y d x + \\int_{1}^{e} \\int_{\\text{ln} x}^{1} y d y d x$$ by dividing $$D$$ into two regions of Type I. Evaluate the integral $$\\iint_{D} y d A .$$",
+        "Image Links": [],
+        "Answer": "a. Answers may vary; b. $$\\frac{2}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Evaluate the iterated integrals.",
+        "Question": "Show that $$\\iint_{D} y^{2} d A = \\int_{-1}^{0} \\int_{\\text{unicode[:-]} x}^{2 - x^{2}} y^{2} d y d x + \\int_{0}^{1} \\int_{x}^{2 - x^{2}} y^{2} d y d x$$ by dividing the region $$D$$ into two regions of Type I, where $$D = \\{ ( x , y ) | y \\geq x , y \\geq - x , y \\le 2 - x^{2} \\} .$$ Evaluate the integral $$\\iint_{D} y^{2} d A .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Evaluate the iterated integrals.",
+        "Question": "Let $$D$$ be the region bounded by $$y = x^{2} , y = x + 2 ,$$ and $$y = \\text{unicode[:-]} x .$$ Show that $$\\iint_{D} x d A = \\int_{0}^{1} \\int_{\\text{unicode[:-]} y}^{\\sqrt{y}} x d x d y + \\int_{1}^{4} \\int_{y - 2}^{\\sqrt{y}} x d x d y$$ by dividing the region $$D$$ into two regions of Type II, where $$D = \\{ ( x , y ) | y \\geq x^{2} , y \\geq - x , y \\le x + 2 \\} .$$ Evaluate the integral $$\\iint_{D} x d A .$$",
+        "Image Links": [],
+        "Answer": "a. Answers may vary; b. $$\\frac{7}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Evaluate the iterated integrals.",
+        "Question": "The region $$D$$ bounded by $$x = 0 , y = x^{5} + 1 ,$$ and $$y = 3 - x^{2}$$ is shown in the following figure. Find the area $$A ( D )$$ of the region $$D .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/68f391d516d6f200f9e5d8c7b884d8d5f9539b08"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Evaluate the iterated integrals.",
+        "Question": "The region $$D$$ bounded by $$y = \\text{cos} x , y = 4 + \\text{cos} x ,$$ and $$x = \\pm \\frac{\\pi}{3}$$ is shown in the following figure. Find the area $$A ( D )$$ of the region $$D .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ed0c5eeecb2183350d0e8ebc5b37bdbe2b2f0091"
+        ],
+        "Answer": "$$\\frac{8 \\pi}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Evaluate the iterated integrals.",
+        "Question": "Find the area $$A ( D )$$ of the region $$D = \\{ ( x , y ) | y \\geq 1 - x^{2} , y \\le 4 - x^{2} , y \\geq 0 , x \\geq 0 \\} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Evaluate the iterated integrals.",
+        "Question": "Let $$D$$ be the region bounded by $$y = 1 , y = x , y = \\text{ln} x ,$$ and the $$x$$ -axis. Find the area $$A ( D )$$ of the region $$D .$$",
+        "Image Links": [],
+        "Answer": "$$e - \\frac{3}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Evaluate the iterated integrals.",
+        "Question": "Find the average value of the function $$f ( x , y ) = \\text{sin} y$$ on the triangular region with vertices $$( 0 , 0 ) , ( 0 , 3 ) ,$$ and $$( 3 , 0 ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Evaluate the iterated integrals.",
+        "Question": "Find the average value of the function $$f ( x , y ) = \\text{unicode[:-]} x + 1$$ on the triangular region with vertices $$( 0 , 0 ) , ( 0 , 2 ) ,$$ and $$( 2 , 2 ) .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration and evaluate the integral.",
+        "Question": "$$\\int_{-1}^{\\pi \\text{/} 2} \\int_{0}^{x + 1} \\text{sin} x d y d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration and evaluate the integral.",
+        "Question": "$$\\int_{0}^{1} \\int_{x - 1}^{1 - x} x d y d x$$",
+        "Image Links": [],
+        "Answer": "$$\\int_{0}^{1} \\int_{x - 1}^{1 - x} x d y d x = \\int_{-1}^{0} \\int_{0}^{y + 1} x d x d y + \\int_{0}^{1} \\int_{0}^{1 - y} x d x d y = \\frac{1}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration and evaluate the integral.",
+        "Question": "$$\\int_{-1}^{0} \\int_{\\text{unicode[:-]} \\sqrt{y + 1}}^{\\sqrt{y + 1}} y^{2} d x d y$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration and evaluate the integral.",
+        "Question": "$$\\int_{\\text{unicode[:-]1}}^{1} \\int_{\\text{unicode[:-]} \\sqrt{1 - y^{2}}}^{\\sqrt{1 - y^{2}}} y d x d y$$",
+        "Image Links": [],
+        "Answer": "$$\\int_{\\text{unicode[:-]1}}^{1} \\int_{\\text{unicode[:-]} \\sqrt{1 - y^{2}}}^{\\sqrt{1 - y^{2}}} y d x d y = \\int_{\\text{unicode[:-]1}}^{1} \\int_{\\text{unicode[:-]} \\sqrt{1 - x^{2}}}^{\\sqrt{1 - x^{2}}} y d y d x = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration and evaluate the integral.",
+        "Question": "The region $$D$$ is shown in the following figure. Evaluate the double integral $$\\iint_{D} ( x^{2} + y ) d A$$ by using the easier order of integration.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/753cba9535c2902bc60f55520783d1502208a95f"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration and evaluate the integral.",
+        "Question": "The region $$D$$ is given in the following figure. Evaluate the double integral $$\\iint_{D} ( x^{2} - y^{2} ) d A$$ by using the easier order of integration.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/47d7fabf1f6d27dfd736f7f8b0301d42bfa54576"
+        ],
+        "Answer": "$$\\iint_{D} ( x^{2} - y^{2} ) d A = \\int_{-1}^{1} \\int_{y^{4} - 1}^{1 - y^{4}} ( x^{2} - y^{2} ) d x d y = \\frac{464}{4095}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration and evaluate the integral.",
+        "Question": "Find the volume of the solid under the surface $$z = 2 x + y^{2}$$ and above the region bounded by $$y = x^{5}$$ and $$y = x .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration and evaluate the integral.",
+        "Question": "Find the volume in the first octant of the solid under the plane $$z = 3 x + y$$ and above the region determined by $$y = x^{7}$$ and $$y = x .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{4}{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration and evaluate the integral.",
+        "Question": "Find the volume of the solid under the plane $$z = x - y$$ and above the region bounded by $$x = \\text{tan} y , x = \\text{unicode[:-]} \\text{tan} y ,$$ and $$x = 1 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration and evaluate the integral.",
+        "Question": "Find the volume of the solid under the surface $$z = x^{3}$$ and above the plane region bounded by $$x = \\text{sin} y , x = \\text{unicode[:-]} \\text{sin} y ,$$ and $$x = 1$$ for values of $$y$$ between $$y = \\frac{-\u03c0}{2} \\text{ and } y = \\frac{\\pi}{2}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{5 \\pi}{32}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration and evaluate the integral.",
+        "Question": "Let $$g$$ be a positive, increasing, and differentiable function on the interval $$[ a , b ] .$$ Show that the volume of the solid under the surface $$z = g \\prime ( x )$$ and above the region bounded by $$y = 0 ,$$ $$y = g ( x ) ,$$ $$x = a ,$$ and $$x = b$$ is given by $$\\frac{1}{2} ( g^{2} ( b ) - g^{2} ( a ) ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration and evaluate the integral.",
+        "Question": "Let $$g$$ be a positive, increasing, and differentiable function on the interval $$[ a , b ] ,$$ and let $$k$$ be a positive real number. Show that the volume of the solid under the surface $$z = g \\prime ( x )$$ and above the region bounded by $$y = g ( x ) , y = g ( x ) + k , x = a ,$$ and $$x = b$$ is given by $$k ( g ( b ) - g ( a ) ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration and evaluate the integral.",
+        "Question": "Find the volume of the solid situated in the first octant and determined by the planes $$z = 2 ,$$ $$z = 0 , x + y = 1 , x = 0 , \\text{and} y = 0 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration and evaluate the integral.",
+        "Question": "Find the volume of the solid situated in the first octant and bounded by the planes $$x + 2 y = 1 ,$$ $$x = 0 , y = 0 , z = 4 , \\text{and} z = 0 .$$",
+        "Image Links": [],
+        "Answer": "$$1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration and evaluate the integral.",
+        "Question": "Find the volume of the solid bounded by the planes $$x + y = 1 , x - y = 1 , x = 0 , z = 0 ,$$ and $$z = 10 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration and evaluate the integral.",
+        "Question": "Find the volume of the solid bounded by the planes $$x + y = 1 , x - y = 1 , x + y = -1 ,$$ $$x - y = -1 , z = 1 \\text{and} z = 0 .$$",
+        "Image Links": [],
+        "Answer": "$$2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration and evaluate the integral.",
+        "Question": "Let $$S_{1}$$ and $$S_{2}$$ be the solids situated in the first octant under the planes $$x + y + z = 1$$ and $$x + y + 2 z = 1 ,$$ respectively, and let $$S$$ be the solid situated between $$S_{1} , S_{2} , x = 0 , \\text{and} y = 0 .$$ Find the volume of the solid $$S_{1} .$$ Find the volume of the solid $$S_{2} .$$ Find the volume of the solid $$S$$ by subtracting the volumes of the solids $$S_{1} \\text{and} S_{2} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration and evaluate the integral.",
+        "Question": "Let $$S_{1} \\text{and} S_{2}$$ be the solids situated in the first octant under the planes $$2 x + 2 y + z = 2$$ and $$x + y + z = 1 ,$$ respectively, and let $$S$$ be the solid situated between $$S_{1} , S_{2} , x = 0 , \\text{and} y = 0 .$$ Find the volume of the solid $$S_{1} .$$ Find the volume of the solid $$S_{2} .$$ Find the volume of the solid $$S$$ by subtracting the volumes of the solids $$S_{1} \\text{and} S_{2} .$$",
+        "Image Links": [],
+        "Answer": "a. $$\\frac{1}{3} ;$$ b. $$\\frac{1}{6} ;$$ c. $$\\frac{1}{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration and evaluate the integral.",
+        "Question": "Let $$S_{1} \\text{and} S_{2}$$ be the solids situated in the first octant under the plane $$x + y + z = 2$$ and under the sphere $$x^{2} + y^{2} + z^{2} = 4 ,$$ respectively. If the volume of the solid $$S_{2}$$ is $$\\frac{4 \\pi}{3} ,$$ determine the volume of the solid $$S$$ situated between $$S_{1}$$ and $$S_{2}$$ by subtracting the volumes of these solids.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration and evaluate the integral.",
+        "Question": "Consider the plane $$x \\  + \\  y \\  + \\  z \\  = \\  2$$ and the cylinder $$x^{2} \\  + \\  y^{2} \\  = \\  \\  4 \\$$ in the first octant. Find the volume under the plane. Find the volume inside the cylinder under the plane $$z \\  = \\  2$$ . Find the volume above the plane, inside the cylinder, and below the plane $$z \\  = \\  2$$ .",
+        "Image Links": [],
+        "Answer": "a. $$\\frac{4}{3} ;$$ b. $$2 \\pi ;$$ c. $$\\frac{6 \\pi - 4}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration and evaluate the integral.",
+        "Question": "[T] The following figure shows the region $$D$$ bounded by the curves $$y = \\text{sin} x ,$$ $$x = 0 ,$$ and $$y = x^{4} .$$ Use a graphing calculator or CAS to find the $$x$$ -coordinates of the intersection points of the curves and to determine the area of the region $$D .$$ Round your answers to six decimal places.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/324f544826fe294bedc31d351aff657ab6a40c02"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration and evaluate the integral.",
+        "Question": "[T] The region $$D$$ bounded by the curves $$y = \\text{cos} x , x = 0 , \\text{and} y = x^{3}$$ is shown in the following figure. Use a graphing calculator or CAS to find the x -coordinates of the intersection points of the curves and to determine the area of the region $$D .$$ Round your answers to six decimal places.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1f6a72700a45558515bb5cdccd6d4f23d08f1c04"
+        ],
+        "Answer": "$$0 \\text{and} 0.865474 ;$$ $$A ( D ) = 0.621135$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration and evaluate the integral.",
+        "Question": "Suppose that $$( X , Y )$$ is the outcome of an experiment that must occur in a particular region $$S$$ in the $$x y$$ -plane. In this context, the region $$S$$ is called the sample space of the experiment and $$X \\text{and} Y$$ are random variables. If $$D$$ is a region included in $$S ,$$ then the probability of $$( X , Y )$$ being in $$D$$ is defined as $$P [ ( X , Y ) \\in D ] = \\iint_{D} p ( x , y ) d x d y ,$$ where $$p ( x , y )$$ is the joint probability density of the experiment. Here, $$p ( x , y )$$ is a nonnegative function for which $$\\iint_{S} p ( x , y ) d x d y = 1 .$$ Assume that a point $$( X , Y )$$ is chosen arbitrarily in the square $$[ 0 , 3 ] \\times [ 0 , 3 ]$$ with the probability density $$p ( x , y ) = \\{ \\left .\\begin{matrix}{aa}\\frac{1}{9} & ( x , y ) \\in [ 0 , 3 ] \\times [ 0 , 3 ] , \\\\ 0 & \\text{otherwise} \\text{.}\\end{matrix}\\right .$$ Find the probability that the point $$( X , Y )$$ is inside the unit square and interpret the result.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration and evaluate the integral.",
+        "Question": "Consider $$X \\text{and} Y$$ two random variables of probability densities $$p_{1} ( x )$$ and $$p_{2} ( y ) ,$$ respectively. The random variables $$X \\text{and} Y$$ are said to be independent if their joint density function is given by $$p ( x , y ) = p_{1} ( x ) p_{2} ( y ) .$$ At a drive-thru restaurant, customers spend, on average, $$3$$ minutes placing their orders and an additional $$5$$ minutes paying for and picking up their meals. Assume that placing the order and paying for/picking up the meal are two independent events $$X$$ and $$Y .$$ If the waiting times are modeled by the exponential probability densities $$\\left .\\begin{matrix}{aaaaaaa}p_{1} ( x ) = \\{ \\left .\\begin{matrix}{aa}\\frac{1}{3} e^{\\text{unicode[:-]} x \\text{/} 3} & x \\geq 0 , \\\\ 0 & \\text{otherwise,}\\end{matrix}\\right . &  &  & \\text{and} &  &  & p_{2} ( y ) = \\{ \\left .\\begin{matrix}{aa}\\frac{1}{5} e^{\\text{unicode[:-]} y \\text{/} 5} & y \\geq 0 , \\\\ 0 & \\text{otherwise,}\\end{matrix}\\right .\\end{matrix}\\right .$$ respectively, the probability that a customer will spend less than 6 minutes in the drive-thru line is given by $$P [ X + Y \\le 6 ] = \\iint_{D} p ( x , y ) d x d y ,$$ where $$D = \\{ ( x , y ) \\} | x \\geq 0 , y \\geq 0 , x + y \\le 6 \\} .$$ Find $$P [ X + Y \\le 6 ]$$ and interpret the result.",
+        "Image Links": [],
+        "Answer": "$$P [ X + Y \\le 6 ] = 1 + \\frac{3}{2 e^{2}} - \\frac{5}{e^{6 \\text{/} 5}} \\approx 0.45 ;$$ there is a $$45 \\text{%}$$ chance that a customer will spend $$6$$ minutes in the drive-thru line.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration and evaluate the integral.",
+        "Question": "[T] The Reuleaux triangle consists of an equilateral triangle and three regions, each of them bounded by a side of the triangle and an arc of a circle of radius s centered at the opposite vertex of the triangle. Show that the area of the Reuleaux triangle in the following figure of side length $$s$$ is $$\\frac{s^{2}}{2} ( \\pi - \\sqrt{3} ) .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ab30a21ca7aca518be5f59360abec042dcc7c038"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration and evaluate the integral.",
+        "Question": "[T] Show that the area of the lunes of Alhazen , the two blue lunes in the following figure, is the same as the area of the right triangle ABC . The outer boundaries of the lunes are semicircles of diameters $$A B \\text{and} B C ,$$ respectively, and the inner boundaries are formed by the circumcircle of the triangle $$A B C .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e08eda3e0cb92fbae76ef642f09a91cedba6cb0b"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

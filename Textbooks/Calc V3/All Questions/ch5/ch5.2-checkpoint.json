@@ -1,0 +1,85 @@
+[
+    {
+        "Topic": "Checkpoint 5.7",
+        "Problem Statement": "",
+        "Question": "Consider the region in the first quadrant between the functions $$y = 2 x$$ and $$y = x^{2} .$$ Describe the region first as Type I and then as Type II.",
+        "Image Links": [],
+        "Answer": "Type I and Type II are expressed as $$\\{ ( x , y ) | 0 \\le x \\le 2 , x^{2} \\le y \\le 2 x \\}$$ and $$\\{ ( x , y ) | 0 \\le y \\le 4 , \\frac{1}{2} y \\le x \\le \\sqrt{y} \\} ,$$ respectively.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.8",
+        "Problem Statement": "",
+        "Question": "Sketch the region $$D$$ and evaluate the iterated integral $$\\iint_{D} x y d y d x$$ where $$D$$ is the region bounded by the curves $$y = \\text{cos} x$$ and $$y = \\text{sin} x$$ in the interval $$[ -3 \\pi \\text{/} 4 , \\pi \\text{/} 4 ] .$$",
+        "Image Links": [],
+        "Answer": "$$\\pi \\text{/} 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.9",
+        "Problem Statement": "",
+        "Question": "Consider the region bounded by the curves $$y = \\text{ln} x$$ and $$y = e^{x}$$ in the interval $$[ 1 , 2 ] .$$ Decompose the region into smaller regions of Type II.",
+        "Image Links": [],
+        "Answer": "$$\\{ ( x , y ) | 0 \\le y \\le \\ln{} 2 , 1 \\le x \\le e^{y} \\} \\cup \\{ ( x , y ) | \\ln{} 2 \\le y \\le e , 1 \\le x \\le 2 \\} \\cup \\{ ( x , y ) | e \\le y \\le e^{2} , \\text{ln} y \\le x \\le 2 \\}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.10",
+        "Problem Statement": "",
+        "Question": "Redo Example 5.14 using a union of two Type II regions.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/62eea1432292bd0925bb430eb6a51076d2c31ce5",
+            "https://openstax.org/apps/archive/20240812.170248/resources/798e9fa26a64e08d297c993bf7be4406f53049a2"
+        ],
+        "Answer": "Same as in the example shown.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.11",
+        "Problem Statement": "",
+        "Question": "Evaluate the iterated integral $$\\iint_{D} ( x^{2} + y^{2} ) d A$$ over the region $$D$$ in the first quadrant between the functions $$y = 2 x$$ and $$y = x^{2} .$$ Evaluate the iterated integral by integrating first with respect to $$y$$ and then integrating first with resect to $$x .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{216}{35}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.12",
+        "Problem Statement": "",
+        "Question": "Find the volume of the solid bounded above by $$f ( x , y ) = 10 - 2 x + y$$ over the region enclosed by the curves $$y = 0$$ and $$y = e^{x} ,$$ where $$x$$ is in the interval $$[ 0 , 1 ] .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{e^{2}}{4} + 10 e - \\frac{49}{4}$$ cubic units",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.13",
+        "Problem Statement": "",
+        "Question": "Find the area of a region bounded above by the curve $$y = x^{3}$$ and below by $$y = 0$$ over the interval $$[ 0 , 3 ] .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{81}{4}$$ square units",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.14",
+        "Problem Statement": "",
+        "Question": "Find the average value of the function $$f ( x , y ) = x y$$ over the triangle with vertices $$( 0 , 0 ) , ( 1 , 0 ) \\text{and} ( 1 , 3 ) .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.15",
+        "Problem Statement": "",
+        "Question": "Evaluate the improper integral $$\\iint_{D} \\frac{y}{\\sqrt{1 - x^{2} - y^{2}}} d A$$ where $$D = \\{ ( x , y ) | x \\geq 0 , y \\geq 0 , x^{2} + y^{2} \\le 1 \\} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\pi}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.16",
+        "Problem Statement": "",
+        "Question": "The joint density function for two random variables $$X$$ and $$Y$$ is given by $$f ( x , y ) = \\left .\\begin{matrix}{aa}\\frac{1}{16250} ( x^{2} + y^{2} ) & \\text{if} 0 \\le x \\le 15 , 0 \\le y \\le 10 \\\\ 0 & \\text{otherwise}\\end{matrix}\\right .$$ Find the probability that $$X$$ is at most $$10$$ and $$Y$$ is at least $$5 .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{11}{39} \\approx 0.282$$",
+        "Answer Image Links": []
+    }
+]
