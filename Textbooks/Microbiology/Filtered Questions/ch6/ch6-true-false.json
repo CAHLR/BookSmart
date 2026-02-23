@@ -1,0 +1,20 @@
+[
+  {
+    "Topic": "",
+    "Problem Statement": "True or False?",
+    "Question": "True or False: Scientists have identified viruses that are able to infect fungal cells.",
+    "Image Links": [],
+    "Answer": "True",
+    "Answer Image Links": [],
+    "o3 Answer": "True. Scientists have discovered numerous viruses—collectively called mycoviruses—that specifically infect fungi.",
+    "o4-mini Answer": "True. Researchers have discovered a class of viruses—called mycoviruses—that specifically infect fungal cells. These have been found in a wide range of fungi and often carry double-stranded RNA genomes.",
+    "deepseek-chat Answer": "**True.**  \n\nScientists have identified viruses that infect fungal cells, known as **mycoviruses** (fungal viruses). These viruses can affect the growth, virulence, and other properties of their fungal hosts. While many mycoviruses have double-stranded RNA (dsRNA) genomes, some have single-stranded RNA (ssRNA) or even DNA genomes.  \n\nNotable examples include:  \n- **Cryphonectria hypovirus 1 (CHV1)**, which reduces the virulence of the chestnut blight fungus (*Cryphonectria parasitica*).  \n- **Mycovirus-infected *Aspergillus* species**, which can exhibit altered toxin production.  \n\nThus, the statement is **true**.",
+    "gemini-2.5-pro Answer": "**True.**\n\nScientists have identified viruses that are able to infect fungal cells. These viruses are called **mycoviruses** (from the Greek *mykes* for fungus).\n\nMycoviruses are widespread in the fungal kingdom and have been found in all major groups of fungi, including mushrooms, molds, and yeasts. A famous example is the virus that infects the fungus responsible for chestnut blight, which can actually reduce the severity of the disease in the trees.",
+    "gpt-5 Answer": "True. Scientists have identified viruses that infect fungi, known as mycoviruses.",
+    "o3 Eval": true,
+    "o4-mini Eval": true,
+    "deepseek-chat Eval": true,
+    "gemini-2.5-pro Eval": true,
+    "gpt-5 Eval": true
+  }
+]
