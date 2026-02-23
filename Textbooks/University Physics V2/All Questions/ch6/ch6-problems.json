@@ -1,0 +1,438 @@
+[
+    {
+        "Topic": "6.1 Electric Flux",
+        "Problem Statement": "",
+        "Question": "A uniform electric field of magnitude $$1.1 \\times 10^{4} \\text{N/C}$$ is perpendicular to a square sheet with sides 2.0 m long. What is the electric flux through the sheet?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Electric Flux",
+        "Problem Statement": "",
+        "Question": "Calculate the flux through the sheet of the previous problem if the plane of the sheet is at an angle of $$60 \\text{\u00b0}$$ to the field. Find the flux for both directions of the unit normal to the sheet.",
+        "Image Links": [],
+        "Answer": "$$\\text{Phi} = \\vec{\\mathbf{\\text{E}}} \\cdotp \\vec{\\mathbf{\\text{A}}} \\vec{} E A \\text{cos} \\theta = 3.8 \\times 10^{4} \\text{N} \\cdotp \\text{m}^{2} \\text{/} \\text{C}$$ electric field in direction of unit normal; $$\\text{Phi} = \\vec{\\mathbf{\\text{E}}} \\cdotp \\vec{\\mathbf{\\text{A}}} \\vec{} E A \\text{cos} \\theta = -3.8 \\times 10^{4} \\text{N} \\cdotp \\text{m}^{2} \\text{/} \\text{C}$$ electric field opposite to unit normal",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Electric Flux",
+        "Problem Statement": "",
+        "Question": "Find the electric flux through a rectangular area $$3 \\text{cm} \\times 2 \\text{cm}$$ between two parallel plates where there is a constant electric field of 30 N/C for the following orientations of the area: (a) parallel to the plates, (b) perpendicular to the plates, and (c) the normal to the area making a $$30 \\text{\u00b0}$$ angle with the direction of the electric field. Note that this angle can also be given as $$180 \\text{\u00b0} + 30 \\text{\u00b0} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Electric Flux",
+        "Problem Statement": "",
+        "Question": "The electric flux through a square-shaped area of side 5 cm near a large charged sheet is found to be $$3 \\times 10^{-5} \\text{N} \\cdotp \\text{m}^{2} \\text{/} \\text{C}$$ when the area is parallel to the plate. Find the charge density on the sheet.",
+        "Image Links": [],
+        "Answer": "$$\\frac{3 \\times 10^{-5} \\text{N} \\cdotp \\text{m}^{2} \\text{/} \\text{C}}{( 0.05 \\text{m} )^{2}} = E \\Rightarrow \\sigma = 2.12 \\times 10^{-13} \\text{C} \\text{/} \\text{m}^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Electric Flux",
+        "Problem Statement": "",
+        "Question": "Two large rectangular aluminum plates of area $$150 \\text{cm}^{2}$$ face each other with a separation of 3 mm between them. The plates are charged with equal amount of opposite charges, $$\\pm 20 \\mu \\text{C}$$ . The charges on the plates face each other. Find the flux through a circle of radius 3 cm between the plates when the normal to the circle makes an angle of $$5 \\text{\u00b0}$$ with a line perpendicular to the plates. Note that this angle can also be given as $$180 \\text{\u00b0} + 5 \\text{\u00b0} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Electric Flux",
+        "Problem Statement": "",
+        "Question": "A square surface of area $$2 \\text{cm}^{2}$$ is in a space of uniform electric field of magnitude $$10^{3} \\text{N/C}$$ . The amount of flux through it depends on how the square is oriented relative to the direction of the electric field. Find the electric flux through the square, when the normal to it makes the following angles with electric field: (a) $$30 \\text{\u00b0}$$ , (b) $$90 \\text{\u00b0}$$ , and (c) $$0 \\text{\u00b0}$$ . Note that these angles can also be given as $$180 \\text{\u00b0} + \\theta$$ .",
+        "Image Links": [],
+        "Answer": "a. $$\\text{Phi} = 0.17 \\text{N} \\cdotp \\text{m}^{2} \\text{/C;}$$ b. $$\\text{Phi} = 0$$ ; c. $$\\text{Phi} = E A \\text{cos} 0 \\text{\u00b0} = 1.0 \\times 10^{3} \\text{N} \\text{/} \\text{C} ( 2.0 \\times 10^{-4} \\text{m} )^{2} \\text{cos} 0 \\text{\u00b0} = 0.20 \\text{N} \\cdotp \\text{m}^{2} \\text{/} \\text{C}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Electric Flux",
+        "Problem Statement": "",
+        "Question": "A vector field is pointed along the z -axis, $$\\mathbf{\\vec{\\text{v}}} = \\frac{\\alpha}{x^{2} + y^{2}} \\mathbf{\\hat{\\text{z}}} .$$ (a) Find the flux of the vector field through a rectangle in the xy -plane between $$a < x < b$$ and $$c < y < d$$ . (b) Do the same through a rectangle in the yz -plane between $$a < z < b$$ and $$c < y < d$$ . (Leave your answer as an integral.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Electric Flux",
+        "Problem Statement": "",
+        "Question": "Consider the uniform electric field $$\\mathbf{\\vec{\\text{E}}} = ( 4.0 \\mathbf{\\hat{\\text{j}}} + 3.0 \\mathbf{\\hat{\\text{k}}} ) \\times 10^{3} \\text{N/C} \\text{.}$$ What is its electric flux through a circular area of radius 2.0 m that lies in the xy -plane?",
+        "Image Links": [],
+        "Answer": "$$\\text{Phi} = 3.8 \\times 10^{4} \\text{N} \\cdotp \\text{m}^{2} \\text{/} \\text{C}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Electric Flux",
+        "Problem Statement": "",
+        "Question": "Repeat the previous problem, given that the circular area is (a) in the yz -plane and (b) $$45 \\text{\u00b0}$$ above the xy- plane.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Electric Flux",
+        "Problem Statement": "",
+        "Question": "An infinite charged wire with charge per unit length $$\\lambda$$ lies along the central axis of a cylindrical surface of radius r and length l . What is the flux through the surface due to the electric field of the charged wire?",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\vec{\\text{E}}} ( z ) = \\frac{1}{4 \\pi \\varepsilon_{0}} \\frac{2 \\lambda}{z} \\mathbf{\\hat{\\text{k}}} , \\int \\mathbf{\\vec{\\text{E}}} \\cdotp \\mathbf{\\hat{\\text{n}}} d A = \\frac{\\lambda}{\\varepsilon_{0}} l$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Explaining Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "Determine the electric flux through each closed surface where the cross-section inside the surface is shown below.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ebdeaf0107b3595009c19fd552e312b0209cb9f1"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Explaining Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "Find the electric flux through the closed surface whose cross-sections are shown below.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/47a8005313d50255dfd2c4c571c5d8b25bfdf299"
+        ],
+        "Answer": "a. $$\\text{Phi} = 3.39 \\times 10^{3} \\text{N} \\cdotp \\text{m}^{2} \\text{/} \\text{C}$$ ; b. $$\\text{Phi} = 0$$ ; c. $$\\text{Phi} = -2.25 \\times 10^{5} \\text{N} \\cdotp \\text{m}^{2} \\text{/} \\text{C}$$ ; d. $$\\text{Phi} = 90.4 \\text{N} \\cdotp \\text{m}^{2} \\text{/} \\text{C}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Explaining Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "A point charge q is located at the center of a cube whose sides are of length a . If there are no other charges in this system, what is the electric flux through one face of the cube?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Explaining Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "A point charge of $$10 \\mu \\text{C}$$ is at an unspecified location inside a cube of side 2 cm. Find the net electric flux though the surfaces of the cube.",
+        "Image Links": [],
+        "Answer": "$$\\text{Phi} = 1.13 \\times 10^{6} \\text{N} \\cdotp \\text{m}^{2} \\text{/C}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Explaining Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "A net flux of $$1.0 \\times 10^{4} \\text{N} \\cdotp \\text{m}^{2} \\text{/C}$$ passes inward through the surface of a sphere of radius 5 cm. (a) How much charge is inside the sphere? (b) How precisely can we determine the location of the charge from this information?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Explaining Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "A charge q is placed at one of the corners of a cube of side a , as shown below. Find the magnitude of the electric flux through the shaded face due to q . Assume $$q > 0$$ .",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a259552b1b4a76cc9417c8b6f0181d14c1d3650c"
+        ],
+        "Answer": "Make a cube with q at the center, using the cube of side a . This would take four cubes of side a to make one side of the large cube. The shaded side of the small cube would be 1/24th of the total area of the large cube; therefore, the flux through the shaded area would be $$\\text{Phi} = \\frac{1}{24} \\frac{q}{\\varepsilon_{0}}$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Explaining Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "The electric flux through a cubical box 8.0 cm on a side is $$1.2 \\times 10^{3} \\text{N} \\cdotp \\text{m}^{2} \\text{/C} \\text{.}$$ What is the total charge enclosed by the box?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Explaining Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "The electric flux through a spherical surface is $$4.0 \\times 10^{4} \\text{N} \\cdotp \\text{m}^{2} \\text{/C} \\text{.}$$ What is the net charge enclosed by the surface?",
+        "Image Links": [],
+        "Answer": "$$q = 3.54 \\times 10^{-7} \\text{C}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Explaining Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "A cube whose sides are of length d is placed in a uniform electric field of magnitude $$E = 4.0 \\times 10^{3} \\text{N/C}$$ so that the field is perpendicular to two opposite faces of the cube. What is the net flux through the cube?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Explaining Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "Repeat the previous problem, assuming that the electric field is directed along a body diagonal of the cube.",
+        "Image Links": [],
+        "Answer": "zero, also because flux in equals flux out",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Explaining Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "A total charge $$5.0 \\times 10^{-6} \\text{C}$$ is distributed uniformly throughout a cubical volume whose edges are 8.0 cm long. (a) What is the charge density in the cube? (b) What is the electric flux through a cube with 12.0-cm edges that is concentric with the charge distribution? (c) Do the same calculation for cubes whose edges are 10.0 cm long and 5.0 cm long. (d) What is the electric flux through a spherical surface of radius 3.0 cm that is also concentric with the charge distribution?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Applying Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "Recall that in the example of a uniform charged sphere, $$\\rho_{0} = Q \\text{/} ( \\frac{4}{3} \\pi R^{3} ) .$$ Rewrite the answers in terms of the total charge Q on the sphere.",
+        "Image Links": [],
+        "Answer": "$$r > R , E = \\frac{Q}{4 \\pi \\varepsilon_{0} r^{2}} ; r < R , E = \\frac{q r}{4 \\pi \\varepsilon_{0} R^{3}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Applying Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "Suppose that the charge density of the spherical charge distribution shown in Figure 6.23 is $$\\rho ( r ) = \\rho_{0} r \\text{/} R$$ for $$r \\le R$$ and zero for $$r > R .$$ Obtain expressions for the electric field both inside and outside the distribution.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Applying Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "A very long, thin wire has a uniform linear charge density of $$50 \\mu \\text{C/m} \\text{.}$$ What is the electric field at a distance 2.0 cm from the wire?",
+        "Image Links": [],
+        "Answer": "$$E A = \\frac{\\lambda l}{\\varepsilon_{0}} \\Rightarrow E = 4.50 \\times 10^{7} \\text{N} \\text{/} \\text{C}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Applying Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "A charge of $$-30 \\mu \\text{C}$$ is distributed uniformly throughout a spherical volume of radius 10.0 cm. Determine the electric field due to this charge at a distance of (a) 2.0 cm, (b) 5.0 cm, and (c) 20.0 cm from the center of the sphere.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Applying Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "Repeat your calculations for the preceding problem, given that the charge is distributed uniformly over the surface of a spherical conductor of radius 10.0 cm.",
+        "Image Links": [],
+        "Answer": "a. 0; b. 0; c. $$\\mathbf{\\vec{\\text{E}}} = 6.74 \\times 10^{6} \\text{N} \\text{/} \\text{C} ( \\text{unicode[:-]} \\mathbf{\\hat{\\text{r}}} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Applying Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "A total charge Q is distributed uniformly throughout a spherical shell of inner and outer radii $$r_{1} \\text{and} r_{2} ,$$ respectively. Show that the electric field due to the charge is $$\\left .\\begin{matrix}{aaaa}\\mathbf{\\vec{\\text{E}}} = \\mathbf{\\vec{0}} &  &  & ( r \\le r_{1} ) ; \\\\ \\mathbf{\\vec{\\text{E}}} = \\frac{Q}{4 \\pi \\varepsilon_{0} r^{2}} ( \\frac{r^{3} - r_{1} ^{3}}{r_{2} ^{3} - r_{1} ^{3}} ) \\mathbf{\\hat{\\text{r}}} &  &  & ( r_{1} \\le r \\le r_{2} ) ; \\\\ \\mathbf{\\vec{\\text{E}}} = \\frac{Q}{4 \\pi \\varepsilon_{0} r^{2}} \\mathbf{\\hat{\\text{r}}} &  &  & ( r \\geq r_{2} ) .\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Applying Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "When a charge is placed on a metal sphere, it ends up in equilibrium at the outer surface. Use this information to determine the electric field of $$+ 3.0 \\mu \\text{C}$$ charge put on a 5.0-cm aluminum spherical ball at the following two points in space: (a) a point 1.0 cm from the center of the ball (an inside point) and (b) a point 10 cm from the center of the ball (an outside point).",
+        "Image Links": [],
+        "Answer": "a. 0; b. $$E = 2.70 \\times 10^{6} \\text{N} \\text{/} \\text{C}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Applying Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "A large sheet of charge has a uniform charge density of $$10 \\mu \\text{C/m}^{2} \\text{.}$$ What is the electric field due to this charge at a point just above the surface of the sheet?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Applying Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "Determine if approximate cylindrical symmetry holds for the following situations. State why or why not. (a) A 300-cm long copper rod of radius 1 cm is charged with +500 nC of charge and we seek electric field at a point 5 cm from the center of the rod. (b) A 10-cm long copper rod of radius 1 cm is charged with +500 nC of charge and we seek electric field at a point 5 cm from the center of the rod. (c) A 150-cm wooden rod is glued to a 150-cm plastic rod to make a 300-cm long rod, which is then painted with a charged paint so that one obtains a uniform charge density. The radius of each rod is 1 cm, and we seek an electric field at a point that is 4 cm from the center of the rod. (d) Same rod as (c), but we seek electric field at a point that is 500 cm from the center of the rod.",
+        "Image Links": [],
+        "Answer": "a. Yes, the length of the rod is much greater than the distance to the point in question. b. No, The length of the rod is of the same order of magnitude as the distance to the point in question. c. Yes, the length of the rod is much greater than the distance to the point in question. d. No. The length of the rod is of the same order of magnitude as the distance to the point in question.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Applying Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "A long silver rod of radius 3 cm has a charge of $$\\text{unicode[:-]} 5 \\mu \\text{C/cm}$$ on its surface. (a) Find the electric field at a point 5 cm from the center of the rod (an outside point). (b) Find the electric field at a point 2 cm from the center of the rod (an inside point).",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Applying Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "The electric field at 2 cm from the center of long copper rod of radius 1 cm has a magnitude 3 N/C and directed outward from the axis of the rod. (a) How much charge per unit length exists on the copper rod? (b) What would be the electric flux through a cube of side 5 cm situated such that the rod passes through opposite sides of the cube perpendicularly?",
+        "Image Links": [],
+        "Answer": "a. $$\\vec{\\mathbf{\\text{E}}} = \\frac{R \\sigma_{0}}{\\varepsilon_{0}} \\frac{1}{r} \\mathbf{\\hat{\\text{r}}} \\Rightarrow \\sigma_{0} = 5.31 \\times 10^{-11} \\text{C} \\text{/} \\text{m}^{2} ,$$ $$\\lambda = 3.33 \\times 10^{-12} \\text{C} \\text{/} \\text{m}$$ ; b. $$\\text{Phi} = \\frac{q_{\\text{enc}}}{\\varepsilon_{0}} = \\frac{3.33 \\times 10^{-12} \\text{C} \\text{/} \\text{m} ( 0.05 \\text{m} )}{\\varepsilon_{0}} = 0.019 \\text{N} \\cdotp \\text{m}^{2} \\text{/} \\text{C}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Applying Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "A long copper cylindrical shell of inner radius 2 cm and outer radius 3 cm surrounds concentrically a charged long aluminum rod of radius 1 cm with a charge density of 4 pC/m. All charges on the aluminum rod reside at its surface. The inner surface of the copper shell has exactly opposite charge to that of the aluminum rod while the outer surface of the copper shell has the same charge as the aluminum rod. Find the magnitude and direction of the electric field at points that are at the following distances from the center of the aluminum rod: (a) 0.5 cm, (b) 1.5 cm, (c) 2.5 cm, (d) 3.5 cm, and (e) 7 cm.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Applying Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "Charge is distributed uniformly with a density $$\\rho$$ throughout an infinitely long cylindrical volume of radius R . Show that the field of this charge distribution is directed radially with respect to the cylinder and that $$\\left .\\begin{matrix}{} \\\\  \\\\ E = \\frac{\\rho r}{2 \\varepsilon_{0}} &  &  & ( r \\le R ) ; \\\\ E = \\frac{\\rho R^{2}}{2 \\varepsilon_{0} r} &  &  & ( r \\geq R ) .\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$E 2 \\pi r l = \\frac{\\rho \\pi r^{2} l}{\\varepsilon_{0}} \\Rightarrow E = \\frac{\\rho r}{2 \\varepsilon_{0}} ( r \\le R )$$ ; $$E 2 \\pi r l = \\frac{\\rho \\pi R^{2} l}{\\varepsilon_{0}} \\Rightarrow E = \\frac{\\rho R^{2}}{2 \\varepsilon_{0} r} ( r \\geq R )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Applying Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "Charge is distributed throughout a very long cylindrical volume of radius R such that the charge density increases with the distance r from the central axis of the cylinder according to $$\\rho = \\alpha r ,$$ where $$\\alpha$$ is a constant. Show that the field of this charge distribution is directed radially with respect to the cylinder and that $$\\left .\\begin{matrix}{} \\\\  \\\\ E = \\frac{\\alpha r^{2}}{3 \\varepsilon_{0}} &  &  & ( r \\le R ) ; \\\\ E = \\frac{\\alpha R^{3}}{3 \\varepsilon_{0} r} &  &  & ( r \\geq R ) .\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Applying Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "The electric field 10.0 cm from the surface of a copper ball of radius 5.0 cm is directed toward the ball\u2019s center and has magnitude $$4.0 \\times 10^{2} \\text{N/C} \\text{.}$$ How much charge is on the surface of the ball?",
+        "Image Links": [],
+        "Answer": "$$\\text{Phi} = \\frac{q_{\\text{enc}}}{\\varepsilon_{0}} \\Rightarrow q_{\\text{enc}} = -1.0 \\times 10^{-9} \\text{C}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Applying Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "Charge is distributed throughout a spherical shell of inner radius $$r_{1}$$ and outer radius $$r_{2}$$ with a volume density given by $$\\rho = \\rho_{0} r_{1} \\text{/} r ,$$ where $$\\rho_{0}$$ is a constant. Determine the electric field due to this charge as a function of r , the distance from the center of the shell.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Applying Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "Charge is distributed throughout a spherical volume of radius R with a density $$\\rho = \\alpha r^{2} ,$$ where $$\\alpha$$ is a constant. Determine the electric field due to the charge at points both inside and outside the sphere.",
+        "Image Links": [],
+        "Answer": "$$q_{\\text{enc}} = \\frac{4}{5} \\pi \\alpha r^{5} ,$$ $$E 4 \\pi r^{2} = \\frac{4 \\pi \\alpha r^{5}}{5 \\varepsilon_{0}} \\Rightarrow E = \\frac{\\alpha r^{3}}{5 \\varepsilon_{0}} ( r \\le R ) ,$$ $$q_{\\text{enc}} = \\frac{4}{5} \\pi \\alpha R^{5} , E 4 \\pi r^{2} = \\frac{4 \\pi \\alpha R^{5}}{5 \\varepsilon_{0}} \\Rightarrow E = \\frac{\\alpha R^{5}}{5 \\varepsilon_{0} r^{2}} ( r \\geq R )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Applying Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "Consider a uranium nucleus to be sphere of radius $$R = 7.4 \\times 10^{-15} \\text{m}$$ with a charge of 92 e distributed uniformly throughout its volume. (a) What is the electric force exerted on an electron when it is $$3.0 \\times 10^{-15} \\text{m}$$ from the center of the nucleus? (b) What is the acceleration of the electron at this point?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Applying Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "The volume charge density of a spherical charge distribution is given by $$\\rho ( r ) = \\rho_{0} e^{\\text{unicode[:-]} \\alpha r} ,$$ where $$\\rho_{0}$$ and $$\\alpha$$ are constants. What is the electric field produced by this charge distribution?",
+        "Image Links": [],
+        "Answer": "integrate by parts: $$q_{\\text{enc}} = 4 \\pi \\rho_{0} [ \\text{unicode[:-]} e^{\\text{unicode[:-]} \\alpha r} ( \\frac{( r )^{2}}{\\alpha} + \\frac{2 r}{\\alpha^{2}} + \\frac{2}{\\alpha^{3}} ) + \\frac{2}{\\alpha^{3}} ] \\Rightarrow E = \\frac{\\rho_{0}}{r^{2} \\varepsilon_{0}} [ \\text{unicode[:-]} e^{\\text{unicode[:-]} \\alpha r} ( \\frac{( r )^{2}}{\\alpha} + \\frac{2 r}{\\alpha^{2}} + \\frac{2}{\\alpha^{3}} ) + \\frac{2}{\\alpha^{3}} ]$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Conductors in Electrostatic Equilibrium",
+        "Problem Statement": "",
+        "Question": "An uncharged conductor with an internal cavity is shown in the following figure. Use the closed surface S along with Gauss\u2019 law to show that when a charge q is placed in the cavity a total charge - q is induced on the inner surface of the conductor. What is the charge on the outer surface of the conductor? Figure 6.46 A charge inside a cavity of a metal. Charges at the outer surface do not depend on how the charges are distributed at the inner surface since E field inside the body of the metal is zero.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3a2dd598cc02d01dd06595e20d3c0ad18a3e8213"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Conductors in Electrostatic Equilibrium",
+        "Problem Statement": "",
+        "Question": "An uncharged spherical conductor S of radius R has two spherical cavities A and B of radii a and b , respectively as shown below. Two point charges $$+ q_{a}$$ and $$+ q_{b}$$ are placed at the center of the two cavities by using non-conducting supports. In addition, a point charge $$+ q_{0}$$ is placed outside at a distance r from the center of the sphere. (a) Draw approximate charge distributions in the metal although metal sphere has no net charge. (b) Draw electric field lines. Draw enough lines to represent all distinctly different places.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/22464a606733de1a39a43f84822179e21bff4b41"
+        ],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ca5aa2d9a4124d40a406fd2966feb2f1337b8d95"
+        ]
+    },
+    {
+        "Topic": "6.4 Conductors in Electrostatic Equilibrium",
+        "Problem Statement": "",
+        "Question": "A positive point charge is placed at the angle bisector of two uncharged plane conductors that make an angle of $$45 \\text{\u00b0} .$$ See below. Draw the electric field lines.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7c7e5d23b7eb7195e59733c332c596286baffb3f"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Conductors in Electrostatic Equilibrium",
+        "Problem Statement": "",
+        "Question": "A long cylinder of copper of radius 3 cm is charged so that it has a uniform charge per unit length on its surface of 3 C/m. (a) Find the electric field inside and outside the cylinder. (b) Draw electric field lines in a plane perpendicular to the rod.",
+        "Image Links": [],
+        "Answer": "a. Outside: $$E 2 \\pi r l = \\frac{\\lambda l}{\\varepsilon_{0}} \\Rightarrow E = \\frac{3.0 \\text{C} \\text{/} \\text{m}}{2 \\pi \\varepsilon_{0} r}$$ ; Inside $$E_{\\text{in}} = 0$$ ; b.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a6a66966f90913bc13594320a137f8db52c3b5ec"
+        ]
+    },
+    {
+        "Topic": "6.4 Conductors in Electrostatic Equilibrium",
+        "Problem Statement": "",
+        "Question": "An aluminum spherical ball of radius 4 cm is charged with $$5 \\mu \\text{C}$$ of charge. A copper spherical shell of inner radius 6 cm and outer radius 8 cm surrounds it. A total charge of $$-8 \\mu \\text{C}$$ is put on the copper shell. (a) Find the electric field at all points in space, including points inside the aluminum and copper shell when copper shell and aluminum sphere are concentric. (b) Find the electric field at all points in space, including points inside the aluminum and copper shell when the centers of copper shell and aluminum sphere are 1 cm apart.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Conductors in Electrostatic Equilibrium",
+        "Problem Statement": "",
+        "Question": "A long cylinder of aluminum of radius R meters is charged so that it has a uniform charge per unit length on its surface of $$\\lambda$$ . (a) Find the electric field inside and outside the cylinder. (b) Plot electric field as a function of distance from the center of the rod.",
+        "Image Links": [],
+        "Answer": "a. $$E 2 \\pi r l = \\frac{\\lambda l}{\\varepsilon_{0}} \\Rightarrow E = \\frac{\\lambda}{2 \\pi \\varepsilon_{0} r} r \\geq R$$ E inside equals 0; b.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ed18ae668d12b32702eef73628277635f87247c3"
+        ]
+    },
+    {
+        "Topic": "6.4 Conductors in Electrostatic Equilibrium",
+        "Problem Statement": "",
+        "Question": "At the surface of any conductor in electrostatic equilibrium, $$E = \\sigma \\text{/} \\varepsilon_{0} .$$ Show that this equation is consistent with the fact that $$E = k q \\text{/} r^{2}$$ at the surface of a spherical conductor.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Conductors in Electrostatic Equilibrium",
+        "Problem Statement": "",
+        "Question": "Two parallel plates 10 cm on a side are given equal and opposite charges of magnitude $$5.0 \\times 10^{-9} \\text{C} \\text{.}$$ The plates are 1.5 mm apart. What is the electric field at the center of the region between the plates?",
+        "Image Links": [],
+        "Answer": "$$E = 5.65 \\times 10^{4} \\text{N} \\text{/} \\text{C}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Conductors in Electrostatic Equilibrium",
+        "Problem Statement": "",
+        "Question": "Two parallel conducting plates, each of cross-sectional area $$400 \\text{cm}^{2}$$ , are 2.0 cm apart and uncharged. If $$1.0 \\times 10^{12}$$ electrons are transferred from one plate to the other, what are (a) the charge density on each plate? (b) The electric field between the plates?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Conductors in Electrostatic Equilibrium",
+        "Problem Statement": "",
+        "Question": "The surface charge density on a long straight metallic pipe is $$\\sigma$$ . What is the electric field outside and inside the pipe? Assume the pipe has a diameter of 2 a .",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/fb45282600c97460aa63430822fa271cb9ca5f08"
+        ],
+        "Answer": "$$\\lambda = \\frac{\\lambda l}{\\varepsilon_{0}} \\Rightarrow E = \\frac{a \\sigma}{\\varepsilon_{0} r}$$ for $$r \\geq a$$ , $$E = 0$$ inside since $$q \\text{enclosed} = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Conductors in Electrostatic Equilibrium",
+        "Problem Statement": "",
+        "Question": "A point charge $$q = -5.0 \\times 10^{-12} \\text{C}$$ is placed at the center of a spherical conducting shell of inner radius 3.5 cm and outer radius 4.0 cm. The electric field just above the surface of the conductor is directed radially outward and has magnitude 8.0 N/C. (a) What is the charge density on the inner surface of the shell? (b) What is the charge density on the outer surface of the shell? (c) What is the net charge on the conductor?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Conductors in Electrostatic Equilibrium",
+        "Problem Statement": "",
+        "Question": "A solid cylindrical conductor of radius a is surrounded by a concentric cylindrical shell of inner radius b . The solid cylinder and the shell carry charges + Q and - Q , respectively. Assuming that the length L of both conductors is much greater than a or b , determine the electric field as a function of r , the distance from the common central axis of the cylinders, for (a) $$r < a ;$$ (b) $$a < r < b ;$$ and (c) $$r > b .$$",
+        "Image Links": [],
+        "Answer": "a. $$E = 0$$ ; b. $$E 2 \\pi r L = \\frac{Q}{\\varepsilon_{0}} \\Rightarrow E = \\frac{Q}{2 \\pi \\varepsilon_{0} r L}$$ ; c. $$E = 0$$ since r would be either inside the second shell or if outside then q enclosed equals 0.",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "Topic": "Check Your Understanding 6.1",
+        "Problem Statement": "",
+        "Question": "What angle should there be between the electric field and the surface shown in Figure 6.11 in the previous example so that no electric flux passes through the surface?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5263f2a50504ca549fb2737f2f2397db436b71ee"
+        ],
+        "Answer": "Place it so that its unit normal is perpendicular to $$\\vec{\\mathbf{\\text{E}}} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 6.2",
+        "Problem Statement": "",
+        "Question": "If the electric field in Example 6.4 is $$\\mathbf{\\vec{\\text{E}}} = m x \\mathbf{\\hat{\\text{k}}} ,$$ what is the flux through the rectangular area?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0f0127d4ef91bc0489b599c37e5955ff5fedb435"
+        ],
+        "Answer": "$$m a b^{2} \\text{/} 2$$",
+        "Answer Image Links": []
+    }
+]

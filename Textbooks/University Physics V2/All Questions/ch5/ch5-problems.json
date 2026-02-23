@@ -1,0 +1,614 @@
+[
+    {
+        "Topic": "5.1 Electric Charge",
+        "Problem Statement": "",
+        "Question": "Common static electricity involves charges ranging from nanocoulombs to microcoulombs. (a) How many electrons are needed to form a charge of -2.00 nC? (b) How many electrons must be removed from a neutral object to leave a net charge of $$0.500 \\mu \\text{C}$$ ?",
+        "Image Links": [],
+        "Answer": "a. $$2.00 \\times 10^{-9} \\text{C} ( \\frac{1}{1.602 \\times 10^{-19}} \\text{e/C} ) = 1.248 \\times 10^{10} \\text{electrons}$$ ; b. $$0.500 \\times 10^{-6} \\text{C} ( \\frac{1}{1.602 \\times 10^{-19}} \\text{e/C} ) = 3.121 \\times 10^{12} \\text{electrons}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.1 Electric Charge",
+        "Problem Statement": "",
+        "Question": "If $$1.80 \\times 10^{20}$$ electrons move through a pocket calculator during a full day\u2019s operation, how many coulombs of charge moved through it?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.1 Electric Charge",
+        "Problem Statement": "",
+        "Question": "To start a car engine, the car battery moves $$3.75 \\times 10^{21}$$ electrons through the starter motor. How many coulombs of charge were moved?",
+        "Image Links": [],
+        "Answer": "$$\\frac{3.750 \\times 10^{21} \\text{e}}{6.242 \\times 10^{18} \\text{e} \\text{/} \\text{C}} = -600.8 \\text{C}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.1 Electric Charge",
+        "Problem Statement": "",
+        "Question": "A certain lightning bolt moves 40.0 C of charge. How many fundamental units of charge is this?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.1 Electric Charge",
+        "Problem Statement": "",
+        "Question": "A 2.5-g copper penny is given a charge of $$-2.0 \\times 10^{-9} \\text{C}$$ . (a) How many excess electrons are on the penny? (b) By what percent do the excess electrons change the mass of the penny?",
+        "Image Links": [],
+        "Answer": "a. $$2.0 \\times 10^{-9} \\text{C} ( 6.242 \\times 10^{18} \\text{e} \\text{/} \\text{C} ) = 1.248 \\times 10^{10} \\text{e}$$ ; b. $$9.109 \\times 10^{-31} \\text{kg} ( 1.248 \\times 10^{10} \\text{e} ) = 1.137 \\times 10^{-20} \\text{kg} ,$$ $$\\frac{1.137 \\times 10^{-20} \\text{kg}}{2.5 \\times 10^{-3} \\text{kg}} = 4.548 \\times 10^{-18} \\text{or} 4.545 \\times 10^{-16} \\text{%}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.1 Electric Charge",
+        "Problem Statement": "",
+        "Question": "A 2.5-g copper penny is given a charge of $$4.0 \\times 10^{-9} \\text{C}$$ . (a) How many electrons are removed from the penny? (b) If no more than one electron is removed from an atom, what percent of the atoms are ionized by this charging process?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 Conductors, Insulators, and Charging by Induction",
+        "Problem Statement": "",
+        "Question": "Suppose a speck of dust in an electrostatic precipitator has $$1.0000 \\times 10^{12}$$ protons in it and has a net charge of -5.00 nC (a very large charge for a small speck). How many electrons does it have?",
+        "Image Links": [],
+        "Answer": "$$5.00 \\times 10^{-9} \\text{C} ( 6.242 \\times 10^{18} \\text{e} \\text{/} \\text{C} ) = 3.121 \\times 10^{10} \\text{e}$$ ; $$3.121 \\times 10^{10} \\text{e} \\text{+} 1.0000 \\times 10^{12} \\text{e} = 1.0312 \\times 10^{12} \\text{e}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 Conductors, Insulators, and Charging by Induction",
+        "Problem Statement": "",
+        "Question": "An amoeba has $$1.00 \\times 10^{16}$$ protons and a net charge of 0.300 pC. (a) How many fewer electrons are there than protons? (b) If you paired them up, what fraction of the protons would have no electrons?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 Conductors, Insulators, and Charging by Induction",
+        "Problem Statement": "",
+        "Question": "A 50.0-g ball of copper has a net charge of $$2.00 \\mu \\text{C}$$ . What fraction of the copper\u2019s electrons has been removed? (Each copper atom has 29 protons, and copper has an atomic mass of 63.5.)",
+        "Image Links": [],
+        "Answer": "atomic mass of copper atom times $$1 \\text{u} = 1.055 \\times 10^{-25} \\text{kg}$$ ; number of copper atoms $$= 4.739 \\times 10^{23} \\text{atoms}$$ ; number of electrons equals 29 times number of atoms or $$1.374 \\times 10^{25} \\text{electrons}$$ ; $$\\frac{2.00 \\times 10^{-6} \\text{C} ( 6.242 \\times 10^{18} \\text{e} \\text{/} \\text{C} )}{1.374 \\times 10^{25} \\text{e}} = 9.083 \\times 10^{-13} \\text{or} 9.083 \\times 10^{-11} \\text{%}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 Conductors, Insulators, and Charging by Induction",
+        "Problem Statement": "",
+        "Question": "What net charge would you place on a 100-g piece of sulfur if you put an extra electron on 1 in $$10^{12}$$ of its atoms? (Sulfur has an atomic mass of 32.1 u.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 Conductors, Insulators, and Charging by Induction",
+        "Problem Statement": "",
+        "Question": "How many coulombs of positive charge are there in 4.00 kg of plutonium, given its atomic mass is 244 and that each plutonium atom has 94 protons?",
+        "Image Links": [],
+        "Answer": "$$244.00 \\text{u} ( 1.66 \\times 10^{-27} \\text{kg} \\text{/} \\text{u} ) = 4.050 \\times 10^{-25} \\text{kg}$$ ; $$\\frac{4.00 \\text{kg}}{4.050 \\times 10^{-25} \\text{kg}} = 9.877 \\times 10^{24} \\text{atoms} 9.877 \\times 10^{24} ( 94 ) = 9.284 \\times 10^{26} \\text{protons}$$ ; $$9.284 \\times 10^{26} ( 1.602 \\times 10^{-19} \\text{C} \\text{/} \\text{p} ) = 1.487 \\times 10^{8} \\text{C}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 Coulomb's Law",
+        "Problem Statement": "",
+        "Question": "Two point particles with charges $$\\text{+3} \\mu \\text{C}$$ and $$\\text{+5} \\mu \\text{C}$$ are held in place by 3-N forces on each charge in appropriate directions. (a) Draw a free-body diagram for each particle. (b) Find the distance between the charges.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 Coulomb's Law",
+        "Problem Statement": "",
+        "Question": "Two charges $$\\text{+3} \\mu \\text{C}$$ and $$\\text{+12} \\mu \\text{C}$$ are fixed 1 m apart, with the second one to the right. Find the magnitude and direction of the net force on a -2-nC charge when placed at the following locations: (a) halfway between the two (b) half a meter to the left of the $$\\text{+3} \\mu \\text{C}$$ charge (c) half a meter above the $$\\text{+12} \\mu \\text{C}$$ charge in a direction perpendicular to the line joining the two fixed charges",
+        "Image Links": [],
+        "Answer": "a. charge 1 is $$3 \\mu \\text{C}$$ ; charge 2 is $$12 \\mu \\text{C}$$ , $$\\text{F}_{31} = 2.16 \\times 10^{-4} \\text{N}$$ to the left, $$\\text{F}_{32} = 8.63 \\times 10^{-4} \\text{N}$$ to the right, $$\\text{F}_{\\text{net}} = 6.47 \\times 10^{-4} \\text{N}$$ to the right; b. $$\\text{F}_{31} = 2.16 \\times 10^{-4} \\text{N}$$ to the right, $$\\text{F}_{32} = 9.59 \\times 10^{-5} \\text{N}$$ to the right, $$\\text{F}_{\\text{net}} = 3.12 \\times 10^{-4} \\text{N}$$ to the right, ; c. $$\\mathbf{\\vec{\\text{F}}}_{31 x} = -3.86 \\times 10^{-5} \\text{N} \\mathbf{\\hat{\\text{i}}}$$ , $$\\mathbf{\\vec{\\text{F}}}_{31 y} = -1.73 \\times 10^{-5} \\text{N} \\mathbf{\\hat{\\text{j}}}$$ , $$\\mathbf{\\vec{\\text{F}}}_{32 y} = -8.63 \\times 10^{-4} \\text{N} \\mathbf{\\hat{\\text{j}}}$$ $$\\left .\\begin{matrix}{aa}\\mathbf{\\vec{\\text{F}}}_{\\text{net}} & = -3.86 \\times 10^{-5} \\text{N} \\mathbf{\\hat{\\text{i}}} - 8.82 \\times 10^{-4} \\text{N} \\mathbf{\\hat{\\text{j}}}\\end{matrix}\\right .$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/575d046f25e0a744881bb0330c3646d275524d4c"
+        ]
+    },
+    {
+        "Topic": "5.3 Coulomb's Law",
+        "Problem Statement": "",
+        "Question": "In a salt crystal, the distance between adjacent sodium and chloride ions is $$2.82 \\times 10^{-10} \\text{m} .$$ What is the force of attraction between the two singly charged ions?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 Coulomb's Law",
+        "Problem Statement": "",
+        "Question": "Protons in an atomic nucleus are typically $$10^{-15} \\text{m}$$ apart. What is the electric force of repulsion between nuclear protons?",
+        "Image Links": [],
+        "Answer": "$$F = 230.7 \\text{N}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 Coulomb's Law",
+        "Problem Statement": "",
+        "Question": "Suppose Earth and the Moon each carried a net negative charge - Q . Approximate both bodies as point masses and point charges. (a) What value of Q is required to balance the gravitational attraction between Earth and the Moon? (b) Does the distance between Earth and the Moon affect your answer? Explain. (c) How many electrons would be needed to produce this charge?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 Coulomb's Law",
+        "Problem Statement": "",
+        "Question": "Point charges $$q_{1} = 50 \\mu \\text{C}$$ and $$q_{2} = -25 \\mu \\text{C}$$ are placed 1.0 m apart. What is the force on a third charge $$q_{3} = 20 \\mu \\text{C}$$ placed midway between $$q_{1}$$ and $$q_{2}$$ ?",
+        "Image Links": [],
+        "Answer": "$$F = 53.94 \\text{N}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 Coulomb's Law",
+        "Problem Statement": "",
+        "Question": "Where must $$q_{3}$$ of the preceding problem be placed so that the net force on it is zero?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 Coulomb's Law",
+        "Problem Statement": "",
+        "Question": "Two small balls, each of mass 5.0 g, are attached to silk threads 50 cm long, which are in turn tied to the same point on the ceiling, as shown below. When the balls are given the same charge Q , the threads hang at $$5.0 \\text{\u00b0}$$ to the vertical, as shown below. What is the magnitude of Q ? What are the signs of the two charges?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d5fc89951950405107fcc82c3a576378635796d6"
+        ],
+        "Answer": "The tension is $$T = 0.049 \\text{N}$$ . The horizontal component of the tension is $$0.0043 \\text{N}$$ $$d = 0.088 \\text{m} , q = 6.1 \\times 10^{-8} \\text{C}$$ . The charges can be positive or negative, but both have to be the same sign.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 Coulomb's Law",
+        "Problem Statement": "",
+        "Question": "Point charges $$Q_{1} = 2.0 \\mu \\text{C}$$ and $$Q_{2} = 4.0 \\mu \\text{C}$$ are located at $$\\mathbf{\\vec{\\text{r}}}_{1} = ( 4.0 \\mathbf{\\hat{\\text{i}}} - 2.0 \\mathbf{\\hat{\\text{j}}} + 5.0 \\mathbf{\\hat{\\text{k}}} ) \\text{m}$$ and $$\\mathbf{\\vec{\\text{r}}}_{2} = ( 8.0 \\mathbf{\\hat{\\text{i}}} + 5.0 \\mathbf{\\hat{\\text{j}}} - 9.0 \\mathbf{\\hat{\\text{k}}} ) \\text{m}$$ . What is the force of $$Q_{2}$$ on $$Q_{1}$$ ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 Coulomb's Law",
+        "Problem Statement": "",
+        "Question": "The net excess charge on two small spheres (small enough to be treated as point charges) is Q . Show that the force of repulsion between the spheres is greatest when each sphere has an excess charge Q /2. Assume that the distance between the spheres is so large compared with their radii that the spheres can be treated as point charges.",
+        "Image Links": [],
+        "Answer": "Let the charge on one of the spheres be nQ , where n is a fraction between 0 and 1. In the numerator of Coulomb\u2019s law, the term involving the charges is $$n Q ( 1 - n ) Q .$$ This is equal to $$( n - n^{2} ) Q^{2}$$ . Finding the maximum of this term gives $$1 - 2 n = 0 \\Rightarrow n = \\frac{1}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 Coulomb's Law",
+        "Problem Statement": "",
+        "Question": "Two small, identical conducting spheres repel each other with a force of 0.050 N when they are 0.25 m apart. After a conducting wire is connected between the spheres and then removed, they repel each other with a force of 0.060 N. What is the original charge on each sphere?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 Coulomb's Law",
+        "Problem Statement": "",
+        "Question": "A charge $$q = 2.0 \\mu \\text{C}$$ is placed at the point P shown below. What is the force on q ?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/389cace87942cefaf711d55e5d1fa885449867b3"
+        ],
+        "Answer": "Define right to be the positive direction and hence left is the negative direction, then $$F = -0.05 \\text{N}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 Coulomb's Law",
+        "Problem Statement": "",
+        "Question": "What is the net electric force on the charge located at the lower right-hand corner of the triangle shown here?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2098281f5b43f6b34841135a717ccca74345e8bc"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 Coulomb's Law",
+        "Problem Statement": "",
+        "Question": "Two fixed particles, each of charge $$5.0 \\times 10^{-6} \\text{C} ,$$ are 24 cm apart. What force do they exert on a third particle of charge $$-2.5 \\times 10^{-6} \\text{C}$$ that is 13 cm from each of them?",
+        "Image Links": [],
+        "Answer": "The particles form triangle of sides 13, 13, and 24 cm. The x -components cancel, whereas there is a contribution to the y -component from both charges 24 cm apart. The y -axis passing through the third charge bisects the 24-cm line, creating two right triangles of sides 5, 12, and 13 cm. $$F_{y} = 2.56 \\text{N}$$ in the negative y -direction since the force is attractive. The net force from both charges is $$\\mathbf{\\vec{\\text{F}}}_{\\text{net}} = -5.12 \\text{N} \\mathbf{\\hat{\\text{j}}}$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 Coulomb's Law",
+        "Problem Statement": "",
+        "Question": "The charges $$q_{1} = 2.0 \\times 10^{-7} \\text{C,} q_{2} = -4.0 \\times 10^{-7} \\text{C,}$$ and $$q_{3} = -1.0 \\times 10^{-7} \\text{C}$$ are placed at the corners of the triangle shown below. What is the force on $$q_{1} ?$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b0761d4bbb61dfa6edc17d8c90604ec9c1c96799"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 Coulomb's Law",
+        "Problem Statement": "",
+        "Question": "What is the force on the charge q at the lower-right-hand corner of the square shown here?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ddfd43692d3cb37251fd07040006bd24a11a5f78"
+        ],
+        "Answer": "The diagonal is $$\\sqrt{2} a$$ and the components of the force due to the diagonal charge has a factor $$\\text{cos} \\theta = \\frac{1}{\\sqrt{2}}$$ ; $$\\mathbf{\\vec{\\text{F}}}_{\\text{net}} = [ k \\frac{q^{2}}{a^{2}} + k \\frac{q^{2}}{2 a^{2}} \\frac{1}{\\sqrt{2}} ] \\mathbf{\\hat{\\text{i}}} - [ k \\frac{q^{2}}{a^{2}} + k \\frac{q^{2}}{2 a^{2}} \\frac{1}{\\sqrt{2}} ] \\mathbf{\\hat{\\text{j}}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 Coulomb's Law",
+        "Problem Statement": "",
+        "Question": "Point charges $$q_{1} = 10 \\mu \\text{C}$$ and $$q_{2} = -30 \\mu \\text{C}$$ are fixed at $$r_{1} = ( 3.0 \\mathbf{\\hat{\\text{i}}} - 4.0 \\mathbf{\\hat{\\text{j}}} ) \\text{m}$$ and $$r_{2} = ( 9.0 \\mathbf{\\hat{\\text{i}}} + 6.0 \\mathbf{\\hat{\\text{j}}} ) \\text{m} .$$ What is the force of $$q_{2} \\text{on} q_{1}$$ ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.4 Electric Field",
+        "Problem Statement": "",
+        "Question": "A particle of charge $$2.0 \\times 10^{-8} \\text{C}$$ experiences an upward force of magnitude $$4.0 \\times 10^{-6} \\text{N}$$ when it is placed in a particular point in an electric field. (a) What is the electric field at that point? (b) If a charge $$q = -1.0 \\times 10^{-8} \\text{C}$$ is placed there, what is the force on it?",
+        "Image Links": [],
+        "Answer": "a. $$E = 2.0 \\times 10^{2} \\frac{\\text{N}}{\\text{C}}$$ up; b. $$F = 2.0 \\times 10^{-6} \\text{N}$$ down",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.4 Electric Field",
+        "Problem Statement": "",
+        "Question": "On a typical clear day, the atmospheric electric field points downward and has a magnitude of approximately 100 N/C. Compare the gravitational and electric forces on a small dust particle of mass $$2.0 \\times 10^{-15} \\text{g}$$ that carries a single electron charge. What is the acceleration (both magnitude and direction) of the dust particle?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.4 Electric Field",
+        "Problem Statement": "",
+        "Question": "Consider an electron that is $$10^{-10} \\text{m}$$ from an alpha particle $$( q = 3.2 \\times 10^{-19} \\text{C} ) .$$ (a) What is the electric field due to the alpha particle at the location of the electron? (b) What is the electric field due to the electron at the location of the alpha particle? (c) What is the electric force on the alpha particle? On the electron?",
+        "Image Links": [],
+        "Answer": "a. $$E = 2.88 \\times 10^{11} \\text{N} \\text{/} \\text{C}$$ ; b. $$E = 1.44 \\times 10^{11} \\text{N} \\text{/} \\text{C}$$ ; c. $$F = 4.61 \\times 10^{-8} \\text{N}$$ on alpha particle; $$F = 4.61 \\times 10^{-8} \\text{N}$$ on electron",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.4 Electric Field",
+        "Problem Statement": "",
+        "Question": "Each of the balls shown below carries a charge q and has a mass m . The length of each thread is l , and at equilibrium, the balls are separated by an angle $$2 \\theta$$ . How does $$\\theta$$ vary with q and l ? Show that $$\\theta$$ satisfies $$\\text{sin} ( \\theta )^{2} \\text{tan} ( \\theta ) = \\frac{q^{2}}{16 \\pi \\varepsilon_{0} g l^{2} m}$$ .",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3ba514831e8fb70efddcfe8a9ecf2f1e3a1ccef6"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.4 Electric Field",
+        "Problem Statement": "",
+        "Question": "What is the electric field at a point where the force on a $$-2.0 \\times 10^{-6} \\text{unicode[:-]C}$$ charge is $$( 4.0 \\mathbf{\\hat{\\text{i}}} - 6.0 \\mathbf{\\hat{\\text{j}}} ) \\times 10^{-6} \\text{N?}$$",
+        "Image Links": [],
+        "Answer": "$$E = ( -2.0 \\mathbf{\\hat{\\text{i}}} + 3.0 \\mathbf{\\hat{\\text{j}}} ) \\text{N}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.4 Electric Field",
+        "Problem Statement": "",
+        "Question": "A proton is suspended in the air by an electric field at the surface of Earth. What is the strength of this electric field?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.4 Electric Field",
+        "Problem Statement": "",
+        "Question": "The electric field in a particular thundercloud is $$2.0 \\times 10^{5} \\text{N/C} .$$ What is the acceleration of an electron in this field?",
+        "Image Links": [],
+        "Answer": "$$F = 3.204 \\times 10^{-14} \\text{N}$$ , $$a = 3.517 \\times 10^{16} \\text{m} \\text{/} \\text{s}^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.4 Electric Field",
+        "Problem Statement": "",
+        "Question": "A small piece of cork whose mass is 2.0 g is given a charge of $$5.0 \\times 10^{-7} \\text{C} .$$ What electric field is needed to place the cork in equilibrium under the combined electric and gravitational forces?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.4 Electric Field",
+        "Problem Statement": "",
+        "Question": "If the electric field is $$100 \\text{N/C}$$ at a distance of 50 cm from a point charge q , what is the value of q ?",
+        "Image Links": [],
+        "Answer": "$$q = 2.78 \\times 10^{-9} \\text{C}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.4 Electric Field",
+        "Problem Statement": "",
+        "Question": "What is the electric field of a proton at the first Bohr orbit for hydrogen $$( r = 5.29 \\times 10^{-11} \\text{m} ) ?$$ What is the force on the electron in that orbit?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.4 Electric Field",
+        "Problem Statement": "",
+        "Question": "(a) What is the electric field of an oxygen nucleus at a point that is $$10^{-10} \\text{m}$$ from the nucleus? (b) What is the force this electric field exerts on a second oxygen nucleus placed at that point?",
+        "Image Links": [],
+        "Answer": "a. $$E = 1.15 \\times 10^{12} \\text{N} \\text{/} \\text{C}$$ ; b. $$F = 1.47 \\times 10^{-6} \\text{N}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.4 Electric Field",
+        "Problem Statement": "",
+        "Question": "Two point charges, $$q_{1} = 2.0 \\times 10^{-7} \\text{C}$$ and $$q_{2} = -6.0 \\times 10^{-8} \\text{C} ,$$ are held 25.0 cm apart. (a) What is the electric field at a point 5.0 cm from the negative charge and along the line between the two charges? (b)What is the force on an electron placed at that point?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.4 Electric Field",
+        "Problem Statement": "",
+        "Question": "Point charges $$q_{1} = 50 \\mu \\text{C}$$ and $$q_{2} = -25 \\mu \\text{C}$$ are placed 1.0 m apart. (a) What is the electric field at a point midway between them? (b) What is the force on a charge $$q_{3} = 20 \\mu \\text{C}$$ situated there?",
+        "Image Links": [],
+        "Answer": "If the $$q_{2}$$ is to the right of $$q_{1} ,$$ the electric field vector from both charges point to the right. a. $$E = 2.70 \\times 10^{6} \\text{N} \\text{/} \\text{C}$$ ; b. $$F = 54.0 \\text{N}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.4 Electric Field",
+        "Problem Statement": "",
+        "Question": "Can you arrange the two point charges $$q_{1} = -2.0 \\times 10^{-6} \\text{C}$$ and $$q_{2} = 4.0 \\times 10^{-6} \\text{C}$$ along the x -axis so that $$E = 0$$ at the origin?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.4 Electric Field",
+        "Problem Statement": "",
+        "Question": "Point charges $$q_{1} = q_{2} = 4.0 \\times 10^{-6} \\text{C}$$ are fixed on the x -axis at $$x = -3.0 \\text{m}$$ and $$x = 3.0 \\text{m} .$$ What charge q must be placed at the origin so that the electric field vanishes at $$x = 0 , y = 3.0 \\text{m} ?$$",
+        "Image Links": [],
+        "Answer": "There is $$45 \\text{\u00b0}$$ right triangle geometry. The x -components of the electric field at $$y = 3 \\text{m}$$ cancel. The y -components give $$E ( y = 3 \\text{m} ) = 2.83 \\times 10^{3} \\text{N} \\text{/} \\text{C}$$ . At the origin we have a a negative charge of magnitide $$q = -2.83 \\times 10^{-6} \\text{C}$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.5 Calculating Electric Fields of Charge Distributions",
+        "Problem Statement": "",
+        "Question": "A thin conducting plate 1.0 m on the side is given a charge of $$-2.0 \\times 10^{-6} \\text{C}$$ . An electron is placed 1.0 cm above the center of the plate. What is the acceleration of the electron?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.5 Calculating Electric Fields of Charge Distributions",
+        "Problem Statement": "",
+        "Question": "Calculate the magnitude and direction of the electric field 2.0 m from a long wire that is charged uniformly at $$\\lambda = 4.0 \\times 10^{-6} \\text{C/m} .$$",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\vec{\\text{E}}} ( z ) = 3.6 \\times 10^{4} \\text{N} \\text{/} \\text{C} \\mathbf{\\hat{\\text{k}}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.5 Calculating Electric Fields of Charge Distributions",
+        "Problem Statement": "",
+        "Question": "Two thin conducting plates, each 25.0 cm on a side, are situated parallel to one another and 5.0 mm apart. If $$10^{11}$$ electrons are moved from one plate to the other, what is the electric field between the plates?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.5 Calculating Electric Fields of Charge Distributions",
+        "Problem Statement": "",
+        "Question": "The charge per unit length on the thin rod shown below is $$\\lambda$$ . What is the electric field at the point P ? ( Hint : Solve this problem by first considering the electric field $$d \\mathbf{\\vec{\\text{E}}}$$ at P due to a small segment dx of the rod, which contains charge $$d q = \\lambda d x$$ . Then find the net field by integrating $$d \\mathbf{\\vec{\\text{E}}}$$ over the length of the rod.)",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/550055eb6ac43c50d79625bc229d831208bb679c"
+        ],
+        "Answer": "$$d E = \\frac{1}{4 \\pi \\varepsilon_{0}} \\frac{\\lambda d x}{( x + a )^{2}} , E = \\frac{\\lambda}{4 \\pi \\varepsilon_{0}} [ \\frac{1}{l + a} - \\frac{1}{a} ]$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.5 Calculating Electric Fields of Charge Distributions",
+        "Problem Statement": "",
+        "Question": "The charge per unit length on the thin semicircular wire shown below is $$\\lambda$$ . What is the electric field at the point P ?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/bf94117dbe8bd5669edcb21c1393cc5daaaef396"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.5 Calculating Electric Fields of Charge Distributions",
+        "Problem Statement": "",
+        "Question": "Two thin parallel conducting plates are placed 2.0 cm apart. Each plate is 2.0 cm on a side; one plate carries a net charge of $$8.0 \\mu \\text{C} ,$$ and the other plate carries a net charge of $$-8.0 \\mu \\text{C} .$$ What is the charge density on the inside surface of each plate? What is the electric field between the plates?",
+        "Image Links": [],
+        "Answer": "$$\\sigma = 0.02 \\text{C} \\text{/} \\text{m}^{2} E = 2.26 \\times 10^{9} \\text{N} \\text{/} \\text{C}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.5 Calculating Electric Fields of Charge Distributions",
+        "Problem Statement": "",
+        "Question": "A thin conducting plate 2.0 m on a side is given a total charge of $$-10.0 \\mu \\text{C}$$ . (a) What is the electric field $$1.0 \\text{cm}$$ above the plate? (b) What is the force on an electron at this point? (c) Repeat these calculations for a point 2.0 cm above the plate. (d) When the electron moves from 1.0 to 2,0 cm above the plate, how much work is done on it by the electric field?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.5 Calculating Electric Fields of Charge Distributions",
+        "Problem Statement": "",
+        "Question": "A total charge q is distributed uniformly along a thin, straight rod of length L (see below). What is the electric field at $$P_{1} ? \\text{At} P_{2} ?$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/bfb52f8d3afcbcc6b80abf6485460599cd691098"
+        ],
+        "Answer": "At $$P_{1}$$ : $$\\mathbf{\\vec{\\text{E}}} ( y ) = \\frac{1}{4 \\pi \\varepsilon_{0}} \\frac{\\lambda L}{y \\sqrt{y^{2} + \\frac{L^{2}}{4}}} \\mathbf{\\hat{\\text{j}}} \\Rightarrow \\frac{1}{4 \\pi \\varepsilon_{0}} \\frac{q}{\\frac{a}{2} \\sqrt{( \\frac{a}{2} )^{2} + \\frac{L^{2}}{4}}} \\mathbf{\\hat{\\text{j}}} = \\frac{1}{\\pi \\varepsilon_{0}} \\frac{q}{a \\sqrt{a^{2} + L^{2}}} \\mathbf{\\hat{\\text{j}}}$$ At $$P_{2} \\text{:}$$ Put the origin at the end of L . $$d E = \\frac{1}{4 \\pi \\varepsilon_{0}} \\frac{\\lambda d x}{( x + a )^{2}} , \\mathbf{\\vec{\\text{E}}} = - \\frac{q}{4 \\pi \\varepsilon_{0} l} [ \\frac{1}{l + a} - \\frac{1}{a} ] \\mathbf{\\hat{\\text{i}}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.5 Calculating Electric Fields of Charge Distributions",
+        "Problem Statement": "",
+        "Question": "Charge is distributed along the entire x -axis with uniform density $$\\lambda .$$ How much work does the electric field of this charge distribution do on an electron that moves along the y -axis from $$y = a \\text{to} y = b ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.5 Calculating Electric Fields of Charge Distributions",
+        "Problem Statement": "",
+        "Question": "Charge is distributed along the entire x -axis with uniform density $$\\lambda_{x}$$ and along the entire y -axis with uniform density $$\\lambda_{y} .$$ Calculate the resulting electric field at (a) $$\\mathbf{\\vec{\\text{r}}} = a \\mathbf{\\hat{\\text{i}}} + b \\mathbf{\\hat{\\text{j}}}$$ and (b) $$\\mathbf{\\vec{\\text{r}}} = c \\mathbf{\\hat{\\text{k}}} .$$",
+        "Image Links": [],
+        "Answer": "a. $$\\mathbf{\\vec{\\text{E}}} ( \\mathbf{\\vec{\\text{r}}} ) = \\frac{1}{4 \\pi \\varepsilon_{0}} \\frac{2 \\lambda_{y}}{a} \\mathbf{\\hat{\\text{i}}} + \\frac{1}{4 \\pi \\varepsilon_{0}} \\frac{2 \\lambda_{x}}{b} \\mathbf{\\hat{\\text{j}}}$$ ; b. $$\\frac{1}{4 \\pi \\varepsilon_{0}} \\frac{2 ( \\lambda_{x} + \\lambda_{y} )}{c} \\mathbf{\\hat{\\text{k}}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.5 Calculating Electric Fields of Charge Distributions",
+        "Problem Statement": "",
+        "Question": "A rod bent into the arc of a circle subtends an angle $$2 \\theta$$ at the center P of the circle (see below). If the rod is charged uniformly with a total charge Q , what is the electric field at P ?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9d97c65aa42a017774a43d6cf8a952a093c7be07"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.5 Calculating Electric Fields of Charge Distributions",
+        "Problem Statement": "",
+        "Question": "A proton moves in the electric field $$\\mathbf{\\vec{\\text{E}}} = 200 \\mathbf{\\hat{\\text{i}}} \\text{N/C} .$$ (a) What are the force on and the acceleration of the proton? (b) Do the same calculation for an electron moving in this field.",
+        "Image Links": [],
+        "Answer": "a. $$\\mathbf{\\vec{\\text{F}}} = 3.2 \\times 10^{-17} \\text{N} \\mathbf{\\hat{\\text{i}}}$$ , $$\\mathbf{\\vec{\\text{a}}} = 1.92 \\times 10^{10} \\text{m} \\text{/} \\text{s}^{2} \\mathbf{\\hat{\\text{i}}}$$ ; b. $$\\mathbf{\\vec{\\text{F}}} = -3.2 \\times 10^{-17} \\text{N} \\mathbf{\\hat{\\text{i}}}$$ , $$\\mathbf{\\vec{\\text{a}}} = -3.51 \\times 10^{13} \\text{m} \\text{/} \\text{s}^{2} \\mathbf{\\hat{\\text{i}}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.5 Calculating Electric Fields of Charge Distributions",
+        "Problem Statement": "",
+        "Question": "An electron and a proton, each starting from rest, are accelerated by the same uniform electric field of 200 N/C. Determine the distance and time for each particle to acquire a kinetic energy of $$3.2 \\times 10^{-16} \\text{J} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.5 Calculating Electric Fields of Charge Distributions",
+        "Problem Statement": "",
+        "Question": "A spherical water droplet of radius $$25 \\mu \\text{m}$$ carries an excess 250 electrons. What vertical electric field is needed to balance the gravitational force on the droplet at the surface of the earth?",
+        "Image Links": [],
+        "Answer": "$$m = 6.5 \\times 10^{-11} \\text{kg}$$ , $$E = 1.6 \\times 10^{7} \\text{N} \\text{/} \\text{C}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.5 Calculating Electric Fields of Charge Distributions",
+        "Problem Statement": "",
+        "Question": "A proton enters the uniform electric field produced by the two charged plates shown below. The magnitude of the electric field is $$4.0 \\times 10^{5} \\text{N/C} ,$$ and the speed of the proton when it enters is $$1.5 \\times 10^{7} \\text{m/s} .$$ What distance d has the proton been deflected downward when it leaves the plates?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7c280770168bc97a658c444f1a30fbb322fbcb54"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.5 Calculating Electric Fields of Charge Distributions",
+        "Problem Statement": "",
+        "Question": "Shown below is a small sphere of mass 0.25 g that carries a charge of $$9.0 \\times 10^{-10} \\text{C} .$$ The sphere is attached to one end of a very thin silk string 5.0 cm long. The other end of the string is attached to a large vertical conducting plate that has a charge density of $$30 \\times 10^{-6} \\text{C/m}^{2} .$$ What is the angle that the string makes with the vertical?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9b0e8808f90e0aa954af928b15f553af91e5d177"
+        ],
+        "Answer": "$$E = 1.70 \\times 10^{6} \\text{N} \\text{/} \\text{C}$$ , $$F = 1.53 \\times 10^{-3} \\text{N} T \\text{cos} \\theta = m g T \\text{sin} \\theta = q E$$ , $$\\text{tan} \\theta = 0.62 \\Rightarrow \\theta = 32.0 \\text{\u00b0}$$ , This is independent of the length of the string.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.5 Calculating Electric Fields of Charge Distributions",
+        "Problem Statement": "",
+        "Question": "Two infinite rods, each carrying a uniform charge density $$\\lambda ,$$ are parallel to one another and perpendicular to the plane of the page. (See below.) What is the electrical field at $$P_{1} ? \\text{At} P_{2} ?$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/da74e72d5c528666e76f89e456f4b749badb6613"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.5 Calculating Electric Fields of Charge Distributions",
+        "Problem Statement": "",
+        "Question": "Positive charge is distributed with a uniform density $$\\lambda$$ along the positive x -axis from $$r \\text{to} \\infty ,$$ along the positive y -axis from $$r \\text{to} \\infty ,$$ and along a $$90 \\text{\u00b0}$$ arc of a circle of radius r , as shown below. What is the electric field at O ?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1071d7af24a426c0efffa781cb3f1c5e781d0fc8"
+        ],
+        "Answer": "circular arc $$d E_{x} ( \\text{unicode[:-]} \\mathbf{\\hat{\\text{i}}} ) = \\frac{1}{4 \\pi \\varepsilon_{0}} \\frac{\\lambda d s}{r^{2}} \\text{cos} \\theta ( \\text{unicode[:-]} \\mathbf{\\hat{\\text{i}}} )$$ , $$\\mathbf{\\vec{\\text{E}}}_{x} = \\frac{\\lambda}{4 \\pi \\varepsilon_{0} r} ( \\text{unicode[:-]} \\mathbf{\\hat{\\text{i}}} )$$ , $$d E_{y} ( \\text{unicode[:-]} \\mathbf{\\hat{\\text{i}}} ) = \\frac{1}{4 \\pi \\varepsilon_{0}} \\frac{\\lambda d s}{r^{2}} \\text{sin} \\theta ( \\text{unicode[:-]} \\mathbf{\\hat{\\text{j}}} )$$ , $$\\mathbf{\\vec{\\text{E}}}_{y} = \\frac{\\lambda}{4 \\pi \\varepsilon_{0} r} ( \\text{unicode[:-]} \\mathbf{\\hat{\\text{j}}} )$$ ; y -axis: $$\\mathbf{\\vec{\\text{E}}}_{x} = \\frac{\\lambda}{4 \\pi \\varepsilon_{0} r} ( \\text{unicode[:-]} \\mathbf{\\hat{\\text{i}}} )$$ ; x -axis: $$\\mathbf{\\vec{\\text{E}}}_{y} = \\frac{\\lambda}{4 \\pi \\varepsilon_{0} r} ( \\text{unicode[:-]} \\mathbf{\\hat{\\text{j}}} )$$ , $$\\mathbf{\\vec{\\text{E}}} = \\frac{\\lambda}{2 \\pi \\varepsilon_{0} r} ( \\text{unicode[:-]} \\mathbf{\\hat{\\text{i}}} ) + \\frac{\\lambda}{2 \\pi \\varepsilon_{0} r} ( \\text{unicode[:-]} \\mathbf{\\hat{\\text{j}}} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.5 Calculating Electric Fields of Charge Distributions",
+        "Problem Statement": "",
+        "Question": "From a distance of 10 cm, a proton is projected with a speed of $$v = 4.0 \\times 10^{6} \\text{m/s}$$ directly at a large, positively charged plate whose charge density is $$\\sigma = 2.0 \\times 10^{-5} \\text{C/m}^{2} .$$ (See below.) (a) Does the proton reach the plate? (b) If not, how far from the plate does it turn around?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/dc796d68b6e472b4d820b51e6ba3c80c732e8d04"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.5 Calculating Electric Fields of Charge Distributions",
+        "Problem Statement": "",
+        "Question": "A particle of mass m and charge $$\\text{unicode[:-]} q$$ moves along a straight line away from a fixed particle of charge Q . When the distance between the two particles is $$r_{0} , \\text{unicode[:-]} q$$ is moving with a speed $$v_{0} .$$ (a) Use the work-energy theorem to calculate the maximum separation of the charges. (b) What do you have to assume about $$v_{0}$$ to make this calculation? (c) What is the minimum value of $$v_{0}$$ such that $$\\text{unicode[:-]} q$$ escapes from Q ?",
+        "Image Links": [],
+        "Answer": "a. $$W = \\frac{1}{2} m ( v^{2} - v_{0}^{2} )$$ , $$\\frac{Q q}{4 \\pi \\varepsilon_{0}} ( \\frac{1}{r} - \\frac{1}{r_{0}} ) = \\frac{1}{2} m ( v^{2} - v_{0}^{2} ) \\Rightarrow r_{0} - r = \\frac{4 \\pi \\varepsilon_{0}}{Q q} \\frac{1}{2} r r_{0} m ( v^{2} - v_{0}^{2} )$$ ; b. $$r_{0} - r$$ is negative; therefore, $$v_{0} > v$$ , $$r \\vec{} \\infty , \\text{and} v \\vec{} 0 \\text{:} \\frac{Q q}{4 \\pi \\varepsilon_{0}} ( - \\frac{1}{r_{0}} ) = - \\frac{1}{2} m v_{0}^{2} \\Rightarrow v_{0} = \\sqrt{\\frac{Q q}{2 \\pi \\varepsilon_{0} m r_{0}}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.6 Electric Field Lines",
+        "Problem Statement": "",
+        "Question": "Which of the following electric field lines are incorrect for point charges? Explain why.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5894de3b04c6aa33ca05a74d220374a6ab976ebb"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.6 Electric Field Lines",
+        "Problem Statement": "",
+        "Question": "In this exercise, you will practice drawing electric field lines. Make sure you represent both the magnitude and direction of the electric field adequately. Note that the number of lines into or out of charges is proportional to the charges. (a) Draw the electric field lines map for two charges $$\\text{+} 20 \\mu \\text{C}$$ and $$-20 \\mu \\text{C}$$ situated 5 cm from each other. (b) Draw the electric field lines map for two charges $$\\text{+} 20 \\mu \\text{C}$$ and $$\\text{+} 20 \\mu \\text{C}$$ situated 5 cm from each other. (c) Draw the electric field lines map for two charges $$\\text{+} 20 \\mu \\text{C}$$ and $$-30 \\mu \\text{C}$$ situated 5 cm from each other.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1ca77b58863f287d5f7f7d70924b49fce65fe2e8"
+        ]
+    },
+    {
+        "Topic": "5.6 Electric Field Lines",
+        "Problem Statement": "",
+        "Question": "Draw the electric field for a system of three particles of charges $$\\text{+} 1 \\mu \\text{C} ,$$ $$\\text{+} 2 \\mu \\text{C} ,$$ and $$-3 \\mu \\text{C}$$ fixed at the corners of an equilateral triangle of side 2 cm.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.6 Electric Field Lines",
+        "Problem Statement": "",
+        "Question": "Two charges of equal magnitude but opposite sign make up an electric dipole. A quadrupole consists of two electric dipoles that are placed anti-parallel at two edges of a square as shown. Draw the electric field of the charge distribution.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a1b237490f0930473250dc9121850ff98fee7f47"
+        ],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2b6b95bcc0dff8f15b2310427454a412a11c8fba"
+        ]
+    },
+    {
+        "Topic": "5.6 Electric Field Lines",
+        "Problem Statement": "",
+        "Question": "Suppose the electric field of an isolated point charge decreased with distance as $$1 \\text{/} r^{2 + \\delta}$$ rather than as $$1 \\text{/} r^{2}$$ . Show that it is then impossible to draw continous field lines so that their number per unit area is proportional to E .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.7 Electric Dipoles",
+        "Problem Statement": "",
+        "Question": "Consider the equal and opposite charges shown below. (a) Show that at all points on the x -axis for which $$| x | \\gg a , E \\approx {Q a \\text{/} 2 \\pi \\varepsilon}_{0} x^{3} .$$ (b) Show that at all points on the y -axis for which $$| y | \\gg a , E \\approx {Q a \\text{/} \\pi \\varepsilon}_{0} y^{3} .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/08e7ee5c8faa143e4f479d91215be0ed69341fca"
+        ],
+        "Answer": "$$E_{x} = 0 ,$$ $$E_{y} = \\frac{1}{4 \\pi \\varepsilon_{0}} [ \\frac{2 q}{( x^{2} + a^{2} )} \\frac{a}{\\sqrt{( x^{2} + a^{2} )}} ]$$ $$\\Rightarrow x \\gg a \\Rightarrow \\frac{1}{2 \\pi \\varepsilon_{0}} \\frac{q a}{x^{3}}$$ , $$E_{y} = \\frac{q}{4 \\pi \\varepsilon_{0}} [ \\frac{2 y a + 2 y a}{( y - a )^{2} ( y + a )^{2}} ]$$ $$\\Rightarrow y \\gg a \\Rightarrow \\frac{1}{\\pi \\varepsilon_{0}} \\frac{q a}{y^{3}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.7 Electric Dipoles",
+        "Problem Statement": "",
+        "Question": "(a) What is the dipole moment of the configuration shown above? If $$Q = 4.0 \\mu \\text{C}$$ , (b) what is the torque on this dipole with an electric field of $$4.0 \\times 10^{5} \\text{N/C} \\mathbf{\\hat{\\text{i}}}$$ ? (c) What is the torque on this dipole with an electric field of $$-4.0 \\times 10^{5} \\text{N/C} \\mathbf{\\hat{\\text{i}}}$$ ? (d) What is the torque on this dipole with an electric field of $$\\pm 4.0 \\times 10^{5} \\text{N/C} \\mathbf{\\hat{\\text{j}}}$$ ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.7 Electric Dipoles",
+        "Problem Statement": "",
+        "Question": "A water molecule consists of two hydrogen atoms bonded with one oxygen atom. The bond angle between the two hydrogen atoms is $$104 \\text{\u00b0}$$ (see below). Calculate the net dipole moment of a hypothetical water molecule where the charge at the oxygen molecule is -2e and at each hydrogen atom is +e. The net dipole moment of the molecule is the vector sum of the individual dipole moment between the two O-Hs. The separation O-H is 0.9578 angstroms.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c0d9079b8e9f8dcfbac849f6e0604718660d4dc3"
+        ],
+        "Answer": "The net dipole moment of the molecule is the vector sum of the individual dipole moments between the two O-H. The separation O-H is 0.9578 angstroms: $$\\mathbf{\\vec{\\text{p}}} = 1.889 \\times 10^{-29} \\text{Cm} \\mathbf{\\hat{\\text{i}}}$$",
+        "Answer Image Links": []
+    }
+]

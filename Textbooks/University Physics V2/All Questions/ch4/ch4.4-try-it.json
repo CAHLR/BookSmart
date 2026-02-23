@@ -1,0 +1,20 @@
+[
+    {
+        "Topic": "Check Your Understanding 4.1",
+        "Problem Statement": "",
+        "Question": "What is the efficiency of a perfect heat engine? What is the coefficient of performance of a perfect refrigerator?",
+        "Image Links": [],
+        "Answer": "A perfect heat engine would have $$Q_{\\text{c}} = 0$$ , which would lead to $$e = 1 - Q_{\\text{c}} \\text{/} Q_{\\text{h}} = 1 .$$ A perfect refrigerator would need zero work, that is, $$W = 0$$ , which leads to $$K_{\\text{R}} = Q_{\\text{c}} \\text{/} W \\vec{} \\infty .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 4.2",
+        "Problem Statement": "",
+        "Question": "Show that $$Q_{\\text{h}} - Q_{\\text{h}}^{\\prime} = Q_{\\text{c}} - Q_{\\text{c}}^{\\prime}$$ for the hypothetical engine of Figure 4.10(b).",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3a00400d54a47c713942444c32fe7394e209294c"
+        ],
+        "Answer": "From the engine on the right, we have $$W = Q_{\\text{h}}^{\\prime} - Q_{\\text{c}}^{\\prime} .$$ From the refrigerator on the right, we have $$Q_{\\text{h}} = Q_{\\text{c}} + W .$$ Thus, $$W = Q_{\\text{h}}^{\\prime} - Q_{\\text{c}}^{\\prime} = Q_{\\text{h}} - Q_{\\text{c}} .$$",
+        "Answer Image Links": []
+    }
+]

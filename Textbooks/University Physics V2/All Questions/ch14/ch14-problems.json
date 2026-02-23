@@ -1,0 +1,388 @@
+[
+    {
+        "Topic": "14.1 Mutual Inductance",
+        "Problem Statement": "",
+        "Question": "When the current in one coil changes at a rate of 5.6 A/s, an emf of $$6.3 \\times 10^{-3} \\text{V}$$ is induced in a second, nearby coil. What is the mutual inductance of the two coils?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.1 Mutual Inductance",
+        "Problem Statement": "",
+        "Question": "An emf of $$9.7 \\times 10^{-3} \\text{V}$$ is induced in a coil while the current in a nearby coil is decreasing at a rate of 2.7 A/s. What is the mutual inductance of the two coils?",
+        "Image Links": [],
+        "Answer": "$$M = 3.6 \\times 10^{-3} \\text{H}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.1 Mutual Inductance",
+        "Problem Statement": "",
+        "Question": "Two coils close to each other have a mutual inductance of 32 mH. If the current in one coil decays according to $$I = I_{0} e^{\\text{unicode[:-]} \\alpha t}$$ , where $$I_{0} = 5.0 \\text{A}$$ and $$\\alpha = 2.0 \\times 10^{3} \\text{s}^{-1} ,$$ what is the emf induced in the second coil immediately after the current starts to decay? At $$t = 1.0 \\times 10^{-3} \\text{s} ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.1 Mutual Inductance",
+        "Problem Statement": "",
+        "Question": "A coil of 40 turns is wrapped around a long solenoid of cross-sectional area $$7.5 \\times 10^{-3} \\text{m}^{2} .$$ The solenoid is 0.50 m long and has 500 turns. (a) What is the mutual inductance of this system? (b) The outer coil is replaced by a coil of 40 turns whose radius is three times that of the solenoid. What is the mutual inductance of this configuration?",
+        "Image Links": [],
+        "Answer": "a. $$3.8 \\times 10^{-4} \\text{H}$$ ; b. $$3.8 \\times 10^{-4} \\text{H}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.1 Mutual Inductance",
+        "Problem Statement": "",
+        "Question": "A 600-turn solenoid is 0.55 m long and 4.2 cm in diameter. Inside the solenoid, a small $$( 1.1 \\text{cm} \\times 1.4 \\text{cm} ) ,$$ single-turn rectangular coil is fixed in place with its face perpendicular to the long axis of the solenoid. What is the mutual inductance of this system?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.1 Mutual Inductance",
+        "Problem Statement": "",
+        "Question": "A toroidal coil has a mean radius of 16 cm and a cross-sectional area of $$0.25 \\text{cm}^{2}$$ ; it is wound uniformly with 1000 turns. A second toroidal coil of 750 turns is wound uniformly over the first coil. Ignoring the variation of the magnetic field within a toroid, determine the mutual inductance of the two coils.",
+        "Image Links": [],
+        "Answer": "$$M_{21} = 2.3 \\times 10^{-5} \\text{H}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.1 Mutual Inductance",
+        "Problem Statement": "",
+        "Question": "A solenoid of $$N_{1}$$ turns has length $$l_{1}$$ and radius $$R_{1} ,$$ and a second smaller solenoid of $$N_{2}$$ turns has length $$l_{2}$$ and radius $$R_{2}$$ . The smaller solenoid is placed completely inside the larger solenoid so that their long axes coincide. What is the mutual inductance of the two solenoids?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.2 Self-Inductance and Inductors",
+        "Problem Statement": "",
+        "Question": "An emf of 0.40 V is induced across a coil when the current through it changes uniformly from 0.10 to 0.60 A in 0.30 s. What is the self-inductance of the coil?",
+        "Image Links": [],
+        "Answer": "0.24 H",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.2 Self-Inductance and Inductors",
+        "Problem Statement": "",
+        "Question": "The current shown in part (a) below is increasing, whereas that shown in part (b) is decreasing. In each case, determine which end of the inductor is at the higher potential.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/755812acc2806cce30800c5026153ae65912c2b3"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.2 Self-Inductance and Inductors",
+        "Problem Statement": "",
+        "Question": "What is the rate at which the current though a 0.30-H coil is changing if an emf of 0.12 V is induced across the coil?",
+        "Image Links": [],
+        "Answer": "0.4 A/s",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.2 Self-Inductance and Inductors",
+        "Problem Statement": "",
+        "Question": "When a camera uses a flash, a fully charged capacitor discharges through an inductor. In what time must the 0.100-A current through a 2.00-mH inductor be switched on or off to induce a 500-V emf?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.2 Self-Inductance and Inductors",
+        "Problem Statement": "",
+        "Question": "A coil with a self-inductance of 2.0 H carries a current that varies with time according to $$I ( t ) = ( 2.0 \\text{A} ) \\text{sin} 120 \\pi t .$$ Find an expression for the emf induced in the coil.",
+        "Image Links": [],
+        "Answer": "$$\\varepsilon = 480 \\pi \\text{sin} ( 120 \\pi t - \\pi \\text{/} 2 ) \\text{V}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.2 Self-Inductance and Inductors",
+        "Problem Statement": "",
+        "Question": "A solenoid 50 cm long is wound with 500 turns of wire. The cross-sectional area of the coil is $$2.0 \\text{cm}^{2}$$ What is the self-inductance of the solenoid?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.2 Self-Inductance and Inductors",
+        "Problem Statement": "",
+        "Question": "A coil with a self-inductance of 3.0 H carries a current that decreases at a uniform rate $$d I \\text{/} d t = -0.050 \\text{A/s}$$ . What is the emf induced in the coil? Describe the polarity of the induced emf.",
+        "Image Links": [],
+        "Answer": "0.15 V. This is the same polarity as the emf driving the current.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.2 Self-Inductance and Inductors",
+        "Problem Statement": "",
+        "Question": "The current I(t) through a 5.0-mH inductor varies with time, as shown below. The resistance of the inductor is $$5.0 \\text{omega} .$$ Calculate the voltage across the inductor at $$t = 2.0 \\text{ms} , t = 4.0 \\text{ms} , \\text{and} t = 8.0 \\text{ms}$$ .",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f4bcc08379a1703c089f1f4bbff01ced3df5de63"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.2 Self-Inductance and Inductors",
+        "Problem Statement": "",
+        "Question": "A long, cylindrical solenoid with 100 turns per centimeter has a radius of 1.5 cm. (a) Neglecting end effects, what is the self-inductance per unit length of the solenoid? (b) If the current through the solenoid changes at the rate 5.0 A/s, what is the emf induced per unit length?",
+        "Image Links": [],
+        "Answer": "a. 0.089 H/m; b. 0.44 V/m",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.2 Self-Inductance and Inductors",
+        "Problem Statement": "",
+        "Question": "Suppose that a rectangular toroid has 2000 windings and a self-inductance of 0.040 H. If $$h = 0.10 \\text{m}$$ , what is the ratio of its outer radius to its inner radius?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e29cf8abc733bdfd17aacfdd93c00db560ac57c0"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.2 Self-Inductance and Inductors",
+        "Problem Statement": "",
+        "Question": "What is the self-inductance per meter of a coaxial cable whose inner radius is 0.50 mm and whose outer radius is 4.00 mm?",
+        "Image Links": [],
+        "Answer": "$$\\frac{L}{l} = 4.16 \\times 10^{-7} \\text{H/m}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.3 Energy in a Magnetic Field",
+        "Problem Statement": "",
+        "Question": "At the instant a current of 0.20 A is flowing through a coil of wire, the energy stored in its magnetic field is $$6.0 \\times 10^{-3} \\text{J} .$$ What is the self-inductance of the coil?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.3 Energy in a Magnetic Field",
+        "Problem Statement": "",
+        "Question": "Suppose that a rectangular toroid has 2000 windings and a self-inductance of 0.040 H. If $$h = 0.10 \\text{m}$$ , what is the current flowing through a rectangular toroid when the energy in its magnetic field is $$2.0 \\times 10^{-6} \\text{J} ?$$",
+        "Image Links": [],
+        "Answer": "0.01 A",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.3 Energy in a Magnetic Field",
+        "Problem Statement": "",
+        "Question": "Solenoid A is tightly wound while solenoid B has windings that are evenly spaced with a gap equal to the diameter of the wire. The solenoids are otherwise identical. Determine the ratio of the energies stored per unit length of these solenoids when the same current flows through each.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.3 Energy in a Magnetic Field",
+        "Problem Statement": "",
+        "Question": "A 10-H inductor carries a current of 20 A. How much ice at $$0 \\text{\u00b0} \\text{C}$$ could be melted by the energy stored in the magnetic field of the inductor? ( Hint : Use the value $$L_{\\text{f}} = 334 \\text{J/g}$$ for ice.)",
+        "Image Links": [],
+        "Answer": "6.0 g",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.3 Energy in a Magnetic Field",
+        "Problem Statement": "",
+        "Question": "A coil with a self-inductance of 3.0 H and a resistance of $$100 \\text{omega}$$ carries a steady current of 2.0 A. (a) What is the energy stored in the magnetic field of the coil? (b) What is the energy per second dissipated in the resistance of the coil?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.3 Energy in a Magnetic Field",
+        "Problem Statement": "",
+        "Question": "A current of 1.2 A is flowing in a coaxial cable whose outer radius is five times its inner radius. What is the magnetic field energy stored in a 3.0-m length of the cable?",
+        "Image Links": [],
+        "Answer": "$$U_{\\text{m}} = 7.0 \\times 10^{-7} \\text{J}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.4 RL Circuits",
+        "Problem Statement": "",
+        "Question": "In Figure 14.12, $$\\varepsilon = 12 \\text{V}$$ , $$L = 20 \\text{mH}$$ , and $$R = 5.0 \\text{omega}$$ . Determine (a) the time constant of the circuit, (b) the initial current through the resistor, (c) the final current through the resistor, (d) the current through the resistor when $$t = 2 \\tau_{L} ,$$ and (e) the voltages across the inductor and the resistor when $$t = 2 \\tau_{L} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.4 RL Circuits",
+        "Problem Statement": "",
+        "Question": "For the circuit shown below, $$\\varepsilon = 20 \\text{V}$$ , $$L = 4.0 \\text{mH,}$$ and $$R = 5.0 \\text{omega}$$ . After steady state is reached with $$\\text{S}_{1}$$ closed and $$\\text{S}_{2}$$ open, $$\\text{S}_{2}$$ is closed and immediately thereafter $$( \\text{at} t = 0 )$$ $$\\text{S}_{1}$$ is opened. Determine (a) the current through L at $$t = 0$$ , (b) the current through L at $$t = 4.0 \\times 10^{-4} \\text{s}$$ , and (c) the voltages across L and $$R_{2}$$ at $$t = 4.0 \\times 10^{-4} \\text{s}$$ . $$R_{1} = R_{2} = R$$ .",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/344ce09652b51fed232660a2a83952a238d48f70"
+        ],
+        "Answer": "a. 4.0 A; b. 2.4 A; c. on R : $$V = 12 \\text{V}$$ ; on L : $$V = 7.9 \\text{V}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.4 RL Circuits",
+        "Problem Statement": "",
+        "Question": "The current in the RL circuit shown here increases to $$40 \\text{%}$$ of its steady-state value in 2.0 s. What is the time constant of the circuit?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/75889990ae67e160a9888030e2b9f4c0face6a20"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.4 RL Circuits",
+        "Problem Statement": "",
+        "Question": "How long after switch $$\\text{S}_{1}$$ is thrown does it take the current in the circuit shown to reach half its maximum value? Express your answer in terms of the time constant of the circuit.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b71211bb2a0af351e01afe698dc41ff3cee4aa14"
+        ],
+        "Answer": "$$0.69 \\tau$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.4 RL Circuits",
+        "Problem Statement": "",
+        "Question": "Examine the circuit shown below in part (a). Determine dI/dt at the instant after the switch is thrown in the circuit of (a), thereby producing the circuit of (b). Show that if I were to continue to increase at this initial rate, it would reach its maximum $$\\varepsilon \\text{/} R$$ in one time constant.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/097d5bd5ed3cc768e9054351f04a17c22487c28f"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.4 RL Circuits",
+        "Problem Statement": "",
+        "Question": "The current in the RL circuit shown below reaches half its maximum value in 1.75 ms after the switch $$\\text{S}_{1}$$ is thrown. Determine (a) the time constant of the circuit and (b) the resistance of the circuit if $$L = 250 \\text{mH}$$ .",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/fcf69a5110d7da1134e7cfc22182cf565a5ab039"
+        ],
+        "Answer": "a. 2.52 ms; b. $$99.2 \\text{omega}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.4 RL Circuits",
+        "Problem Statement": "",
+        "Question": "Consider the circuit shown below. Find $$I_{1} , I_{2} , \\text{and} I_{3}$$ when (a) the switch S is first closed, (b) after the currents have reached steady-state values, and (c) at the instant the switch is reopened (after being closed for a long time).",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7522e500f92deeb0976a2c8d96f0bd3bebbf9c05"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.4 RL Circuits",
+        "Problem Statement": "",
+        "Question": "For the circuit shown below, $$\\varepsilon = 50 \\text{V}$$ , $$R_{1} = 10 \\text{omega,}$$ , $$R_{2} = R_{3} = \\text{19.4 omega,}$$ , and $$L = 2.0 \\text{mH}$$ . Find the values of $$I_{1} \\text{and} I_{2}$$ (a) immediately after switch S is closed, (b) a long time after S is closed, (c) immediately after S is reopened, and (d) a long time after S is reopened.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7963e4e251ce1898e6fd31f2044a6d4281c83b39"
+        ],
+        "Answer": "a. $$I_{1} = I_{2} = 1.7 A$$ ; b. $$I_{1} = 2.54 A , I_{2} = 1.27 A$$ ; c. $$I_{1} = 0 , I_{2} = 1.27 A$$ ; d. $$I_{1} = I_{2} = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.4 RL Circuits",
+        "Problem Statement": "",
+        "Question": "For the circuit shown below, find the current through the inductor $$2.0 \\times 10^{-5} \\text{s}$$ after the switch is reopened.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/86d51b3f006f8cf7382ccc1dca09059929c938ed"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.4 RL Circuits",
+        "Problem Statement": "",
+        "Question": "Show that for the circuit shown below, the initial energy stored in the inductor, $$L I^{2} ( 0 ) \\text{/} 2$$ , is equal to the total energy eventually dissipated in the resistor, $$\\int_{0}^{\\infty} I^{2} ( t ) R d t$$ .",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ab2d703aba3df2d6bbb864826fbd4d1782511103"
+        ],
+        "Answer": "proof",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.5 Oscillations in an LC Circuit",
+        "Problem Statement": "",
+        "Question": "A 5000-pF capacitor is charged to 100 V and then quickly connected to an 80-mH inductor. Determine (a) the maximum energy stored in the magnetic field of the inductor, (b) the peak value of the current, and (c) the frequency of oscillation of the circuit.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.5 Oscillations in an LC Circuit",
+        "Problem Statement": "",
+        "Question": "The self-inductance and capacitance of an LC circuit are 0.20 mH and 5.0 pF. What is the angular frequency at which the circuit oscillates?",
+        "Image Links": [],
+        "Answer": "$$\\upomega = 3.2 \\times 10^{7} \\text{rad/s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.5 Oscillations in an LC Circuit",
+        "Problem Statement": "",
+        "Question": "What is the self-inductance of an LC circuit that oscillates at 60 Hz when the capacitance is $$10 \\mu \\text{F}$$ ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.5 Oscillations in an LC Circuit",
+        "Problem Statement": "",
+        "Question": "In an oscillating LC circuit, the maximum charge on the capacitor is $$2.0 \\times 10^{-6} \\text{C}$$ and the maximum current through the inductor is 8.0 mA. (a) What is the period of the oscillations? (b) How much time elapses between an instant when the capacitor is uncharged and the next instant when it is fully charged?",
+        "Image Links": [],
+        "Answer": "a. $$1.57 \\times 10^{-6} \\text{s}$$ ; b. $$3.93 \\times 10^{-7} \\text{s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.5 Oscillations in an LC Circuit",
+        "Problem Statement": "",
+        "Question": "The self-inductance and capacitance of an oscillating LC circuit are $$L = 20 \\text{mH and} C = 1.0 \\mu \\text{F} ,$$ respectively. (a) What is the frequency of the oscillations? (b) If the maximum potential difference between the plates of the capacitor is 50 V, what is the maximum current in the circuit?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.5 Oscillations in an LC Circuit",
+        "Problem Statement": "",
+        "Question": "In an oscillating LC circuit, the maximum charge on the capacitor is $$q_{m}$$ . Determine the charge on the capacitor and the current through the inductor when energy is shared equally between the electric and magnetic fields. Express your answer in terms of $$q_{m}$$ , L , and C .",
+        "Image Links": [],
+        "Answer": "$$q = \\frac{q_{m}}{\\sqrt{2}} , I = \\frac{q_{m}}{\\sqrt{2 L C}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.5 Oscillations in an LC Circuit",
+        "Problem Statement": "",
+        "Question": "In the circuit shown below, $$\\text{S}_{1}$$ is opened and $$\\text{S}_{2}$$ is closed simultaneously. Determine (a) the frequency of the resulting oscillations, (b) the maximum charge on the capacitor, (c) the maximum current through the inductor, and (d) the electromagnetic energy of the oscillating circuit.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6b7db853cf48fdf7d1417464ee74103537454ee8"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.5 Oscillations in an LC Circuit",
+        "Problem Statement": "",
+        "Question": "An LC circuit in an AM tuner (in a car stereo) uses a coil with an inductance of 2.5 mH and a variable capacitor. If the natural frequency of the circuit is to be adjustable over the range 540 to 1600 kHz (the AM broadcast band), what range of capacitance is required?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.6 RLC Series Circuits",
+        "Problem Statement": "",
+        "Question": "In an oscillating RLC circuit, $$R = 5.0 \\text{omega} , L = 5.0 \\text{mH} , \\text{and} C = 500 \\mu \\text{F} .$$ What is the angular frequency of the oscillations?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.6 RLC Series Circuits",
+        "Problem Statement": "",
+        "Question": "In an oscillating RLC circuit with $$L = 10 \\text{mH} , C = 1.5 \\Micro \\text{F} , \\text{and} R = 2.0 \\text{omega} ,$$ how much time elapses before the amplitude of the oscillations drops to half its initial value?",
+        "Image Links": [],
+        "Answer": "6.9 ms",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "14.6 RLC Series Circuits",
+        "Problem Statement": "",
+        "Question": "What resistance R must be connected in series with a 200-mH inductor and a $$10 \\mu \\text{F}$$ capacitor of the resulting RLC oscillating circuit is to decay to $$50 \\text{%}$$ of its initial value of charge in 50 cycles? To $$0.10 \\text{%}$$ of its initial value in 50 cycles?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,138 @@
+[
+    {
+        "Topic": "2.1 Molecular Model of an Ideal Gas",
+        "Problem Statement": "",
+        "Question": "Two $$\\text{H}_{2}$$ molecules can react with one $$\\text{O}_{2}$$ molecule to produce two $$\\text{H}_{2} \\text{O}$$ molecules. How many moles of hydrogen molecules are needed to react with one mole of oxygen molecules?",
+        "Image Links": [],
+        "Answer": "2 moles, as that will contain twice as many molecules as the 1 mole of oxygen",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.1 Molecular Model of an Ideal Gas",
+        "Problem Statement": "",
+        "Question": "Under what circumstances would you expect a gas to behave significantly differently than predicted by the ideal gas law?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.1 Molecular Model of an Ideal Gas",
+        "Problem Statement": "",
+        "Question": "A constant-volume gas thermometer contains a fixed amount of gas. What property of the gas is measured to indicate its temperature?",
+        "Image Links": [],
+        "Answer": "pressure",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.1 Molecular Model of an Ideal Gas",
+        "Problem Statement": "",
+        "Question": "Inflate a balloon at room temperature. Leave the inflated balloon in the refrigerator overnight. What happens to the balloon, and why?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.1 Molecular Model of an Ideal Gas",
+        "Problem Statement": "",
+        "Question": "In the last chapter, free convection was explained as the result of buoyant forces on hot fluids. Explain the upward motion of air in flames based on the ideal gas law.",
+        "Image Links": [],
+        "Answer": "The flame contains hot gas (heated by combustion). The pressure is still atmospheric pressure, in mechanical equilibrium with the air around it (or roughly so). The density of the hot gas is proportional to its number density N / V (neglecting the difference in composition between the gas in the flame and the surrounding air). At higher temperature than the surrounding air, the ideal gas law says that $$N \\text{/} V = p \\text{/} k_{B} T$$ is less than that of the surrounding air. Therefore the hot air has lower density than the surrounding air and is lifted by the buoyant force.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.2 Pressure, Temperature, and RMS Speed",
+        "Problem Statement": "",
+        "Question": "How is momentum related to the pressure exerted by a gas? Explain on the molecular level, considering the behavior of molecules.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.2 Pressure, Temperature, and RMS Speed",
+        "Problem Statement": "",
+        "Question": "If one kind of molecule has double the radius of another and eight times the mass, how do their mean free paths under the same conditions compare? How do their mean free times compare?",
+        "Image Links": [],
+        "Answer": "The mean free path is inversely proportional to the square of the radius, so it decreases by a factor of 4. The mean free time is proportional to the mean free path and inversely proportional to the rms speed, which in turn is inversely proportional to the square root of the mass. That gives a factor of $$\\sqrt{8}$$ in the numerator, so the mean free time decreases by a factor of $$\\sqrt{2} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.2 Pressure, Temperature, and RMS Speed",
+        "Problem Statement": "",
+        "Question": "What is the average velocity of the air molecules in the room where you are right now?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.2 Pressure, Temperature, and RMS Speed",
+        "Problem Statement": "",
+        "Question": "Why do the atmospheres of Jupiter, Saturn, Uranus, and Neptune, which are much more massive and farther from the Sun than Earth is, contain large amounts of hydrogen and helium?",
+        "Image Links": [],
+        "Answer": "Since they\u2019re more massive, their gravity is stronger, so the escape velocity from them is higher. Since they\u2019re farther from the Sun, they\u2019re colder, so the speeds of atmospheric molecules including hydrogen and helium are lower. The combination of those facts means that relatively few hydrogen and helium molecules have escaped from the outer planets.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.2 Pressure, Temperature, and RMS Speed",
+        "Problem Statement": "",
+        "Question": "Statistical mechanics says that in a gas maintained at a constant temperature through thermal contact with a bigger system (a \u201creservoir\u201d) at that temperature, the fluctuations in internal energy are typically a fraction $$1 \\text{/} \\sqrt{N}$$ of the internal energy. As a fraction of the total internal energy of a mole of gas, how big are the fluctuations in the internal energy? Are we justified in ignoring them?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.2 Pressure, Temperature, and RMS Speed",
+        "Problem Statement": "",
+        "Question": "Which is more dangerous, a closet where tanks of nitrogen are stored, or one where tanks of carbon dioxide are stored?",
+        "Image Links": [],
+        "Answer": "One where carbon dioxide is stored, as excess $$\\text{CO}_{2}$$ will cause a feeling of suffocating, but excess nitrogen and insufficient oxygen will not.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.3 Heat Capacity and Equipartition of Energy",
+        "Problem Statement": "",
+        "Question": "Experimentally it appears that many polyatomic molecules\u2019 vibrational degrees of freedom can contribute to some extent to their energy at room temperature. Would you expect that fact to increase or decrease their heat capacity from the value R ? Explain.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.3 Heat Capacity and Equipartition of Energy",
+        "Problem Statement": "",
+        "Question": "One might think that the internal energy of diatomic gases is given by $$E_{\\text{int}} = 5 R T \\text{/} 2 .$$ Do diatomic gases near room temperature have more or less internal energy than that? Hint: Their internal energy includes the total energy added in raising the temperature from the boiling point (very low) to room temperature.",
+        "Image Links": [],
+        "Answer": "Less, because at lower temperatures their heat capacity was only 3 RT /2.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.3 Heat Capacity and Equipartition of Energy",
+        "Problem Statement": "",
+        "Question": "You mix 5 moles of $$\\text{H}_{2}$$ at 300 K with 5 moles of He at 360 K in a perfectly insulated calorimeter. Is the final temperature higher or lower than 330 K?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.4 Distribution of Molecular Speeds",
+        "Problem Statement": "",
+        "Question": "One cylinder contains helium gas and another contains krypton gas at the same temperature. Mark each of these statements true, false, or impossible to determine from the given information. (a) The rms speeds of atoms in the two gases are the same. (b) The average kinetic energies of atoms in the two gases are the same. (c) The internal energies of 1 mole of gas in each cylinder are the same. (d) The pressures in the two cylinders are the same.",
+        "Image Links": [],
+        "Answer": "a. false; b. true; c. true; d. true",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.4 Distribution of Molecular Speeds",
+        "Problem Statement": "",
+        "Question": "Repeat the previous question if one gas is still helium but the other is changed to fluorine, $$\\text{F}_{2}$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.4 Distribution of Molecular Speeds",
+        "Problem Statement": "",
+        "Question": "An ideal gas is at a temperature of 300 K. To double the average speed of its molecules, what does the temperature need to be changed to?",
+        "Image Links": [],
+        "Answer": "1200 K",
+        "Answer Image Links": []
+    }
+]

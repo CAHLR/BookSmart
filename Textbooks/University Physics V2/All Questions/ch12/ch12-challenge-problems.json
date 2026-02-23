@@ -1,0 +1,30 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The accompanying figure shows a flat, infinitely long sheet of width a that carries a current I uniformly distributed across it. Find the magnetic field at the point P, which is in the plane of the sheet and at a distance x from one edge. Test your result for the limit $$a \\vec{} 0 .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/92b352a0a2b571601398b2065991814f8a2c76b2"
+        ],
+        "Answer": "$$B = \\frac{\\mu_{0} I}{2 \\pi a} \\text{ln} \\frac{x + a}{x} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A hypothetical current flowing in the z -direction creates the field $$\\mathbf{\\vec{B}} = C [ ( x \\text{/} y^{2} ) \\mathbf{\\hat{i}} + ( 1 \\text{/} y ) \\mathbf{\\hat{j}} ]$$ in the rectangular region of the xy -plane shown in the accompanying figure. Use Amp\u00e8re\u2019s law to find the current through the rectangle.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c2800bc02b8aac23b1ad64f448056af2399478c4"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A nonconducting hard rubber circular disk of radius R is painted with a uniform surface charge density $$\\sigma .$$ It is rotated about its axis with angular speed $$\\upomega .$$ (a) Find the magnetic field produced at a point on the axis a distance h meters from the center of the disk. (b) Find the numerical value of magnitude of the magnetic field when $$\\sigma = 1 \\text{C/m}^{2} ,$$ $$R = \\text{20 cm} , h = \\text{2 cm} ,$$ and $$\\upomega = 400 \\text{rad/sec} ,$$ and compare it with the magnitude of magnetic field of Earth, which is about 1/2 Gauss.",
+        "Image Links": [],
+        "Answer": "a. $$B = \\frac{\\mu_{0} \\sigma \\upomega}{2} [ \\frac{2 h^{2} + R^{2}}{\\sqrt{R^{2} + h^{2}}} \\text{unicode[:-]2} h ]$$ ; b. $$B = 4.09 \\times 10^{-5} \\text{T} ,$$ 82% of Earth\u2019s magnetic field",
+        "Answer Image Links": []
+    }
+]

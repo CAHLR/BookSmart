@@ -1,0 +1,494 @@
+[
+    {
+        "Topic": "7.1 Electric Potential Energy",
+        "Problem Statement": "",
+        "Question": "Consider a charge $$Q_{1} ( + 5.0 \\mu \\text{C} )$$ fixed at a site with another charge $$Q_{2}$$ (charge $$+ 3.0 \\mu \\text{C}$$ , mass $$6.0 \\mu \\text{g} )$$ moving in the neighboring space. (a) Evaluate the potential energy of $$Q_{2}$$ when it is 4.0 cm from $$Q_{1} .$$ (b) If $$Q_{2}$$ starts from rest from a point 4.0 cm from $$Q_{1} ,$$ what will be its speed when it is 8.0 cm from $$Q_{1}$$ ? ( Note: $$Q_{1}$$ is held fixed in its place.)",
+        "Image Links": [],
+        "Answer": "a. $$U = 3.4 \\text{J;}$$ b. $$\\frac{1}{2} m v^{2} = Q_{1} Q_{2} ( \\frac{1}{r_{i}} - \\frac{1}{r_{f}} ) \\vec{} v = 2.4 x 10^{4} \\text{m/s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.1 Electric Potential Energy",
+        "Problem Statement": "",
+        "Question": "Two charges $$Q_{1} ( + 2.00 \\mu \\text{C} )$$ and $$Q_{2} ( + 2.00 \\mu \\text{C} )$$ are placed symmetrically along the x -axis at $$x = \\pm 3.00 \\text{cm}$$ . Consider a charge $$Q_{3}$$ of charge $$+ 4.00 \\mu \\text{C}$$ and mass 10.0 mg moving along the y -axis. If $$Q_{3}$$ starts from rest at $$y = 2.00 \\text{cm,}$$ what is its speed when it reaches $$y = 4.00 \\text{cm?}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.1 Electric Potential Energy",
+        "Problem Statement": "",
+        "Question": "To form a hydrogen atom, a proton is fixed at a point and an electron is brought from far away to a distance of $$0.529 \\times 10^{-10} \\text{m,}$$ the average distance between proton and electron in a hydrogen atom. How much work is done?",
+        "Image Links": [],
+        "Answer": "$$U = 4.36 \\times 10^{-18} \\text{J}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.1 Electric Potential Energy",
+        "Problem Statement": "",
+        "Question": "(a) What is the average power output of a heart defibrillator that dissipates 400 J of energy in 10.0 ms? (b) Considering the high-power output, why doesn\u2019t the defibrillator produce serious burns?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Electric Potential and Potential Difference",
+        "Problem Statement": "",
+        "Question": "Find the ratio of speeds of an electron and a negative hydrogen ion (one having an extra electron) accelerated through the same voltage, assuming non-relativistic final speeds. Take the mass of the hydrogen ion to be $$1.67 \\times 10^{-27} \\text{kg} \\text{.}$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{aaa}\\frac{1}{2} m_{e} v_{e}^{2} & = & q V , \\frac{1}{2} m_{\\text{H}} v_{\\text{H}}^{2} = q V , \\text{so that} \\\\ \\frac{m_{e} v_{e}^{2}}{m_{\\text{H}} v_{\\text{H}}^{2}} & = & 1 \\text{or} \\frac{v_{e}}{v_{\\text{H}}} = 42.8\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Electric Potential and Potential Difference",
+        "Problem Statement": "",
+        "Question": "An evacuated tube uses an accelerating voltage of 40 kV to accelerate electrons to hit a copper plate and produce X-rays. Non-relativistically, what would be the maximum speed of these electrons?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Electric Potential and Potential Difference",
+        "Problem Statement": "",
+        "Question": "Show that units of V/m and N/C for electric field strength are indeed equivalent.",
+        "Image Links": [],
+        "Answer": "$$1 \\text{V} = 1 \\text{J/C;} 1 \\text{J} = 1 \\text{N} \\cdotp \\text{m} \\vec{} 1 \\text{V/m} = 1 \\text{N/C}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Electric Potential and Potential Difference",
+        "Problem Statement": "",
+        "Question": "What is the strength of the electric field between two parallel conducting plates separated by 1.00 cm and having a potential difference (voltage) between them of $$1.50 \\times 10^{4} \\text{V}$$ ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Electric Potential and Potential Difference",
+        "Problem Statement": "",
+        "Question": "The electric field strength between two parallel conducting plates separated by 4.00 cm is $$7.50 \\times 10^{4} \\text{V/m}$$ . (a) What is the potential difference between the plates? (b) The plate with the lowest potential is taken to be zero volts. What is the potential 1.00 cm from that plate and 3.00 cm from the other?",
+        "Image Links": [],
+        "Answer": "a. $$V_{A B} = 3.00 \\text{kV}$$ ; b. $$V_{A B} = 750 \\text{V}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Electric Potential and Potential Difference",
+        "Problem Statement": "",
+        "Question": "The voltage across a membrane forming a cell wall is 80.0 mV and the membrane is 9.00 nm thick. What is the electric field strength? (The value is surprisingly large, but correct.) You may assume a uniform electric field.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Electric Potential and Potential Difference",
+        "Problem Statement": "",
+        "Question": "Two parallel conducting plates are separated by 10.0 cm, and one of them is taken to be at zero volts. (a) What is the electric field strength between them, if the potential 8.00 cm from the zero volt plate (and 2.00 cm from the other) is 450 V? (b) What is the voltage between the plates?",
+        "Image Links": [],
+        "Answer": "a. $$V_{A B} = E d \\vec{} E = 5.63 \\text{kV/m}$$ ; b. $$V_{A B} = 563 \\text{V}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Electric Potential and Potential Difference",
+        "Problem Statement": "",
+        "Question": "Find the maximum potential difference between two parallel conducting plates separated by 0.500 cm of air, given the maximum sustainable electric field strength in air to be $$3.0 \\times 10^{6} \\text{V/m}$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Electric Potential and Potential Difference",
+        "Problem Statement": "",
+        "Question": "An electron is to be accelerated in a uniform electric field having a strength of $$2.00 \\times 10^{6} \\text{V/m} \\text{.}$$ (a) What energy in keV is given to the electron if it is accelerated through 0.400 m? (b) Over what distance would it have to be accelerated to increase its energy by 50.0 GeV?",
+        "Image Links": [],
+        "Answer": "a. $$\\left .\\begin{matrix}{aaa}\\text{Delta} K & = & q \\text{Delta} V \\text{and} V_{A B} = E d , \\text{so that} \\\\ \\text{Delta} K & = & 800 \\text{keV;}\\end{matrix}\\right .$$ b. $$d = 25.0 \\text{km}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Electric Potential and Potential Difference",
+        "Problem Statement": "",
+        "Question": "Use the definition of potential difference in terms of electric field to deduce the formula for potential difference between $$r = r_{a}$$ and $$r = r_{b}$$ for a point charge located at the origin. Here r is the spherical radial coordinate.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Electric Potential and Potential Difference",
+        "Problem Statement": "",
+        "Question": "The electric field in a region is pointed away from the z-axis and the magnitude depends upon the distance s from the axis. The magnitude of the electric field is given as $$E = \\frac{\\alpha}{s}$$ where $$\\alpha$$ is a constant. Find the potential difference between points $$P_{1} \\text{and} P_{2}$$ , explicitly stating the path over which you conduct the integration for the line integral.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a86bea00ecfc7189c4921419d554f848a9fe846c"
+        ],
+        "Answer": "One possibility is to stay at constant radius and go along the arc from $$P_{1}$$ to $$P_{2}$$ , which will have zero potential due to the path being perpendicular to the electric field. Then integrate from a to b : $$V_{a b} = \\alpha \\text{ln} ( \\frac{a}{b} )$$ The potential at point $$P_{1}$$ is higher than at $$P_{2}$$ since the field points radially outward, and this is consistent with a positive potential difference going from distance $$a$$ to a larger distance $$b$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 Electric Potential and Potential Difference",
+        "Problem Statement": "",
+        "Question": "Singly charged gas ions are accelerated from rest through a voltage of 13.0 V. At what temperature will the average kinetic energy of gas molecules be the same as that given these ions?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.3 Calculations of Electric Potential",
+        "Problem Statement": "",
+        "Question": "A 0.500-cm-diameter plastic sphere, used in a static electricity demonstration, has a uniformly distributed 40.0-pC charge on its surface. What is the potential near its surface?",
+        "Image Links": [],
+        "Answer": "$$V = 144 \\text{V}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.3 Calculations of Electric Potential",
+        "Problem Statement": "",
+        "Question": "How far from a $$1.00 \\text{-} \\mu \\text{C}$$ point charge is the potential 100 V? At what distance is it $$2.00 \\times 10^{2} \\text{V?}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.3 Calculations of Electric Potential",
+        "Problem Statement": "",
+        "Question": "If the potential due to a point charge is $$5.00 \\times 10^{2} \\text{V}$$ at a distance of 15.0 m, what are the sign and magnitude of the charge?",
+        "Image Links": [],
+        "Answer": "$$V = \\frac{k Q}{r} \\vec{} Q = 8.33 \\times 10^{-7} \\text{C}$$ ; The charge is positive because the potential is positive.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.3 Calculations of Electric Potential",
+        "Problem Statement": "",
+        "Question": "In nuclear fission, a nucleus splits roughly in half. (a) What is the potential $$2.00 \\times 10^{-14} \\text{m}$$ from a fragment that has 46 protons in it? (b) What is the potential energy in MeV of a similarly charged fragment at this distance?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.3 Calculations of Electric Potential",
+        "Problem Statement": "",
+        "Question": "A research Van de Graaff generator has a 2.00-m-diameter metal sphere with a charge of 5.00 mC on it. Assume the potential energy is zero at a reference point infinitely far away from the Van de Graaff. (a) What is the potential near its surface? (b) At what distance from its center is the potential 1.00 MV? (c) An oxygen atom with three missing electrons is released near the Van de Graaff generator. What is its kinetic energy in MeV when the atom is at the distance found in part b?",
+        "Image Links": [],
+        "Answer": "a. $$V = 45.0 \\text{MV}$$ ; b. $$V = \\frac{k Q}{r} \\vec{} r = 45.0 \\text{m}$$ ; c. $$\\text{Delta} U = 132 \\text{MeV}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.3 Calculations of Electric Potential",
+        "Problem Statement": "",
+        "Question": "An electrostatic paint sprayer has a 0.200-m-diameter metal sphere at a potential of 25.0 kV that repels paint droplets onto a grounded object. (a) What charge is on the sphere? (b) What charge must a 0.100-mg drop of paint have to arrive at the object with a speed of 10.0 m/s?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.3 Calculations of Electric Potential",
+        "Problem Statement": "",
+        "Question": "(a) What is the potential between two points situated 10 cm and 20 cm from a $$3.0 \\text{-} \\mu \\text{C}$$ point charge? (b) To what location should the point at 20 cm be moved to increase this potential difference by a factor of two?",
+        "Image Links": [],
+        "Answer": "$$V = k Q / r$$ ; a. Relative to origin, find the potential at each point and then calculate the difference. $$\\text{Delta} V = 135 \\times 10^{3} \\text{V}$$ ; b. To double the potential difference, move the point from 20 cm to infinity; the potential at 20 cm is halfway between zero and that at 10 cm.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.3 Calculations of Electric Potential",
+        "Problem Statement": "",
+        "Question": "Find the potential at points $$P_{1} , P_{2} , P_{3} , \\text{and} P_{4}$$ in the diagram due to the two given charges.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/27b27b795a27ea0cdf2f3d8bbc5636ae1dede779"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.3 Calculations of Electric Potential",
+        "Problem Statement": "",
+        "Question": "Two charges $$-2.0 \\Micro \\text{C} \\text{and} \\text{+} 2.0 \\Micro \\text{C}$$ are separated by 4.0 cm on the z -axis symmetrically about origin, with the positive one uppermost. Two space points of interest $$P_{1} \\text{and} P_{2}$$ are located 3.0 cm and 30 cm from origin at an angle $$30 \\text{\u00b0}$$ with respect to the z -axis. Evaluate electric potentials at $$P_{1} \\text{and} P_{2}$$ in two ways: (a) Using the exact formula for point charges, and (b) using the approximate dipole potential formula.",
+        "Image Links": [],
+        "Answer": "a. $$V_{P 1} = 7.4 \\times 10^{5} \\text{V}$$ and $$V_{P 2} = 6.9 \\times 10^{3} \\text{V}$$ ; b. $$V_{P 1} = 6.9 \\times 10^{5} \\text{V}$$ and $$V_{P 2} = 6.9 \\times 10^{3} \\text{V}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.3 Calculations of Electric Potential",
+        "Problem Statement": "",
+        "Question": "(a) Plot the potential of a uniformly charged 1-m rod with 1 C/m charge as a function of the perpendicular distance from the center. Draw your graph from $$\\text{s} = 0.1 \\text{m} \\text{to} \\text{s} = 1.0 \\text{m}$$ . (b) On the same graph, plot the potential of a point charge with a 1-C charge at the origin. (c) Which potential is stronger near the rod? (d) What happens to the difference as the distance increases? Interpret your result.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.4 Determining Field from Potential",
+        "Problem Statement": "",
+        "Question": "Throughout a region, equipotential surfaces are given by $$z = \\text{constant}$$ . The surfaces are equally spaced with $$V = 100 \\text{V}$$ for $$z = 0.00 \\text{m,} V = 200 \\text{V}$$ for $$z = 0.50 \\text{m,} V = 300 \\text{V}$$ for $$z = 1.00 \\text{m.}$$ What is the electric field in this region?",
+        "Image Links": [],
+        "Answer": "The problem is describing a uniform field, so $$E = 200 \\text{V/m}$$ in the - z -direction.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.4 Determining Field from Potential",
+        "Problem Statement": "",
+        "Question": "In a particular region, the electric potential is given by $$V = \\text{unicode[:-]} x y^{2} z + 4 x y .$$ What is the electric field in this region?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.4 Determining Field from Potential",
+        "Problem Statement": "",
+        "Question": "Calculate the electric field of an infinite line charge, throughout space.",
+        "Image Links": [],
+        "Answer": "Apply $$\\vec{\\mathbf{\\text{E}}} = \\text{unicode[:-]} \\vec{\\nabla} V$$ with $$\\vec{\\nabla} = \\mathbf{\\hat{\\text{r}}} \\frac{\\partial}{\\partial r} + \\hat{\\phi} \\frac{1}{r} \\frac{\\partial}{\\partial \\phi} + \\mathbf{\\hat{\\text{z}}} \\frac{\\partial}{\\partial z}$$ to the potential calculated earlier, $$V = -2 k \\lambda \\text{ln} s : \\vec{\\mathbf{\\text{E}}} = 2 k \\lambda \\frac{1}{r} \\mathbf{\\hat{\\text{r}}}$$ as expected.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.5 Equipotential Surfaces and Conductors",
+        "Problem Statement": "",
+        "Question": "Two very large metal plates are placed 2.0 cm apart, with a potential difference of 12 V between them. Consider one plate to be at 12 V, and the other at 0 V. (a) Sketch the equipotential surfaces for 0, 4, 8, and 12 V. (b) Next sketch in some electric field lines, and confirm that they are perpendicular to the equipotential lines.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.5 Equipotential Surfaces and Conductors",
+        "Problem Statement": "",
+        "Question": "A very large sheet of insulating material has had an excess of electrons placed on it to a surface charge density of $$-3.00 \\text{nC/m}^{2}$$ . (a) As the distance from the sheet increases, does the potential increase or decrease? Can you explain why without any calculations? Does the location of your reference point matter? (b) What is the shape of the equipotential surfaces? (c) What is the spacing between surfaces that differ by 1.00 V?",
+        "Image Links": [],
+        "Answer": "a. increases; the constant (negative) electric field has this effect, the reference point only matters for magnitude; b. they are planes parallel to the sheet; c. 0.006 m/V",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.5 Equipotential Surfaces and Conductors",
+        "Problem Statement": "",
+        "Question": "A metallic sphere of radius 2.0 cm is charged with $$\\text{+} 5.0 \\text{-} \\mu \\text{C}$$ charge, which spreads on the surface of the sphere uniformly. The metallic sphere stands on an insulated stand and is surrounded by a larger metallic spherical shell, of inner radius 5.0 cm and outer radius 6.0 cm. Now, a charge of $$-5.0 \\text{-} \\mu \\text{C}$$ is placed on the inside of the spherical shell, which spreads out uniformly on the inside surface of the shell. If potential is zero at infinity, what is the potential of (a) the spherical shell, (b) the sphere, (c) the space between the two, (d) inside the sphere, and (e) outside the shell?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3a0ad05a4b15bddf23a5212f86512016b2549c48"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.5 Equipotential Surfaces and Conductors",
+        "Problem Statement": "",
+        "Question": "Two large charged plates of charge density $$\\text{unicode[:+-]} 30 \\mu \\text{C/m}^{2}$$ face each other at a separation of 5.0 mm. (a) Find the electric potential everywhere. (b) An electron is released from rest at the negative plate; with what speed will it strike the positive plate?",
+        "Image Links": [],
+        "Answer": "a. from the previous chapter, the electric field has magnitude $$\\frac{\\sigma}{\\varepsilon_{0}}$$ in the region between the plates and zero outside; defining the negatively charged plate to be at the origin and zero potential, with the positively charged plate located at $$\\text{+} 5 \\text{mm}$$ in the z -direction, $$V = 1.7 \\times 10^{4} \\text{V}$$ so the potential is 0 for $$z < 0 , 1.7 \\times 10^{4} \\text{V} ( \\frac{z}{5 \\text{mm}} )$$ for $$0 \\le z \\le 5 \\text{mm,} 1.7 \\times 10^{4} \\text{V}$$ for $$z > 5 \\text{mm;}$$ b. $$q V = \\frac{1}{2} m v^{2} \\vec{} v = 7.7 \\times 10^{7} \\text{m/s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.5 Equipotential Surfaces and Conductors",
+        "Problem Statement": "",
+        "Question": "A long cylinder of aluminum of radius R meters is charged so that it has a uniform charge per unit length on its surface of $$\\lambda$$ . (a) Find the electric field inside and outside the cylinder. (b) Find the electric potential inside and outside the cylinder. (c) Plot electric field and electric potential as a function of distance from the center of the rod.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.5 Equipotential Surfaces and Conductors",
+        "Problem Statement": "",
+        "Question": "Two parallel plates 10 cm on a side are given equal and opposite charges of magnitude $$5.0 \\times 10^{-9} \\text{C} \\text{.}$$ The plates are 1.5 mm apart. What is the potential difference between the plates?",
+        "Image Links": [],
+        "Answer": "$$V = 85 \\text{V}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.5 Equipotential Surfaces and Conductors",
+        "Problem Statement": "",
+        "Question": "The surface charge density on a long straight metallic pipe is $$\\sigma$$ . What is the electric potential outside and inside the pipe? Assume the pipe has a diameter of 2 a .",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/db79eac326d7296237e1c7b199b90523b7d8ab6c"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.5 Equipotential Surfaces and Conductors",
+        "Problem Statement": "",
+        "Question": "Concentric conducting spherical shells carry charges Q and - Q , respectively. The inner shell has negligible thickness. What is the potential difference between the shells?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/07a8e2a4dc552c9e99eb65822ad18a43e890e9d6"
+        ],
+        "Answer": "In the region $$a \\le r \\le b , \\mathbf{\\vec{\\text{E}}} = \\frac{k Q}{r^{2}} \\mathbf{\\hat{\\text{r}}}$$ , and E is zero elsewhere; hence, the potential difference is $$V = k Q ( \\frac{1}{a} - \\frac{1}{b} )$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.5 Equipotential Surfaces and Conductors",
+        "Problem Statement": "",
+        "Question": "Shown below are two concentric spherical shells of negligible thicknesses and radii $$R_{1}$$ and $$R_{2} .$$ The inner and outer shell carry net charges $$q_{1}$$ and $$q_{2} ,$$ respectively, where both $$q_{1}$$ and $$q_{2}$$ are positive. What is the electric potential in the regions (a) $$r < R_{1} ,$$ (b) $$R_{1} < r < R_{2} ,$$ and (c) $$r > R_{2} ?$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a2d3ab2e0bb79f67a1f37867a9e60f0967698cd9"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.5 Equipotential Surfaces and Conductors",
+        "Problem Statement": "",
+        "Question": "A solid cylindrical conductor of radius a is surrounded by a concentric cylindrical shell of inner radius b . The solid cylinder and the shell carry charges Q and - Q , respectively. Assuming that the length L of both conductors is much greater than a or b , what is the potential difference between the two conductors?",
+        "Image Links": [],
+        "Answer": "From previous results $$V_{P} - V_{R} = -2 k \\lambda \\text{ln} \\frac{s_{P}}{s_{R}} .$$ , note that b is a very convenient location to define the zero level of potential: $$\\text{Delta} V = -2 k \\frac{Q}{L} \\text{ln} \\frac{a}{b} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.6 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "(a) What is the electric field 5.00 m from the center of the terminal of a Van de Graaff with a 3.00-mC charge, noting that the field is equivalent to that of a point charge at the center of the terminal? (b) At this distance, what force does the field exert on a $$2.00 \\text{-} \\mu \\text{C}$$ charge on the Van de Graaff\u2019s belt?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.6 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "(a) What is the direction and magnitude of an electric field that supports the weight of a free electron near the surface of Earth? (b) Discuss what the small value for this field implies regarding the relative strength of the gravitational and electrostatic forces.",
+        "Image Links": [],
+        "Answer": "a. $$F = 5.58 \\times 10^{-11} \\text{N/C}$$ ; The electric field is towards the surface of Earth. b. The coulomb force is much stronger than gravity.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.6 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "A simple and common technique for accelerating electrons is shown in Figure 7.46, where there is a uniform electric field between two plates. Electrons are released, usually from a hot filament, near the negative plate, and there is a small hole in the positive plate that allows the electrons to continue moving. (a) Calculate the acceleration of the electron if the field strength is $$2.50 \\times 10^{4} \\text{N/C}$$ . (b) Explain why the electron will not be pulled back to the positive plate once it moves through the hole. Figure 7.46 Parallel conducting plates with opposite charges on them create a relatively uniform electric field used to accelerate electrons to the right. Those that go through the hole can be used to make a TV or computer screen glow or to produce X- rays.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a7b103dd7a0a111c99ae984615aa11d3eecbeb7b"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.6 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "In a Geiger counter, a thin metallic wire at the center of a metallic tube is kept at a high voltage with respect to the metal tube. Ionizing radiation entering the tube knocks electrons off gas molecules or sides of the tube that then accelerate towards the center wire, knocking off even more electrons. This process eventually leads to an avalanche that is detectable as a current. A particular Geiger counter has a tube of radius R and the inner wire of radius a is at a potential of $$V_{0}$$ volts with respect to the outer metal tube. Consider a point P at a distance s from the center wire and far away from the ends. (a) Find a formula for the electric field at a point P inside using the infinite wire approximation. (b) Find a formula for the electric potential at a point P inside. (c) Use $$V_{0} = 900 \\text{V} , a = 3.00 \\text{mm,} R = 2.00 \\text{cm,}$$ and find the value of the electric field at a point 1.00 cm from the center.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/27753b28ee8e80785a15bbf71ba2375af2e8053b"
+        ],
+        "Answer": "We know from the Gauss\u2019s law chapter that the electric field for an infinite line charge is $$\\vec{\\mathbf{\\text{E}}}_{P} = 2 k \\lambda \\frac{1}{s} \\mathbf{\\hat{\\text{s}}}$$ , and from earlier in this chapter that the potential of a wire-cylinder system of this sort is $$V_{P} = -2 k \\lambda \\text{ln} \\frac{s_{P}}{R}$$ by integration. We are not given $$\\lambda$$ , but we are given a fixed $$V_{0}$$ ; thus, we know that $$V_{0} = -2 k \\lambda \\text{ln} \\frac{a}{R}$$ and hence $$\\lambda = - \\frac{V_{0}}{2 k \\text{ln} ( \\frac{a}{R} )}$$ . We may substitute this back in to find a. $$\\vec{\\mathbf{\\text{E}}}_{P} = - \\frac{V_{0}}{\\text{ln} ( \\frac{a}{R} )} \\frac{1}{s} \\mathbf{\\hat{\\text{s}}}$$ ; b. $$V_{P} = V_{0} \\frac{\\text{ln} ( \\frac{s_{P}}{R} )}{\\text{ln} ( \\frac{a}{R} )}$$ ; c. $$4.74 \\times 10^{4} \\text{N/C}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.6 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "The practical limit to an electric field in air is about $$3.00 \\times 10^{6} \\text{N/C}$$ . Above this strength, sparking takes place because air begins to ionize. (a) At this electric field strength, how far would a proton travel before hitting the speed of light (ignore relativistic effects)? (b) Is it practical to leave air in particle accelerators?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.6 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "To form a helium atom, an alpha particle that contains two protons and two neutrons is fixed at one location, and two electrons are brought in from far away, one at a time. The first electron is placed at $$0.600 \\times 10^{-10} \\text{m}$$ from the alpha particle and held there while the second electron is brought to $$0.600 \\times 10^{-10} \\text{m}$$ from the alpha particle on the other side from the first electron. See the final configuration below. (a) How much work is done in each step? (b) What is the electrostatic energy of the alpha particle and two electrons in the final configuration?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/94ac32bfa36e326b3812464db40bae830c67d5a1"
+        ],
+        "Answer": "a. $$\\left .\\begin{matrix}{aaa}U_{1} & = & 7.68 \\times 10^{-18} \\text{J} \\\\ U_{2} & = & 5.76 \\times 10^{-18} \\text{J}\\end{matrix}\\right .$$ ; b. $$U_{1} + U_{2} = -1.34 \\times 10^{-17} \\text{J}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.6 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "Find the electrostatic energy of eight equal charges $$( + 3 \\Micro \\text{C} )$$ each fixed at the corners of a cube of side 2 cm.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.6 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "The probability of fusion occurring is greatly enhanced when appropriate nuclei are brought close together, but mutual Coulomb repulsion must be overcome. This can be done using the kinetic energy of high-temperature gas ions or by accelerating the nuclei toward one another. (a) Calculate the potential energy of two singly charged nuclei separated by $$1.00 \\times 10^{-12} \\text{m} \\text{.}$$ (b) At what temperature will atoms of a gas have an average kinetic energy equal to this needed electrical potential energy?",
+        "Image Links": [],
+        "Answer": "a. $$U = 2.30 \\times 10^{-16} \\text{J}$$ ; b. $$\\overset{-}{K} = \\frac{3}{2} k T \\rightarrow T = 1.11 \\times \\left(10\\right)^{7} \\text{K}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.6 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "A bare helium nucleus has two positive charges and a mass of $$6.64 \\times 10^{- 27} \\text{kg}$$ . (a) Calculate its kinetic energy in joules at $$2.00 %$$ of the speed of light. (b) What is this in electron-volts? (c) What voltage would be needed to obtain this energy?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.6 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "An electron enters a region between two large parallel plates made of aluminum separated by a distance of 2.0 cm and kept at a potential difference of 200 V. The electron enters through a small hole in the negative plate and moves toward the positive plate. At the time the electron is near the negative plate, its speed is $$4.0 \\times 10^{5} \\text{m/s} \\text{.}$$ Assume the electric field between the plates to be uniform, and find the speed of electron at (a) 0.10 cm, (b) 0.50 cm, (c) 1.0 cm, and (d) 1.5 cm from the negative plate, and (e) immediately before it hits the positive plate.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b9b19ca4c254a0238c5cea72ce7f7aeeea112860"
+        ],
+        "Answer": "a. $$1.9 \\times 10^{6} \\text{m/s}$$ ; b. $$4.2 \\times 10^{6} \\text{m/s}$$ ; c. $$5.9 \\times 10^{6} \\text{m/s}$$ ; d. $$7.3 \\times 10^{6} \\text{m/s}$$ ; e. $$8.4 \\times 10^{6} \\text{m/s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.6 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "How far apart are two conducting plates that have an electric field strength of $$4.50 \\times 10^{3} \\text{V/m}$$ between them, if their potential difference is 15.0 kV?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.6 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "(a) Will the electric field strength between two parallel conducting plates exceed the breakdown strength of dry air, which is $$3.00 \\times 10^{6} \\text{V/m}$$ , if the plates are separated by 2.00 mm and a potential difference of $$5.0 \\times 10^{3} \\text{V}$$ is applied? (b) How close together can the plates be with this applied voltage?",
+        "Image Links": [],
+        "Answer": "a. $$\\left .\\begin{matrix}{} \\\\  \\\\ E = 2.5 \\times 10^{6} \\text{V/m} < 3 \\times 10^{6} \\text{V/m} \\\\ \\text{No, the field strength is smaller than the breakdown strength for air} \\text{.}\\end{matrix}\\right .$$ ; b. $$d = 1.7 \\text{mm}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.6 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "Membrane walls of living cells have surprisingly large electric fields across them due to separation of ions. What is the voltage across an 8.00-nm-thick membrane if the electric field strength across it is 5.50 MV/m? You may assume a uniform electric field.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.6 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "A double charged ion is accelerated to an energy of 32.0 keV by the electric field between two parallel conducting plates separated by 2.00 cm. What is the electric field strength between the plates?",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{aaa}K_{\\text{f}} & = & q V_{\\text{AB}} = q E d \\vec{} \\\\ E & = & 8.00 \\times 10^{5} \\text{V/m}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.6 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "The temperature near the center of the Sun is thought to be 15 million degrees Celsius $$( 1.5 \\times 10^{7} \\text{\u00b0C} )$$ (or kelvin). Through what voltage must a singly charged ion be accelerated to have the same energy as the average kinetic energy of ions at this temperature?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.6 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "A lightning bolt strikes a tree, moving 20.0 C of charge through a potential difference of $$1.00 \\times 10^{2} \\text{MV.}$$ (a) What energy was dissipated? (b) What mass of water could be raised from $$15 \\text{\u00b0} \\text{C}$$ to the boiling point and then boiled by this energy? (c) Discuss the damage that could be caused to the tree by the expansion of the boiling steam.",
+        "Image Links": [],
+        "Answer": "a. $$\\text{Energy} = 2.00 \\times 10^{9} \\text{J}$$ ; b. $$\\left .\\begin{matrix}{aaa}Q & = & m ( c \\text{Delta} T + L_{\\nabla} ) \\\\ m & = & 766 \\text{kg}\\end{matrix}\\right .$$ ; c. The expansion of the steam upon boiling can literally blow the tree apart.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.6 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "What is the potential $$0.530 \\times 10^{-10} \\text{m}$$ from a proton (the average distance between the proton and electron in a hydrogen atom)?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.6 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "(a) A sphere has a surface uniformly charged with 1.00 C. At what distance from its center is the potential 5.00 MV? (b) What does your answer imply about the practical aspect of isolating such a large charge?",
+        "Image Links": [],
+        "Answer": "a. $$V = \\frac{k Q}{r} \\vec{} r = 1.80 \\text{km}$$ ; b. A 1-C charge is a very large amount of charge; a sphere of 1.80 km is impractical.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.6 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "What are the sign and magnitude of a point charge that produces a potential of -2.00 V at a distance of 1.00 mm?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.6 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "In one of the classic nuclear physics experiments at the beginning of the twentieth century, an alpha particle was accelerated toward a gold nucleus, and its path was substantially deflected by the Coulomb interaction. If the energy of the doubly charged alpha nucleus was 5.00 MeV, how close to the gold nucleus (79 protons) could it come before being deflected?",
+        "Image Links": [],
+        "Answer": "The alpha particle approaches the gold nucleus until its original energy is converted to potential energy. $$5.00 \\text{MeV} = 8.00 \\times 10^{-13} \\text{J}$$ , so $$\\left .\\begin{matrix}{aaa}E_{0} & = & \\frac{q k Q}{r} \\vec{} \\\\ r & = & 4.54 \\times 10^{-14} \\text{m}\\end{matrix}\\right .$$ (Size of gold nucleus is about $$7 \\times 10^{-15} \\text{m}$$ ).",
+        "Answer Image Links": []
+    }
+]

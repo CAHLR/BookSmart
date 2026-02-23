@@ -1,0 +1,146 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "In the deep space between galaxies, the density of molecules (which are mostly single atoms) can be as low as $$10^{6} \\text{atoms/m}^{3} ,$$ and the temperature is a frigid 2.7 K. What is the pressure? (b) What volume (in $$\\text{m}^{3}$$ ) is occupied by 1 mol of gas? (c) If this volume is a cube, what is the length of its sides in kilometers?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "(a) Find the density in SI units of air at a pressure of 1.00 atm and a temperature of $$20 \\text{\u00b0C}$$ , assuming that air is $$78 \\text{%} \\text{N}_{2} , 21 \\text{%} \\text{O}_{2} , \\text{and} 1 \\text{%} \\text{Ar}$$ , (b) Find the density of the atmosphere on Venus, assuming that it\u2019s $$96 \\text{%} \\text{CO}_{2} \\text{and} 4 \\text{%} \\text{N}_{2}$$ , with a temperature of 737 K and a pressure of 92.0 atm.",
+        "Image Links": [],
+        "Answer": "a. $$1.20 \\text{kg/m}^{3}$$ ; b. $$65.9 \\text{kg/m}^{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The air inside a hot-air balloon has a temperature of 370 K and a pressure of 101.3 kPa, the same as that of the air outside. Using the composition of air as $$78 \\text{%} \\text{N}_{2} , 21 \\text{%} \\text{O}_{2} , \\text{and} 1 \\text{%} \\text{Ar}$$ , find the density of the air inside the balloon.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "When an air bubble rises from the bottom to the top of a freshwater lake, its volume increases by $$80 %$$ . If the temperatures at the bottom and the top of the lake are 4.0 and 10 $$\\text{\u00b0} \\text{C}$$ , respectively, how deep is the lake?",
+        "Image Links": [],
+        "Answer": "7.9 m",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "(a) Use the ideal gas equation to estimate the temperature at which 1.00 kg of steam (molar mass $$M = 18.0 \\text{g/mol}$$ ) at a pressure of $$1.50 \\times 10^{6} \\text{Pa}$$ occupies a volume of $$0.220 \\text{m}^{3}$$ . (b) The van der Waals constants for water are $$a = 0.5537 \\text{Pa} \\cdotp \\text{m}^{6} \\text{/} \\text{mol}^{2}$$ and $$b = 3.049 \\times 10^{-5} \\text{m}^{3} \\text{/} \\text{mol}$$ . Use the Van der Waals equation of state to estimate the temperature under the same conditions. (c) The actual temperature is 779 K. Which estimate is better?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "One process for decaffeinating coffee uses carbon dioxide $$( M = 44.0 \\text{g/mol} )$$ at a molar density of about $$14,600 \\text{mol/m}^{3}$$ and a temperature of about $$60 \\text{\u00b0} \\text{C}$$ . (a) Is CO_2 a solid, liquid, gas, or supercritical fluid under those conditions? (b) The van der Waals constants for carbon dioxide are $$a = 0.3658 \\text{Pa} \\cdotp \\text{m}^{6} \\text{/} \\text{mol}^{2}$$ and $$b = 4.286 \\times 10^{-5} \\text{m}^{3} \\text{/} \\text{mol} \\text{.}$$ Using the van der Waals equation, estimate the pressure of $$\\text{CO}_{2}$$ at that temperature and density.",
+        "Image Links": [],
+        "Answer": "a. supercritical fluid; b. $$3.00 \\times 10^{7} \\text{Pa}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "On a winter day when the air temperature is $$0 \\text{\u00b0C} ,$$ the relative humidity is $$50 %$$ . Outside air comes inside and is heated to a room temperature of $$20 \\text{\u00b0C}$$ . What is the relative humidity of the air inside the room. (Does this problem show why inside air is so dry in winter?)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "On a warm day when the air temperature is $$30 \\text{\u00b0C}$$ , a metal can is slowly cooled by adding bits of ice to liquid water in it. Condensation first appears when the can reaches $$15 \\text{\u00b0C}$$ . What is the relative humidity of the air?",
+        "Image Links": [],
+        "Answer": "$$40.18 %$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "(a) People often think of humid air as \u201cheavy.\u201d Compare the densities of air with $$0 %$$ relative humidity and $$100 %$$ relative humidity when both are at 1 atm and $$30 \\text{\u00b0C}$$ . Assume that the dry air is an ideal gas composed of molecules with a molar mass of 29.0 g/mol and the moist air is the same gas mixed with water vapor. (b) As discussed in the chapter on the applications of Newton\u2019s laws, the air resistance felt by projectiles such as baseballs and golf balls is approximately $$F_{\\text{D}} = C \\rho A v^{2} \\text{/} 2$$ , where $$\\rho$$ is the mass density of the air, A is the cross-sectional area of the projectile, and C is the projectile\u2019s drag coefficient. For a fixed air pressure, describe qualitatively how the range of a projectile changes with the relative humidity. (c) When a thunderstorm is coming, usually the humidity is high and the air pressure is low. Do those conditions give an advantage or disadvantage to home-run hitters?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The mean free path for helium at a certain temperature and pressure is $$2.10 \\times 10^{-7} \\text{m} \\text{.}$$ The radius of a helium atom can be taken as $$1.10 \\times 10^{-11} \\text{m}$$ . What is the measure of the density of helium under those conditions (a) in molecules per cubic meter and (b) in moles per cubic meter?",
+        "Image Links": [],
+        "Answer": "a. $$2.21 \\times 10^{27} \\text{molecules/m}^{3} ;$$ b. $$3.67 \\times 10^{3} \\text{mol/m}^{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The mean free path for methane at a temperature of 269 K and a pressure of $$1.11 \\times 10^{5} \\text{Pa}$$ is $$4.81 \\times 10^{-8} \\text{m} \\text{.}$$ Find the effective radius r of the methane molecule.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "In the chapter on fluid mechanics, Bernoulli\u2019s equation for the flow of incompressible fluids was explained in terms of changes affecting a small volume dV of fluid. Such volumes are a fundamental idea in the study of the flow of compressible fluids such as gases as well. For the equations of hydrodynamics to apply, the mean free path must be much less than the linear size of such a volume, $$a \\approx d V^{1 \\text{/} 3} .$$ For air in the stratosphere at a temperature of 220 K and a pressure of 5.8 kPa, how big should a be for it to be 100 times the mean free path? Take the effective radius of air molecules to be $$1.88 \\times 10^{-11} \\text{m} ,$$ which is roughly correct for $$\\text{N}_{2}$$ .",
+        "Image Links": [],
+        "Answer": "8.2 mm",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Find the total number of collisions between molecules in 1.00 s in 1.00 L of nitrogen gas at standard temperature and pressure ( $$0 \\text{\u00b0C}$$ , 1.00 atm). Use $$1.88 \\times 10^{-10} \\text{m}$$ as the effective radius of a nitrogen molecule. (The number of collisions per second is the reciprocal of the collision time.) Keep in mind that each collision involves two molecules, so if one molecule collides once in a certain period of time, the collision of the molecule it hit cannot be counted.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "(a) Estimate the specific heat capacity of sodium from the Law of Dulong and Petit. The molar mass of sodium is 23.0 g/mol. (b) What is the percent error of your estimate from the known value, $$1230 \\text{J/kg} \\cdotp \\text{\u00b0} \\text{C}$$ ?",
+        "Image Links": [],
+        "Answer": "a. $$1080 \\text{J/kg} \\text{\u00b0C}$$ ; b. $$12 %$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A sealed, perfectly insulated container contains 0.630 mol of air at $$20.0 \\text{\u00b0C}$$ and an iron stirring bar of mass 40.0 g. The stirring bar is magnetically driven to a kinetic energy of 50.0 J and allowed to slow down by air resistance. What is the equilibrium temperature?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Find the ratio $$f ( v_{\\text{p}} ) \\text{/} f ( v_{\\text{rms}} )$$ for hydrogen gas $$( M = 2.02 \\text{g/mol} )$$ at a temperature of 77.0 K.",
+        "Image Links": [],
+        "Answer": "$$2 \\sqrt{e} \\text{/} 3$$ or about 1.10",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Unreasonable results . (a) Find the temperature of 0.360 kg of water, modeled as an ideal gas, at a pressure of $$1.01 \\times 10^{5} \\text{Pa}$$ if it has a volume of $$0.615 \\text{m}^{3}$$ . (b) What is unreasonable about this answer? How could you get a better answer?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Unreasonable results . (a) Find the average speed of hydrogen sulfide, $$\\text{H}_{2} \\text{S}$$ , molecules at a temperature of 250 K. Its molar mass is 31.4 g/mol (b) The result isn\u2019t very unreasonable, but why is it less reliable than those for, say, neon or nitrogen?",
+        "Image Links": [],
+        "Answer": "a. 411 m/s; b. According to Table 2.3, the $$C_{V}$$ of $$\\text{H}_{2} \\text{S}$$ is significantly different from the theoretical value, so the ideal gas model does not describe it very well at room temperature and pressure, and the Maxwell-Boltzmann speed distribution for ideal gases may not hold very well, even less well at a lower temperature.",
+        "Answer Image Links": []
+    }
+]

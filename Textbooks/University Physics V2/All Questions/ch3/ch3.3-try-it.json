@@ -1,0 +1,26 @@
+[
+    {
+        "Topic": "Check Your Understanding 3.2",
+        "Problem Statement": "",
+        "Question": "The quantities below represent four different transitions between the same initial and final state. Fill in the blanks. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\nQ(J) & W(J) & $$\\text{Delta} E_{\\text{int}} ( \\text{J} )$$ \\\\ \\hline\n-80 & -120 &  \\\\ \\hline\n90 &  &  \\\\ \\hline\n & 40 &  \\\\ \\hline\n & -40 &  \\\\ \\hline\n\\end{tabular}\n\\end{table} Table 3.2",
+        "Image Links": [],
+        "Answer": "Line 1, $$\\text{Delta} E_{\\text{int}} = 40 \\text{J;}$$ line 2, $$W = 50 \\text{J}$$ and $$\\text{Delta} E_{\\text{int}} = 40 \\text{J;}$$ line 3, $$Q = 80 \\text{J}$$ and $$\\text{Delta} E_{\\text{int}} = 40 \\text{J;}$$ and line 4, $$Q = 0$$ and $$\\text{Delta} E_{\\text{int}} = 40 \\text{J}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 3.3",
+        "Problem Statement": "",
+        "Question": "Why was it necessary to state that the process of Example 3.5 is quasi-static?",
+        "Image Links": [],
+        "Answer": "So that the process is represented by the curve $$p = n R T \\text{/} V$$ on the pV plot for the evaluation of work.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 3.4",
+        "Problem Statement": "",
+        "Question": "When 1.00 g of ammonia boils at atmospheric pressure and $$-33.0 \\text{\u00b0} \\text{C,}$$ its volume changes from 1.47 to $$1130 \\text{cm}^{3}$$ . Its heat of vaporization at this pressure is $$1.37 \\times 10^{6} \\text{J/kg} \\text{.}$$ What is the change in the internal energy of the ammonia when it vaporizes?",
+        "Image Links": [],
+        "Answer": "$$1.26 \\times 10^{3} \\text{J} \\text{.}$$",
+        "Answer Image Links": []
+    }
+]

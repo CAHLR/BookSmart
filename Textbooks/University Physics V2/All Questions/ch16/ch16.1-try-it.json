@@ -1,0 +1,18 @@
+[
+    {
+        "Topic": "Check Your Understanding 16.1",
+        "Problem Statement": "",
+        "Question": "When the emf across a capacitor is turned on and the capacitor is allowed to charge, when does the magnetic field induced by the displacement current have the greatest magnitude?",
+        "Image Links": [],
+        "Answer": "It is greatest immediately after the current is switched on. The displacement current and the magnetic field from it are proportional to the rate of change of electric field between the plates, which is greatest when the plates first begin to charge.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 16.2",
+        "Problem Statement": "",
+        "Question": "Could a purely electric field propagate as a wave through a vacuum without a magnetic field? Justify your answer.",
+        "Image Links": [],
+        "Answer": "No. The changing electric field according to the modified version of Amp\u00e8re\u2019s law would necessarily induce a changing magnetic field.",
+        "Answer Image Links": []
+    }
+]

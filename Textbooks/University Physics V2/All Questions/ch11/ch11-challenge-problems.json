@@ -1,0 +1,82 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A particle of charge + q and mass m moves with velocity $$\\mathbf{\\vec{v}}_{0}$$ pointed in the + y -direction as it crosses the x -axis at x = R at a particular time. There is a negative charge - Q fixed at the origin, and there exists a uniform magnetic field $$\\mathbf{\\vec{B}}_{0}$$ pointed in the + z -direction. It is found that the particle describes a circle of radius R about - Q . Find $$\\mathbf{\\vec{B}}_{0}$$ in terms of the given quantities.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A proton of speed v = $$6 \\times 10^{5} \\text{m/s}$$ enters a region of uniform magnetic field of B = 0.5 T at an angle of $$q = 30 \\text{\u00b0}$$ to the magnetic field. In the region of magnetic field proton describes a helical path with radius R and pitch p (distance between loops). Find R and p .",
+        "Image Links": [],
+        "Answer": "$$R = ( m v \\text{sin} \\theta ) \\text{/} q B ;$$ $$p = ( \\frac{2 \\pi m}{e B} ) v \\text{cos} \\theta$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A particle\u2019s path is bent when it passes through a region of non-zero magnetic field although its speed remains unchanged. This is very useful for \u201cbeam steering\u201d in particle accelerators. Consider a proton of speed $$4 \\times 10^{6} \\text{m/s}$$ entering a region of uniform magnetic field 0.2 T over a 5-cm-wide region. Magnetic field is perpendicular to the velocity of the particle. By how much angle will the path of the proton be bent? (Hint: The particle comes out tangent to a circle.)",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/951eb0b6b9c92d8ec28060e07bb39ee86de6091b"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "In a region a non-uniform magnetic field exists such that $$B_{x} = 0 , B_{y} = 0 , a n d B_{z} = a x ,$$ where a is a constant. At some time t , a wire of length L is carrying a current I is located along the x -axis from origin to x = L . Find the magnetic force on the wire at this instant in time.",
+        "Image Links": [],
+        "Answer": "$$I a L^{2} \\text{/} 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A copper rod of mass m and length L is hung from the ceiling using two springs of spring constant k . A uniform magnetic field of magnitude $$B_{0}$$ pointing perpendicular to the rod and spring (coming into the page in the figure) exists in a region of space covering a length w of the copper rod. The ends of the rod are then connected by flexible copper wire across the terminals of a battery of voltage V . Determine the change in the length of the springs when a current I runs through the copper rod in the direction shown in figure. (Ignore any force by the flexible wire.)",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f8e904f89ebca8046b1a4db04e317a5203677c9f"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The accompanied figure shows an arrangement for measuring mass of ions by an instrument called the mass spectrometer. An ion of mass m and charge + q is produced essentially at rest in source S , a chamber in which a gas discharge is taking place. The ion is accelerated by a potential difference $$V_{\\text{acc}}$$ and allowed to enter a region of constant magnetic field $$\\mathbf{\\vec{B}}_{0} .$$ In the uniform magnetic field region, the ion moves in a semicircular path striking a photographic plate at a distance x from the entry point. Derive a formula for mass m in terms of $$B_{0} ,$$ q , $$V_{\\text{acc}} ,$$ and x .",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/caf104868a7b86989338ccbe590b693a398be0f2"
+        ],
+        "Answer": "$$m = \\frac{q B_{0} ^{2}}{8 V_{\\text{acc}}} x^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A wire is made into a circular shape of radius R and pivoted along a central support. The two ends of the wire are touching a brush that is connected to a dc power source. The structure is between the poles of a magnet such that we can assume there is a uniform magnetic field on the wire. In terms of a coordinate system with origin at the center of the ring, magnetic field is $$B_{x} = B_{0} , B_{y} = B_{z} = 0 ,$$ and the ring rotates about the z -axis. Find the torque on the ring when it is not in the xz -plane.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7a04b3a58d228ef69418933e86677e3619ad1218"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A long-rigid wire lies along the x -axis and carries a current of 2.5 A in the positive x -direction. Around the wire is the magnetic field $$\\mathbf{\\vec{B}} = 2.0 \\mathbf{\\hat{i}} + 5.0 x^{2} \\mathbf{\\hat{j}} ,$$ with x in meters and B in millitesla. Calculate the magnetic force on the segment of wire between x = 2.0 m and x = 4.0 m.",
+        "Image Links": [],
+        "Answer": "0.23 N",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A circular loop of wire of area 10 cm^2 carries a current of 25 A. At a particular instant, the loop lies in the xy -plane and is subjected to a magnetic field $$\\mathbf{\\vec{B}} = ( 2.0 \\mathbf{\\hat{i}} + 6.0 \\mathbf{\\hat{j}} + 8.0 \\mathbf{\\hat{k}} ) \\times 10^{-3} \\text{T} .$$ As viewed from above the xy -plane, the current is circulating clockwise. (a) What is the magnetic dipole moment of the current loop? (b) At this instant, what is the magnetic torque on the loop?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "Topic": "6.1 Electric Flux",
+        "Problem Statement": "",
+        "Question": "Discuss how to orient a planar surface of area A in a uniform electric field of magnitude $$E_{0}$$ to obtain (a) the maximum flux and (b) the minimum flux through the area.",
+        "Image Links": [],
+        "Answer": "a. If the planar surface is perpendicular to the electric field vector, the maximum flux would be obtained. b. If the planar surface were parallel to the electric field vector, the minimum flux would be obtained.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Electric Flux",
+        "Problem Statement": "",
+        "Question": "What are the maximum and minimum values of the flux in the preceding question?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Electric Flux",
+        "Problem Statement": "",
+        "Question": "The net electric flux crossing a closed surface is always zero. True or false?",
+        "Image Links": [],
+        "Answer": "False. The net electric flux crossing a closed surface is always zero if and only if the net charge enclosed is zero.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Electric Flux",
+        "Problem Statement": "",
+        "Question": "The net electric flux crossing an open surface is never zero. True or false?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Explaining Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "Two concentric spherical surfaces enclose a point charge q . The radius of the outer sphere is twice that of the inner one. Compare the electric fluxes crossing the two surfaces.",
+        "Image Links": [],
+        "Answer": "Since the electric field vector has a $$\\frac{1}{r^{2}}$$ dependence, the fluxes are the same since $$A = 4 \\pi r^{2}$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Explaining Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "Compare the electric flux through the surface of a cube of side length a that has a charge q at its center to the flux through a spherical surface of radius a with a charge q at its center.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Explaining Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "(a) If the electric flux through a closed surface is zero, is the electric field necessarily zero at all points on the surface? (b) What is the net charge inside the surface?",
+        "Image Links": [],
+        "Answer": "a. no; b. zero",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Explaining Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "Discuss how Gauss\u2019s law would be affected if the electric field of a point charge did not vary as $$1 \\text{/} r^{2} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Explaining Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "Discuss the similarities and differences between the gravitational field of a point mass m and the electric field of a point charge q .",
+        "Image Links": [],
+        "Answer": "Both fields vary as $$\\frac{1}{r^{2}}$$ . Because the gravitational constant is so much smaller than $$\\frac{1}{4 \\pi \\varepsilon_{0}}$$ , the gravitational field is orders of magnitude weaker than the electric field. Also, the gravitational flux through a closed surface is zero or positive; however, the electric flux is positive, negative, or zero, depending on the definition of flux for the given situation.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Explaining Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "Discuss whether Gauss\u2019s law can be applied to other forces, and if so, which ones.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Explaining Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "Is the term $$\\vec{\\mathbf{E}}$$ in Gauss\u2019s law the electric field produced by just the charge inside the Gaussian surface?",
+        "Image Links": [],
+        "Answer": "No, it is produced by all charges both inside and outside the Gaussian surface.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Explaining Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "Reformulate Gauss\u2019s law by choosing the unit normal of the Gaussian surface to be the one directed inward.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Applying Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "Would Gauss\u2019s law be helpful for determining the electric field of two equal but opposite charges a fixed distance apart?",
+        "Image Links": [],
+        "Answer": "No, since the situation does not have symmetry, making Gauss\u2019s law challenging to simplify.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Applying Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "Discuss the role that symmetry plays in the application of Gauss\u2019s law. Give examples of continuous charge distributions in which Gauss\u2019s law is useful and not useful in determining the electric field.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Applying Gauss\u2019s Law",
+        "Problem Statement": "",
+        "Question": "Discuss the restrictions on the Gaussian surface used to discuss planar symmetry. For example, is its length important? Does the cross-section have to be square? Must the end faces be on opposite sides of the sheet?",
+        "Image Links": [],
+        "Answer": "Any shape of the Gaussian surface can be used. The only restriction is that the Gaussian integral must be calculable; therefore, a box or a cylinder are the most convenient geometrical shapes for the Gaussian surface.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Conductors in Electrostatic Equilibrium",
+        "Problem Statement": "",
+        "Question": "Is the electric field inside a metal always zero?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Conductors in Electrostatic Equilibrium",
+        "Problem Statement": "",
+        "Question": "Under electrostatic conditions, the excess charge on a conductor resides on its surface. Does this mean that all the conduction electrons in a conductor are on the surface?",
+        "Image Links": [],
+        "Answer": "No. If a metal was in a region of zero electric field, all the conduction electrons would be distributed uniformly throughout the metal.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Conductors in Electrostatic Equilibrium",
+        "Problem Statement": "",
+        "Question": "A charge q is placed in the cavity of a conductor as shown below. Will a charge outside the conductor experience an electric field due to the presence of q ?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7566e74687a817d3e3152d70a2360d7eadee5cea"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Conductors in Electrostatic Equilibrium",
+        "Problem Statement": "",
+        "Question": "The conductor in the preceding figure has an excess charge of $$- 5. 0 \\Micro \\text{C}$$ . If a $$2.0 \\text{-} \\Micro \\text{C}$$ point charge is placed in the cavity, what is the net charge on the surface of the cavity and on the outer surface of the conductor?",
+        "Image Links": [],
+        "Answer": "Since the electric field is zero inside a conductor, a charge of $$-2.0 \\mu \\text{C}$$ is induced on the inside surface of the cavity. This will put a charge of $$+ 2.0 \\mu C$$ on the outside surface leaving a net charge of $$-3.0 \\mu \\text{C}$$ on the surface.",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "Topic": "8.1 Capacitors and Capacitance",
+        "Problem Statement": "",
+        "Question": "Does the capacitance of a device depend on the applied voltage? Does the capacitance of a device depend on the charge residing on it?",
+        "Image Links": [],
+        "Answer": "no; yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.1 Capacitors and Capacitance",
+        "Problem Statement": "",
+        "Question": "Would you place the plates of a parallel-plate capacitor closer together or farther apart to increase their capacitance?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.1 Capacitors and Capacitance",
+        "Problem Statement": "",
+        "Question": "The value of the capacitance is zero if the plates are not charged. True or false?",
+        "Image Links": [],
+        "Answer": "false",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.1 Capacitors and Capacitance",
+        "Problem Statement": "",
+        "Question": "If the plates of a capacitor have different areas, will they acquire the same charge when the capacitor is connected across a battery?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.1 Capacitors and Capacitance",
+        "Problem Statement": "",
+        "Question": "Does the capacitance of a spherical capacitor depend on which sphere is charged positively or negatively?",
+        "Image Links": [],
+        "Answer": "no",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.2 Capacitors in Series and in Parallel",
+        "Problem Statement": "",
+        "Question": "If you wish to store a large amount of charge in a capacitor bank, would you connect capacitors in series or in parallel? Explain.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.2 Capacitors in Series and in Parallel",
+        "Problem Statement": "",
+        "Question": "What is the maximum capacitance you can get by connecting three $$1.0 \\text{-} \\mu \\text{F}$$ capacitors? What is the minimum capacitance?",
+        "Image Links": [],
+        "Answer": "$$3.0 \\mu \\text{F} , 0.33 \\mu \\text{F}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.3 Energy Stored in a Capacitor",
+        "Problem Statement": "",
+        "Question": "If you wish to store a large amount of energy in a capacitor bank, would you connect capacitors in series or parallel? Explain.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.4 Capacitor with a Dielectric",
+        "Problem Statement": "",
+        "Question": "Discuss what would happen if a conducting slab rather than a dielectric were inserted into the gap between the capacitor plates.",
+        "Image Links": [],
+        "Answer": "answers may vary",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.4 Capacitor with a Dielectric",
+        "Problem Statement": "",
+        "Question": "Discuss how the energy stored in an empty but charged capacitor changes when a dielectric is inserted if (a) the capacitor is isolated so that its charge does not change; (b) the capacitor remains connected to a battery so that the potential difference between its plates does not change.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.5 Molecular Model of a Dielectric",
+        "Problem Statement": "",
+        "Question": "Distinguish between dielectric strength and dielectric constant.",
+        "Image Links": [],
+        "Answer": "Dielectric strength is a critical value of an electrical field above which an insulator starts to conduct; a dielectric constant is the ratio of the electrical field in vacuum to the net electrical field in a material.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.5 Molecular Model of a Dielectric",
+        "Problem Statement": "",
+        "Question": "Water is a good solvent because it has a high dielectric constant. Explain.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.5 Molecular Model of a Dielectric",
+        "Problem Statement": "",
+        "Question": "Water has a high dielectric constant. Explain why it is then not used as a dielectric material in capacitors.",
+        "Image Links": [],
+        "Answer": "Water is a good solvent.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.5 Molecular Model of a Dielectric",
+        "Problem Statement": "",
+        "Question": "Elaborate on why molecules in a dielectric material experience net forces on them in a non-uniform electrical field but not in a uniform field.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.5 Molecular Model of a Dielectric",
+        "Problem Statement": "",
+        "Question": "Explain why the dielectric constant of a substance containing permanent molecular electric dipoles decreases with increasing temperature.",
+        "Image Links": [],
+        "Answer": "When energy of thermal motion is large (high temperature), an electrical field must be large too in order to keep electric dipoles aligned with it.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.5 Molecular Model of a Dielectric",
+        "Problem Statement": "",
+        "Question": "Give a reason why a dielectric material increases capacitance compared with what it would be with air between the plates of a capacitor. How does a dielectric material also allow a greater voltage to be applied to a capacitor? (The dielectric thus increases C and permits a greater V .)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.5 Molecular Model of a Dielectric",
+        "Problem Statement": "",
+        "Question": "Elaborate on the way in which the polar character of water molecules helps to explain water\u2019s relatively large dielectric constant.",
+        "Image Links": [],
+        "Answer": "answers may vary",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.5 Molecular Model of a Dielectric",
+        "Problem Statement": "",
+        "Question": "Sparks will occur between the plates of an air-filled capacitor at a lower voltage when the air is humid than when it is dry. Discuss why, considering the polar character of water molecules.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

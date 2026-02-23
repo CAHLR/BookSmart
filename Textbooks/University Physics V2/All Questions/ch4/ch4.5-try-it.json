@@ -1,0 +1,18 @@
+[
+    {
+        "Topic": "Check Your Understanding 4.3",
+        "Problem Statement": "",
+        "Question": "A Carnot engine operates between reservoirs at $$400 \\text{\u00b0C}$$ and $$30 \\text{\u00b0C}$$ . (a) What is the efficiency of the engine? (b) If the engine does 5.0 J of work per cycle, how much heat per cycle does it absorb from the high-temperature reservoir? (c) How much heat per cycle does it exhaust to the cold-temperature reservoir? (d) What temperatures at the cold reservoir would give the minimum and maximum efficiency?",
+        "Image Links": [],
+        "Answer": "a. $$e = 1 - T_{\\text{c}} \\text{/} T_{\\text{h}} = 0.55$$ ; b. $$Q_{\\text{h}} = e W = 9.1 \\text{J}$$ ; c. $$Q_{\\text{c}} = Q_{\\text{h}} - W = 4.1 \\text{J}$$ ; d. $$-273 \\text{\u00b0} \\text{C}$$ and $$400 \\text{\u00b0} \\text{C}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 4.4",
+        "Problem Statement": "",
+        "Question": "A Carnot refrigerator operates between two heat reservoirs whose temperatures are $$0 \\text{\u00b0} \\text{C}$$ and $$25 \\text{\u00b0} \\text{C}$$ . (a) What is the coefficient of performance of the refrigerator? (b) If 200 J of work are done on the working substance per cycle, how much heat per cycle is extracted from the cold reservoir? (c) How much heat per cycle is discarded to the hot reservoir?",
+        "Image Links": [],
+        "Answer": "a. $$K_{\\text{R}} = T_{\\text{c}} \\text{/} ( T_{\\text{h}} - T_{\\text{c}} ) = 10.9$$ ; b. $$Q_{\\text{c}} = K_{\\text{R}} W = 2.18 \\text{kJ}$$ ; c. $$Q_{\\text{h}} = Q_{\\text{c}} + W = 2.38 \\text{kJ}$$",
+        "Answer Image Links": []
+    }
+]

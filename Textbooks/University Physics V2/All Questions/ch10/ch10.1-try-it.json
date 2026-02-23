@@ -1,0 +1,10 @@
+[
+    {
+        "Topic": "Check Your Understanding 10.1",
+        "Problem Statement": "",
+        "Question": "If you place a wire directly across the two terminal of a battery, effectively shorting out the terminals, the battery will begin to get hot. Why do you suppose this happens?",
+        "Image Links": [],
+        "Answer": "If a wire is connected across the terminals, the load resistance is close to zero, or at least considerably less than the internal resistance of the battery. Since the internal resistance is small, the current through the circuit will be large, $$I = \\frac{\\varepsilon}{R + r} = \\frac{\\varepsilon}{0 + r} = \\frac{\\varepsilon}{r} .$$ The large current causes a high power to be dissipated by the internal resistance $$( P = I^{2} r )$$ . The power is dissipated as heat.",
+        "Answer Image Links": []
+    }
+]

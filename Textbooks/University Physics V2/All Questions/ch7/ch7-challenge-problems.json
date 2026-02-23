@@ -1,0 +1,34 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Three $$\\text{Na}^{+}$$ and three $$\\text{Cl}^{\\text{unicode[:-]}}$$ ions are placed alternately and equally spaced around a circle of radius 50 nm. Find the electrostatic energy stored.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Look up (presumably online, or by dismantling an old device and making measurements) the magnitude of the potential deflection plates (and the space between them) in an ink jet printer. Then look up the speed with which the ink comes out the nozzle. Can you calculate the typical mass of an ink drop?",
+        "Image Links": [],
+        "Answer": "Answers will vary. This appears to be proprietary information, and ridiculously difficult to find. Speeds will be 20 m/s or less, and there are claims of $$\\tilde{10^{-7}}$$ grams for the mass of a drop.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Use the electric field of a finite sphere with constant volume charge density to calculate the electric potential, throughout space. Then check your results by calculating the electric field from the potential.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Calculate the electric field of a dipole throughout space from the potential.",
+        "Image Links": [],
+        "Answer": "Apply $$\\vec{\\mathbf{\\text{E}}} = \\text{unicode[:-]} \\vec{\\nabla} V$$ with $$\\vec{\\nabla} = \\mathbf{\\hat{\\text{r}}} \\frac{\\partial}{\\partial r} + \\hat{\\theta} \\frac{1}{r} \\frac{\\partial}{\\partial \\theta} + \\hat{\\phi} \\frac{1}{r \\text{sin} \\theta} \\frac{\\partial}{\\partial \\phi}$$ to the potential calculated earlier, $$V_{P} = k \\frac{\\mathbf{\\vec{\\text{p}}} \\cdotp \\mathbf{\\hat{\\text{r}}}}{r^{2}}$$ with $$\\mathbf{\\vec{\\text{p}}} = q \\mathbf{\\vec{\\text{d}}} ,$$ and assume that the axis of the dipole is aligned with the z -axis of the coordinate system. Thus, the potential is $$V_{P} = k \\frac{q \\mathbf{\\vec{\\text{d}}} \\cdotp \\mathbf{\\hat{\\text{r}}}}{r^{2}} = k \\frac{q d \\text{cos} \\theta}{r^{2}}$$ . $$\\vec{\\mathbf{\\text{E}}} = 2 k q d ( \\frac{\\text{cos} \\theta}{r^{3}} ) \\mathbf{\\hat{\\text{r}}} + k q d ( \\frac{\\text{sin} \\theta}{r^{3}} ) \\hat{\\theta}$$",
+        "Answer Image Links": []
+    }
+]

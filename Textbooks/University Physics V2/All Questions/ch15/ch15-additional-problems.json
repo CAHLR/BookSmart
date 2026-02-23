@@ -1,0 +1,100 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The emf of an ac source is given by $$v ( t ) = V_{0} \\text{sin} \\upomega t ,$$ where $$V_{0} = 100 \\text{V}$$ and $$\\upomega = 200 \\pi \\text{rad/s} \\text{.}$$ Find an expression that represents the output current of the source if it is connected across (a) a $$20 \\text{-} \\mu \\text{F}$$ capacitor, (b) a 20-mH inductor, and (c) a $$50 \\text{-} \\text{omega}$$ resistor.",
+        "Image Links": [],
+        "Answer": "a. $$i ( t ) = ( 1.26 \\text{A} ) \\text{sin} ( 200 \\pi t + \\pi \\text{/} 2 )$$ ; b. $$i ( t ) = ( 7.96 \\text{A} ) \\text{sin} ( 200 \\pi t - \\pi \\text{/} 2 )$$ ; c. $$i ( t ) = ( 2 \\text{A} ) \\text{sin} ( 200 \\pi t )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A 700-pF capacitor is connected across an ac source with a voltage amplitude of 160 V and a frequency of 20 kHz. (a) Determine the capacitive reactance of the capacitor and the amplitude of the output current of the source. (b) If the frequency is changed to 60 Hz while keeping the voltage amplitude at 160 V, what are the capacitive reactance and the current amplitude?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A 20-mH inductor is connected across an AC source with a variable frequency and a constant-voltage amplitude of 9.0 V. (a) Determine the reactance of the circuit and the maximum current through the inductor when the frequency is set at 20 kHz. (b) Do the same calculations for a frequency of 60 Hz.",
+        "Image Links": [],
+        "Answer": "a. $$2.5 \\times 10^{3} \\text{omega} , 3.6 \\times 10^{-3} \\text{A}$$ ; b. $$7.5 \\text{omega} , 1.2 \\text{A}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A $$30 \\text{-} \\mu \\text{F}$$ capacitor is connected across a 60-Hz ac source whose voltage amplitude is 50 V. (a) What is the maximum charge on the capacitor? (b) What is the maximum current into the capacitor? (c) What is the phase relationship between the capacitor charge and the current in the circuit?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A 7.0-mH inductor is connected across a 60-Hz ac source whose voltage amplitude is 50 V. (a) What is the maximum current through the inductor? (b) What is the phase relationship between the current through and the potential difference across the inductor?",
+        "Image Links": [],
+        "Answer": "a. 19 A; b. inductor leads by $$90 \\text{\u00b0}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "What is the impedance of an RLC series circuit at the resonant frequency?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "What is the resistance R in the circuit shown below if the amplitude of the ac through the inductor is 4.24 A?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/27a1b859edeabf45fb505a8bee9c9e95f7e58652"
+        ],
+        "Answer": "$$11.7 \\text{omega}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "An ac source of voltage amplitude 100 V and frequency 1.0 kHz drives an RLC series circuit with $$R = 20 \\text{omega}$$ , $$L = 4.0 \\text{mH}$$ , and $$C = 50 \\mu \\text{F}$$ . (a) Determine the rms current through the circuit. (b) What are the rms voltages across the three elements? (c) What is the phase angle between the emf and the current? (d) What is the power output of the source? (e) What is the power dissipated in the resistor?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "In an RLC series circuit, $$R = 200 \\text{omega}$$ , $$L = 1.0 \\text{H}$$ , $$C = 50 \\mu \\text{F,}$$ $$V_{0} = 120 \\text{V}$$ , and $$f = 50 \\text{Hz}$$ . What is the power output of the source?",
+        "Image Links": [],
+        "Answer": "14 W",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A power plant generator produces 100 A at 15 kV (rms). A transformer is used to step up the transmission line voltage to 150 kV (rms). (a) What is rms current in the transmission line? (b) If the resistance per unit length of the line is $$8.6 \\times 10^{-8} \\text{omega} \\text{/m,}$$ what is the power loss per meter in the line? (c) What would the power loss per meter be if the line voltage were 15 kV (rms)?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Consider a power plant located 25 km outside a town delivering 50 MW of power to the town. The transmission lines are made of aluminum cables with a $$7 \\text{cm}^{2}$$ cross-sectional area. Find the loss of power in the transmission lines if it is transmitted at (a) 200 kV (rms) and (b) 120 V (rms).",
+        "Image Links": [],
+        "Answer": "a. $$5.9 \\times 10^{4} \\text{W}$$ ; b. $$1.64 \\times 10^{11} \\text{W}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Neon signs require 12-kV for their operation. A transformer is to be used to change the voltage from 220-V (rms) ac to 12-kV (rms) ac. What must the ratio be of turns in the secondary winding to the turns in the primary winding? (b) What is the maximum rms current the neon lamps can draw if the fuse in the primary winding goes off at 0.5 A? (c) How much power is used by the neon sign when it is drawing the maximum current allowed by the fuse in the primary winding?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

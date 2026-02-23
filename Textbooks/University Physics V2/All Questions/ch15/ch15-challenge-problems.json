@@ -1,0 +1,106 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The 335-kV ac electricity from a power transmission line is fed into the primary winding of a transformer. The ratio of the number of turns in the secondary winding to the number in the primary winding is $$N_{\\text{s}} \\text{/} N_{\\text{p}} = 1000$$ . (a) What voltage is induced in the secondary winding? (b) What is unreasonable about this result? (c) Which assumption or premise is responsible?",
+        "Image Links": [],
+        "Answer": "a. 335 MV; b. the result is way too high, well beyond the breakdown voltage of air over reasonable distances; c. the input voltage is too high",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A $$1.5 \\text{-k} \\text{omega}$$ resistor and 30-mH inductor are connected in series, as shown below, across a 120-V (rms) ac power source oscillating at 60-Hz frequency. (a) Find the current in the circuit. (b) Find the voltage drops across the resistor and inductor. (c) Find the impedance of the circuit. (d) Find the power dissipated in the resistor. (e) Find the power dissipated in the inductor. (f) Find the power produced by the source.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/646439bba7acc24573ce81d6b10b2bd83097966c"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A $$20 \\text{-} \\text{omega}$$ resistor, $$50 \\text{-} \\mu \\text{F}$$ capacitor, and 30-mH inductor are connected in series with an ac source of amplitude 10 V and frequency 125 Hz. (a) What is the impedance of the circuit? (b) What is the amplitude of the current in the circuit? (c) What is the phase constant of the current? Is it leading or lagging the source voltage? (d) Write voltage drops across the resistor, capacitor, and inductor and the source voltage as a function of time. (e) What is the power factor of the circuit? (f) How much energy is used by the resistor in 2.5 s?",
+        "Image Links": [],
+        "Answer": "a. $$20 \\text{omega}$$ ; b. 0.5 A; c. $$5.4 \\text{\u00b0}$$ , lagging; d. $$\\left .\\begin{matrix}{a}V_{R} = ( 9.96 \\text{V} ) \\text{cos} ( 250 \\pi t + 5.4 \\text{\u00b0} ) \\text{,} V_{C} = ( 12.7 \\text{V} ) \\text{cos} ( 250 \\pi t + 5.4 \\text{\u00b0} - 90 \\text{\u00b0} ) \\text{,} \\\\ V_{L} = ( 11.8 \\text{V} ) \\text{cos} ( 250 \\pi t + 5.4 \\text{\u00b0} + 90 \\text{\u00b0} ) \\text{,} V_{\\text{source}} = ( 10.0 \\text{\u200b} \\text{V} ) \\text{cos} ( 250 \\pi t ) ;\\end{matrix}\\right .$$ e. 0.995; f. 6.25 J",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A $$200 \\text{-} \\text{omega}$$ resistor, $$150 \\text{-} \\mu \\text{F}$$ capacitor, and 2.5-H inductor are connected in series with an ac source of amplitude 10 V and variable angular frequency $$\\upomega$$ . (a) What is the value of the resonance frequency $$\\upomega_{R}$$ ? (b) What is the amplitude of the current if $$\\upomega = \\upomega_{R}$$ ? (c) What is the phase constant of the current when $$\\upomega = \\upomega_{R}$$ ? Is it leading or lagging the source voltage, or is it in phase? (d) Write an equation for the voltage drop across the resistor as a function of time when $$\\upomega = \\upomega_{R}$$ . (e) What is the power factor of the circuit when $$\\upomega = \\upomega_{R}$$ ? (f) How much energy is used up by the resistor in 2.5 s when $$\\upomega = \\upomega_{R}$$ ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Find the reactances of the following capacitors and inductors in ac circuits with the given frequencies in each case: (a) 2-mH inductor with a frequency 60-Hz of the ac circuit; (b) 2-mH inductor with a frequency 600-Hz of the ac circuit; (c) 20-mH inductor with a frequency 6-Hz of the ac circuit; (d) 20-mH inductor with a frequency 60-Hz of the ac circuit; (e) 2-mF capacitor with a frequency 60-Hz of the ac circuit; and (f) 2-mF capacitor with a frequency 600-Hz of the AC circuit.",
+        "Image Links": [],
+        "Answer": "a. $$0.75 \\text{omega}$$ ; b. $$7.5 \\text{omega}$$ ; c. $$0.75 \\text{omega}$$ ; d. $$7.5 \\text{omega}$$ ; e. $$1.3 \\text{omega}$$ ; f. $$0.13 \\text{omega}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "An output impedance of an audio amplifier has an impedance of $$500 \\text{omega}$$ and has a mismatch with a low-impedance $$8 \\text{-} \\text{omega}$$ loudspeaker. You are asked to insert an appropriate transformer to match the impedances. What turns ratio will you use, and why? Use the simplified circuit shown below.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f7e3d01e642d3617c6078f0ca69bbed3480d5d08"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Show that the SI unit for capacitive reactance is the ohm. Show that the SI unit for inductive reactance is also the ohm.",
+        "Image Links": [],
+        "Answer": "The units as written for inductive reactance Equation 15.8 are $$\\frac{\\text{rad}}{\\text{s}} \\text{H}$$ . Radians can be ignored in unit analysis. The Henry can be defined as $$\\text{H} = \\frac{\\text{V} \\cdotp \\text{s}}{\\text{A}} = \\text{omega} \\cdotp \\text{s}$$ . Combining these together results in a unit of $$\\text{omega}$$ for reactance.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A coil with a self-inductance of 16 mH and a resistance of $$6.0 \\text{omega}$$ is connected to an ac source whose frequency can be varied. At what frequency will the voltage across the coil lead the current through the coil by $$45 \\text{\u00b0} ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "An RLC series circuit consists of a $$50 \\text{-} \\text{omega}$$ resistor, a $$200 \\text{-} \\mu \\text{F}$$ capacitor, and a 120-mH inductor whose coil has a resistance of $$20 \\text{omega}$$ . The source for the circuit has an rms emf of 240 V at a frequency of 60 Hz. Calculate the rms voltages across the (a) resistor, (b) capacitor, and (c) inductor.",
+        "Image Links": [],
+        "Answer": "a. 156 V; b. 42 V; c. 154 V",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "An RLC series circuit consists of a $$10 \\text{-} \\text{omega}$$ resistor, an $$8.0 \\text{-} \\mu \\text{F}$$ capacitor, and a 50-mH inductor. A 110-V (rms) source of variable frequency is connected across the combination. What is the power output of the source when its frequency is set to one-half the resonant frequency of the circuit?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Shown below are two circuits that act as crude high-pass filters. The input voltage to the circuits is $$v_{\\text{in}}$$ , and the output voltage is $$v_{\\text{out}} .$$ (a) Show that for the capacitor circuit, $$\\frac{v_{\\text{out}}}{v_{\\text{in}}} = \\frac{1}{\\sqrt{1 + 1 \\text{/} \\upomega^{2} R^{2} C^{2}}} ,$$ and for the inductor circuit, $$\\frac{v_{\\text{out}}}{v_{\\text{in}}} = \\frac{\\upomega L}{\\sqrt{R^{2} + \\upomega^{2} L^{2}}} .$$ (b) Show that for high frequencies, $$v_{\\text{out}} \\approx v_{\\text{in}} ,$$ but for low frequencies, $$v_{\\text{out}} \\approx 0 .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d31edfb2876d23e4b41f872a7ccbcfcb969a79e1"
+        ],
+        "Answer": "a. $$\\frac{v_{\\text{out}}}{v_{\\text{in}}} = \\frac{1}{\\sqrt{1 + 1 \\text{/} \\upomega^{2} R^{2} C^{2}}}$$ and $$\\frac{v_{\\text{out}}}{v_{\\text{in}}} = \\frac{\\upomega L}{\\sqrt{R^{2} + \\upomega^{2} L^{2}}}$$ ; b. $$v_{\\text{out}} \\approx v_{\\text{in}}$$ and $$v_{\\text{out}} \\approx 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The two circuits shown below act as crude low-pass filters. The input voltage to the circuits is $$v_{\\text{in}}$$ , and the output voltage is $$v_{\\text{out}} .$$ (a) Show that for the capacitor circuit, $$\\frac{v_{\\text{out}}}{v_{\\text{in}}} = \\frac{1}{\\sqrt{1 + \\upomega^{2} R^{2} C^{2}}} ,$$ and for the inductor circuit, $$\\frac{v_{\\text{out}}}{v_{\\text{in}}} = \\frac{R}{\\sqrt{R^{2} + \\upomega^{2} L^{2}}} .$$ (b) Show that for low frequencies, $$v_{\\text{out}} \\approx v_{\\text{in}} ,$$ but for high frequencies, $$v_{\\text{out}} \\approx 0 .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c9398e7e1c308cbcfbcb74ba651821e6c07c9ef0"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

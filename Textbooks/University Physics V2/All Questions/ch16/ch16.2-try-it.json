@@ -1,0 +1,18 @@
+[
+    {
+        "Topic": "Check Your Understanding 16.3",
+        "Problem Statement": "",
+        "Question": "The wave equation was obtained by (1) finding the E field produced by the changing B field, (2) finding the B field produced by the changing E field, and combining the two results. Which of Maxwell\u2019s equations was the basis of step (1) and which of step (2)?",
+        "Image Links": [],
+        "Answer": "(1) Faraday\u2019s law, (2) the Amp\u00e8re-Maxwell law",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 16.4",
+        "Problem Statement": "",
+        "Question": "What conclusions did our analysis of Maxwell\u2019s equations lead to about these properties of a plane electromagnetic wave: (a) the relative directions of wave propagation, of the E field, and of B field, (b) the speed of travel of the wave and how the speed depends on frequency, and (c) the relative magnitudes of the E and B fields.",
+        "Image Links": [],
+        "Answer": "a. The directions of wave propagation, of the E field, and of B field are all mutually perpendicular. b. The speed of the electromagnetic wave is the speed of light $$c = 1 \\text{/} \\sqrt{\\varepsilon_{0} \\mu_{0}}$$ independent of frequency. c. The ratio of electric and magnetic field amplitudes is $$E \\text{/} B = c .$$",
+        "Answer Image Links": []
+    }
+]

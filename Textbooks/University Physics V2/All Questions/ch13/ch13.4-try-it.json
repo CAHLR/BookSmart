@@ -1,0 +1,41 @@
+[
+    {
+        "Topic": "Check Your Understanding 13.6",
+        "Problem Statement": "",
+        "Question": "Suppose that the coil of Example 13.2 is a square rather than circular. Can Equation 13.12 be used to calculate (a) the induced emf and (b) the induced electric field?",
+        "Image Links": [],
+        "Answer": "a. yes; b. Yes; however there is a lack of symmetry between the electric field and coil, making $$\\oint \\mathbf{\\vec{E}} \\cdotp d \\mathbf{\\vec{l}}$$ a more complicated relationship that can\u2019t be simplified as shown in the example.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 13.7",
+        "Problem Statement": "",
+        "Question": "What is the magnitude of the induced electric field in Example 13.8 at $$t = 0$$ if $$r = 6.0 \\text{cm} ,$$ $$R = 2.0 \\text{cm} , n = 2000$$ turns per meter, $$I_{0} = 2.0 \\text{A} ,$$ and $$\\alpha = 200 \\text{s}^{\\text{unicode[:-]} 1} ?$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f971fb38559197c8bf3922fcd5eec8c5f87ef509",
+            "https://openstax.org/apps/archive/20240812.170248/resources/bdf5bba82a04c75813419ef9cd3703d742e4789f"
+        ],
+        "Answer": "$$3.4 \\times 10^{-3} \\text{V} \\text{/} \\text{m}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 13.8",
+        "Problem Statement": "",
+        "Question": "The magnetic field shown below is confined to the cylindrical region shown and is changing with time. Identify those paths for which $$\\varepsilon = \\oint \\mathbf{\\vec{E}} \\cdotp d \\mathbf{\\vec{l}} \\ne 0.$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/44e84b82450dfb712b689fa71f508bdf04bd0688"
+        ],
+        "Answer": "$$P_{1} , P_{2} , P_{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 13.9",
+        "Problem Statement": "",
+        "Question": "A long solenoid of cross-sectional area $$5.0 \\text{cm}^{2}$$ is wound with 25 turns of wire per centimeter. It is placed in the middle of a closely wrapped coil of 10 turns and radius 25 cm, as shown below. (a) What is the emf induced in the coil when the current through the solenoid is decreasing at a rate $$d I \\text{/} d t = -0.20 \\text{A} \\text{/} \\text{s} ?$$ (b) What is the electric field induced in the coil?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6c59adcfd94c5765534d713c60457c147ad001d7"
+        ],
+        "Answer": "a. $$3 . 1 \\times 1 0^{\\text{unicode[:-]} 6} \\text{V} ;$$ b. $$2.0 \\times 10^{\\text{unicode[:-]} 7} \\text{V} \\text{/} \\text{m}$$",
+        "Answer Image Links": []
+    }
+]

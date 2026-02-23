@@ -1,0 +1,98 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A coaxial cable consists of an inner conductor with radius $$r_{\\text{i}} = 0.25 \\text{cm}$$ and an outer radius of $$r_{\\text{o}} = 0.5 \\text{cm}$$ and has a length of 10 meters. Plastic, with a resistivity of $$\\rho = 2.00 \\times 10^{13} \\text{omega} \\cdotp \\text{m}$$ , separates the two conductors. What is the resistance of the cable?",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{aaa}d R & = & \\frac{\\rho}{2 \\pi r L} d r \\\\ R & = & \\frac{\\rho}{2 \\pi L} \\text{ln} \\frac{r_{\\text{o}}}{r_{\\text{i}}} \\\\ R & = & 2.21 \\times 10^{11} \\text{omega}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A 10.00-meter long wire cable that is made of copper has a resistance of 0.051 ohms. (a) What is the weight if the wire was made of copper? (b) What is the weight of a 10.00-meter-long wire of the same gauge made of aluminum? (c)What is the resistance of the aluminum wire? The density of copper is $$8960 \\text{kg/m}^{3}$$ and the density of aluminum is $$2760 \\text{kg/m}^{3}$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A nichrome rod that is 3.00 mm long with a cross-sectional area of $$1.00 \\text{mm}^{2}$$ is used for a digital thermometer. (a) What is the resistance at room temperature? (b) What is the resistance at body temperature?",
+        "Image Links": [],
+        "Answer": "a. $$R_{0} = 0.003 \\text{omega}$$ ; b. $$\\left .\\begin{matrix}{aaa}T_{\\text{c}} & = & 37.0 \\text{\u00b0} \\text{C} \\\\ R & = & 0.00302 \\text{omega}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The temperature in Philadelphia, PA can vary between $$68.00 \\text{\u00b0} \\text{F}$$ and $$100.00 \\text{\u00b0} \\text{F}$$ in one summer day. By what percentage will an aluminum wire\u2019s resistance change during the day?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "When 100.0 V is applied across a 5-gauge (diameter 4.621 mm) wire that is 10 m long, the magnitude of the current density is $$2.0 \\times 10^{8} \\text{A/m}^{2}$$ . What is the resistivity of the wire?",
+        "Image Links": [],
+        "Answer": "$$\\rho = 5.00 \\times 10^{-8} \\text{omega} \\cdotp \\text{m}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A wire with a resistance of $$5.0 \\text{omega}$$ is drawn out through a die so that its new length is twice times its original length. Find the resistance of the longer wire. You may assume that the resistivity and density of the material are unchanged.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "What is the resistivity of a wire of 5-gauge wire $$( A = 16.8 \\times 10^{-6} \\text{m}^{2}$$ ), 5.00 m length, and $$5.10 \\text{m} \\text{omega}$$ resistance?",
+        "Image Links": [],
+        "Answer": "$$\\rho = 1.71 \\times 10^{-8} \\text{omega} \\cdotp \\text{m}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Coils are often used in electrical and electronic circuits. Consider a coil which is formed by winding 1000 turns of insulated 20-gauge copper wire (area $$0.52 \\text{mm}^{2} )$$ in a single layer on a cylindrical non-conducting core of radius 2.0 mm. What is the resistance of the coil? Neglect the thickness of the insulation.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Currents of approximately 0.06 A can be potentially fatal. Currents in that range can make the heart fibrillate (beat in an uncontrolled manner). The resistance of a dry human body can be approximately $$100 \\text{k} \\text{omega}$$ . (a) What voltage can cause 0.06 A through a dry human body? (b) When a human body is wet, the resistance can fall to $$100 \\text{omega}$$ . What voltage can cause harm to a wet body?",
+        "Image Links": [],
+        "Answer": "a. $$V = 6000 \\text{V}$$ ; b. $$V = 6 \\text{V}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A 20.00-ohm, 5.00-watt resistor is placed in series with a power supply. (a) What is the maximum voltage that can be applied to the resistor without harming the resistor? (b) What would be the current through the resistor?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A battery with an emf of 24.00 V delivers a constant current of 2.00 mA to an appliance. How much work does the battery do in three minutes?",
+        "Image Links": [],
+        "Answer": "$$P = \\frac{W}{t} , W = 8.64 \\text{J}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A 12.00-V battery has an internal resistance of a tenth of an ohm. (a) What is the current if the battery terminals are momentarily shorted together? (b) What is the terminal voltage if the battery delivers 0.25 amps to a circuit?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "Topic": "Check Your Understanding 15.4",
+        "Problem Statement": "",
+        "Question": "An ac voltmeter attached across the terminals of a 45-Hz ac generator reads 7.07 V. Write an expression for the emf of the generator.",
+        "Image Links": [],
+        "Answer": "$$v ( t ) = ( 10.0 \\text{V} ) \\text{sin} 90 \\pi t$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 15.5",
+        "Problem Statement": "",
+        "Question": "Show that the rms voltages across a resistor, a capacitor, and an inductor in an ac circuit where the rms current is $$I_{\\text{rms}}$$ are given by $$I_{\\text{rms}} R , I_{\\text{rms}} X_{C} , \\text{and} I_{\\text{rms}} X_{L} ,$$ respectively. Determine these values for the components of the RLC circuit of Equation 15.12.",
+        "Image Links": [],
+        "Answer": "2.00 V; 10.01 V; 8.01 V",
+        "Answer Image Links": []
+    }
+]

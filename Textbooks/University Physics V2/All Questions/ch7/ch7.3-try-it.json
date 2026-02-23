@@ -1,0 +1,26 @@
+[
+    {
+        "Topic": "Check Your Understanding 7.8",
+        "Problem Statement": "",
+        "Question": "What is the potential inside the metal sphere in Example 7.10?",
+        "Image Links": [],
+        "Answer": "$$V = k \\frac{q}{r} = ( 8.99 \\times 10^{9} \\text{N} \\cdotp \\text{m}^{2} \\text{/C}^{2} ) ( \\frac{-3.00 \\times 10^{-9} \\text{C}}{5.00 \\times 10^{-3} \\text{m}} ) = -5390 \\text{V;}$$ recall that the electric field inside a conductor is zero. Hence, any path from a point on the surface to any point in the interior will have an integrand of zero when calculating the change in potential, and thus the potential in the interior of the sphere is identical to that on the surface.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 7.9",
+        "Problem Statement": "",
+        "Question": "What is the potential on the x -axis? The z -axis?",
+        "Image Links": [],
+        "Answer": "The x -axis the potential is zero, due to the equal and opposite charges the same distance from it. On the z -axis, we may superimpose the two potentials; we will find that for $$z > > d$$ , again the potential goes to zero due to cancellation.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 7.10",
+        "Problem Statement": "",
+        "Question": "What is the potential on the axis of a nonuniform ring of charge, where the charge density is $$\\lambda ( \\theta ) = \\lambda \\text{cos} \\theta$$ ?",
+        "Image Links": [],
+        "Answer": "It will be zero, as at all points on the axis, there are equal and opposite charges equidistant from the point of interest. Note that this distribution will, in fact, have a dipole moment.",
+        "Answer Image Links": []
+    }
+]
