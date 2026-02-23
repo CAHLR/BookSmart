@@ -1,12 +1,16 @@
 import subprocess
+from pathlib import Path
+
+_SCRIPT_DIR = Path(__file__).resolve().parent
+_MATHML_TO_LATEX_JS = _SCRIPT_DIR / "mathml-to-latex.js"
 
 def convert_mathml_to_latex(mathml):
     try:
-        # Attempt 1: Use plurimath
+
         result = subprocess.run(
             ['plurimath', 'convert', '-i', mathml, '-f', 'mathml', '-t', 'latex'],
             stdout=subprocess.PIPE,
-            stderr=subprocess.PIPE,  # Capture errors
+            stderr=subprocess.PIPE,
             text=True
         )
 
@@ -22,9 +26,9 @@ def convert_mathml_to_latex(mathml):
     print("Falling back to Node.js conversion...")
 
     try:
-        # Attempt 2: Use Node.js script
+
         result = subprocess.run(
-            ['node', 'mathml-to-latex.js', mathml],
+            ['node', str(_MATHML_TO_LATEX_JS), mathml],
             capture_output=True,
             text=True,
             check=True
