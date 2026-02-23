@@ -1,0 +1,494 @@
+[
+    {
+        "Topic": "9.1 Null and Alternative Hypotheses",
+        "Problem Statement": "",
+        "Question": "You are testing that the mean speed of your cable internet connection is more than three megabits per second. What is the random variable? Describe it in words.",
+        "Image Links": [],
+        "Answer": "The random variable is the mean Internet speed in megabits per second.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.1 Null and Alternative Hypotheses",
+        "Problem Statement": "",
+        "Question": "You are testing that the mean speed of your cable internet connection is more than three megabits per second. State the null and alternative hypotheses.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.1 Null and Alternative Hypotheses",
+        "Problem Statement": "",
+        "Question": "The American family has an average of two children. What is the random variable? Describe in words.",
+        "Image Links": [],
+        "Answer": "The random variable is the mean number of children an American family has.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.1 Null and Alternative Hypotheses",
+        "Problem Statement": "",
+        "Question": "The mean entry level salary of an employee at a company is $58,000. You believe it is higher for IT professionals in the company. State the null and alternative hypotheses.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.1 Null and Alternative Hypotheses",
+        "Problem Statement": "",
+        "Question": "A sociologist claims the probability that a person picked at random in Times Square in New York City is visiting the area is 0.83. You want to test to see if the proportion is actually less. What is the random variable? Describe in words.",
+        "Image Links": [],
+        "Answer": "The random variable is the proportion of people picked at random in Times Square visiting the city.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.1 Null and Alternative Hypotheses",
+        "Problem Statement": "",
+        "Question": "A sociologist claims the probability that a person picked at random in Times Square in New York City is visiting the area is 0.83. You want to test to see if the claim is correct. State the null and alternative hypotheses.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.1 Null and Alternative Hypotheses",
+        "Problem Statement": "",
+        "Question": "In a population of fish, approximately 42 percent are female. A test is conducted to see if, in fact, the proportion is less. State the null and alternative hypotheses.",
+        "Image Links": [],
+        "Answer": "a) H 0 : p = 0.42 b) H a : p < 0.42",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.1 Null and Alternative Hypotheses",
+        "Problem Statement": "",
+        "Question": "Suppose that a recent article stated that the mean time students spend doing homework each week is 2.5 hours. A study was then done to see if the mean time has increased in the new century. A random sample of 26 students. The mean length of time the students spent on homework was 3 hours with a standard deviation of 1.8 hours. Suppose that it is somehow known that the population standard deviation is 1.5. If you were conducting a hypothesis test to determine if the mean length of homework has increased, what would the null and alternative hypotheses be? The distribution of the population is normal. a) H 0 : ________ b) H a : ________",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.1 Null and Alternative Hypotheses",
+        "Problem Statement": "",
+        "Question": "A random survey of 75 long-term marathon runners  revealed that the mean length of time they've been running  is 17.4 years with a standard deviation of 6.3 years. If you were conducting a hypothesis test to determine if the population mean time for these runners could likely be 15 years, what would the null and alternative hypotheses be? a) H 0 : __________ b) H a : __________",
+        "Image Links": [],
+        "Answer": "a) H 0 : \u03bc = 15 b) H a : \u03bc \u2260 15",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.1 Null and Alternative Hypotheses",
+        "Problem Statement": "",
+        "Question": "Researchers published an article stating that in any one-year period, approximately 9.5 percent of American adults suffer from a particular type of disease. Suppose that in a survey of 100 people in a certain town, seven of them suffered from this disease. If you were conducting a hypothesis test to determine if the true proportion of people in that town suffering from this disease is lower than the percentage in the general adult American population, what would the null and alternative hypotheses be? a) H 0 : ________ b) H a : ________",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.2 Outcomes and the Type I and Type II Errors",
+        "Problem Statement": "",
+        "Question": "The mean price of mid-sized cars in a region is $32,000. A test is conducted to see if the claim is true. State the Type I and Type II errors in complete sentences.",
+        "Image Links": [],
+        "Answer": "Type I: The mean price of mid-sized cars is $32,000, but we conclude that it is not $32,000. Type II: The mean price of mid-sized cars is not $32,000, but we conclude that it is $32,000.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.2 Outcomes and the Type I and Type II Errors",
+        "Problem Statement": "",
+        "Question": "A sleeping bag is tested to withstand temperatures of -15 \u00b0F. You think the bag cannot stand temperatures that low. State the Type I and Type II errors in complete sentences.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.2 Outcomes and the Type I and Type II Errors",
+        "Problem Statement": "",
+        "Question": "For Exercise 9.12 , what are \u03b1 and \u03b2 in words?",
+        "Image Links": [],
+        "Answer": "\u03b1 = the probability that you think the bag cannot withstand -15 degrees F, when, in fact, it can. \u03b2 = the probability that you think the bag can withstand -15 degrees F, when, in fact, it cannot.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.2 Outcomes and the Type I and Type II Errors",
+        "Problem Statement": "",
+        "Question": "In words, describe 1 - \u03b2 for Exercise 9.12 .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.2 Outcomes and the Type I and Type II Errors",
+        "Problem Statement": "",
+        "Question": "A group of doctors is deciding whether or not to perform an operation. Suppose the null hypothesis, H 0 , is: the surgical procedure will go well. State the Type I and Type II errors in complete sentences.",
+        "Image Links": [],
+        "Answer": "Type I: The procedure will go well, but the doctors think it will not. Type II: The procedure will not go well, but the doctors think it will.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.2 Outcomes and the Type I and Type II Errors",
+        "Problem Statement": "",
+        "Question": "A group of doctors is deciding whether or not to perform an operation. Suppose the null hypothesis, H 0 , is: the surgical procedure will go well. Which is the error with the greater consequence?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.2 Outcomes and the Type I and Type II Errors",
+        "Problem Statement": "",
+        "Question": "The power of a test is 0.981. What is the probability of a Type II error?",
+        "Image Links": [],
+        "Answer": "0.019",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.2 Outcomes and the Type I and Type II Errors",
+        "Problem Statement": "",
+        "Question": "A group of divers is exploring an old sunken ship. Suppose the null hypothesis, H 0 , is the sunken ship does not contain buried treasure. State the Type I and Type II errors in complete sentences.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.2 Outcomes and the Type I and Type II Errors",
+        "Problem Statement": "",
+        "Question": "A microbiologist is testing a water sample for E. coli. Suppose the null hypothesis, H 0 , is the sample does not contain E. coli. The probability that the sample does not contain E. coli, but the microbiologist thinks it does is 0.012. The probability that the sample does contain E. coli, but the microbiologist thinks it does not is 0.002. What is the power of this test?",
+        "Image Links": [],
+        "Answer": "0.998",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.2 Outcomes and the Type I and Type II Errors",
+        "Problem Statement": "",
+        "Question": "A microbiologist is testing a water sample for E. coli. Suppose the null hypothesis, H 0 , is the sample contains E-coli. Which is the error with the greater consequence?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.3 Distribution Needed for Hypothesis Testing",
+        "Problem Statement": "",
+        "Question": "Which two distributions can you use for hypothesis testing for this chapter?",
+        "Image Links": [],
+        "Answer": "A normal distribution or a Student\u2019s t -distribution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.3 Distribution Needed for Hypothesis Testing",
+        "Problem Statement": "",
+        "Question": "Which distribution do you use when the standard deviation is not known? Assume sample size is large.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.3 Distribution Needed for Hypothesis Testing",
+        "Problem Statement": "",
+        "Question": "Which distribution do you use when the standard deviation is not known and you are testing one population mean? Assume sample size is large.",
+        "Image Links": [],
+        "Answer": "Use a Student\u2019s t -distribution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.3 Distribution Needed for Hypothesis Testing",
+        "Problem Statement": "",
+        "Question": "A population mean is 13. The sample mean is 12.8, and the sample standard deviation is two. The sample size is 20. What distribution should you use to perform a hypothesis test? Assume the underlying population is normal.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.3 Distribution Needed for Hypothesis Testing",
+        "Problem Statement": "",
+        "Question": "A population has a mean of 25 and a standard deviation of five. The sample mean is 24, and the sample size is 108. What distribution should you use to perform a hypothesis test?",
+        "Image Links": [],
+        "Answer": "a normal distribution for a single population mean",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.3 Distribution Needed for Hypothesis Testing",
+        "Problem Statement": "",
+        "Question": "It is thought that 42 percent of respondents in a taste test would prefer Brand A . In a particular test of 100 people, 39 percent preferred Brand A . What distribution should you use to perform a hypothesis test?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.3 Distribution Needed for Hypothesis Testing",
+        "Problem Statement": "",
+        "Question": "You are performing a hypothesis test of a single population mean using a Student\u2019s t -distribution. What must you assume about the distribution of the data?",
+        "Image Links": [],
+        "Answer": "It must be approximately normally distributed.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.3 Distribution Needed for Hypothesis Testing",
+        "Problem Statement": "",
+        "Question": "You are performing a hypothesis test of a single population mean using a Student\u2019s t -distribution. The data are not from a simple random sample. Can you accurately perform the hypothesis test?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.3 Distribution Needed for Hypothesis Testing",
+        "Problem Statement": "",
+        "Question": "You are performing a hypothesis test of a single population proportion. What must be true about the quantities of np and nq ?",
+        "Image Links": [],
+        "Answer": "They must both be greater than five.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.3 Distribution Needed for Hypothesis Testing",
+        "Problem Statement": "",
+        "Question": "You are performing a hypothesis test of a single population proportion. You find out that np is less than five. What must you do to be able to perform a valid hypothesis test?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.3 Distribution Needed for Hypothesis Testing",
+        "Problem Statement": "",
+        "Question": "You are performing a hypothesis test of a single population proportion. The data come from which distribution?",
+        "Image Links": [],
+        "Answer": "binomial distribution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.4 Rare Events, the Sample, and the Decision and Conclusion",
+        "Problem Statement": "",
+        "Question": "When do you reject the null hypothesis?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.4 Rare Events, the Sample, and the Decision and Conclusion",
+        "Problem Statement": "",
+        "Question": "The probability of winning the grand prize at a particular carnival game is 0.005. Is the outcome of winning very likely or very unlikely?",
+        "Image Links": [],
+        "Answer": "The outcome of winning is very unlikely.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.4 Rare Events, the Sample, and the Decision and Conclusion",
+        "Problem Statement": "",
+        "Question": "The probability of winning the grand prize at a particular carnival game is 0.005. Michele wins the grand prize. Is this considered a rare or common event? Why?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.4 Rare Events, the Sample, and the Decision and Conclusion",
+        "Problem Statement": "",
+        "Question": "It is believed that the mean height of high school students who play basketball on the school team is 73 inches with a standard deviation of 1.8 inches. A random sample of 40 players is chosen. The sample mean was 71 inches, and the sample standard deviation was 1.5 inches. Do the data support the claim that the mean height is less than 73 inches? The p -value is almost zero. State the null and alternative hypotheses and interpret the p -value.",
+        "Image Links": [],
+        "Answer": "H 0 : \u03bc > = 73 H a : \u03bc < 73 The p -value is almost zero, which means there is sufficient data to conclude that the mean height of high school students who play basketball on the school team is less than 73 inches at the 5 percent level.  The data do support the claim.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.4 Rare Events, the Sample, and the Decision and Conclusion",
+        "Problem Statement": "",
+        "Question": "The mean age of graduate students at a university is at most 31 years with a standard deviation of two years. A random sample of 15 graduate students is taken. The sample mean is 32 years and the sample standard deviation is three years. Are the data significant at the 1 percent level? The p -value is 0.0264. State the null and alternative hypotheses and interpret the p -value.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.4 Rare Events, the Sample, and the Decision and Conclusion",
+        "Problem Statement": "",
+        "Question": "Does the shaded region represent a low or a high p -value compared to a level of significance of 1 percent? Figure 9.22",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2f61b0509a9a989fe93d63ca178fc0b11363632f"
+        ],
+        "Answer": "The shaded region shows a low p -value.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.4 Rare Events, the Sample, and the Decision and Conclusion",
+        "Problem Statement": "",
+        "Question": "What should you do when \u03b1 > p -value?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.4 Rare Events, the Sample, and the Decision and Conclusion",
+        "Problem Statement": "",
+        "Question": "What should you do if \u03b1 = p -value?",
+        "Image Links": [],
+        "Answer": "Do not reject H 0 .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.4 Rare Events, the Sample, and the Decision and Conclusion",
+        "Problem Statement": "",
+        "Question": "If you do not reject the null hypothesis, then it must be true. Is that statement correct? State why or why not in complete sentences.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.4 Rare Events, the Sample, and the Decision and Conclusion",
+        "Problem Statement": "Use the following information to answer the next seven exercises: Suppose that a recent article stated that the mean time students spend doing homework each week is  2.5 hours. A study was then done to see if the mean time has increased in the new century. A random sample of 26 students was taken. The mean length of time they did homework each week was  three hours with a standard deviation of 1.8 hours. Suppose that it is somehow known that the population standard deviation is 1.5. Conduct a hypothesis test to determine if the mean length of time doing  homework each week has increased. Assume the distribution of homework times is approximately normal.",
+        "Question": "Is this a test of means or proportions?",
+        "Image Links": [],
+        "Answer": "means",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.4 Rare Events, the Sample, and the Decision and Conclusion",
+        "Problem Statement": "Use the following information to answer the next seven exercises: Suppose that a recent article stated that the mean time students spend doing homework each week is  2.5 hours. A study was then done to see if the mean time has increased in the new century. A random sample of 26 students was taken. The mean length of time they did homework each week was  three hours with a standard deviation of 1.8 hours. Suppose that it is somehow known that the population standard deviation is 1.5. Conduct a hypothesis test to determine if the mean length of time doing  homework each week has increased. Assume the distribution of homework times is approximately normal.",
+        "Question": "What symbol represents the random variable for this test?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.4 Rare Events, the Sample, and the Decision and Conclusion",
+        "Problem Statement": "Use the following information to answer the next seven exercises: Suppose that a recent article stated that the mean time students spend doing homework each week is  2.5 hours. A study was then done to see if the mean time has increased in the new century. A random sample of 26 students was taken. The mean length of time they did homework each week was  three hours with a standard deviation of 1.8 hours. Suppose that it is somehow known that the population standard deviation is 1.5. Conduct a hypothesis test to determine if the mean length of time doing  homework each week has increased. Assume the distribution of homework times is approximately normal.",
+        "Question": "In words, define the random variable for this test.",
+        "Image Links": [],
+        "Answer": "the mean time spent on homework for 26 students",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.4 Rare Events, the Sample, and the Decision and Conclusion",
+        "Problem Statement": "Use the following information to answer the next seven exercises: Suppose that a recent article stated that the mean time students spend doing homework each week is  2.5 hours. A study was then done to see if the mean time has increased in the new century. A random sample of 26 students was taken. The mean length of time they did homework each week was  three hours with a standard deviation of 1.8 hours. Suppose that it is somehow known that the population standard deviation is 1.5. Conduct a hypothesis test to determine if the mean length of time doing  homework each week has increased. Assume the distribution of homework times is approximately normal.",
+        "Question": "Is \u03c3 known and, if so, what is it?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.4 Rare Events, the Sample, and the Decision and Conclusion",
+        "Problem Statement": "Use the following information to answer the next seven exercises: Suppose that a recent article stated that the mean time students spend doing homework each week is  2.5 hours. A study was then done to see if the mean time has increased in the new century. A random sample of 26 students was taken. The mean length of time they did homework each week was  three hours with a standard deviation of 1.8 hours. Suppose that it is somehow known that the population standard deviation is 1.5. Conduct a hypothesis test to determine if the mean length of time doing  homework each week has increased. Assume the distribution of homework times is approximately normal.",
+        "Question": "Calculate the following: a) $$\\overline{x}$$ _______ b) \u03c3 _______ c) s x _______ d) n _______",
+        "Image Links": [],
+        "Answer": "a) 3 b) 1.5 c) 1.8 d) 26",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.4 Rare Events, the Sample, and the Decision and Conclusion",
+        "Problem Statement": "Use the following information to answer the next seven exercises: Suppose that a recent article stated that the mean time students spend doing homework each week is  2.5 hours. A study was then done to see if the mean time has increased in the new century. A random sample of 26 students was taken. The mean length of time they did homework each week was  three hours with a standard deviation of 1.8 hours. Suppose that it is somehow known that the population standard deviation is 1.5. Conduct a hypothesis test to determine if the mean length of time doing  homework each week has increased. Assume the distribution of homework times is approximately normal.",
+        "Question": "Since both \u03c3 and $$s_{x}$$ are given, which should be used? In one to two complete sentences, explain why.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.4 Rare Events, the Sample, and the Decision and Conclusion",
+        "Problem Statement": "Use the following information to answer the next seven exercises: Suppose that a recent article stated that the mean time students spend doing homework each week is  2.5 hours. A study was then done to see if the mean time has increased in the new century. A random sample of 26 students was taken. The mean length of time they did homework each week was  three hours with a standard deviation of 1.8 hours. Suppose that it is somehow known that the population standard deviation is 1.5. Conduct a hypothesis test to determine if the mean length of time doing  homework each week has increased. Assume the distribution of homework times is approximately normal.",
+        "Question": "State the distribution to use for the hypothesis test.",
+        "Image Links": [],
+        "Answer": "$$\\overline{X} \\tilde{} N ( 2.5 , \\frac{1.5}{\\sqrt{26}} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.4 Rare Events, the Sample, and the Decision and Conclusion",
+        "Problem Statement": "Use the following information to answer the next seven exercises: Suppose that a recent article stated that the mean time students spend doing homework each week is  2.5 hours. A study was then done to see if the mean time has increased in the new century. A random sample of 26 students was taken. The mean length of time they did homework each week was  three hours with a standard deviation of 1.8 hours. Suppose that it is somehow known that the population standard deviation is 1.5. Conduct a hypothesis test to determine if the mean length of time doing  homework each week has increased. Assume the distribution of homework times is approximately normal.",
+        "Question": "A random survey of 75 long-term marathon runners revealed that the mean length of time they have been running is 17.4 years with a standard deviation of 6.3 years. Conduct a hypothesis test to determine if the population mean time is likely to be 15 years. a) Is this a test of one mean or proportion? b) State the null and alternative hypotheses. H 0 : ____________________ H a :  ____________________ c) Is this a right-tailed, left-tailed, or two-tailed test? d) What symbol represents the random variable for this test? e) In words, define the random variable for this test. f) Is the population standard deviation known and, if so, what is it? g) Calculate the following: $$\\overline{x}$$ = _____________ s = ____________ n = ____________ h) Which test should be used? i) State the distribution to use for the hypothesis test. j) Find the p -value. k) At a pre-conceived \u03b1 = 0.05, give your answer for each of the following: Decision: Reason for the decision: Conclusion (write out in a complete sentence):",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.5 Additional Information and Full Hypothesis Test Examples",
+        "Problem Statement": "",
+        "Question": "Assume H 0 : \u03bc = 9 and H a : \u03bc < 9. Is this a left-tailed, right-tailed, or two-tailed test?",
+        "Image Links": [],
+        "Answer": "This is a left-tailed test.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.5 Additional Information and Full Hypothesis Test Examples",
+        "Problem Statement": "",
+        "Question": "Assume H 0 : \u03bc \u2264 6 and H a : \u03bc > 6. Is this a left-tailed, right-tailed, or two-tailed test?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.5 Additional Information and Full Hypothesis Test Examples",
+        "Problem Statement": "",
+        "Question": "Assume H 0 : p = 0.25 and H a : p \u2260 0.25. Is this a left-tailed, right-tailed, or two-tailed test?",
+        "Image Links": [],
+        "Answer": "This is a two-tailed test.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.5 Additional Information and Full Hypothesis Test Examples",
+        "Problem Statement": "",
+        "Question": "Draw the general graph of a left-tailed test.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.5 Additional Information and Full Hypothesis Test Examples",
+        "Problem Statement": "",
+        "Question": "Draw the graph of a two-tailed test.",
+        "Image Links": [],
+        "Answer": "Figure 9.23",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/476a001fd235413734865c8fa1339c979f4b4453"
+        ]
+    },
+    {
+        "Topic": "9.5 Additional Information and Full Hypothesis Test Examples",
+        "Problem Statement": "",
+        "Question": "A bottle of water is labeled as containing 16 fluid ounces of water. You believe it is less than that. What type of test would you use?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.5 Additional Information and Full Hypothesis Test Examples",
+        "Problem Statement": "",
+        "Question": "Your friend claims that his mean golf score is 63. You want to show that it is higher than that. What type of test would you use?",
+        "Image Links": [],
+        "Answer": "a right-tailed test",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.5 Additional Information and Full Hypothesis Test Examples",
+        "Problem Statement": "",
+        "Question": "A bathroom scale claims to be able to identify correctly any weight within a pound. You think that it cannot be that accurate. What type of test would you use?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.5 Additional Information and Full Hypothesis Test Examples",
+        "Problem Statement": "",
+        "Question": "You flip a coin and record whether it shows heads or tails. You know the probability of getting heads is 50 percent, but you think it is less for this particular coin. What type of test would you use?",
+        "Image Links": [],
+        "Answer": "a left-tailed test",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.5 Additional Information and Full Hypothesis Test Examples",
+        "Problem Statement": "",
+        "Question": "If the alternative hypothesis has a not equals ( \u2260 ) symbol, you know to use which type of test?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.5 Additional Information and Full Hypothesis Test Examples",
+        "Problem Statement": "",
+        "Question": "Assume the null hypothesis states that the mean is at least 18. Is this a left-tailed, right-tailed, or two-tailed test?",
+        "Image Links": [],
+        "Answer": "This is a left-tailed test.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.5 Additional Information and Full Hypothesis Test Examples",
+        "Problem Statement": "",
+        "Question": "Assume the null hypothesis states that the mean is at most 12. Is this a left-tailed, right-tailed, or two-tailed test?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.5 Additional Information and Full Hypothesis Test Examples",
+        "Problem Statement": "",
+        "Question": "Assume the null hypothesis states that the mean is equal to 88. The alternative hypothesis states that the mean is not equal to 88. Is this a left-tailed, right-tailed, or two-tailed test?",
+        "Image Links": [],
+        "Answer": "This is a two-tailed test.",
+        "Answer Image Links": []
+    }
+]

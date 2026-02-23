@@ -1,0 +1,452 @@
+[
+    {
+        "Topic": "12.1 Linear Equations",
+        "Problem Statement": "Use the following information to answer the next three exercises . A vacation resort rents scuba equipment to certified divers. The resort charges an up-front fee of $25 and another fee of $12.50 an hour.",
+        "Question": "What are the dependent and independent variables?",
+        "Image Links": [],
+        "Answer": "dependent variable: fee amount independent variable: time",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.1 Linear Equations",
+        "Problem Statement": "Use the following information to answer the next three exercises . A vacation resort rents scuba equipment to certified divers. The resort charges an up-front fee of $25 and another fee of $12.50 an hour.",
+        "Question": "Find the equation that expresses the total fee in terms of the number of hours the equipment is rented.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.1 Linear Equations",
+        "Problem Statement": "Use the following information to answer the next three exercises . A vacation resort rents scuba equipment to certified divers. The resort charges an up-front fee of $25 and another fee of $12.50 an hour.",
+        "Question": "Graph the equation from Exercise 12.2 .",
+        "Image Links": [],
+        "Answer": "Figure 12.25",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/72af49fd0ffa5fd28a41d34730a26f6e21ffe8db"
+        ]
+    },
+    {
+        "Topic": "12.1 Linear Equations",
+        "Problem Statement": "Use the following information to answer the next two exercises . A credit card company charges $10 when a payment is late and $5 a day each day the payment remains unpaid.",
+        "Question": "Find the equation that expresses the total fee in terms of the number of days the payment is late.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.1 Linear Equations",
+        "Problem Statement": "Use the following information to answer the next two exercises . A credit card company charges $10 when a payment is late and $5 a day each day the payment remains unpaid.",
+        "Question": "Graph the equation from Exercise 12.4 .",
+        "Image Links": [],
+        "Answer": "Figure 12.26",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a2146d5086305dc5b4de403e8f58bc036f3ec0d7"
+        ]
+    },
+    {
+        "Topic": "12.1 Linear Equations",
+        "Problem Statement": "Use the following information to answer the next two exercises . A credit card company charges $10 when a payment is late and $5 a day each day the payment remains unpaid.",
+        "Question": "Is the equation y = 10 + 5 x - 3 x 2 linear? Why or why not?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.1 Linear Equations",
+        "Problem Statement": "Use the following information to answer the next two exercises . A credit card company charges $10 when a payment is late and $5 a day each day the payment remains unpaid.",
+        "Question": "Which of the following equations are linear? a. y = 6 x + 8 b. y + 7 = 3 x c. y - x = 8 x 2 d. 4 y = 8",
+        "Image Links": [],
+        "Answer": "y = 6 x + 8, 4 y = 8, and y + 7 = 3 x are all linear equations.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.1 Linear Equations",
+        "Problem Statement": "Use the following information to answer the next two exercises . A credit card company charges $10 when a payment is late and $5 a day each day the payment remains unpaid.",
+        "Question": "Does the graph in Figure 12.23 show a linear equation? Why or why not? Figure 12.23",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a2b7c6cb51544bf3cc6d2a6ea43091bc9687b972"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.1 Linear Equations",
+        "Problem Statement": "Use the following information to answer the next exercise. Table 12.13 contains real data for the first two decades of flu reporting. Year Number of Flu Cases Diagnosed Number of Flu Deaths Pre-1981 91 29 1981 319 121 1982 1,170 453 1983 3,076 1,482 1984 6,240 3,466 1985 11,776 6,878 1986 19,032 11,987 1987 28,564 16,162 1988 35,447 20,868 1989 42,674 27,591 1990 48,634 31,335 1991 59,660 36,560 1992 78,530 41,055 1993 78,834 44,730 1994 71,874 49,095 1995 68,505 49,456 1996 59,347 38,510 1997 47,149 20,736 1998 38,393 19,005 1999 25,174 18,454 2000 25,522 17,347 2001 25,643 17,402 2002 26,464 16,371 Total 802,118 489,093 Table 12.13",
+        "Question": "Use the columns Year and Number of Flu Cases Diagnosed . Why is year the independent variable and number of flu cases diagnosed the dependent variable (instead of the reverse)?",
+        "Image Links": [],
+        "Answer": "The number of flu cases depends on the year. Therefore, year becomes the independent variable and the number of flu cases is the dependent variable.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.1 Linear Equations",
+        "Problem Statement": "Use the following information to answer the next two exercises . A specialty cleaning company charges an equipment fee and an hourly labor fee. A linear equation that expresses the total amount of the fee the company charges for each session is y = 50 + 100 x .",
+        "Question": "What are the independent and dependent variables?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.1 Linear Equations",
+        "Problem Statement": "Use the following information to answer the next two exercises . A specialty cleaning company charges an equipment fee and an hourly labor fee. A linear equation that expresses the total amount of the fee the company charges for each session is y = 50 + 100 x .",
+        "Question": "What is the y -intercept, and what is the slope? Interpret them using complete sentences.",
+        "Image Links": [],
+        "Answer": "The y -intercept is 50 ( a = 50). At the start of the cleaning, the company charges a one-time fee of $50 (this is when x = 0). The slope is 100 ( b = 100). For each session, the company charges $100 for each hour they clean.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.1 Linear Equations",
+        "Problem Statement": "Use the following information to answer the next three questions . As a result of erosion, a river shoreline is losing several thousand pounds of soil each year. A linear equation that expresses the total amount of soil lost per year is y = 12,000 x .",
+        "Question": "What are the independent and dependent variables?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.1 Linear Equations",
+        "Problem Statement": "Use the following information to answer the next three questions . As a result of erosion, a river shoreline is losing several thousand pounds of soil each year. A linear equation that expresses the total amount of soil lost per year is y = 12,000 x .",
+        "Question": "How many pounds of soil does the shoreline lose in a year?",
+        "Image Links": [],
+        "Answer": "12,000 lb of soil",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.1 Linear Equations",
+        "Problem Statement": "Use the following information to answer the next three questions . As a result of erosion, a river shoreline is losing several thousand pounds of soil each year. A linear equation that expresses the total amount of soil lost per year is y = 12,000 x .",
+        "Question": "What is the y -intercept? Interpret its meaning.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.1 Linear Equations",
+        "Problem Statement": "Use the following information to answer the next two exercises . The price of a single issue of stock can fluctuate throughout the day. A linear equation that represents the price of stock for Shipment Express is y = 15 - 1.5 x , where x is the number of hours passed in an eight-hour day of trading.",
+        "Question": "What are the slope and y -intercept? Interpret their meaning.",
+        "Image Links": [],
+        "Answer": "The slope is -1.5 ( b = -1.5). This means the stock is losing value at a rate of $1.50 per hour. The y -intercept is $15 ( a = 15). This means the price of stock before the trading day was $15.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.1 Linear Equations",
+        "Problem Statement": "Use the following information to answer the next two exercises . The price of a single issue of stock can fluctuate throughout the day. A linear equation that represents the price of stock for Shipment Express is y = 15 - 1.5 x , where x is the number of hours passed in an eight-hour day of trading.",
+        "Question": "If you owned this stock, would you want a positive or negative slope? Why?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.2 The Regression Equation",
+        "Problem Statement": "",
+        "Question": "Table 12.16 below represents the relationship between the number of hours spent studying and final exam grades. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nx(number of hours spent studying) & y(final exam grades) \\\\ \\hline\n3 & 50 \\\\ \\hline\n5 & 72 \\\\ \\hline\n1 & 45 \\\\ \\hline\n2 & 51 \\\\ \\hline\n6 & 80 \\\\ \\hline\n8 & 96 \\\\ \\hline\n4 & 65 \\\\ \\hline\n7 & 90 \\\\ \\hline\n\\end{tabular}\n\\end{table} Fill in the following chart as a first step in finding the line of best fit, using the median-median approach. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\nGroup & x(no. of hours spent studying) & y(final exam grades) & MedianxValue & MedianyValue \\\\ \\hline\n1 &  &  &  &  \\\\ \\hline\n2 &  &  &  &  \\\\ \\hline\n3 &  &  &  &  \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\nGroup & x(no. of hours spent studying) & y(final exam grades) & Medianxvalue & Medianyvalue \\\\ \\hline\n1 & 123 & 455051 & 2 & 50 \\\\ \\hline\n2 & 45 & 6572 & 4.5 & 68.5 \\\\ \\hline\n3 & 678 & 809096 & 7 & 90 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.2 The Regression Equation",
+        "Problem Statement": "Use the following information to answer the next five exercises . A random sample of 10 professional athletes produced the following data, where x is the number of endorsements the player has and y is the amount of money made, in millions of dollars. x y x y 0 2 5 12 3 8 4 9 2 7 3 9 1 3 0 3 5 13 4 10 Table 12.16",
+        "Question": "Draw a scatter plot of the data.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.2 The Regression Equation",
+        "Problem Statement": "Use the following information to answer the next five exercises . A random sample of 10 professional athletes produced the following data, where x is the number of endorsements the player has and y is the amount of money made, in millions of dollars. x y x y 0 2 5 12 3 8 4 9 2 7 3 9 1 3 0 3 5 13 4 10 Table 12.16",
+        "Question": "Use regression to find the equation for the line of best fit.",
+        "Image Links": [],
+        "Answer": "\u0177 = 2.23 + 1.99 x",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.2 The Regression Equation",
+        "Problem Statement": "Use the following information to answer the next five exercises . A random sample of 10 professional athletes produced the following data, where x is the number of endorsements the player has and y is the amount of money made, in millions of dollars. x y x y 0 2 5 12 3 8 4 9 2 7 3 9 1 3 0 3 5 13 4 10 Table 12.16",
+        "Question": "Draw the line of best fit on the scatter plot.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.2 The Regression Equation",
+        "Problem Statement": "Use the following information to answer the next five exercises . A random sample of 10 professional athletes produced the following data, where x is the number of endorsements the player has and y is the amount of money made, in millions of dollars. x y x y 0 2 5 12 3 8 4 9 2 7 3 9 1 3 0 3 5 13 4 10 Table 12.16",
+        "Question": "What is the slope of the line of best fit? What does it represent?",
+        "Image Links": [],
+        "Answer": "The slope is 1.99 ( b = 1.99). It means that for every endorsement deal a professional player gets, he gets an average of another $1.99 million in pay each year.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.2 The Regression Equation",
+        "Problem Statement": "Use the following information to answer the next five exercises . A random sample of 10 professional athletes produced the following data, where x is the number of endorsements the player has and y is the amount of money made, in millions of dollars. x y x y 0 2 5 12 3 8 4 9 2 7 3 9 1 3 0 3 5 13 4 10 Table 12.16",
+        "Question": "What is the y -intercept of the line of best fit? What does it represent?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.2 The Regression Equation",
+        "Problem Statement": "Use the following information to answer the next five exercises . A random sample of 10 professional athletes produced the following data, where x is the number of endorsements the player has and y is the amount of money made, in millions of dollars. x y x y 0 2 5 12 3 8 4 9 2 7 3 9 1 3 0 3 5 13 4 10 Table 12.16",
+        "Question": "What does an r value of zero mean?",
+        "Image Links": [],
+        "Answer": "It means that there is no correlation between the data sets.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.2 The Regression Equation",
+        "Problem Statement": "Use the following information to answer the next five exercises . A random sample of 10 professional athletes produced the following data, where x is the number of endorsements the player has and y is the amount of money made, in millions of dollars. x y x y 0 2 5 12 3 8 4 9 2 7 3 9 1 3 0 3 5 13 4 10 Table 12.16",
+        "Question": "When n = 2 and r = 1, are the data significant? Explain.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.2 The Regression Equation",
+        "Problem Statement": "Use the following information to answer the next five exercises . A random sample of 10 professional athletes produced the following data, where x is the number of endorsements the player has and y is the amount of money made, in millions of dollars. x y x y 0 2 5 12 3 8 4 9 2 7 3 9 1 3 0 3 5 13 4 10 Table 12.16",
+        "Question": "When n = 100 and r = -0.89, is there a significant correlation? Explain.",
+        "Image Links": [],
+        "Answer": "Yes. There are enough data points and the value of r is strong enough to show there is a strong negative correlation between the data sets.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.3 Testing the Significance of the Correlation Coefficient (Optional)",
+        "Problem Statement": "",
+        "Question": "When testing the significance of the correlation coefficient, what is the null hypothesis?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.3 Testing the Significance of the Correlation Coefficient (Optional)",
+        "Problem Statement": "",
+        "Question": "When testing the significance of the correlation coefficient, what is the alternative hypothesis?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.3 Testing the Significance of the Correlation Coefficient (Optional)",
+        "Problem Statement": "",
+        "Question": "If the level of significance is 0.05 and the p -value is 0.04, what conclusion can you draw?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.4 Prediction (Optional)",
+        "Problem Statement": "Use the following information to answer the next two exercises . An electronics retailer used regression to find a simple model to predict sales growth in the first quarter of the new year (January through March). The model is good for 90 days, where x is the day. The model can be written as \u0177 = 101.32 + 2.48 x , where \u0177 is in thousands of dollars.",
+        "Question": "What would you predict the sales to be on day 60?",
+        "Image Links": [],
+        "Answer": "$250,120",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.4 Prediction (Optional)",
+        "Problem Statement": "Use the following information to answer the next two exercises . An electronics retailer used regression to find a simple model to predict sales growth in the first quarter of the new year (January through March). The model is good for 90 days, where x is the day. The model can be written as \u0177 = 101.32 + 2.48 x , where \u0177 is in thousands of dollars.",
+        "Question": "What would you predict the sales to be on day 90?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.4 Prediction (Optional)",
+        "Problem Statement": "Use the following information to answer the next three exercises . A landscaping company is hired to mow the grass for several large properties. The total area of the properties is 1,345 acres. The rate at which one person can mow is \u0177 = 1350 - 1.2 x , where x is the number of hours and \u0177 represents the number of acres left to mow.",
+        "Question": "How many acres are left to mow after 20 hours of work?",
+        "Image Links": [],
+        "Answer": "1326 acres",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.4 Prediction (Optional)",
+        "Problem Statement": "Use the following information to answer the next three exercises . A landscaping company is hired to mow the grass for several large properties. The total area of the properties is 1,345 acres. The rate at which one person can mow is \u0177 = 1350 - 1.2 x , where x is the number of hours and \u0177 represents the number of acres left to mow.",
+        "Question": "How many acres are left to mow after 100 hours of work?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.4 Prediction (Optional)",
+        "Problem Statement": "Use the following information to answer the next three exercises . A landscaping company is hired to mow the grass for several large properties. The total area of the properties is 1,345 acres. The rate at which one person can mow is \u0177 = 1350 - 1.2 x , where x is the number of hours and \u0177 represents the number of acres left to mow.",
+        "Question": "How many hours does it take to mow all the lawns, or when is \u0177 = 0?",
+        "Image Links": [],
+        "Answer": "1125 hours, or when x = 1125",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.4 Prediction (Optional)",
+        "Problem Statement": "Use the following information to answer the next 14 exercises . Table 12.17 contains real data for the first two decades of flu reporting. Year Number of Flu Cases Diagnosed Number of Flu Deaths Pre-1981 91 29 1981 319 121 1982 1,170 453 1983 3,076 1,482 1984 6,240 3,466 1985 11,776 6,878 1986 19,032 11,987 1987 28,564 16,162 1988 35,447 20,868 1989 42,674 27,591 1990 48,634 31,335 1991 59,660 36,560 1992 78,530 41,055 1993 78,834 44,730 1994 71,874 49,095 1995 68,505 49,456 1996 59,347 38,510 1997 47,149 20,736 1998 38,393 19,005 1999 25,174 18,454 2000 25,522 17,347 2001 25,643 17,402 2002 26,464 16,371 Total 802,118 489,093 Table 12.17 Adults and Adolescents Only, United States",
+        "Question": "Graph year versus number of flu cases diagnosed (plot the scatter plot).  Do not include pre-1981 data.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.4 Prediction (Optional)",
+        "Problem Statement": "Use the following information to answer the next 14 exercises . Table 12.17 contains real data for the first two decades of flu reporting. Year Number of Flu Cases Diagnosed Number of Flu Deaths Pre-1981 91 29 1981 319 121 1982 1,170 453 1983 3,076 1,482 1984 6,240 3,466 1985 11,776 6,878 1986 19,032 11,987 1987 28,564 16,162 1988 35,447 20,868 1989 42,674 27,591 1990 48,634 31,335 1991 59,660 36,560 1992 78,530 41,055 1993 78,834 44,730 1994 71,874 49,095 1995 68,505 49,456 1996 59,347 38,510 1997 47,149 20,736 1998 38,393 19,005 1999 25,174 18,454 2000 25,522 17,347 2001 25,643 17,402 2002 26,464 16,371 Total 802,118 489,093 Table 12.17 Adults and Adolescents Only, United States",
+        "Question": "Perform a linear regression.  What is the linear equation?  Round to the nearest whole number. Find the following: Write the equations: Linear equation: __________ a = ________ b = ________ r = ________ n = ________",
+        "Image Links": [],
+        "Answer": "Check student solution.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.4 Prediction (Optional)",
+        "Problem Statement": "Use the following information to answer the next 14 exercises . Table 12.17 contains real data for the first two decades of flu reporting. Year Number of Flu Cases Diagnosed Number of Flu Deaths Pre-1981 91 29 1981 319 121 1982 1,170 453 1983 3,076 1,482 1984 6,240 3,466 1985 11,776 6,878 1986 19,032 11,987 1987 28,564 16,162 1988 35,447 20,868 1989 42,674 27,591 1990 48,634 31,335 1991 59,660 36,560 1992 78,530 41,055 1993 78,834 44,730 1994 71,874 49,095 1995 68,505 49,456 1996 59,347 38,510 1997 47,149 20,736 1998 38,393 19,005 1999 25,174 18,454 2000 25,522 17,347 2001 25,643 17,402 2002 26,464 16,371 Total 802,118 489,093 Table 12.17 Adults and Adolescents Only, United States",
+        "Question": "Solve. a) When x = 1985, \u0177 = _____. b) When x = 1990, \u0177 = _____. c) When x = 1970, \u0177 = _____. Why doesn\u2019t this answer make sense?",
+        "Image Links": [],
+        "Answer": "a) When x = 1985, \u0177 = 25,52. b) When x = 1990, \u0177 = 34,275. c) When x = 1970, \u0177 = -725. Why doesn\u2019t this answer make sense?  The range of x values was 1981 to 2002; the year 1970 is not in this range. The regression equation does not apply, because predicting for the year 1970 is extrapolation, which requires a different process. Also, a negative number does not make sense in this context, when we are predicting flu cases diagnosed.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.4 Prediction (Optional)",
+        "Problem Statement": "Use the following information to answer the next 14 exercises . Table 12.17 contains real data for the first two decades of flu reporting. Year Number of Flu Cases Diagnosed Number of Flu Deaths Pre-1981 91 29 1981 319 121 1982 1,170 453 1983 3,076 1,482 1984 6,240 3,466 1985 11,776 6,878 1986 19,032 11,987 1987 28,564 16,162 1988 35,447 20,868 1989 42,674 27,591 1990 48,634 31,335 1991 59,660 36,560 1992 78,530 41,055 1993 78,834 44,730 1994 71,874 49,095 1995 68,505 49,456 1996 59,347 38,510 1997 47,149 20,736 1998 38,393 19,005 1999 25,174 18,454 2000 25,522 17,347 2001 25,643 17,402 2002 26,464 16,371 Total 802,118 489,093 Table 12.17 Adults and Adolescents Only, United States",
+        "Question": "Does the line seem to fit the data? Why or why not?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.4 Prediction (Optional)",
+        "Problem Statement": "Use the following information to answer the next 14 exercises . Table 12.17 contains real data for the first two decades of flu reporting. Year Number of Flu Cases Diagnosed Number of Flu Deaths Pre-1981 91 29 1981 319 121 1982 1,170 453 1983 3,076 1,482 1984 6,240 3,466 1985 11,776 6,878 1986 19,032 11,987 1987 28,564 16,162 1988 35,447 20,868 1989 42,674 27,591 1990 48,634 31,335 1991 59,660 36,560 1992 78,530 41,055 1993 78,834 44,730 1994 71,874 49,095 1995 68,505 49,456 1996 59,347 38,510 1997 47,149 20,736 1998 38,393 19,005 1999 25,174 18,454 2000 25,522 17,347 2001 25,643 17,402 2002 26,464 16,371 Total 802,118 489,093 Table 12.17 Adults and Adolescents Only, United States",
+        "Question": "What does the correlation imply about the relationship between time (years) and the number of diagnosed flu cases reported in the United States?",
+        "Image Links": [],
+        "Answer": "Also, the correlation r = 0.4526.  If r is compared with the value in the 95 Percent Critical Values of the Sample Correlation Coefficient Table, because r > 0.423, r is significant, and you would think that the line could be used for prediction. But, the scatter plot indicates otherwise.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.4 Prediction (Optional)",
+        "Problem Statement": "Use the following information to answer the next 14 exercises . Table 12.17 contains real data for the first two decades of flu reporting. Year Number of Flu Cases Diagnosed Number of Flu Deaths Pre-1981 91 29 1981 319 121 1982 1,170 453 1983 3,076 1,482 1984 6,240 3,466 1985 11,776 6,878 1986 19,032 11,987 1987 28,564 16,162 1988 35,447 20,868 1989 42,674 27,591 1990 48,634 31,335 1991 59,660 36,560 1992 78,530 41,055 1993 78,834 44,730 1994 71,874 49,095 1995 68,505 49,456 1996 59,347 38,510 1997 47,149 20,736 1998 38,393 19,005 1999 25,174 18,454 2000 25,522 17,347 2001 25,643 17,402 2002 26,464 16,371 Total 802,118 489,093 Table 12.17 Adults and Adolescents Only, United States",
+        "Question": "Plot the two points on the graph. Then, connect the two points to form the regression line.",
+        "Image Links": [],
+        "Answer": "Check student\u2019 solution.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.4 Prediction (Optional)",
+        "Problem Statement": "Use the following information to answer the next 14 exercises . Table 12.17 contains real data for the first two decades of flu reporting. Year Number of Flu Cases Diagnosed Number of Flu Deaths Pre-1981 91 29 1981 319 121 1982 1,170 453 1983 3,076 1,482 1984 6,240 3,466 1985 11,776 6,878 1986 19,032 11,987 1987 28,564 16,162 1988 35,447 20,868 1989 42,674 27,591 1990 48,634 31,335 1991 59,660 36,560 1992 78,530 41,055 1993 78,834 44,730 1994 71,874 49,095 1995 68,505 49,456 1996 59,347 38,510 1997 47,149 20,736 1998 38,393 19,005 1999 25,174 18,454 2000 25,522 17,347 2001 25,643 17,402 2002 26,464 16,371 Total 802,118 489,093 Table 12.17 Adults and Adolescents Only, United States",
+        "Question": "Write the equation: \u0177 = ____________.",
+        "Image Links": [],
+        "Answer": "$$\u0177$$ = 3,448,225 + 1750 x",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.4 Prediction (Optional)",
+        "Problem Statement": "Use the following information to answer the next 14 exercises . Table 12.17 contains real data for the first two decades of flu reporting. Year Number of Flu Cases Diagnosed Number of Flu Deaths Pre-1981 91 29 1981 319 121 1982 1,170 453 1983 3,076 1,482 1984 6,240 3,466 1985 11,776 6,878 1986 19,032 11,987 1987 28,564 16,162 1988 35,447 20,868 1989 42,674 27,591 1990 48,634 31,335 1991 59,660 36,560 1992 78,530 41,055 1993 78,834 44,730 1994 71,874 49,095 1995 68,505 49,456 1996 59,347 38,510 1997 47,149 20,736 1998 38,393 19,005 1999 25,174 18,454 2000 25,522 17,347 2001 25,643 17,402 2002 26,464 16,371 Total 802,118 489,093 Table 12.17 Adults and Adolescents Only, United States",
+        "Question": "Hand-draw a smooth curve on the graph that shows the flow of the data.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.4 Prediction (Optional)",
+        "Problem Statement": "Use the following information to answer the next 14 exercises . Table 12.17 contains real data for the first two decades of flu reporting. Year Number of Flu Cases Diagnosed Number of Flu Deaths Pre-1981 91 29 1981 319 121 1982 1,170 453 1983 3,076 1,482 1984 6,240 3,466 1985 11,776 6,878 1986 19,032 11,987 1987 28,564 16,162 1988 35,447 20,868 1989 42,674 27,591 1990 48,634 31,335 1991 59,660 36,560 1992 78,530 41,055 1993 78,834 44,730 1994 71,874 49,095 1995 68,505 49,456 1996 59,347 38,510 1997 47,149 20,736 1998 38,393 19,005 1999 25,174 18,454 2000 25,522 17,347 2001 25,643 17,402 2002 26,464 16,371 Total 802,118 489,093 Table 12.17 Adults and Adolescents Only, United States",
+        "Question": "Does the line seem to fit the data? Why or why not?",
+        "Image Links": [],
+        "Answer": "There was an increase in flu cases diagnosed until 1993. From 1993 through 2002, the number of flu cases diagnosed declined each year. It is not appropriate to use a linear regression line to fit to the data.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.4 Prediction (Optional)",
+        "Problem Statement": "Use the following information to answer the next 14 exercises . Table 12.17 contains real data for the first two decades of flu reporting. Year Number of Flu Cases Diagnosed Number of Flu Deaths Pre-1981 91 29 1981 319 121 1982 1,170 453 1983 3,076 1,482 1984 6,240 3,466 1985 11,776 6,878 1986 19,032 11,987 1987 28,564 16,162 1988 35,447 20,868 1989 42,674 27,591 1990 48,634 31,335 1991 59,660 36,560 1992 78,530 41,055 1993 78,834 44,730 1994 71,874 49,095 1995 68,505 49,456 1996 59,347 38,510 1997 47,149 20,736 1998 38,393 19,005 1999 25,174 18,454 2000 25,522 17,347 2001 25,643 17,402 2002 26,464 16,371 Total 802,118 489,093 Table 12.17 Adults and Adolescents Only, United States",
+        "Question": "Do you think a linear fit is best? Why or why not?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.4 Prediction (Optional)",
+        "Problem Statement": "Use the following information to answer the next 14 exercises . Table 12.17 contains real data for the first two decades of flu reporting. Year Number of Flu Cases Diagnosed Number of Flu Deaths Pre-1981 91 29 1981 319 121 1982 1,170 453 1983 3,076 1,482 1984 6,240 3,466 1985 11,776 6,878 1986 19,032 11,987 1987 28,564 16,162 1988 35,447 20,868 1989 42,674 27,591 1990 48,634 31,335 1991 59,660 36,560 1992 78,530 41,055 1993 78,834 44,730 1994 71,874 49,095 1995 68,505 49,456 1996 59,347 38,510 1997 47,149 20,736 1998 38,393 19,005 1999 25,174 18,454 2000 25,522 17,347 2001 25,643 17,402 2002 26,464 16,371 Total 802,118 489,093 Table 12.17 Adults and Adolescents Only, United States",
+        "Question": "What does the correlation imply about the relationship between time (years) and the number of diagnosed flu cases reported in the United States?",
+        "Image Links": [],
+        "Answer": "Because there is no linear association between year and number of flu cases diagnosed, it is not appropriate to calculate a linear correlation coefficient. When there is a linear association and it is appropriate to calculate a correlation, we cannot say that one variable causes the other variable.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.4 Prediction (Optional)",
+        "Problem Statement": "Use the following information to answer the next 14 exercises . Table 12.17 contains real data for the first two decades of flu reporting. Year Number of Flu Cases Diagnosed Number of Flu Deaths Pre-1981 91 29 1981 319 121 1982 1,170 453 1983 3,076 1,482 1984 6,240 3,466 1985 11,776 6,878 1986 19,032 11,987 1987 28,564 16,162 1988 35,447 20,868 1989 42,674 27,591 1990 48,634 31,335 1991 59,660 36,560 1992 78,530 41,055 1993 78,834 44,730 1994 71,874 49,095 1995 68,505 49,456 1996 59,347 38,510 1997 47,149 20,736 1998 38,393 19,005 1999 25,174 18,454 2000 25,522 17,347 2001 25,643 17,402 2002 26,464 16,371 Total 802,118 489,093 Table 12.17 Adults and Adolescents Only, United States",
+        "Question": "Graph year vs. number flu cases diagnosed . Do not include pre-1981. Label both axes with words. Scale both axes.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.4 Prediction (Optional)",
+        "Problem Statement": "Use the following information to answer the next 14 exercises . Table 12.17 contains real data for the first two decades of flu reporting. Year Number of Flu Cases Diagnosed Number of Flu Deaths Pre-1981 91 29 1981 319 121 1982 1,170 453 1983 3,076 1,482 1984 6,240 3,466 1985 11,776 6,878 1986 19,032 11,987 1987 28,564 16,162 1988 35,447 20,868 1989 42,674 27,591 1990 48,634 31,335 1991 59,660 36,560 1992 78,530 41,055 1993 78,834 44,730 1994 71,874 49,095 1995 68,505 49,456 1996 59,347 38,510 1997 47,149 20,736 1998 38,393 19,005 1999 25,174 18,454 2000 25,522 17,347 2001 25,643 17,402 2002 26,464 16,371 Total 802,118 489,093 Table 12.17 Adults and Adolescents Only, United States",
+        "Question": "Enter your data into your calculator or computer. The pre-1981 data should not be included. Why is that so? Write the linear equation, rounding to four decimal places.",
+        "Image Links": [],
+        "Answer": "We don\u2019t know if the pre-1981 data were collected from a single year.  So, we don\u2019t have an accurate x value for this figure. Regression equation: \u0177 (number of flu cases) = -3,448,225 + 1749.777 (year). \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\n & Coefficients \\\\ \\hline\nIntercept & -3,448,225 \\\\ \\hline\nxVariable 1 & 1,749.777 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.4 Prediction (Optional)",
+        "Problem Statement": "Use the following information to answer the next 14 exercises . Table 12.17 contains real data for the first two decades of flu reporting. Year Number of Flu Cases Diagnosed Number of Flu Deaths Pre-1981 91 29 1981 319 121 1982 1,170 453 1983 3,076 1,482 1984 6,240 3,466 1985 11,776 6,878 1986 19,032 11,987 1987 28,564 16,162 1988 35,447 20,868 1989 42,674 27,591 1990 48,634 31,335 1991 59,660 36,560 1992 78,530 41,055 1993 78,834 44,730 1994 71,874 49,095 1995 68,505 49,456 1996 59,347 38,510 1997 47,149 20,736 1998 38,393 19,005 1999 25,174 18,454 2000 25,522 17,347 2001 25,643 17,402 2002 26,464 16,371 Total 802,118 489,093 Table 12.17 Adults and Adolescents Only, United States",
+        "Question": "Calculate the following: a = _____ b = _____ correlation = _____ n = _____",
+        "Image Links": [],
+        "Answer": "a = -3,488,225 b = 1,750 correlation = 0.4526 n = 22",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.5 Outliers",
+        "Problem Statement": "",
+        "Question": "Marcus states that all outliers are influential points. Is he correct? Explain.",
+        "Image Links": [],
+        "Answer": "No, he is not correct. An outlier is only an influential point if it significantly impacts the slope of the least-squares regression line and the correlation coefficient, r . If omission of this data point from the calculation of the regression line does not show much impact on the slope or r -value, then the outlier is not considered an influential point. For different reasons, it still may be determined that the data point must be omitted from the data set.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.5 Outliers",
+        "Problem Statement": "Use the following information to answer the next four exercises. The scatter plot shows the relationship between hours spent studying and exam scores. The line shown is the calculated line of best fit. The correlation coefficient is 0.69. Figure 12.24",
+        "Question": "Do there appear to be any outliers?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/51cdec72966449679745717a0d31df831e11b707"
+        ],
+        "Answer": "Yes. There appears to be an outlier at (6, 58).",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.5 Outliers",
+        "Problem Statement": "Use the following information to answer the next four exercises. The scatter plot shows the relationship between hours spent studying and exam scores. The line shown is the calculated line of best fit. The correlation coefficient is 0.69. Figure 12.24",
+        "Question": "A point is removed and the line of best fit is recalculated. The new correlation coefficient is 0.98. Does the point appear to have been an outlier? Why?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/51cdec72966449679745717a0d31df831e11b707"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.5 Outliers",
+        "Problem Statement": "Use the following information to answer the next four exercises. The scatter plot shows the relationship between hours spent studying and exam scores. The line shown is the calculated line of best fit. The correlation coefficient is 0.69. Figure 12.24",
+        "Question": "What effect did the potential outlier have on the line of best fit?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/51cdec72966449679745717a0d31df831e11b707"
+        ],
+        "Answer": "The potential outlier flattened the slope of the line of best fit because it was below the data set. It made the line of best fit less accurate as a predictor for the data.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.5 Outliers",
+        "Problem Statement": "Use the following information to answer the next four exercises. The scatter plot shows the relationship between hours spent studying and exam scores. The line shown is the calculated line of best fit. The correlation coefficient is 0.69. Figure 12.24",
+        "Question": "Are you more or less confident in the predictive ability of the new line of best fit?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/51cdec72966449679745717a0d31df831e11b707"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.5 Outliers",
+        "Problem Statement": "Use the following information to answer the next four exercises. The scatter plot shows the relationship between hours spent studying and exam scores. The line shown is the calculated line of best fit. The correlation coefficient is 0.69. Figure 12.24",
+        "Question": "The sum of squared errors (SSE) for a data set of 18 numbers is 49. What is the standard deviation?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/51cdec72966449679745717a0d31df831e11b707"
+        ],
+        "Answer": "s = 1.75",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.5 Outliers",
+        "Problem Statement": "Use the following information to answer the next four exercises. The scatter plot shows the relationship between hours spent studying and exam scores. The line shown is the calculated line of best fit. The correlation coefficient is 0.69. Figure 12.24",
+        "Question": "The standard deviation for the SSE for a data set is 9.8. What is the cutoff for the vertical distance that a point can be from the line of best fit to be considered an outlier?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/51cdec72966449679745717a0d31df831e11b707"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

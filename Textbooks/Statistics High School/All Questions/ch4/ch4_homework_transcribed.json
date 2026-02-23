@@ -1,0 +1,498 @@
+[
+    {
+        "Topic": "4.1 Probability Distribution Function (PDF) for a Discrete Random Variable",
+        "Problem Statement": "",
+        "Question": "Suppose that the PDF for the number of years it takes to earn a bachelor of science (B.S.) degree is given in Table 4.31 . \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nx & P(x) \\\\ \\hline\n3 & .05 \\\\ \\hline\n4 & .40 \\\\ \\hline\n5 & .30 \\\\ \\hline\n6 & .15 \\\\ \\hline\n7 & .10 \\\\ \\hline\n\\end{tabular}\n\\end{table} a) In words, define the random variable X . b) What does it mean that the values 0, 1, and 2 are not included for x in the PDF?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "",
+        "Question": "A theater group holds a fund-raiser. It sells 100 raffle tickets for $5 apiece. Suppose you purchase four tickets. The prize is two passes to a Broadway show, worth a total of $150. a) What are you interested in here? b) In words, define the random variable X . c) List the values that X may take on. d) Construct a PDF. e) If this fund-raiser is repeated often and you always purchase four tickets, what would be your expected average winnings per raffle?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "",
+        "Question": "A game involves selecting a card from a regular 52-card deck and tossing a coin. The coin is a fair coin and is equally likely to land on heads or tails. If the card is a face card, and the coin lands on heads, you win $6. If the card is a face card, and the coin lands on tails, you win $2. If the card is not a face card, you lose $2, no matter what the coin shows. a) Find the expected value for this game (expected net gain or loss). b) Explain what your calculations indicate about your long-term average profits and losses on this game. c) Should you play this game to win money?",
+        "Image Links": [],
+        "Answer": "The variable of interest is X , or the gain or loss, in dollars. The face cards jack, queen, and king. There are (3)(4) = 12 face cards and 52 - 12 = 40 cards that are not face cards. We first need to construct the probability distribution for X . We use the card and coin events to determine the probability for each outcome, but we use the monetary value of X to determine the expected value. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\nCard Event & Xnet gain/loss & P(X) \\\\ \\hline\nFace Card and Heads & 6 & $$( \\frac{12}{52} ) ( \\frac{1}{2} ) = ( \\frac{6}{52} )$$ \\\\ \\hline\nFace Card and Tails & 2 & $$( \\frac{12}{52} ) ( \\frac{1}{2} ) = ( \\frac{6}{52} )$$ \\\\ \\hline\n(Not Face Card) and (H or T) & -2 & $$( \\frac{40}{52} ) ( 1 ) = ( \\frac{40}{52} )$$ \\\\ \\hline\n\\end{tabular}\n\\end{table} $$\\text{Expected\u00a0value} = ( 6 ) ( \\frac{6}{52} ) + ( 2 ) ( \\frac{6}{52} ) + ( - 2 ) ( \\frac{40}{52} ) = - \\frac{32}{52}$$ Expected value = -$0.62, rounded to the nearest cent If you play this game repeatedly, over a long string of games, you would expect to lose 62 cents per game, on average. You should not play this game to win money because the expected value indicates an expected average loss.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "",
+        "Question": "You buy a ticket to a raffle that costs $10 per ticket. There are only 100 tickets available to be sold in this raffle. In this raffle there are one $500 prize, two $100 prizes, and four $25 prizes. Find your expected gain or loss.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "",
+        "Question": "Complete the PDF and answer the questions. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\nx & P(x) & xP(x) \\\\ \\hline\n0 & .3 &  \\\\ \\hline\n1 & .2 &  \\\\ \\hline\n2 &  &  \\\\ \\hline\n3 & .4 &  \\\\ \\hline\n\\end{tabular}\n\\end{table} a) Find the probability that x = 2. b) Find the expected value.",
+        "Image Links": [],
+        "Answer": "a) .1 b) 1.6",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "",
+        "Question": "Suppose that you are offered the following deal: You roll a die. If you roll a six, you win $10. If you roll a four or five, you win $5. If you roll a one, two, or three, you pay $6. a) What are you ultimately interested in here (the value of the roll or the money you win)? b) In words, define the random variable X . c) List the values that X may take on. d) Construct a PDF. e) Over the long run of playing this game, what are your expected average winnings per game? f) Based on numerical values, should you take the deal? Explain your decision in complete sentences.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "",
+        "Question": "A venture capitalist, willing to invest $1,000,000, has three investments to choose from: The first investment, a software company, has a 10 percent chance of returning $5,000,000 profit, a 30 percent chance of returning $1,000,000 profit, and a 60 percent chance of losing the million dollars. The second company, a hardware company, has a 20 percent chance of returning $3,000,000 profit, a 40 percent chance of returning $1,000,000 profit, and a 40 percent chance of losing the million dollars. The third company, a biotech firm, has a 10 percent chance of returning $6,000,000 profit, a 70 percent of no profit or loss, and a 20 percent chance of losing the million dollars. a) Construct a PDF for each investment. b) Find the expected value for each investment. c) Which is the safest investment? Why do you think so? d) Which is the riskiest investment? Why do you think so? e) Which investment has the highest expected return, on average?",
+        "Image Links": [],
+        "Answer": "a) \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|}\n\\hline\nSoftware Company \\\\ \\hline\nx & P(x) \\\\ \\hline\n5,000,000 & .10 \\\\ \\hline\n1,000,000 & .30 \\\\ \\hline\n-1,000,000 & .60 \\\\ \\hline\n\\end{tabular}\n\\end{table} \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|}\n\\hline\nHardware Company \\\\ \\hline\nx & P(x) \\\\ \\hline\n3,000,000 & .20 \\\\ \\hline\n1,000,000 & .40 \\\\ \\hline\n-1,000,00 & .40 \\\\ \\hline\n\\end{tabular}\n\\end{table} \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|}\n\\hline\nBiotech Firm \\\\ \\hline\nx & P(x) \\\\ \\hline\n6,000,000 & .10 \\\\ \\hline\n0 & .70 \\\\ \\hline\n-1,000,000 & .20 \\\\ \\hline\n\\end{tabular}\n\\end{table} b) $200,000; $600,000; $400,000 c) third investment because it has the lowest probability of loss d) first investment because it has the highest probability of loss e) second investment",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "",
+        "Question": "Suppose that 20,000 married adults in the United States were randomly surveyed as to the number of children they have. The results are compiled and are used as theoretical probabilities. Let X = the number of children married people have. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\nx & P(x) & xP(x) \\\\ \\hline\n0 & .10 &  \\\\ \\hline\n1 & .20 &  \\\\ \\hline\n2 & .30 &  \\\\ \\hline\n3 &  &  \\\\ \\hline\n4 & .10 &  \\\\ \\hline\n5 & .05 &  \\\\ \\hline\n6 (or more) & .05 &  \\\\ \\hline\n\\end{tabular}\n\\end{table} a) Find the probability that a married adult has three children. b) In words, what does the expected value in this example represent? c) Find the expected value. d) Is it more likely that a married adult will have two to three children or four to six children? How do you know?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "",
+        "Question": "Suppose that the PDF for the number of years it takes to earn a bachelor of science (B.S.) degree is given as in Table 4.34 . \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nx & P(x) \\\\ \\hline\n3 & .05 \\\\ \\hline\n4 & .40 \\\\ \\hline\n5 & .30 \\\\ \\hline\n6 & .15 \\\\ \\hline\n7 & .10 \\\\ \\hline\n\\end{tabular}\n\\end{table} On average, how many years do you expect it to take for an individual to earn a B.S.?",
+        "Image Links": [],
+        "Answer": "4.85 years",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "",
+        "Question": "People visiting video rental stores often rent more than one DVD at a time. The probability distribution for DVD rentals per customer at Video to Go is given in the following table. There is a five-video limit per customer at this store, so nobody ever rents more than five DVDs. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nx & P(x) \\\\ \\hline\n0 & .03 \\\\ \\hline\n1 & .50 \\\\ \\hline\n2 & .24 \\\\ \\hline\n3 &  \\\\ \\hline\n4 & .07 \\\\ \\hline\n5 & .04 \\\\ \\hline\n\\end{tabular}\n\\end{table} a) Describe the random variable X in words. b) Find the probability that a customer rents three DVDs. c) Find the probability that a customer rents at least four DVDs. d) Find the probability that a customer rents at most two DVDs. Another shop, Entertainment Headquarters, rents DVDs and video games. The probability distribution for DVD rentals per customer at this shop is given as follows. They also have a five-DVD limit per customer. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nx & P(x) \\\\ \\hline\n0 & .35 \\\\ \\hline\n1 & .25 \\\\ \\hline\n2 & .20 \\\\ \\hline\n3 & .10 \\\\ \\hline\n4 & .05 \\\\ \\hline\n5 & .05 \\\\ \\hline\n\\end{tabular}\n\\end{table} e) At which store is the expected number of DVDs rented per customer higher? f) If Video to Go estimates that they will have 300 customers next week, how many DVDs do they expect to rent next week? Answer in sentence form. g) If Video to Go expects 300 customers next week, and Entertainment Headquarters projects that they will have 420 customers, for which store is the expected number of DVD rentals for next week higher? Explain. h) Which of the two video stores experiences more variation in the number of DVD rentals per customer? How do you know that?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "",
+        "Question": "A \u201cfriend\u201d offers you the following deal: For a $10 fee, you may pick an envelope from a box containing 100 seemingly identical envelopes. However, each envelope contains a coupon for a free gift. Ten of the coupons are for a free gift worth $6. Eighty of the coupons are for a free gift worth $8. Six of the coupons are for a free gift worth $12. Four of the coupons are for a free gift worth $40. Based upon the financial gain or loss over the long run, should you play the game? a) Yes, I expect to come out ahead in money. b) No, I expect to come out behind in money. c) It doesn\u2019t matter. I expect to break even.",
+        "Image Links": [],
+        "Answer": "b",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "",
+        "Question": "A university has 14 statistics classes scheduled for its Summer 2013 term. One class has space available for 30 students, eight classes have space for 60 students, one class has space for 70 students, and four classes have space for 100 students. a) What is the average class size assuming each class is filled to capacity? b) Space is available for 980 students. Suppose that each class is filled to capacity and select a statistics student at random. Let the random variable X equal the size of the student\u2019s class. Define the PDF for X . c) Find the mean of X . d) Find the standard deviation of X .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "",
+        "Question": "In a raffle, there are 250 prizes of $5, 50 prizes of $25, and 10 prizes of $100. Assuming that 10,000 tickets are to be issued and sold, what is a fair price to charge to break even?",
+        "Image Links": [],
+        "Answer": "Let X = the amount of money to be won on a ticket. The following table shows the PDF for X : \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nx & P(x) \\\\ \\hline\n0 & .969 \\\\ \\hline\n5 & $$\\frac{\\text{250}}{\\text{10,000}}$$= .025 \\\\ \\hline\n25 & $$\\frac{\\text{50}}{\\text{10,000}}$$= .005 \\\\ \\hline\n100 & $$\\frac{\\text{10}}{\\text{10,000}}$$= .001 \\\\ \\hline\n\\end{tabular}\n\\end{table} Calculate the expected value of X . 0(.969) + 5(.025) + 25(.005) + 100(.001) = .35 A fair price for a ticket is $0.35. Any price over $0.35 will enable the lottery to raise money.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Binomial Distribution (Optional)",
+        "Problem Statement": "",
+        "Question": "According to a recent article the average number of babies born with significant hearing loss (deafness) is approximately two per 1,000 babies in a healthy baby nursery. The number climbs to an average of 30 per 1,000 babies in an intensive care nursery. Suppose that 1,000 babies from healthy baby nurseries were randomly surveyed. Find the probability that exactly two babies were born deaf.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Binomial Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next four exercises : Recently, a nurse commented that when a patient calls the medical advice line claiming to have the flu, the chance that he or she truly has the flu (and not just a nasty cold) is only about 4 percent. Of the next 25 patients calling in claiming to have the flu, we are interested in how many actually have the flu.",
+        "Question": "Define the random variable and list its possible values.",
+        "Image Links": [],
+        "Answer": "X = the number of patients calling in claiming to have the flu, who actually have the flu. X = 0, 1, 2, ...25",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Binomial Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next four exercises : Recently, a nurse commented that when a patient calls the medical advice line claiming to have the flu, the chance that he or she truly has the flu (and not just a nasty cold) is only about 4 percent. Of the next 25 patients calling in claiming to have the flu, we are interested in how many actually have the flu.",
+        "Question": "State the distribution of X .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Binomial Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next four exercises : Recently, a nurse commented that when a patient calls the medical advice line claiming to have the flu, the chance that he or she truly has the flu (and not just a nasty cold) is only about 4 percent. Of the next 25 patients calling in claiming to have the flu, we are interested in how many actually have the flu.",
+        "Question": "Find the probability that at least four of the 25 patients actually have the flu.",
+        "Image Links": [],
+        "Answer": ".0165",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Binomial Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next four exercises : Recently, a nurse commented that when a patient calls the medical advice line claiming to have the flu, the chance that he or she truly has the flu (and not just a nasty cold) is only about 4 percent. Of the next 25 patients calling in claiming to have the flu, we are interested in how many actually have the flu.",
+        "Question": "On average, for every 25 patients calling in, how many do you expect to have the flu?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Binomial Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next four exercises : Recently, a nurse commented that when a patient calls the medical advice line claiming to have the flu, the chance that he or she truly has the flu (and not just a nasty cold) is only about 4 percent. Of the next 25 patients calling in claiming to have the flu, we are interested in how many actually have the flu.",
+        "Question": "People visiting video rental stores often rent more than one DVD at a time. The probability distribution for DVD rentals per customer at Video to Go is given Table 4.37 . There is a five-video limit per customer at this store, so nobody ever rents more than five DVDs. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nx & P(x) \\\\ \\hline\n0 & .03 \\\\ \\hline\n1 & .50 \\\\ \\hline\n2 & .24 \\\\ \\hline\n3 &  \\\\ \\hline\n4 & .07 \\\\ \\hline\n5 & .04 \\\\ \\hline\n\\end{tabular}\n\\end{table} a) Describe the random variable X in words. b) Find the probability that a customer rents three DVDs. c) Find the probability that a customer rents at least four DVDs. d) Find the probability that a customer rents at most two DVDs.",
+        "Image Links": [],
+        "Answer": "a) X = the number of DVDs a Video to Go customer rents b) .12 c) .11 d) .77",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Binomial Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next four exercises : Recently, a nurse commented that when a patient calls the medical advice line claiming to have the flu, the chance that he or she truly has the flu (and not just a nasty cold) is only about 4 percent. Of the next 25 patients calling in claiming to have the flu, we are interested in how many actually have the flu.",
+        "Question": "A school newspaper reporter decides to randomly survey 12 students to see if they will attend Tet (Vietnamese New Year) festivities this year. Based on past years, she knows that 18 percent of students attend Tet festivities. We are interested in the number of students who will attend the festivities. a) In words, define the random variable X . b) List the values that X may take on. c) Give the distribution of X . X ~ _____ (_____,_____) d) How many of the 12 students do we expect to attend the festivities? e) Find the probability that at most four students will attend. f) Find the probability that more than two students will attend.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Binomial Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next three exercises: The probability that a local hockey team will win any given game is 0.3694 based on a 13-year win history of 382 wins out of 1,034 games played (as of a certain date). An upcoming monthly schedule contains 12 games.",
+        "Question": "What is the expected number of wins for that upcoming month? a) 1.67 b) 12 c) $$\\frac{382}{1043}$$ d) 4.43",
+        "Image Links": [],
+        "Answer": "d. 4.43",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Binomial Distribution (Optional)",
+        "Problem Statement": "Let X = the number of games won in that upcoming month.",
+        "Question": "What is the probability that the team wins six games in that upcoming month? a) .1476 b) .2336 c) .7664 d) .8903",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Binomial Distribution (Optional)",
+        "Problem Statement": "Let X = the number of games won in that upcoming month.",
+        "Question": "What is the probability that the team wins at least five games in that upcoming month a) .3694 b) .5266 c) .4734 d) .2305",
+        "Image Links": [],
+        "Answer": "c",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Binomial Distribution (Optional)",
+        "Problem Statement": "Let X = the number of games won in that upcoming month.",
+        "Question": "A student takes a 10-question true-false quiz, but did not study and randomly guesses each answer. Find the probability that the student passes the quiz with a grade of at least 70 percent of the questions correct.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Binomial Distribution (Optional)",
+        "Problem Statement": "Let X = the number of games won in that upcoming month.",
+        "Question": "A student takes a 32-question multiple choice exam, but did not study and randomly guesses each answer. Each question has three possible choices for the answer. Find the probability that the student guesses more than 75 percent of the questions correctly.",
+        "Image Links": [],
+        "Answer": "X = number of questions answered correctly X ~ B $$( \\text{32,\u00a0} \\frac{\\text{1}}{\\text{3}} )$$ We are interested in MORE THAN 75 percent of 32 questions correct. 75 percent of 32 is 24. We want to find P ( x > 24). The event more than 24 is the complement of less than or equal to 24 . Using your calculator's distribution menu: 1 - binomcdf $$( \\text{32,\u00a0} \\frac{\\text{1}}{\\text{3}} , \\text{\u00a024} )$$ P ( x > 24) = 0 The probability of getting more than 75 percent of the 32 questions correct when randomly guessing is very small and practically zero.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Binomial Distribution (Optional)",
+        "Problem Statement": "Let X = the number of games won in that upcoming month.",
+        "Question": "Six different colored dice are rolled. Of interest is the number of dice that show a one. a) In words, define the random variable X . b) List the values that X may take on. c) Give the distribution of X . X ~ _____(_____,_____) d) On average, how many dice would you expect to show a one? e) Find the probability that all six dice show a one. f) Is it more likely that three or that four dice will show a one? Use numbers to justify your answer numerically.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Binomial Distribution (Optional)",
+        "Problem Statement": "Let X = the number of games won in that upcoming month.",
+        "Question": "More than 96 percent of the very largest colleges and universities (more than 15,000 total enrollments) have some online offerings. Suppose you randomly pick 13 such institutions. We are interested in the number that offer distance learning courses. a) In words, define the random variable X . b) List the values that X may take on. c) Give the distribution of X . X ~ _____(_____,_____) d) On average, how many schools would you expect to offer such courses? e) Find the probability that at most 10 offer such courses. f) Is it more likely that 12 or that 13 will offer such courses? Use numbers to justify your answer numerically and answer in a complete sentence.",
+        "Image Links": [],
+        "Answer": "a) X = the number of college and universities that offer online offerings. b) 0, 1, 2, \u2026, 13 c) X ~ B (13, 0.96) d) 12.48 e) .0135 f) P ( x = 12) = .3186 P ( x = 13) = 0.5882 More likely to get 13.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Binomial Distribution (Optional)",
+        "Problem Statement": "Let X = the number of games won in that upcoming month.",
+        "Question": "Suppose that about 85 percent of graduating students attend their graduation. A group of 22 graduating students is randomly chosen. a) In words, define the random variable X . b) List the values that X may take on. c) Give the distribution of X . X ~ _____(_____,_____) d) How many are expected to attend their graduation? e) Find the probability that 17 or 18 attend. f) Based on numerical values, would you be surprised if all 22 attended graduation? Justify your answer numerically.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Binomial Distribution (Optional)",
+        "Problem Statement": "Let X = the number of games won in that upcoming month.",
+        "Question": "At the Fencing Center, 60 percent of the fencers use the foil as their main weapon. We randomly survey 25 fencers at the Fencing Center. We are interested in the number of fencers who do not use the foil as their main weapon. a) In words, define the random variable X . b) List the values that X may take on. c) Give the distribution of X . X ~ _____(_____,_____) d) How many are expected to not to use the foil as their main weapon? e) Find the probability that six do not use the foil as their main weapon. f) Based on numerical values, would you be surprised if all 25 did not use foil as their main weapon? Justify your answer numerically.",
+        "Image Links": [],
+        "Answer": "a) X = the number of fencers who do not use the foil as their main weapon b) 0, 1, 2, 3,... 25 c) X ~ B (25,.40) d) 10 e) .0442 f) The probability that all 25 not use the foil is almost zero. Therefore, it would be very surprising.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Binomial Distribution (Optional)",
+        "Problem Statement": "Let X = the number of games won in that upcoming month.",
+        "Question": "Approximately 8 percent of students at a local high school participate in after-school sports all four years of high school. A group of 60 seniors is randomly chosen. Of interest is the number who participated in after-school sports all four years of high school. a) In words, define the random variable X . b) List the values that X may take on. c) Give the distribution of X . X ~ _____(_____,_____) d) How many seniors are expected to have participated in after-school sports all four years of high school? e) Based on numerical values, would you be surprised if none of the seniors participated in after-school sports all four years of high school? Justify your answer numerically. f) Based upon numerical values, is it more likely that four or that five of the seniors participated in after-school sports all four years of high school? Justify your answer numerically.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Binomial Distribution (Optional)",
+        "Problem Statement": "Let X = the number of games won in that upcoming month.",
+        "Question": "The chance of an IRS audit for a tax return reporting more than $25,000 in income is about 2 percent per year. We are interested in the expected number of audits a person with that income has in a 20-year period. Assume each year is independent. a) In words, define the random variable X . b) List the values that X may take on. c) Give the distribution of X . X ~ _____(_____,_____) d) How many audits are expected in a 20-year period? e) Find the probability that a person is not audited at all. f) Find the probability that a person is audited more than twice.",
+        "Image Links": [],
+        "Answer": "a) X = the number of audits in a 20-year period b) 0, 1, 2, \u2026, 20 c) X ~ B (20, .02) d) .4 e) .6676 f) .0071",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Binomial Distribution (Optional)",
+        "Problem Statement": "Let X = the number of games won in that upcoming month.",
+        "Question": "It has been estimated that only about 30 percent of California residents have adequate earthquake supplies. Suppose you randomly survey 11 California residents. We are interested in the number who have adequate earthquake supplies. a) In words, define the random variable X . b) List the values that X may take on. c) Give the distribution of X . X ~ _____(_____,_____) d) What is the probability that at least eight have adequate earthquake supplies? e) Is it more likely that none or that all of the residents surveyed will have adequate earthquake supplies? Why? f) How many residents do you expect will have adequate earthquake supplies?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Binomial Distribution (Optional)",
+        "Problem Statement": "Let X = the number of games won in that upcoming month.",
+        "Question": "There are two similar games played for Chinese New Year and Vietnamese New Year. In the Chinese version, fair dice with numbers 1, 2, 3, 4, 5, and 6 are used, along with a board with those numbers. In the Vietnamese version, fair dice with pictures of a gourd, fish, rooster, crab, crayfish, and deer are used. The board has those six objects on it, also. We will play with bets being $1. The player places a bet on a number or object. The house rolls three dice. If none of the dice show the number or object that was bet, the house keeps the $1 bet. If one of the dice shows the number or object bet (and the other two do not show it), the player gets back his or her $1 bet, plus $1 profit. If two of the dice show the number or object bet (and the third die does not show it), the player gets back his or her $1 bet, plus $2 profit. If all three dice show the number or object bet, the player gets back his or her $1 bet, plus $3 profit. Let X = number of matches and Y = profit per game. a) In words, define the random variable X . b) List the values that X may take on. c) Give the distribution of X . X ~ _____(_____,_____) d) List the values that Y may take on. Then, construct one PDF table that includes both X and Y and their probabilities. e) Calculate the average expected matches over the long run of playing this game for the player. f) Calculate the average expected earnings over the long run of playing this game for the player. g) Determine who has the advantage, the player or the house.",
+        "Image Links": [],
+        "Answer": "1) X = the number of matches 2) 0, 1, 2, 3 3) X ~ B $$( 3 , \\frac{1}{6} )$$ 4) In dollars: -1, 1, 2, 3 5) $$\\frac{1}{2}$$ 6) Multiply each Y value by the corresponding X probability from the PDF table.  The answer is -.0787. You lose about eight cents, on average, per game. 7) The house has the advantage.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Binomial Distribution (Optional)",
+        "Problem Statement": "Let X = the number of games won in that upcoming month.",
+        "Question": "According to the World Bank, only 9 percent of the population of Uganda had access to electricity as of 2009. Suppose we randomly sample 150 people in Uganda. Let X = the number of people who have access to electricity. a) What is the probability distribution for X ? b) Using the formulas, calculate the mean and standard deviation of X . c) Use your calculator to find the probability that 15 people in the sample have access to electricity. d) Find the probability that at most 10 people in the sample have access to electricity. e) Find the probability that more than 25 people in the sample have access to electricity.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Binomial Distribution (Optional)",
+        "Problem Statement": "Let X = the number of games won in that upcoming month.",
+        "Question": "The literacy rate for a nation measures the proportion of people age 15 and over who can read and write. The literacy rate in Afghanistan is 28.1 percent. Suppose you choose 15 people in Afghanistan at random. Let X = the number of people who are literate. a) Sketch a graph of the probability distribution of X . b) Using the formulas, calculate the (i) mean and (ii) standard deviation of X . c) Find the probability that more than five people in the sample are literate. Is it more likely that three people or four people are literate?",
+        "Image Links": [],
+        "Answer": "a) X ~ B (15, .281) Figure 4.10 b) Mean = \u03bc = np = 15(.281) = 4.215 Standard Deviation = \u03c3 = $$\\sqrt{n p q}$$ = $$\\sqrt{15 ( .281 ) ( .719 )}$$ = 1.7409 c) P ( x > 5) = 1 - P ( x \u2264 5) = 1 - binomcdf(15, .281, 5) = 1 - 0.7754 = .2246 P ( x = 3) = binompdf(15, .281, 3) = .1927 P ( x = 4) = binompdf(15, .281, 4) = .2259 It is more likely that four people are literate than three people are.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.4 Geometric Distribution (Optional)",
+        "Problem Statement": "",
+        "Question": "A consumer looking to buy a used red sports car will call dealerships until she finds a dealership that carries the car. She estimates the probability that any independent dealership will have the car will be 28 percent. We are interested in the number of dealerships she must call. a) In words, define the random variable X . b) List the values that X may take on. c) Give the distribution of X . X ~ _____(_____,_____) d) On average, how many dealerships would we expect her to have to call until she finds one that has the car? e) Find the probability that she must call at most four dealerships. f) Find the probability that she must call three or four dealerships.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.4 Geometric Distribution (Optional)",
+        "Problem Statement": "",
+        "Question": "Suppose that the probability that an adult in America will watch the Super Bowl is 40 percent. Each person is considered independent. We are interested in the number of adults in America we must survey until we find one who will watch the Super Bowl. a) In words, define the random variable X . b) List the values that X may take on. c) Give the distribution of X . X ~ _____(_____,_____) d) How many adults in America do you expect to survey until you find one who will watch the Super Bowl? e) Find the probability that you must ask seven people. f) Find the probability that you must ask three or four people.",
+        "Image Links": [],
+        "Answer": "a) X = the number of adults in America who are surveyed until one says he or she will watch the Super Bowl. b) X ~ G (.40) c) 2.5 d) .0187 e) .2304",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.4 Geometric Distribution (Optional)",
+        "Problem Statement": "",
+        "Question": "It has been estimated that only about 30 percent of California residents have adequate earthquake supplies. Suppose we are interested in the number of California residents we must survey until we find a resident who does not have adequate earthquake supplies. a) In words, define the random variable X . b) List the values that X may take on. c) Give the distribution of X . X ~ _____(_____,_____) d) What is the probability that we must survey just one or two residents until we find a California resident who does not have adequate earthquake supplies? e) What is the probability that we must survey at least three California residents until we find a California resident who does not have adequate earthquake supplies? f) How many California residents do you expect to need to survey until you find a California resident who does not have adequate earthquake supplies? g) How many California residents do you expect to need to survey until you find a California resident who does have adequate earthquake supplies?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.4 Geometric Distribution (Optional)",
+        "Problem Statement": "",
+        "Question": "In one of its spring catalogs, a retailer advertised footwear on 29 of its 192 catalog pages. Suppose we randomly survey 20 pages. We are interested in the number of pages that advertise footwear. Each page may be picked more than once. a) In words, define the random variable X . b) List the values that X may take on. c) Give the distribution of X . X ~ _____(_____,_____) d) How many pages do you expect to advertise footwear on them? e) Is it probable that all 20 will advertise footwear on them? Why or why not? f) What is the probability that fewer than 10 will advertise footwear on them? g) Reminder: A page may be picked more than once. We are interested in the number of pages that we must randomly survey until we find one that has footwear advertised on it. Define the random variable X and give its distribution. h) What is the probability that you only need to survey at most three pages in order to find one that advertises footwear on it? i) How many pages do you expect to need to survey in order to find one that advertises footwear?",
+        "Image Links": [],
+        "Answer": "a) X = the number of pages that advertise footwear b) X takes on the values 0, 1, 2, ..., 20 c) X ~ B (20, $$\\frac{29}{192}$$ ) d) 3.02 e) no f) .9997 g) X = the number of pages we must survey until we find one that advertises footwear. X ~ G ( $$\\frac{29}{192}$$ ) h) .3881 i) 6.6207 pages",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.4 Geometric Distribution (Optional)",
+        "Problem Statement": "",
+        "Question": "Suppose that you are performing the probability experiment of rolling one fair six-sided die. Let F be the event of rolling a four or a five. You are interested in how many times you need to roll the die to obtain the first four or five as the outcome. p = probability of success (event F occurs) q = probability of failure (event F does not occur) a) Write the description of the random variable X . b) What are the values that X can take on? c) Find the values of p and q . d) Find the probability that the first occurrence of event F (rolling a four or five) is on the second trial.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.4 Geometric Distribution (Optional)",
+        "Problem Statement": "",
+        "Question": "Ellen has music practice three days a week. She practices for all of the three days 85 percent of the time, two days 8 percent of the time, one day 4 percent of the time, and no days 3 percent of the time. One week is selected at random. What values does X take on?",
+        "Image Links": [],
+        "Answer": "0, 1, 2, and 3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.4 Geometric Distribution (Optional)",
+        "Problem Statement": "",
+        "Question": "Researchers investigate the prevalence of a particular infectious disease  in countries around the world. According to their data, \u201cPrevalence of this disease refers to the percentage of people ages 15 to 49 who are infected with it.\u201d In South Africa, the prevalence of this disease is 17.3 percent. Let X = the number of people you test until you find a person infected with this disease. a) Sketch a graph of the distribution of the discrete random variable X . b) What is the probability that you must test 30 people to find one with this disease? c) What is the probability that you must ask 10 people? d) Find the (i) mean and (ii) standard deviation of the distribution of X .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.4 Geometric Distribution (Optional)",
+        "Problem Statement": "",
+        "Question": "According to a recent poll, 75 percent of millennials (people born between 1981 and 1995) have a profile on a social networking site. Let X = the number of millennials you ask until you find a person without a profile on a social networking site. a) Describe the distribution of X . b) Find the (i) mean and (ii) standard deviation of X . c) What is the probability that you must ask 10 people to find one person without a social networking site? d) What is the probability that you must ask 20 people to find one person without a social networking site? e) What is the probability that you must ask at most five people?",
+        "Image Links": [],
+        "Answer": "a) X ~ G (.25) b) mean = \u03bc = $$\\frac{1}{p}$$ = $$\\frac{1}{0.25}$$ = 4 standard deviation = \u03c3 = $$\\sqrt{\\frac{1 - p}{p^{2}}}$$ = $$\\sqrt{\\frac{1 - \\text{.25}}{.25^{2}}}$$ \u2248 3.4641 c) P ( x = 10) = geometpdf(.25, 10) = .0188 d) P ( x = 20) = geometpdf(.25, 20) = .0011 e) P ( x \u2264 5) = geometcdf(.25, 5) = .7627",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.5 Hypergeometric Distribution (Optional)",
+        "Problem Statement": "",
+        "Question": "A group of martial arts students is planning on participating in an upcoming demonstration. Six are students of tae kwon do, and seven are students of shotokan karate. Suppose that eight students are randomly picked to be in the first demonstration. We are interested in the number of shotokan karate students in that first demonstration. a) In words, define the random variable X . b) List the values that X may take on. c) Give the distribution of X . X ~ _____(_____,_____) d) How many shotokan karate students do we expect to be in that first demonstration?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.5 Hypergeometric Distribution (Optional)",
+        "Problem Statement": "",
+        "Question": "In one of its spring catalogs, a retailer advertised footwear on 29 of its 192 catalog pages. Suppose we randomly survey 20 pages. We are interested in the number of pages that advertise footwear. Each page may be picked at most once. a) In words, define the random variable X . b) List the values that X may take on. c) Give the distribution of X . X ~ _____(_____,_____) d) How many pages do you expect to advertise footwear on them? e) Calculate the standard deviation.",
+        "Image Links": [],
+        "Answer": "a) X = the number of pages that advertise footwear b) 0, 1, 2, 3, ..., 20 c) X ~ H (29, 163, 20), r = 29, b = 163, n = 20 d) 3.03 e) 1.5197",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.5 Hypergeometric Distribution (Optional)",
+        "Problem Statement": "",
+        "Question": "Suppose that a technology task force is being formed to study technology awareness among instructors. Assume that 10 people will be randomly chosen to be on the committee from a group of 28 volunteers, 20 who are technically proficient and eight who are not. We are interested in the number on the committee who are not technically proficient. a) In words, define the random variable X . b) List the values that X may take on. c) Give the distribution of X . X ~ _____(_____,_____) d) How many instructors do you expect on the committee who are not technically proficient? e) Find the probability that at least five on the committee are not technically proficient. f) Find the probability that at most three on the committee are not technically proficient.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.5 Hypergeometric Distribution (Optional)",
+        "Problem Statement": "",
+        "Question": "Suppose that nine Massachusetts athletes are scheduled to appear at a charity benefit. The nine are randomly chosen from eight volunteers from the local basketball team and four volunteers from the local football team. We are interested in the number of football players picked. a) In words, define the random variable X . b) List the values that X may take on. c) Give the distribution of X . X ~ _____(_____,_____) d) Are you choosing the nine athletes with or without replacement?",
+        "Image Links": [],
+        "Answer": "a) X = the number of Patriots picked b) 0, 1, 2, 3, 4 c) X ~ H (4, 8, 9) d) without replacement",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.5 Hypergeometric Distribution (Optional)",
+        "Problem Statement": "",
+        "Question": "A bridge hand is defined as 13 cards selected at random and without replacement from a deck of 52 cards. In a standard deck of cards, there are 13 cards from each suit: hearts, spades, clubs, and diamonds. What is the probability of being dealt a hand that does not contain a heart? a) What is the group of interest? b) How many are in the group of interest? c) How many are in the other group? d) Let X = _________. What values does X take on? e) The probability question is P (_______). f) Find the probability in question. g) Find the (i) mean and (ii) standard deviation of X .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.6 Poisson Distribution (Optional)",
+        "Problem Statement": "",
+        "Question": "The switchboard in a Minneapolis law office gets an average of 5.5 incoming phone calls during the noon hour on Mondays. Experience shows that the existing staff can handle up to six calls in an hour. Let X = the number of calls received at noon. a) Find the mean and standard deviation of X . b) What is the probability that the office receives at most six calls at noon on Monday? c) Find the probability that the law office receives six calls at noon. What does this mean to the law office staff who get, on average, 5.5 incoming phone calls at noon? d) What is the probability that the office receives more than eight calls at noon?",
+        "Image Links": [],
+        "Answer": "a) X ~ P (5.5); \u03bc = 5.5; $$\\sigma \\text{\u00a0=\u00a0} \\sqrt{5.5}$$ \u2248 2.3452 b) P ( x \u2264 6) = poissoncdf(5.5, 6) \u2248 .6860 c) There is a 15.7 percent probability that the law staff will receive more calls than they can handle. d) P ( x > 8) = 1 - P ( x \u2264 8) = 1 - poissoncdf(5.5, 8) \u2248 1 - .8944 = .1056",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.6 Poisson Distribution (Optional)",
+        "Problem Statement": "",
+        "Question": "The maternity ward at a hospital in the Philippines is one of the busiest in the world with an average of 60 births per day. Let X = the number of births in an hour. a) Find the mean and standard deviation of X . b) Sketch a graph of the probability distribution of X . c) What is the probability that the maternity ward will deliver three babies in one hour? d) What is the probability that the maternity ward will deliver at most three babies in one hour? e) What is the probability that the maternity ward will deliver more than five babies in one hour?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.6 Poisson Distribution (Optional)",
+        "Problem Statement": "",
+        "Question": "A manufacturer of decorative string lights knows that 3 percent of its bulbs are defective. Using both the binomial and Poisson distributions, find the probability that a string of 100 lights contains at most four defective bulbs.",
+        "Image Links": [],
+        "Answer": "Let X = the number of defective bulbs in a string. Using the Poisson distribution: \u03bc = np = 100(.03) = 3 X ~ P (3) P ( x \u2264 4) = poissoncdf(3, 4) \u2248 .8153 Using the binomial distribution X ~ B (100, .03) P ( x \u2264 4) = binomcdf(100, .03, 4) \u2248 .8179 The Poisson approximation is very good-the difference between the probabilities is only .0026.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.6 Poisson Distribution (Optional)",
+        "Problem Statement": "",
+        "Question": "The average number of children a Japanese woman has in her lifetime is 1.37. Suppose that one Japanese woman is randomly chosen. a) In words, define the random variable X . b) List the values that X may take on. c) Give the distribution of X . X ~ _____(_____,_____) d) Find the probability that she has no children. e) Find the probability that she has fewer children than the Japanese average. f) Find the probability that she has more children than the Japanese average.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.6 Poisson Distribution (Optional)",
+        "Problem Statement": "",
+        "Question": "The average number of children a Spanish woman has in her lifetime is 1.47. Suppose that one Spanish woman is randomly chosen. a) In words, define the random variable X . b) List the values that X may take on. c) Give the distribution of X . X ~ _____(_____,_____) d) Find the probability that she has no children. e) Find the probability that she has fewer children than the Spanish average. f) Find the probability that she has more children than the Spanish average.",
+        "Image Links": [],
+        "Answer": "a) X = the number of children for a Spanish woman b) 0, 1, 2, 3,... c) X ~ P (1.47) d) .2299 e) .5679 f) .4321",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.6 Poisson Distribution (Optional)",
+        "Problem Statement": "",
+        "Question": "Fertile, female cats produce an average of three litters per year. Suppose that one fertile, female cat is randomly chosen. Answer the questions about the cat's probability of litters in one year. a) In words, define the random variable X . b) List the values that X may take on. c) Give the distribution of X . X ~ _______ d) Find the probability that she has no litters in one year. e) Find the probability that she has at least two litters in one year. f) Find the probability that she has exactly three litters in one year.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.6 Poisson Distribution (Optional)",
+        "Problem Statement": "",
+        "Question": "The chance of having an extra fortune in a fortune cookie is about 3 percent. Given a bag of 144 fortune cookies, we are interested in the number of cookies with an extra fortune. Two distributions may be used to solve this problem, but only use one distribution to solve the problem. a) In words, define the random variable X . b) List the values that X may take on. c) Give the distribution of X . X ~ _____(_____,_____) d) How many cookies do we expect to have an extra fortune? e) Find the probability that none of the cookies have an extra fortune. f) Find the probability that more than three have an extra fortune. g) As n increases, what happens involving the probabilities using the two distributions? Explain in complete sentences.",
+        "Image Links": [],
+        "Answer": "a) X = the number of fortune cookies that have an extra fortune b) 0, 1, 2, 3,... 144 c) X ~ B (144, .03) or P (4.32) d) 4.32 e) .0124 or .0133 f) .6300 or .6264 g) As n gets larger, the probabilities get closer together.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.6 Poisson Distribution (Optional)",
+        "Problem Statement": "",
+        "Question": "According to the South Carolina Department of Mental Health website, for every 200 U.S. women, the average number who suffer from a particular disease is one. Out of a randomly chosen group of 600 U.S. women. Determine the following: a) In words, define the random variable X . b) List the values that X may take on. c) Give the distribution of X . X ~ _____(_____,_____) d) How many are expected to suffer from this disease? e) Find the probability that no one suffers from this disease. f) Find the probability that more than four suffer from this disease.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.6 Poisson Distribution (Optional)",
+        "Problem Statement": "",
+        "Question": "The chance of an IRS audit for a tax return reporting more than $25,000 in income is about 2 percent per year. Suppose that 100 people with tax returns over $25,000 are randomly picked. We are interested in the number of people audited in one year. Use a Poisson distribution to anwer the following questions. a) In words, define the random variable X . b) List the values that X may take on. c) Give the distribution of X . X ~ _____(_____,_____) d) How many are expected to be audited? e) Find the probability that no one was audited. f) Find the probability that at least three were audited.",
+        "Image Links": [],
+        "Answer": "a) X = the number of people audited in one year b) 0, 1, 2, ..., 100 c) X ~ P (2) d) 2 e) .1353 f) .3233",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.6 Poisson Distribution (Optional)",
+        "Problem Statement": "",
+        "Question": "Approximately 8 percent of students at a local high school participate in after-school sports all four years of high school. A group of 60 seniors is randomly chosen. Of interest is the number who participated in after-school sports all four years of high school. a) In words, define the random variable X . b) List the values that X may take on. c) Give the distribution of X . X ~ _____(_____,_____) d) How many seniors are expected to have participated in after-school sports all four years of high school? e) Based on numerical values, would you be surprised if none of the seniors participated in after-school sports all four years of high school? Justify your answer numerically. f) Based on numerical values, is it more likely that four or that five of the seniors participated in after-school sports all four years of high school? Justify your answer numerically.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.6 Poisson Distribution (Optional)",
+        "Problem Statement": "",
+        "Question": "On average, Pierre, an amateur chef, drops three pieces of eggshell into every two cake batters he makes. Suppose that you buy one of his cakes. a) In words, define the random variable X . b) List the values that X may take on. c) Give the distribution of X . X ~ _____(_____,_____) d) On average, how many pieces of eggshell do you expect to be in the cake? e) What is the probability that there will not be any pieces of eggshell in the cake? f) Let\u2019s say that you buy one of Pierre\u2019s cakes each week for six weeks. What is the probability that there will not be any eggshell in any of the cakes? g) Based upon the average given for Pierre, is it possible for there to be seven pieces of shell in the cake? Why?",
+        "Image Links": [],
+        "Answer": "a) X = the number of shell pieces in one cake b) 0, 1, 2, 3,... c) X ~ P (1.5) d) 1.5 e) .2231 f) .0001 g) yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.6 Poisson Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next two exercises: The average number of times per week that Mrs. Plum\u2019s cats wake her up at night because they want to play is 10. We are interested in the number of times her cats wake her up each week.",
+        "Question": "In words, what is the random variable X ? a) the number of times Mrs. Plum\u2019s cats wake her up each week b) the number of times Mrs. Plum\u2019s cats wake her up each hour c) the number of times Mrs. Plum\u2019s cats wake her up each night d) the number of times Mrs. Plum\u2019s cats wake her up",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.6 Poisson Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next two exercises: The average number of times per week that Mrs. Plum\u2019s cats wake her up at night because they want to play is 10. We are interested in the number of times her cats wake her up each week.",
+        "Question": "Find the probability that her cats will wake her up no more than five times next week. a) .5000 b) .9329 c) .0378 d) .0671",
+        "Image Links": [],
+        "Answer": "d",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.7 Discrete Distribution (Playing Card Experiment)",
+        "Problem Statement": "",
+        "Question": "Use a programmable calculator to simulate a binomial distribution. a) How would you use the randInt function to simulate the number of successes in five trials of an experiment with two outcomes, each of which has a .5 probability of occurring? b) Use the randInt function to simulate 10 observations of the random variable in Part A. c) Find the sample mean and sample standard deviation. d) Compare the sample mean and sample standard deviation to the theoretical mean and the theoretical standard deviation.",
+        "Image Links": [],
+        "Answer": "a) You can use randInt (0,1,5) to generate five trials of the experiment. Count the number of 1\u2019s generated to determine the number of successes. b) Student answers may vary. c) Student answers may vary. d) The theoretical mean is $$( 5 ) ( .5 ) = 2.5$$ . The theoretical standard deviation is $$\\sqrt{( 5 ) ( .5 ) ( 0.5 )} = \\sqrt{1.25}$$ .",
+        "Answer Image Links": []
+    }
+]

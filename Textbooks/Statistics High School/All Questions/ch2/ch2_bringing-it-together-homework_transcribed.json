@@ -1,0 +1,129 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Santa Clara County, California, has approximately 27,873 Japanese Americans. Table 2.80 shows their ages by group and each age-group's percentage of the Japanese American community. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nAge-Group & Percentage of Community \\\\ \\hline\n0-17 & 18.9 \\\\ \\hline\n18-24 & 8.0 \\\\ \\hline\n25-34 & 22.8 \\\\ \\hline\n35-44 & 15.0 \\\\ \\hline\n45-54 & 13.1 \\\\ \\hline\n55-64 & 11.9 \\\\ \\hline\n65+ & 10.3 \\\\ \\hline\n\\end{tabular}\n\\end{table} a) Construct a histogram of the Japanese American community in Santa Clara County. The bars will not be the same width for this example. Why not? What impact does this have on the reliability of the graph? b) What percentage of the community is under age 35? c) Which box plot most resembles the information above? Figure 2.49",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/426658e08bae193261ca68610ebdd775229a0169"
+        ],
+        "Answer": "a) For graph, check student's solution. b) 49.7 percent of the community is under the age of 35 c) Based on the information in the table, graph (a) most closely represents the data.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Javier and Ercilia are supervisors at a shopping mall. Each was given the task of estimating the mean distance that shoppers live from the mall. They each randomly surveyed 100 shoppers.  The samples yielded the following information. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\n & Javier & Ercilia \\\\ \\hline\n$$\\overline{x}$$ & 6.0 miles & 6.0 miles \\\\ \\hline\n$$s$$ & 4.0 miles & 7.0 miles \\\\ \\hline\n\\end{tabular}\n\\end{table} a) How can you determine which survey was correct? b) Explain what the difference in the results of the surveys implies about the data. c) If the two histograms depict the distribution of values for each supervisor, which one depicts Ercilia\u2019s sample?  How do you know? Figure 2.50 d) If the two box plots depict the distribution of values for each supervisor, which one depicts Ercilia\u2019s sample?  How do you know? Figure 2.51",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6924dba84885959e316ead00c51be4055bebdd57",
+            "https://openstax.org/apps/archive/20240812.170248/resources/55124ed41fc1b266ee23003f8b6a13b09c797cc9"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next three exercises: We are interested in the number of years students in a particular elementary statistics class have lived in California. The information in the following table is from the entire section. Number of Years Frequency Number of Years Frequency 7 1 22 1 14 3 23 1 15 1 26 1 18 1 40 2 19 4 42 2 20 3 Total = 20 Table 2.82",
+        "Question": "What is the IQR ? a) 8 b) 11 c) 15 d) 35",
+        "Image Links": [],
+        "Answer": "a",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next three exercises: We are interested in the number of years students in a particular elementary statistics class have lived in California. The information in the following table is from the entire section. Number of Years Frequency Number of Years Frequency 7 1 22 1 14 3 23 1 15 1 26 1 18 1 40 2 19 4 42 2 20 3 Total = 20 Table 2.82",
+        "Question": "What is the mode? a) 19 b) 19.5 c) 14 and 20 d) 22.65",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next three exercises: We are interested in the number of years students in a particular elementary statistics class have lived in California. The information in the following table is from the entire section. Number of Years Frequency Number of Years Frequency 7 1 22 1 14 3 23 1 15 1 26 1 18 1 40 2 19 4 42 2 20 3 Total = 20 Table 2.82",
+        "Question": "Is this a sample or the entire population? a) sample b) entire population c) neither",
+        "Image Links": [],
+        "Answer": "b",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Twenty-five randomly selected students were asked the number of movies they watched the previous week. The results are as follows: \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nNumber of Movies & Frequency \\\\ \\hline\n0 & 5 \\\\ \\hline\n1 & 9 \\\\ \\hline\n2 & 6 \\\\ \\hline\n3 & 4 \\\\ \\hline\n4 & 1 \\\\ \\hline\n\\end{tabular}\n\\end{table} a) Find the sample mean $$\\overline{x}$$ . b) Find the approximate sample standard deviation, s .",
+        "Image Links": [],
+        "Answer": "a) 1.48 b) 1.12",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Forty randomly selected students were asked the number of pairs of sneakers they owned. Let X = the number of pairs of sneakers owned. The results are as follows: \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nX & Frequency \\\\ \\hline\n1 & 2 \\\\ \\hline\n2 & 5 \\\\ \\hline\n3 & 8 \\\\ \\hline\n4 & 12 \\\\ \\hline\n5 & 12 \\\\ \\hline\n6 & 0 \\\\ \\hline\n7 & 1 \\\\ \\hline\n\\end{tabular}\n\\end{table} a) Find the sample mean, $$\\overline{x}$$ b) Find the sample standard deviation, s . c) Construct a histogram of the data. d) Complete the columns of the chart. e) Find the first quartile. f) Find the median. g) Find the third quartile. h) Construct a box plot of the data. i) What percentage of the students owned at least five pairs? j) Find the 40 th percentile. k) Find the 90 th percentile. l) Construct a line graph of the data. m) Construct a stemplot of the data.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Following are the published weights (in pounds) of all of the football team members of the San Francisco 49ers from a previous year: 177, 205, 210, 210, 232, 205, 185, 185, 178, 210, 206, 212, 184, 174, 185, 242, 188, 212, 215, 247, 241, 223, 220, 260, 245, 259, 278, 270, 280, 295, 275, 285, 290, 272, 273, 280, 285, 286, 200, 215, 185, 230, 250, 241, 190, 260, 250, 302, 265, 290, 276, 228, 265 a) Organize the data from smallest to largest value. b) Find the median. c) Find the first quartile. d) Find the third quartile. e) Construct a box plot of the data. f) The middle 50 percent of the weights are from ________ to ________. g) If our population were all professional football players, would the above data be a sample of weights or the population of weights?  Why? h) If our population included every team member who ever played for a California-based football team, would the above data be a sample of weights or the population of weights?  Why? i) Assume the population was a California-based football team.  Find the population mean, \u03bc , the population standard deviation, \u03c3 , and the weight that is two standard deviations below the mean. In addition, when the team's most famous quarterback, played football, he weighed 205 pounds.  Also find how many standard deviations above or below the mean was he? j) That same year, the mean weight for a player from a Texas football team was 240.08 pounds with a standard deviation of 44.38 pounds.  One player weighed in at 209 pounds.  With respect to his team, who was lighter, the California quarterback or the Texas player?  How did you determine your answer?",
+        "Image Links": [],
+        "Answer": "a) 174, 177, 178, 184, 185, 185, 185, 185, 188, 190, 200, 205, 205, 206, 210, 210, 210, 212, 212, 215, 215, 220, 223, 228, 230, 232, 241, 241, 242, 245, 247, 250, 250, 259, 260, 260, 265, 265, 270, 272, 273, 275, 276, 278, 280, 280, 285, 285, 286, 290, 290, 295, 302 b) 241 c) 205.5 d) 272.5 e)  f) 205.5, 272.5 g) sample h) population i) 236.34 37.50 161.34 .84 standard deviations below the mean j) young",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "One hundred teachers attended a seminar on mathematical problem solving. The attitudes of a representative sample of 12 of the teachers were measured before and after the seminar. A positive number for change in attitude indicates that a teacher's attitude toward math became more positive. The 12 change scores are as follows: 3, 8, -1, 2, 0, 5, -3, 1, -1, 6, 5, -2 a) What is the mean change score? b) What is the standard deviation for this population? c) What is the median change score? d) Find the change score that is 2.2 standard deviations below the mean.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Refer to Figure 2.52 to determine which of the following are true and which are false. Explain your solution to each part in complete sentences. Figure 2.52 a) The medians for all three graphs are the same. b) We cannot determine if any of the means for the three graphs are different. c) The standard deviation for Graph b is larger than the standard deviation for Graph a. d) We cannot determine if any of the third quartiles for the three graphs are different.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d7c3bd7815a48aed390e31024120d0dbbb0d5901"
+        ],
+        "Answer": "a) true b) true c) true d) false",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "In a recent issue of the IEEE Spectrum , 84 engineering conferences were announced. Four conferences lasted two days. Thirty-six lasted three days. Eighteen lasted four days. Nineteen lasted five days. Four lasted six days. One lasted seven days. One lasted eight days. One lasted nine days. Let X = the length (in days) of an engineering conference. a) Organize the data in a chart. b) Find the median, the first quartile, and the third quartile. c) Find the 65 th percentile. d) Find the 10 th percentile. e) Construct a box plot of the data. f) The middle 50 percent of the conferences last from ________ days to ________ days. g) Calculate the sample mean of days of engineering conferences. h) Calculate the sample standard deviation of days of engineering conferences. i) Find the mode. j) If you were planning an engineering conference, which would you choose as the length of the conference, mean, median, or mode? Explain why you made that choice. k) Give two reasons why you think that three to five days seem to be popular lengths of engineering conferences.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A survey of enrollment at 35 community colleges across the United States yielded the following figures: 6,414;  1,550; 2,109; 9,350; 21,828; 4,300;  5,944; 5,722; 2,825; 2,044; 5,481;  5,200; 5,853; 2,750; 10,012; 6,357;  27,000; 9,414; 7,681; 3,200; 17,500;  9,200; 7,380; 18,314; 6,557; 13,713;  17,768; 7,493; 2,771; 2,861; 1,263;  7,285; 28,165; 5,080; 11,622 a) Organize the data into a chart with five intervals of equal width. Label the two columns Enrollment and Frequency . b) Construct a histogram of the data. c) If you were to build a new community college, which piece of information would be more valuable: the mode or the mean? d) Calculate the sample mean. e) Calculate the sample standard deviation. f) A school with an enrollment of 8,000 would be how many standard deviations away from the mean?",
+        "Image Links": [],
+        "Answer": "a) \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nEnrollment & Frequency \\\\ \\hline\n1,000-5,000 & 10 \\\\ \\hline\n5,000-10,000 & 16 \\\\ \\hline\n10,000-15,000 & 3 \\\\ \\hline\n15,000-20,000 & 3 \\\\ \\hline\n20,000-25,000 & 1 \\\\ \\hline\n25,000-30,000 & 2 \\\\ \\hline\n\\end{tabular}\n\\end{table} b) Check student\u2019s solution. c) mode d) 8,628.74 e) 6,943.88 f) -0.09",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next two exercises. X = the number of days per week that 100 clients use a particular exercise facility. X Frequency 0 3 1 12 2 33 3 28 4 11 5 9 6 4 Table 2.85",
+        "Question": "The 80 th percentile is ________. a) 5 b) 80 c) 3 d) 4",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next two exercises. X = the number of days per week that 100 clients use a particular exercise facility. X Frequency 0 3 1 12 2 33 3 28 4 11 5 9 6 4 Table 2.85",
+        "Question": "The number that is 1.5 standard deviations below the mean is approximately ________. a) 0.7 b) 4.8 c) -2.8 d) cannot be determined",
+        "Image Links": [],
+        "Answer": "a",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next two exercises. X = the number of days per week that 100 clients use a particular exercise facility. X Frequency 0 3 1 12 2 33 3 28 4 11 5 9 6 4 Table 2.85",
+        "Question": "Suppose that a publisher conducted a survey asking adult consumers the number of fiction paperback books they had purchased in the previous month. The results are summarized in Table 2.86 . \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\nNumber of Books & Frequency & Relative Frequency \\\\ \\hline\n0 & 18 &  \\\\ \\hline\n1 & 24 &  \\\\ \\hline\n2 & 24 &  \\\\ \\hline\n3 & 22 &  \\\\ \\hline\n4 & 15 &  \\\\ \\hline\n5 & 10 &  \\\\ \\hline\n7 & 5 &  \\\\ \\hline\n9 & 1 &  \\\\ \\hline\n\\end{tabular}\n\\end{table} a) Are there any outliers in the data? Use an appropriate numerical test involving the IQR to identify outliers, if any, and clearly state your conclusion. b) If a data value is identified as an outlier, what should be done about it? c) Are any data values farther than two standard deviations away from the mean? In some situations, statisticians may use this criterion to identify data values that are unusual, compared to the other data values. Note that this criterion is most appropriate to use for data that is mound shaped and symmetric rather than for skewed data. d) Do Parts a and c of this problem give the same answer? e) Examine the shape of the data.  Which part, a or c, of this question gives a more appropriate result for this data? f) Based on the shape of the data, which is the most appropriate measure of center for this data, mean, median, or mode?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]
