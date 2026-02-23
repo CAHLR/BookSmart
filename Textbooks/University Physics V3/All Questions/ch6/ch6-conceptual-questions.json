@@ -1,0 +1,434 @@
+[
+    {
+        "Topic": "6.1 Blackbody Radiation",
+        "Problem Statement": "",
+        "Question": "Which surface has a higher temperature - the surface of a yellow star or that of a red star?",
+        "Image Links": [],
+        "Answer": "yellow",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Blackbody Radiation",
+        "Problem Statement": "",
+        "Question": "Describe what you would see when looking at a body whose temperature is increased from 1000 K to 1,000,000 K.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Blackbody Radiation",
+        "Problem Statement": "",
+        "Question": "Explain the color changes in a hot body as its temperature is increased.",
+        "Image Links": [],
+        "Answer": "goes from red to violet through the rainbow of colors",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Blackbody Radiation",
+        "Problem Statement": "",
+        "Question": "Speculate as to why UV light causes sunburn, whereas visible light does not.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Blackbody Radiation",
+        "Problem Statement": "",
+        "Question": "Two cavity radiators are constructed with walls made of different metals. At the same temperature, how would their radiation spectra differ?",
+        "Image Links": [],
+        "Answer": "would not differ",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Blackbody Radiation",
+        "Problem Statement": "",
+        "Question": "Discuss why some bodies appear black, other bodies appear red, and still other bodies appear white.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Blackbody Radiation",
+        "Problem Statement": "",
+        "Question": "If everything radiates electromagnetic energy, why can we not see objects at room temperature in a dark room?",
+        "Image Links": [],
+        "Answer": "human eye does not see IR radiation",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Blackbody Radiation",
+        "Problem Statement": "",
+        "Question": "How much does the power radiated by a blackbody increase when its temperature (in K) is tripled?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Photoelectric Effect",
+        "Problem Statement": "",
+        "Question": "For the same monochromatic light source, would the photoelectric effect occur for all metals?",
+        "Image Links": [],
+        "Answer": "No",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Photoelectric Effect",
+        "Problem Statement": "",
+        "Question": "In the interpretation of the photoelectric effect, how is it known that an electron does not absorb more than one photon?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Photoelectric Effect",
+        "Problem Statement": "",
+        "Question": "Explain how you can determine the work function from a plot of the stopping potential versus the frequency of the incident radiation in a photoelectric effect experiment. Can you determine the value of Planck\u2019s constant from this plot?",
+        "Image Links": [],
+        "Answer": "from the slope",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Photoelectric Effect",
+        "Problem Statement": "",
+        "Question": "Suppose that in the photoelectric-effect experiment we make a plot of the detected current versus the applied potential difference. What information do we obtain from such a plot? Can we determine from it the value of Planck\u2019s constant? Can we determine the work function of the metal?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Photoelectric Effect",
+        "Problem Statement": "",
+        "Question": "Speculate how increasing the temperature of a photoelectrode affects the outcomes of the photoelectric effect experiment.",
+        "Image Links": [],
+        "Answer": "Answers may vary",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Photoelectric Effect",
+        "Problem Statement": "",
+        "Question": "Which aspects of the photoelectric effect cannot be explained by classical physics?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Photoelectric Effect",
+        "Problem Statement": "",
+        "Question": "Is the photoelectric effect a consequence of the wave character of radiation or is it a consequence of the particle character of radiation? Explain briefly.",
+        "Image Links": [],
+        "Answer": "the particle character",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Photoelectric Effect",
+        "Problem Statement": "",
+        "Question": "The metals sodium, iron, and molybdenum have work functions 2.5 eV, 3.9 eV, and 4.2 eV, respectively. Which of these metals will emit photoelectrons when illuminated with 400 nm light?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 The Compton Effect",
+        "Problem Statement": "",
+        "Question": "Discuss any similarities and differences between the photoelectric and the Compton effects.",
+        "Image Links": [],
+        "Answer": "Answers may vary",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 The Compton Effect",
+        "Problem Statement": "",
+        "Question": "Which has a greater momentum: an UV photon or an IR photon?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 The Compton Effect",
+        "Problem Statement": "",
+        "Question": "Does changing the intensity of a monochromatic light beam affect the momentum of the individual photons in the beam? Does such a change affect the net momentum of the beam?",
+        "Image Links": [],
+        "Answer": "no; yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 The Compton Effect",
+        "Problem Statement": "",
+        "Question": "Can the Compton effect occur with visible light? If so, will it be detectable?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 The Compton Effect",
+        "Problem Statement": "",
+        "Question": "Is it possible in the Compton experiment to observe scattered X-rays that have a shorter wavelength than the incident X-ray radiation?",
+        "Image Links": [],
+        "Answer": "no",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 The Compton Effect",
+        "Problem Statement": "",
+        "Question": "Show that the Compton wavelength has the dimension of length.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 The Compton Effect",
+        "Problem Statement": "",
+        "Question": "At what scattering angle is the wavelength shift in the Compton effect equal to the Compton wavelength?",
+        "Image Links": [],
+        "Answer": "right angle",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "Explain why the patterns of bright emission spectral lines have an identical spectral position to the pattern of dark absorption spectral lines for a given gaseous element.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "Do the various spectral lines of the hydrogen atom overlap?",
+        "Image Links": [],
+        "Answer": "no",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "The Balmer series for hydrogen was discovered before either the Lyman or the Paschen series. Why?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "When the absorption spectrum of hydrogen at room temperature is analyzed, absorption lines for the Lyman series are found, but none are found for the Balmer series. What does this tell us about the energy state of most hydrogen atoms at room temperature?",
+        "Image Links": [],
+        "Answer": "They are at ground state.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "Hydrogen accounts for about 75% by mass of the matter at the surfaces of most stars. However, the absorption lines of hydrogen are strongest (of highest intensity) in the spectra of stars with a surface temperature of about 9000 K. They are weaker in the sun spectrum and are essentially nonexistent in very hot (temperatures above 25,000 K) or rather cool (temperatures below 3500 K) stars. Speculate as to why surface temperature affects the hydrogen absorption lines that we observe.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "Discuss the similarities and differences between Thomson\u2019s model of the hydrogen atom and Bohr\u2019s model of the hydrogen atom.",
+        "Image Links": [],
+        "Answer": "Answers may vary",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "Discuss the way in which Thomson\u2019s model is nonphysical. Support your argument with experimental evidence.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "If, in a hydrogen atom, an electron moves to an orbit with a larger radius, does the energy of the hydrogen atom increase or decrease?",
+        "Image Links": [],
+        "Answer": "increase",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "How is the energy conserved when an atom makes a transition from a higher to a lower energy state?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "Suppose an electron in a hydrogen atom makes a transition from the ( n+1 )th orbit to the n th orbit. Is the wavelength of the emitted photon longer for larger values of n , or for smaller values of n ?",
+        "Image Links": [],
+        "Answer": "for larger n",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "Discuss why the allowed energies of the hydrogen atom are negative.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "Can a hydrogen atom absorb a photon whose energy is greater than 13.6 eV?",
+        "Image Links": [],
+        "Answer": "Yes, the excess of 13.6 eV will become kinetic energy of a free electron.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "Why can you see through glass but not through wood?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "Do gravitational forces have a significant effect on atomic energy levels?",
+        "Image Links": [],
+        "Answer": "no",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "Show that Planck\u2019s constant has the dimensions of angular momentum.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.5 De Broglie\u2019s Matter Waves",
+        "Problem Statement": "",
+        "Question": "Which type of radiation is most suitable for the observation of diffraction patterns on crystalline solids; radio waves, visible light, or X-rays? Explain.",
+        "Image Links": [],
+        "Answer": "X-rays, best resolving power",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.5 De Broglie\u2019s Matter Waves",
+        "Problem Statement": "",
+        "Question": "Speculate as to how the diffraction patterns of a typical crystal would be affected if $$\\text{gamma} \\text{-rays}$$ were used instead of X-rays.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.5 De Broglie\u2019s Matter Waves",
+        "Problem Statement": "",
+        "Question": "If an electron and a proton are traveling at the same speed, which one has the shorter de Broglie wavelength?",
+        "Image Links": [],
+        "Answer": "proton",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.5 De Broglie\u2019s Matter Waves",
+        "Problem Statement": "",
+        "Question": "If a particle is accelerating, how does this affect its de Broglie wavelength?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.5 De Broglie\u2019s Matter Waves",
+        "Problem Statement": "",
+        "Question": "Why is the wave-like nature of matter not observed every day for macroscopic objects?",
+        "Image Links": [],
+        "Answer": "negligibly small de Broglie\u2019s wavelengths",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.5 De Broglie\u2019s Matter Waves",
+        "Problem Statement": "",
+        "Question": "What is the wavelength of a neutron at rest? Explain.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.5 De Broglie\u2019s Matter Waves",
+        "Problem Statement": "",
+        "Question": "Why does the setup of Davisson-Germer experiment need to be enclosed in a vacuum chamber? Discuss what result you expect when the chamber is not evacuated.",
+        "Image Links": [],
+        "Answer": "to avoid collisions with air molecules",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.6 Wave-Particle Duality",
+        "Problem Statement": "",
+        "Question": "Give an example of an experiment in which light behaves as waves. Give an example of an experiment in which light behaves as a stream of photons.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.6 Wave-Particle Duality",
+        "Problem Statement": "",
+        "Question": "Discuss: How does the interference of water waves differ from the interference of electrons? How are they analogous?",
+        "Image Links": [],
+        "Answer": "Answers may vary",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.6 Wave-Particle Duality",
+        "Problem Statement": "",
+        "Question": "Give at least one argument in support of the matter-wave hypothesis.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.6 Wave-Particle Duality",
+        "Problem Statement": "",
+        "Question": "Give at least one argument in support of the particle-nature of radiation.",
+        "Image Links": [],
+        "Answer": "Answers may vary",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.6 Wave-Particle Duality",
+        "Problem Statement": "",
+        "Question": "Explain the importance of the Young double-slit experiment.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.6 Wave-Particle Duality",
+        "Problem Statement": "",
+        "Question": "Does the Heisenberg uncertainty principle allow a particle to be at rest in a designated region in space?",
+        "Image Links": [],
+        "Answer": "yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.6 Wave-Particle Duality",
+        "Problem Statement": "",
+        "Question": "Can the de Broglie wavelength of a particle be known exactly?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.6 Wave-Particle Duality",
+        "Problem Statement": "",
+        "Question": "Do the photons of red light produce better resolution in a microscope than blue light photons? Explain.",
+        "Image Links": [],
+        "Answer": "yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.6 Wave-Particle Duality",
+        "Problem Statement": "",
+        "Question": "Discuss the main difference between an SEM and a TEM.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

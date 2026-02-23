@@ -1,0 +1,210 @@
+[
+    {
+        "Topic": "7.1 Wave Functions",
+        "Problem Statement": "",
+        "Question": "What is the physical unit of a wave function, $$\\text{Psi} ( x , t ) ?$$ What is the physical unit of the square of this wave function?",
+        "Image Links": [],
+        "Answer": "$$1 \\text{/} \\sqrt{L} ,$$ where $$L = \\text{length}$$ ; 1/ L , where $$L = \\text{length}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.1 Wave Functions",
+        "Problem Statement": "",
+        "Question": "Can the magnitude of a wave function $$( \\text{Psi}^{*} ( x , t ) \\text{Psi} ( x , t ) )$$ be a negative number? Explain.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.1 Wave Functions",
+        "Problem Statement": "",
+        "Question": "What kind of physical quantity does a wave function of an electron represent?",
+        "Image Links": [],
+        "Answer": "The wave function does not correspond directly to any measured quantity. It is a tool for predicting the values of physical quantities.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.1 Wave Functions",
+        "Problem Statement": "",
+        "Question": "What is the physical meaning of a wave function of a particle?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.1 Wave Functions",
+        "Problem Statement": "",
+        "Question": "What is the meaning of the expression \u201cexpectation value?\u201d Explain.",
+        "Image Links": [],
+        "Answer": "The average value of the physical quantity for a large number of particles with the same wave function.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 The Heisenberg Uncertainty Principle",
+        "Problem Statement": "",
+        "Question": "If the formalism of quantum mechanics is \u2018more exact\u2019 than that of classical mechanics, why don\u2019t we use quantum mechanics to describe the motion of a leaping frog? Explain.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 The Heisenberg Uncertainty Principle",
+        "Problem Statement": "",
+        "Question": "Can the de Broglie wavelength of a particle be known precisely? Can the position of a particle be known precisely?",
+        "Image Links": [],
+        "Answer": "Yes, if its position is completely unknown. Yes, if its momentum is completely unknown.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 The Heisenberg Uncertainty Principle",
+        "Problem Statement": "",
+        "Question": "Can we measure the energy of a free localized particle with complete precision?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.2 The Heisenberg Uncertainty Principle",
+        "Problem Statement": "",
+        "Question": "Can we measure both the position and momentum of a particle with complete precision?",
+        "Image Links": [],
+        "Answer": "No. According to the uncertainty principle, if the uncertainty on the particle\u2019s position is small, the uncertainty on its momentum is large. Similarly, if the uncertainty on the particle\u2019s position is large, the uncertainty on its momentum is small.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.3 The Schr\u04e7dinger Equation",
+        "Problem Statement": "",
+        "Question": "What is the difference between a wave function $$\\psi ( x , y , z )$$ and a wave function $$\\text{Psi} ( x , y , z , t )$$ for the same particle?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.3 The Schr\u04e7dinger Equation",
+        "Problem Statement": "",
+        "Question": "If a quantum particle is in a stationary state, does it mean that it does not move?",
+        "Image Links": [],
+        "Answer": "No, it means that predictions about the particle (expressed in terms of probabilities) are time-independent.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.3 The Schr\u04e7dinger Equation",
+        "Problem Statement": "",
+        "Question": "Explain the difference between time-dependent and -independent Schr\u04e7dinger\u2019s equations.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.3 The Schr\u04e7dinger Equation",
+        "Problem Statement": "",
+        "Question": "Suppose a wave function is discontinuous at some point. Can this function represent a quantum state of some physical particle? Why? Why not?",
+        "Image Links": [],
+        "Answer": "No, because the probability of the particle existing in a narrow (infinitesimally small) interval at the discontinuity is undefined.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.4 The Quantum Particle in a Box",
+        "Problem Statement": "",
+        "Question": "Using the quantum particle in a box model, describe how the possible energies of the particle are related to the size of the box.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.4 The Quantum Particle in a Box",
+        "Problem Statement": "",
+        "Question": "Is it possible that when we measure the energy of a quantum particle in a box, the measurement may return a smaller value than the ground state energy? What is the highest value of the energy that we can measure for this particle?",
+        "Image Links": [],
+        "Answer": "No. For an infinite square well, the spacing between energy levels increases with the quantum number n . The smallest energy measured corresponds to the transition from n = 2 to 1, which is three times the ground state energy. The largest energy measured corresponds to a transition from $$n = \\infty$$ to 1, which is infinity. (Note: Even particles with extremely large energies remain bound to an infinite square well-they can never \u201cescape\u201d)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.4 The Quantum Particle in a Box",
+        "Problem Statement": "",
+        "Question": "For a quantum particle in a box, the first excited state $$( \\text{Psi}_{2} )$$ has zero value at the midpoint position in the box, so that the probability density of finding a particle at this point is exactly zero. Explain what is wrong with the following reasoning: \u201cIf the probability of finding a quantum particle at the midpoint is zero, the particle is never at this point, right? How does it come then that the particle can cross this point on its way from the left side to the right side of the box?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.5 The Quantum Harmonic Oscillator",
+        "Problem Statement": "",
+        "Question": "Is it possible to measure energy of $$0.75 \\hslash \\upomega$$ for a quantum harmonic oscillator? Why? Why not? Explain.",
+        "Image Links": [],
+        "Answer": "No. This energy corresponds to $$n = 0.25$$ , but n must be an integer.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.5 The Quantum Harmonic Oscillator",
+        "Problem Statement": "",
+        "Question": "Explain the connection between Planck\u2019s hypothesis of energy quanta and the energies of the quantum harmonic oscillator.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.5 The Quantum Harmonic Oscillator",
+        "Problem Statement": "",
+        "Question": "If a classical harmonic oscillator can be at rest, why can the quantum harmonic oscillator never be at rest? Does this violate Bohr\u2019s correspondence principle?",
+        "Image Links": [],
+        "Answer": "Because the smallest allowed value of the quantum number n for a simple harmonic oscillator is 0. No, because quantum mechanics and classical mechanics agree only in the limit of large $$n$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.5 The Quantum Harmonic Oscillator",
+        "Problem Statement": "",
+        "Question": "Use an example of a quantum particle in a box or a quantum oscillator to explain the physical meaning of Bohr\u2019s correspondence principle.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.5 The Quantum Harmonic Oscillator",
+        "Problem Statement": "",
+        "Question": "Can we simultaneously measure position and energy of a quantum oscillator? Why? Why not?",
+        "Image Links": [],
+        "Answer": "Yes, within the constraints of the uncertainty principle. If the oscillating particle is localized, the momentum and therefore energy of the oscillator are distributed.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.6 The Quantum Tunneling of Particles through Potential Barriers",
+        "Problem Statement": "",
+        "Question": "When an electron and a proton of the same kinetic energy encounter a potential barrier of the same height and width, which one of them will tunnel through the barrier more easily? Why?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.6 The Quantum Tunneling of Particles through Potential Barriers",
+        "Problem Statement": "",
+        "Question": "What decreases the tunneling probability most: doubling the barrier width or halving the kinetic energy of the incident particle?",
+        "Image Links": [],
+        "Answer": "doubling the barrier width",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.6 The Quantum Tunneling of Particles through Potential Barriers",
+        "Problem Statement": "",
+        "Question": "Explain the difference between a box-potential and a potential of a quantum dot.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.6 The Quantum Tunneling of Particles through Potential Barriers",
+        "Problem Statement": "",
+        "Question": "Can a quantum particle \u2018escape\u2019 from an infinite potential well like that in a box? Why? Why not?",
+        "Image Links": [],
+        "Answer": "No, the restoring force on the particle at the walls of an infinite square well is infinity.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.6 The Quantum Tunneling of Particles through Potential Barriers",
+        "Problem Statement": "",
+        "Question": "A tunnel diode and a resonant-tunneling diode both utilize the same physics principle of quantum tunneling. In what important way are they different?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

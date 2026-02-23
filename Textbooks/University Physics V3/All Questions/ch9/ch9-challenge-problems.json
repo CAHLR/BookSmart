@@ -1,0 +1,10 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "For an electron in a three-dimensional metal, show that the average energy is given by $$\\overset{-}{E} = \\frac{1}{N} \\int_{0}^{E_{\\text{F}}} E g \\left(\\right. E \\left.\\right) d E = \\frac{3}{5} E_{\\text{F}} ,$$ Where N is the total number electrons in the metal.",
+        "Image Links": [],
+        "Answer": "In three dimensions, the energy of an electron is given by: $$E = R^{2} E_{1} ,$$ where $$R^{2} = n_{1}^{2} + n_{2}^{2} + n_{3}^{2}$$ . Each allowed energy state corresponds to node in N space $$( n_{1} , n_{2} , n_{3} )$$ . The number of particles corresponds to the number of states (nodes) in the first octant, within a sphere of radius, R . This number is given by: $$N = 2 ( \\frac{1}{8} ) ( \\frac{4}{3} ) \\pi R^{3} ,$$ where the factor 2 accounts for two states of spin. The density of states is found by differentiating this expression by energy: $$g ( E ) = \\frac{\\pi V}{2} ( \\frac{8 m_{e}}{h^{2}} )^{3 \\text{/} 2} E^{1 \\text{/} 2}$$ . Integrating gives: $$\\overset{-}{E} = \\frac{3}{5} E_{\\text{F}} .$$",
+        "Answer Image Links": []
+    }
+]

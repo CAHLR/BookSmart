@@ -1,0 +1,20 @@
+[
+  {
+    "Topic": "Check Your Understanding 10.2",
+    "Problem Statement": "",
+    "Question": "If the binding energy per nucleon is large, does this make it harder or easier to strip off a nucleon from a nucleus?",
+    "Image Links": [],
+    "Answer": "harder",
+    "Answer Image Links": [],
+    "o3 Answer": "The binding energy per nucleon tells you how much energy, on average, is required to pull one nucleon out of the nucleus.  \n\n• A larger binding-energy-per-nucleon means each nucleon is held more tightly.  \n• Therefore you must supply more energy to overcome that binding.  \n\nSo, if the binding energy per nucleon is large, it is harder (not easier) to strip a nucleon from the nucleus.",
+    "o4-mini Answer": "If the binding energy per nucleon is large, each nucleon is more tightly bound, so you must supply more energy to overcome that binding—and thus it is harder to strip a nucleon off.",
+    "deepseek-chat Answer": "If the binding energy per nucleon is **large**, it means that each nucleon is more tightly bound to the nucleus. Therefore, it becomes **harder** to strip off a nucleon from the nucleus.  \n\n### Explanation:  \n- **Binding energy per nucleon** measures how strongly nucleons (protons and neutrons) are held together in the nucleus.  \n- A **higher** binding energy per nucleon means the nucleus is more stable, and more energy is required to remove a nucleon.  \n- Conversely, a **lower** binding energy per nucleon means nucleons are less tightly bound, making it easier to remove one.  \n\nThus, a large binding energy per nucleon makes it **harder** to strip off a nucleon.",
+    "gemini-2.5-pro Answer": "Of course. Let's break down this concept.\n\n### The Short Answer\n\nIf the binding energy per nucleon is large, it makes it **harder** to strip off a nucleon from a nucleus.\n\n---\n\n### The Detailed Explanation\n\nTo understand why, let's clarify what \"binding energy\" really means.\n\n1.  **What is Binding Energy?**\n    Binding energy is the energy required to completely disassemble a nucleus into its individual, separate protons and neutrons (its nucleons). Conversely, it is the energy that is *released* when those individual nucleons come together to form a nucleus.\n\n2.  **What is Binding Energy *per Nucleon*?**\n    This is the total binding energy of the nucleus divided by the total number of nucleons (protons + neutrons). It represents the *average* energy that holds each individual nucleon within the nucleus. A higher binding energy per nucleon means that, on average, each nucleon is more tightly and securely bound to the nucleus.\n\n3.  **Connecting to the Question**\n    *   Think of the nucleus as a group of people in a deep well. The \"binding energy per nucleon\" is like the depth of the well for each person.\n    *   If the well is very deep (high binding energy per nucleon), it takes a great deal of energy and effort to lift one person out.\n    *   If the well is very shallow (low binding energy per nucleon), it's much easier to lift a person out.\n\nTherefore, a **large binding energy per nucleon** signifies a very stable nucleus where the nucleons are held together very strongly. To \"strip off\" or remove one of these nucleons, you must supply at least that much energy to overcome the strong nuclear force holding it in place.\n\n**Conclusion:** A higher binding energy per nucleon corresponds to a more stable nucleus, which makes it **harder** to remove a nucleon.",
+    "gpt-5 Answer": "Harder. A larger binding energy per nucleon means the nucleons are more tightly bound, so you must supply more energy to remove one. (Note: BE per nucleon is an average; actual separation energies vary with nuclear structure, but the general trend holds.)",
+    "o3 Eval": true,
+    "o4-mini Eval": true,
+    "deepseek-chat Eval": true,
+    "gemini-2.5-pro Eval": true,
+    "gpt-5 Eval": true
+  }
+]

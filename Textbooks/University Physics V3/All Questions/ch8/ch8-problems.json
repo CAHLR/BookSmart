@@ -1,0 +1,482 @@
+[
+    {
+        "Topic": "8.1 The Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "The wave function is evaluated at rectangular coordinates ( $$x , y , z$$ ) $$=$$ (2, 1, 1) in arbitrary units. What are the spherical coordinates of this position?",
+        "Image Links": [],
+        "Answer": "$$( r , \\theta , \\upphi ) = ( \\sqrt{6 ,} 66 \\text{\u00b0} , 27 \\text{\u00b0} ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.1 The Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "If an atom has an electron in the $$n = 5$$ state with $$m = 3$$ , what are the possible values of l ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.1 The Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "What are the possible values of m for an electron in the $$n = 4$$ state?",
+        "Image Links": [],
+        "Answer": "$$\\pm 3 , \\pm 2 , \\pm 1 , 0$$ are possible",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.1 The Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "What, if any, constraints does a value of $$m = 1$$ place on the other quantum numbers for an electron in an atom?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.1 The Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "How many possible states are there for the $$l = 4$$ state?",
+        "Image Links": [],
+        "Answer": "18",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.1 The Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "(a) How many angles can L make with the z -axis for an $$l = 2$$ electron? (b) Calculate the value of the smallest angle.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.1 The Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "The force on an electron is \u201cnegative the gradient of the potential energy function.\u201d Use this knowledge and Equation 8.1 to show that the force on the electron in a hydrogen atom is given by Coulomb\u2019s force law.",
+        "Image Links": [],
+        "Answer": "$$F = \\text{unicode[:-]} k \\frac{Q q}{r^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.1 The Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "What is the total number of states with orbital angular momentum $$l = 0$$ ? (Ignore electron spin.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.1 The Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "The wave function is evaluated at spherical coordinates $$( r , \\theta , \\upphi ) = ( \\sqrt{3} , 45 \\text{\u00b0} , 45 \\text{\u00b0} ) ,$$ where the value of the radial coordinate is given in arbitrary units. What are the rectangular coordinates of this position?",
+        "Image Links": [],
+        "Answer": "(1, 1, 1)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.1 The Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "Coulomb\u2019s force law states that the force between two charged particles is: $$F = k \\frac{Q q}{r^{2}} .$$ Use this expression to determine the potential energy function.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.1 The Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "Write an expression for the total number of states with orbital angular momentum l .",
+        "Image Links": [],
+        "Answer": "For the orbital angular momentum quantum number, l , the allowed values of: $$m = \\text{unicode[:-]} l , \\text{unicode[:-]} l + 1 \\text{,ddot.} 0 \\text{,ddot.} l - 1 , l$$ . With the exception of $$m = 0$$ , the total number is just 2 l because the number of states on either side of $$m = 0$$ is just l . Including $$m = 0$$ , the total number of orbital angular momentum states for the orbital angular momentum quantum number, l , is: $$2 l + 1 .$$ Later, when we consider electron spin, the total number of angular momentum states will be found to twice this value because each orbital angular momentum states is associated with two states of electron spin: spin up and spin down).",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.1 The Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "Consider hydrogen in the ground state, $$\\psi_{100}$$ . (a) Use the derivative to determine the radial position for which the probability density, P ( r ), is a maximum. (b) Use the integral concept to determine the average radial position. (This is called the expectation value of the electron\u2019s radial position.) Express your answers into terms of the Bohr radius, $$a_{o}$$ . Hint: The expectation value is the just average value. (c) Why are these values different?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.1 The Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "What is the probability that the 1 s electron of a hydrogen atom is found outside the Bohr radius?",
+        "Image Links": [],
+        "Answer": "The probability that the 1 s electron of a hydrogen atom is found outside of the Bohr radius is $$\\int_{a_{0}}^{\\infty} P ( r ) d r \\approx 0.68$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.1 The Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "How many polar angles are possible for an electron in the $$l = 5$$ state?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.1 The Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "What is the maximum number of orbital angular momentum electron states in the $$n = 2$$ shell of a hydrogen atom? (Ignore electron spin.)",
+        "Image Links": [],
+        "Answer": "For $$n = 2$$ , $$l = 0$$ (1 state), and $$l = 1$$ (3 states). The total is 4.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.1 The Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "What is the maximum number of orbital angular momentum electron states in the $$n = 3$$ shell of a hydrogen atom? (Ignore electron spin.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.2 Orbital Magnetic Dipole Moment of the Electron",
+        "Problem Statement": "",
+        "Question": "Find the magnitude of the orbital magnetic dipole moment of the electron in in the 3 p state. (Express your answer in terms of $$\\mu_{\\text{B}} .$$ )",
+        "Image Links": [],
+        "Answer": "The 3 p state corresponds to $$n = 3$$ , $$l = 1$$ . Therefore, $$\\mu = \\mu_{\\text{B}} \\sqrt{1 ( 1 + 1 )} \\mu = \\mu_{\\text{B}} \\sqrt{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.2 Orbital Magnetic Dipole Moment of the Electron",
+        "Problem Statement": "",
+        "Question": "A current of $$I = 2 \\text{A}$$ flows through a square-shaped wire with 2-cm side lengths. What is the magnetic moment of the wire?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.2 Orbital Magnetic Dipole Moment of the Electron",
+        "Problem Statement": "",
+        "Question": "Estimate the ratio of the electron magnetic moment to the muon magnetic moment for the same state of orbital angular momentum. ( Hint: $$m_{\\mu} = 105.7 \\text{MeV} \\text{/} c^{2} )$$",
+        "Image Links": [],
+        "Answer": "The ratio of their masses is 1/207, so the ratio of their magnetic moments is 207. The electron\u2019s magnetic moment is more than 200 times larger than the muon.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.2 Orbital Magnetic Dipole Moment of the Electron",
+        "Problem Statement": "",
+        "Question": "Find the magnitude of the orbital magnetic dipole moment of the electron in in the 4 d state. (Express your answer in terms of $$\\mu_{\\text{B}} .$$ )",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.2 Orbital Magnetic Dipole Moment of the Electron",
+        "Problem Statement": "",
+        "Question": "For a 3 d electron in an external magnetic field of $$2.50 \\times 10^{\\text{unicode[:-]} 3} \\text{T}$$ , find (a) the current associated with the orbital angular momentum, and (b) the maximum torque.",
+        "Image Links": [],
+        "Answer": "a. The 3 d state corresponds to $$n = 3$$ , $$l = 2$$ . So, $$I = 4.43 \\times 10^{-7} \\text{A} .$$ b. The maximum torque occurs when the magnetic moment and external magnetic field vectors are at right angles ( $$\\text{sin} \\theta = 1 )$$ . In this case: $$\\left|\\right. \\overset{\\rightarrow}{\\tau} \\left|\\right. = \\mu B .$$ $$\\tau = 5.70 \\times 10^{-26} \\text{N} \\cdotp \\text{m} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.2 Orbital Magnetic Dipole Moment of the Electron",
+        "Problem Statement": "",
+        "Question": "An electron in a hydrogen atom is in the $$n = 5$$ , $$l = 4$$ state. Find the smallest angle the magnetic moment makes with the z -axis. (Express your answer in terms of $$\\mu_{\\text{B} .}$$ )",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.2 Orbital Magnetic Dipole Moment of the Electron",
+        "Problem Statement": "",
+        "Question": "Find the minimum torque magnitude $$| \\vec{\\tau}$$ | that acts on the orbital magnetic dipole of a 3 p electron in an external magnetic field of $$2.50 \\times 10^{- 3} \\text{T}$$ .",
+        "Image Links": [],
+        "Answer": "A 3 p electron is in the state $$n = 3$$ and $$l = 1$$ . The minimum torque magnitude occurs when the magnetic moment and external magnetic field vectors are most parallel (antiparallel). This occurs when $$m = \\pm 1$$ .The torque magnitude is given by $$\\left|\\right. \\overset{\\rightarrow}{\\tau} \\left|\\right. = \\mu B \\text{sin} \\theta ,$$ Where $$\\mu = ( 1.31 \\times 10^{-24} \\text{J/T} ) .$$ For $$m = \\pm 1 ,$$ we have: $$\\left|\\right. \\overset{\\rightarrow}{\\tau} \\left|\\right. = 2.32 \\times \\left(10\\right)^{21} \\text{N} \\cdot \\text{m} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.2 Orbital Magnetic Dipole Moment of the Electron",
+        "Problem Statement": "",
+        "Question": "An electron in a hydrogen atom is in 3 p state. Find the smallest angle the magnetic moment makes with the z -axis. (Express your answer in terms of $$\\mu_{\\text{B}} .$$ )",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.2 Orbital Magnetic Dipole Moment of the Electron",
+        "Problem Statement": "",
+        "Question": "Show that $$U = - \\overset{\\rightarrow}{\\mu} \\cdot \\overset{\\rightarrow}{B}$$ . ( Hint : An infinitesimal amount of work is done to align the magnetic moment with the external field. This work rotates the magnetic moment vector through an angle $$- d \\theta$$ (toward the positive z -direction), where $$d \\theta$$ is a positive angle change.)",
+        "Image Links": [],
+        "Answer": "An infinitesimal work dW done by a magnetic torque $$\\tau$$ to rotate the magnetic moment through an angle $$- d \\theta$$ : $$d W = \\tau ( \\text{unicode[:-]} d \\theta )$$ , where $$\\tau = \\left|\\right. \\overset{\\rightarrow}{\\mu} \\times \\overset{\\rightarrow}{B} \\left|\\right.$$ . Work done is interpreted as a drop in potential energy U , so $$d W = \\text{unicode[:-]} d U .$$ The total energy change is determined by summing over infinitesimal changes in the potential energy: $$U = \\text{unicode[:-]} \\mu B c o s \\theta$$ $$U = - \\overset{\\rightarrow}{\\mu} \\cdot \\overset{\\rightarrow}{B} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.3 Electron Spin",
+        "Problem Statement": "",
+        "Question": "What is the magnitude of the spin momentum of an electron? (Express you answer in terms of $$\\hslash . )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.3 Electron Spin",
+        "Problem Statement": "",
+        "Question": "What are the possible polar orientations of the spin momentum vector for an electron?",
+        "Image Links": [],
+        "Answer": "Spin up (relative to positive z -axis): $$\\theta = 55 \\text{\u00b0} .$$ Spin down (relative to positive z -axis): $$\\theta = \\text{cos}^{-1} ( \\frac{S_{z}}{\\text{S}} ) = \\text{cos}^{-1} ( \\frac{- \\frac{1}{2}}{\\frac{\\sqrt{3}}{2}} ) = \\text{cos}^{-1} ( \\frac{-1}{\\sqrt{3}} ) = 125 \\text{\u00b0} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.3 Electron Spin",
+        "Problem Statement": "",
+        "Question": "For $$n = 1 ,$$ write all the possible sets of quantum numbers ( n , l , m , $$m_{s}$$ ).",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.3 Electron Spin",
+        "Problem Statement": "",
+        "Question": "A hydrogen atom is placed in an external uniform magnetic field ( $$B = 200 \\text{T}$$ ). Calculate the wavelength of light produced in a transition from a spin up to spin down state.",
+        "Image Links": [],
+        "Answer": "The spin projection quantum number is $$m_{s} = \\pm \\text{\u00bd}$$ , so the z- component of the magnetic moment is $$\\mu_{z} = \\pm \\mu_{\\text{B}} .$$ The potential energy associated with the interaction between the electron and the external magnetic field is $$U = \\mp \\mu_{\\text{B}} B .$$ The energy difference between these states is $$\\text{Delta} E = 2 \\mu_{\\text{B}} B$$ , so the wavelength of light produced is $$\\lambda = 8.38 \\times 10^{-5} \\text{m} \\approx 84 \\mu \\text{m}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.3 Electron Spin",
+        "Problem Statement": "",
+        "Question": "If the magnetic field in the preceding problem is quadrupled, what happens to the wavelength of light produced in a transition from a spin up to spin down state?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.3 Electron Spin",
+        "Problem Statement": "",
+        "Question": "If the magnetic moment in the preceding problem is doubled, what happens to the frequency of light produced in a transition from a spin-up to spin-down state?",
+        "Image Links": [],
+        "Answer": "It is increased by a factor of 2.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.3 Electron Spin",
+        "Problem Statement": "",
+        "Question": "For $$n = 2$$ , write all the possible sets of quantum numbers ( n , l , m , $$m_{s}$$ ).",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.4 The Exclusion Principle and the Periodic Table",
+        "Problem Statement": "",
+        "Question": "(a) How many electrons can be in the $$n = 4$$ shell? (b) What are its subshells, and how many electrons can be in each?",
+        "Image Links": [],
+        "Answer": "a. 32; b. $$\\underset{_____________________}{\\begin{matrix}\\underset{\\underline}{\u2113} & & & & 2 \\left(\\right. 2 \u2113 + 1 \\left.\\right) & & \\\\ 0 & & s & & 2 \\left(\\right. 0 + 1 \\left.\\right) & = & 2 \\\\ 1 & & p & & 2 \\left(\\right. 2 + 1 \\left.\\right) & = & 6 \\\\ 2 & & d & & 2 \\left(\\right. 4 + 1 \\left.\\right) & = & 10 \\\\ 3 & & f & & 2 \\left(\\right. 6 + 1 \\left.\\right) & = & 14\\end{matrix}} \\\\ 32$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.4 The Exclusion Principle and the Periodic Table",
+        "Problem Statement": "",
+        "Question": "(a) What is the minimum value of l for a subshell that contains 11 electrons? (b) If this subshell is in the $$n = 5$$ shell, what is the spectroscopic notation for this atom?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.4 The Exclusion Principle and the Periodic Table",
+        "Problem Statement": "",
+        "Question": "Unreasonable result. Which of the following spectroscopic notations are not allowed? (a) $$5 s^{1}$$ (b) $$1 d^{1}$$ (c) $$4 s^{3}$$ (d) $$3 p^{7}$$ (e) $$5 g^{15}$$ . State which rule is violated for each notation that is not allowed.",
+        "Image Links": [],
+        "Answer": "a. and e. are allowed; the others are not allowed. b. $$l = 3$$ not allowed for $$n = 1 , \\text{} l \\le ( n - 1 ) .$$ c. Cannot have three electrons in s subshell because $$3 > 2 ( 2 l + 1 ) = 2 .$$ d. Cannot have seven electrons in p subshell (max of 6) $$2 ( 2 l + 1 ) = 2 ( 2 + 1 ) = 6 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.4 The Exclusion Principle and the Periodic Table",
+        "Problem Statement": "",
+        "Question": "Write the electron configuration for potassium.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.4 The Exclusion Principle and the Periodic Table",
+        "Problem Statement": "",
+        "Question": "Write the electron configuration for iron.",
+        "Image Links": [],
+        "Answer": "$$[ \\text{Ar} ] 4 s^{2} 3 d^{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.4 The Exclusion Principle and the Periodic Table",
+        "Problem Statement": "",
+        "Question": "The valence electron of potassium is excited to a 5 d state. (a) What is the magnitude of the electron\u2019s orbital angular momentum? (b) How many states are possible along a chosen direction?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.4 The Exclusion Principle and the Periodic Table",
+        "Problem Statement": "",
+        "Question": "(a) If one subshell of an atom has nine electrons in it, what is the minimum value of l ? (b) What is the spectroscopic notation for this atom, if this subshell is part of the $$n = 3$$ shell?",
+        "Image Links": [],
+        "Answer": "a. The minimum value of $$\\ell$$ is $$l = 2$$ to have nine electrons in it. b. $$3 d^{9} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.4 The Exclusion Principle and the Periodic Table",
+        "Problem Statement": "",
+        "Question": "Write the electron configuration for magnesium.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.4 The Exclusion Principle and the Periodic Table",
+        "Problem Statement": "",
+        "Question": "Write the electron configuration for carbon.",
+        "Image Links": [],
+        "Answer": "$$[ \\text{He} ] 2 s^{2} 2 p^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.4 The Exclusion Principle and the Periodic Table",
+        "Problem Statement": "",
+        "Question": "The magnitudes of the resultant spins of the electrons of the elements B through Ne when in the ground state are: $$\\sqrt{3} \\hslash \\text{/} 2 ,$$ $$\\sqrt{2} \\hslash$$ , $$\\sqrt{15} \\hslash \\text{/} 2 ,$$ $$\\sqrt{2} \\hslash$$ , $$\\sqrt{3} \\hslash \\text{/} 2 ,$$ and 0, respectively. Argue that these spins are consistent with Hund\u2019s rule.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.5 Atomic Spectra and X-rays",
+        "Problem Statement": "",
+        "Question": "What is the minimum frequency of a photon required to ionize: (a) a $$\\text{He}^{+}$$ ion in its ground state? (b) A $$\\text{Li}^{\\text{2+}}$$ ion in its first excited state?",
+        "Image Links": [],
+        "Answer": "For $$\\text{He}^{+}$$ , one electron \u201corbits\u201d a nucleus with two protons and two neutrons ( $$Z = 2$$ ). Ionization energy refers to the energy required to remove the electron from the atom. The energy needed to remove the electron in the ground state of $$\\text{He}^{+}$$ ion to infinity is negative the value of the ground state energy, written: $$E = -54.4 \\text{eV} .$$ Thus, the energy to ionize the electron is $$\\text{+54.4} \\text{eV.}$$ Similarly, the energy needed to remove an electron in the first excited state of $$\\text{Li}^{\\text{2+}}$$ ion to infinity is negative the value of the first excited state energy, written: $$E = -30.6 \\text{eV} .$$ The energy to ionize the electron is 30.6 eV.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.5 Atomic Spectra and X-rays",
+        "Problem Statement": "",
+        "Question": "The ion $$\\text{Li}^{\\text{2+}}$$ makes an atomic transition from an $$n = 4$$ state to an $$n = 2$$ state. (a) What is the energy of the photon emitted during the transition? (b) What is the wavelength of the photon?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.5 Atomic Spectra and X-rays",
+        "Problem Statement": "",
+        "Question": "The red light emitted by a ruby laser has a wavelength of 694.3 nm. What is the difference in energy between the initial state and final state corresponding to the emission of the light?",
+        "Image Links": [],
+        "Answer": "The wavelength of the laser is given by: $$\\lambda = \\frac{h c}{\\text{unicode[:-]} \\text{Delta} E} ,$$ where $$E_{\\gamma}$$ is the energy of the photon and $$\\text{Delta} E$$ is the magnitude of the energy difference. Solving for the latter, we get: $$\\text{Delta} E = -2.795 \\text{eV} .$$ The negative sign indicates that the electron lost energy in the transition.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.5 Atomic Spectra and X-rays",
+        "Problem Statement": "",
+        "Question": "The yellow light from a sodium-vapor street lamp is produced by a transition of sodium atoms from a 3 p state to a 3s state. If the difference in energies of those two states is 2.10 eV, what is the wavelength of the yellow light?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.5 Atomic Spectra and X-rays",
+        "Problem Statement": "",
+        "Question": "Estimate the wavelength of the $$K_{\\text{alpha}}$$ X-ray from calcium.",
+        "Image Links": [],
+        "Answer": "$$\\text{Delta} E_{L \\vec{} K} \\approx ( Z - 1 )^{2} ( 10.2 \\text{eV} ) = 3.68 \\times 10^{3} \\text{eV} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.5 Atomic Spectra and X-rays",
+        "Problem Statement": "",
+        "Question": "Estimate the frequency of the $$K_{\\text{alpha}}$$ X-ray from cesium.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.5 Atomic Spectra and X-rays",
+        "Problem Statement": "",
+        "Question": "X-rays are produced by striking a target with a beam of electrons. Prior to striking the target, the electrons are accelerated by an electric field through a potential energy difference: $$\\text{Delta} U = \\text{unicode[:-]} e \\text{Delta} V ,$$ where e is the charge of an electron and $$\\text{Delta} V$$ is the voltage difference. If $$\\text{Delta} V = 15,000$$ volts, what is the minimum wavelength of the emitted radiation?",
+        "Image Links": [],
+        "Answer": "According to the conservation of the energy, the potential energy of the electron is converted completely into kinetic energy. The initial kinetic energy of the electron is zero (the electron begins at rest). So, the kinetic energy of the electron just before it strikes the target is: $$K = e \\text{Delta} V .$$ If all of this energy is converted into braking radiation, the frequency of the emitted radiation is a maximum, therefore: $$f_{\\text{max}} = \\frac{e \\text{Delta} V}{h} .$$ When the emitted frequency is a maximum, then the emitted wavelength is a minimum, so: $$\\lambda_{\\text{min}} = 0.1293 \\text{nm} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.5 Atomic Spectra and X-rays",
+        "Problem Statement": "",
+        "Question": "For the preceding problem, what happens to the minimum wavelength if the voltage across the X-ray tube is doubled?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.5 Atomic Spectra and X-rays",
+        "Problem Statement": "",
+        "Question": "Suppose the experiment in the preceding problem is conducted with muons. What happens to the minimum wavelength?",
+        "Image Links": [],
+        "Answer": "A muon is 200 times heavier than an electron, but the minimum wavelength does not depend on mass, so the result is unchanged.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.5 Atomic Spectra and X-rays",
+        "Problem Statement": "",
+        "Question": "An X-ray tube accelerates an electron with an applied voltage of 50 kV toward a metal target. (a) What is the shortest-wavelength X-ray radiation generated at the target? (b) Calculate the photon energy in eV. (c) Explain the relationship of the photon energy to the applied voltage.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.5 Atomic Spectra and X-rays",
+        "Problem Statement": "",
+        "Question": "A color television tube generates some X-rays when its electron beam strikes the screen. What is the shortest wavelength of these X-rays, if a 30.0-kV potential is used to accelerate the electrons? (Note that TVs have shielding to prevent these X-rays from exposing viewers.)",
+        "Image Links": [],
+        "Answer": "$$4.13 \\times 10^{-11} \\text{m}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.5 Atomic Spectra and X-rays",
+        "Problem Statement": "",
+        "Question": "An X-ray tube has an applied voltage of 100 kV. (a) What is the most energetic X-ray photon it can produce? Express your answer in electron volts and joules. (b) Find the wavelength of such an X-ray.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.5 Atomic Spectra and X-rays",
+        "Problem Statement": "",
+        "Question": "The maximum characteristic X-ray photon energy comes from the capture of a free electron into a K shell vacancy. What is this photon energy in keV for tungsten, assuming that the free electron has no initial kinetic energy?",
+        "Image Links": [],
+        "Answer": "72.5 keV",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.5 Atomic Spectra and X-rays",
+        "Problem Statement": "",
+        "Question": "What are the approximate energies of the $$K_{\\alpha}$$ and $$K_{\\beta}$$ X-rays for copper?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.5 Atomic Spectra and X-rays",
+        "Problem Statement": "",
+        "Question": "Compare the X-ray photon wavelengths for copper and gold.",
+        "Image Links": [],
+        "Answer": "The atomic numbers for Cu and Au are $$Z = 29$$ and 79, respectively. The X-ray photon frequency for gold is greater than copper by a factor: $$( \\frac{f_{\\text{Au}}}{f_{\\text{Cu}}} )^{2} = ( \\frac{79 - 1}{29 - 1} )^{2} \\approx 8 .$$ Therefore, the X-ray wavelength of Au is about eight times shorter than for copper.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.5 Atomic Spectra and X-rays",
+        "Problem Statement": "",
+        "Question": "The approximate energies of the $$K_{\\alpha}$$ and $$K_{\\beta}$$ X-rays for copper are $$E_{K_{\\alpha}} = 8.00 \\text{keV}$$ and $$E_{K_{\\beta}} = 9.48 \\text{keV,}$$ respectively. Determine the ratio of X-ray frequencies of gold to copper, then use this value to estimate the corresponding energies of $$K_{\\alpha}$$ and $$K_{\\beta}$$ X-rays for gold.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.6 Lasers",
+        "Problem Statement": "",
+        "Question": "A carbon dioxide laser used in surgery emits infrared radiation with a wavelength of $$10.6 \\mu \\text{m}$$ . In 1.00 ms, this laser raised the temperature of $$1.00 \\text{cm}^{3}$$ of flesh to $$100 \\text{\u00b0C}$$ and evaporated it. (a) How many photons were required? You may assume that flesh has the same heat of vaporization as water. (b) What was the minimum power output during the flash?",
+        "Image Links": [],
+        "Answer": "a. If flesh has the same density as water, then we used $$1.34 \\times 10^{23}$$ photons. b. 2.52 MW",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.6 Lasers",
+        "Problem Statement": "",
+        "Question": "An excimer laser used for vision correction emits UV radiation with a wavelength of 193 nm. (a) Calculate the photon energy in eV. (b) These photons are used to evaporate corneal tissue, which is very similar to water in its properties. Calculate the amount of energy needed per molecule of water to make the phase change from liquid to gas. That is, divide the heat of vaporization in kJ/kg by the number of water molecules in a kilogram. (c) Convert this to eV and compare to the photon energy. Discuss the implications.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

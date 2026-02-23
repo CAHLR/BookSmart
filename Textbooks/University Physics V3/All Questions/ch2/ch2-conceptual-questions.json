@@ -1,0 +1,202 @@
+[
+    {
+        "Topic": "2.1 Images Formed by Plane Mirrors",
+        "Problem Statement": "",
+        "Question": "What are the differences between real and virtual images? How can you tell (by looking) whether an image formed by a single lens or mirror is real or virtual?",
+        "Image Links": [],
+        "Answer": "Virtual image cannot be projected on a screen. You cannot distinguish a real image from a virtual image simply by judging from the image perceived with your eye.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.1 Images Formed by Plane Mirrors",
+        "Problem Statement": "",
+        "Question": "Can you see a virtual image? Explain your response.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.1 Images Formed by Plane Mirrors",
+        "Problem Statement": "",
+        "Question": "Can you photograph a virtual image?",
+        "Image Links": [],
+        "Answer": "Yes, you can photograph a virtual image. For example, if you photograph your reflection from a plane mirror, you get a photograph of a virtual image. The camera focuses the light that enters its lens to form an image; whether the source of the light is a real object or a reflection from mirror (i.e., a virtual image) does not matter.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.1 Images Formed by Plane Mirrors",
+        "Problem Statement": "",
+        "Question": "Can you project a virtual image onto a screen?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.1 Images Formed by Plane Mirrors",
+        "Problem Statement": "",
+        "Question": "Is it necessary to project a real image onto a screen to see it?",
+        "Image Links": [],
+        "Answer": "No, you can see the real image the same way you can see the virtual image. The retina of your eye effectively serves as a screen.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.1 Images Formed by Plane Mirrors",
+        "Problem Statement": "",
+        "Question": "Devise an arrangement of mirrors allowing you to see the back of your head. What is the minimum number of mirrors needed for this task?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.1 Images Formed by Plane Mirrors",
+        "Problem Statement": "",
+        "Question": "If you wish to see your entire body in a flat mirror (from head to toe), how tall should the mirror be? Does its size depend upon your distance away from the mirror? Provide a sketch.",
+        "Image Links": [],
+        "Answer": "The mirror should be half your size and its top edge should be at the level of your eyes. The size does not depend on your distance from the mirror.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.2 Spherical Mirrors",
+        "Problem Statement": "",
+        "Question": "At what distance is an image always located: at $$d_{\\text{o}} , d_{\\text{i}} ,$$ or f ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.2 Spherical Mirrors",
+        "Problem Statement": "",
+        "Question": "Under what circumstances will an image be located at the focal point of a spherical lens or mirror?",
+        "Image Links": [],
+        "Answer": "when the object is at infinity; see the mirror equation",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.2 Spherical Mirrors",
+        "Problem Statement": "",
+        "Question": "What is meant by a negative magnification? What is meant by a magnification whose absolute value is less than one?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.2 Spherical Mirrors",
+        "Problem Statement": "",
+        "Question": "Can an image be larger than the object even though its magnification is negative? Explain.",
+        "Image Links": [],
+        "Answer": "Yes, negative magnification simply means that the image is upside down; this does not prevent the image from being larger than the object. For instance, for a concave mirror, if distance to the object is larger than one focal distance but smaller than two focal distances the image will be inverted and magnified.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.3 Images Formed by Refraction",
+        "Problem Statement": "",
+        "Question": "Derive the formula for the apparent depth of a fish in a fish tank using Snell\u2019s law.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.3 Images Formed by Refraction",
+        "Problem Statement": "",
+        "Question": "Use a ruler and a protractor to find the image by refraction in the following cases. Assume an air-glass interface. Use a refractive index of 1 for air and of 1.5 for glass. ( Hint : Use Snell\u2019s law at the interface.) (a) A point object located on the axis of a concave interface located at a point within the focal length from the vertex. (b) A point object located on the axis of a concave interface located at a point farther than the focal length from the vertex. (c) A point object located on the axis of a convex interface located at a point within the focal length from the vertex. (d) A point object located on the axis of a convex interface located at a point farther than the focal length from the vertex. (e) Repeat (a)-(d) for a point object off the axis.",
+        "Image Links": [],
+        "Answer": "answers may vary",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.4 Thin Lenses",
+        "Problem Statement": "",
+        "Question": "You can argue that a flat piece of glass, such as in a window, is like a lens with an infinite focal length. If so, where does it form an image? That is, how are $$d_{\\text{i}}$$ and $$d_{\\text{o}}$$ related?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.4 Thin Lenses",
+        "Problem Statement": "",
+        "Question": "When you focus a camera, you adjust the distance of the lens from the film. If the camera lens acts like a thin lens, why can it not be a fixed distance from the film for both near and distant objects?",
+        "Image Links": [],
+        "Answer": "The focal length of the lens is fixed, so the image distance changes as a function of object distance.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.4 Thin Lenses",
+        "Problem Statement": "",
+        "Question": "A thin lens has two focal points, one on either side of the lens at equal distances from its center, and should behave the same for light entering from either side. Look backward and forward through a pair of eyeglasses and comment on whether they are thin lenses.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.4 Thin Lenses",
+        "Problem Statement": "",
+        "Question": "Will the focal length of a lens change when it is submerged in water? Explain.",
+        "Image Links": [],
+        "Answer": "Yes, the focal length will change. The lens maker\u2019s equation shows that the focal length depends on the index of refraction of the medium surrounding the lens. Because the index of refraction of water differs from that of air, the focal length of the lens will change when submerged in water.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.5 The Eye",
+        "Problem Statement": "",
+        "Question": "If the lens of a person\u2019s eye is removed because of cataracts (as has been done since ancient times), why would you expect an eyeglass lens of about 16 D to be prescribed?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.5 The Eye",
+        "Problem Statement": "",
+        "Question": "When laser light is shone into a relaxed normal-vision eye to repair a tear by spot-welding the retina to the back of the eye, the rays entering the eye must be parallel. Why?",
+        "Image Links": [],
+        "Answer": "A relaxed, normal-vision eye will focus parallel rays of light onto the retina.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.5 The Eye",
+        "Problem Statement": "",
+        "Question": "Why is your vision so blurry when you open your eyes while swimming under water? How does a face mask enable clear vision?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.5 The Eye",
+        "Problem Statement": "",
+        "Question": "It has become common to replace the cataract-clouded lens of the eye with an internal lens. This intraocular lens can be chosen so that the person has perfect distant vision. Will the person be able to read without glasses? If the person was nearsighted, is the power of the intraocular lens greater or less than the removed lens?",
+        "Image Links": [],
+        "Answer": "A person with an internal lens will need glasses to read because their muscles cannot distort the lens as they do with biological lenses, so they cannot focus on near objects. To correct nearsightedness, the power of the intraocular lens must be less than that of the removed lens.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.5 The Eye",
+        "Problem Statement": "",
+        "Question": "If the cornea is to be reshaped (this can be done surgically or with contact lenses) to correct myopia, should its curvature be made greater or smaller? Explain.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.8 Microscopes and Telescopes",
+        "Problem Statement": "",
+        "Question": "Geometric optics describes the interaction of light with macroscopic objects. Why, then, is it correct to use geometric optics to analyze a microscope\u2019s image?",
+        "Image Links": [],
+        "Answer": "Microscopes create images of macroscopic size, so geometric optics applies.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.8 Microscopes and Telescopes",
+        "Problem Statement": "",
+        "Question": "The image produced by the microscope in Figure 2.38 cannot be projected. Could extra lenses or mirrors project it? Explain.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.8 Microscopes and Telescopes",
+        "Problem Statement": "",
+        "Question": "If you want your microscope or telescope to project a real image onto a screen, how would you change the placement of the eyepiece relative to the objective?",
+        "Image Links": [],
+        "Answer": "The eyepiece would be moved slightly farther from the objective so that the image formed by the objective falls just beyond the focal length of the eyepiece.",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "Topic": "Check Your Understanding 5.5",
+        "Problem Statement": "",
+        "Question": "Show that if a time increment dt elapses for an observer who sees the particle moving with velocity v , it corresponds to a proper time particle increment for the particle of $$d \\tau = \\gamma d t .$$",
+        "Image Links": [],
+        "Answer": "Start with the definition of the proper time increment: $$d \\tau = \\sqrt{- ( d s )^{2} \\text{/} c^{2}} = \\sqrt{d t^{2} - ( d x^{2} + d x^{2} + d x^{2} ) \\text{/} c^{2}} .$$ where ( dx , dy , dx , cdt ) are measured in the inertial frame of an observer who does not necessarily see that particle at rest. This therefore becomes $$\\left .\\begin{matrix}{aaa}d \\tau & = & \\sqrt{- ( d s )^{2} \\text{/} c^{2}} = \\sqrt{d t^{2} - [ ( d x )^{2} + ( d y )^{2} + ( d z )^{2} ] \\text{/} c^{2}} \\\\  & = & d t \\sqrt{1 - [ ( \\frac{d x}{d t} )^{2} + ( \\frac{d y}{d t} )^{2} + ( \\frac{d z}{d t} )^{2} ] \\text{/} c^{2}} \\\\  & = & d t \\sqrt{1 - v^{2} \\text{/} c^{2}} \\\\ d t & = & \\gamma d \\tau .\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    }
+]

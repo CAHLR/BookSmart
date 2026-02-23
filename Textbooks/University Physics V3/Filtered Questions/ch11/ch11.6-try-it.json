@@ -1,0 +1,20 @@
+[
+  {
+    "Topic": "Check Your Understanding 11.8",
+    "Problem Statement": "",
+    "Question": "The light of a galaxy that moves away from us is “redshifted.” What occurs to the light of a galaxy that moves toward us?",
+    "Image Links": [],
+    "Answer": "blueshifted",
+    "Answer Image Links": [],
+    "o3 Answer": "Because of the Doppler effect. If the galaxy is moving toward us, the waves it emits are compressed. Their wavelength becomes shorter and their frequency higher, so the spectral lines are displaced toward the blue (short-wavelength) end of the spectrum. This is called a blueshift.",
+    "o4-mini Answer": "When a galaxy is moving toward us, its whole spectrum is shifted to shorter wavelengths—that is, it’s “blueshifted.”  Its spectral lines all appear displaced toward the blue (higher‐frequency) end of the spectrum.",
+    "deepseek-chat Answer": "When a galaxy moves toward us, the light from that galaxy is **\"blueshifted.\"** \n\n### Explanation:\n- **Doppler Effect:** The observed wavelength of light changes depending on the relative motion between the source (the galaxy) and the observer (us).\n  - If the galaxy is moving **away** from us, the light is stretched to longer (redder) wavelengths (**redshift**).\n  - If the galaxy is moving **toward** us, the light is compressed to shorter (bluer) wavelengths (**blueshift**).\n- **Cause:** The motion of the galaxy toward us causes the light waves to appear closer together (higher frequency, shorter wavelength), shifting the light toward the blue/violet end of the spectrum.\n\n### Key Point:\n- **Redshift** = Galaxy moving away (longer wavelength).\n- **Blueshift** = Galaxy moving toward us (shorter wavelength).\n\nThis principle is used in astronomy to measure the motion of galaxies relative to Earth.",
+    "gemini-2.5-pro Answer": "Of course. Here is the solution to \"Check Your Understanding 11.8\".\n\n### The Question:\n\nThe light of a galaxy that moves away from us is “redshifted.” What occurs to the light of a galaxy that moves toward us?\n\n### The Answer:\n\nThe light of a galaxy that moves toward us is **\"blueshifted.\"**\n\n### Explanation:\n\nThis phenomenon is known as the **Doppler effect** for light.\n\n1.  **Redshift (Moving Away):** When a light source (like a galaxy) moves away from an observer, the light waves it emits are stretched out. This stretching increases the wavelength of the light, shifting it toward the red end of the electromagnetic spectrum.\n\n2.  **Blueshift (Moving Toward):** Conversely, when a light source moves toward an observer, the light waves are compressed. This compression decreases the wavelength of the light, shifting it toward the blue/violet end of the spectrum. This is called a **blueshift**.",
+    "gpt-5 Answer": "It is blueshifted: its spectral lines shift toward shorter wavelengths (higher frequencies) due to the Doppler effect.",
+    "o3 Eval": true,
+    "o4-mini Eval": true,
+    "deepseek-chat Eval": true,
+    "gemini-2.5-pro Eval": true,
+    "gpt-5 Eval": true
+  }
+]

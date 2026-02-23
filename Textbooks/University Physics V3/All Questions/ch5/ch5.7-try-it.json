@@ -1,0 +1,10 @@
+[
+    {
+        "Topic": "Check Your Understanding 5.7",
+        "Problem Statement": "",
+        "Question": "Suppose a space probe moves away from Earth at a speed 0.350 c . It sends a radio-wave message back to Earth at a frequency of 1.50 GHz. At what frequency is the message received on Earth?",
+        "Image Links": [],
+        "Answer": "We can substitute the data directly into the equation for relativistic Doppler frequency: $$f_{\\text{obs}} = f_{s} \\sqrt{\\frac{1 - \\frac{v}{c}}{1 + \\frac{v}{c}}} = ( 1.50 \\text{GHz)} \\sqrt{\\frac{1 - \\frac{0.350 c}{c}}{1 + \\frac{0.350 c}{c}}} = 1.04 \\text{GHz.}$$",
+        "Answer Image Links": []
+    }
+]

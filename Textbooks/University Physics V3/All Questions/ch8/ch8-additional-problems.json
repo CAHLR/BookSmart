@@ -1,0 +1,138 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "For a hydrogen atom in an excited state with principal quantum number n , show that the smallest angle that the orbital angular momentum vector can make with respect to the z -axis is $$\\theta = \\text{cos}^{-1} ( \\sqrt{\\frac{n - 1}{n}} ) .$$",
+        "Image Links": [],
+        "Answer": "The smallest angle corresponds to $$l = n - 1$$ and $$m = l = n - 1$$ . Therefore $$\\theta = \\text{cos}^{-1} ( \\sqrt{\\frac{n - 1}{n}} ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "What is the probability that the 1 s electron of a hydrogen atom is found between $$r = 0$$ and $$r = \\infty ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Sketch the potential energy function of an electron in a hydrogen atom. (a) What is the value of this function at $$r = 0$$ ? in the limit that $$r = \\infty$$ ? (b) What is unreasonable or inconsistent with the former result?",
+        "Image Links": [],
+        "Answer": "a. According to Equation 8.1, when $$r = 0$$ , $$U ( r ) = \\text{unicode[:-]} \\infty$$ , and when $$r = + \\infty , U ( r ) = 0 .$$ b. The former result suggests that the electron can have an infinite negative potential energy. The quantum model of the hydrogen atom avoids this possibility because the probability density at $$r = 0$$ is zero.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Find the value of $$l$$ , the orbital angular momentum quantum number, for the Moon around Earth.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Show that the maximum number of orbital angular momentum electron states in the n th shell of an atom is $$n^{2}$$ . (Ignore electron spin.) ( Hint: Make a table of the total number of orbital angular momentum states for each shell and find the pattern.)",
+        "Image Links": [],
+        "Answer": "A formal solution using sums is somewhat complicated. However, the answer easily found by studying the mathematical pattern between the principal quantum number and the total number of orbital angular momentum states. For $$n = 1$$ , the total number of orbital angular momentum states is 1; for $$n = 2$$ , the total number is 4; and, when $$n = 3$$ , the total number is 9, and so on. The pattern suggests the total number of orbital angular momentum states for the n th shell is $$n^{2}$$ . (Later, when we consider electron spin, the total number of angular momentum states will be found to be $$2 n^{2}$$ , because each orbital angular momentum states is associated with two states of electron spin; spin up and spin down).",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "What is the magnitude of an electron magnetic moment?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "What is the maximum number of electron states in the $$n = 5$$ shell?",
+        "Image Links": [],
+        "Answer": "50",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A ground-state hydrogen atom is placed in a uniform magnetic field, and a photon is emitted in the transition from a spin-up to spin-down state. The wavelength of the photon is $$168 \\mu \\text{m}$$ . What is the strength of the magnetic field?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Show that the maximum number of electron states in the n th shell of an atom is $$2 n^{2}$$ .",
+        "Image Links": [],
+        "Answer": "The maximum number of orbital angular momentum electron states in the n th shell of an atom is $$n^{2}$$ . Each of these states can be filled by a spin up and spin down electron. So, the maximum number of electron states in the n th shell is $$2 n^{2}$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The valence electron of chlorine is excited to a 3 p state. (a) What is the magnitude of the electron\u2019s orbital angular momentum? (b) What are possible values for the z -component of angular measurement?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Which of the following notations are allowed (that is, which violate none of the rules regarding values of quantum numbers)? (a) $$1 s^{1} ;$$ (b) $$1 d^{3} ;$$ (c) $$4 s^{2} ;$$ (d) $$3 p^{7} ;$$ (e) $$6 h^{20}$$",
+        "Image Links": [],
+        "Answer": "a., c., and e. are allowed; the others are not allowed. b. $$l > n$$ is not allowed. d. $$7 > 2 ( 2 l + 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The ion $$\\text{Be}^{\\text{3+}}$$ makes an atomic transition from an $$n = 3$$ state to an $$n = 2$$ state. (a) What is the energy of the photon emitted during the transition? (b) What is the wavelength of the photon?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The maximum characteristic X-ray photon energy comes from the capture of a free electron into a K shell vacancy. What is this photon frequency for tungsten, assuming that the free electron has no initial kinetic energy?",
+        "Image Links": [],
+        "Answer": "$$f = 1.8 \\times 10^{9} \\text{Hz}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Derive an expression for the ratio of X-ray photon frequency for two elements with atomic numbers $$Z_{1}$$ and $$Z_{2} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Compare the X-ray photon wavelengths for copper and silver.",
+        "Image Links": [],
+        "Answer": "The atomic numbers for Cu and Ag are $$Z = 29$$ and 47, respectively. The X-ray photon frequency for silver is greater than copper by the following factor: $$( \\frac{f_{\\text{Ag}}}{f_{\\text{Cu}}} )^{2} = 2.7 .$$ Therefore, the X-ray wavelength of Ag is about three times shorter than for copper.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "(a) What voltage must be applied to an X-ray tube to obtain 0.0100-fm-wavelength X-rays for use in exploring the details of nuclei? (b) What is unreasonable about this result? (c) Which assumptions are unreasonable or inconsistent?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A student in a physics laboratory observes a hydrogen spectrum with a diffraction grating for the purpose of measuring the wavelengths of the emitted radiation. In the spectrum, they observe a yellow line and find its wavelength to be 589 nm. (a) Assuming that this is part of the Balmer series, determine $$n_{\\text{i}} ,$$ the principal quantum number of the initial state. (b) What is unreasonable about this result? (c) Which assumptions are unreasonable or inconsistent?",
+        "Image Links": [],
+        "Answer": "a. 3.24; b. $$n_{i}$$ is not an integer. c. The wavelength must not be correct. Because $$n_{i} > 2 ,$$ the assumption that the line was from the Balmer series is possible, but the wavelength of the light did not produce an integer value for $$n_{i}$$ . If the wavelength is correct, then the assumption that the gas is hydrogen is not correct; it might be sodium instead.",
+        "Answer Image Links": []
+    }
+]
