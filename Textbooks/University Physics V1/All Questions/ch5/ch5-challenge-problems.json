@@ -1,0 +1,144 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "If two tugboats pull on a disabled vessel, as shown here in an overhead view, the disabled vessel will be pulled along the direction indicated by the result of the exerted forces. (a) Draw a free-body diagram for the vessel. Assume no friction or drag forces affect the vessel. (b) Did you include all forces in the overhead view in your free-body diagram? Why or why not?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5c26c4e58963de169b0c8fcfdae204c7c6c101f2"
+        ],
+        "Answer": "a. ; b. No; $$\\mathbf{\\vec{F}}_{\\text{R}}$$ is not shown, because it would replace $$\\mathbf{\\vec{F}}_{1}$$ and $$\\mathbf{\\vec{F}}_{2}$$ . (If we want to show it, we could draw it and then place squiggly lines on $$\\mathbf{\\vec{F}}_{1}$$ and $$\\mathbf{\\vec{F}}_{2}$$ to show that they are no longer considered.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/40d217acba910602cec5ab0efff5fb81a687c6f7"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A 10.0-kg object is initially moving east at 15.0 m/s. Then a force acts on it for 2.00 s, after which it moves northwest, also at 15.0 m/s. What are the magnitude and direction of the average force that acted on the object over the 2.00-s interval?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "On June 25, 1983, shot-putter Udo Beyer of East Germany threw the 7.26-kg shot 22.22 m, which at that time was a world record. (a) If the shot was released at a height of 2.20 m with a projection angle of $$45.0 \\text{\u00b0}$$ , what was its initial velocity? (b) If while in Beyer\u2019s hand the shot was accelerated uniformly over a distance of 1.20 m, what was the net force on it?",
+        "Image Links": [],
+        "Answer": "a. 14.1 m/s; b. 601 N",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A body of mass m moves in a horizontal direction such that at time t its position is given by $$x ( t ) = a t^{4} + b t^{3} + c t ,$$ where a , b , and c are constants. (a) What is the acceleration of the body? (b) What is the time-dependent force acting on the body?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A body of mass m has initial velocity $$v_{0}$$ in the positive x -direction. It is acted on by a constant force F for time t until the velocity becomes zero; the force continues to act on the body until its velocity becomes $$\\text{unicode[:-]} v_{0}$$ in the same amount of time. Write an expression for the total distance the body travels in terms of the variables indicated.",
+        "Image Links": [],
+        "Answer": "$$\\frac{F}{m} t^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The velocities of a 3.0-kg object at $$t = 6.0 \\text{s}$$ and $$t = 8.0 \\text{s}$$ are $$( 3.0 \\mathbf{\\hat{i}} - 6.0 \\mathbf{\\hat{j}} + 4.0 \\mathbf{\\hat{k}} ) \\text{m/s}$$ and $$( -2.0 \\mathbf{\\hat{i}} + 4.0 \\mathbf{\\hat{k}} ) \\text{m/s}$$ , respectively. If the object is moving at constant acceleration, what is the force acting on it?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A 120-kg astronaut is riding in a rocket sled that is sliding along an inclined plane. The sled has a horizontal component of acceleration of $$5.0 \\text{m} \\text{/} \\text{s}^{2}$$ and a downward component of $$3.8 \\text{m} \\text{/} \\text{s}^{2}$$ . Calculate the magnitude of the force on the rider by the sled. ( Hint : Remember that gravitational acceleration must be considered.)",
+        "Image Links": [],
+        "Answer": "936 N",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Two forces are acting on a 5.0-kg object that moves with acceleration $$2.0 \\text{m/s}^{2}$$ in the positive y -direction. If one of the forces acts in the positive x -direction and has magnitude of 12 N, what is the magnitude of the other force?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Suppose that you are viewing a soccer game from a helicopter above the playing field. Two soccer players simultaneously kick a stationary soccer ball on the flat field; the soccer ball has mass 0.420 kg. The first player kicks with force 162 N at $$9.0 \\text{\u00b0}$$ north of west. At the same instant, the second player kicks with force 215 N at $$15 \\text{\u00b0}$$ east of south. Find the acceleration of the ball in $$\\mathbf{\\hat{i}}$$ and $$\\mathbf{\\hat{j}}$$ form.",
+        "Image Links": [],
+        "Answer": "$$$$ $$\\mathbf{\\vec{a}} = -248 \\mathbf{\\hat{i}} - 433 \\mathbf{\\hat{j}} \\text{m} \\text{/} \\text{s}^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A 10.0-kg mass hangs from a spring that has the spring constant 535 N/m. Find the position of the end of the spring away from its rest position. (Use $$g = 9.80 \\text{m/s}^{2}$$ .)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A 0.0502-kg pair of fuzzy dice is attached to the rearview mirror of a car by a short string. The car accelerates at constant rate, and the dice hang at an angle of $$3.20 \\text{\u00b0}$$ from the vertical because of the car\u2019s acceleration. What is the magnitude of the acceleration of the car?",
+        "Image Links": [],
+        "Answer": "$$0.548 \\text{m/s}^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "At a circus, a donkey pulls on a sled carrying a small clown with a force given by $$2.48 \\mathbf{\\hat{i}} + 4.33 \\mathbf{\\hat{j}} \\text{N}$$ . A horse pulls on the same sled, aiding the hapless donkey, with a force of $$6.56 \\mathbf{\\hat{i}} + 5.33 \\mathbf{\\hat{j}} \\text{N}$$ . The mass of the sled is 575 kg. Using $$\\mathbf{\\hat{i}}$$ and $$\\mathbf{\\hat{j}}$$ form for the answer to each problem, find (a) the net force on the sled when the two animals act together, (b) the acceleration of the sled, and (c) the velocity after 6.50 s.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Hanging from the ceiling over a baby bed, well out of baby\u2019s reach, is a string with plastic shapes, as shown here. The string is taut (there is no slack), as shown by the straight segments. Each plastic shape has the same mass m , and they are equally spaced by a distance d , as shown. The angles labeled $$\\theta$$ describe the angle formed by the end of the string and the ceiling at each end. The center length of sting is horizontal. The remaining two segments each form an angle with the horizontal, labeled $$\\upphi$$ . Let $$T_{1}$$ be the tension in the leftmost section of the string, $$T_{2}$$ be the tension in the section adjacent to it, and $$T_{3}$$ be the tension in the horizontal segment. (a) Find an equation for the tension in each section of the string in terms of the variables m , g , and $$\\theta$$ . (b) Find the angle $$\\upphi$$ in terms of the angle $$\\theta$$ . (c) If $$\\theta = 5.10 \\text{\u00b0}$$ , what is the value of $$\\upphi$$ ? (d) Find the distance x between the endpoints in terms of d and $$\\theta$$ .",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9b3942ddf23f89491927299b3650f378318c1986"
+        ],
+        "Answer": "a. $$T_{1} = \\frac{2 m g}{\\text{sin} \\theta}$$ , $$T_{2} = \\frac{m g}{\\text{sin} ( \\text{arctan} ( \\frac{1}{2} \\text{tan} \\theta ) )}$$ , $$T_{3} = \\frac{2 m g}{\\text{tan} \\theta} ;$$ b. $$\\upphi = \\text{arctan} ( \\frac{1}{2} \\text{tan} \\theta )$$ ; c. $$2.56 \\text{\u00b0}$$ ; (d) $$x = d ( 2 \\text{cos} \\theta + 2 \\text{cos} ( \\text{arctan} ( \\frac{1}{2} \\text{tan} \\theta ) ) + 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A bullet shot from a rifle has mass of 10.0 g and travels to the right at 350 m/s. It strikes a target, a large bag of sand, penetrating it a distance of 34.0 cm. Find the magnitude and direction of the retarding force that slows and stops the bullet.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "An object is acted on by three simultaneous forces: $$\\mathbf{\\vec{F}}_{1} = ( -3.00 \\mathbf{\\hat{i}} + 2.00 \\mathbf{\\hat{j}} ) \\text{N}$$ , $$\\mathbf{\\vec{F}}_{2} = ( 6.00 \\mathbf{\\hat{i}} - 4.00 \\mathbf{\\hat{j}} ) \\text{N}$$ , and $$\\mathbf{\\vec{F}}_{3} = ( 2.00 \\mathbf{\\hat{i}} + 5.00 \\mathbf{\\hat{j}} ) \\text{N}$$ . The object experiences acceleration of $$4.23 \\text{m/s}^{2}$$ . (a) Find the acceleration vector in terms of m . (b) Find the mass of the object. (c) If the object begins from rest, find its speed after 5.00 s. (d) Find the components of the velocity of the object after 5.00 s.",
+        "Image Links": [],
+        "Answer": "a. $$\\mathbf{\\vec{a}} = ( \\frac{5.00}{m} \\mathbf{\\hat{i}} + \\frac{3.00}{m} \\mathbf{\\hat{j}} ) \\text{m} \\text{/} \\text{s}^{2} ;$$ b. 1.38 kg; c. 21.2 m/s; d. $$\\mathbf{\\vec{v}} = ( 18.1 \\mathbf{\\hat{i}} + 10.9 \\mathbf{\\hat{j}} ) \\text{m} \\text{/} \\text{s}^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "In a particle accelerator, a proton has mass $$1.67 \\times 10^{-27} \\text{kg}$$ and an initial speed of $$2.00 \\times 10^{5} \\text{m} \\text{/} \\text{s.}$$ It moves in a straight line, and its speed increases to $$9.00 \\times 10^{5} \\text{m} \\text{/} \\text{s}$$ in a distance of 10.0 cm. Assume that the acceleration is constant. Find the magnitude of the force exerted on the proton.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A drone is being directed across a frictionless ice-covered lake. The mass of the drone is 1.50 kg, and its velocity is $$3.00 \\mathbf{\\hat{i}} \\text{m} \\text{/} \\text{s}$$ . After 10.0 s, the velocity is $$9.00 \\mathbf{\\hat{i}} + 4.00 \\mathbf{\\hat{j}} \\text{m} \\text{/} \\text{s}$$ . If a constant force in the horizontal direction is causing this change in motion, find (a) the components of the force and (b) the magnitude of the force.",
+        "Image Links": [],
+        "Answer": "a. $$0.900 \\mathbf{\\hat{i}} + 0.600 \\mathbf{\\hat{j}} \\text{N}$$ ; b. 1.08 N",
+        "Answer Image Links": []
+    }
+]

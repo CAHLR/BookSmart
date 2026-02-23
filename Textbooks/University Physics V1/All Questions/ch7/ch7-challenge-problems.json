@@ -1,0 +1,86 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Shown below is a 40-kg crate that is pushed at constant velocity a distance 8.0 m along a $$30 \\text{\u00b0}$$ incline by the horizontal force $$\\mathbf{\\vec{F}} .$$ The coefficient of kinetic friction between the crate and the incline is $$\\mu_{k} = 0.40 .$$ Calculate the work done by (a) the applied force, (b) the frictional force, (c) the gravitational force, and (d) the net force.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/bf1a7b5e4bfa4e5bde783a674fc173b42037b3cf"
+        ],
+        "Answer": "If crate goes up: a. 3.46 kJ; b. -1.89 kJ; c. -1.57 kJ; d. 0; If crate goes down: a. -0.39 kJ; b. -1.18 kJ; c. 1.57 kJ; d. 0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The surface of the preceding problem is modified so that the coefficient of kinetic friction is decreased. The same horizontal force is applied to the crate, and after being pushed 8.0 m, its speed is 5.0 m/s. How much work is now done by the force of friction? Assume that the crate starts at rest.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The force F ( x ) varies with position, as shown below. Find the work done by this force on a particle as it moves from $$x = 1.0 \\text{m}$$ to $$x = 5.0 \\text{m} \\text{.}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/4db228c9b25d3ff8fef85e6e0600f87dfefa71d0"
+        ],
+        "Answer": "8.0 J",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Find the work done by the same force in Example 7.4, between the same points, $$A = ( 0 , 0 ) \\text{and} B = ( 2 \\text{m} , 2 \\text{m} )$$ , over a circular arc of radius 2 m, centered at (0, 2 m). Evaluate the path integral using Cartesian coordinates. ( Hint: You will probably need to consult a table of integrals.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Answer the preceding problem using polar coordinates.",
+        "Image Links": [],
+        "Answer": "35.7 J",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Find the work done by the same force in Example 7.4, between the same points, $$A = ( 0 , 0 ) \\text{and} B = ( 2 \\text{m} , 2 \\text{m} )$$ , over a circular arc of radius 2 m, centered at (2 m, 0). Evaluate the path integral using Cartesian coordinates. ( Hint: You will probably need to consult a table of integrals.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Answer the preceding problem using polar coordinates.",
+        "Image Links": [],
+        "Answer": "24.3 J",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Constant power P is delivered to a car of mass m by its engine. Show that if air resistance can be ignored, the distance covered in a time t by the car, starting from rest, is given by $$s = ( 8 P \\text{/} 9 m )^{1 \\text{/} 2} t^{3 \\text{/} 2} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Suppose that the air resistance a car encounters is independent of its speed. When the car travels at 15 m/s, its engine delivers 20 hp to its wheels. (a) What is the power delivered to the wheels when the car travels at 30 m/s? (b) How much energy does the car use in covering 10 km at 15 m/s? At 30 m/s? Assume that the engine is 25% efficient. (c) Answer the same questions if the force of air resistance is proportional to the speed of the automobile. (d) What do these results, plus your experience with gasoline consumption, tell you about air resistance?",
+        "Image Links": [],
+        "Answer": "a. 40 hp; b. 39.8 MJ, independent of speed; c. 80 hp, 79.6 MJ at 30 m/s; d. If air resistance is proportional to speed, the car gets about 22 mpg at 34 mph and half that at twice the speed, closer to actual driving experience.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Consider a linear spring, as in Figure 7.7(a), with mass M uniformly distributed along its length. The left end of the spring is fixed, but the right end, at the equilibrium position $$x = 0 ,$$ is moving with speed v in the x -direction. What is the total kinetic energy of the spring? ( Hint: First express the kinetic energy of an infinitesimal element of the spring dm in terms of the total mass, equilibrium length, speed of the right-hand end, and position along the spring; then integrate.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,556 @@
+[
+    {
+        "Topic": "6.1 Solving Problems with Newton\u2019s Laws",
+        "Problem Statement": "",
+        "Question": "A 30.0-kg girl in a swing is pushed to one side and held at rest by a horizontal force $$\\mathbf{\\vec{F}}$$ so that the swing ropes are $$30.0 \\text{\u00b0}$$ with respect to the vertical. (a) Calculate the tension in each of the two ropes supporting the swing under these conditions. (b) Calculate the magnitude of $$\\mathbf{\\vec{F}} .$$",
+        "Image Links": [],
+        "Answer": "a. 170 N; b. 170 N",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Solving Problems with Newton\u2019s Laws",
+        "Problem Statement": "",
+        "Question": "Find the tension in each of the three cables supporting the traffic light if it weighs 2.00 \u00d7 10^2 N.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6712294d8942dbcf6876aea4500ec11115ca2cc9"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Solving Problems with Newton\u2019s Laws",
+        "Problem Statement": "",
+        "Question": "Three forces act on an object, considered to be a particle, which moves with constant velocity $$v = ( 3 \\mathbf{\\hat{i}} - 2 \\mathbf{\\hat{j}} ) \\text{m/s} \\text{.}$$ Two of the forces are $$\\mathbf{\\vec{F}}_{1} = ( 3 \\mathbf{\\hat{i}} + 5 \\mathbf{\\hat{j}} ) \\text{N}$$ and $$\\mathbf{\\vec{F}}_{2} = ( 4 \\mathbf{\\hat{i}} - 7 \\mathbf{\\hat{j}} ) \\text{N} \\text{.}$$ Find the third force.",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\vec{F}}_{3} = ( - 7 \\mathbf{\\hat{i}} + 2 \\mathbf{\\hat{j}} ) \\text{N}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Solving Problems with Newton\u2019s Laws",
+        "Problem Statement": "",
+        "Question": "A flea jumps by exerting a force of $$1.20 \\times 10^{-5} \\text{N}$$ straight down on the ground. A breeze blowing on the flea parallel to the ground exerts a force of $$0.500 \\times 10^{-6} \\text{N}$$ on the flea while the flea is still in contact with the ground. Find the direction and magnitude of the acceleration of the flea if its mass is $$6.00 \\times 10^{-7} \\text{kg}$$ . Do not neglect the gravitational force.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Solving Problems with Newton\u2019s Laws",
+        "Problem Statement": "",
+        "Question": "Two muscles in the back of the leg pull upward on the Achilles tendon, as shown below. (These muscles are called the medial and lateral heads of the gastrocnemius muscle.) Find the magnitude and direction of the total force on the Achilles tendon. What type of movement could be caused by this force?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9c6d40ff32e9ba34cbb98d3100d0d990d42af261"
+        ],
+        "Answer": "376 N pointing up (along the dashed line in the figure); the force is used to raise the heel of the foot.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Solving Problems with Newton\u2019s Laws",
+        "Problem Statement": "",
+        "Question": "After a mishap, a 76.0-kg circus performer clings to a trapeze, which is being pulled to the side by another circus artist, as shown here. Calculate the tension in the two ropes if the person is momentarily motionless. Include a free-body diagram in your solution.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/feaad2318d1eed2fdee8dae38210d0b706a006a1"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Solving Problems with Newton\u2019s Laws",
+        "Problem Statement": "",
+        "Question": "A 35.0-kg dolphin accelerates opposite to the motion from 12.0 to 7.50 m/s in 2.30 s to join another dolphin in play. What average force was exerted to slow the first dolphin if it was moving horizontally? (The gravitational force is balanced by the buoyant force of the water.)",
+        "Image Links": [],
+        "Answer": "-68.5 N",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Solving Problems with Newton\u2019s Laws",
+        "Problem Statement": "",
+        "Question": "When starting a foot race, a 70.0-kg sprinter exerts an average force of 650 N backward on the ground for 0.800 s. (a) What is their final speed? (b) How far do they travel?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Solving Problems with Newton\u2019s Laws",
+        "Problem Statement": "",
+        "Question": "A large rocket has a mass of $$2.00 \\times 10^{6} \\text{kg}$$ at takeoff, and its engines produce a thrust of $$3.50 \\times 10^{7} \\text{N} .$$ (a) Find its initial acceleration if it takes off vertically. (b) How long does it take to reach a velocity of 120 km/h straight up, assuming constant mass and thrust?",
+        "Image Links": [],
+        "Answer": "a. $$7.70 \\text{m/s}^{2}$$ ; b. 4.33 s",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Solving Problems with Newton\u2019s Laws",
+        "Problem Statement": "",
+        "Question": "A basketball player jumps straight up for a ball. To do this, he lowers his body 0.300 m and then accelerates through this distance by forcefully straightening his legs. This player leaves the floor with a vertical velocity sufficient to carry him 0.900 m above the floor. (a) Calculate his velocity when he leaves the floor. (b) Calculate his acceleration while he is straightening his legs. He goes from zero to the velocity found in (a) in a distance of 0.300 m. (c) Calculate the force he exerts on the floor to do this, given that his mass is 110.0 kg.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Solving Problems with Newton\u2019s Laws",
+        "Problem Statement": "",
+        "Question": "A 2.50-kg fireworks shell is fired straight up from a mortar and reaches a height of 110.0 m. (a) Neglecting air resistance (a poor assumption, but we will make it for this example), calculate the shell\u2019s velocity when it leaves the mortar. (b) The mortar itself is a tube 0.450 m long. Calculate the average acceleration of the shell in the tube as it goes from zero to the velocity found in (a). (c) What is the average force on the shell in the mortar? Express your answer in newtons and as a ratio to the weight of the shell.",
+        "Image Links": [],
+        "Answer": "a. 46.4 m/s; b. $$2.40 \\times 10^{3} \\text{m/s}^{2} \\text{;}$$ c. 5.99 \u00d7 10^3 N; ratio of 245",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Solving Problems with Newton\u2019s Laws",
+        "Problem Statement": "",
+        "Question": "A 0.500-kg potato is fired at an angle of $$80.0 \\text{\u00b0}$$ above the horizontal from a PVC pipe used as a \u201cpotato gun\u201d and reaches a height of 110.0 m. (a) Neglecting air resistance, calculate the potato\u2019s velocity when it leaves the gun. (b) The gun itself is a tube 0.450 m long. Calculate the average acceleration of the potato in the tube as it goes from zero to the velocity found in (a). (c) What is the average force on the potato in the gun? Express your answer in newtons and as a ratio to the weight of the potato.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Solving Problems with Newton\u2019s Laws",
+        "Problem Statement": "",
+        "Question": "An elevator filled with passengers has a mass of $$1.70 \\times 10^{3} \\text{kg}$$ . (a) The elevator accelerates upward from rest at a rate of $$1.20 \\text{m/s}^{2}$$ for 1.50 s. Calculate the tension in the cable supporting the elevator. (b) The elevator continues upward at constant velocity for 8.50 s. What is the tension in the cable during this time? (c) The elevator accelerates opposite to the motion at a rate of $$0.600 \\text{m/s}^{2}$$ for 3.00 s. What is the tension in the cable during acceleration opposite to the motion? (d) How high has the elevator moved above its original starting point, and what is its final velocity?",
+        "Image Links": [],
+        "Answer": "a. $$1.87 \\times 10^{4} \\text{N;}$$ b. $$1.67 \\times 10^{4} \\text{N;}$$ c. $$1.56 \\times 10^{4} \\text{N;}$$ d. 19.4 m, 0 m/s",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Solving Problems with Newton\u2019s Laws",
+        "Problem Statement": "",
+        "Question": "A 20.0-g ball hangs from the roof of a freight car by a string. When the freight car begins to move, the string makes an angle of $$35.0 \\text{\u00b0}$$ with the vertical. (a) What is the acceleration of the freight car? (b) What is the tension in the string?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Solving Problems with Newton\u2019s Laws",
+        "Problem Statement": "",
+        "Question": "A student\u2019s backpack, full of textbooks, is hung from a spring scale attached to the ceiling of an elevator. When the elevator is accelerating downward at $$3.8 \\text{m/s}^{2}$$ , the scale reads 60 N. (a) What is the mass of the backpack? (b) What does the scale read if the elevator moves upward while speeding up at a rate $$3.8 \\text{m/s}^{2}$$ ? (c) What does the scale read if the elevator moves upward at constant velocity? (d) If the elevator had no brakes and the cable supporting it were to break loose so that the elevator could fall freely, what would the spring scale read?",
+        "Image Links": [],
+        "Answer": "a. 10 kg; b. 140 N; c. 98 N; d. 0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Solving Problems with Newton\u2019s Laws",
+        "Problem Statement": "",
+        "Question": "A service elevator takes a load of garbage, mass 10.0 kg, from a floor of a skyscraper under construction, down to ground level, accelerating downward at a rate of $$1.2 \\text{m/s}^{2}$$ . Find the magnitude of the force the garbage exerts on the floor of the service elevator?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Solving Problems with Newton\u2019s Laws",
+        "Problem Statement": "",
+        "Question": "A roller coaster car starts from rest at the top of a track 30.0 m long and inclined at $$20.0 \\text{\u00b0}$$ to the horizontal. Assume that friction can be ignored. (a) What is the acceleration of the car? (b) How much time elapses before it reaches the bottom of the track?",
+        "Image Links": [],
+        "Answer": "a. $$3.35 \\text{m/s}^{2}$$ ; b. 4.2 s",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Solving Problems with Newton\u2019s Laws",
+        "Problem Statement": "",
+        "Question": "The device shown below is the Atwood\u2019s machine considered in Example 6.5. Assuming that the masses of the string and the frictionless pulley are negligible, (a) find an equation for the acceleration of the two blocks; (b) find an equation for the tension in the string; and (c) find both the acceleration and tension when block 1 has mass 2.00 kg and block 2 has mass 4.00 kg.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6ae358105f6272d7737ebb4e55bf3014cc04b8bd"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Solving Problems with Newton\u2019s Laws",
+        "Problem Statement": "",
+        "Question": "Two blocks are connected by a massless rope as shown below. The mass of the block on the table is 4.0 kg and the hanging mass is 1.0 kg. The table and the pulley are frictionless. (a) Find the acceleration of the system. (b) Find the tension in the rope. (c) Find the speed with which the hanging mass hits the floor if it starts from rest and is initially located 1.0 m from the floor.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/282733f27565e7ecb908869cf2f96f5759d35fe0"
+        ],
+        "Answer": "a. $$2.0 \\text{m/s}^{2} ;$$ b. 7.8 N; c. 2.0 m/s",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Solving Problems with Newton\u2019s Laws",
+        "Problem Statement": "",
+        "Question": "Shown below are two carts connected by a cord that passes over a small frictionless pulley. Each cart rolls freely with negligible friction. Calculate the acceleration of the carts and the tension in the cord.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0e76b273a6a0729619717c847a9f7a6f50bebfdf"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Solving Problems with Newton\u2019s Laws",
+        "Problem Statement": "",
+        "Question": "A 2.00 kg block (mass 1) and a 4.00 kg block (mass 2) are connected by a light string as shown; the inclination of the ramp is $$40.0 \\text{\u00b0}$$ . Friction is negligible. What is (a) the acceleration of each block and (b) the tension in the string?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/62dac4eaa2d3fa779fad11d99af3ebfe423000ca"
+        ],
+        "Answer": "a. $$4.43 \\text{m/s}^{2}$$ (mass 1 accelerates up the ramp as mass 2 falls with the same acceleration); b. 21.5 N",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Friction",
+        "Problem Statement": "",
+        "Question": "(a) When rebuilding an engine, a physics major must exert $$3.00 \\times 10^{2}$$ N of force to insert a dry steel piston into a steel cylinder. What is the normal force between the piston and cylinder? (b) What force would they have to exert if the steel parts were oiled?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Friction",
+        "Problem Statement": "",
+        "Question": "(a) What is the maximum frictional force in the knee joint of a person who supports 66.0 kg of her mass on that knee? (b) During strenuous exercise, it is possible to exert forces to the joints that are easily 10 times greater than the weight being supported. What is the maximum force of friction under such conditions? The frictional forces in joints are relatively small in all circumstances except when the joints deteriorate, such as from injury or arthritis. Increased frictional forces can cause further damage and pain.",
+        "Image Links": [],
+        "Answer": "a. 10.0 N; b. 97.0 N",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Friction",
+        "Problem Statement": "",
+        "Question": "Suppose you have a 120-kg wooden crate resting on a wood floor, with coefficient of static friction 0.500 between these wood surfaces. (a) What maximum force can you exert horizontally on the crate without moving it? (b) If you continue to exert this force once the crate starts to slip, what will its acceleration then be? The coefficient of sliding friction is known to be 0.300 for this situation.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Friction",
+        "Problem Statement": "",
+        "Question": "(a) If half of the weight of a small $$1.00 \\times 10^{3} \\text{-kg}$$ utility truck is supported by its two drive wheels, what is the maximum acceleration it can achieve on dry concrete? (b) Will a metal cabinet lying on the wooden bed of the truck slip if it accelerates at this rate? (c) Solve both problems assuming the truck has four-wheel drive.",
+        "Image Links": [],
+        "Answer": "a. $$4.9 \\text{m/s}^{2}$$ ; b. The cabinet will not slip. c. The cabinet will slip.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Friction",
+        "Problem Statement": "",
+        "Question": "A team of eight dogs pulls a sled with waxed wood runners on wet snow (mush!). The dogs have average masses of 19.0 kg, and the loaded sled with its rider has a mass of 210 kg. (a) Calculate the acceleration of the dogs starting from rest if each dog exerts an average force of 185 N backward on the snow. (b) Calculate the force in the coupling between the dogs and the sled.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Friction",
+        "Problem Statement": "",
+        "Question": "Consider the 65.0-kg ice skater being pushed by two others shown below. (a) Find the direction and magnitude of $$\\mathbf{F}_{\\text{tot}} ,$$ the total force exerted on her by the others, given that the magnitudes $$F_{1}$$ and $$F_{2}$$ are 26.4 N and 18.6 N, respectively. (b) What is her initial acceleration if she is initially stationary and wearing steel-bladed skates that point in the direction of $$\\mathbf{F}_{\\text{tot}} ?$$ (c) What is her acceleration assuming she is already moving in the direction of $$\\mathbf{F}_{\\text{tot}} ?$$ (Remember that friction always acts in the direction opposite that of motion or attempted motion between surfaces in contact.)",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/00c2f606486ab5e6defc00a56a9f5c43a94541b4"
+        ],
+        "Answer": "a. 32.3 N, $$35.2 \\text{\u00b0} ;$$ b. 0; c. $$0.301 \\text{m/s}^{2}$$ in the direction of $$\\mathbf{\\vec{F}}_{\\text{tot}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Friction",
+        "Problem Statement": "",
+        "Question": "Show that the acceleration of any object down a frictionless incline that makes an angle $$\\theta$$ with the horizontal is $$a = g \\text{sin} \\theta$$ . (Note that this acceleration is independent of mass.)",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/76d33d47d237582d2d0c36930d628dab7a69e64d"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Friction",
+        "Problem Statement": "",
+        "Question": "Show that the acceleration of any object down an incline where friction behaves simply (that is, where $$f_{\\text{k}} = \\mu_{\\text{k}} N )$$ is $$a = g ( \\text{sin} \\theta - \\mu_{\\text{k}} \\text{cos} \\theta ) .$$ Note that the acceleration is independent of mass and reduces to the expression found in the previous problem when friction becomes negligibly small $$( \\mu_{\\text{k}} = 0 ) .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7476108337007c4c6cc06d98db91b678de333371"
+        ],
+        "Answer": "$$\\left .\\begin{matrix}{aaa}\\text{net} F_{y} & = & 0 \\Rightarrow N = m g \\text{cos} \\theta \\\\ \\text{net} F_{x} & = & m a \\\\ a & = & g ( \\text{sin} \\theta - \\mu_{\\text{k}} \\text{cos} \\theta )\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Friction",
+        "Problem Statement": "",
+        "Question": "Calculate the acceleration opposite to the motion of a snow boarder going up a $$5.00 \\text{\u00b0}$$ slope, assuming the coefficient of friction for waxed wood on wet snow. The result of the preceding problem may be useful, but be careful to consider the fact that the snow boarder is going uphill.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Friction",
+        "Problem Statement": "",
+        "Question": "A machine at a post office sends packages out a chute and down a ramp to be loaded into delivery vehicles. (a) Calculate the acceleration of a box heading down a $$10.0 \\text{\u00b0}$$ slope, assuming the coefficient of friction for a parcel on waxed wood is 0.100. (b) Find the angle of the slope down which this box could move at a constant velocity. You can neglect air resistance in both parts.",
+        "Image Links": [],
+        "Answer": "a. $$0.737 \\text{m/s}^{2} ;$$ b. $$5.71 \\text{\u00b0}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Friction",
+        "Problem Statement": "",
+        "Question": "If an object is to rest on an incline without slipping, then friction must equal the component of the weight of the object parallel to the incline. This requires greater and greater friction for steeper slopes. Show that the maximum angle of an incline above the horizontal for which an object will not slide down is $$\\theta = \\text{tan}^{-1} \\mu_{\\text{s}} .$$ You may use the result of the previous problem. Assume that $$a = 0$$ and that static friction has reached its maximum value.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d38c3860133768d93151529b68829c3123e41e0c"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Friction",
+        "Problem Statement": "",
+        "Question": "Calculate the maximum acceleration of a car that is heading down a $$6.00 \\text{\u00b0}$$ slope (one that makes an angle of $$6.00 \\text{\u00b0}$$ with the horizontal) under the following road conditions. You may assume that the weight of the car is evenly distributed on all four tires and that the coefficient of static friction is involved-that is, the tires are not allowed to slip during the acceleration opposite to the motion. (Ignore rolling.) Calculate for a car: (a) On dry concrete. (b) On wet concrete. (c) On ice, assuming that $$\\mu_{\\text{s}} = 0.100$$ , the same as for shoes on ice.",
+        "Image Links": [],
+        "Answer": "a. $$10.8 \\text{m/s}^{2} ;$$ b. $$7.85 \\text{m/s}^{2} ;$$ c. ^ $$2.00 \\text{m/s}^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Friction",
+        "Problem Statement": "",
+        "Question": "Calculate the maximum acceleration of a car that is heading up a $$4.00 \\text{\u00b0}$$ slope (one that makes an angle of $$4.00 \\text{\u00b0}$$ with the horizontal) under the following road conditions. Assume that only half the weight of the car is supported by the two drive wheels and that the coefficient of static friction is involved-that is, the tires are not allowed to slip during the acceleration. (Ignore rolling.) (a) On dry concrete. (b) On wet concrete. (c) On ice, assuming that $$\\mu_{\\text{s}} = 0.100$$ , the same as for shoes on ice.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Friction",
+        "Problem Statement": "",
+        "Question": "Repeat the preceding problem for a car with four-wheel drive.",
+        "Image Links": [],
+        "Answer": "a. $$9.09 \\text{m/s}^{2} ;$$ b. $$6.16 \\text{m/s}^{2} ;$$ c. $$0.294 \\text{m/s}^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Friction",
+        "Problem Statement": "",
+        "Question": "A freight train consists of two $$8.00 \\times 10^{5} \\text{-kg}$$ engines and 45 cars with average masses of $$5.50 \\times 10^{5} \\text{kg} \\text{.}$$ (a) What force must each engine exert backward on the track to accelerate the train at a rate of $$5.00 \\times 10^{-2} \\text{m} \\text{/} \\text{s}^{2}$$ if the force of friction is $$7.50 \\times 10^{5} \\text{N}$$ , assuming the engines exert identical forces? This is not a large frictional force for such a massive system. Rolling friction for trains is small, and consequently, trains are very energy-efficient transportation systems. (b) What is the force in the coupling between the 37th and 38th cars (this is the force each exerts on the other), assuming all cars have the same mass and that friction is evenly distributed among all of the cars and engines?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Friction",
+        "Problem Statement": "",
+        "Question": "Consider the 52.0-kg mountain climber shown below. (a) Find the tension in the rope and the force that the mountain climber must exert with her feet on the vertical rock face to remain stationary. Assume that the force is exerted parallel to her legs. Also, assume negligible force exerted by her arms. (b) What is the minimum coefficient of friction between her shoes and the cliff?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9d7620350be4ecabd3c0406466d44890a59c9ec6"
+        ],
+        "Answer": "a. 272 N, 512 N; b. 0.268",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Friction",
+        "Problem Statement": "",
+        "Question": "A contestant in a winter sporting event pushes a 45.0-kg block of ice across a frozen lake as shown below.  The coefficient of friction of ice can be found in Table 6.1. (a) Calculate the minimum force F he must exert to get the block moving. (b) What is its acceleration once it starts to move, if that force is maintained?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9e698d2bb8ad6d6b3aa5ea3f56df6b354680c701"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Friction",
+        "Problem Statement": "",
+        "Question": "The contestant now pulls the block of ice with a rope over his shoulder at the same angle above the horizontal as shown below. The coefficient of friction of ice can be found in Table 6.1. Calculate the minimum force F he must exert to get the block moving. (b) What is its acceleration once it starts to move, if that force is maintained?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1f0c563cc53fe02196a93993dfc155d7532aa7de"
+        ],
+        "Answer": "a. 46.5 N; b. $$0.655 \\text{m/s}^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Friction",
+        "Problem Statement": "",
+        "Question": "At a post office, a parcel that is a 20.0-kg box slides down a ramp inclined at $$30.0 \\text{\u00b0}$$ with the horizontal. The coefficient of kinetic friction between the box and plane is 0.0300. (a) Find the acceleration of the box. (b) Find the velocity of the box as it reaches the end of the plane, if the length of the plane is 2 m and the box starts at rest.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Centripetal Force",
+        "Problem Statement": "",
+        "Question": "(a) A 22.0-kg child is riding a playground merry-go-round that is rotating at 40.0 rev/min. What centripetal force is exerted if he is 1.25 m from its center? (b) What centripetal force is exerted if the merry-go-round rotates at 3.00 rev/min and he is 8.00 m from its center? (c) Compare each force with his weight.",
+        "Image Links": [],
+        "Answer": "a. 483 N; b. 17.4 N; c. 2.24, 0.0807",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Centripetal Force",
+        "Problem Statement": "",
+        "Question": "Calculate the centripetal force on the end of a 100-m (radius) wind turbine blade that is rotating at 0.5 rev/s. Assume the mass is 4 kg.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Centripetal Force",
+        "Problem Statement": "",
+        "Question": "What is the ideal banking angle for a gentle turn of 1.20-km radius on a highway with a 105 km/h speed limit (about 65 mi/h), assuming everyone travels at the limit?",
+        "Image Links": [],
+        "Answer": "$$4.14 \\text{\u00b0}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Centripetal Force",
+        "Problem Statement": "",
+        "Question": "What is the ideal speed to take a 100.0-m-radius curve banked at a $$20.0 \\text{\u00b0}$$ angle?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Centripetal Force",
+        "Problem Statement": "",
+        "Question": "(a) What is the radius of a bobsled turn banked at $$75.0 \\text{\u00b0}$$ and taken at 30.0 m/s, assuming it is ideally banked? (b) Calculate the centripetal acceleration. (c) Does this acceleration seem large to you?",
+        "Image Links": [],
+        "Answer": "a. 24.6 m; b. $$36.6 \\text{m/s}^{2} ;$$ c. 3.73 times g",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Centripetal Force",
+        "Problem Statement": "",
+        "Question": "Part of riding a bicycle involves leaning at the correct angle when making a turn, as seen below. To be stable, the force exerted by the ground must be on a line going through the center of gravity. The force on the bicycle wheel can be resolved into two perpendicular components-friction parallel to the road (this must supply the centripetal force) and the vertical normal force (which must equal the system\u2019s weight). (a) Show that $$\\theta$$ (as defined as shown) is related to the speed v and radius of curvature r of the turn in the same way as for an ideally banked roadway-that is, $$\\theta = \\text{tan}^{-1} ( v^{2} \\text{/} r g ) .$$ (b) Calculate $$\\theta$$ for a 12.0-m/s turn of radius 30.0 m (as in a race).",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/adc368237be4c9d5ccf02856a9df08c8af510b82"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Centripetal Force",
+        "Problem Statement": "",
+        "Question": "If a car takes a banked curve at less than the ideal speed, friction is needed to keep it from sliding toward the inside of the curve (a problem on icy mountain roads). (a) Calculate the ideal speed to take a 100.0 m radius curve banked at $$15.0 \\text{\u00b0}$$ . (b) What is the minimum coefficient of friction needed for a frightened driver to take the same curve at 20.0 km/h?",
+        "Image Links": [],
+        "Answer": "a. 16.2 m/s; b. 0.234",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Centripetal Force",
+        "Problem Statement": "",
+        "Question": "Modern roller coasters have vertical loops like the one shown here. The radius of curvature is smaller at the top than on the sides so that the downward centripetal acceleration at the top will be greater than the acceleration due to gravity, keeping the passengers pressed firmly into their seats. What is the speed of the roller coaster at the top of the loop if the radius of curvature there is 15.0 m and the downward acceleration of the car is 1.50 g ?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0cd33aa8c952fc54cd87c3388a9be18abd783fe7"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Centripetal Force",
+        "Problem Statement": "",
+        "Question": "A child of mass 40.0 kg is in a roller coaster car that travels in a loop of radius 7.00 m. At point A the speed of the car is 10.0 m/s, and at point B, the speed is 10.5 m/s. Assume the child is not holding on and does not wear a seat belt. (a) What is the force of the car seat on the child at point A? (b) What is the force of the car seat on the child at point B? (c) What minimum speed is required to keep the child in his seat at point A?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f93261c5ebe5098833fc3e47126687e2fc34168f"
+        ],
+        "Answer": "a. 179 N; b. 290 N; c. 8.3 m/s",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Centripetal Force",
+        "Problem Statement": "",
+        "Question": "In the simple Bohr model of the ground state of the hydrogen atom, the electron travels in a circular orbit around a fixed proton. The radius of the orbit is $$5.28 \\times 10^{-11} \\text{m,}$$ and the speed of the electron is $$2.18 \\times 10^{6} \\text{m} \\text{/} \\text{s} .$$ The mass of an electron is $$9.11 \\times 10^{-31} \\text{kg}$$ . What is the force on the electron?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Centripetal Force",
+        "Problem Statement": "",
+        "Question": "Railroad tracks follow a circular curve of radius 500.0 m and are banked at an angle of $$5.0 \\text{\u00b0}$$ . For trains of what speed are these tracks designed?",
+        "Image Links": [],
+        "Answer": "20.7 m/s",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Centripetal Force",
+        "Problem Statement": "",
+        "Question": "The CERN particle accelerator is circular with a circumference of 7.0 km. (a) What is the acceleration of the protons $$( m = 1.67 \\times 10^{-27} \\text{kg} )$$ that move around the accelerator at $$5 %$$ of the speed of light? (The speed of light is $$v = 3.00 \\times 10^{8} \\text{m/s} \\text{.}$$ ) (b) What is the force on the protons?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Centripetal Force",
+        "Problem Statement": "",
+        "Question": "A car rounds an unbanked curve of radius 65 m. If the coefficient of static friction between the road and car is 0.70, what is the maximum speed at which the car can traverse the curve without slipping?",
+        "Image Links": [],
+        "Answer": "21 m/s",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 Centripetal Force",
+        "Problem Statement": "",
+        "Question": "A banked highway is designed for traffic moving at 90.0 km/h. The radius of the curve is 310 m. What is the angle of banking of the highway?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Drag Force and Terminal Speed",
+        "Problem Statement": "",
+        "Question": "The terminal velocity of a person falling in air depends upon the weight and the area of the person facing the fluid. Find the terminal velocity (in meters per second and kilometers per hour) of an 80.0-kg skydiver falling in a headfirst position with a surface area of $$0.140 \\text{m}^{2}$$ .",
+        "Image Links": [],
+        "Answer": "115 m/s or 414 km/h",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Drag Force and Terminal Speed",
+        "Problem Statement": "",
+        "Question": "A 60.0-kg and a 90.0-kg skydiver jump from an airplane at an altitude of $$6.00 \\times 10^{3} \\text{m}$$ , both falling in a headfirst position. Make some assumption on their frontal areas and calculate their terminal velocities. How long will it take for each skydiver to reach the ground (assuming the time to reach terminal velocity is small)? Assume all values are accurate to three significant digits.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Drag Force and Terminal Speed",
+        "Problem Statement": "",
+        "Question": "A 560-g squirrel with a surface area of $$930 \\text{cm}^{2}$$ falls from a 5.0-m tree to the ground. Estimate its terminal velocity. (Use a drag coefficient for a skydiver falling feet first.) What will be the velocity of a 56-kg person hitting the ground, assuming no drag contribution in such a short distance?",
+        "Image Links": [],
+        "Answer": "$$v_{\\text{T}} = 11.8 \\text{m/s;} \\text{v}_{2} = 9.9 \\text{m/s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Drag Force and Terminal Speed",
+        "Problem Statement": "",
+        "Question": "To maintain a constant speed, the force provided by a car\u2019s engine must equal the drag force plus the force of friction of the road (the rolling resistance). (a) What are the drag forces at 70 km/h and 100 km/h for a Toyota Camry? (Drag area is $$0.70 \\text{m}^{2}$$ ) (b) What is the drag force at 70 km/h and 100 km/h for a Hummer H2? (Drag area is $$2.44 \\text{m}^{2} )$$ Assume all values are accurate to three significant digits.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Drag Force and Terminal Speed",
+        "Problem Statement": "",
+        "Question": "By what factor does the drag force on a car increase as it goes from 65 to 110 km/h?",
+        "Image Links": [],
+        "Answer": "$$( \\frac{110}{65} )^{2} = 2.86$$ times",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Drag Force and Terminal Speed",
+        "Problem Statement": "",
+        "Question": "Calculate the velocity a spherical rain drop would achieve falling from 5.00 km (a) in the absence of air drag (b) with air drag. Take the size across of the drop to be 4 mm, the density to be $$1.00 \\times 10^{3} \\text{kg/m}^{3}$$ , and the surface area to be $$\\pi r^{2}$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Drag Force and Terminal Speed",
+        "Problem Statement": "",
+        "Question": "Using Stokes\u2019 law, verify that the units for viscosity are kilograms per meter per second.",
+        "Image Links": [],
+        "Answer": "Stokes\u2019 law is $$F_{\\text{s}} = 6 \\pi r \\eta v .$$ Solving for the viscosity, $$\\eta = \\frac{F_{\\text{s}}}{6 \\pi r v} .$$ Considering only the units, this becomes $$[ \\eta ] = \\frac{\\text{kg}}{\\text{m} \\cdotp \\text{s}} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Drag Force and Terminal Speed",
+        "Problem Statement": "",
+        "Question": "Find the terminal velocity of a spherical bacterium (diameter $$2.00 \\text{mum}$$ ) falling in water. You will first need to note that the drag force is equal to the weight at terminal velocity. Take the density of the bacterium to be $$1.10 \\times 10^{3} \\text{kg/m}^{3}$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Drag Force and Terminal Speed",
+        "Problem Statement": "",
+        "Question": "Stokes\u2019 law describes sedimentation of particles in liquids and can be used to measure viscosity. Particles in liquids achieve terminal velocity quickly. One can measure the time it takes for a particle to fall a certain distance and then use Stokes\u2019 law to calculate the viscosity of the liquid. Suppose a steel ball bearing (density $$7.8 \\times 10^{3} \\text{kg/m}^{3}$$ , diameter 3.0 mm) is dropped in a container of motor oil. It takes 12 s to fall a distance of 0.60 m. Calculate the viscosity of the oil.",
+        "Image Links": [],
+        "Answer": "$$0.76 \\text{kg/m} \\cdotp \\text{s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Drag Force and Terminal Speed",
+        "Problem Statement": "",
+        "Question": "Suppose that the resistive force of the air on a skydiver can be approximated by $$f = \\text{unicode[:-]} b v^{2} .$$ If the terminal velocity of a 50.0-kg skydiver is 60.0 m/s, what is the value of b ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Drag Force and Terminal Speed",
+        "Problem Statement": "",
+        "Question": "A small diamond of mass 10.0 g drops from a swimmer\u2019s earring and falls through the water, reaching a terminal velocity of 2.0 m/s. (a) Assuming the frictional force on the diamond obeys $$f = \\text{unicode[:-]} b v ,$$ what is b ? (b) How far does the diamond fall before it reaches 90 percent of its terminal speed?",
+        "Image Links": [],
+        "Answer": "a. 0.049 kg/s; b. 0.57 m",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "Topic": "Check Your Understanding 11.2",
+        "Problem Statement": "",
+        "Question": "A proton spiraling around a magnetic field executes circular motion in the plane of the paper, as shown below. The circular path has a radius of 0.4 m and the proton has velocity $$4.0 \\times 10^{6} \\text{m} \\text{/} \\text{s}$$ . What is the angular momentum of the proton about the origin?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/47e6adb27568388f063cf4f9f9b90001daade1ed"
+        ],
+        "Answer": "From the figure, we see that the cross product of the radius vector with the momentum vector gives a vector directed out of the page. Inserting the radius and momentum into the expression for the angular momentum, we have $$\\mathbf{\\vec{l}} = \\mathbf{\\vec{r}} \\times \\mathbf{\\vec{p}} = ( 0.4 \\text{m} \\mathbf{\\hat{i}} \\text{)} \\times ( 1.67 \\times 10^{-27} \\text{kg} ( 4.0 \\times 10^{6} \\text{m} \\text{/} \\text{s} ) \\mathbf{\\hat{j}} ) = 2.7 \\times 10^{-21} \\text{kg} \\cdotp \\text{m}^{2} \\text{/} \\text{s} \\mathbf{\\hat{k}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 11.3",
+        "Problem Statement": "",
+        "Question": "Which has greater angular momentum: a solid sphere of mass m rotating at a constant angular frequency $$\\upomega_{0}$$ about the z -axis, or a solid cylinder of same mass and rotation rate about the z -axis?",
+        "Image Links": [],
+        "Answer": "$$I_{\\text{sphere}} = \\frac{2}{5} m r^{2} , I_{\\text{cylinder}} = \\frac{1}{2} m r^{2}$$ ; Taking the ratio of the angular momenta, we have: $$\\frac{L_{\\text{cylinder}}}{L_{\\text{sphere}}} = \\frac{I_{\\text{cylinder}} \\upomega_{0}}{I_{\\text{sphere}} \\upomega_{0}} = \\frac{\\frac{1}{2} m r^{2}}{\\frac{2}{5} m r^{2}} = \\frac{5}{4}$$ . Thus, the cylinder has $$25 %$$ more angular momentum. This is because the cylinder has more mass distributed farther from the axis of rotation.",
+        "Answer Image Links": []
+    }
+]

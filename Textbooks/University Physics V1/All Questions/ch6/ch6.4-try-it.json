@@ -1,0 +1,18 @@
+[
+    {
+        "Topic": "Check Your Understanding 6.10",
+        "Problem Statement": "",
+        "Question": "Find the terminal velocity of a 50-kg skydiver falling in spread-eagle fashion.",
+        "Image Links": [],
+        "Answer": "34 m/s",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 6.11",
+        "Problem Statement": "",
+        "Question": "Suppose the resistive force of the air on a skydiver can be approximated by $$f = \\text{unicode[:-]} b v^{2}$$ . If the terminal velocity of a 100-kg skydiver is 60 m/s, what is the value of b?",
+        "Image Links": [],
+        "Answer": "0.27 kg/m",
+        "Answer Image Links": []
+    }
+]

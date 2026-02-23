@@ -1,0 +1,106 @@
+[
+    {
+        "Topic": "1.1 The Scope and Scale of Physics",
+        "Problem Statement": "",
+        "Question": "What is physics?",
+        "Image Links": [],
+        "Answer": "Physics is the science concerned with describing the interactions of energy, matter, space, and time to uncover the fundamental mechanisms that underlie every phenomenon.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.1 The Scope and Scale of Physics",
+        "Problem Statement": "",
+        "Question": "Some have described physics as a \u201csearch for simplicity.\u201d Explain why this might be an appropriate description.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.1 The Scope and Scale of Physics",
+        "Problem Statement": "",
+        "Question": "If two different theories describe experimental observations equally well, can one be said to be more valid than the other (assuming both use accepted rules of logic)?",
+        "Image Links": [],
+        "Answer": "No, neither of these two theories is more valid than the other. Experimentation is the ultimate decider. If experimental evidence does not suggest one theory over the other, then both are equally valid. A given physicist might prefer one theory over another on the grounds that one seems more simple, more natural, or more beautiful than the other, but that physicist would quickly acknowledge that he or she cannot say the other theory is invalid. Rather, he or she would be honest about the fact that more experimental evidence is needed to determine which theory is a better description of nature.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.1 The Scope and Scale of Physics",
+        "Problem Statement": "",
+        "Question": "What determines the validity of a theory?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.1 The Scope and Scale of Physics",
+        "Problem Statement": "",
+        "Question": "Certain criteria must be satisfied if a measurement or observation is to be believed. Will the criteria necessarily be as strict for an expected result as for an unexpected result?",
+        "Image Links": [],
+        "Answer": "Probably not. As the saying goes, \u201cExtraordinary claims require extraordinary evidence.\u201d",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.1 The Scope and Scale of Physics",
+        "Problem Statement": "",
+        "Question": "Can the validity of a model be limited or must it be universally valid? How does this compare with the required validity of a theory or a law?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Units and Standards",
+        "Problem Statement": "",
+        "Question": "Identify some advantages of metric units.",
+        "Image Links": [],
+        "Answer": "Conversions between units require factors of 10 only, which simplifies calculations. Also, the same basic units can be scaled up or down using metric prefixes to sizes appropriate for the problem at hand.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Units and Standards",
+        "Problem Statement": "",
+        "Question": "What are the SI base units of length, mass, and time?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Units and Standards",
+        "Problem Statement": "",
+        "Question": "What is the difference between a base unit and a derived unit? (b) What is the difference between a base quantity and a derived quantity? (c) What is the difference between a base quantity and a base unit?",
+        "Image Links": [],
+        "Answer": "a. Base units are defined by a particular process of measuring a base quantity whereas derived units are defined as algebraic combinations of base units. b. A base quantity is chosen by convention and practical considerations. Derived quantities are expressed as algebraic combinations of base quantities. c. A base unit is a standard for expressing the measurement of a base quantity within a particular system of units. So, a measurement of a base quantity could be expressed in terms of a base unit in any system of units using the same base quantities. For example, length is a base quantity in both SI and the English system, but the meter is a base unit in the SI system only.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Units and Standards",
+        "Problem Statement": "",
+        "Question": "For each of the following scenarios, refer to Figure 1.4 and Table 1.2 to determine which metric prefix on the meter is most appropriate for each of the following scenarios. (a) You want to tabulate the mean distance from the Sun for each planet in the solar system. (b) You want to compare the sizes of some common viruses to design a mechanical filter capable of blocking the pathogenic ones. (c) You want to list the diameters of all the elements on the periodic table. (d) You want to list the distances to all the stars that have now received any radio broadcasts sent from Earth 10 years ago.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.6 Significant Figures",
+        "Problem Statement": "",
+        "Question": "(a) What is the relationship between the precision and the uncertainty of a measurement? (b) What is the relationship between the accuracy and the discrepancy of a measurement?",
+        "Image Links": [],
+        "Answer": "a. Uncertainty is a quantitative measure of precision. b. Discrepancy is a quantitative measure of accuracy.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.7 Solving Problems in Physics",
+        "Problem Statement": "",
+        "Question": "What information do you need to choose which equation or equations to use to solve a problem?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.7 Solving Problems in Physics",
+        "Problem Statement": "",
+        "Question": "What should you do after obtaining a numerical answer when solving a problem?",
+        "Image Links": [],
+        "Answer": "Check to make sure it makes sense and assess its significance.",
+        "Answer Image Links": []
+    }
+]

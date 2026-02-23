@@ -1,0 +1,67 @@
+[
+    {
+        "Topic": "Check Your Understanding 12.3",
+        "Problem Statement": "",
+        "Question": "Repeat Example 12.3 using the left end of the meter stick to calculate the torques; that is, by placing the pivot at the left end of the meter stick.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e7dd75370ab3e4dfcbcdaeec29b160081e0b16b7",
+            "https://openstax.org/apps/archive/20240812.170248/resources/9ae989692471e5d447103a35de593179afcd62b2"
+        ],
+        "Answer": "316.7 g; 5.8 N",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 12.4",
+        "Problem Statement": "",
+        "Question": "Repeat Example 12.4 assuming that the forearm is an object of uniform density that weighs 8.896 N.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/826e9487f97da7ca0d9663b1128146fe11b6edc0",
+            "https://openstax.org/apps/archive/20240812.170248/resources/2a7adc57f90d4cf37d2650874fa9371676812ebd",
+            "https://openstax.org/apps/archive/20240812.170248/resources/6926140f06ffd0e4b514c63c3a714dbf5c9b5dbc"
+        ],
+        "Answer": "$$T = \\text{1963 N} ; \\text{F} = 1732 \\text{N}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 12.5",
+        "Problem Statement": "",
+        "Question": "For the situation described in Example 12.5, determine the values of the coefficient $$\\mu_{\\text{s}}$$ of static friction for which the ladder starts slipping, given that $$\\beta$$ is the angle that the ladder makes with the floor.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/4681461b25167ec8cccea39d20187760d5714ee4",
+            "https://openstax.org/apps/archive/20240812.170248/resources/e2fb8b5d71798401a65fca4f234e93d33620270e"
+        ],
+        "Answer": "$$\\mu_{s} < 0.5 \\text{cot} \\beta$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 12.6",
+        "Problem Statement": "",
+        "Question": "Solve the problem in Example 12.6 by taking the pivot position at the center of mass.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1ab66d3a39ef30bccab674da283cdce831635b56",
+            "https://openstax.org/apps/archive/20240812.170248/resources/e65ba7c499bb70ab67dfc81c7a6f24c0d2bae2d3"
+        ],
+        "Answer": "$$\\mathbf{\\vec{F}}_{\\text{door on} A} = 100.0 \\text{N} \\mathbf{\\hat{i}} - 200.0 \\text{N} \\mathbf{\\hat{j}} \\text{;} \\mathbf{\\vec{F}}_{\\text{door on} B} = -100.0 \\text{N} \\mathbf{\\hat{i}} - 200.0 \\text{N} \\mathbf{\\hat{j}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 12.7",
+        "Problem Statement": "",
+        "Question": "A 50-kg person stands 1.5 m away from one end of a uniform 6.0-m-long scaffold of mass 70.0 kg. Find the tensions in the two vertical ropes supporting the scaffold.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1133392e6b339a26eb5f528dd0d33f7208cd983f"
+        ],
+        "Answer": "711.0 N; 466.0 N",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 12.8",
+        "Problem Statement": "",
+        "Question": "A 400.0-N sign hangs from the end of a uniform strut. The strut is 4.0 m long and weighs 600.0 N. The strut is supported by a hinge at the wall and by a cable whose other end is tied to the wall at a point 3.0 m above the left end of the strut. Find the tension in the supporting cable and the force of the hinge on the strut.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1fda837d9eabfc74034fc15622ea35b049a6c71a"
+        ],
+        "Answer": "1167 N; 980 N directed upward at $$18 \\text{\u00b0}$$ above the horizontal",
+        "Answer Image Links": []
+    }
+]

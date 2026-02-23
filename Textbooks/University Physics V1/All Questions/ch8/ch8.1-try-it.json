@@ -1,0 +1,34 @@
+[
+    {
+        "Topic": "Check Your Understanding 8.1",
+        "Problem Statement": "",
+        "Question": "In Example 8.1, what are the potential energies of the particle at $$x = 1 \\text{m}$$ and $$x = 2 \\text{m}$$ with respect to zero at $$x = 1.5 \\text{m}$$ ? Verify that the difference of potential energy is still 7 J.",
+        "Image Links": [],
+        "Answer": "$$( 4.63 \\text{J} ) - ( -2.38 \\text{J} ) = 7.00 \\text{J}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 8.2",
+        "Problem Statement": "",
+        "Question": "What are the values of the gravitational potential energy of the hiker at the base, summit, and sea level, with respect to a sea-level zero of potential energy?",
+        "Image Links": [],
+        "Answer": "35.3 kJ, 143 kJ, 0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 8.3",
+        "Problem Statement": "",
+        "Question": "When the length of the spring in Example 8.3 changes from an initial value of 22.0 cm to a final value, the elastic potential energy it contributes changes by $$-0.0800 \\text{J} .$$ Find the final length.",
+        "Image Links": [],
+        "Answer": "22.8 cm. Using 0.02 m for the initial displacement of the spring (see above), we calculate the final displacement of the spring to be 0.028 m; therefore the length of the spring is the unstretched length plus the displacement, or 22.8 cm.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 8.4",
+        "Problem Statement": "",
+        "Question": "Suppose the mass in Equation 8.6 is doubled while keeping the all other conditions the same. Would the maximum expansion of the spring increase, decrease, or remain the same? Would the speed at point B be larger, smaller, or the same compared to the original mass?",
+        "Image Links": [],
+        "Answer": "It increases because you had to exert a downward force, doing positive work, to pull the mass down, and that\u2019s equal to the change in the total potential energy.",
+        "Answer Image Links": []
+    }
+]

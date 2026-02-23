@@ -1,0 +1,230 @@
+[
+    {
+        "Topic": "17.1 Sound Waves",
+        "Problem Statement": "",
+        "Question": "What is the difference between sound and hearing?",
+        "Image Links": [],
+        "Answer": "Sound is a disturbance of matter (a pressure wave) that is transmitted from its source outward. Hearing is the human perception of sound.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "17.1 Sound Waves",
+        "Problem Statement": "",
+        "Question": "You will learn that light is an electromagnetic wave that can travel through a vacuum. Can sound waves travel through a vacuum?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "17.1 Sound Waves",
+        "Problem Statement": "",
+        "Question": "Sound waves can be modeled as a change in pressure. Why is the change in pressure used and not the actual pressure?",
+        "Image Links": [],
+        "Answer": "Consider a sound wave moving through air. The pressure of the air is the equilibrium condition, it is the change in pressure that produces the sound wave.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "17.2 Speed of Sound",
+        "Problem Statement": "",
+        "Question": "How do sound vibrations of atoms differ from thermal motion?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "17.2 Speed of Sound",
+        "Problem Statement": "",
+        "Question": "When sound passes from one medium to another where its propagation speed is different, does its frequency or wavelength change? Explain your answer briefly.",
+        "Image Links": [],
+        "Answer": "The frequency does not change as the sound wave moves from one medium to another. Since the speed changes and the frequency does not, the wavelength must change. This is similar to the driving force of a harmonic oscillator or a wave on the string.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "17.2 Speed of Sound",
+        "Problem Statement": "",
+        "Question": "A popular party trick is to inhale helium and speak in a high-frequency, funny voice. Explain this phenomenon.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "17.2 Speed of Sound",
+        "Problem Statement": "",
+        "Question": "You may have used a sonic range finder in lab to measure the distance of an object using a clicking sound from a sound transducer. What is the principle used in this device?",
+        "Image Links": [],
+        "Answer": "The transducer sends out a sound wave, which reflects off the object in question and measures the time it takes for the sound wave to return. Since the speed of sound is constant, the distance to the object can found by multiplying the velocity of sound by half the time interval measured.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "17.2 Speed of Sound",
+        "Problem Statement": "",
+        "Question": "The sonic range finder discussed in the preceding question often needs to be calibrated. During the calibration, the software asks for the room temperature. Why do you suppose the room temperature is required?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "17.3 Sound Intensity",
+        "Problem Statement": "",
+        "Question": "Six members of a synchronized swim team wear earplugs to protect themselves against water pressure at depths, but they can still hear the music and perform the combinations in the water perfectly. One day, they were asked to leave the pool so the dive team could practice a few dives, and they tried to practice on a mat, but seemed to have a lot more difficulty. Why might this be?",
+        "Image Links": [],
+        "Answer": "The ear plugs reduce the intensity of the sound both in water and on land, but Navy researchers have found that sound under water is heard through vibrations mastoid, which is the bone behind the ear.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "17.3 Sound Intensity",
+        "Problem Statement": "",
+        "Question": "A community is concerned about a plan to bring train service to their downtown from the town\u2019s outskirts. The current sound intensity level, even though the rail yard is blocks away, is 70 dB downtown. The mayor assures the public that there will be a difference of only 30 dB in sound in the downtown area. Should the townspeople be concerned? Why?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "17.4 Normal Modes of a Standing Sound Wave",
+        "Problem Statement": "",
+        "Question": "You are given two wind instruments of identical length. One is open at both ends, whereas the other is closed at one end. Which is able to produce the lowest frequency?",
+        "Image Links": [],
+        "Answer": "The fundamental wavelength of a tube open at each end is 2 L , where the wavelength of a tube open at one end and closed at one end is 4 L . The tube open at one end has the lower fundamental frequency, assuming the speed of sound is the same in both tubes.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "17.4 Normal Modes of a Standing Sound Wave",
+        "Problem Statement": "",
+        "Question": "What is the difference between an overtone and a harmonic? Are all harmonics overtones? Are all overtones harmonics?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "17.4 Normal Modes of a Standing Sound Wave",
+        "Problem Statement": "",
+        "Question": "Two identical columns, open at both ends, are in separate rooms. In room A , the temperature is $$T = 20 \\text{\u00b0} \\text{C}$$ and in room B , the temperature is $$T = 25 \\text{\u00b0} \\text{C}$$ . A speaker is attached to the end of each tube, causing the tubes to resonate at the fundamental frequency. Is the frequency the same for both tubes? Which has the higher frequency?",
+        "Image Links": [],
+        "Answer": "The wavelength in each is twice the length of the tube. The frequency depends on the wavelength and the speed of the sound waves. The frequency in room B is higher because the speed of sound is higher where the temperature is higher.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "17.5 Sources of Musical Sound",
+        "Problem Statement": "",
+        "Question": "How does an unamplified guitar produce sounds so much more intense than those of a plucked string held taut by a simple stick?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "17.5 Sources of Musical Sound",
+        "Problem Statement": "",
+        "Question": "Consider three pipes of the same length ( L ). Pipe A is open at both ends, pipe B is closed at both ends, and pipe C has one open end and one closed end. If the velocity of sound is the same in each of the three tubes, in which of the tubes could the lowest fundamental frequency be produced? In which of the tubes could the highest fundamental frequency be produced?",
+        "Image Links": [],
+        "Answer": "When resonating at the fundamental frequency, the wavelength for pipe C is 4 L , and for pipes A and B is 2 L . The frequency is equal to $$f = v \\text{/} \\lambda .$$ Pipe C has the lowest frequency and pipes A and B have equal frequencies, higher than the one in pipe C .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "17.5 Sources of Musical Sound",
+        "Problem Statement": "",
+        "Question": "Pipe A has a length L and is open at both ends. Pipe B has a length L /2 and has one open end and one closed end. Assume the speed of sound to be the same in both tubes. Which of the harmonics in each tube would be equal?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "17.5 Sources of Musical Sound",
+        "Problem Statement": "",
+        "Question": "A string is tied between two lab posts a distance L apart. The tension in the string and the linear mass density is such that the speed of a wave on the string is $$v = 343 \\text{m/s} \\text{.}$$ A tube with symmetric boundary conditions has a length L and the speed of sound in the tube is $$v = 343 \\text{m/s} \\text{.}$$ What could be said about the frequencies of the harmonics in the string and the tube? What if the velocity in the string were $$v = 686 \\text{m/s}$$ ?",
+        "Image Links": [],
+        "Answer": "Since the boundary conditions are both symmetric, the frequencies are $$f_{n} = \\frac{n v}{2 L} .$$ Since the speed is the same in each, the frequencies are the same. If the wave speed were doubled in the string, the frequencies in the string would be twice the frequencies in the tube.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "17.6 Beats",
+        "Problem Statement": "",
+        "Question": "Two speakers are attached to variable-frequency signal generator. Speaker A produces a constant-frequency sound wave of 1.00 kHz, and speaker B produces a tone of 1.10 kHz. The beat frequency is 0.10 kHz. If the frequency of each speaker is doubled, what is the beat frequency produced?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "17.6 Beats",
+        "Problem Statement": "",
+        "Question": "The label has been scratched off a tuning fork and you need to know its frequency. From its size, you suspect that it is somewhere around 250 Hz. You find a 250-Hz tuning fork and a 270-Hz tuning fork. When you strike the 250-Hz fork and the fork of unknown frequency, a beat frequency of 5 Hz is produced. When you strike the unknown with the 270-Hz fork, the beat frequency is 15 Hz. What is the unknown frequency? Could you have deduced the frequency using just the 250-Hz fork?",
+        "Image Links": [],
+        "Answer": "The frequency of the unknown fork is 255 Hz. No, if only the 250 Hz fork is used, listening to the beat frequency could only limit the possible frequencies to 245 Hz or 255 Hz.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "17.6 Beats",
+        "Problem Statement": "",
+        "Question": "Referring to the preceding question, if you had only the 250-Hz fork, could you come up with a solution to the problem of finding the unknown frequency?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "17.6 Beats",
+        "Problem Statement": "",
+        "Question": "A \u201cshowy\u201d custom-built car has two brass horns that are supposed to produce the same frequency but actually emit 263.8 and 264.5 Hz. What beat frequency is produced?",
+        "Image Links": [],
+        "Answer": "The beat frequency is 0.7 Hz.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "17.7 The Doppler Effect",
+        "Problem Statement": "",
+        "Question": "Is the Doppler shift real or just a sensory illusion?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "17.7 The Doppler Effect",
+        "Problem Statement": "",
+        "Question": "Three stationary observers observe the Doppler shift from a source moving at a constant velocity. The observers are stationed as shown below. Which observer will observe the highest frequency? Which observer will observe the lowest frequency? What can be said about the frequency observed by observer 3?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/bd8563c6ee4ba74adc94cd03b204d8664a410632"
+        ],
+        "Answer": "Observer 1 will observe the highest frequency. Observer 2 will observe the lowest frequency. Observer 3 will hear a higher frequency than the source frequency, but lower than the frequency observed by observer 1, as the source approaches and a lower frequency than the source frequency, but higher than the frequency observed by observer 1, as the source moves away from observer 3.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "17.7 The Doppler Effect",
+        "Problem Statement": "",
+        "Question": "Shown below is a stationary source and moving observers. Describe the frequencies observed by the observers for this configuration.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/40f0d5635efdc8feefe6347428de6e5f78fc83a4"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "17.7 The Doppler Effect",
+        "Problem Statement": "",
+        "Question": "Prior to 1980, conventional radar was used by weather forecasters. In the 1960s, weather forecasters began to experiment with Doppler radar. What do you think is the advantage of using Doppler radar?",
+        "Image Links": [],
+        "Answer": "Doppler radar can not only detect the distance to a storm, but also the speed and direction at which the storm is traveling.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "17.8 Shock Waves",
+        "Problem Statement": "",
+        "Question": "What is the difference between a sonic boom and a shock wave?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "17.8 Shock Waves",
+        "Problem Statement": "",
+        "Question": "Due to efficiency considerations related to its bow wake, the supersonic transport aircraft must maintain a cruising speed that is a constant ratio to the speed of sound (a constant Mach number). If the aircraft flies from warm air into colder air, should it increase or decrease its speed? Explain your answer.",
+        "Image Links": [],
+        "Answer": "The speed of sound decreases as the temperature decreases. The Mach number is equal to $$M = \\frac{v_{\\text{s}}}{v} ,$$ so the plane should slow down.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "17.8 Shock Waves",
+        "Problem Statement": "",
+        "Question": "When you hear a sonic boom, you often cannot see the plane that made it. Why is that?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

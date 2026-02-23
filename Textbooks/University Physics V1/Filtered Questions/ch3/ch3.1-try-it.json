@@ -1,0 +1,20 @@
+[
+  {
+    "Topic": "Check Your Understanding 3.1",
+    "Problem Statement": "",
+    "Question": "A cyclist rides 3 km west and then turns around and rides 2 km east. (a) What is their displacement? (b) What is the distance traveled? (c) What is the magnitude of their displacement?",
+    "Image Links": [
+      "https://openstax.org/apps/archive/20240812.170248/resources/35879f51b1cab2ea18ddf3a963572118d06e264c"
+    ],
+    "Answer": "(a) The rider’s displacement is $$\\text{Delta} x = x_{\\text{f}} - x_{0} = -1 \\text{km}$$ . (The displacement is negative because we take east to be positive and west to be negative.) (b) The distance traveled is 3 km + 2 km = 5 km. (c) The magnitude of the displacement is 1 km.",
+    "Answer Image Links": [],
+    "o3 Answer": "Let east be the positive direction and west the negative direction.\n\n(a) Displacement  \nInitial position: 0 km  \nAfter riding 3 km west: −3 km  \nAfter riding 2 km east: −3 km + 2 km = −1 km  \n\nDisplacement = final position − initial position = −1 km  \nSo the cyclist’s displacement is 1 km west (or −1 km if you keep the sign).\n\n(b) Distance traveled  \nDistance is the total length of the path taken:  \n3 km + 2 km = 5 km\n\n(c) Magnitude of the displacement  \n|−1 km| = 1 km",
+    "o4-mini Answer": "Here “west” we'll take as the negative x–direction and “east” as positive x.  \n\n(a) Displacement Δx = (–3 km) + (+2 km) = –1 km  \n   ⇒ 1 km toward the west.  \n\n(b) Distance traveled = |3 km| + |2 km| = 5 km.  \n\n(c) Magnitude of the displacement = |–1 km| = 1 km.",
+    "gemini-2.5-pro Answer": "Of course! Let's break this down step-by-step.\n\nThis problem is designed to help you understand the difference between **distance** (a scalar quantity) and **displacement** (a vector quantity).\n\n*   **Distance:** The total length of the path traveled. It doesn't care about direction.\n*   **Displacement:** The overall change in position from the starting point to the ending point. It includes direction.\n\nLet's set up a simple coordinate system to help us. Let's say the starting point is 0. We'll define **East as the positive (+) direction** and **West as the negative (-) direction**.\n\n*   The cyclist first rides 3 km west. In our system, this is a change of **-3 km**.\n*   Then, they ride 2 km east. In our system, this is a change of **+2 km**.\n\n---\n\n### **(a) What is their displacement?**\n\nDisplacement is the *net* change in position. We can find this by adding the two movements together.\n\nDisplacement = (First movement) + (Second movement)\nDisplacement = (-3 km) + (+2 km)\nDisplacement = **-1 km**\n\nSince we defined West as the negative direction, a displacement of -1 km means **1 km West**.\n\n**Answer (a): The cyclist's displacement is 1 km West.**\n\n---\n\n### **(b) What is the distance traveled?**\n\nDistance is the *total* path covered, so we add the lengths of each part of the journey, ignoring the direction.\n\nDistance = (Distance of first leg) + (Distance of second leg)\nDistance = 3 km + 2 km\nDistance = **5 km**\n\n**Answer (b): The distance traveled is 5 km.**\n\n---\n\n### **(c) What is the magnitude of their displacement?**\n\nThe magnitude is the size or numerical value of the displacement, without the direction. We found the displacement was -1 km (or 1 km West). The magnitude is simply the absolute value of that number.\n\nMagnitude of Displacement = |-1 km| = **1 km**\n\n**Answer (c): The magnitude of their displacement is 1 km.**\n\n### **Summary**\n\n*   **(a) Displacement:** **1 km West** (You ended up 1 km west of where you started).\n*   **(b) Distance Traveled:** **5 km** (Your legs moved you over a total of 5 km of road).\n*   **(c) Magnitude of Displacement:** **1 km** (The straight-line distance from your start point to your end point is 1 km).",
+    "gpt-5 Answer": "(a) Displacement: 1 km west  \n(b) Distance traveled: 5 km  \n(c) Magnitude of displacement: 1 km",
+    "o3 Eval": true,
+    "o4-mini Eval": true,
+    "gemini-2.5-pro Eval": true,
+    "gpt-5 Eval": true
+  }
+]

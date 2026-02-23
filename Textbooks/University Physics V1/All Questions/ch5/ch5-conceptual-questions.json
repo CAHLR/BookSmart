@@ -1,0 +1,146 @@
+[
+    {
+        "Topic": "5.1 Forces",
+        "Problem Statement": "",
+        "Question": "What properties do forces have that allow us to classify them as vectors?",
+        "Image Links": [],
+        "Answer": "Forces are directional and have magnitude.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 Newton's First Law",
+        "Problem Statement": "",
+        "Question": "Taking a frame attached to Earth as inertial, which of the following objects cannot have inertial frames attached to them, and which are inertial reference frames? (a) A car moving at constant velocity (b) A car that is accelerating (c) An elevator in free fall (d) A space capsule orbiting Earth (e) An elevator descending uniformly",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 Newton's First Law",
+        "Problem Statement": "",
+        "Question": "A woman was transporting an open box of cupcakes to a school party. The car in front of her stopped suddenly; she applied her brakes immediately. She was wearing her seat belt and suffered no physical harm (just a great deal of embarrassment), but the cupcakes flew into the dashboard and became \u201csmushcakes.\u201d Explain what happened.",
+        "Image Links": [],
+        "Answer": "The cupcake velocity before the braking action was the same as that of the car. Therefore, the cupcakes were unrestricted bodies in motion, and when the car suddenly stopped, the cupcakes kept moving forward according to Newton\u2019s first law.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 Newton's Second Law",
+        "Problem Statement": "",
+        "Question": "Why can we neglect forces such as those holding a body together when we apply Newton\u2019s second law?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 Newton's Second Law",
+        "Problem Statement": "",
+        "Question": "A rock is thrown straight up. At the top of the trajectory, the velocity is momentarily zero. Does this imply that the force acting on the object is zero? Explain your answer.",
+        "Image Links": [],
+        "Answer": "No. If the force were zero at this point, then there would be nothing to change the object\u2019s momentary zero velocity. Since we do not observe the object hanging motionless in the air, the force could not be zero.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.4 Mass and Weight",
+        "Problem Statement": "",
+        "Question": "What is the relationship between weight and mass? Which is an intrinsic, unchanging property of a body?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.4 Mass and Weight",
+        "Problem Statement": "",
+        "Question": "How much does a 70-kg astronaut weight in space, far from any celestial body? What is her mass at this location?",
+        "Image Links": [],
+        "Answer": "The astronaut is truly weightless in the location described, because there is no large body (planet or star) nearby to exert a gravitational force. Her mass is 70 kg regardless of where she is located.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.4 Mass and Weight",
+        "Problem Statement": "",
+        "Question": "Which of the following statements is accurate? (a) Mass and weight are the same thing expressed in different units. (b) If an object has no weight, it must have no mass. (c) If the weight of an object varies, so must the mass. (d) Mass and inertia are different concepts. (e) Weight is always proportional to mass.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.4 Mass and Weight",
+        "Problem Statement": "",
+        "Question": "When you stand on Earth, your feet push against it with a force equal to your weight. Why doesn\u2019t Earth accelerate away from you?",
+        "Image Links": [],
+        "Answer": "The force you exert (a contact force equal in magnitude to your weight) is small. Earth is extremely massive by comparison. Thus, the acceleration of Earth would be incredibly small. To see this, use Newton\u2019s second law to calculate the acceleration you would cause if your weight is 600.0 N and the mass of Earth is $$6.00 \\times 10^{24} \\text{kg}$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.4 Mass and Weight",
+        "Problem Statement": "",
+        "Question": "How would you give the value of $$\\mathbf{\\vec{g}}$$ in vector form?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.5 Newton\u2019s Third Law",
+        "Problem Statement": "",
+        "Question": "Identify the action and reaction forces in the following situations: (a) Earth attracts the Moon, (b) a boy kicks a football, (c) a rocket accelerates upward, (d) a car accelerates forward, (e) a high jumper leaps, and (f) a bullet is shot from a gun.",
+        "Image Links": [],
+        "Answer": "a. action: Earth pulls on the Moon, reaction: Moon pulls on Earth; b. action: foot applies force to ball, reaction: ball applies force to foot; c. action: rocket pushes on gas, reaction: gas pushes back on rocket; d. action: car tires push backward on road, reaction: road pushes forward on tires; e. action: jumper pushes down on ground, reaction: ground pushes up on jumper; f. action: gun pushes forward on bullet, reaction: bullet pushes backward on gun.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.5 Newton\u2019s Third Law",
+        "Problem Statement": "",
+        "Question": "Suppose that you are holding a cup of coffee in your hand. Identify all forces on the cup and the reaction to each force.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.5 Newton\u2019s Third Law",
+        "Problem Statement": "",
+        "Question": "(a) Why does an ordinary rifle recoil (kick backward) when fired? (b) The barrel of a recoilless rifle is open at both ends. Describe how Newton\u2019s third law applies when one is fired. (c) Can you safely stand close behind one when it is fired?",
+        "Image Links": [],
+        "Answer": "a. The rifle (the shell supported by the rifle) exerts a force to expel the bullet; the reaction to this force is the force that the bullet exerts on the rifle (shell) in opposite direction. b. In a recoilless rifle, the shell is not secured in the rifle; hence, as the bullet is pushed to move forward, the shell is pushed to eject from the opposite end of the barrel. c. It is not safe to stand behind a recoilless rifle.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.6 Common Forces",
+        "Problem Statement": "",
+        "Question": "A table is placed on a rug. Then a book is placed on the table. What does the floor exert a normal force on?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.6 Common Forces",
+        "Problem Statement": "",
+        "Question": "A particle is moving to the right. (a) Can the force on it be acting to the left? If yes, what would happen? (b) Can that force be acting downward? If yes, why?",
+        "Image Links": [],
+        "Answer": "a. Yes, the force can be acting to the left; the particle would experience acceleration opposite to the motion and lose speed. B. Yes, the force can be acting downward because its weight acts downward even as it moves to the right.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.7 Drawing Free-Body Diagrams",
+        "Problem Statement": "",
+        "Question": "In completing the solution for a problem involving forces, what do we do after constructing the free-body diagram? That is, what do we apply?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.7 Drawing Free-Body Diagrams",
+        "Problem Statement": "",
+        "Question": "If a book is located on a table, how many forces should be shown in a free-body diagram of the book? Describe them.",
+        "Image Links": [],
+        "Answer": "two forces of different types: weight acting downward and normal force acting upward",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.7 Drawing Free-Body Diagrams",
+        "Problem Statement": "",
+        "Question": "If the book in the previous question is in free fall, how many forces should be shown in a free-body diagram of the book? Describe them.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The truck shown below is initially at rest with solid cylindrical roll of paper sitting on its bed. If the truck moves forward with a uniform acceleration a , what distance s does it move before the paper rolls off its back end? ( Hint : If the roll accelerates forward with $$a^{\\prime}$$ , then is accelerates backward relative to the truck with an acceleration $$a - a^{\\prime}$$ . Also, $$R \\alpha = a - a^{\\prime}$$ .)",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/bcae7ac6f572c0c72ef968e7f260f41972d018bc"
+        ],
+        "Answer": "Assume the roll accelerates forward with respect to the ground with an acceleration $$a^{\\prime}$$ . Then it accelerates backwards relative to the truck with an acceleration $$( a - a^{\\prime} )$$ . Also, $$R \\alpha = a - a^{\\prime} I = \\frac{1}{2} m R^{2} \\sum F_{x} = f_{s} = m a^{\\prime}$$ , $$\\sum \\tau = f_{s} R = I \\alpha = I \\frac{a - a^{\\prime}}{R} f_{s} = \\frac{I}{R^{2}} ( a - a^{\\prime} ) = \\frac{1}{2} m ( a - a^{\\prime} )$$ , Solving for $$a^{\\prime}$$ : $$f_{s} = \\frac{1}{2} m ( a - a^{\\prime} )$$ ; $$a^{\\prime} = \\frac{a}{3}$$ , $$x - x_{0} = v_{0} t + \\frac{1}{2} a t^{2} ; d = \\frac{1}{3} a t^{2} ; t = \\sqrt{\\frac{3 d}{a}} ;$$ therefore, $$s = 1.5 d$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ec3a861cd7983ca0be1d441e65db791fb63b0944"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A bowling ball of radius 8.5 cm is tossed onto a bowling lane with speed 9.0 m/s. The direction of the toss is to the left, as viewed by the observer, so the bowling ball starts to rotate counterclockwise when in contact with the floor. The coefficient of kinetic friction on the lane is 0.3. (a) What is the time required for the ball to come to the point where it is not slipping? What is the distance d to the point where the ball is rolling without slipping?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A small ball of mass 0.50 kg is attached by a massless string to a vertical rod that is spinning as shown below. When the rod has an angular velocity of 6.0 rad/s, the string makes an angle of $$30 \\text{\u00b0}$$ with respect to the vertical. (a) If the angular velocity is increased to 10.0 rad/s, what is the new angle of the string? (b) Calculate the initial and final angular momenta of the ball. (c) Can the rod spin fast enough so that the ball is horizontal?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/488d40644c408a14c9fe05856540c4cc8b0f085c"
+        ],
+        "Answer": "a. The tension in the string provides the centripetal force such that $$T \\text{sin} \\theta = m r_{\\bot} \\upomega^{2}$$ . The component of the tension that is vertical opposes the gravitational force such that $$T \\text{cos} \\theta = m g$$ . This gives $$T = 5.7 \\text{N}$$ . We solve for $$r_{\\bot} = 0.16 \\text{m}$$ . This gives the length of the string as $$r = 0.32 \\text{m}$$ . At $$\\upomega = 10.0 \\text{rad} \\text{/} \\text{s}$$ , there is a new angle, tension, and perpendicular radius to the rod. Dividing the two equations involving the tension to eliminate it, we have $$\\frac{\\text{sin} \\theta}{\\text{cos} \\theta} = \\frac{( 0.32 \\text{m} \\text{sin} \\theta ) \\upomega^{2}}{g} \\Rightarrow \\frac{1}{\\text{cos} \\theta} = \\frac{0.32 \\text{m} \\upomega^{2}}{g}$$ ; $$\\text{cos} \\theta = 0.31 \\Rightarrow \\theta = 72.2 \\text{\u00b0}$$ ; b. $$l_{\\text{initial}} = 0.08 \\text{kg} \\cdotp \\text{m}^{2} \\text{/} \\text{s}$$ , $$l_{\\text{final}} = 0.46 \\text{kg} \\cdotp \\text{m}^{2} \\text{/} \\text{s}$$ ; c. No, the cosine of the angle is inversely proportional to the square of the angular velocity, therefore in order for $$\\theta \\vec{} 90 \\text{\u00b0} , \\upomega \\vec{} \\infty$$ . The rod would have to spin infinitely fast.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A bug flying horizontally at 1.0 m/s collides and sticks to the end of a uniform stick hanging vertically. After the impact, the stick swings out to a maximum angle of $$5.0 \\text{\u00b0}$$ from the vertical before rotating back. If the mass of the stick is 10 times that of the bug, calculate the length of the stick.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

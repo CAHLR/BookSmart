@@ -1,0 +1,186 @@
+[
+    {
+        "Topic": "12.1 Conditions for Static Equilibrium",
+        "Problem Statement": "",
+        "Question": "What can you say about the velocity of a moving body that is in dynamic equilibrium?",
+        "Image Links": [],
+        "Answer": "constant",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.1 Conditions for Static Equilibrium",
+        "Problem Statement": "",
+        "Question": "Under what conditions can a rotating body be in equilibrium? Give an example.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.1 Conditions for Static Equilibrium",
+        "Problem Statement": "",
+        "Question": "What three factors affect the torque created by a force relative to a specific pivot point?",
+        "Image Links": [],
+        "Answer": "magnitude and direction of the force, and its lever arm",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.1 Conditions for Static Equilibrium",
+        "Problem Statement": "",
+        "Question": "Mechanics sometimes put a length of pipe over the handle of a wrench when trying to remove a very tight bolt. How does this help?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.1 Conditions for Static Equilibrium",
+        "Problem Statement": "For the next four problems, evaluate the statement as either true or false and explain your answer.",
+        "Question": "If there is only one external force (or torque) acting on an object, it cannot be in equilibrium.",
+        "Image Links": [],
+        "Answer": "True, as the sum of forces cannot be zero in this case unless the force itself is zero.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.1 Conditions for Static Equilibrium",
+        "Problem Statement": "For the next four problems, evaluate the statement as either true or false and explain your answer.",
+        "Question": "If an object is in equilibrium there must be an even number of forces acting on it.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.1 Conditions for Static Equilibrium",
+        "Problem Statement": "For the next four problems, evaluate the statement as either true or false and explain your answer.",
+        "Question": "If an odd number of forces act on an object, the object cannot be in equilibrium.",
+        "Image Links": [],
+        "Answer": "False, provided forces add to zero as vectors then equilibrium can be achieved.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.1 Conditions for Static Equilibrium",
+        "Problem Statement": "For the next four problems, evaluate the statement as either true or false and explain your answer.",
+        "Question": "A body moving in a circle with a constant speed is in rotational equilibrium.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.1 Conditions for Static Equilibrium",
+        "Problem Statement": "For the next four problems, evaluate the statement as either true or false and explain your answer.",
+        "Question": "What purpose is served by a long and flexible pole carried by wire-walkers?",
+        "Image Links": [],
+        "Answer": "It helps a wire-walker to maintain equilibrium.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.2 Examples of Static Equilibrium",
+        "Problem Statement": "",
+        "Question": "Is it possible to rest a ladder against a rough wall when the floor is frictionless?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.2 Examples of Static Equilibrium",
+        "Problem Statement": "",
+        "Question": "Show how a spring scale and a simple fulcrum can be used to weigh an object whose weight is larger than the maximum reading on the scale.",
+        "Image Links": [],
+        "Answer": "(Proof)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.2 Examples of Static Equilibrium",
+        "Problem Statement": "",
+        "Question": "A painter climbs a ladder. Is the ladder more likely to slip when the painter is near the bottom or near the top?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.3 Stress, Strain, and Elastic Modulus",
+        "Problem Statement": "Note: Unless stated otherwise, the weights of the wires, rods, and other elements are assumed to be negligible. Elastic moduli of selected materials are given in Table 12.1 .",
+        "Question": "Why can a squirrel jump from a tree branch to the ground and run away undamaged, while a human could break a bone in such a fall?",
+        "Image Links": [],
+        "Answer": "In contact with the ground, stress in squirrel\u2019s limbs is smaller than stress in human\u2019s limbs.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.3 Stress, Strain, and Elastic Modulus",
+        "Problem Statement": "Note: Unless stated otherwise, the weights of the wires, rods, and other elements are assumed to be negligible. Elastic moduli of selected materials are given in Table 12.1 .",
+        "Question": "When a glass bottle full of vinegar warms up, both the vinegar and the glass expand, but the vinegar expands significantly more with temperature than does the glass. The bottle will break if it is filled up to its very tight cap. Explain why and how a pocket of air above the vinegar prevents the bottle from breaking.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.3 Stress, Strain, and Elastic Modulus",
+        "Problem Statement": "Note: Unless stated otherwise, the weights of the wires, rods, and other elements are assumed to be negligible. Elastic moduli of selected materials are given in Table 12.1 .",
+        "Question": "A thin wire strung between two nails in the wall is used to support a large picture. Is the wire likely to snap if it is strung tightly or if it is strung so that it sags considerably?",
+        "Image Links": [],
+        "Answer": "tightly",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.3 Stress, Strain, and Elastic Modulus",
+        "Problem Statement": "Note: Unless stated otherwise, the weights of the wires, rods, and other elements are assumed to be negligible. Elastic moduli of selected materials are given in Table 12.1 .",
+        "Question": "Review the relationship between stress and strain. Can you find any similarities between the two quantities?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.3 Stress, Strain, and Elastic Modulus",
+        "Problem Statement": "Note: Unless stated otherwise, the weights of the wires, rods, and other elements are assumed to be negligible. Elastic moduli of selected materials are given in Table 12.1 .",
+        "Question": "What type of stress are you applying when you press on the ends of a wooden rod? When you pull on its ends?",
+        "Image Links": [],
+        "Answer": "compressive; tensile",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.3 Stress, Strain, and Elastic Modulus",
+        "Problem Statement": "Note: Unless stated otherwise, the weights of the wires, rods, and other elements are assumed to be negligible. Elastic moduli of selected materials are given in Table 12.1 .",
+        "Question": "Can compressive stress be applied to a rubber band?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.3 Stress, Strain, and Elastic Modulus",
+        "Problem Statement": "Note: Unless stated otherwise, the weights of the wires, rods, and other elements are assumed to be negligible. Elastic moduli of selected materials are given in Table 12.1 .",
+        "Question": "Can Young\u2019s modulus have a negative value? What about the bulk modulus?",
+        "Image Links": [],
+        "Answer": "no",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.3 Stress, Strain, and Elastic Modulus",
+        "Problem Statement": "Note: Unless stated otherwise, the weights of the wires, rods, and other elements are assumed to be negligible. Elastic moduli of selected materials are given in Table 12.1 .",
+        "Question": "If a hypothetical material has a negative bulk modulus, what happens when you squeeze a piece of it?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.3 Stress, Strain, and Elastic Modulus",
+        "Problem Statement": "Note: Unless stated otherwise, the weights of the wires, rods, and other elements are assumed to be negligible. Elastic moduli of selected materials are given in Table 12.1 .",
+        "Question": "Discuss how you might measure the bulk modulus of a liquid.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.4 Elasticity and Plasticity",
+        "Problem Statement": "Note: Unless stated otherwise, the weights of the wires, rods, and other elements are assumed to be negligible. Elastic moduli of selected materials are given in Table 12.1 .",
+        "Question": "What is meant when a fishing line is designated as \u201ca 10-lb test?\u201d",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.4 Elasticity and Plasticity",
+        "Problem Statement": "Note: Unless stated otherwise, the weights of the wires, rods, and other elements are assumed to be negligible. Elastic moduli of selected materials are given in Table 12.1 .",
+        "Question": "Steel rods are commonly placed in concrete before it sets. What is the purpose of these rods?",
+        "Image Links": [],
+        "Answer": "It acts as \u201creinforcement,\u201d increasing a range of strain values before the structure reaches its breaking point.",
+        "Answer Image Links": []
+    }
+]

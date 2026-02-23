@@ -1,0 +1,26 @@
+[
+    {
+        "Topic": "Check Your Understanding 13.3",
+        "Problem Statement": "",
+        "Question": "Why not use the simpler expression $$\\text{Delta} U = m g ( y_{2} - y_{1} )$$ ? How significant would the error be? (Recall the previous result, in Example 13.4, that the value g at 400 km above the Earth is $$8.67 \\text{m/s}^{2}$$ .)",
+        "Image Links": [],
+        "Answer": "The value of g drops by about 10% over this change in height. So $$\\text{Delta} U = m g ( y_{2} - y_{1} )$$ will give too large a value. If we use $$g = 9.80 \\text{m/s}$$ , then we get $$\\text{Delta} U = m g ( y_{2} - y_{1} ) = 3.53 \\times 10^{10} \\text{J}$$ which is about 6% greater than that found with the correct method.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 13.4",
+        "Problem Statement": "",
+        "Question": "If we send a probe out of the solar system starting from Earth\u2019s surface, do we only have to escape the Sun?",
+        "Image Links": [],
+        "Answer": "The probe must overcome both the gravitational pull of Earth and the Sun. In the second calculation of our example, we found the speed necessary to escape the Sun from a distance of Earth\u2019s orbit, not from Earth itself. The proper way to find this value is to start with the energy equation, Equation 13.5, in which you would include a potential energy term for both Earth and the Sun.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 13.5",
+        "Problem Statement": "",
+        "Question": "Assume you are in a spacecraft in orbit about the Sun at Earth\u2019s orbit, but far away from Earth (so that it can be ignored). How could you redirect your tangential velocity to the radial direction such that you could then pass by Mars\u2019s orbit? What would be required to change just the direction of the velocity?",
+        "Image Links": [],
+        "Answer": "You change the direction of your velocity with a force that is perpendicular to the velocity at all points. In effect, you must constantly adjust the thrusters, creating a centripetal force until your momentum changes from tangential to radial. A simple momentum vector diagram shows that the net change in momentum is $$\\sqrt{2}$$ times the magnitude of momentum itself. This turns out to be a very inefficient way to reach Mars. We discuss the most efficient way in Kepler\u2019s Laws of Planetary Motion.",
+        "Answer Image Links": []
+    }
+]

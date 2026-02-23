@@ -1,0 +1,66 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A tunnel is dug through the center of a perfectly spherical and airless planet of radius R . Using the expression for g derived in Gravitation Near Earth\u2019s Surface for a uniform density, show that a particle of mass m dropped in the tunnel will execute simple harmonic motion. Deduce the period of oscillation of m and show that it has the same period as an orbit at the surface.",
+        "Image Links": [],
+        "Answer": "$$g = \\frac{4}{3} G \\rho \\pi r \\vec{} F = m g = [ \\frac{4}{3} G m \\rho \\pi ] r$$ , and from $$F = m \\frac{d^{2} r}{d t^{2}}$$ , we get $$\\frac{d^{2} r}{d t^{2}} = [ \\frac{4}{3} G \\rho \\pi ] r$$ where the first term is $$\\upomega^{2}$$ . Then $$T = \\frac{2 \\pi}{\\upomega} = 2 \\pi \\sqrt{\\frac{3}{4 G \\rho \\pi}}$$ and if we substitute $$\\rho = \\frac{M}{4 \\text{/} 3 \\pi R^{3}}$$ , we get the same expression as for the period of orbit R .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Following the technique used in Gravitation Near Earth\u2019s Surface, find the value of g as a function of the radius r from the center of a spherical shell planet of constant density $$\\rho$$ with inner and outer radii $$R_{\\text{in}}$$ and $$R_{\\text{out}}$$ . Find g for both $$R_{\\text{in}} < r < R_{\\text{out}}$$ and for $$r < R_{\\text{in}}$$ . Assuming the inside of the shell is kept airless, describe travel inside the spherical shell planet.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Show that the areal velocity for a circular orbit of radius r about a mass M is $$\\frac{\\text{Delta} A}{\\text{Delta} t} = \\frac{1}{2} \\sqrt{G M r}$$ . Does your expression give the correct value for Earth\u2019s areal velocity about the Sun?",
+        "Image Links": [],
+        "Answer": "Using the mass of the Sun and Earth\u2019s orbital radius, the equation gives $$2.24 \\times 10^{15} \\text{m}^{2} \\text{/s}$$ . The value of $$\\pi R_{\\text{ES}}^{2} \\text{/} ( 1 \\text{year} )$$ gives the same value.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Show that the period of orbit for two masses, $$m_{1}$$ and $$m_{2}$$ , in circular orbits of radii $$r_{1}$$ and $$r_{2}$$ , respectively, about their common center-of-mass, is given by $$T = 2 \\pi \\sqrt{\\frac{r^{3}}{G ( m_{1} + m_{2} )}} \\text{where} r = r_{1} + r_{2}$$ . ( Hint: The masses orbit at radii $$r_{1}$$ and $$r_{2}$$ , respectively where $$r = r_{1} + r_{2}$$ . Use the expression for the center-of-mass to relate the two radii and note that the two masses must have equal but opposite momenta. Start with the relationship of the period to the circumference and speed of orbit for one of the masses. Use the result of the previous problem using momenta in the expressions for the kinetic energy.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Show that for small changes in height h , such that $$h \\text{unicode[:<]} \\text{unicode[:<]} \\text{R}_{\\text{E}}$$ , Equation 13.4 reduces to the expression $$\\text{Delta} U = m \\text{g} h$$ .",
+        "Image Links": [],
+        "Answer": "$$\\text{Delta} U = U_{f} - U_{i} = - \\frac{G M_{\\text{E}} m}{r_{f}} + \\frac{G M_{\\text{E}} m}{r_{i}} = G M_{\\text{E}} m ( \\frac{r_{f} - r_{i}}{r_{f} r_{i}} )$$ where $$h = r_{f} - r_{i}$$ . If $$h \\text{unicode[:<]} \\text{unicode[:<]} \\text{R}_{\\text{E}}$$ , then $$r_{f} r_{i} \\approx R_{\\text{E}}^{2}$$ , and upon substitution, we have $$\\text{Delta} U = G M_{\\text{E}} m ( \\frac{h}{R_{\\text{E}}^{2}} ) = m ( \\frac{G M_{\\text{E}}}{R_{\\text{E}}^{2}} ) h$$ where we recognize the expression with the parenthesis as the definition of g .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Using Figure 13.9, carefully sketch a free body diagram for the case of a simple pendulum hanging at latitude lambda, labeling all forces acting on the point mass, m . Set up the equations of motion for equilibrium, setting one coordinate in the direction of the centripetal acceleration (toward P in the diagram), the other perpendicular to that. Show that the deflection angle $$\\varepsilon$$ , defined as the angle between the pendulum string and the radial direction toward the center of Earth, is given by the expression below. What is the deflection angle at latitude 45 degrees? Assume that Earth is a perfect sphere. $$\\text{tan} ( \\lambda + \\varepsilon ) = \\frac{g}{( g - \\upomega^{2} R_{\\text{E}} )} \\text{tan} \\lambda$$ , where $$\\upomega$$ is the angular velocity of Earth.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "(a) Show that tidal force on a small object of mass m , defined as the difference in the gravitational force that would be exerted on m at a distance at the near and the far side of the object, due to the gravitation at a distance R from M , is given by $$F_{\\text{tidal}} = \\frac{2 G M m}{R^{3}} \\text{Delta} r$$ where $$\\text{Delta} r$$ is the distance between the near and far side and $$\\text{Delta} r \\text{unicode[:<]} \\text{unicode[:<]} R$$ . (b) Assume you are falling feet first into the black hole at the center of our galaxy. It has mass of 4 million solar masses. What would be the difference between the force at your head and your feet at the Schwarzschild radius (event horizon)? Assume your feet and head each have mass 5.0 kg and are 2.0 m apart. Would you survive passing through the event horizon?",
+        "Image Links": [],
+        "Answer": "a. Find the difference in force, $$F_{\\text{tidal}} = = \\frac{2 G M m}{R^{3}} \\text{Delta} r$$ ; b. For the case given, using the Schwarzschild radius from a previous problem, we have a tidal force of $$9.5 \\times 10^{-3} \\text{N}$$ . This won\u2019t even be noticed!",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Find the Hohmann transfer velocities, $$\\text{Delta} v_{\\text{EllipseEarth}}^{}$$ and $$\\text{Delta} v_{\\text{EllipseMars}}^{}$$ , needed for a trip to Mars. Use Equation 13.7 to find the circular orbital velocities for Earth and Mars. Using Equation 13.4 and the total energy of the ellipse (with semi-major axis a ), given by $$E = - \\frac{G m M_{\\text{s}}}{2 a^{}}$$ , find the velocities at Earth (perihelion) and at Mars (aphelion) required to be on the transfer ellipse. The difference, $$\\text{Delta} v$$ , at each point is the velocity boost or transfer velocity needed.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

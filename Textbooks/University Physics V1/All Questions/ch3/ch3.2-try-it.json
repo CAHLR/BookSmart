@@ -1,0 +1,10 @@
+[
+    {
+        "Topic": "Check Your Understanding 3.2",
+        "Problem Statement": "",
+        "Question": "The position of an object as a function of time is $$x ( t ) = ( - 3 \\text{m/s}^{2} ) t^{2}$$ . (a) What is the velocity of the object as a function of time? (b) Is the velocity ever positive? (c) What are the velocity and speed at t = 1.0 s?",
+        "Image Links": [],
+        "Answer": "(a) Taking the derivative of x ( t ) gives v ( t ) = -6 t m/s. (b) No, because time can never be negative. (c) The velocity is v (1.0 s) = -6 m/s and the speed is $$| v ( 1.0 \\text{s} ) | = 6 \\text{m/s}$$ .",
+        "Answer Image Links": []
+    }
+]

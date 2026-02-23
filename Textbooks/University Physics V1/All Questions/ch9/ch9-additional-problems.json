@@ -1,0 +1,250 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Two 70-kg canoers paddle in a single, 50-kg canoe. Their paddling moves the canoe at 1.2 m/s with respect to the water, and the river they\u2019re in flows at 4 m/s with respect to the land. What is their momentum with respect to the land?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Which has a larger magnitude of momentum: a 3000-kg elephant moving at 40 km/h or a 60-kg cheetah moving at 112 km/h?",
+        "Image Links": [],
+        "Answer": "the elephant has a higher momentum",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A driver applies the brakes and reduces the speed of her car by 20%, without changing the direction in which the car is moving. By how much does the car\u2019s momentum change?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "You friend claims that momentum is mass multiplied by velocity, so things with more mass have more momentum. Do you agree? Explain.",
+        "Image Links": [],
+        "Answer": "Answers may vary. The first clause is true, but the second clause is not true in general because the velocity of an object with small mass may be large enough so that the momentum of the object is greater than that of a larger-mass object with a smaller velocity.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Dropping a glass on a cement floor is more likely to break the glass than if it is dropped from the same height on a grass lawn. Explain in terms of the impulse.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Your 1500-kg sports car accelerates from 0 to 30 m/s in 10 s. What average force is exerted on it during this acceleration?",
+        "Image Links": [],
+        "Answer": "$$4.5 \\times 10^{3} \\text{N}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A ball of mass $$m$$ is dropped. What is the formula for the impulse exerted on the ball from the instant it is dropped to an arbitrary time $$\\tau$$ later? Ignore air resistance.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Repeat the preceding problem, but including a drag force due to air of $$f_{\\text{drag}} = \\text{unicode[:-]} b \\vec{v} .$$",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\vec{J}} = \\int_{0}^{\\tau} [ m \\vec{g} - m \\vec{g} ( 1 - e^{\\text{unicode[:-]} b t \\text{/} m} ) ] d t = \\frac{m^{2}}{b} \\vec{g} ( e^{\\text{unicode[:-]} b \\tau \\text{/} m} - 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A 5.0-g egg falls from a 90-cm-high counter onto the floor and breaks. What impulse is exerted by the floor on the egg?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A car crashes into a large tree that does not move. The car goes from 30 m/s to 0 in 1.3 m. (a) What impulse is applied to the driver by the seatbelt, assuming he follows the same motion as the car? (b) What is the average force applied to the driver by the seatbelt?",
+        "Image Links": [],
+        "Answer": "a. $$\\text{unicode[:-]} ( 2.1 \\times 10^{3} \\text{kg} \\cdotp \\text{m/s} ) \\mathbf{\\hat{i}}$$ , b. $$\\text{unicode[:-]} ( 24 \\times 10^{3} \\text{N} ) \\mathbf{\\hat{i}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Two hockey players approach each other head on, each traveling at the same speed $$v_{\\text{i}}$$ . They collide and get tangled together, falling down and moving off at a speed $$v_{\\text{i}} \\text{/} 5$$ . What is the ratio of their masses?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "You are coasting on your 10-kg bicycle at 15 m/s and a 5.0-g bug splatters on your helmet. The bug was initially moving at 2.0 m/s in the same direction as you. If your mass is 60 kg, (a) what is the initial momentum of you plus your bicycle? (b) What is the initial momentum of the bug? (c) What is your change in velocity due to the collision with the bug? (d) What would the change in velocity have been if the bug were traveling in the opposite direction?",
+        "Image Links": [],
+        "Answer": "a. $$( 1.1 \\times 10^{3} \\text{kg} \\cdotp \\text{m/s} ) \\mathbf{\\hat{i}}$$ , b. $$( 0.010 \\text{kg} \\cdotp \\text{m/s} ) \\mathbf{\\hat{i}}$$ , c. $$\\text{unicode[:-]} ( 0.00093 \\text{m/s} ) \\mathbf{\\hat{i}}$$ , d. $$\\text{unicode[:-]} ( 0.0012 \\text{m/s} ) \\mathbf{\\hat{i}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A load of gravel is dumped straight down into a 30 000-kg freight car coasting at 2.2 m/s on a straight section of a railroad. If the freight car\u2019s speed after receiving the gravel is 1.5 m/s, what mass of gravel did it receive?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Two carts on a straight track collide head on. The first cart was moving at 3.6 m/s in the positive x direction and the second was moving at 2.4 m/s in the opposite direction. After the collision, the second car continues moving in its initial direction of motion at 0.24 m/s. If the mass of the second car is 5.0 times that of the first, what is the final velocity of the first car?",
+        "Image Links": [],
+        "Answer": "$$\\text{unicode[:-]} ( 7.2 \\text{m/s} ) \\mathbf{\\hat{i}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A 100-kg astronaut finds himself separated from his spaceship by 10 m and moving away from the spaceship at 0.1 m/s. To get back to the spaceship, he throws a 10-kg tool bag away from the spaceship at 5.0 m/s. How long will he take to return to the spaceship?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Derive the equations giving the final speeds for two objects that collide elastically, with the mass of the objects being $$m_{1}$$ and $$m_{2}$$ and the initial speeds being $$v_{\\text{1,i}}$$ and $$v_{\\text{2,i}} = 0$$ (i.e., second object is initially stationary).",
+        "Image Links": [],
+        "Answer": "$$v_{\\text{1,f}} = v_{\\text{1,i}} \\frac{m_{1} - m_{2}}{m_{1} + m_{2}} , v_{\\text{2,f}} = v_{\\text{1,i}} \\frac{2 m_{1}}{m_{1} + m_{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Repeat the preceding problem for the case when the initial speed of the second object is nonzero.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A child sleds down a hill and collides at 5.6 m/s into a stationary sled that is identical to his. The child is launched forward at the same speed, leaving behind the two sleds that lock together and slide forward more slowly. What is the speed of the two sleds after this collision?",
+        "Image Links": [],
+        "Answer": "2.8 m/s",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "For the preceding problem, find the final speed of each sled for the case of an elastic collision.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A 90-kg football player jumps vertically into the air to catch a 0.50-kg football that is thrown essentially horizontally at him at 17 m/s. What is his horizontal speed after catching the ball?",
+        "Image Links": [],
+        "Answer": "0.094 m/s",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Three skydivers are plummeting earthward. They are initially holding onto each other, but then push apart. Two skydivers of mass 70 and 80 kg gain horizontal velocities of 1.2 m/s east and 1.4 m/s southeast, respectively. What is the horizontal velocity of the third skydiver, whose mass is 55 kg?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Two billiard balls are at rest and touching each other on a pool table. The cue ball travels at 3.8 m/s along the line of symmetry between these balls and strikes them simultaneously. If the collision is elastic, what is the velocity of the three balls after the collision?",
+        "Image Links": [],
+        "Answer": "final velocity of cue ball is $$\\text{unicode[:-]} ( 0.76 \\text{m/s} ) \\mathbf{\\hat{i}}$$ , final velocities of the other two balls are 2.6 m/s at \u00b130\u00b0 with respect to the initial velocity of the cue ball",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A billiard ball traveling at $$( 2.2 \\text{m/s} ) \\mathbf{\\hat{i}} - ( 0.4 \\text{m/s} ) \\mathbf{\\hat{j}}$$ collides with a wall that is aligned in the $$\\mathbf{\\hat{j}}$$ direction. Assuming the collision is elastic, what is the final velocity of the ball?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Two identical billiard balls collide. The first one is initially traveling at $$( 2.2 \\text{m/s} ) \\mathbf{\\hat{i}} - ( 0.4 \\text{m/s} ) \\mathbf{\\hat{j}}$$ and the second one at $$\\text{unicode[:-]} ( 1.4 \\text{m/s} ) \\mathbf{\\hat{i}} + ( 2.4 \\text{m/s} ) \\mathbf{\\hat{j}}$$ . Suppose they collide when the center of ball 1 is at the origin and the center of ball 2 is at the point $$( 2 R , 0 )$$ where R is the radius of the balls. What is the final velocity of each ball?",
+        "Image Links": [],
+        "Answer": "ball 1: $$\\text{unicode[:-]} ( 1.4 \\text{m/s} ) \\mathbf{\\hat{i}} - ( 0.4 \\text{m/s} ) \\mathbf{\\hat{j}}$$ , ball 2: $$( 2.2 \\text{m/s} ) \\mathbf{\\hat{i}} + ( 2.4 \\text{m/s} ) \\mathbf{\\hat{j}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Repeat the preceding problem if the balls collide when the center of ball 1 is at the origin and the center of ball 2 is at the point $$( 0 , 2 R )$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Repeat the preceding problem if the balls collide when the center of ball 1 is at the origin and the center of ball 2 is at the point $$( \\sqrt{3} R \\text{/} 2 , R \\text{/} 2 )$$",
+        "Image Links": [],
+        "Answer": "ball 1: $$( 1.4 \\text{m/s} ) \\mathbf{\\hat{i}} - ( 1.7 \\text{m/s} ) \\mathbf{\\hat{j}}$$ , ball 2: $$\\text{unicode[:-]} ( 2.8 \\text{m/s} ) \\mathbf{\\hat{i}} + ( 0.012 \\text{m/s} ) \\mathbf{\\hat{j}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Where is the center of mass of a semicircular wire of radius R that is centered on the origin, begins and ends on the x axis, and lies in the x , y plane?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Where is the center of mass of a slice of pizza that was cut into eight equal slices? Assume the origin is at the apex of the slice and measure angles with respect to an edge of the slice. The radius of the pizza is R .",
+        "Image Links": [],
+        "Answer": "$$\u03b8_{\\text{cm}} = \\frac{1}{8} \\text{, } r_{\\text{cm}} = \\frac{8 R}{3 \\pi} \\sqrt{2 - \\sqrt{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "If 1% of the Earth\u2019s mass were transferred to the Moon, how far would the center of mass of the Earth-Moon-population system move? The mass of the Earth is $$5.97 \\times 10^{24} \\text{kg}$$ and that of the Moon is $$7.34 \\times 10^{22} \\text{kg}$$ . The radius of the Moon\u2019s orbit is about $$3.84 \\times 10^{5} \\text{m}$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "You friend wonders how a rocket continues to climb into the sky once it is sufficiently high above the surface of Earth so that its expelled gasses no longer push on the surface. How do you respond?",
+        "Image Links": [],
+        "Answer": "Answers may vary. The rocket is propelled forward not by the gasses pushing against the surface of Earth, but by conservation of momentum. The momentum of the gas being expelled out the back of the rocket must be compensated by an increase in the forward momentum of the rocket.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "To increase the acceleration of a rocket, should you throw rocks out of the front window of the rocket or out of the back window?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

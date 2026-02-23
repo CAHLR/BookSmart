@@ -1,0 +1,66 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Consider the equation y = mt +b , where the dimension of y is length and the dimension of t is time, and m and b are constants. What are the dimensions and SI units of (a) m and (b) b ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Consider the equation $$s = s_{0} + v_{0} t + a_{0} t^{2} \\text{/} 2 + j_{0} t^{3} \\text{/} 6 + S_{0} t^{4} \\text{/} 24 + c t^{5} \\text{/} 120 ,$$ where s is a length and t is a time. What are the dimensions and SI units of (a) $$s_{0} ,$$ (b) $$v_{0} ,$$ (c) $$a_{0} ,$$ (d) $$j_{0} ,$$ (e) $$S_{0} ,$$ and (f) c ?",
+        "Image Links": [],
+        "Answer": "a. $$[ s_{0} ] = \\text{L}$$ and units are meters (m); b. $$[ v_{0} ] = \\text{LT}^{-1}$$ and units are meters per second (m/s); c. $$[ a_{0} ] = \\text{LT}^{-2}$$ and units are meters per second squared (m/s^2); d. $$[ j_{0} ] = \\text{LT}^{-3}$$ and units are meters per second cubed (m/s^3); e. $$[ S_{0} ] = \\text{LT}^{-4}$$ and units are m/s^4; f. $$[ c ] = \\text{LT}^{-5}$$ and units are m/s^5.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "(a) A car speedometer has a 5% uncertainty. What is the range of possible speeds when it reads 90 km/h? (b) Convert this range to miles per hour. Note 1 km = 0.6214 mi.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A marathon runner completes a 42.188-km course in 2 h, 30 min, and 12 s. There is an uncertainty of 25 m in the distance traveled and an uncertainty of 1 s in the elapsed time. (a) Calculate the percent uncertainty in the distance. (b) Calculate the percent uncertainty in the elapsed time. (c) What is the average speed in meters per second? (d) What is the uncertainty in the average speed?",
+        "Image Links": [],
+        "Answer": "a. 0.059%; b. 0.01%; c. 4.681 m/s; d. 0.07%, 0.003 m/s",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The sides of a small rectangular box are measured to be 1.80 \u00b1 0.1 cm, 2.05 \u00b1 0.02 cm, and 3.1 \u00b1 0.1 cm long. Calculate its volume and uncertainty in cubic centimeters.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "When nonmetric units were used in the United Kingdom, a unit of mass called the pound-mass (lbm) was used, where 1 lbm = 0.4539 kg. (a) If there is an uncertainty of 0.0001 kg in the pound-mass unit, what is its percent uncertainty? (b) Based on that percent uncertainty, what mass in pound-mass has an uncertainty of 1 kg when converted to kilograms?",
+        "Image Links": [],
+        "Answer": "a. 0.02%; b. 1\u00d710^4 lbm",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The length and width of a rectangular room are measured to be 3.955 \u00b1 0.005 m and 3.050 \u00b1 0.005 m. Calculate the area of the room and its uncertainty in square meters.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A car engine moves a piston with a circular cross-section of 7.500 \u00b1 0.002 cm in diameter a distance of 3.250 \u00b1 0.001 cm to compress the gas in the cylinder. (a) By what amount is the gas decreased in volume in cubic centimeters? (b) Find the uncertainty in this volume.",
+        "Image Links": [],
+        "Answer": "a. 143.6 cm^3; b. 0.1 cm^3 or 0.084%",
+        "Answer Image Links": []
+    }
+]

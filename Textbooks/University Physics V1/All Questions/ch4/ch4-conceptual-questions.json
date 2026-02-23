@@ -1,0 +1,132 @@
+[
+    {
+        "Topic": "4.1 Displacement and Velocity Vectors",
+        "Problem Statement": "",
+        "Question": "What form does the trajectory of a particle have if the distance from any point A to point B is equal to the magnitude of the displacement from A to B ?",
+        "Image Links": [],
+        "Answer": "straight line",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.1 Displacement and Velocity Vectors",
+        "Problem Statement": "",
+        "Question": "Give an example of a trajectory in two or three dimensions caused by independent perpendicular motions.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.1 Displacement and Velocity Vectors",
+        "Problem Statement": "",
+        "Question": "If the instantaneous velocity is zero, what can be said about the slope of the position function?",
+        "Image Links": [],
+        "Answer": "The slope must be zero because the velocity vector is tangent to the graph of the position function.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Acceleration Vector",
+        "Problem Statement": "",
+        "Question": "If the position function of a particle is a linear function of time, what can be said about its acceleration?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Acceleration Vector",
+        "Problem Statement": "",
+        "Question": "If an object has a constant x -component of the velocity and suddenly experiences an acceleration in the y direction, does the x- component of its velocity change?",
+        "Image Links": [],
+        "Answer": "No, motions in perpendicular directions are independent.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Acceleration Vector",
+        "Problem Statement": "",
+        "Question": "If an object has a constant x- component of velocity and suddenly experiences an acceleration at an angle of $$70 \\text{\u00b0}$$ in the x direction, does the x- component of velocity change?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Projectile Motion",
+        "Problem Statement": "",
+        "Question": "Answer the following questions for projectile motion on level ground assuming negligible air resistance, with the initial angle being neither $$0 \\text{\u00b0}$$ nor $$90 \\text{\u00b0} :$$ (a) Is the velocity ever zero? (b) When is the velocity a minimum? A maximum? (c) Can the velocity ever be the same as the initial velocity at a time other than at t = 0? (d) Can the speed ever be the same as the initial speed at a time other than at t = 0?",
+        "Image Links": [],
+        "Answer": "a. no; b. minimum at apex of trajectory and maximum at launch and impact; c. no, velocity is a vector; d. yes, where it lands",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Projectile Motion",
+        "Problem Statement": "",
+        "Question": "Answer the following questions for projectile motion on level ground assuming negligible air resistance, with the initial angle being neither $$0 \\text{\u00b0}$$ nor $$90 \\text{\u00b0} :$$ (a) Is the acceleration ever zero? (b) Is the vector $$\\mathbf{\\vec{v}}$$ ever parallel or antiparallel to the vector $$\\mathbf{\\vec{a}}$$ ? (c) Is the vector v ever perpendicular to the vector a? If so, where is this located?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Projectile Motion",
+        "Problem Statement": "",
+        "Question": "A dime is placed at the edge of a table so it hangs over slightly. A quarter is slid horizontally on the table surface perpendicular to the edge and hits the dime head on. Which coin hits the ground first?",
+        "Image Links": [],
+        "Answer": "They both hit the ground at the same time.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.4 Uniform and Nonuniform Circular Motion",
+        "Problem Statement": "",
+        "Question": "Can centripetal acceleration change the speed of a particle undergoing circular motion?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.4 Uniform and Nonuniform Circular Motion",
+        "Problem Statement": "",
+        "Question": "Can tangential acceleration change the speed of a particle undergoing circular motion?",
+        "Image Links": [],
+        "Answer": "yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.5 Relative Motion in One and Two Dimensions",
+        "Problem Statement": "",
+        "Question": "What frame or frames of reference do you use instinctively when driving a car? When flying in a commercial jet?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.5 Relative Motion in One and Two Dimensions",
+        "Problem Statement": "",
+        "Question": "A basketball player dribbling down the court usually keeps his eyes fixed on the players around him. He is moving fast. Why doesn\u2019t he need to keep his eyes on the ball?",
+        "Image Links": [],
+        "Answer": "If he is going to pass the ball to another player, he needs to keep his eyes on the reference frame in which the other players on the team are located.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.5 Relative Motion in One and Two Dimensions",
+        "Problem Statement": "",
+        "Question": "If someone is riding in the back of a pickup truck and throws a softball straight backward, is it possible for the ball to fall straight down as viewed by a person standing at the side of the road? Under what condition would this occur? How would the motion of the ball appear to the person who threw it?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.5 Relative Motion in One and Two Dimensions",
+        "Problem Statement": "",
+        "Question": "The hat of a jogger running at constant velocity falls off the back of his head. Draw a sketch showing the path of the hat in the jogger\u2019s frame of reference. Draw its path as viewed by a stationary observer. Neglect air resistance.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c236381517b344907a607cccfeb9dc2ca4b6baec"
+        ]
+    },
+    {
+        "Topic": "4.5 Relative Motion in One and Two Dimensions",
+        "Problem Statement": "",
+        "Question": "A clod of dirt falls from the bed of a moving truck. It strikes the ground directly below the end of the truck. (a) What is the direction of its velocity relative to the truck just before it hits? (b) Is this the same as the direction of its velocity relative to ground just before it hits? Explain your answers.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

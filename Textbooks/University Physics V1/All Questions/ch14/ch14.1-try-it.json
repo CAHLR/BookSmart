@@ -1,0 +1,12 @@
+[
+    {
+        "Topic": "Check Your Understanding 14.1",
+        "Problem Statement": "",
+        "Question": "If the reservoir in Example 14.1 covered twice the area, but was kept to the same depth, would the dam need to be redesigned?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/bdb7b78b0285a91fef5c0325050db783cef56282"
+        ],
+        "Answer": "The pressure found in part (a) of the example is completely independent of the width and length of the lake; it depends only on its average depth at the dam. Thus, the force depends only on the water\u2019s average depth and the dimensions of the dam, not on the horizontal extent of the reservoir. In the diagram, note that the thickness of the dam increases with depth to balance the increasing force due to the increasing pressure.",
+        "Answer Image Links": []
+    }
+]

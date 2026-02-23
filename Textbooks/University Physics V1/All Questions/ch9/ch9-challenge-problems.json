@@ -1,0 +1,48 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A 65-kg person jumps from the first floor window of a burning building and lands almost vertically on the ground with a horizontal velocity of 3 m/s and vertical velocity of $$-9 \\text{m/s}$$ . Upon impact with the ground he is brought to rest in a short time. The force experienced by his feet depends on whether he keeps his knees stiff or bends them. Find the force on his feet in each case. A. First find the impulse on the person from the impact on the ground. Calculate both its magnitude and direction. B. Find the average force on the feet if the person keeps his leg stiff and straight and his center of mass drops by only 1 cm vertically and 1 cm horizontally during the impact. C. Find the average force on the feet if the person bends his legs throughout the impact so that his center of mass drops by 50 cm vertically and 5 cm horizontally during the impact. D. Compare the results of part (b) and (c), and draw conclusions about which way is better. You will need to find the time the impact lasts by making reasonable assumptions about the acceleration opposite to the motion. Although the force is not constant during the impact, working with constant average force for this problem is acceptable.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7d24613413c27c3797323558456b55620b2433df"
+        ],
+        "Answer": "a. $$617 \\text{N} \\cdotp \\text{s}$$ , 108\u00b0; b. $$F_{x} = 2.91 \\times 10^{4} \\text{N}$$ , $$F_{y} = 2.6 \\times 10^{5} \\text{N}$$ ; c. $$F_{x} = 5850 \\text{N}$$ , $$F_{y} = 5265 \\text{N}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Two projectiles of mass $$m_{1}$$ and $$m_{2}$$ are \ufb01red at the same speed but in opposite directions from two launch sites separated by a distance D . They both reach the same spot in their highest point and strike there. As a result of the impact they stick together and move as a single body afterwards. Find the place they will land.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Two identical objects (such as billiard balls) have a one-dimensional collision in which one is initially motionless. After the collision, the moving object is stationary and the other moves with the same speed as the other originally had. Show that both momentum and kinetic energy are conserved.",
+        "Image Links": [],
+        "Answer": "Conservation of momentum demands $$m_{1} v_{\\text{1,i}} + m_{2} v_{\\text{2,i}} = m_{1} v_{\\text{1,f}} + m_{2} v_{\\text{2,f}}$$ . We are given that $$m_{1} = m_{2}$$ , $$v_{\\text{1,i}} = v_{\\text{2,f}}$$ , and $$v_{\\text{2,i}} = v_{\\text{1,f}} = 0$$ . Combining these equations with the equation given by conservation of momentum gives $$v_{\\text{1,i}} = v_{\\text{1,i}}$$ , which is true, so conservation of momentum is satisfied. Conservation of energy demands $$\\frac{1}{2} m_{1} v_{\\text{1,i}}^{2} + \\frac{1}{2} m_{2} v_{\\text{2,i}}^{2} = \\frac{1}{2} m_{1} v_{\\text{1,f}}^{2} + \\frac{1}{2} m_{2} v_{\\text{2,f}}^{2}$$ . Again combining this equation with the conditions given above give $$v_{\\text{1,i}} = v_{\\text{1,i}}$$ , so conservation of energy is satisfied.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A ramp of mass M is at rest on a horizontal surface. A small cart of mass m is placed at the top of the ramp and released. What are the velocities of the ramp and the cart relative to the ground at the instant the cart leaves the ramp?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8694b68c1eda62237d40297c551373bc7a5aa698"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Find the center of mass of the structure given in the figure below. Assume a uniform thickness of 20 cm, and a uniform density of $$1 \\text{g/cm}^{3} .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/cd26eaf2b35802d6a6e1ea805004cfe14a7494ea"
+        ],
+        "Answer": "Assume origin on centerline and at floor, then $$( x_{\\text{CM}} , y_{\\text{CM}} ) = ( 0,86 \\text{cm} )$$",
+        "Answer Image Links": []
+    }
+]

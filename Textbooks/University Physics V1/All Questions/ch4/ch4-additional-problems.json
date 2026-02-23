@@ -1,0 +1,164 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A Formula One race car is traveling at 89.0 m/s along a straight track enters a turn on the race track with radius of curvature of 200.0 m. What centripetal acceleration must the car have to stay on the track?",
+        "Image Links": [],
+        "Answer": "$$a_{\\text{C}} = 39.6 \\text{m} \\text{/} \\text{s}^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A particle travels in a circular orbit of radius 10 m. Its speed is changing at a rate of $$15.0 \\text{m} \\text{/} \\text{s}^{2}$$ at an instant when its speed is 40.0 m/s. What is the magnitude of the acceleration of the particle?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The driver of a car moving at 90.0 km/h presses down on the brake as the car enters a circular curve of radius 150.0 m. If the speed of the car is decreasing at a rate of 9.0 km/h each second, what is the magnitude of the acceleration of the car at the instant its speed is 60.0 km/h?",
+        "Image Links": [],
+        "Answer": "$$90.0 \\text{km} \\text{/} \\text{h} = 25.0 \\text{m} \\text{/} \\text{s,} 9.0 \\text{km} \\text{/} \\text{h} = 2.5 \\text{m} \\text{/} \\text{s} ,$$ $$60.0 \\text{km} \\text{/} \\text{h} = 16.7 \\text{m} \\text{/} \\text{s}$$ $$a_{\\text{T}} = -2.5 \\text{m/s}^{\\text{2}} \\text{,} a_{\\text{C}} = 1.86 \\text{m} \\text{/} \\text{s}^{2} , a = 3.1 \\text{m} \\text{/} \\text{s}^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A race car entering the curved part of the track at the Daytona 500 drops its speed from 85.0 m/s to 80.0 m/s in 2.0 s. If the radius of the curved part of the track is 316.0 m, calculate the total acceleration of the race car at the beginning and ending of reduction of speed.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "An elephant is located on Earth\u2019s surface at a latitude $$\\lambda .$$ Calculate the centripetal acceleration of the elephant resulting from the rotation of Earth around its polar axis. Express your answer in terms of $$\\lambda ,$$ the radius $$R_{E}$$ of Earth, and time T for one rotation of Earth. Compare your answer with g for $$\\lambda = 40 \\text{\u00b0} .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/87360a3e2afddcd34ac04e695426a5e0bd53ea9d"
+        ],
+        "Answer": "The radius of the circle of revolution at latitude $$\\lambda$$ is $$R_{E} \\text{cos} \\lambda .$$ The velocity of the body is $$\\frac{2 \\pi r}{T} . a_{C} = \\frac{4 \\pi^{2} R_{E} \\text{cos} \\lambda}{T^{2}}$$ for $$\\lambda = 40 \\text{\u00b0} , a_{\\text{C}} = 0.26 \\text{%} g$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A proton in a synchrotron is moving in a circle of radius 1 km and increasing its speed by $$v ( t ) = c_{1} + c_{2} t^{2} , \\text{where} c_{1} = 2.0 \\times 10^{5} \\text{m} \\text{/} \\text{s,}$$ $$c_{2} = 10^{5} \\text{m} \\text{/} \\text{s}^{3} .$$ (a) What is the proton\u2019s total acceleration at t = 5.0 s? (b) At what time does the expression for the velocity become unphysical?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A propeller blade at rest starts to rotate from t = 0 s to t = 5.0 s with a tangential acceleration of the tip of the blade at $$3.00 \\text{m} \\text{/} \\text{s}^{2} .$$ The tip of the blade is 1.5 m from the axis of rotation. At t = 5.0 s, what is the total acceleration of the tip of the blade?",
+        "Image Links": [],
+        "Answer": "$$a_{\\text{T}} = 3.00 \\text{m} \\text{/} \\text{s}^{2}$$ $$v ( 5 \\text{s} ) = 15.00 \\text{m} \\text{/} \\text{s} a_{\\text{C}} = 150.00 \\text{m} \\text{/} \\text{s}^{2} \\theta = 88.8 \\text{\u00b0}$$ with respect to the tangent to the circle of revolution directed inward. $$| \\mathbf{\\vec{a}} | = 150.03 \\text{m} \\text{/} \\text{s}^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A particle is executing circular motion with a constant angular frequency of $$\\upomega = 4.00 \\text{rad} \\text{/} \\text{s} .$$ If time t = 0 corresponds to the position of the particle being located at y = 0 m and x = 5 m, (a) what is the position of the particle at t = 10 s? (b) What is its velocity at this time? (c) What is its acceleration?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A particle\u2019s centripetal acceleration is $$a_{\\text{C}} = 4.0 \\text{m} \\text{/} \\text{s}^{2}$$ at t = 0 s where it is on the x -axis and moving counterclockwise in the xy plane. It is executing uniform circular motion about an axis at a distance of 5.0 m. What is its velocity at t = 10 s?",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\vec{a}} ( t ) = \\text{unicode[:-]} A \\upomega^{2} \\text{cos} \\upomega t \\mathbf{\\hat{i}} - A \\upomega^{2} \\text{sin} \\upomega t \\mathbf{\\hat{j}}$$ $$a_{C} = 5.0 \\text{m} \\upomega^{2} \\upomega = 0.89 \\text{rad} \\text{/} \\text{s}$$ $$\\mathbf{\\vec{v}} ( t ) = -2.24 \\text{m} \\text{/} \\text{s} \\mathbf{\\hat{i}} - 3.87 \\text{m} \\text{/} \\text{s} \\mathbf{\\hat{j}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A rod 3.0 m in length is rotating at 2.0 rev/s about an axis at one end. Compare the centripetal accelerations at radii of (a) 1.0 m, (b) 2.0 m, and (c) 3.0 m.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A particle located initially at $$( 1.5 \\mathbf{\\hat{j}} + 4.0 \\mathbf{\\hat{k}} ) \\text{m}$$ undergoes a displacement of $$( 2.5 \\mathbf{\\hat{i}} + 3.2 \\mathbf{\\hat{j}} - 1.2 \\mathbf{\\hat{k}} ) \\text{m} \\text{.}$$ What is the final position of the particle?",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\vec{r}}_{1} = 1.5 \\mathbf{\\hat{j}} + 4.0 \\mathbf{\\hat{k}} \\mathbf{\\vec{r}}_{2} = \\text{Delta} \\mathbf{\\vec{r}} + \\mathbf{\\vec{r}}_{1} = 2.5 \\mathbf{\\hat{i}} + 4.7 \\mathbf{\\hat{j}} + 2.8 \\mathbf{\\hat{k}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The position of a particle is given by $$\\mathbf{\\vec{r}} ( t ) = ( 50 \\text{m} \\text{/} \\text{s} ) t \\mathbf{\\hat{i}} - ( 4.9 \\text{m} \\text{/} \\text{s}^{2} ) t^{2} \\mathbf{\\hat{j}} \\text{.}$$ (a) What are the particle\u2019s velocity and acceleration as functions of time? (b) What are the initial conditions to produce the motion?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A spaceship is traveling at a constant velocity of $$\\mathbf{\\vec{v}} ( t ) = 250.0 \\mathbf{\\hat{i}} \\text{m} \\text{/} \\text{s}$$ when its rockets fire, giving it an acceleration of $$\\mathbf{\\vec{a}} ( t ) = ( 3.0 \\mathbf{\\hat{i}} + 4.0 \\mathbf{\\hat{k}} ) \\text{m} \\text{/} \\text{s}^{2} .$$ What is its velocity $$5$$ s after the rockets fire?",
+        "Image Links": [],
+        "Answer": "$$v_{x} ( t ) = 265.0 \\text{m} \\text{/} \\text{s}$$ $$v_{y} ( t ) = 20.0 \\text{m} \\text{/} \\text{s}$$ $$\\mathbf{\\vec{v}} ( 5.0 \\text{s} ) = ( 265.0 \\mathbf{\\hat{i}} + 20.0 \\mathbf{\\hat{j}} ) \\text{m} \\text{/} \\text{s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A crossbow is aimed horizontally at a target 40 m away. The arrow hits 30 cm below the spot at which it was aimed. What is the initial velocity of the arrow?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A long jumper can jump a distance of 8.0 m when he takes off at an angle of $$45 \\text{\u00b0}$$ with respect to the horizontal. Assuming he can jump with the same initial speed at all angles, how much distance does he lose by taking off at $$30 \\text{\u00b0} ?$$",
+        "Image Links": [],
+        "Answer": "$$R = 1.07 \\text{m}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "On planet Arcon, the maximum horizontal range of a projectile launched at 10 m/s is 20 m. What is the acceleration of gravity on this planet?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A mountain biker encounters a jump on a race course that sends him into the air at $$60 \\text{\u00b0}$$ to the horizontal. If he lands at a horizontal distance of 45.0 m and 20 m below his launch point, what is his initial speed?",
+        "Image Links": [],
+        "Answer": "$$v_{0} = 20.1 \\text{m} \\text{/} \\text{s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Which has the greater centripetal acceleration, a car with a speed of 15.0 m/s along a circular track of radius 100.0 m or a car with a speed of 12.0 m/s along a circular track of radius 75.0 m?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A geosynchronous satellite orbits Earth at a distance of 42,250.0 km and has a period of 1 day. What is the centripetal acceleration of the satellite?",
+        "Image Links": [],
+        "Answer": "$$v = 3072.5 \\text{m} \\text{/} \\text{s}$$ $$a_{\\text{C}} = 0.223 \\text{m} \\text{/} \\text{s}^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Two speedboats are traveling at the same speed relative to the water in opposite directions in a moving river. An observer on the riverbank sees the boats moving at 4.0 m/s and 5.0 m/s. (a) What is the speed of the boats relative to the river? (b) How fast is the river moving relative to the shore?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]
