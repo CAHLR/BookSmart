@@ -1,0 +1,516 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Consider two athletes running at variable speeds $$v_{1} ( t )$$ and $$v_{2} ( t ) .$$ The runners start and finish a race at exactly the same time. Explain why the two runners must be going the same speed at some point.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Two mountain climbers start their climb at base camp, taking two different routes, one steeper than the other, and arrive at the peak at exactly the same time. Is it necessarily true that, at some point, both climbers increased in altitude at the same rate?",
+        "Image Links": [],
+        "Answer": "Yes. It is implied by the Mean Value Theorem for Integrals.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "To get on a certain toll road a driver has to take a card that lists the mile entrance point. The card also has a timestamp. When going to pay the toll at the exit, the driver is surprised to receive a speeding ticket along with the toll. Explain how this can happen.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Set $$F ( x ) = \\int_{1}^{x} ( 1 - t ) d t .$$ Find $$F^{\\prime} \\text{(} 2 )$$ and the average value of $$F^{\\text{unicode[:']}}$$ over $$[ 1 , 2 ] .$$",
+        "Image Links": [],
+        "Answer": "$$F^{\\prime} \\text{(} 2 ) = -1 ;$$ average value of $$F^{\\text{unicode[:']}}$$ over $$[ 1 , 2 ]$$ is $$-1 \\text{/} 2 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the Fundamental Theorem of Calculus, Part 1, to find each derivative.",
+        "Question": "$$\\frac{d}{d x} \\int_{1}^{x} e^{\\text{unicode[:-]} t^{2}} d t$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the Fundamental Theorem of Calculus, Part 1, to find each derivative.",
+        "Question": "$$\\frac{d}{d x} \\int_{1}^{x} e^{\\text{cos} t} d t$$",
+        "Image Links": [],
+        "Answer": "$$e^{\\text{cos} x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the Fundamental Theorem of Calculus, Part 1, to find each derivative.",
+        "Question": "$$\\frac{d}{d x} \\int_{3}^{x} \\sqrt{9 - y^{2}} d y$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the Fundamental Theorem of Calculus, Part 1, to find each derivative.",
+        "Question": "$$\\frac{d}{d x} \\int_{3}^{x} \\frac{d s}{\\sqrt{16 - s^{2}}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{\\sqrt{16 - x^{2}}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the Fundamental Theorem of Calculus, Part 1, to find each derivative.",
+        "Question": "$$\\frac{d}{d x} \\int_{x}^{2 x} t d t$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the Fundamental Theorem of Calculus, Part 1, to find each derivative.",
+        "Question": "$$\\frac{d}{d x} \\int_{0}^{\\sqrt{x}} t d t$$",
+        "Image Links": [],
+        "Answer": "$$\\sqrt{x} \\frac{d}{d x} \\sqrt{x} = \\frac{1}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the Fundamental Theorem of Calculus, Part 1, to find each derivative.",
+        "Question": "$$\\frac{d}{d x} \\int_{0}^{\\text{sin} x} \\sqrt{1 - t^{2}} d t$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the Fundamental Theorem of Calculus, Part 1, to find each derivative.",
+        "Question": "$$\\frac{d}{d x} \\int_{\\text{cos} x}^{1} \\sqrt{1 - t^{2}} d t$$",
+        "Image Links": [],
+        "Answer": "$$\\text{unicode[:-]} \\sqrt{1 - \\text{cos}^{2} x} \\frac{d}{d x} \\text{cos} x = | \\text{sin} x | \\text{sin} x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the Fundamental Theorem of Calculus, Part 1, to find each derivative.",
+        "Question": "$$\\frac{d}{d x} \\int_{1}^{\\sqrt{x}} \\frac{t^{2}}{1 + t^{4}} d t$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the Fundamental Theorem of Calculus, Part 1, to find each derivative.",
+        "Question": "$$\\frac{d}{d x} \\int_{1}^{x^{2}} \\frac{\\sqrt{t}}{1 + t} d t$$",
+        "Image Links": [],
+        "Answer": "$$2 x \\frac{| x |}{1 + x^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the Fundamental Theorem of Calculus, Part 1, to find each derivative.",
+        "Question": "$$\\frac{d}{d x} \\int_{0}^{\\text{ln} x} e^{t} d t$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the Fundamental Theorem of Calculus, Part 1, to find each derivative.",
+        "Question": "$$\\frac{d}{d x} \\int_{1}^{e^{x}} \\text{ln} u^{2} d u$$",
+        "Image Links": [],
+        "Answer": "$$\\text{ln} ( e^{2 x} ) \\frac{d}{d x} e^{x} = 2 x e^{x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the Fundamental Theorem of Calculus, Part 1, to find each derivative.",
+        "Question": "The graph of $$y = \\int_{0}^{x} f ( t ) d t ,$$ where f is a piecewise constant function, is shown here. Over which intervals is f positive? Over which intervals is it negative? Over which intervals, if any, is it equal to zero? What are the maximum and minimum values of f ? What is the average value of f ?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9765b01bd358332e65e5c8c4b8b00b66ee405707"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the Fundamental Theorem of Calculus, Part 1, to find each derivative.",
+        "Question": "The graph of $$y = \\int_{0}^{x} f ( t ) d t ,$$ where f is a piecewise constant function, is shown here. Over which intervals is f positive? Over which intervals is it negative? Over which intervals, if any, is it equal to zero? What are the maximum and minimum values of f ? What is the average value of f ?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/32a6c0932b2f1b11c50b6184988622933eed7c5c"
+        ],
+        "Answer": "a. f is positive over $$( 1 , 2 )$$ and $$( 5 , 6 ) ,$$ negative over $$( 0 , 1 )$$ and $$( 3 , 4 ) ,$$ and zero over $$( 2 , 3 )$$ and $$( 4 , 5 ) .$$ b. The maximum value is 2 and the minimum is -3. c. The average value is 0.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the Fundamental Theorem of Calculus, Part 1, to find each derivative.",
+        "Question": "The graph of $$y = \\int_{0}^{x} \\ell ( t ) d t ,$$ where \u2113 is a piecewise linear function, is shown here. Over which intervals is \u2113 positive? Over which intervals is it negative? Over which, if any, is it zero? Over which intervals is \u2113 increasing? Over which is it decreasing? Over which, if any, is it constant? What is the average value of \u2113 ?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b0195d2ad53a9324d695ce3f48fce95942027215"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the Fundamental Theorem of Calculus, Part 1, to find each derivative.",
+        "Question": "The graph of $$y = \\int_{0}^{x} \\ell ( t ) d t ,$$ where \u2113 is a piecewise linear function, is shown here. Over which intervals is \u2113 positive? Over which intervals is it negative? Over which, if any, is it zero? Over which intervals is \u2113 increasing? Over which is it decreasing? Over which intervals, if any, is it constant? What is the average value of \u2113 ?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5ea613f37b4dd3d8946c9fdc309c6d5c3d2c0176"
+        ],
+        "Answer": "a. \u2113 is positive over $$( 0 , 1 )$$ and $$( 3 , 6 ) ,$$ and negative over $$( 1 , 3 ) .$$ b. It is increasing over $$( 0 , 1 )$$ and $$( 3 , 5 ) ,$$ and it is constant over $$( 1 , 3 )$$ and $$( 5 , 6 ) .$$ c. Its average value is $$\\frac{1}{3} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use a calculator to estimate the area under the curve by computing T 10 , the average of the left- and right-endpoint Riemann sums using $$N = 10$$ rectangles. Then, using the Fundamental Theorem of Calculus, Part 2, determine the exact area.",
+        "Question": "[T] $$y = x^{2}$$ over $$[ 0 , 4 ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use a calculator to estimate the area under the curve by computing T 10 , the average of the left- and right-endpoint Riemann sums using $$N = 10$$ rectangles. Then, using the Fundamental Theorem of Calculus, Part 2, determine the exact area.",
+        "Question": "[T] $$y = x^{3} + 6 x^{2} + x - 5$$ over $$[ -4 , 2 ]$$",
+        "Image Links": [],
+        "Answer": "$$T_{10} = 49.08 , \\int_{-4}^{3} ( x^{3} + 6 x^{2} + x - 5 ) d x = 48$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use a calculator to estimate the area under the curve by computing T 10 , the average of the left- and right-endpoint Riemann sums using $$N = 10$$ rectangles. Then, using the Fundamental Theorem of Calculus, Part 2, determine the exact area.",
+        "Question": "[T] $$y = \\sqrt{x^{3}}$$ over $$[ 0 , 6 ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use a calculator to estimate the area under the curve by computing T 10 , the average of the left- and right-endpoint Riemann sums using $$N = 10$$ rectangles. Then, using the Fundamental Theorem of Calculus, Part 2, determine the exact area.",
+        "Question": "[T] $$y = \\sqrt{x} + x^{2}$$ over $$[ 1 , 9 ]$$",
+        "Image Links": [],
+        "Answer": "$$T_{10} = 260.836 , \\int_{1}^{9} ( \\sqrt{x} + x^{2} ) d x = 260$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use a calculator to estimate the area under the curve by computing T 10 , the average of the left- and right-endpoint Riemann sums using $$N = 10$$ rectangles. Then, using the Fundamental Theorem of Calculus, Part 2, determine the exact area.",
+        "Question": "[T] $$\\int ( \\text{cos} x - \\text{sin} x ) d x$$ over $$[ 0 , \\pi ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use a calculator to estimate the area under the curve by computing T 10 , the average of the left- and right-endpoint Riemann sums using $$N = 10$$ rectangles. Then, using the Fundamental Theorem of Calculus, Part 2, determine the exact area.",
+        "Question": "[T] $$\\int \\frac{4}{x^{2}} d x$$ over $$[ 1 , 4 ]$$",
+        "Image Links": [],
+        "Answer": "$$T_{10} = 3.058 , \\int_{1}^{4} \\frac{4}{x^{2}} d x = 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate each definite integral using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "$$\\int_{-1}^{2} ( x^{2} - 3 x ) d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate each definite integral using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "$$\\int_{-2}^{3} ( x^{2} + 3 x - 5 ) d x$$",
+        "Image Links": [],
+        "Answer": "$$F ( x ) = \\frac{x^{3}}{3} + \\frac{3 x^{2}}{2} - 5 x , F ( 3 ) - F ( -2 ) = - \\frac{35}{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate each definite integral using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "$$\\int_{-2}^{3} ( t + 2 ) ( t - 3 ) d t$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate each definite integral using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "$$\\int_{2}^{3} ( t^{2} - 9 ) ( 4 - t^{2} ) d t$$",
+        "Image Links": [],
+        "Answer": "$$F ( x ) = - \\frac{t^{5}}{5} + \\frac{13 t^{3}}{3} - 36 t , F ( 3 ) - F ( 2 ) = \\frac{62}{15}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate each definite integral using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "$$\\int_{1}^{2} x^{9} d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate each definite integral using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "$$\\int_{0}^{1} x^{99} d x$$",
+        "Image Links": [],
+        "Answer": "$$F ( x ) = \\frac{x^{100}}{100} , F ( 1 ) - F ( 0 ) = \\frac{1}{100}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate each definite integral using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "$$\\int_{4}^{8} ( 4 t^{5 \\text{/} 2} - 3 t^{3 \\text{/} 2} ) d t$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate each definite integral using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "$$\\int_{1 \\text{/} 4}^{4} ( x^{2} - \\frac{1}{x^{2}} ) d x$$",
+        "Image Links": [],
+        "Answer": "$$F ( x ) = \\frac{x^{3}}{3} + \\frac{1}{x} , F ( 4 ) - F ( \\frac{1}{4} ) = \\frac{1125}{64}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate each definite integral using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "$$\\int_{1}^{2} \\frac{2}{x^{3}} d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate each definite integral using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "$$\\int_{1}^{4} \\frac{1}{2 \\sqrt{x}} d x$$",
+        "Image Links": [],
+        "Answer": "$$F ( x ) = \\sqrt{x} , F ( 4 ) - F ( 1 ) = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate each definite integral using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "$$\\int_{1}^{4} \\frac{2 - \\sqrt{t}}{t^{2}} d t$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate each definite integral using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "$$\\int_{1}^{16} \\frac{d t}{t^{1 \\text{/} 4}}$$",
+        "Image Links": [],
+        "Answer": "$$F ( x ) = \\frac{4}{3} t^{3 \\text{/} 4} , F ( 16 ) - F ( 1 ) = \\frac{28}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate each definite integral using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "$$\\int_{0}^{2 \\pi} \\text{cos} \\theta d \\theta$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate each definite integral using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "$$\\int_{0}^{\\pi \\text{/} 2} \\text{sin} \\theta d \\theta$$",
+        "Image Links": [],
+        "Answer": "$$F ( x ) = \\text{unicode[:-]} \\text{cos} x , F ( \\frac{\\pi}{2} ) - F ( 0 ) = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate each definite integral using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "$$\\int_{0}^{\\pi \\text{/} 4} \\text{sec}^{2} \\theta d \\theta$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate each definite integral using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "$$\\int_{0}^{\\pi \\text{/} 4} \\text{sec} \\theta \\text{tan} \\theta d \\theta$$",
+        "Image Links": [],
+        "Answer": "$$F ( x ) = \\text{sec} x , F ( \\frac{\\pi}{4} ) - F ( 0 ) = \\sqrt{2} - 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate each definite integral using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "$$\\int_{\\pi \\text{/} 3}^{\\pi \\text{/} 4} \\text{csc} \\theta \\text{cot} \\theta d \\theta$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate each definite integral using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "$$\\int_{\\pi \\text{/} 4}^{\\pi \\text{/} 2} \\text{csc}^{2} \\theta d \\theta$$",
+        "Image Links": [],
+        "Answer": "$$F ( x ) = \\text{unicode[:-]} \\text{cot} ( x ) , F ( \\frac{\\pi}{2} ) - F ( \\frac{\\pi}{4} ) = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate each definite integral using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "$$\\int_{1}^{2} ( \\frac{1}{t^{2}} - \\frac{1}{t^{3}} ) d t$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate each definite integral using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "$$\\int_{-2}^{-1} ( \\frac{1}{t^{2}} - \\frac{1}{t^{3}} ) d t$$",
+        "Image Links": [],
+        "Answer": "$$F ( x ) = - \\frac{1}{x} + \\frac{1}{2 x^{2}} , F ( -1 ) - F ( -2 ) = \\frac{7}{8}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the evaluation theorem to express the integral as a function $$F ( x ) .$$",
+        "Question": "$$\\int_{a}^{x} t^{2} d t$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the evaluation theorem to express the integral as a function $$F ( x ) .$$",
+        "Question": "$$\\int_{1}^{x} e^{t} d t$$",
+        "Image Links": [],
+        "Answer": "$$F ( x ) = e^{x} - e$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the evaluation theorem to express the integral as a function $$F ( x ) .$$",
+        "Question": "$$\\int_{0}^{x} \\text{cos} t d t$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the evaluation theorem to express the integral as a function $$F ( x ) .$$",
+        "Question": "$$\\int_{\\text{unicode[:-]} x}^{x} \\text{sin} t d t$$",
+        "Image Links": [],
+        "Answer": "$$F ( x ) = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, identify the roots of the integrand to remove absolute values, then evaluate using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "$$\\int_{-2}^{3} | x | d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, identify the roots of the integrand to remove absolute values, then evaluate using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "$$\\int_{-2}^{4} | t^{2} - 2 t - 3 | d t$$",
+        "Image Links": [],
+        "Answer": "$$\\int_{-2}^{-1} ( t^{2} - 2 t - 3 ) d t - \\int_{-1}^{3} ( t^{2} - 2 t - 3 ) d t + \\int_{3}^{4} ( t^{2} - 2 t - 3 ) d t = \\frac{46}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, identify the roots of the integrand to remove absolute values, then evaluate using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "$$\\int_{0}^{\\pi} | \\text{cos} t | d t$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, identify the roots of the integrand to remove absolute values, then evaluate using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "$$\\int_{\\text{unicode[:-]} \\pi \\text{/} 2}^{\\pi \\text{/} 2} | \\text{sin} t | d t$$",
+        "Image Links": [],
+        "Answer": "$$\\text{unicode[:-]} \\int_{\\text{unicode[:-]} \\pi \\text{/} 2}^{0} \\text{sin} t d t + \\int_{0}^{\\pi \\text{/} 2} \\text{sin} t d t = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, identify the roots of the integrand to remove absolute values, then evaluate using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "Suppose that the number of hours of daylight on a given day in Seattle is modeled by the function $$-3.75 \\text{cos} ( \\frac{\\pi t}{6} ) + 12.25 ,$$ with t given in months and $$t = 0$$ corresponding to the winter solstice. What is the average number of daylight hours in a year? At which times t 1 and t 2 , where $$0 \\le t_{1} < t_{2} < 12 ,$$ do the number of daylight hours equal the average number? Write an integral that expresses the total number of daylight hours in Seattle between $$t_{1}$$ and $$t_{2} .$$ Compute the mean hours of daylight in Seattle between $$t_{1}$$ and $$t_{2} ,$$ where $$0 \\le t_{1} < t_{2} < 12 ,$$ and then between $$t_{2}$$ and $$t_{1} ,$$ and show that the average of the two is equal to the average day length.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, identify the roots of the integrand to remove absolute values, then evaluate using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "Suppose the rate of gasoline consumption over the course of a year in the United States can be modeled by a sinusoidal function of the form $$( 11.21 - \\text{cos} ( \\frac{\\pi t}{6} ) ) \\times 10^{9}$$ gal/mo. What is the average monthly consumption, and for which values of t is the rate at time t equal to the average rate? What is the number of gallons of gasoline consumed in the United States in a year? Write an integral that expresses the average monthly U.S. gas consumption during the part of the year between the beginning of April $$( t = 3 )$$ and the end of September $$( t = 9 \\text{).}$$",
+        "Image Links": [],
+        "Answer": "a. The average is $$11.21 \\times 10^{9}$$ since $$\\text{cos} ( \\frac{\\pi t}{6} )$$ has period 12 and integral 0 over any period. Consumption is equal to the average when $$\\text{cos} ( \\frac{\\pi t}{6} ) = 0 ,$$ when $$t = 3 ,$$ and when $$t = 9 .$$ b. Total consumption is the average rate times duration: $$11.21 \\times 12 \\times 10^{9} = 1.35 \\times 10^{11}$$ c. $$10^{9} ( 11.21 - \\frac{1}{6} \\int_{3}^{9} \\text{cos} ( \\frac{\\pi t}{6} ) d t ) = 10^{9} ( 11.21 + \\frac{2}{\\pi} ) = 11.84 x 10^{9}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, identify the roots of the integrand to remove absolute values, then evaluate using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "Explain why, if f is continuous over $$[ a , b ] ,$$ there is at least one point $$c \\in [ a , b ]$$ such that $$f ( c ) = \\frac{1}{b - a} \\int_{a}^{b} f ( t ) d t .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, identify the roots of the integrand to remove absolute values, then evaluate using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "Explain why, if f is continuous over $$[ a , b ]$$ and is not equal to a constant, there is at least one point $$M \\in [ a , b ]$$ such that $$f ( M ) > \\frac{1}{b - a} \\int_{a}^{b} f ( t ) d t$$ and at least one point $$m \\in [ a , b ]$$ such that $$f ( m ) < \\frac{1}{b - a} \\int_{a}^{b} f ( t ) d t .$$",
+        "Image Links": [],
+        "Answer": "If f is not constant, then its average is strictly smaller than the maximum and larger than the minimum, which are attained over $$[ a , b ]$$ by the extreme value theorem.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, identify the roots of the integrand to remove absolute values, then evaluate using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "Kepler\u2019s first law states that the planets move in elliptical orbits with the Sun at one focus. The closest point of a planetary orbit to the Sun is called the perihelion (for Earth, it currently occurs around January 3) and the farthest point is called the aphelion (for Earth, it currently occurs around July 4). Kepler\u2019s second law states that planets sweep out equal areas of their elliptical orbits in equal times. Thus, the two arcs indicated in the following figure are swept out in equal times. At what time of year is Earth moving fastest in its orbit? When is it moving slowest?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c06a9497fc32334eb28738656fb8d8a2d79c6042"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, identify the roots of the integrand to remove absolute values, then evaluate using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "A point on an ellipse with major axis length 2 a and minor axis length 2 b has the coordinates $$( a \\text{cos} \\theta , b \\text{sin} \\theta ) , 0 \\le \\theta \\le 2 \\pi .$$ Show that the distance from this point to the focus at $$( \\text{unicode[:-]} c , 0 )$$ is $$d ( \\theta ) = a + c \\text{cos} \\theta ,$$ where $$c = \\sqrt{a^{2} - b^{2}} .$$ Use these coordinates to show that the average distance $$\\overset{-}{d}$$ from a point on the ellipse to the focus at $$( \\text{unicode[:-]} c , 0 ) ,$$ with respect to angle \u03b8 , is a .",
+        "Image Links": [],
+        "Answer": "a. $$d^{2} \\theta = ( a \\text{cos} \\theta + c )^{2} + b^{2} \\text{sin}^{2} \\theta = a^{2} + c^{2} \\text{cos}^{2} \\theta + 2 a c \\text{cos} \\theta = ( a + c \\text{cos} \\theta )^{2} ;$$ b. $$\\overset{-}{d} = \\frac{1}{2 \\pi} \\int_{0}^{2 \\pi} ( a + 2 c \\text{cos} \\theta ) d \\theta = a$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, identify the roots of the integrand to remove absolute values, then evaluate using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "As implied earlier, according to Kepler\u2019s laws, Earth\u2019s orbit is an ellipse with the Sun at one focus. The perihelion for Earth\u2019s orbit around the Sun is 147,098,290 km and the aphelion is 152,098,232 km. By placing the major axis along the x -axis, find the average distance from Earth to the Sun. The classic definition of an astronomical unit (AU) is the distance from Earth to the Sun, and its value was computed as the average of the perihelion and aphelion distances. Is this definition justified?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, identify the roots of the integrand to remove absolute values, then evaluate using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "The force of gravitational attraction between the Sun and a planet is $$F ( \\theta ) = \\frac{G m M}{r^{2} ( \\theta )} ,$$ where m is the mass of the planet, M is the mass of the Sun, G is a universal constant, and $$r ( \\theta )$$ is the distance between the Sun and the planet when the planet is at an angle \u03b8 with the major axis of its orbit. Assuming that M , m , and the ellipse parameters a and b (half-lengths of the major and minor axes) are given, set up-but do not evaluate-an integral that expresses in terms of $$G , m , M , a , b$$ the average gravitational force between the Sun and the planet.",
+        "Image Links": [],
+        "Answer": "Mean gravitational force = $$\\frac{G m M}{2 \\pi} \\int_{0}^{2 \\pi} \\frac{1}{( a + 2 \\sqrt{a^{2} - b^{2}} \\text{cos} \\theta )^{2}} d \\theta .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, identify the roots of the integrand to remove absolute values, then evaluate using the Fundamental Theorem of Calculus, Part 2.",
+        "Question": "The displacement from rest of a mass attached to a spring satisfies the simple harmonic motion equation $$x ( t ) = A \\text{cos} ( \\upomega t - \\upphi ) ,$$ where $$\\upphi$$ is a phase constant, \u03c9 is the angular frequency, and A is the amplitude. Find the average velocity, the average speed (magnitude of velocity), the average displacement, and the average distance from rest (magnitude of displacement) of the mass.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,410 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the limit laws to evaluate each limit. Justify each step by indicating the appropriate limit law(s).",
+        "Question": "$$\\underset{x \\rightarrow 0}{\\text{lim}} \\left(\\right. 4 x^{2} - 2 x + 3 \\left.\\right)$$",
+        "Image Links": [],
+        "Answer": "Use constant multiple law and difference law: $$\\underset{x \\rightarrow 0}{\\text{lim}} \\left(\\right. 4 x^{2} - 2 x + 3 \\left.\\right) = 4 \\underset{x \\rightarrow 0}{\\text{lim}} x^{2} - 2 \\underset{x \\rightarrow 0}{\\text{lim}} x + \\underset{x \\rightarrow 0}{\\text{lim}} 3 = 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the limit laws to evaluate each limit. Justify each step by indicating the appropriate limit law(s).",
+        "Question": "$$\\underset{x \\rightarrow 1}{\\text{lim}} \\frac{x^{3} + 3 x^{2} + 5}{4 - 7 x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the limit laws to evaluate each limit. Justify each step by indicating the appropriate limit law(s).",
+        "Question": "$$\\underset{x \\rightarrow -2}{\\text{lim}} \\sqrt{x^{2} - 6 x + 3}$$",
+        "Image Links": [],
+        "Answer": "Use root law: $$\\underset{x \\rightarrow -2}{\\text{lim}} \\sqrt{x^{2} - 6 x + 3} = \\sqrt{\\underset{x \\rightarrow -2}{\\text{lim}} \\left(\\right. x^{2} - 6 x + 3 \\left.\\right)} = \\sqrt{19}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the limit laws to evaluate each limit. Justify each step by indicating the appropriate limit law(s).",
+        "Question": "$$\\underset{x \\rightarrow -1}{\\text{lim}} \\left(\\left(\\right. 9 x + 1 \\left.\\right)\\right)^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use direct substitution to evaluate each limit.",
+        "Question": "$$\\underset{x \\rightarrow 7}{\\text{lim}} x^{2}$$",
+        "Image Links": [],
+        "Answer": "49",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use direct substitution to evaluate each limit.",
+        "Question": "$$\\underset{x \\rightarrow -2}{\\text{lim}} \\left(\\right. 4 x^{2} - 1 \\left.\\right)$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use direct substitution to evaluate each limit.",
+        "Question": "$$\\underset{x \\rightarrow 0}{\\text{lim}} \\frac{1}{1 + \\text{sin} x}$$",
+        "Image Links": [],
+        "Answer": "1",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use direct substitution to evaluate each limit.",
+        "Question": "$$\\underset{x \\rightarrow 2}{\\text{lim}} e^{2 x - x^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use direct substitution to evaluate each limit.",
+        "Question": "$$\\underset{x \\rightarrow 1}{\\text{lim}} \\frac{2 - 7 x}{x + 6}$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{5}{7}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use direct substitution to evaluate each limit.",
+        "Question": "$$\\underset{x \\rightarrow 3}{\\text{lim}} \\text{ln} e^{3 x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use direct substitution to show that each limit leads to the indeterminate form $$0 \\text{/} 0 .$$ Then, evaluate the limit.",
+        "Question": "$$\\underset{x \\rightarrow 4}{\\text{lim}} \\frac{x^{2} - 16}{x - 4}$$",
+        "Image Links": [],
+        "Answer": "$$\\underset{x \\rightarrow 4}{\\text{lim}} \\frac{x^{2} - 16}{x - 4} = \\frac{16 - 16}{4 - 4} = \\frac{0}{0} ;$$ then, $$\\underset{x \\rightarrow 4}{\\text{lim}} \\frac{x^{2} - 16}{x - 4} = \\underset{x \\rightarrow 4}{\\text{lim}} \\frac{\\left(\\right. x + 4 \\left.\\right) \\left(\\right. x - 4 \\left.\\right)}{x - 4} = 8$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use direct substitution to show that each limit leads to the indeterminate form $$0 \\text{/} 0 .$$ Then, evaluate the limit.",
+        "Question": "$$\\underset{x \\rightarrow 2}{\\text{lim}} \\frac{x - 2}{x^{2} - 2 x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use direct substitution to show that each limit leads to the indeterminate form $$0 \\text{/} 0 .$$ Then, evaluate the limit.",
+        "Question": "$$\\underset{x \\rightarrow 6}{\\text{lim}} \\frac{3 x - 18}{2 x - 12}$$",
+        "Image Links": [],
+        "Answer": "$$\\underset{x \\rightarrow 6}{\\text{lim}} \\frac{3 x - 18}{2 x - 12} = \\frac{18 - 18}{12 - 12} = \\frac{0}{0} ;$$ then, $$\\underset{x \\rightarrow 6}{\\text{lim}} \\frac{3 x - 18}{2 x - 12} = \\underset{x \\rightarrow 6}{\\text{lim}} \\frac{3 \\left(\\right. x - 6 \\left.\\right)}{2 \\left(\\right. x - 6 \\left.\\right)} = \\frac{3}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use direct substitution to show that each limit leads to the indeterminate form $$0 \\text{/} 0 .$$ Then, evaluate the limit.",
+        "Question": "$$\\underset{h \\rightarrow 0}{\\text{lim}} \\frac{\\left(\\left(\\right. 1 + h \\left.\\right)\\right)^{2} - 1}{h}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use direct substitution to show that each limit leads to the indeterminate form $$0 \\text{/} 0 .$$ Then, evaluate the limit.",
+        "Question": "$$\\underset{t \\rightarrow 9}{\\text{lim}} \\frac{t - 9}{\\sqrt{t} - 3}$$",
+        "Image Links": [],
+        "Answer": "$$\\underset{x \\rightarrow 9}{\\text{lim}} \\frac{t - 9}{\\sqrt{t} - 3} = \\frac{9 - 9}{3 - 3} = \\frac{0}{0} ;$$ then, $$\\underset{t \\rightarrow 9}{\\text{lim}} \\frac{t - 9}{\\sqrt{t} - 3} = \\underset{t \\rightarrow 9}{\\text{lim}} \\frac{t - 9}{\\sqrt{t} - 3} \\frac{\\sqrt{t} + 3}{\\sqrt{t} + 3} = \\underset{t \\rightarrow 9}{\\text{lim}} \\left(\\right. \\sqrt{t} + 3 \\left.\\right) = 6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use direct substitution to show that each limit leads to the indeterminate form $$0 \\text{/} 0 .$$ Then, evaluate the limit.",
+        "Question": "$$\\underset{h \\rightarrow 0}{\\text{lim}} \\frac{\\frac{1}{a + h} - \\frac{1}{a}}{h} ,$$ where a is a non-zero real-valued constant",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use direct substitution to show that each limit leads to the indeterminate form $$0 \\text{/} 0 .$$ Then, evaluate the limit.",
+        "Question": "$$\\underset{\\theta \\rightarrow \\pi}{\\text{lim}} \\frac{\\text{sin} \\theta}{\\text{tan} \\theta}$$",
+        "Image Links": [],
+        "Answer": "$$\\underset{\\theta \\rightarrow \\pi}{\\text{lim}} \\frac{\\text{sin} \\theta}{\\text{tan} \\theta} = \\frac{\\text{sin} \\pi}{\\text{tan} \\pi} = \\frac{0}{0} ;$$ then, $$\\underset{\\theta \\rightarrow \\pi}{\\text{lim}} \\frac{\\text{sin} \\theta}{\\text{tan} \\theta} = \\underset{\\theta \\rightarrow \\pi}{\\text{lim}} \\frac{\\text{sin} \\theta}{\\frac{\\text{sin} \\theta}{\\text{cos} \\theta}} = \\underset{\\theta \\rightarrow \\pi}{\\text{lim}} \\text{cos} \\theta = -1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use direct substitution to show that each limit leads to the indeterminate form $$0 \\text{/} 0 .$$ Then, evaluate the limit.",
+        "Question": "$$\\underset{x \\rightarrow 1}{\\text{lim}} \\frac{x^{3} - 1}{x^{2} - 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use direct substitution to show that each limit leads to the indeterminate form $$0 \\text{/} 0 .$$ Then, evaluate the limit.",
+        "Question": "$$\\underset{x \\rightarrow 1 / 2}{\\text{lim}} \\frac{2 x^{2} + 3 x - 2}{2 x - 1}$$",
+        "Image Links": [],
+        "Answer": "$$\\underset{x \\rightarrow 1 / 2}{\\text{lim}} \\frac{2 x^{2} + 3 x - 2}{2 x - 1} = \\frac{\\frac{1}{2} + \\frac{3}{2} - 2}{1 - 1} = \\frac{0}{0} ;$$ then, $$\\underset{x \\rightarrow 1 / 2}{\\text{lim}} \\frac{2 x^{2} + 3 x - 2}{2 x - 1} = \\underset{x \\rightarrow 1 / 2}{\\text{lim}} \\frac{\\left(\\right. 2 x - 1 \\left.\\right) \\left(\\right. x + 2 \\left.\\right)}{2 x - 1} = \\frac{5}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use direct substitution to show that each limit leads to the indeterminate form $$0 \\text{/} 0 .$$ Then, evaluate the limit.",
+        "Question": "$$\\underset{x \\rightarrow -3}{\\text{lim}} \\frac{\\sqrt{x + 4} - 1}{x + 3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use direct substitution to obtain an undefined expression. Then, use the method of Example 2.23 to simplify the function to help determine the limit.",
+        "Question": "$$\\underset{x \\rightarrow \\left(-2\\right)^{-}}{\\text{lim}} \\frac{2 x^{2} + 7 x - 4}{x^{2} + x - 2}$$",
+        "Image Links": [],
+        "Answer": "-\u221e",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use direct substitution to obtain an undefined expression. Then, use the method of Example 2.23 to simplify the function to help determine the limit.",
+        "Question": "$$\\underset{x \\rightarrow \\left(-2\\right)^{+}}{\\text{lim}} \\frac{2 x^{2} + 7 x - 4}{x^{2} + x - 2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use direct substitution to obtain an undefined expression. Then, use the method of Example 2.23 to simplify the function to help determine the limit.",
+        "Question": "$$\\underset{x \\rightarrow 1^{-}}{\\text{lim}} \\frac{2 x^{2} + 7 x - 4}{x^{2} + x - 2}$$",
+        "Image Links": [],
+        "Answer": "-\u221e",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use direct substitution to obtain an undefined expression. Then, use the method of Example 2.23 to simplify the function to help determine the limit.",
+        "Question": "$$\\underset{x \\rightarrow 1^{+}}{\\text{lim}} \\frac{2 x^{2} + 7 x - 4}{x^{2} + x - 2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, assume that $$\\underset{x \\rightarrow 6}{\\text{lim}} f \\left(\\right. x \\left.\\right) = 4 , \\underset{x \\rightarrow 6}{\\text{lim}} g \\left(\\right. x \\left.\\right) = 9 ,$$ and $$\\underset{x \\rightarrow 6}{\\text{lim}} h \\left(\\right. x \\left.\\right) = 6 .$$ Use these three facts and the limit laws to evaluate each limit.",
+        "Question": "$$\\underset{x \\rightarrow 6}{\\text{lim}} 2 f \\left(\\right. x \\left.\\right) g \\left(\\right. x \\left.\\right)$$",
+        "Image Links": [],
+        "Answer": "$$\\underset{x \\rightarrow 6}{\\text{lim}} 2 f \\left(\\right. x \\left.\\right) g \\left(\\right. x \\left.\\right) = 2 \\underset{x \\rightarrow 6}{\\text{lim}} f \\left(\\right. x \\left.\\right) \\underset{x \\rightarrow 6}{\\text{lim}} g \\left(\\right. x \\left.\\right) = 72$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, assume that $$\\underset{x \\rightarrow 6}{\\text{lim}} f \\left(\\right. x \\left.\\right) = 4 , \\underset{x \\rightarrow 6}{\\text{lim}} g \\left(\\right. x \\left.\\right) = 9 ,$$ and $$\\underset{x \\rightarrow 6}{\\text{lim}} h \\left(\\right. x \\left.\\right) = 6 .$$ Use these three facts and the limit laws to evaluate each limit.",
+        "Question": "$$\\underset{x \\rightarrow 6}{\\text{lim}} \\frac{g \\left(\\right. x \\left.\\right) - 1}{f \\left(\\right. x \\left.\\right)}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, assume that $$\\underset{x \\rightarrow 6}{\\text{lim}} f \\left(\\right. x \\left.\\right) = 4 , \\underset{x \\rightarrow 6}{\\text{lim}} g \\left(\\right. x \\left.\\right) = 9 ,$$ and $$\\underset{x \\rightarrow 6}{\\text{lim}} h \\left(\\right. x \\left.\\right) = 6 .$$ Use these three facts and the limit laws to evaluate each limit.",
+        "Question": "$$\\underset{x \\rightarrow 6}{\\text{lim}} \\left(\\right. f \\left(\\right. x \\left.\\right) + \\frac{1}{3} g \\left(\\right. x \\left.\\right) \\left.\\right)$$",
+        "Image Links": [],
+        "Answer": "$$\\underset{x \\rightarrow 6}{\\text{lim}} \\left(\\right. f \\left(\\right. x \\left.\\right) + \\frac{1}{3} g \\left(\\right. x \\left.\\right) \\left.\\right) = \\underset{x \\rightarrow 6}{\\text{lim}} f \\left(\\right. x \\left.\\right) + \\frac{1}{3} \\underset{x \\rightarrow 6}{\\text{lim}} g \\left(\\right. x \\left.\\right) = 7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, assume that $$\\underset{x \\rightarrow 6}{\\text{lim}} f \\left(\\right. x \\left.\\right) = 4 , \\underset{x \\rightarrow 6}{\\text{lim}} g \\left(\\right. x \\left.\\right) = 9 ,$$ and $$\\underset{x \\rightarrow 6}{\\text{lim}} h \\left(\\right. x \\left.\\right) = 6 .$$ Use these three facts and the limit laws to evaluate each limit.",
+        "Question": "$$\\underset{x \\rightarrow 6}{\\text{lim}} \\frac{\\left(\\left(\\right. h \\left(\\right. x \\left.\\right) \\left.\\right)\\right)^{3}}{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, assume that $$\\underset{x \\rightarrow 6}{\\text{lim}} f \\left(\\right. x \\left.\\right) = 4 , \\underset{x \\rightarrow 6}{\\text{lim}} g \\left(\\right. x \\left.\\right) = 9 ,$$ and $$\\underset{x \\rightarrow 6}{\\text{lim}} h \\left(\\right. x \\left.\\right) = 6 .$$ Use these three facts and the limit laws to evaluate each limit.",
+        "Question": "$$\\underset{x \\rightarrow 6}{\\text{lim}} \\sqrt{g \\left(\\right. x \\left.\\right) - f \\left(\\right. x \\left.\\right)}$$",
+        "Image Links": [],
+        "Answer": "$$\\underset{x \\rightarrow 6}{\\text{lim}} \\sqrt{g \\left(\\right. x \\left.\\right) - f \\left(\\right. x \\left.\\right)} = \\sqrt{\\underset{x \\rightarrow 6}{\\text{lim}} g \\left(\\right. x \\left.\\right) - \\underset{x \\rightarrow 6}{\\text{lim}} f \\left(\\right. x \\left.\\right)} = \\sqrt{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, assume that $$\\underset{x \\rightarrow 6}{\\text{lim}} f \\left(\\right. x \\left.\\right) = 4 , \\underset{x \\rightarrow 6}{\\text{lim}} g \\left(\\right. x \\left.\\right) = 9 ,$$ and $$\\underset{x \\rightarrow 6}{\\text{lim}} h \\left(\\right. x \\left.\\right) = 6 .$$ Use these three facts and the limit laws to evaluate each limit.",
+        "Question": "$$\\underset{x \\rightarrow 6}{\\text{lim}} x \\cdot h \\left(\\right. x \\left.\\right)$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, assume that $$\\underset{x \\rightarrow 6}{\\text{lim}} f \\left(\\right. x \\left.\\right) = 4 , \\underset{x \\rightarrow 6}{\\text{lim}} g \\left(\\right. x \\left.\\right) = 9 ,$$ and $$\\underset{x \\rightarrow 6}{\\text{lim}} h \\left(\\right. x \\left.\\right) = 6 .$$ Use these three facts and the limit laws to evaluate each limit.",
+        "Question": "$$\\underset{x \\rightarrow 6}{\\text{lim}} \\left[\\right. \\left(\\right. x + 1 \\left.\\right) \\cdot f \\left(\\right. x \\left.\\right) \\left]\\right.$$",
+        "Image Links": [],
+        "Answer": "$$\\underset{x \\rightarrow 6}{\\text{lim}} \\left[\\right. \\left(\\right. x + 1 \\left.\\right) f \\left(\\right. x \\left.\\right) \\left]\\right. = \\left(\\right. \\underset{x \\rightarrow 6}{\\text{lim}} \\left(\\right. x + 1 \\left.\\right) \\left.\\right) \\left(\\right. \\underset{x \\rightarrow 6}{\\text{lim}} f \\left(\\right. x \\left.\\right) \\left.\\right) = 28$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, assume that $$\\underset{x \\rightarrow 6}{\\text{lim}} f \\left(\\right. x \\left.\\right) = 4 , \\underset{x \\rightarrow 6}{\\text{lim}} g \\left(\\right. x \\left.\\right) = 9 ,$$ and $$\\underset{x \\rightarrow 6}{\\text{lim}} h \\left(\\right. x \\left.\\right) = 6 .$$ Use these three facts and the limit laws to evaluate each limit.",
+        "Question": "$$\\underset{x \\rightarrow 6}{\\text{lim}} \\left(\\right. f \\left(\\right. x \\left.\\right) \\cdot g \\left(\\right. x \\left.\\right) - h \\left(\\right. x \\left.\\right) \\left.\\right)$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "[T] In the following exercises, use a calculator to draw the graph of each piecewise-defined function and study the graph to evaluate the given limits.",
+        "Question": "$$f ( x ) = \\{ \\left .\\begin{matrix}{aa}x^{2} , & x \\le 3 \\\\ x + 4 , & x > 3\\end{matrix}\\right .$$ $$\\underset{x \\rightarrow 3^{-}}{\\text{lim}} f \\left(\\right. x \\left.\\right)$$ $$\\underset{x \\rightarrow 3^{+}}{\\text{lim}} f \\left(\\right. x \\left.\\right)$$",
+        "Image Links": [],
+        "Answer": "a. 9; b. 7",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/cce3b4ab8b5422578e0b58a54c2b976b46e231a0"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "[T] In the following exercises, use a calculator to draw the graph of each piecewise-defined function and study the graph to evaluate the given limits.",
+        "Question": "$$g ( x ) = \\{ \\left .\\begin{matrix}{aa}x^{3} - 1 , & x \\le 0 \\\\ 1 , & x > 0\\end{matrix}\\right .$$ $$\\underset{x \\rightarrow 0^{-}}{\\text{lim}} g \\left(\\right. x \\left.\\right)$$ $$\\underset{x \\rightarrow 0^{+}}{\\text{lim}} g \\left(\\right. x \\left.\\right)$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "[T] In the following exercises, use a calculator to draw the graph of each piecewise-defined function and study the graph to evaluate the given limits.",
+        "Question": "$$h ( x ) = \\{ \\left .\\begin{matrix}{aa}x^{2} - 2 x + 1 , & x < 2 \\\\ 3 - x , & x \\geq 2\\end{matrix}\\right .$$ $$\\underset{x \\rightarrow 2^{-}}{\\text{lim}} h \\left(\\right. x \\left.\\right)$$ $$\\underset{x \\rightarrow 2^{+}}{\\text{lim}} h \\left(\\right. x \\left.\\right)$$",
+        "Image Links": [],
+        "Answer": "a. 1; b. 1",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6fbde1a2ec81d8f8a57adf77926722ff094043b0"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the following graphs and the limit laws to evaluate each limit. ",
+        "Question": "$$\\underset{x \\rightarrow \\left(-3\\right)^{+}}{\\text{lim}} \\left(\\right. f \\left(\\right. x \\left.\\right) + g \\left(\\right. x \\left.\\right) \\left.\\right)$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c099422995f8ebbb110aebc1dbf16314c3af71b6"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the following graphs and the limit laws to evaluate each limit. ",
+        "Question": "$$\\underset{x \\rightarrow \\left(-3\\right)^{-}}{\\text{lim}} \\left(\\right. f \\left(\\right. x \\left.\\right) - 3 g \\left(\\right. x \\left.\\right) \\left.\\right)$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c099422995f8ebbb110aebc1dbf16314c3af71b6"
+        ],
+        "Answer": "$$\\underset{x \\rightarrow \\left(-3\\right)^{-}}{\\text{lim}} \\left(\\right. f \\left(\\right. x \\left.\\right) - 3 g \\left(\\right. x \\left.\\right) \\left.\\right) = \\underset{x \\rightarrow \\left(-3\\right)^{-}}{\\text{lim}} f \\left(\\right. x \\left.\\right) - 3 \\underset{x \\rightarrow \\left(-3\\right)^{-}}{\\text{lim}} g \\left(\\right. x \\left.\\right) = 0 + 6 = 6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the following graphs and the limit laws to evaluate each limit. ",
+        "Question": "$$\\underset{x \\rightarrow 0}{\\text{lim}} \\frac{f \\left(\\right. x \\left.\\right) g \\left(\\right. x \\left.\\right)}{3}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c099422995f8ebbb110aebc1dbf16314c3af71b6"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the following graphs and the limit laws to evaluate each limit. ",
+        "Question": "$$\\underset{x \\rightarrow -5}{\\text{lim}} \\frac{2 + g \\left(\\right. x \\left.\\right)}{f \\left(\\right. x \\left.\\right)}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c099422995f8ebbb110aebc1dbf16314c3af71b6"
+        ],
+        "Answer": "$$\\underset{x \\rightarrow -5}{\\text{lim}} \\frac{2 + g \\left(\\right. x \\left.\\right)}{f \\left(\\right. x \\left.\\right)} = \\frac{2 + \\left(\\right. \\underset{x \\rightarrow -5}{\\text{lim}} g \\left(\\right. x \\left.\\right) \\left.\\right)}{\\underset{x \\rightarrow -5}{\\text{lim}} f \\left(\\right. x \\left.\\right)} = \\frac{2 + 0}{2} = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the following graphs and the limit laws to evaluate each limit. ",
+        "Question": "$$\\underset{x \\rightarrow 1}{\\text{lim}} \\left(\\left(\\right. f \\left(\\right. x \\left.\\right) \\left.\\right)\\right)^{2}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c099422995f8ebbb110aebc1dbf16314c3af71b6"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the following graphs and the limit laws to evaluate each limit. ",
+        "Question": "$$\\underset{x \\rightarrow 1}{\\text{lim}} \\sqrt[3]{f \\left(\\right. x \\left.\\right) - g \\left(\\right. x \\left.\\right)}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c099422995f8ebbb110aebc1dbf16314c3af71b6"
+        ],
+        "Answer": "$$\\underset{x \\rightarrow 1}{\\text{lim}} \\sqrt[3]{f \\left(\\right. x \\left.\\right) - g \\left(\\right. x \\left.\\right)} = \\sqrt[3]{\\underset{x \\rightarrow 1}{\\text{lim}} f \\left(\\right. x \\left.\\right) - \\underset{x \\rightarrow 1}{\\text{lim}} g \\left(\\right. x \\left.\\right)} = \\sqrt[3]{2 + 5} = \\sqrt[3]{7}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the following graphs and the limit laws to evaluate each limit. ",
+        "Question": "$$\\underset{x \\rightarrow -7}{\\text{lim}} \\left(\\right. x \\cdot g \\left(\\right. x \\left.\\right) \\left.\\right)$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c099422995f8ebbb110aebc1dbf16314c3af71b6"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the following graphs and the limit laws to evaluate each limit. ",
+        "Question": "$$\\underset{x \\rightarrow -9}{\\text{lim}} \\left[\\right. x \\cdot f \\left(\\right. x \\left.\\right) + 2 \\cdot g \\left(\\right. x \\left.\\right) \\left]\\right.$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c099422995f8ebbb110aebc1dbf16314c3af71b6"
+        ],
+        "Answer": "$$\\underset{x \\rightarrow -9}{\\text{lim}} \\left(\\right. x f \\left(\\right. x \\left.\\right) + 2 g \\left(\\right. x \\left.\\right) \\left.\\right) = \\left(\\right. \\underset{x \\rightarrow -9}{\\text{lim}} x \\left.\\right) \\left(\\right. \\underset{x \\rightarrow -9}{\\text{lim}} f \\left(\\right. x \\left.\\right) \\left.\\right) + 2 \\underset{x \\rightarrow -9}{\\text{lim}} \\left(\\right. g \\left(\\right. x \\left.\\right) \\left.\\right) = \\left(\\right. -9 \\left.\\right) \\left(\\right. 6 \\left.\\right) + 2 \\left(\\right. 4 \\left.\\right) = -46$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, evaluate the limit using the squeeze theorem. Use a calculator to graph the functions $$f ( x ) , g ( x ) ,$$ and $$h ( x )$$ when possible.",
+        "Question": "[T] True or False? If $$2 x - 1 \\le g ( x ) \\le x^{2} - 2 x + 3 ,$$ then $$\\underset{x \\rightarrow 2}{\\text{lim}} g \\left(\\right. x \\left.\\right) = 0 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, evaluate the limit using the squeeze theorem. Use a calculator to graph the functions $$f ( x ) , g ( x ) ,$$ and $$h ( x )$$ when possible.",
+        "Question": "[T] $$\\underset{\\theta \\rightarrow 0}{\\text{lim}} \\left(\\theta\\right)^{2} \\text{cos} \\left(\\right. \\frac{1}{\\theta} \\left.\\right)$$",
+        "Image Links": [],
+        "Answer": "The limit is zero.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/29107ec9cb983350dfd0403485093c3393463387"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, evaluate the limit using the squeeze theorem. Use a calculator to graph the functions $$f ( x ) , g ( x ) ,$$ and $$h ( x )$$ when possible.",
+        "Question": "$$\\underset{x \\rightarrow 0}{\\text{lim}} f \\left(\\right. x \\left.\\right) ,$$ where $$f ( x ) = \\{ \\left .\\begin{matrix}{aa}0 , & x \\text{rational} \\\\ x^{2} , & x \\text{irrational}\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, evaluate the limit using the squeeze theorem. Use a calculator to graph the functions $$f ( x ) , g ( x ) ,$$ and $$h ( x )$$ when possible.",
+        "Question": "[T] In physics, the magnitude of an electric field generated by a point charge at a distance r in vacuum is governed by Coulomb\u2019s law: $$E ( r ) = \\frac{q}{4 \\pi \\varepsilon_{0} r^{2}} ,$$ where E represents the magnitude of the electric field, q is the charge of the particle, r is the distance between the particle and where the strength of the field is measured, and $$\\frac{1}{4 \\pi \\varepsilon_{0}}$$ is Coulomb\u2019s constant: $$8.988 \\times 10^{9} \\text{N} \\cdotp \\text{m}^{2} \\text{/} \\text{C}^{2} .$$ Use a graphing calculator to graph $$E ( r )$$ given that the charge of the particle is $$q = 10^{-10} .$$ Evaluate $$\\underset{r \\rightarrow 0^{+}}{\\text{lim}} E \\left(\\right. r \\left.\\right) .$$ What is the physical meaning of this quantity? Is it physically relevant? Why are you evaluating from the right?",
+        "Image Links": [],
+        "Answer": "a. b. \u221e. The magnitude of the electric field as you approach the particle q becomes infinite. It does not make physical sense to evaluate negative distance.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5f45b5e5289970e7a94907b93341c0a857ab3fe9"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, evaluate the limit using the squeeze theorem. Use a calculator to graph the functions $$f ( x ) , g ( x ) ,$$ and $$h ( x )$$ when possible.",
+        "Question": "[T] The density of an object is given by its mass divided by its volume: $$\\rho = m \\text{/} V .$$ Use a calculator to plot the volume as a function of density $$( V = m \\text{/} \\rho ) ,$$ assuming you are examining something of mass 8 kg ( $$m = 8 \\text{).}$$ Evaluate $$\\underset{\\rho \\rightarrow 0^{+}}{\\text{lim}} V \\left(\\right. \\rho \\left.\\right)$$ and explain the physical meaning.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

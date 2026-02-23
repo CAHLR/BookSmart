@@ -1,0 +1,18 @@
+[
+    {
+        "Topic": "Checkpoint 4.12",
+        "Problem Statement": "",
+        "Question": "Find all critical points for $$f ( x ) = x^{3} - \\frac{1}{2} x^{2} - 2 x + 1 .$$",
+        "Image Links": [],
+        "Answer": "$$x = - \\frac{2}{3} ,$$ $$x = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.13",
+        "Problem Statement": "",
+        "Question": "Find the absolute maximum and absolute minimum of $$f ( x ) = x^{2} - 4 x + 3$$ over the interval $$[ 1 , 4 ] .$$",
+        "Image Links": [],
+        "Answer": "The absolute maximum is $$3$$ and it occurs at $$x = 4 .$$ The absolute minimum is $$-1$$ and it occurs at $$x = 2 .$$",
+        "Answer Image Links": []
+    }
+]

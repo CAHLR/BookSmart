@@ -1,0 +1,342 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the graph of $$y = f ( x )$$ to a) sketch the graph of $$y = f^{-1} ( x ) ,$$ and b) use part a. to estimate $$( f^{-1} )^{\\prime} ( 1 ) .$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/cba03815dfc71d6b9696f5254b1f1a3efda83d40"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the graph of $$y = f ( x )$$ to a) sketch the graph of $$y = f^{-1} ( x ) ,$$ and b) use part a. to estimate $$( f^{-1} )^{\\prime} ( 1 ) .$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ae9352760ba5bdd149b877e2d2b941ea52b353ee"
+        ],
+        "Answer": "a. b. $$( f^{-1} )^{\\prime} ( 1 ) \\tilde{} 2$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b7fb81b68f9505cb5da040b791592dcfe03fe652"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the graph of $$y = f ( x )$$ to a) sketch the graph of $$y = f^{-1} ( x ) ,$$ and b) use part a. to estimate $$( f^{-1} )^{\\prime} ( 1 ) .$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f655fc01eb2496b2ee626406f1dada0b21fa080d"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the graph of $$y = f ( x )$$ to a) sketch the graph of $$y = f^{-1} ( x ) ,$$ and b) use part a. to estimate $$( f^{-1} )^{\\prime} ( 1 ) .$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3f95348203472f39ffa4e7b47761efc98139b1b1"
+        ],
+        "Answer": "a. b. $$\\left .\\begin{matrix}{a}y \\prime = \\frac{- x}{\\sqrt{16 - x^{2}}} \\\\ y \\prime ( 1 ) = \\frac{- 1}{\\sqrt{16 - 1}} = \\frac{- 1}{\\sqrt{15}}\\end{matrix}\\right .$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/23a9dbe28476ef7d10244c802f9dd1f7ced6663d"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the functions $$y = f ( x )$$ to find a) $$\\frac{d f}{d x}$$ at $$x = a$$ and b) $$x = f^{-1} ( y ) .$$ c) Then use part b. to find $$\\frac{d f^{-1}}{d y}$$ at $$y = f ( a ) .$$",
+        "Question": "$$f ( x ) = 6 x - 1 , x = -2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the functions $$y = f ( x )$$ to find a) $$\\frac{d f}{d x}$$ at $$x = a$$ and b) $$x = f^{-1} ( y ) .$$ c) Then use part b. to find $$\\frac{d f^{-1}}{d y}$$ at $$y = f ( a ) .$$",
+        "Question": "$$f ( x ) = 2 x^{3} - 3 , x = 1$$",
+        "Image Links": [],
+        "Answer": "a. 6, b. $$x = f^{-1} ( y ) = ( \\frac{y + 3}{2} )^{1 \\text{/} 3} ,$$ c. $$\\frac{1}{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the functions $$y = f ( x )$$ to find a) $$\\frac{d f}{d x}$$ at $$x = a$$ and b) $$x = f^{-1} ( y ) .$$ c) Then use part b. to find $$\\frac{d f^{-1}}{d y}$$ at $$y = f ( a ) .$$",
+        "Question": "$$f ( x ) = 9 - x^{2} , 0 \\le x \\le 3 , x = 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the functions $$y = f ( x )$$ to find a) $$\\frac{d f}{d x}$$ at $$x = a$$ and b) $$x = f^{-1} ( y ) .$$ c) Then use part b. to find $$\\frac{d f^{-1}}{d y}$$ at $$y = f ( a ) .$$",
+        "Question": "$$f ( x ) = \\text{sin} x , x = 0$$",
+        "Image Links": [],
+        "Answer": "a. $$1 ,$$ b. $$x = f^{-1} ( y ) = \\text{sin}^{-1} y ,$$ c. $$1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following functions, find $$( f^{-1} )^{\\prime} ( a ) .$$",
+        "Question": "$$f ( x ) = x^{2} + 3 x + 2 , x \\geq - \\frac{3}{2} , a = 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following functions, find $$( f^{-1} )^{\\prime} ( a ) .$$",
+        "Question": "$$f ( x ) = x^{3} + 2 x + 3 , a = 0$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following functions, find $$( f^{-1} )^{\\prime} ( a ) .$$",
+        "Question": "$$f ( x ) = x + \\sqrt{x} , a = 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following functions, find $$( f^{-1} )^{\\prime} ( a ) .$$",
+        "Question": "$$f ( x ) = x - \\frac{2}{x} , x < 0 , a = 1$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following functions, find $$( f^{-1} )^{\\prime} ( a ) .$$",
+        "Question": "$$f ( x ) = x + \\text{sin} x , a = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following functions, find $$( f^{-1} )^{\\prime} ( a ) .$$",
+        "Question": "$$f ( x ) = \\text{tan} x + 3 x^{2} , a = 0 ; \\  0 \\  < \\  x \\  < \\  \\pi / 2$$",
+        "Image Links": [],
+        "Answer": "$$1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the given functions $$y = f ( x ) ,$$ a) find the slope of the tangent line to its inverse function $$f^{-1}$$ at the indicated point $$P ,$$ and b) find the equation of the tangent line to the graph of $$f^{-1}$$ at the indicated point.",
+        "Question": "$$f ( x ) = \\frac{4}{1 + x^{2}} , P ( 2 , 1 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the given functions $$y = f ( x ) ,$$ a) find the slope of the tangent line to its inverse function $$f^{-1}$$ at the indicated point $$P ,$$ and b) find the equation of the tangent line to the graph of $$f^{-1}$$ at the indicated point.",
+        "Question": "$$f ( x ) = \\sqrt{x - 4} , P ( 2 , 8 )$$",
+        "Image Links": [],
+        "Answer": "a. $$4 ,$$ b. $$y = 4 x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the given functions $$y = f ( x ) ,$$ a) find the slope of the tangent line to its inverse function $$f^{-1}$$ at the indicated point $$P ,$$ and b) find the equation of the tangent line to the graph of $$f^{-1}$$ at the indicated point.",
+        "Question": "$$f ( x ) = ( x^{3} + 1 )^{4} , P ( 16 , 1 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the given functions $$y = f ( x ) ,$$ a) find the slope of the tangent line to its inverse function $$f^{-1}$$ at the indicated point $$P ,$$ and b) find the equation of the tangent line to the graph of $$f^{-1}$$ at the indicated point.",
+        "Question": "$$f ( x ) = \\text{unicode[:-]} x^{3} - x + 2 , P ( -8 , 2 )$$",
+        "Image Links": [],
+        "Answer": "a. $$- \\frac{1}{13} ,$$ b. $$y = - \\frac{1}{13} x + \\frac{18}{13}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the given functions $$y = f ( x ) ,$$ a) find the slope of the tangent line to its inverse function $$f^{-1}$$ at the indicated point $$P ,$$ and b) find the equation of the tangent line to the graph of $$f^{-1}$$ at the indicated point.",
+        "Question": "$$f ( x ) = x^{5} + 3 x^{3} - 4 x - 8 , P ( -8 , 1 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$\\frac{d y}{d x}$$ for the given function.",
+        "Question": "$$y = \\text{sin}^{-1} ( x^{2} )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2 x}{\\sqrt{1 - x^{4}}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$\\frac{d y}{d x}$$ for the given function.",
+        "Question": "$$y = \\text{cos}^{-1} ( \\sqrt{x} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$\\frac{d y}{d x}$$ for the given function.",
+        "Question": "$$y = \\text{sec}^{-1} ( \\frac{1}{x} )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{-1}{\\sqrt{1 - x^{2}}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$\\frac{d y}{d x}$$ for the given function.",
+        "Question": "$$y = \\sqrt{\\text{csc}^{-1} x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$\\frac{d y}{d x}$$ for the given function.",
+        "Question": "$$y = ( 1 + \\text{tan}^{-1} x )^{3}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3 ( 1 + \\text{tan}^{-1} x )^{2}}{1 + x^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$\\frac{d y}{d x}$$ for the given function.",
+        "Question": "$$y = \\text{cos}^{-1} ( 2 x ) \\cdotp \\text{sin}^{-1} ( 2 x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$\\frac{d y}{d x}$$ for the given function.",
+        "Question": "$$y = \\frac{1}{\\text{tan}^{-1} ( x )}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{-1}{( 1 + x^{2} ) ( \\text{tan}^{-1} x )^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$\\frac{d y}{d x}$$ for the given function.",
+        "Question": "$$y = \\text{sec}^{-1} ( \\text{unicode[:-]} x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$\\frac{d y}{d x}$$ for the given function.",
+        "Question": "$$y = \\text{cot}^{-1} \\sqrt{4 - x^{2}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{x}{( 5 - x^{2} ) \\sqrt{4 - x^{2}}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$\\frac{d y}{d x}$$ for the given function.",
+        "Question": "$$y = x \\cdotp \\text{csc}^{-1} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the given values to find $$( f^{-1} )^{\\prime} ( a ) .$$",
+        "Question": "$$f ( \\pi ) = 0 , f \\prime ( \\pi ) = -1 , a = 0$$",
+        "Image Links": [],
+        "Answer": "$$-1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the given values to find $$( f^{-1} )^{\\prime} ( a ) .$$",
+        "Question": "$$f ( 6 ) = 2 , f^{\\prime} ( 6 ) = \\frac{1}{3} , a = 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the given values to find $$( f^{-1} )^{\\prime} ( a ) .$$",
+        "Question": "$$f ( \\frac{1}{3} ) = -8 , f \\prime ( \\frac{1}{3} ) = 2 , a = -8$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the given values to find $$( f^{-1} )^{\\prime} ( a ) .$$",
+        "Question": "$$f ( \\sqrt{3} ) = \\frac{1}{2} , f \\prime ( \\sqrt{3} ) = \\frac{2}{3} , a = \\frac{1}{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the given values to find $$( f^{-1} )^{\\prime} ( a ) .$$",
+        "Question": "$$f ( 1 ) = -3 , f \\prime ( 1 ) = 10 , a = -3$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{10}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the given values to find $$( f^{-1} )^{\\prime} ( a ) .$$",
+        "Question": "$$f ( 1 ) = 0 , f \\prime ( 1 ) = -2 , a = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the given values to find $$( f^{-1} )^{\\prime} ( a ) .$$",
+        "Question": "[T] The position of a moving hockey puck after $$t$$ seconds is $$s ( t ) = \\text{tan}^{-1} t$$ where $$s$$ is in meters. Find the velocity of the hockey puck at any time $$t .$$ Find the acceleration of the puck at any time $$t .$$ Evaluate a. and b. for $$t = 2 , 4 ,$$ and $$6$$ seconds. What conclusion can be drawn from the results in c.?",
+        "Image Links": [],
+        "Answer": "a. $$v ( t ) = \\frac{1}{1 + t^{2}}$$ b. $$a ( t ) = \\frac{-2 t}{( 1 + t^{2} )^{2}}$$ c. $$( a ) 0.2 , 0.06 , 0.03 ; ( b ) - 0.16 , -0.028 , -0.0088$$ d. The hockey puck is decelerating/slowing down at 2, 4, and 6 seconds.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the given values to find $$( f^{-1} )^{\\prime} ( a ) .$$",
+        "Question": "[T] A building that is 225 feet tall casts a shadow of various lengths $$x$$ as the day goes by. An angle of elevation $$\\theta$$ is formed by lines from the top and bottom of the building to the tip of the shadow, as seen in the following figure. Find the rate of change of the angle of elevation $$\\frac{d \\theta}{d x}$$ when $$x = 272$$ feet.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5db9632ce6eb3178c554302ce50ee5bd3d39b798"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the given values to find $$( f^{-1} )^{\\prime} ( a ) .$$",
+        "Question": "[T] A pole stands 75 feet tall. An angle $$\\theta$$ is formed when wires of various lengths of $$x$$ feet are attached from the ground to the top of the pole, as shown in the following figure. Find the rate of change of the angle $$\\frac{d \\theta}{d x}$$ when a wire of length 90 feet is attached.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/56fbef8a610f3a935681dec2cd7da77b330c113c"
+        ],
+        "Answer": "$$-0.0168$$ radians per foot",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the given values to find $$( f^{-1} )^{\\prime} ( a ) .$$",
+        "Question": "[T] A television camera at ground level is 2000 feet away from the launching pad of a space rocket that is set to take off vertically, as seen in the following figure. The angle of elevation of the camera can be found by $$\\theta = \\text{tan}^{-1} ( \\frac{x}{2000} ) ,$$ where $$x$$ is the height of the rocket. Find the rate of change of the angle of elevation after launch when the camera and the rocket are 5000 feet apart.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/49764aa60d40fad54639e5577052eb5356164345"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the given values to find $$( f^{-1} )^{\\prime} ( a ) .$$",
+        "Question": "[T] A local movie theater with a 30-foot-high screen that is 10 feet above a person\u2019s eye level when seated has a viewing angle $$\\theta$$ (in radians) given by $$\\theta = \\text{cot}^{-1} \\frac{x}{40} - \\text{cot}^{-1} \\frac{x}{10} ,$$ where $$x$$ is the distance in feet away from the movie screen that the person is sitting, as shown in the following figure. Find $$\\frac{d \\theta}{d x} .$$ Evaluate $$\\frac{d \\theta}{d x}$$ for $$x = 5 , 10 , 15 ,$$ and 20. Interpret the results in b.. Evaluate $$\\frac{d \\theta}{d x}$$ for $$x = 25 , 30 , 35 ,$$ and 40 Interpret the results in d. At what distance $$x$$ should the person sit to maximize his or her viewing angle?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/745ce5cc7f801b2d21d5a9365a30ed63b0af85d2"
+        ],
+        "Answer": "a. $$\\frac{d \\theta}{d x} = \\frac{10}{100 + x^{2}} - \\frac{40}{1600 + x^{2}}$$ b. $$\\frac{18}{325} , \\frac{9}{340} , \\frac{42}{4745} , 0$$ c. As a person moves farther away from the screen, the viewing angle is increasing, which implies that as he or she moves farther away, his or her screen vision is widening. d. $$- \\frac{54}{12905} , - \\frac{3}{500} , - \\frac{198}{29945} , - \\frac{9}{1360}$$ e. As the person moves beyond 20 feet from the screen, the viewing angle is decreasing. The optimal distance the person should stand for maximizing the viewing angle is 20 feet.",
+        "Answer Image Links": []
+    }
+]

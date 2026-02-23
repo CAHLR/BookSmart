@@ -1,0 +1,396 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the horizontal line test to determine whether each of the given graphs is one-to-one.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5d42f64dbcb59fc05b439d1b91710097d41508ab"
+        ],
+        "Answer": "Not one-to-one",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the horizontal line test to determine whether each of the given graphs is one-to-one.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/cecf20d449f45d348c5044c7569995cd1bb44117"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the horizontal line test to determine whether each of the given graphs is one-to-one.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e0025ec99b7a77758c04fd2ebf79697219c8ebfe"
+        ],
+        "Answer": "Not one-to-one",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the horizontal line test to determine whether each of the given graphs is one-to-one.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/04e54c645706cba62b3dc32453c4014fa21cb448"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the horizontal line test to determine whether each of the given graphs is one-to-one.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1ec504c473de82161d98c9ba81ae67ba4ed35484"
+        ],
+        "Answer": "One-to-one",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the horizontal line test to determine whether each of the given graphs is one-to-one.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e140f6d3ae72ec2e4931294653142be10be4a7a7"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, a. find the inverse function, and b. find the domain and range of the inverse function.",
+        "Question": "$$f ( x ) = x^{2} - 4 , x \\geq 0$$",
+        "Image Links": [],
+        "Answer": "a. $$f^{-1} ( x ) = \\sqrt{x + 4}$$ b. Domain $$\\text{:} x \\geq -4 , \\text{range} \\text{:} y \\geq 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, a. find the inverse function, and b. find the domain and range of the inverse function.",
+        "Question": "$$f ( x ) = \\sqrt[3]{x - 4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, a. find the inverse function, and b. find the domain and range of the inverse function.",
+        "Question": "$$f ( x ) = x^{3} + 1$$",
+        "Image Links": [],
+        "Answer": "a. $$f^{-1} ( x ) = \\sqrt[3]{x - 1}$$ b. Domain: all real numbers, range: all real numbers",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, a. find the inverse function, and b. find the domain and range of the inverse function.",
+        "Question": "$$f ( x ) = ( x - 1 )^{2} , x \\le 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, a. find the inverse function, and b. find the domain and range of the inverse function.",
+        "Question": "$$f ( x ) = \\sqrt{x - 1}$$",
+        "Image Links": [],
+        "Answer": "a. $$f^{-1} ( x ) = x^{2} + 1 ,$$ b. Domain: $$x \\geq 0 ,$$ range: $$y \\geq 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, a. find the inverse function, and b. find the domain and range of the inverse function.",
+        "Question": "$$f ( x ) = \\frac{1}{x + 2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the graph of $$f$$ to sketch the graph of its inverse function.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/56465fbf0cda3d0f279a22ff032a6a37bc94773f"
+        ],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/be8cc77e199741a4828af7840360bbd8916dcb7e"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the graph of $$f$$ to sketch the graph of its inverse function.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/af9f3b9e350dc0190fc6505f99e0461e1a6da8bb"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the graph of $$f$$ to sketch the graph of its inverse function.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d020f6bb329712f80e72a4c0eac24ace7348f492"
+        ],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d4c978e0e5c854aedbac9c34883c67732f606ef4"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the graph of $$f$$ to sketch the graph of its inverse function.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9ab333cdf577875bda63948ec8de3c0113e1e4cb"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use composition to determine which pairs of functions are inverses.",
+        "Question": "$$f ( x ) = 8 x , g ( x ) = \\frac{x}{8}$$",
+        "Image Links": [],
+        "Answer": "These are inverses.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use composition to determine which pairs of functions are inverses.",
+        "Question": "$$f ( x ) = 8 x + 3 , g ( x ) = \\frac{x - 3}{8}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use composition to determine which pairs of functions are inverses.",
+        "Question": "$$f ( x ) = 5 x - 7 , g ( x ) = \\frac{x + 5}{7}$$",
+        "Image Links": [],
+        "Answer": "These are not inverses.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use composition to determine which pairs of functions are inverses.",
+        "Question": "$$f ( x ) = \\frac{2}{3} x + 2 , g ( x ) = \\frac{3}{2} x + 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use composition to determine which pairs of functions are inverses.",
+        "Question": "$$f ( x ) = \\frac{1}{x - 1} , x \\ne 1 , g ( x ) = \\frac{1}{x} + 1 , x \\ne 0$$",
+        "Image Links": [],
+        "Answer": "These are inverses.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use composition to determine which pairs of functions are inverses.",
+        "Question": "$$f ( x ) = x^{3} + 1 , g ( x ) = ( x - 1 )^{1 \\text{/} 3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use composition to determine which pairs of functions are inverses.",
+        "Question": "$$f ( x ) = x^{2} + 2 x + 1 , x \\geq -1 , g ( x ) = -1 + \\sqrt{x} , x \\geq 0$$",
+        "Image Links": [],
+        "Answer": "These are inverses.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use composition to determine which pairs of functions are inverses.",
+        "Question": "$$f ( x ) = \\sqrt{4 - x^{2}} , 0 \\le x \\le 2 , g ( x ) = \\sqrt{4 - x^{2}} , 0 \\le x \\le 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the functions. Give the exact value.",
+        "Question": "$$\\text{tan}^{-1} ( \\frac{\\sqrt{3}}{3} )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\pi}{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the functions. Give the exact value.",
+        "Question": "$$\\text{cos}^{-1} ( - \\frac{\\sqrt{2}}{2} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the functions. Give the exact value.",
+        "Question": "$$\\text{cot}^{-1} ( 1 )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\pi}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the functions. Give the exact value.",
+        "Question": "$$\\text{sin}^{-1} ( -1 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the functions. Give the exact value.",
+        "Question": "$$\\text{cos}^{-1} ( \\frac{\\sqrt{3}}{2} )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\pi}{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the functions. Give the exact value.",
+        "Question": "$$\\text{cos} ( \\text{tan}^{-1} ( \\sqrt{3} ) )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the functions. Give the exact value.",
+        "Question": "$$\\text{sin} ( \\text{cos}^{-1} ( \\frac{\\sqrt{2}}{2} ) )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\sqrt{2}}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the functions. Give the exact value.",
+        "Question": "$$\\text{sin}^{-1} ( \\text{sin} ( \\frac{\\pi}{3} ) )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the functions. Give the exact value.",
+        "Question": "$$\\text{tan}^{-1} ( \\text{tan} ( - \\frac{\\pi}{6} ) )$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{\\pi}{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the functions. Give the exact value.",
+        "Question": "The function $$C = T ( F ) = ( 5 \\text{/} 9 ) ( F - 32 )$$ converts degrees Fahrenheit to degrees Celsius. Find the inverse function $$F = T^{-1} ( C )$$ What is the inverse function used for?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the functions. Give the exact value.",
+        "Question": "[T] The velocity V (in centimeters per second) of blood in an artery at a distance x cm from the center of the artery can be modeled by the function $$V = f ( x ) = 500 ( 0.04 - x^{2} )$$ for $$0 \\le x \\le 0.2 .$$ Find $$x = f^{-1} ( V ) .$$ Interpret what the inverse function is used for. Find the distance from the center of an artery with a velocity of 15 cm/sec, 10 cm/sec, and 5 cm/sec.",
+        "Image Links": [],
+        "Answer": "a. $$x = f^{-1} ( V ) = \\sqrt{0.04 - \\frac{V}{500}}$$ b. The inverse function determines the distance from the center of the artery at which blood is flowing with velocity V . c. 0.1 cm; 0.14 cm; 0.17 cm",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the functions. Give the exact value.",
+        "Question": "A function that converts dress sizes in the United States to those in Europe is given by $$D ( x ) = 2 x + 24 .$$ Find the European dress sizes that correspond to sizes 6, 8, 10, and 12 in the United States. Find the function that converts European dress sizes to U.S. dress sizes. Use part b. to find the dress sizes in the United States that correspond to 46, 52, 62, and 70.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the functions. Give the exact value.",
+        "Question": "[T] The cost to remove a toxin from a lake is modeled by the function $$C ( p ) = 75 p \\text{/} ( 85 - p ) ,$$ where $$C$$ is the cost (in thousands of dollars) and $$p$$ is the amount of toxin in a small lake (measured in parts per billion [ppb]). This model is valid only when the amount of toxin is less than 85 ppb. Find the cost to remove 25 ppb, 40 ppb, and 50 ppb of the toxin from the lake. Find the inverse function. c. Use part b. to determine how much of the toxin is removed for $50,000.",
+        "Image Links": [],
+        "Answer": "a. $31,250, $66,667, $107,143 b. $$( p = \\frac{85 C}{C + 75} )$$ c. 34 ppb",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the functions. Give the exact value.",
+        "Question": "[T] A race car is accelerating at a velocity given by $$v ( t ) = \\frac{25}{4} t + 54 ,$$ where v is the velocity (in feet per second) at time t . Find the velocity of the car at 10 sec. Find the inverse function. Use part b. to determine how long it takes for the car to reach a speed of 150 ft/sec.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the functions. Give the exact value.",
+        "Question": "[T] An airplane\u2019s Mach number M is the ratio of its speed to the speed of sound. When a plane is flying at a constant altitude, then its Mach angle is given by $$\\mu = 2 \\text{sin}^{-1} ( \\frac{1}{M} ) .$$ Find the Mach angle (to the nearest degree) for the following Mach numbers. $$M = 1.4$$ $$M = 2.8$$ $$M = 4.3$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/fe6bf8057bf1213886262aefb3c0840b2d1cacc2"
+        ],
+        "Answer": "a. $$\\tilde{92} \\text{\u00b0}$$ b. $$\\tilde{42} \\text{\u00b0}$$ c. $$\\tilde{27} \\text{\u00b0}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the functions. Give the exact value.",
+        "Question": "[T] Using $$\\mu = 2 \\text{sin}^{-1} ( \\frac{1}{M} ) ,$$ find the Mach number M for the following angles. $$\\mu = \\frac{\\pi}{6}$$ $$\\mu = \\frac{2 \\pi}{7}$$ $$\\mu = \\frac{3 \\pi}{8}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the functions. Give the exact value.",
+        "Question": "[T] The average temperature (in degrees Celsius) of a city in the northern United States can be modeled by the function $$T ( x ) = 5 + 18 \\text{sin} [ \\frac{\\pi}{6} ( x - 4.6 ) ] ,$$ where $$x$$ is time in months and $$x = 1.00$$ corresponds to January 1. Determine the day(s) (month and day) when the average temperature is $$21 \\text{\u00b0} \\text{C} .$$ Use the integer portion of your answer(s) as the month and calculate the day of the month from the decimal portion.",
+        "Image Links": [],
+        "Answer": "$$x \\approx 6.69 , 8.51 ;$$ so, the temperature occurs on June 21 and August 15",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the functions. Give the exact value.",
+        "Question": "[T] The depth (in feet) of water at a dock changes with the rise and fall of tides. It is modeled by the function $$D ( t ) = 5 \\text{sin} ( \\frac{\\pi}{6} t - \\frac{7 \\pi}{6} ) + 8 ,$$ where $$t$$ is the number of hours after midnight. Determine the first time after midnight when the depth is 11.75 ft.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the functions. Give the exact value.",
+        "Question": "[T] An object moving in simple harmonic motion is modeled by the function $$s ( t ) = -6 \\text{cos} ( \\frac{\\pi t}{2} ) ,$$ where $$s$$ is measured in inches and $$t$$ is measured in seconds. Determine the first time when the distance moved is 4.5 in.",
+        "Image Links": [],
+        "Answer": "$$\\tilde{1.5} \\text{sec}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the functions. Give the exact value.",
+        "Question": "[T] A local art gallery has a portrait 3 ft in height that is hung 2.5 ft above the eye level of an average person. The viewing angle $$\\theta$$ can be modeled by the function $$\\theta = \\text{tan}^{-1} \\frac{5.5}{x} - \\text{tan}^{-1} \\frac{2.5}{x} ,$$ where $$x$$ is the distance (in feet) from the portrait. Find the viewing angle when a person is 4 ft from the portrait.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the functions. Give the exact value.",
+        "Question": "[T] Use a calculator to evaluate $$\\text{tan}^{-1} ( \\text{tan} ( 2.1 ) )$$ and $$\\text{cos}^{-1} ( \\text{cos} ( 2.1 ) ) .$$ Explain the results of each.",
+        "Image Links": [],
+        "Answer": "$$\\text{tan}^{-1} ( \\text{tan} ( 2.1 ) ) \\approx - 1.0416 ;$$ the expression does not equal 2.1 since $$2.1 > 1.57 = \\frac{\\pi}{2}$$ -in other words, it is not in the restricted domain of $$\\text{tan} x . \\text{cos}^{-1} ( \\text{cos} ( 2.1 ) ) = 2.1 ,$$ since 2.1 is in the restricted domain of $$\\text{cos} x .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the functions. Give the exact value.",
+        "Question": "[T] Use a calculator to evaluate $$\\text{sin} ( \\text{sin}^{-1} ( -2 ) )$$ and $$\\text{tan} ( \\text{tan}^{-1} ( -2 ) ) .$$ Explain the results of each.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,478 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "In precalculus, you learned a formula for the position of the maximum or minimum of a quadratic equation $$y = a x^{2} + b x + c ,$$ which was $$h = - \\frac{b}{( 2 a )} .$$ Prove this formula using calculus.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "If you are finding an absolute minimum over an interval $$[ a , b ] ,$$ why do you need to check the endpoints? Draw a graph that supports your hypothesis.",
+        "Image Links": [],
+        "Answer": "Answers may vary",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "If you are examining a function over an interval $$( a , b ) ,$$ for $$a$$ and $$b$$ finite, is it possible not to have an absolute maximum or absolute minimum?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "When you are checking for critical points, explain why you also need to determine points where $$f \\prime ( x )$$ is undefined. Draw a graph to support your explanation.",
+        "Image Links": [],
+        "Answer": "Answers will vary",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Can you have a finite absolute maximum for $$y = a x^{2} + b x + c$$ over $$( \\text{unicode[:-]} \\infty , \\infty ) ?$$ Explain why or why not using graphical arguments.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Can you have a finite absolute maximum for $$y = a x^{3} + b x^{2} + c x + d$$ over $$( \\text{unicode[:-]} \\infty , \\infty )$$ assuming a is non-zero? Explain why or why not using graphical arguments.",
+        "Image Links": [],
+        "Answer": "No; answers will vary",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Let $$m$$ be the number of local minima and $$M$$ be the number of local maxima. Can you create a function where $$M > m + 2 ?$$ Draw a graph to support your explanation.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Is it possible to have more than one absolute maximum? Use a graphical argument to prove your hypothesis.",
+        "Image Links": [],
+        "Answer": "Since the absolute maximum is the function (output) value rather than the x value, the answer is no; answers will vary",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Is it possible to have no absolute minimum or maximum for a function? If so, construct such a function. If not, explain why this is not possible.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "[T] Graph the function $$y = e^{a x} .$$ For which values of $$a ,$$ on any infinite domain, will you have an absolute minimum and absolute maximum?",
+        "Image Links": [],
+        "Answer": "When $$a = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine where the local and absolute maxima and minima occur on the graph given. Assume the graph represents the entirety of each function. For any extrema located at an endpoint, approximate the x-value.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1292ec787d89273801e56846ddc9e0efe5cb6ed2"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine where the local and absolute maxima and minima occur on the graph given. Assume the graph represents the entirety of each function. For any extrema located at an endpoint, approximate the x-value.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/17090f6270b7d367c09a8d2c60240d96f48d255f"
+        ],
+        "Answer": "Absolute minimum at 3; Absolute maximum at -2.2; local minima at -2, 1; local maxima at -1, 2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine where the local and absolute maxima and minima occur on the graph given. Assume the graph represents the entirety of each function. For any extrema located at an endpoint, approximate the x-value.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f085706f138e53073cd7ad5a2534bd211d50f5b7"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine where the local and absolute maxima and minima occur on the graph given. Assume the graph represents the entirety of each function. For any extrema located at an endpoint, approximate the x-value.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d6f28886cd06856dd92035be4d57d2a470179529"
+        ],
+        "Answer": "Absolute minima at -2, 2; absolute maxima at -2.5, 2.5; minima at -2, 0, and 2 (Note: -2 and 2 are both local and absolute minima); local maxima at -1, 1",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, draw graphs of $$f ( x ) ,$$ which is continuous, over the interval $$[ -4 , 4 ]$$ with the following properties:",
+        "Question": "Absolute maximum at $$x = 2$$ and absolute minima at $$x = \\text{unicode[:+-]} 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, draw graphs of $$f ( x ) ,$$ which is continuous, over the interval $$[ -4 , 4 ]$$ with the following properties:",
+        "Question": "Absolute minimum at $$x = 1$$ and absolute maximum at $$x = 2$$",
+        "Image Links": [],
+        "Answer": "Answers may vary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, draw graphs of $$f ( x ) ,$$ which is continuous, over the interval $$[ -4 , 4 ]$$ with the following properties:",
+        "Question": "Absolute maximum at $$x = 4 ,$$ absolute minimum at $$x = -1 ,$$ local maximum at $$x = -2 ,$$ and a critical point that is not a maximum or minimum at $$x = 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, draw graphs of $$f ( x ) ,$$ which is continuous, over the interval $$[ -4 , 4 ]$$ with the following properties:",
+        "Question": "Absolute maxima at $$x = 2$$ and $$x = -3 ,$$ local minimum at $$x = 1 ,$$ and absolute minimum at $$x = 4$$",
+        "Image Links": [],
+        "Answer": "Answers may vary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the critical points in the domains of the following functions.",
+        "Question": "$$y = 4 x^{3} - 3 x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the critical points in the domains of the following functions.",
+        "Question": "$$y = 4 \\sqrt{x} - x^{2}$$",
+        "Image Links": [],
+        "Answer": "$$x = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the critical points in the domains of the following functions.",
+        "Question": "$$y = \\frac{1}{x - 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the critical points in the domains of the following functions.",
+        "Question": "$$y = \\text{ln} ( x - 2 )$$",
+        "Image Links": [],
+        "Answer": "None",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the critical points in the domains of the following functions.",
+        "Question": "$$y = \\text{tan} ( x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the critical points in the domains of the following functions.",
+        "Question": "$$y = \\sqrt{4 - x^{2}}$$",
+        "Image Links": [],
+        "Answer": "$$x = 0 \\text{;} x = \\pm 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the critical points in the domains of the following functions.",
+        "Question": "$$y = x^{3 \\text{/} 2} - 3 x^{5 \\text{/} 2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the critical points in the domains of the following functions.",
+        "Question": "$$y = \\frac{x^{2} - 1}{x^{2} + 2 x - 3}$$",
+        "Image Links": [],
+        "Answer": "None",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the critical points in the domains of the following functions.",
+        "Question": "$$y = \\text{sin}^{2} ( x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the critical points in the domains of the following functions.",
+        "Question": "$$y = x + \\frac{1}{x}$$",
+        "Image Links": [],
+        "Answer": "$$x = -1 , 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the local and/or absolute extrema for the functions over the specified domain.",
+        "Question": "$$f ( x ) = x^{2} + 3$$ over $$[ -1 , 4 ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the local and/or absolute extrema for the functions over the specified domain.",
+        "Question": "$$y = x^{2} + \\frac{2}{x}$$ over $$[ 1 , 4 ]$$",
+        "Image Links": [],
+        "Answer": "Absolute maximum: $$x = 4 ,$$ $$y = \\frac{33}{2} ;$$ absolute minimum: $$x = 1 ,$$ $$y = 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the local and/or absolute extrema for the functions over the specified domain.",
+        "Question": "$$y = ( x - x^{2} )^{2}$$ over $$[ -1 , 1 ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the local and/or absolute extrema for the functions over the specified domain.",
+        "Question": "$$y = \\frac{1}{( x - x^{2} )}$$ over $$( 0 , 1 )$$",
+        "Image Links": [],
+        "Answer": "Absolute minimum: $$x = \\frac{1}{2} ,$$ $$y = 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the local and/or absolute extrema for the functions over the specified domain.",
+        "Question": "$$y = \\sqrt{9 - x}$$ over $$[ 1 , 9 ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the local and/or absolute extrema for the functions over the specified domain.",
+        "Question": "$$y = x + \\text{sin} ( x )$$ over $$[ 0 , 2 \\pi ]$$",
+        "Image Links": [],
+        "Answer": "Absolute maximum: $$x = 2 \\pi ,$$ $$y = 2 \\pi ;$$ absolute minimum: $$x = 0 ,$$ $$y = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the local and/or absolute extrema for the functions over the specified domain.",
+        "Question": "$$y = \\frac{x}{1 + x}$$ over $$[ 0 , 100 ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the local and/or absolute extrema for the functions over the specified domain.",
+        "Question": "$$y = | x + 1 | + | x - 1 |$$ over $$[ -3 , 2 ]$$",
+        "Image Links": [],
+        "Answer": "Absolute maximum: $$x = -3$$ and $$y = 6 ; ;$$ absolute minimum: $$-1 \\le x \\le 1 ,$$ $$y = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the local and/or absolute extrema for the functions over the specified domain.",
+        "Question": "$$y = \\sqrt{x} - \\sqrt{x^{3}}$$ over $$[ 0 , 4 ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the local and/or absolute extrema for the functions over the specified domain.",
+        "Question": "$$y = \\text{sin} x + \\text{cos} x$$ over $$[ 0 , 2 \\pi ]$$",
+        "Image Links": [],
+        "Answer": "Absolute maximum: $$x = \\frac{\\pi}{4} ,$$ $$y = \\sqrt{2} ;$$ absolute minimum: $$x = \\frac{5 \\pi}{4} ,$$ $$y = \\text{unicode[:-]} \\sqrt{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the local and/or absolute extrema for the functions over the specified domain.",
+        "Question": "$$y = 4 \\text{sin} \\theta - 3 \\text{cos} \\theta$$ over $$[ 0 , 2 \\pi ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the local and absolute minima and maxima for the functions over $$( \\text{unicode[:-]} \\infty , \\infty ) .$$",
+        "Question": "$$y = x^{2} + 4 x + 5$$",
+        "Image Links": [],
+        "Answer": "Absolute minimum: $$x = -2 ,$$ $$y = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the local and absolute minima and maxima for the functions over $$( \\text{unicode[:-]} \\infty , \\infty ) .$$",
+        "Question": "$$y = x^{3} - 12 x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the local and absolute minima and maxima for the functions over $$( \\text{unicode[:-]} \\infty , \\infty ) .$$",
+        "Question": "$$y = 3 x^{4} + 8 x^{3} - 18 x^{2}$$",
+        "Image Links": [],
+        "Answer": "Absolute minimum: $$x = -3 ,$$ $$y = -135 ;$$ local maximum: $$x = 0 ,$$ $$y = 0 ;$$ local minimum: $$x = 1 ,$$ $$y = -7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the local and absolute minima and maxima for the functions over $$( \\text{unicode[:-]} \\infty , \\infty ) .$$",
+        "Question": "$$y = x^{3} ( 1 - x )^{6}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the local and absolute minima and maxima for the functions over $$( \\text{unicode[:-]} \\infty , \\infty ) .$$",
+        "Question": "$$y = \\frac{x^{2} + x + 6}{x - 1}$$",
+        "Image Links": [],
+        "Answer": "Local maximum: $$x = 1 - 2 \\sqrt{2} ,$$ $$y = 3 - 4 \\sqrt{2} ;$$ local minimum: $$x = 1 + 2 \\sqrt{2} ,$$ $$y = 3 + 4 \\sqrt{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the local and absolute minima and maxima for the functions over $$( \\text{unicode[:-]} \\infty , \\infty ) .$$",
+        "Question": "$$y = \\frac{x^{2} - 1}{x - 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following functions, use a calculator to graph the function and to estimate the absolute and local maxima and minima. Then, solve for them explicitly.",
+        "Question": "[T] $$y = 3 x \\sqrt{1 - x^{2}}$$",
+        "Image Links": [],
+        "Answer": "Absolute maximum: $$x = \\frac{\\sqrt{2}}{2} ,$$ $$y = \\frac{3}{2} ;$$ absolute minimum: $$x = - \\frac{\\sqrt{2}}{2} ,$$ $$y = - \\frac{3}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following functions, use a calculator to graph the function and to estimate the absolute and local maxima and minima. Then, solve for them explicitly.",
+        "Question": "[T] $$y = x + \\text{sin} ( x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following functions, use a calculator to graph the function and to estimate the absolute and local maxima and minima. Then, solve for them explicitly.",
+        "Question": "[T] $$y = 12 x^{5} + 45 x^{4} + 20 x^{3} - 90 x^{2} - 120 x + 3$$",
+        "Image Links": [],
+        "Answer": "Local maximum: $$x = -2 ,$$ $$y = 59 ;$$ local minimum: $$x = 1 ,$$ $$y = -130$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following functions, use a calculator to graph the function and to estimate the absolute and local maxima and minima. Then, solve for them explicitly.",
+        "Question": "[T] $$y = \\frac{x^{3} + 6 x^{2} - x - 30}{x - 2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following functions, use a calculator to graph the function and to estimate the absolute and local maxima and minima. Then, solve for them explicitly.",
+        "Question": "[T] $$y = \\frac{\\sqrt{4 - x^{2}}}{\\sqrt{4 + x^{2}}}$$",
+        "Image Links": [],
+        "Answer": "Absolute maximum: $$x = 0 ,$$ $$y = 1 ;$$ absolute minimum: $$x = -2 , 2 ,$$ $$y = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following functions, use a calculator to graph the function and to estimate the absolute and local maxima and minima. Then, solve for them explicitly.",
+        "Question": "A company that produces cell phones has a cost function of $$C = x^{2} - 1200 x + 36,400 ,$$ where $$C$$ is cost in dollars and $$x$$ is number of cell phones produced (in thousands). How many units of cell phone (in thousands) minimizes this cost function?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following functions, use a calculator to graph the function and to estimate the absolute and local maxima and minima. Then, solve for them explicitly.",
+        "Question": "A ball is thrown into the air and its position is given by $$h ( t ) = -4.9 t^{2} + 60 t + 5 \\text{m} .$$ Find the height at which the ball stops ascending. How long after it is thrown does this happen?",
+        "Image Links": [],
+        "Answer": "$$h = \\frac{9245}{49} \\text{m,}$$ $$t = \\frac{300}{49} \\text{s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider the production of gold during the California gold rush (1848-1888). The production of gold can be modeled by $$G ( t ) = \\frac{( 25 t )}{( t^{2} + 16 )} ,$$ where $$t$$ is the number of years since the rush began $$( 0 \\le t \\le 40 )$$ and $$G$$ is ounces of gold produced (in millions). A summary of the data is shown in the following figure. ",
+        "Question": "Find when the maximum (local and absolute) gold production occurred, and the amount of gold produced during that maximum.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ab2d3b5143b5f5b2e9d50879c5a59734cef4bebf"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider the production of gold during the California gold rush (1848-1888). The production of gold can be modeled by $$G ( t ) = \\frac{( 25 t )}{( t^{2} + 16 )} ,$$ where $$t$$ is the number of years since the rush began $$( 0 \\le t \\le 40 )$$ and $$G$$ is ounces of gold produced (in millions). A summary of the data is shown in the following figure. ",
+        "Question": "Find when the minimum (local and absolute) gold production occurred. What was the amount of gold produced during this minimum?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ab2d3b5143b5f5b2e9d50879c5a59734cef4bebf"
+        ],
+        "Answer": "The absolute minimum was in 1848, when no gold was produced.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the critical points, maxima, and minima for the following piecewise functions.",
+        "Question": "$$y = \\{ \\left .\\begin{matrix}{aa}x^{2} - 4 x & 0 \\le x \\le 1 \\\\ x^{2} - 4 & 1 < x \\le 2\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the critical points, maxima, and minima for the following piecewise functions.",
+        "Question": "$$y = \\{ \\left .\\begin{matrix}{aa}x^{2} + 1 & x \\le 1 \\\\ x^{2} - 4 x + 5 & x > 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "Absolute minima: $$x = 0 ,$$ $$x = 2 ,$$ $$y = 1 ;$$ local maximum at $$x = 1 ,$$ $$y = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the critical points of the following generic functions. Are they maxima, minima, or neither? State the necessary conditions.",
+        "Question": "$$y = a x^{2} + b x + c ,$$ given that $$a > 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the critical points of the following generic functions. Are they maxima, minima, or neither? State the necessary conditions.",
+        "Question": "$$y = ( x - 1 )^{a} ,$$ given that $$a > 1$$ and a is an integer.",
+        "Image Links": [],
+        "Answer": "No maxima/minima if $$a$$ is odd, minimum at $$x = 1$$ if $$a$$ is even",
+        "Answer Image Links": []
+    }
+]

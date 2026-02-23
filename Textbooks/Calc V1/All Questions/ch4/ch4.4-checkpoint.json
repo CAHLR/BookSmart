@@ -1,0 +1,18 @@
+[
+    {
+        "Topic": "Checkpoint 4.14",
+        "Problem Statement": "",
+        "Question": "Verify that the function $$f ( x ) = 2 x^{2} - 8 x + 6$$ defined over the interval $$[ 1 , 3 ]$$ satisfies the conditions of Rolle\u2019s theorem. Find all points $$c$$ guaranteed by Rolle\u2019s theorem.",
+        "Image Links": [],
+        "Answer": "$$c = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.15",
+        "Problem Statement": "",
+        "Question": "Suppose a ball is dropped from a height of 200 ft. Its position at time $$t$$ is $$s ( t ) = -16 t^{2} + 200 .$$ Find the time $$t$$ when the instantaneous velocity of the ball equals its average velocity.",
+        "Image Links": [],
+        "Answer": "$$\\frac{5}{2 \\sqrt{2}}$$ sec",
+        "Answer Image Links": []
+    }
+]

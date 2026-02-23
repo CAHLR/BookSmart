@@ -1,0 +1,84 @@
+[
+    {
+        "Topic": "Checkpoint 2.11",
+        "Problem Statement": "",
+        "Question": "Use the limit laws to evaluate $$\\underset{x \\rightarrow 6}{\\text{lim}} \\left(\\right. 2 x - 1 \\left.\\right) \\sqrt{x + 4} .$$ In each step, indicate the limit law applied.",
+        "Image Links": [],
+        "Answer": "$$11 \\sqrt{10}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 2.12",
+        "Problem Statement": "",
+        "Question": "Evaluate $$\\underset{x \\rightarrow -2}{\\text{lim}} \\left(\\right. 3 x^{3} - 2 x + 7 \\left.\\right) .$$",
+        "Image Links": [],
+        "Answer": "-13;",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 2.13",
+        "Problem Statement": "",
+        "Question": "Evaluate $$\\underset{x \\rightarrow -3}{\\text{lim}} \\frac{x^{2} + 4 x + 3}{x^{2} - 9} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 2.14",
+        "Problem Statement": "",
+        "Question": "Evaluate $$\\underset{x \\rightarrow 5}{\\text{lim}} \\frac{\\sqrt{x - 1} - 2}{x - 5} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 2.15",
+        "Problem Statement": "",
+        "Question": "Evaluate $$\\underset{x \\rightarrow -3}{\\text{lim}} \\frac{\\frac{1}{x + 2} + 1}{x + 3} .$$",
+        "Image Links": [],
+        "Answer": "-1;",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 2.16",
+        "Problem Statement": "",
+        "Question": "Evaluate $$\\underset{x \\rightarrow 3}{\\text{lim}} \\left(\\right. \\frac{1}{x - 3} - \\frac{4}{x^{2} - 2 x - 3} \\left.\\right) .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 2.17",
+        "Problem Statement": "",
+        "Question": "Graph $$f ( x ) = \\{ \\left .\\begin{matrix}{a}- x - 2 \\text{if} x < \\text{unicode[:-]} 1 \\\\ 2 \\text{if} x = -1 \\\\ x^{3} \\text{if} x > \\text{unicode[:-]} 1\\end{matrix}\\right .$$ and evaluate $$\\underset{x \\rightarrow \\left(-1\\right)^{-}}{\\text{lim}} f \\left(\\right. x \\left.\\right) .$$",
+        "Image Links": [],
+        "Answer": "$$\\underset{x \\rightarrow \\left(-1\\right)^{-}}{\\text{lim}} f \\left(\\right. x \\left.\\right) = -1$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c6a6d2a479b0906e48ce2593433fbf5f6d2a27c1"
+        ]
+    },
+    {
+        "Topic": "Checkpoint 2.18",
+        "Problem Statement": "",
+        "Question": "Evaluate $$\\underset{x \\rightarrow 1}{\\text{lim}} \\frac{x + 2}{\\left(\\left(\\right. x - 1 \\left.\\right)\\right)^{2}} .$$",
+        "Image Links": [],
+        "Answer": "+\u221e",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 2.19",
+        "Problem Statement": "",
+        "Question": "Use the squeeze theorem to evaluate $$\\underset{x \\rightarrow 0}{\\text{lim}} x^{2} \\text{sin} \\frac{1}{x} .$$",
+        "Image Links": [],
+        "Answer": "0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 2.20",
+        "Problem Statement": "",
+        "Question": "Evaluate $$\\underset{\\theta \\rightarrow 0}{\\text{lim}} \\frac{1 - \\text{cos} \\theta}{\\text{sin} \\theta} .$$",
+        "Image Links": [],
+        "Answer": "0",
+        "Answer Image Links": []
+    }
+]

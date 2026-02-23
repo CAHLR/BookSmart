@@ -1,0 +1,402 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limit.",
+        "Question": "Evaluate the limit $$\\underset{x \\rightarrow \\infty}{\\text{lim}} \\frac{e^{x}}{x} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limit.",
+        "Question": "Evaluate the limit $$\\underset{x \\rightarrow \\infty}{\\text{lim}} \\frac{e^{x}}{x^{k}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\infty$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limit.",
+        "Question": "Evaluate the limit $$\\underset{x \\rightarrow \\infty}{\\text{lim}} \\frac{\\text{ln} x}{x^{k}} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limit.",
+        "Question": "Evaluate the limit $$\\underset{x \\rightarrow a}{\\text{lim}} \\frac{x - a}{x^{2} - a^{2}} , a \\neq 0$$ .",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{2 a}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limit.",
+        "Question": "Evaluate the limit $$\\underset{x \\rightarrow a}{\\text{lim}} \\frac{x - a}{x^{3} - a^{3}} , a \\neq 0$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limit.",
+        "Question": "Evaluate the limit $$\\underset{x \\rightarrow a}{\\text{lim}} \\frac{x - a}{x^{n} - a^{n}} , a \\neq 0$$ .",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{n a^{n - 1}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether you can apply L\u2019H\u00f4pital\u2019s rule directly. Explain why or why not. Then, indicate if there is some way you can alter the limit so you can apply L\u2019H\u00f4pital\u2019s rule.",
+        "Question": "$$\\underset{x \\rightarrow 0^{+}}{\\text{lim}} x^{2} \\text{ln} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether you can apply L\u2019H\u00f4pital\u2019s rule directly. Explain why or why not. Then, indicate if there is some way you can alter the limit so you can apply L\u2019H\u00f4pital\u2019s rule.",
+        "Question": "$$\\underset{x \\rightarrow \\infty}{\\text{lim}} x^{1 / x}$$",
+        "Image Links": [],
+        "Answer": "Cannot apply directly; use logarithms",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether you can apply L\u2019H\u00f4pital\u2019s rule directly. Explain why or why not. Then, indicate if there is some way you can alter the limit so you can apply L\u2019H\u00f4pital\u2019s rule.",
+        "Question": "$$\\underset{x \\rightarrow 0}{\\text{lim}} x^{2 / x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether you can apply L\u2019H\u00f4pital\u2019s rule directly. Explain why or why not. Then, indicate if there is some way you can alter the limit so you can apply L\u2019H\u00f4pital\u2019s rule.",
+        "Question": "$$\\underset{x \\rightarrow 0}{\\text{lim}} \\frac{x^{2}}{1 / x}$$",
+        "Image Links": [],
+        "Answer": "Cannot apply directly; rewrite as $$\\underset{x \\rightarrow 0}{\\text{lim}} x^{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether you can apply L\u2019H\u00f4pital\u2019s rule directly. Explain why or why not. Then, indicate if there is some way you can alter the limit so you can apply L\u2019H\u00f4pital\u2019s rule.",
+        "Question": "$$\\underset{x \\rightarrow \\infty}{\\text{lim}} \\frac{e^{x}}{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits with either L\u2019H\u00f4pital\u2019s rule or previously learned methods.",
+        "Question": "$$\\underset{x \\rightarrow 3}{\\text{lim}} \\frac{x^{2} - 9}{x - 3}$$",
+        "Image Links": [],
+        "Answer": "$$6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits with either L\u2019H\u00f4pital\u2019s rule or previously learned methods.",
+        "Question": "$$\\underset{x \\rightarrow 3}{\\text{lim}} \\frac{x^{2} - 9}{x + 3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits with either L\u2019H\u00f4pital\u2019s rule or previously learned methods.",
+        "Question": "$$\\underset{x \\rightarrow 0}{\\text{lim}} \\frac{\\left(\\left(\\right. 1 + x \\left.\\right)\\right)^{-2} - 1}{x}$$",
+        "Image Links": [],
+        "Answer": "$$-2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits with either L\u2019H\u00f4pital\u2019s rule or previously learned methods.",
+        "Question": "$$\\underset{x \\rightarrow \\pi / 2}{\\text{lim}} \\frac{\\text{cos} x}{\\frac{\\pi}{2} - x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits with either L\u2019H\u00f4pital\u2019s rule or previously learned methods.",
+        "Question": "$$\\underset{x \\rightarrow \\pi}{\\text{lim}} \\frac{x - \\pi}{\\text{sin} x}$$",
+        "Image Links": [],
+        "Answer": "$$-1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits with either L\u2019H\u00f4pital\u2019s rule or previously learned methods.",
+        "Question": "$$\\underset{x \\rightarrow 1}{\\text{lim}} \\frac{x - 1}{\\text{sin} x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits with either L\u2019H\u00f4pital\u2019s rule or previously learned methods.",
+        "Question": "$$\\underset{x \\rightarrow 0}{\\text{lim}} \\frac{\\left(\\left(\\right. 1 + x \\left.\\right)\\right)^{n} - 1}{x}$$",
+        "Image Links": [],
+        "Answer": "$$n$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits with either L\u2019H\u00f4pital\u2019s rule or previously learned methods.",
+        "Question": "$$\\underset{x \\rightarrow 0}{\\text{lim}} \\frac{\\left(\\left(\\right. 1 + x \\left.\\right)\\right)^{n} - 1 - n x}{x^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits with either L\u2019H\u00f4pital\u2019s rule or previously learned methods.",
+        "Question": "$$\\underset{x \\rightarrow 0}{\\text{lim}} \\frac{\\text{sin} x - \\text{tan} x}{x^{3}}$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{1}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits with either L\u2019H\u00f4pital\u2019s rule or previously learned methods.",
+        "Question": "$$\\underset{x \\rightarrow 0}{\\text{lim}} \\frac{\\sqrt{1 + x} - \\sqrt{1 - x}}{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits with either L\u2019H\u00f4pital\u2019s rule or previously learned methods.",
+        "Question": "$$\\underset{x \\rightarrow 0}{\\text{lim}} \\frac{e^{x} - x - 1}{x^{2}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits with either L\u2019H\u00f4pital\u2019s rule or previously learned methods.",
+        "Question": "$$\\underset{x \\rightarrow 0^{+}}{\\text{lim}} \\frac{\\text{tan} x}{\\sqrt{x}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits with either L\u2019H\u00f4pital\u2019s rule or previously learned methods.",
+        "Question": "$$\\underset{x \\rightarrow 1}{\\text{lim}} \\frac{x - 1}{\\text{ln} x}$$",
+        "Image Links": [],
+        "Answer": "$$1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits with either L\u2019H\u00f4pital\u2019s rule or previously learned methods.",
+        "Question": "$$\\underset{x \\rightarrow 0}{\\text{lim}} \\left(\\left(\\right. x + 1 \\left.\\right)\\right)^{1 / x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits with either L\u2019H\u00f4pital\u2019s rule or previously learned methods.",
+        "Question": "$$\\underset{x \\rightarrow 1}{\\text{lim}} \\frac{\\sqrt{x} - \\sqrt[3]{x}}{x - 1}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits with either L\u2019H\u00f4pital\u2019s rule or previously learned methods.",
+        "Question": "$$\\underset{x \\rightarrow 0^{+}}{\\text{lim}} x^{2 x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits with either L\u2019H\u00f4pital\u2019s rule or previously learned methods.",
+        "Question": "$$\\underset{x \\rightarrow \\infty}{\\text{lim}} x \\text{sin} \\left(\\right. \\frac{1}{x} \\left.\\right)$$",
+        "Image Links": [],
+        "Answer": "$$1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits with either L\u2019H\u00f4pital\u2019s rule or previously learned methods.",
+        "Question": "$$\\underset{x \\rightarrow 0}{\\text{lim}} \\frac{\\text{sin} x - x}{x^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits with either L\u2019H\u00f4pital\u2019s rule or previously learned methods.",
+        "Question": "$$\\underset{x \\rightarrow 0^{+}}{\\text{lim}} x \\text{ln} \\left(\\right. x^{4} \\left.\\right)$$",
+        "Image Links": [],
+        "Answer": "$$0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits with either L\u2019H\u00f4pital\u2019s rule or previously learned methods.",
+        "Question": "$$\\underset{x \\rightarrow \\infty}{\\text{lim}} \\left(\\right. x - e^{x} \\left.\\right)$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits with either L\u2019H\u00f4pital\u2019s rule or previously learned methods.",
+        "Question": "$$\\underset{x \\rightarrow \\infty}{\\text{lim}} x^{2} e^{- x}$$",
+        "Image Links": [],
+        "Answer": "$$0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits with either L\u2019H\u00f4pital\u2019s rule or previously learned methods.",
+        "Question": "$$\\underset{x \\rightarrow 0}{\\text{lim}} \\frac{3^{x} - 2^{x}}{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits with either L\u2019H\u00f4pital\u2019s rule or previously learned methods.",
+        "Question": "$$\\underset{x \\rightarrow 0}{\\text{lim}} \\frac{1 + 1 / x}{1 - 1 / x}$$",
+        "Image Links": [],
+        "Answer": "$$-1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits with either L\u2019H\u00f4pital\u2019s rule or previously learned methods.",
+        "Question": "$$\\underset{x \\rightarrow \\pi / 4}{\\text{lim}} \\left(\\right. 1 - \\text{tan} x \\left.\\right) \\text{cot} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits with either L\u2019H\u00f4pital\u2019s rule or previously learned methods.",
+        "Question": "$$\\underset{x \\rightarrow \\infty}{\\text{lim}} x e^{1 / x}$$",
+        "Image Links": [],
+        "Answer": "$$\\infty$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits with either L\u2019H\u00f4pital\u2019s rule or previously learned methods.",
+        "Question": "$$\\underset{x \\rightarrow 0^{+}}{\\text{lim}} x^{1 / \\text{cos} x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits with either L\u2019H\u00f4pital\u2019s rule or previously learned methods.",
+        "Question": "$$\\underset{x \\rightarrow 0^{+}}{\\text{lim}} x^{1 / x}$$",
+        "Image Links": [],
+        "Answer": "$$0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits with either L\u2019H\u00f4pital\u2019s rule or previously learned methods.",
+        "Question": "$$\\underset{x \\rightarrow 0^{-}}{\\text{lim}} \\left(\\left(\\right. 1 - \\frac{1}{x} \\left.\\right)\\right)^{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the limits with either L\u2019H\u00f4pital\u2019s rule or previously learned methods.",
+        "Question": "$$\\underset{x \\rightarrow \\infty}{\\text{lim}} \\left(\\left(\\right. 1 - \\frac{1}{x} \\left.\\right)\\right)^{x}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{e}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to graph the function and estimate the value of the limit, then use L\u2019H\u00f4pital\u2019s rule to find the limit directly.",
+        "Question": "[T] $$\\underset{x \\rightarrow 0}{\\text{lim}} \\frac{e^{x} - 1}{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to graph the function and estimate the value of the limit, then use L\u2019H\u00f4pital\u2019s rule to find the limit directly.",
+        "Question": "[T] $$\\underset{x \\rightarrow 0}{\\text{lim}} x \\text{sin} \\left(\\right. \\frac{1}{x} \\left.\\right)$$",
+        "Image Links": [],
+        "Answer": "$$0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to graph the function and estimate the value of the limit, then use L\u2019H\u00f4pital\u2019s rule to find the limit directly.",
+        "Question": "[T] $$\\underset{x \\rightarrow 1}{\\text{lim}} \\frac{x - 1}{1 - \\text{cos} \\left(\\right. \\pi x \\left.\\right)}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to graph the function and estimate the value of the limit, then use L\u2019H\u00f4pital\u2019s rule to find the limit directly.",
+        "Question": "[T] $$\\underset{x \\rightarrow 1}{\\text{lim}} \\frac{e^{\\left(\\right. x - 1 \\left.\\right)} - 1}{x - 1}$$",
+        "Image Links": [],
+        "Answer": "$$1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to graph the function and estimate the value of the limit, then use L\u2019H\u00f4pital\u2019s rule to find the limit directly.",
+        "Question": "[T] $$\\underset{x \\rightarrow 1}{\\text{lim}} \\frac{\\left(\\left(\\right. x - 1 \\left.\\right)\\right)^{2}}{\\text{ln} x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to graph the function and estimate the value of the limit, then use L\u2019H\u00f4pital\u2019s rule to find the limit directly.",
+        "Question": "[T] $$\\underset{x \\rightarrow \\pi}{\\text{lim}} \\frac{1 + \\text{cos} x}{\\text{sin} x}$$",
+        "Image Links": [],
+        "Answer": "$$0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to graph the function and estimate the value of the limit, then use L\u2019H\u00f4pital\u2019s rule to find the limit directly.",
+        "Question": "[T] $$\\underset{x \\rightarrow 0}{\\text{lim}} \\left(\\right. \\text{csc} x - \\frac{1}{x} \\left.\\right)$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to graph the function and estimate the value of the limit, then use L\u2019H\u00f4pital\u2019s rule to find the limit directly.",
+        "Question": "[T] $$\\underset{x \\rightarrow 0^{+}}{\\text{lim}} \\text{tan} \\left(\\right. x^{x} \\left.\\right)$$",
+        "Image Links": [],
+        "Answer": "$$\\text{tan} ( 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to graph the function and estimate the value of the limit, then use L\u2019H\u00f4pital\u2019s rule to find the limit directly.",
+        "Question": "[T] $$\\underset{x \\rightarrow 0^{+}}{\\text{lim}} \\frac{\\text{ln} x}{\\text{sin} x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to graph the function and estimate the value of the limit, then use L\u2019H\u00f4pital\u2019s rule to find the limit directly.",
+        "Question": "[T] $$\\underset{x \\rightarrow 0}{\\text{lim}} \\frac{e^{x} - e^{- x}}{x}$$",
+        "Image Links": [],
+        "Answer": "$$2$$",
+        "Answer Image Links": []
+    }
+]

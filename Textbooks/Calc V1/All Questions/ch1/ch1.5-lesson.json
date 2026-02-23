@@ -1,0 +1,678 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the given exponential functions as indicated, accurate to two significant digits after the decimal.",
+        "Question": "$$f ( x ) = 5^{x}$$ a. $$x = 3$$ b. $$x = \\frac{1}{2}$$ c. $$x = \\sqrt{2}$$",
+        "Image Links": [],
+        "Answer": "a. 125 b. 2.24 c. 9.74",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the given exponential functions as indicated, accurate to two significant digits after the decimal.",
+        "Question": "$$f ( x ) = ( 0.3 )^{x}$$ a. $$x = -1$$ b. $$x = 4$$ c. $$x = -1.5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the given exponential functions as indicated, accurate to two significant digits after the decimal.",
+        "Question": "$$f ( x ) = 10^{x}$$ a. $$x = -2$$ b. $$x = 4$$ c. $$x = \\frac{5}{3}$$",
+        "Image Links": [],
+        "Answer": "a. 0.01 b. 10,000 c. 46.42",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the given exponential functions as indicated, accurate to two significant digits after the decimal.",
+        "Question": "$$f ( x ) = e^{x}$$ a. $$x = 2$$ b. $$x = -3.2$$ c. $$x = \\pi$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, match the exponential equation to the correct graph. a) $$y = 4^{\\text{unicode[:-]} x}$$ b) $$y = 3^{x - 1}$$ c) $$y = 2^{x + 1}$$ d) $$y = ( \\frac{1}{2} )^{x} + 2$$ e) $$y = \\text{unicode[:-]} 3^{\\text{unicode[:-]} x}$$ f) $$y = 1 - 5^{x}$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3b67a35f9ac733c15ede6e28ac2e997c952b9d06"
+        ],
+        "Answer": "d",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, match the exponential equation to the correct graph. a) $$y = 4^{\\text{unicode[:-]} x}$$ b) $$y = 3^{x - 1}$$ c) $$y = 2^{x + 1}$$ d) $$y = ( \\frac{1}{2} )^{x} + 2$$ e) $$y = \\text{unicode[:-]} 3^{\\text{unicode[:-]} x}$$ f) $$y = 1 - 5^{x}$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/00e824c73dba09e08575b8d5fd5bdfadfdb0a0a2"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, match the exponential equation to the correct graph. a) $$y = 4^{\\text{unicode[:-]} x}$$ b) $$y = 3^{x - 1}$$ c) $$y = 2^{x + 1}$$ d) $$y = ( \\frac{1}{2} )^{x} + 2$$ e) $$y = \\text{unicode[:-]} 3^{\\text{unicode[:-]} x}$$ f) $$y = 1 - 5^{x}$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/cd004606a47c94ed2e5e2cf98eff400be8b75d8b"
+        ],
+        "Answer": "b",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, match the exponential equation to the correct graph. a) $$y = 4^{\\text{unicode[:-]} x}$$ b) $$y = 3^{x - 1}$$ c) $$y = 2^{x + 1}$$ d) $$y = ( \\frac{1}{2} )^{x} + 2$$ e) $$y = \\text{unicode[:-]} 3^{\\text{unicode[:-]} x}$$ f) $$y = 1 - 5^{x}$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/257502233423b0026671731937cc4840f911201d"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, match the exponential equation to the correct graph. a) $$y = 4^{\\text{unicode[:-]} x}$$ b) $$y = 3^{x - 1}$$ c) $$y = 2^{x + 1}$$ d) $$y = ( \\frac{1}{2} )^{x} + 2$$ e) $$y = \\text{unicode[:-]} 3^{\\text{unicode[:-]} x}$$ f) $$y = 1 - 5^{x}$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/09b3f04c244e2185d2cca031e80741a22ba3aacb"
+        ],
+        "Answer": "e",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, match the exponential equation to the correct graph. a) $$y = 4^{\\text{unicode[:-]} x}$$ b) $$y = 3^{x - 1}$$ c) $$y = 2^{x + 1}$$ d) $$y = ( \\frac{1}{2} )^{x} + 2$$ e) $$y = \\text{unicode[:-]} 3^{\\text{unicode[:-]} x}$$ f) $$y = 1 - 5^{x}$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1e6be6c2011fd0f8e4fefce080acce065ce8b33c"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, sketch the graph of the exponential function. Determine the domain, range, and horizontal asymptote.",
+        "Question": "$$f ( x ) = e^{x} + 2$$",
+        "Image Links": [],
+        "Answer": "Domain: all real numbers, range: $$( 2 , \\infty ) , y = 2$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/400eeb944c8a335e617959cc5a383284116d2bb8"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, sketch the graph of the exponential function. Determine the domain, range, and horizontal asymptote.",
+        "Question": "$$f ( x ) = \\text{unicode[:-]} 2^{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, sketch the graph of the exponential function. Determine the domain, range, and horizontal asymptote.",
+        "Question": "$$f ( x ) = 3^{x + 1}$$",
+        "Image Links": [],
+        "Answer": "Domain: all real numbers, range: $$( 0 , \\infty ) , y = 0$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8b174e808d031837d1cc0859628dd781bea6f2df"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, sketch the graph of the exponential function. Determine the domain, range, and horizontal asymptote.",
+        "Question": "$$f ( x ) = 4^{x} - 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, sketch the graph of the exponential function. Determine the domain, range, and horizontal asymptote.",
+        "Question": "$$f ( x ) = 1 - 2^{\\text{unicode[:-]} x}$$",
+        "Image Links": [],
+        "Answer": "Domain: all real numbers, range: $$( \\text{unicode[:-]} \\infty , 1 ) , y = 1$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/339114f544e6294afed29376151d9dc732d7a1f3"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, sketch the graph of the exponential function. Determine the domain, range, and horizontal asymptote.",
+        "Question": "$$f ( x ) = 5^{x + 1} + 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, sketch the graph of the exponential function. Determine the domain, range, and horizontal asymptote.",
+        "Question": "$$f ( x ) = e^{\\text{unicode[:-]} x} - 1$$",
+        "Image Links": [],
+        "Answer": "Domain: all real numbers, range: $$( -1 , \\infty ) , y = -1$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/25a5c8e1b3627029d10743bc615679771516b6d7"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation in equivalent exponential form.",
+        "Question": "$$\\text{log}_{3} 81 = 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation in equivalent exponential form.",
+        "Question": "$$\\text{log}_{8} 2 = \\frac{1}{3}$$",
+        "Image Links": [],
+        "Answer": "$$8^{1 \\text{/} 3} = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation in equivalent exponential form.",
+        "Question": "$$\\text{log}_{5} 1 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation in equivalent exponential form.",
+        "Question": "$$\\text{log}_{5} 25 = 2$$",
+        "Image Links": [],
+        "Answer": "$$5^{2} = 25$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation in equivalent exponential form.",
+        "Question": "$$\\text{log} 0.1 = -1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation in equivalent exponential form.",
+        "Question": "$$\\text{ln} ( \\frac{1}{e^{3}} ) = -3$$",
+        "Image Links": [],
+        "Answer": "$$e^{-3} = \\frac{1}{e^{3}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation in equivalent exponential form.",
+        "Question": "$$\\text{log}_{9} 3 = 0.5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation in equivalent exponential form.",
+        "Question": "$$\\text{ln} 1 = 0$$",
+        "Image Links": [],
+        "Answer": "$$e^{0} = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation in equivalent logarithmic form.",
+        "Question": "$$2^{3} = 8$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation in equivalent logarithmic form.",
+        "Question": "$$4^{-2} = \\frac{1}{16}$$",
+        "Image Links": [],
+        "Answer": "$$\\text{log}_{4} ( \\frac{1}{16} ) = -2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation in equivalent logarithmic form.",
+        "Question": "$$10^{2} = 100$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation in equivalent logarithmic form.",
+        "Question": "$$9^{0} = 1$$",
+        "Image Links": [],
+        "Answer": "$$\\text{log}_{9} 1 = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation in equivalent logarithmic form.",
+        "Question": "$$( \\frac{1}{3} )^{3} = \\frac{1}{27}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation in equivalent logarithmic form.",
+        "Question": "$$\\sqrt[3]{64} = 4$$",
+        "Image Links": [],
+        "Answer": "$$\\text{log}_{64} 4 = \\frac{1}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation in equivalent logarithmic form.",
+        "Question": "$$e^{x} = y$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation in equivalent logarithmic form.",
+        "Question": "$$9^{y} = 150$$",
+        "Image Links": [],
+        "Answer": "$$\\text{log}_{9} 150 = y$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation in equivalent logarithmic form.",
+        "Question": "$$b^{3} = 45$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation in equivalent logarithmic form.",
+        "Question": "$$4^{-3 \\text{/} 2} = 0.125$$",
+        "Image Links": [],
+        "Answer": "$$\\text{log}_{4} 0.125 = - \\frac{3}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, sketch the graph of the logarithmic function. Determine the domain, range, and vertical asymptote.",
+        "Question": "$$f ( x ) = 3 + \\text{ln} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, sketch the graph of the logarithmic function. Determine the domain, range, and vertical asymptote.",
+        "Question": "$$f ( x ) = \\text{ln} ( x - 1 )$$",
+        "Image Links": [],
+        "Answer": "Domain: $$( 1 , \\infty ) ,$$ range: $$( \\text{unicode[:-]} \\infty , \\infty ) , x = 1$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/603a7e6d4c2554cce92a24b61c44de8581ab41df"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, sketch the graph of the logarithmic function. Determine the domain, range, and vertical asymptote.",
+        "Question": "$$f ( x ) = \\text{ln} ( \\text{unicode[:-]} x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, sketch the graph of the logarithmic function. Determine the domain, range, and vertical asymptote.",
+        "Question": "$$f ( x ) = 1 - \\text{ln} x$$",
+        "Image Links": [],
+        "Answer": "Domain: $$( 0 , \\infty ) ,$$ range: $$( \\text{unicode[:-]} \\infty , \\infty ) , x = 0$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7f557d82ada3b4817f28e5824c8b73aee1b75261"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, sketch the graph of the logarithmic function. Determine the domain, range, and vertical asymptote.",
+        "Question": "$$f ( x ) = \\text{log} x - 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, sketch the graph of the logarithmic function. Determine the domain, range, and vertical asymptote.",
+        "Question": "$$f ( x ) = \\text{ln} ( x + 1 )$$",
+        "Image Links": [],
+        "Answer": "Domain: $$( -1 , \\infty ) ,$$ range: $$( \\text{unicode[:-]} \\infty , \\infty ) , x = -1$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/74e453f41812413a2de94f0e326150a9622d142e"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use properties of logarithms to write the expressions as a sum, difference, and/or product of logarithms.",
+        "Question": "$$\\text{log} x^{4} y$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use properties of logarithms to write the expressions as a sum, difference, and/or product of logarithms.",
+        "Question": "$$\\text{log}_{3} \\frac{9 a^{3}}{b}$$",
+        "Image Links": [],
+        "Answer": "$$2 + 3 \\text{log}_{3} a - \\text{log}_{3} b$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use properties of logarithms to write the expressions as a sum, difference, and/or product of logarithms.",
+        "Question": "$$\\text{ln} a \\sqrt[3]{b}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use properties of logarithms to write the expressions as a sum, difference, and/or product of logarithms.",
+        "Question": "$$\\text{log}_{5} \\sqrt{125 x y^{3}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3}{2} + \\frac{1}{2} \\text{log}_{5} x + \\frac{3}{2} \\text{log}_{5} y$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use properties of logarithms to write the expressions as a sum, difference, and/or product of logarithms.",
+        "Question": "$$\\text{log}_{4} \\frac{\\sqrt[3]{x y}}{64}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use properties of logarithms to write the expressions as a sum, difference, and/or product of logarithms.",
+        "Question": "$$\\text{ln} ( \\frac{6}{\\sqrt{e^{3}}} )$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{3}{2} + \\text{ln} 6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the exponential equation exactly.",
+        "Question": "$$5^{x} = 125$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the exponential equation exactly.",
+        "Question": "$$e^{3 x} - 15 = 0$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\text{ln} 15}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the exponential equation exactly.",
+        "Question": "$$8^{x} = 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the exponential equation exactly.",
+        "Question": "$$4^{x + 1} - 32 = 0$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the exponential equation exactly.",
+        "Question": "$$3^{x \\text{/} 14} = \\frac{1}{10}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the exponential equation exactly.",
+        "Question": "$$10^{x} = 7.21$$",
+        "Image Links": [],
+        "Answer": "$$\\text{log} 7.21$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the exponential equation exactly.",
+        "Question": "$$4 \\cdotp 2^{3 x} - 20 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the exponential equation exactly.",
+        "Question": "$$7^{3 x - 2} = 11$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2}{3} + \\frac{\\text{log} 11}{3 \\text{log} 7}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the logarithmic equation exactly, if possible.",
+        "Question": "$$\\text{log}_{3} x = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the logarithmic equation exactly, if possible.",
+        "Question": "$$\\text{log}_{5} x = -2$$",
+        "Image Links": [],
+        "Answer": "$$x = \\frac{1}{25}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the logarithmic equation exactly, if possible.",
+        "Question": "$$\\text{log}_{4} ( x + 5 ) = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the logarithmic equation exactly, if possible.",
+        "Question": "$$\\text{log} ( 2 x - 7 ) = 0$$",
+        "Image Links": [],
+        "Answer": "$$x = 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the logarithmic equation exactly, if possible.",
+        "Question": "$$\\text{ln} \\sqrt{x + 3} = 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the logarithmic equation exactly, if possible.",
+        "Question": "$$\\text{log}_{6} ( x + 9 ) + \\text{log}_{6} x = 2$$",
+        "Image Links": [],
+        "Answer": "$$x = 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the logarithmic equation exactly, if possible.",
+        "Question": "$$\\text{log}_{4} ( x + 2 ) - \\text{log}_{4} ( x - 1 ) = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the logarithmic equation exactly, if possible.",
+        "Question": "$$\\text{ln} x + \\text{ln} ( x - 2 ) = \\text{ln} 4$$",
+        "Image Links": [],
+        "Answer": "$$1 + \\sqrt{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the change-of-base formula and either base 10 or base e to evaluate the given expressions. Answer in exact form and in approximate form, rounding to four decimal places.",
+        "Question": "$$\\text{log}_{5} 47$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the change-of-base formula and either base 10 or base e to evaluate the given expressions. Answer in exact form and in approximate form, rounding to four decimal places.",
+        "Question": "$$\\text{log}_{7} 82$$",
+        "Image Links": [],
+        "Answer": "$$( \\frac{\\text{log} 82}{\\text{log} 7} \\approx 2.2646 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the change-of-base formula and either base 10 or base e to evaluate the given expressions. Answer in exact form and in approximate form, rounding to four decimal places.",
+        "Question": "$$\\text{log}_{6} 103$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the change-of-base formula and either base 10 or base e to evaluate the given expressions. Answer in exact form and in approximate form, rounding to four decimal places.",
+        "Question": "$$\\text{log}_{0.5} 211$$",
+        "Image Links": [],
+        "Answer": "$$( \\frac{\\text{log} 211}{\\text{log} 0.5} \\approx - 7.7211 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the change-of-base formula and either base 10 or base e to evaluate the given expressions. Answer in exact form and in approximate form, rounding to four decimal places.",
+        "Question": "$$\\text{log}_{2} \\pi$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the change-of-base formula and either base 10 or base e to evaluate the given expressions. Answer in exact form and in approximate form, rounding to four decimal places.",
+        "Question": "$$\\text{log}_{0.2} 0.452$$",
+        "Image Links": [],
+        "Answer": "$$( \\frac{\\text{log} 0.452}{\\text{log} 0.2} \\approx 0.4934 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the change-of-base formula and either base 10 or base e to evaluate the given expressions. Answer in exact form and in approximate form, rounding to four decimal places.",
+        "Question": "Rewrite the following expressions in terms of exponentials and simplify. a. $$2 \\text{cosh} ( \\text{ln} x )$$ b. $$\\text{cosh} 4 x + \\text{sinh} 4 x$$ c. $$\\text{cosh} 2 x - \\text{sinh} 2 x$$ d. $$\\text{ln} ( \\text{cosh} x + \\text{sinh} x ) + \\text{ln} ( \\text{cosh} x - \\text{sinh} x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the change-of-base formula and either base 10 or base e to evaluate the given expressions. Answer in exact form and in approximate form, rounding to four decimal places.",
+        "Question": "[T] The number of bacteria N in a culture after t days can be modeled by the function $$N ( t ) = 1300 \\cdotp ( 2 )^{t \\text{/} 4} .$$ Find the number of bacteria present after 15 days.",
+        "Image Links": [],
+        "Answer": "$$\\tilde{17} , 491$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the change-of-base formula and either base 10 or base e to evaluate the given expressions. Answer in exact form and in approximate form, rounding to four decimal places.",
+        "Question": "[T] The demand D (in millions of barrels) for oil in an oil-rich country is given by the function $$D ( p ) = 150 \\cdotp ( 2.7 )^{-0.25 p} ,$$ where p is the price (in dollars) of a barrel of oil. Find the amount of oil demanded (to the nearest million barrels) when the price is between $15 and $20.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the change-of-base formula and either base 10 or base e to evaluate the given expressions. Answer in exact form and in approximate form, rounding to four decimal places.",
+        "Question": "[T] The amount A of a $100,000 investment paying continuously and compounded for t years is given by $$A ( t ) = 100,000 \\cdotp e^{0.055 t} .$$ Find the amount A accumulated in 5 years.",
+        "Image Links": [],
+        "Answer": "Approximately $131,653 is accumulated in 5 years.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the change-of-base formula and either base 10 or base e to evaluate the given expressions. Answer in exact form and in approximate form, rounding to four decimal places.",
+        "Question": "[T] An investment is compounded monthly, quarterly, or yearly and is given by the function $$A = P ( 1 + \\frac{j}{n} )^{n t} ,$$ where $$A$$ is the value of the investment at time $$t , P$$ is the initial principle that was invested, $$j$$ is the annual interest rate, and $$n$$ is the number of time the interest is compounded per year. Given a yearly interest rate of 3.5% and an initial principle of $100,000, find the amount $$A$$ accumulated in 5 years for interest that is compounded a. daily, b., monthly, c. quarterly, and d. yearly.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the change-of-base formula and either base 10 or base e to evaluate the given expressions. Answer in exact form and in approximate form, rounding to four decimal places.",
+        "Question": "[T] The concentration of hydrogen ions in a substance is denoted by $$[ \\text{H}^{+} ] ,$$ measured in moles per liter. The pH of a substance is defined by the logarithmic function $$\\text{pH} = \\text{unicode[:-]} \\text{log} [ \\text{H}^{+} ] .$$ This function is used to measure the acidity of a substance. The pH of water is 7. A substance with a pH less than 7 is an acid, whereas one that has a pH of more than 7 is a base. Find the pH of the following substances. Round answers to one digit. Determine whether the substance is an acid or a base. Eggs: $$[ \\text{H}^{+} ] = 1.6 \\times 10^{-8}$$ mol/L Beer: $$[ \\text{H}^{+} ] = 3.16 \\times 10^{-3}$$ mol/L Tomato Juice: $$[ \\text{H}^{+} ] = 7.94 \\times 10^{-5}$$ mol/L",
+        "Image Links": [],
+        "Answer": "i. a. pH = 8 b. Base ii. a. pH = 3 b. Acid iii. a. pH = 4 b. Acid",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the change-of-base formula and either base 10 or base e to evaluate the given expressions. Answer in exact form and in approximate form, rounding to four decimal places.",
+        "Question": "[T] Iodine-131 is a radioactive substance that decays according to the function $$Q ( t ) = Q_{0} \\cdotp e^{-0.08664 t} ,$$ where $$Q_{0}$$ is the initial quantity of a sample of the substance and t is in days. Determine how long it takes (to the nearest day) for 95% of a quantity to decay.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the change-of-base formula and either base 10 or base e to evaluate the given expressions. Answer in exact form and in approximate form, rounding to four decimal places.",
+        "Question": "[T] According to the World Bank, at the end of 2013 ( $$t = 0$$ ) the U.S. population was 316 million and was increasing according to the following model: $$P ( t ) = 316 e^{0.0074 t} ,$$ where P is measured in millions of people and t is measured in years after 2013. Based on this model, what will be the population of the United States in 2020? Determine when the U.S. population will be twice what it is in 2013.",
+        "Image Links": [],
+        "Answer": "a. $$\\tilde{333}$$ million b. 94 years from 2013, or in 2107",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the change-of-base formula and either base 10 or base e to evaluate the given expressions. Answer in exact form and in approximate form, rounding to four decimal places.",
+        "Question": "[T] The amount A accumulated after 1000 dollars is invested for t years at an interest rate of 4% is modeled by the function $$A ( t ) = 1000 ( 1.04 )^{t} .$$ Find the amount accumulated after 5 years and 10 years. Determine how long it takes for the original investment to triple.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the change-of-base formula and either base 10 or base e to evaluate the given expressions. Answer in exact form and in approximate form, rounding to four decimal places.",
+        "Question": "[T] A bacterial colony grown in a lab is known to double in number in 12 hours. Suppose, initially, there are 1000 bacteria present. Use the exponential function $$Q = Q_{0} e^{k t}$$ to determine the value $$k ,$$ which is the growth rate of the bacteria. Round to four decimal places. Determine approximately how long it takes for 200,000 bacteria to grow.",
+        "Image Links": [],
+        "Answer": "a. $$k \\approx 0.0578$$ b. $$\\approx 92$$ hours",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the change-of-base formula and either base 10 or base e to evaluate the given expressions. Answer in exact form and in approximate form, rounding to four decimal places.",
+        "Question": "[T] The rabbit population on a game reserve doubles every 6 months. Suppose there were 120 rabbits initially. Use the exponential function $$P = P_{0} a^{t}$$ to determine the growth rate constant $$a .$$ Round to four decimal places. Use the function in part a. to determine approximately how long it takes for the rabbit population to reach 3500.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the change-of-base formula and either base 10 or base e to evaluate the given expressions. Answer in exact form and in approximate form, rounding to four decimal places.",
+        "Question": "[T] The 1906 earthquake in San Francisco had a magnitude of 8.3 on the Richter scale. At the same time, in Japan, an earthquake with magnitude 4.9 caused only minor damage. Approximately how much more intense was the San Francisco earthquake than the Japanese earthquake? See the definition of Richter Scale in [link] in this section.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/da5ea7c124fbcb7af153c1ddf0b01a102088e711"
+        ],
+        "Answer": "The San Francisco earthquake was $$10^{3.4} \\text{or} \\approx 2512$$ times more intense than the Japanese earthquake.",
+        "Answer Image Links": []
+    }
+]

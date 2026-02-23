@@ -1,0 +1,354 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "What is the linear approximation for any generic linear function $$y = m x + b ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Determine the necessary conditions such that the linear approximation function is constant. Use a graph to prove your result.",
+        "Image Links": [],
+        "Answer": "$$f^{\\prime} ( a ) = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Explain why the linear approximation becomes less accurate as you increase the distance between $$x$$ and $$a .$$ Use a graph to prove your argument.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "When is the linear approximation exact?",
+        "Image Links": [],
+        "Answer": "The linear approximation exact when $$y = f ( x )$$ is linear or constant.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the linear approximation $$L ( x )$$ to $$y = f ( x )$$ near $$x = a$$ for the function.",
+        "Question": "$$f ( x ) = x + x^{4} , a = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the linear approximation $$L ( x )$$ to $$y = f ( x )$$ near $$x = a$$ for the function.",
+        "Question": "$$f ( x ) = \\frac{1}{x} , a = 2$$",
+        "Image Links": [],
+        "Answer": "$$L ( x ) = \\frac{1}{2} - \\frac{1}{4} ( x - 2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the linear approximation $$L ( x )$$ to $$y = f ( x )$$ near $$x = a$$ for the function.",
+        "Question": "$$f ( x ) = \\text{tan} x , a = \\frac{\\pi}{4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the linear approximation $$L ( x )$$ to $$y = f ( x )$$ near $$x = a$$ for the function.",
+        "Question": "$$f ( x ) = \\text{sin} x , a = \\frac{\\pi}{2}$$",
+        "Image Links": [],
+        "Answer": "$$L ( x ) = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the linear approximation $$L ( x )$$ to $$y = f ( x )$$ near $$x = a$$ for the function.",
+        "Question": "$$f ( x ) = x \\text{sin} x , a = 2 \\pi$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the linear approximation $$L ( x )$$ to $$y = f ( x )$$ near $$x = a$$ for the function.",
+        "Question": "$$f ( x ) = \\text{sin}^{2} x , a = 0$$",
+        "Image Links": [],
+        "Answer": "$$L ( x ) = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, compute the values given within 0.01 by deciding on the appropriate $$f ( x )$$ and $$a ,$$ and evaluating $$L ( x ) = f ( a ) + f^{\\prime} ( a ) ( x - a ) .$$ Check your answer using a calculator.",
+        "Question": "[T] $$( 2.001 )^{6}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, compute the values given within 0.01 by deciding on the appropriate $$f ( x )$$ and $$a ,$$ and evaluating $$L ( x ) = f ( a ) + f^{\\prime} ( a ) ( x - a ) .$$ Check your answer using a calculator.",
+        "Question": "[T] $$\\text{sin} ( 0.02 )$$",
+        "Image Links": [],
+        "Answer": "0.02",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, compute the values given within 0.01 by deciding on the appropriate $$f ( x )$$ and $$a ,$$ and evaluating $$L ( x ) = f ( a ) + f^{\\prime} ( a ) ( x - a ) .$$ Check your answer using a calculator.",
+        "Question": "[T] $$\\text{cos} ( 0.03 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, compute the values given within 0.01 by deciding on the appropriate $$f ( x )$$ and $$a ,$$ and evaluating $$L ( x ) = f ( a ) + f^{\\prime} ( a ) ( x - a ) .$$ Check your answer using a calculator.",
+        "Question": "[T] $$( 15.99 )^{1 \\text{/} 4}$$",
+        "Image Links": [],
+        "Answer": "$$1.9996875$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, compute the values given within 0.01 by deciding on the appropriate $$f ( x )$$ and $$a ,$$ and evaluating $$L ( x ) = f ( a ) + f^{\\prime} ( a ) ( x - a ) .$$ Check your answer using a calculator.",
+        "Question": "[T] $$\\frac{1}{0.98}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, compute the values given within 0.01 by deciding on the appropriate $$f ( x )$$ and $$a ,$$ and evaluating $$L ( x ) = f ( a ) + f^{\\prime} ( a ) ( x - a ) .$$ Check your answer using a calculator.",
+        "Question": "[T] $$\\text{sin} ( 3.14 )$$",
+        "Image Links": [],
+        "Answer": "$$0.001593$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine the appropriate $$f ( x )$$ and $$a ,$$ and evaluate $$L ( x ) = f ( a ) + f^{\\prime} ( a ) ( x - a ) .$$ Calculate the numerical error in the linear approximations that follow.",
+        "Question": "[T] $$( 1.01 )^{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine the appropriate $$f ( x )$$ and $$a ,$$ and evaluate $$L ( x ) = f ( a ) + f^{\\prime} ( a ) ( x - a ) .$$ Calculate the numerical error in the linear approximations that follow.",
+        "Question": "[T] $$\\text{cos} ( 0.01 )$$",
+        "Image Links": [],
+        "Answer": "$$1 ;$$ error, $$~0.00005$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine the appropriate $$f ( x )$$ and $$a ,$$ and evaluate $$L ( x ) = f ( a ) + f^{\\prime} ( a ) ( x - a ) .$$ Calculate the numerical error in the linear approximations that follow.",
+        "Question": "[T] $$( \\text{sin} ( 0.01 ) )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine the appropriate $$f ( x )$$ and $$a ,$$ and evaluate $$L ( x ) = f ( a ) + f^{\\prime} ( a ) ( x - a ) .$$ Calculate the numerical error in the linear approximations that follow.",
+        "Question": "[T] $$( 1.01 )^{-3}$$",
+        "Image Links": [],
+        "Answer": "$$0.97 ;$$ error, $$~0.0006$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine the appropriate $$f ( x )$$ and $$a ,$$ and evaluate $$L ( x ) = f ( a ) + f^{\\prime} ( a ) ( x - a ) .$$ Calculate the numerical error in the linear approximations that follow.",
+        "Question": "[T] $$( 1 + \\frac{1}{10} )^{10}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine the appropriate $$f ( x )$$ and $$a ,$$ and evaluate $$L ( x ) = f ( a ) + f^{\\prime} ( a ) ( x - a ) .$$ Calculate the numerical error in the linear approximations that follow.",
+        "Question": "[T] $$\\sqrt{8.99}$$",
+        "Image Links": [],
+        "Answer": "$$3 - \\frac{1}{600} ;$$ error, $$~4.632 \\times 10^{-7}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the differential of the function.",
+        "Question": "$$y = 3 x^{4} + x^{2} - 2 x + 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the differential of the function.",
+        "Question": "$$y = x \\text{cos} x$$",
+        "Image Links": [],
+        "Answer": "$$d y = ( \\text{cos} x - x \\text{sin} x ) d x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the differential of the function.",
+        "Question": "$$y = \\sqrt{1 + x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the differential of the function.",
+        "Question": "$$y = \\frac{x^{2} + 2}{x - 1}$$",
+        "Image Links": [],
+        "Answer": "$$d y = ( \\frac{x^{2} - 2 x - 2}{( x - 1 )^{2}} ) d x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the differential and evaluate for the given $$x$$ and $$d x .$$",
+        "Question": "$$y = 3 x^{2} - x + 6 ,$$ $$x = 2 ,$$ $$d x = 0.1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the differential and evaluate for the given $$x$$ and $$d x .$$",
+        "Question": "$$y = \\frac{1}{x + 1} ,$$ $$x = 1 ,$$ $$d x = 0.25$$",
+        "Image Links": [],
+        "Answer": "$$d y = - \\frac{1}{( x + 1 )^{2}} d x ,$$ $$- \\frac{1}{16}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the differential and evaluate for the given $$x$$ and $$d x .$$",
+        "Question": "$$y = \\text{tan} x ,$$ $$x = 0 ,$$ $$d x = \\frac{\\pi}{10}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the differential and evaluate for the given $$x$$ and $$d x .$$",
+        "Question": "$$y = \\frac{3 x^{2} + 2}{\\sqrt{x + 1}} ,$$ $$x = 0 ,$$ $$d x = 0.1$$",
+        "Image Links": [],
+        "Answer": "$$d y = \\frac{9 x^{2} + 12 x - 2}{2 ( x + 1 )^{3 \\text{/} 2}} d x ,$$ $$-0.1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the differential and evaluate for the given $$x$$ and $$d x .$$",
+        "Question": "$$y = \\frac{\\text{sin} ( 2 x )}{x} ,$$ $$x = \\pi ,$$ $$d x = 0.25$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the differential and evaluate for the given $$x$$ and $$d x .$$",
+        "Question": "$$y = x^{3} + 2 x + \\frac{1}{x} ,$$ $$x = 1 ,$$ $$d x = 0.05$$",
+        "Image Links": [],
+        "Answer": "$$d y = ( 3 x^{2} + 2 - \\frac{1}{x^{2}} ) d x ,$$ $$0.2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the change in volume $$d V$$ or in surface area $$d A .$$",
+        "Question": "$$d V$$ if the sides of a cube change from 10 to 10.1.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the change in volume $$d V$$ or in surface area $$d A .$$",
+        "Question": "$$d A$$ if the sides of a cube change from $$x$$ to $$x + d x .$$",
+        "Image Links": [],
+        "Answer": "$$12 x d x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the change in volume $$d V$$ or in surface area $$d A .$$",
+        "Question": "$$d A$$ if the radius of a sphere changes from $$r$$ by $$d r .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the change in volume $$d V$$ or in surface area $$d A .$$",
+        "Question": "$$d V$$ if the radius of a sphere changes from $$r$$ by $$d r .$$",
+        "Image Links": [],
+        "Answer": "$$4 \\pi r^{2} d r$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the change in volume $$d V$$ or in surface area $$d A .$$",
+        "Question": "$$d V$$ if a circular cylinder with $$r = 2$$ changes height from 3 cm to $$3.05 \\text{cm} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the change in volume $$d V$$ or in surface area $$d A .$$",
+        "Question": "$$d V$$ if a circular cylinder of height 3 changes from $$r = 2$$ to $$r = 1.9 \\text{cm} .$$",
+        "Image Links": [],
+        "Answer": "$$-1.2 \\pi \\text{cm}^{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the change in volume $$d V$$ or in surface area $$d A .$$",
+        "Question": "A spherical golf ball is measured to have a radius of $$5 \\text{mm} ,$$ with a possible measurement error of $$0.1 \\text{mm} .$$ What is the possible change in volume?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the change in volume $$d V$$ or in surface area $$d A .$$",
+        "Question": "A pool has a rectangular base of 10 ft by 20 ft and a depth of 6 ft. What is the change in volume if you only fill it up to 5.5 ft?",
+        "Image Links": [],
+        "Answer": "$$-100$$ ft 3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the change in volume $$d V$$ or in surface area $$d A .$$",
+        "Question": "An ice cream cone has height 4 in. and radius 1 in. If the cone is 0.1 in. thick, what is the difference between the volume of the cone, including the shell, and the volume of the ice cream you can fit inside the shell?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, confirm the approximations by using the linear approximation at $$x = 0 .$$",
+        "Question": "$$\\sqrt{1 - x} \\approx 1 - \\frac{1}{2} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, confirm the approximations by using the linear approximation at $$x = 0 .$$",
+        "Question": "$$\\frac{1}{\\sqrt{1 - x^{2}}} \\approx 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, confirm the approximations by using the linear approximation at $$x = 0 .$$",
+        "Question": "$$\\sqrt{c^{2} + x^{2}} \\approx c$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

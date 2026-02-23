@@ -1,0 +1,380 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, answer by proof, counterexample, or explanation.",
+        "Question": "When you find the maximum for an optimization problem, why do you need to check the sign of the derivative around the critical points?",
+        "Image Links": [],
+        "Answer": "The critical points can be the minima, maxima, or neither.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, answer by proof, counterexample, or explanation.",
+        "Question": "Why do you need to check the endpoints for optimization problems?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, answer by proof, counterexample, or explanation.",
+        "Question": "True or False . For every continuous nonlinear function, you can find the value $$x$$ that maximizes the function.",
+        "Image Links": [],
+        "Answer": "False; $$y = x^{2}$$ has a minimum only",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, answer by proof, counterexample, or explanation.",
+        "Question": "True or False . For every continuous nonconstant function on a closed, finite domain, there exists at least one $$x$$ that minimizes or maximizes the function.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, set up and evaluate each optimization problem.",
+        "Question": "To carry a suitcase on an airplane, the length $$+ \\text{width} +$$ height of the box must be less than or equal to $$62 \\text{in} .$$ Assuming the base of the suitcase is square, show that the volume is $$V = h ( 31 - ( \\frac{1}{2} ) h )^{2} .$$ What height allows you to have the largest volume?",
+        "Image Links": [],
+        "Answer": "$$h = \\frac{62}{3}$$ in.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, set up and evaluate each optimization problem.",
+        "Question": "You are constructing a cardboard box with the dimensions $$\\text{2 m by 4 m} .$$ You then cut equal-size squares from each corner so you may fold the edges. What are the dimensions of the box with the largest volume?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/76141d03435531db0db595ea9036682599489563"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, set up and evaluate each optimization problem.",
+        "Question": "Find the positive integer that minimizes the sum of the number and its reciprocal.",
+        "Image Links": [],
+        "Answer": "$$1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, set up and evaluate each optimization problem.",
+        "Question": "Find two positive integers such that their sum is $$10 ,$$ and minimize and maximize the sum of their squares.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider the construction of a pen to enclose an area.",
+        "Question": "You have $$400 \\text{ft}$$ of fencing to construct a rectangular pen for cattle. What are the dimensions of the pen that maximize the area?",
+        "Image Links": [],
+        "Answer": "$$100 \\text{ft by} 100 \\text{ft}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider the construction of a pen to enclose an area.",
+        "Question": "You have $$800 \\text{ft}$$ of fencing to make a pen for hogs. If you have a river on one side of your property, what is the dimension of the rectangular pen that maximizes the area?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider the construction of a pen to enclose an area.",
+        "Question": "You need to construct a fence around an area of $$1600 \\text{ft}^{2} .$$ What are the dimensions of the rectangular pen to minimize the amount of material needed?",
+        "Image Links": [],
+        "Answer": "$$40 \\text{ft by} 40 \\text{ft}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider the construction of a pen to enclose an area.",
+        "Question": "Two poles are connected by a wire that is also connected to the ground. The first pole is $$20 \\text{ft}$$ tall and the second pole is $$10 \\text{ft}$$ tall. There is a distance of $$30 \\text{ft}$$ between the two poles. Where should the wire be anchored to the ground to minimize the amount of wire needed?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b552f9631ff58624c44af7691ed7dae547f26758"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider the construction of a pen to enclose an area.",
+        "Question": "[T] You are moving into a new apartment and notice there is a corner where the hallway narrows from $$\\text{8 ft to 6 ft} .$$ What is the length of the longest item that can be carried horizontally around the corner?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9add332d61f77baa6afad058021dae1670598b86"
+        ],
+        "Answer": "$$19.73 \\text{ft} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider the construction of a pen to enclose an area.",
+        "Question": "A patient\u2019s pulse measures $$\\text{70 bpm, 80 bpm, then 120 bpm} .$$ To determine an accurate measurement of pulse, the doctor wants to know what value minimizes the expression $$( x - 70 )^{2} + ( x - 80 )^{2} + ( x - 120 )^{2} ?$$ What value minimizes it?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider the construction of a pen to enclose an area.",
+        "Question": "In the previous problem, assume the patient was nervous during the third measurement, so we only weight that value half as much as the others. What is the value that minimizes $$( x - 70 )^{2} + ( x - 80 )^{2} + \\frac{1}{2} ( x - 120 )^{2} ?$$",
+        "Image Links": [],
+        "Answer": "$$84 \\text{bpm}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider the construction of a pen to enclose an area.",
+        "Question": "You can run at a speed of $$6$$ mph and swim at a speed of $$3$$ mph and are located on the shore, $$4$$ miles east of an island that is $$1$$ mile north of the shoreline. How far should you run west to minimize the time needed to reach the island?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1c21872fdaa3cac69e1282e5dc2eab2c25f817b8"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, consider a lifeguard at a circular pool with diameter $$40 \\text{m} .$$ He must reach someone who is drowning on the exact opposite side of the pool, at position $$C .$$ The lifeguard swims with a speed $$v$$ and runs around the pool at speed $$w = 3 v .$$ ",
+        "Question": "Find a function that measures the total amount of time it takes to reach the drowning person as a function of the swim angle, $$\\theta .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/eece1782d78954d47c450c86008f4fc0b7f2da4c"
+        ],
+        "Answer": "$$T ( \\theta ) = \\frac{40 \\theta}{3 v} + \\frac{40 \\text{cos} \\theta}{v}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, consider a lifeguard at a circular pool with diameter $$40 \\text{m} .$$ He must reach someone who is drowning on the exact opposite side of the pool, at position $$C .$$ The lifeguard swims with a speed $$v$$ and runs around the pool at speed $$w = 3 v .$$ ",
+        "Question": "Find at what angle $$\\theta$$ the lifeguard should swim to reach the drowning person in the least amount of time.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/eece1782d78954d47c450c86008f4fc0b7f2da4c"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, consider a lifeguard at a circular pool with diameter $$40 \\text{m} .$$ He must reach someone who is drowning on the exact opposite side of the pool, at position $$C .$$ The lifeguard swims with a speed $$v$$ and runs around the pool at speed $$w = 3 v .$$ ",
+        "Question": "A truck uses gas as $$g ( v ) = a v + \\frac{b}{v} ,$$ where $$v$$ represents the speed of the truck and $$g$$ represents the gallons of fuel per mile. Assuming $$a$$ and $$b$$ are positive, at what speed is fuel consumption minimized?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/eece1782d78954d47c450c86008f4fc0b7f2da4c"
+        ],
+        "Answer": "$$v = \\sqrt{\\frac{b}{a}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider a limousine that gets $$m ( v ) = \\frac{( 120 - 2 v )}{5} \\text{mi/gal}$$ at speed $$v ,$$ the chauffeur costs $$\\text{$15/h} ,$$ and gas is $$\\text{$} 3.5 \\text{/} \\text{gal} .$$",
+        "Question": "Find the cost per mile at speed $$v .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider a limousine that gets $$m ( v ) = \\frac{( 120 - 2 v )}{5} \\text{mi/gal}$$ at speed $$v ,$$ the chauffeur costs $$\\text{$15/h} ,$$ and gas is $$\\text{$} 3.5 \\text{/} \\text{gal} .$$",
+        "Question": "Find the cheapest driving speed.",
+        "Image Links": [],
+        "Answer": "approximately $$34 \\text{mph}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider a pizzeria that sell pizzas for a revenue of $$R ( x ) = a x$$ and costs $$C ( x ) = b + c x + d x^{2} ,$$ where $$x$$ represents the number of pizzas $$; \\  a \\  > \\  c$$ .",
+        "Question": "Find the profit function for the number of pizzas. How many pizzas gives the largest profit per pizza?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider a pizzeria that sell pizzas for a revenue of $$R ( x ) = a x$$ and costs $$C ( x ) = b + c x + d x^{2} ,$$ where $$x$$ represents the number of pizzas $$; \\  a \\  > \\  c$$ .",
+        "Question": "Assume that $$R ( x ) = 10 x$$ and $$C ( x ) = 2 x + x^{2} .$$ How many pizzas sold maximizes the profit?",
+        "Image Links": [],
+        "Answer": "$$4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider a pizzeria that sell pizzas for a revenue of $$R ( x ) = a x$$ and costs $$C ( x ) = b + c x + d x^{2} ,$$ where $$x$$ represents the number of pizzas $$; \\  a \\  > \\  c$$ .",
+        "Question": "Assume that $$R ( x ) = 15 x ,$$ and $$C ( x ) = 60 + 3 x + \\frac{1}{2} x^{2} .$$ How many pizzas sold maximizes the profit?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider a wire $$4 \\text{ft}$$ long cut into two pieces. One piece forms a circle with radius $$r$$ and the other forms a square of side $$x .$$",
+        "Question": "Choose $$x$$ to maximize the sum of their areas.",
+        "Image Links": [],
+        "Answer": "$$0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider a wire $$4 \\text{ft}$$ long cut into two pieces. One piece forms a circle with radius $$r$$ and the other forms a square of side $$x .$$",
+        "Question": "Choose $$x$$ to minimize the sum of their areas.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider two nonnegative numbers $$x$$ and $$y$$ such that $$x + y = 10 .$$ Maximize and minimize the quantities.",
+        "Question": "$$x y$$",
+        "Image Links": [],
+        "Answer": "Maximal: $$x = 5 , y = 5 ;$$ minimal: $$x = 0 , y = 10$$ and $$y = 0 , x = 10$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider two nonnegative numbers $$x$$ and $$y$$ such that $$x + y = 10 .$$ Maximize and minimize the quantities.",
+        "Question": "$$x^{2} y^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider two nonnegative numbers $$x$$ and $$y$$ such that $$x + y = 10 .$$ Maximize and minimize the quantities.",
+        "Question": "$$y - \\frac{1}{x}$$",
+        "Image Links": [],
+        "Answer": "Maximal: $$x = 1 , y = 9 ;$$ minimal: none",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider two nonnegative numbers $$x$$ and $$y$$ such that $$x + y = 10 .$$ Maximize and minimize the quantities.",
+        "Question": "$$x^{2} - y$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, draw the given optimization problem and solve.",
+        "Question": "Find the volume of the largest right circular cylinder that fits in a sphere of radius $$1 .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{4 \\pi}{3 \\sqrt{3}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, draw the given optimization problem and solve.",
+        "Question": "Find the volume of the largest right cone that fits in a sphere of radius $$1 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, draw the given optimization problem and solve.",
+        "Question": "Find the area of the largest rectangle that fits into the triangle with sides $$x = 0 , y = 0$$ and $$\\frac{x}{4} + \\frac{y}{6} = 1 .$$",
+        "Image Links": [],
+        "Answer": "$$6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, draw the given optimization problem and solve.",
+        "Question": "Find the largest volume of a cylinder that fits into a cone that has base radius $$R$$ and height $$h .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, draw the given optimization problem and solve.",
+        "Question": "Find the dimensions of the closed cylinder volume $$V = 16 \\pi$$ that has the least amount of surface area.",
+        "Image Links": [],
+        "Answer": "$$r = 2 , h = 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, draw the given optimization problem and solve.",
+        "Question": "Find the dimensions of a right cone with surface area $$S = 4 \\pi$$ that has the largest volume.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider the points on the given graphs. Use a calculator to graph the functions.",
+        "Question": "[T] Where is the line $$y = 5 - 2 x$$ closest to the origin?",
+        "Image Links": [],
+        "Answer": "$$( 2 , 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider the points on the given graphs. Use a calculator to graph the functions.",
+        "Question": "[T] Where is the line $$y = 5 - 2 x$$ closest to point $$( 1 , 1 ) ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider the points on the given graphs. Use a calculator to graph the functions.",
+        "Question": "[T] Where is the parabola $$y = x^{2}$$ closest to point $$( 2 , 0 ) ?$$",
+        "Image Links": [],
+        "Answer": "$$( 0.8351 , 0.6974 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider the points on the given graphs. Use a calculator to graph the functions.",
+        "Question": "[T] Where is the parabola $$y = x^{2}$$ closest to point $$( 0 , 3 ) ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, set up, but do not evaluate, each optimization problem.",
+        "Question": "A window is composed of a semicircle placed on top of a rectangle. If you have $$20 \\text{ft}$$ of window-framing materials for the outer frame, what is the maximum size of the window you can create? Use $$r$$ to represent the radius of the semicircle.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/79d3d02af421377e8927f304abb9d315a65f4b0c"
+        ],
+        "Answer": "$$\\left .\\begin{matrix}{aaa}A & = & 20 ( \\frac{20}{\\mathrm{\\pi} + 4} ) - 2 ( \\frac{20}{\\mathrm{\\pi} + 4} )^{2} - \\frac{1}{2} \\mathrm{\\pi} ( \\frac{20}{\\mathrm{\\pi} + 4} )^{2} \\\\  & \\approx & 28 . 004 \\  \\text{ft}^{2}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, set up, but do not evaluate, each optimization problem.",
+        "Question": "You have a garden row of $$20$$ watermelon plants that produce an average of $$30$$ watermelons apiece. For any additional watermelon plants planted, the output per watermelon plant drops by one watermelon. How many extra watermelon plants should you plant?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, set up, but do not evaluate, each optimization problem.",
+        "Question": "You are constructing a box for your cat to sleep in. The plush material for the square bottom of the box costs $$\\text{$} 5 \\text{/} \\text{ft}^{2}$$ and the material for the sides costs $$\\text{$} 2 \\text{/} \\text{ft}^{2} .$$ You need a box with volume $$4 \\text{ft}^{3} .$$ Find the dimensions of the box that minimize cost. Use $$x$$ to represent the length of the side of the box.",
+        "Image Links": [],
+        "Answer": "$$C ( x ) = 5 x^{2} + \\frac{32}{x}$$ Differentiating, setting the derivative equal to zero and solving, we obtain $$x = \\sqrt[3]{\\frac{16}{5}}$$ and $$h = \\sqrt[3]{\\frac{25}{4}}$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, set up, but do not evaluate, each optimization problem.",
+        "Question": "You are building five identical pens adjacent to each other with a total area of $$1000 \\text{m}^{2} ,$$ as shown in the following figure. What dimensions should you use to minimize the amount of fencing?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7545e0af2df6bfef7082fa8cfa72e9cf35cd4b0e"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, set up, but do not evaluate, each optimization problem.",
+        "Question": "You are the manager of an apartment complex with $$50$$ units. When you set rent at $$\\text{$} 800 \\text{/} \\text{month,}$$ all apartments are rented. As you increase rent by $$\\text{$} 25 \\text{/} \\text{month,}$$ one fewer apartment is rented. Maintenance costs run $$\\text{$} 50 \\text{/} \\text{month}$$ for each occupied unit. What is the rent that maximizes the total amount of profit?",
+        "Image Links": [],
+        "Answer": "$$P ( x ) = ( 50 - x ) ( 800 + 25 x - 50 )$$ Rent which maximizes profit is $$$ 1050$$ .",
+        "Answer Image Links": []
+    }
+]

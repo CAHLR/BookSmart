@@ -1,0 +1,58 @@
+[
+    {
+        "Topic": "Checkpoint 4.5",
+        "Problem Statement": "",
+        "Question": "Find the local linear approximation to $$f ( x ) = \\sqrt[3]{x}$$ at $$x = 8 .$$ Use it to approximate $$\\sqrt[3]{8.1}$$ to five decimal places.",
+        "Image Links": [],
+        "Answer": "$$L ( x ) = 2 + \\frac{1}{12} ( x - 8 ) ;$$ 2.00833",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.6",
+        "Problem Statement": "",
+        "Question": "Find the linear approximation for $$f ( x ) = \\text{cos} x$$ at $$x = \\frac{\\pi}{2} .$$",
+        "Image Links": [],
+        "Answer": "$$L ( x ) = \\text{unicode[:-]} x + \\frac{\\pi}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.7",
+        "Problem Statement": "",
+        "Question": "Find the linear approximation of $$f ( x ) = ( 1 + x )^{4}$$ at $$x = 0$$ without using the result from the preceding example.",
+        "Image Links": [],
+        "Answer": "$$L ( x ) = 1 + 4 x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.8",
+        "Problem Statement": "",
+        "Question": "For $$y = e^{x^{2}} ,$$ find $$d y .$$",
+        "Image Links": [],
+        "Answer": "$$d y = 2 x e^{x^{2}} d x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.9",
+        "Problem Statement": "",
+        "Question": "For $$y = x^{2} + 2 x ,$$ find $$\\text{Delta} y$$ and $$d y$$ at $$x = 3$$ if $$d x = 0.2 .$$",
+        "Image Links": [],
+        "Answer": "$$d y = 1.6 ,$$ $$\\text{Delta} y = 1.64$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.10",
+        "Problem Statement": "",
+        "Question": "Estimate the error in the computed volume of a cube if the side length is measured to be 6 cm with an accuracy of 0.2 cm.",
+        "Image Links": [],
+        "Answer": "The volume measurement is accurate to within $$21.6 \\text{cm}^{3} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.11",
+        "Problem Statement": "",
+        "Question": "Determine the percentage error if the radius of Earth is measured to be 3950 mi with an error of $$\\text{unicode[:+-]} 100$$ mi.",
+        "Image Links": [],
+        "Answer": "7.6%",
+        "Answer Image Links": []
+    }
+]

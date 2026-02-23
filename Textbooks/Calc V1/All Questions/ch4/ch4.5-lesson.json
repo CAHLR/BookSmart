@@ -1,0 +1,488 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "If $$c$$ is a critical point of $$f ( x ) ,$$ when is there no local maximum or minimum at $$c ?$$ Explain.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "For the function $$y = x^{3} ,$$ is $$x = 0$$ both an inflection point and a local maximum/minimum?",
+        "Image Links": [],
+        "Answer": "It is not a local maximum/minimum because $$f^{\\prime}$$ does not change sign",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "For the function $$y = x^{3} ,$$ is $$x = 0$$ an inflection point?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Is it possible for a point $$c$$ to be both an inflection point and a local extremum of a twice differentiable function?",
+        "Image Links": [],
+        "Answer": "No",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Why do you need continuity for the first derivative test? Come up with an example.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Explain whether a concave-down function has to cross $$y = 0$$ for some value of $$x .$$",
+        "Image Links": [],
+        "Answer": "False; for example, $$y = \\sqrt{x} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Explain whether a polynomial of degree $$2$$ can have an inflection point.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, analyze the graphs of $$f^{\\prime} ,$$ then list all intervals where $$f$$ is increasing or decreasing.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/40d3ad4be138ac47d1e712cb30fb40daf1034cf5"
+        ],
+        "Answer": "Increasing for $$-2 < x < -1$$ and $$x > 2 ;$$ decreasing for $$x < -2$$ and $$-1 < x < 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, analyze the graphs of $$f^{\\prime} ,$$ then list all intervals where $$f$$ is increasing or decreasing.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7fdd14973850648fea42f11e4638449709c6569c"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, analyze the graphs of $$f^{\\prime} ,$$ then list all intervals where $$f$$ is increasing or decreasing.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/32e0cd872777efb06efcc1e57b284040b79fb6d2"
+        ],
+        "Answer": "Decreasing for $$x < 1 ,$$ increasing for $$x > 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, analyze the graphs of $$f^{\\prime} ,$$ then list all intervals where $$f$$ is increasing or decreasing.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0420b597c5f8666bb3f9ea95c4e7ff407c5d0181"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, analyze the graphs of $$f^{\\prime} ,$$ then list all intervals where $$f$$ is increasing or decreasing.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/bef273ff0f214730b08e1be40858204632778cac"
+        ],
+        "Answer": "Decreasing for $$-2 < x < -1$$ and $$1 < x < 2 ;$$ increasing for $$-1 < x < 1$$ and $$x < -2$$ and $$x > 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, analyze the graphs of $$f^{\\prime} ,$$ then list all intervals where a) $$f$$ is increasing and decreasing and b) the minima and maxima are located.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9b2f68ebcbfb0791842d2f5cd5f0f7bd166a28a3"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, analyze the graphs of $$f^{\\prime} ,$$ then list all intervals where a) $$f$$ is increasing and decreasing and b) the minima and maxima are located.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/52a1d8169bc0e98a6e8f8463977ca77228cf6c30"
+        ],
+        "Answer": "a. Increasing over $$-2 < x < -1 , 0 < x < 1 , x > 2 ,$$ decreasing over $$x < -2 ,$$ $$-1 < x < 0 , 1 < x < 2 ;$$ b. maxima at $$x = -1$$ and $$x = 1 ,$$ minima at $$x = -2$$ and $$x = 0$$ and $$x = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, analyze the graphs of $$f^{\\prime} ,$$ then list all intervals where a) $$f$$ is increasing and decreasing and b) the minima and maxima are located.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5105992f372c4d161dc176809e7d7b3b1bce1077"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, analyze the graphs of $$f^{\\prime} ,$$ then list all intervals where a) $$f$$ is increasing and decreasing and b) the minima and maxima are located.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/072bbdc58d11e2e5e23737853ed986cf715541c1"
+        ],
+        "Answer": "a. Increasing over $$x > 0 ,$$ decreasing over $$x < 0 ;$$ b. Minimum at $$x = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, analyze the graphs of $$f^{\\prime} ,$$ then list all intervals where a) $$f$$ is increasing and decreasing and b) the minima and maxima are located.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/4fe6c44a6bf6ee3bedc8ebcdca1b085a1e6a9381"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, analyze the graphs of $$f^{\\prime} ,$$ then list all inflection points and intervals $$f$$ that are concave up and concave down.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/76e4fd6d9f1aa03af261002006837b5bdaad9266"
+        ],
+        "Answer": "Concave up on all $$x ,$$ no inflection points",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, analyze the graphs of $$f^{\\prime} ,$$ then list all inflection points and intervals $$f$$ that are concave up and concave down.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f323fb63c56839cccfff57d0741495826f015ef2"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, analyze the graphs of $$f^{\\prime} ,$$ then list all inflection points and intervals $$f$$ that are concave up and concave down.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a7a9d0ba5814a1fbbea7223899dd922336ed87b6"
+        ],
+        "Answer": "Concave up on all $$x ,$$ no inflection points",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, analyze the graphs of $$f^{\\prime} ,$$ then list all inflection points and intervals $$f$$ that are concave up and concave down.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b55a39eda47f59bcd7903df7699f1ac1285a9206"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, analyze the graphs of $$f^{\\prime} ,$$ then list all inflection points and intervals $$f$$ that are concave up and concave down.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/49a2b89a3d22fb510eb6bcd52a6d06d9fee250bc"
+        ],
+        "Answer": "Concave up for $$x < 0$$ and $$x > 1 ,$$ concave down for $$0 < x < 1 ,$$ inflection points at $$x = 0$$ and $$x = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, draw a graph that satisfies the given specifications for the domain $$x \u03f5 [ -3 , 3 ] .$$ The function does not have to be continuous or differentiable.",
+        "Question": "$$f ( x ) > 0 , f^{\\prime} ( x ) > 0$$ over $$x > 1 , -3 < x < 0 , f^{\\prime} ( x ) = 0$$ over $$0 < x < 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, draw a graph that satisfies the given specifications for the domain $$x \u03f5 [ -3 , 3 ] .$$ The function does not have to be continuous or differentiable.",
+        "Question": "$$f^{\\prime} ( x ) > 0$$ over $$x > 2 , -3 < x < -1 , f^{\\prime} ( x ) < 0$$ over $$-1 < x < 2 , f^{\\second} ( x ) < 0$$ for all $$x$$",
+        "Image Links": [],
+        "Answer": "Answers will vary",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, draw a graph that satisfies the given specifications for the domain $$x \u03f5 [ -3 , 3 ] .$$ The function does not have to be continuous or differentiable.",
+        "Question": "$$f^{\\second} ( x ) < 0$$ over $$-1 < x < 1 , f^{\\second} ( x ) > 0 , -3 < x < -1 , 1 < x < 3 ,$$ local maximum at $$x = 0 ,$$ local minima at $$x = \\text{unicode[:+-]} 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, draw a graph that satisfies the given specifications for the domain $$x \u03f5 [ -3 , 3 ] .$$ The function does not have to be continuous or differentiable.",
+        "Question": "There is a local maximum at $$x = 2 ,$$ local minimum at $$x = 1 ,$$ and the graph is neither concave up nor concave down.",
+        "Image Links": [],
+        "Answer": "Answers will vary",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, draw a graph that satisfies the given specifications for the domain $$x \u03f5 [ -3 , 3 ] .$$ The function does not have to be continuous or differentiable.",
+        "Question": "There are local maxima at $$x = \\text{unicode[:+-]} 1 ,$$ the function is concave up for all $$x ,$$ and the function remains positive for all $$x .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "If needed, use a calculator to graph the functions, but show your work.",
+        "Question": "$$f ( x ) = \\text{sin} x + \\text{sin}^{3} x$$ over $$\\text{unicode[:-]} \\pi < x < \\pi$$",
+        "Image Links": [],
+        "Answer": "a. Increasing over $$- \\frac{\\pi}{2} < x < \\frac{\\pi}{2} ,$$ decreasing over $$x < - \\frac{\\pi}{2} , x > \\frac{\\pi}{2}$$ b. Local maximum at $$x = \\frac{\\pi}{2} ;$$ local minimum at $$x = - \\frac{\\pi}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "If needed, use a calculator to graph the functions, but show your work.",
+        "Question": "$$f ( x ) = x^{2} + \\text{cos} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a. intervals where $$f$$ is concave up or concave down, and b. the inflection points of $$f .$$",
+        "Question": "$$f ( x ) = x^{3} - 4 x^{2} + x + 2$$",
+        "Image Links": [],
+        "Answer": "a. Concave up for $$x > \\frac{4}{3} ,$$ concave down for $$x < \\frac{4}{3}$$ b. Inflection point at $$x = \\frac{4}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a) intervals where $$f$$ is increasing or decreasing, b) local minima and maxima of $$f ,$$ c) intervals where $$f$$ is concave up and concave down, and d) the inflection points of $$f .$$",
+        "Question": "$$f ( x ) = x^{2} - 6 x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a) intervals where $$f$$ is increasing or decreasing, b) local minima and maxima of $$f ,$$ c) intervals where $$f$$ is concave up and concave down, and d) the inflection points of $$f .$$",
+        "Question": "$$f ( x ) = x^{3} - 6 x^{2}$$",
+        "Image Links": [],
+        "Answer": "a. Increasing over $$x < 0$$ and $$x > 4 ,$$ decreasing over $$0 < x < 4$$ b. Maximum at $$x = 0 ,$$ minimum at $$x = 4$$ c. Concave up for $$x > 2 ,$$ concave down for $$x < 2$$ d. Infection point at $$x = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a) intervals where $$f$$ is increasing or decreasing, b) local minima and maxima of $$f ,$$ c) intervals where $$f$$ is concave up and concave down, and d) the inflection points of $$f .$$",
+        "Question": "$$f ( x ) = x^{4} - 6 x^{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a) intervals where $$f$$ is increasing or decreasing, b) local minima and maxima of $$f ,$$ c) intervals where $$f$$ is concave up and concave down, and d) the inflection points of $$f .$$",
+        "Question": "$$f ( x ) = x^{11} - 6 x^{10}$$",
+        "Image Links": [],
+        "Answer": "a. Increasing over $$x < 0$$ and $$x > \\frac{60}{11} ,$$ decreasing over $$0 < x < \\frac{60}{11}$$ b. Minimum at $$x = \\frac{60}{11}$$ , local maximum at x = 0 c. Concave down for $$x < \\frac{54}{11} ,$$ concave up for $$x > \\frac{54}{11}$$ d. Inflection point at $$x = \\frac{54}{11}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a) intervals where $$f$$ is increasing or decreasing, b) local minima and maxima of $$f ,$$ c) intervals where $$f$$ is concave up and concave down, and d) the inflection points of $$f .$$",
+        "Question": "$$f ( x ) = x + x^{2} - x^{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a) intervals where $$f$$ is increasing or decreasing, b) local minima and maxima of $$f ,$$ c) intervals where $$f$$ is concave up and concave down, and d) the inflection points of $$f .$$",
+        "Question": "$$f ( x ) = x^{2} + x + 1$$",
+        "Image Links": [],
+        "Answer": "a. Increasing over $$x > - \\frac{1}{2} ,$$ decreasing over $$x < - \\frac{1}{2}$$ b. Minimum at $$x = - \\frac{1}{2}$$ c. Concave up for all $$x$$ d. No inflection points",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a) intervals where $$f$$ is increasing or decreasing, b) local minima and maxima of $$f ,$$ c) intervals where $$f$$ is concave up and concave down, and d) the inflection points of $$f .$$",
+        "Question": "$$f ( x ) = x^{3} + x^{4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a) intervals where $$f$$ is increasing or decreasing, b) local minima and maxima of $$f ,$$ c) intervals where $$f$$ is concave up and concave down, and d) the inflection points of $$f .$$ Sketch the curve, then use a calculator to compare your answer. If you cannot determine the exact answer analytically, use a calculator.",
+        "Question": "[T] $$f ( x ) = \\text{sin} ( \\pi x ) - \\text{cos} ( \\pi x )$$ over $$x = [ -1 , 1 ]$$",
+        "Image Links": [],
+        "Answer": "a. Increases over $$- \\frac{1}{4} < x < \\frac{3}{4} ,$$ decreases over $$x > \\frac{3}{4}$$ and $$x < - \\frac{1}{4}$$ b. Minimum at $$x = - \\frac{1}{4} ,$$ maximum at $$x = \\frac{3}{4}$$ c. Concave up for $$- \\frac{3}{4} < x < \\frac{1}{4} ,$$ concave down for $$x < - \\frac{3}{4}$$ and $$x > \\frac{1}{4}$$ d. Inflection points at $$x = - \\frac{3}{4} , x = \\frac{1}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a) intervals where $$f$$ is increasing or decreasing, b) local minima and maxima of $$f ,$$ c) intervals where $$f$$ is concave up and concave down, and d) the inflection points of $$f .$$ Sketch the curve, then use a calculator to compare your answer. If you cannot determine the exact answer analytically, use a calculator.",
+        "Question": "[T] $$f ( x ) = x + \\text{sin} ( 2 x )$$ over $$x = [ - \\frac{\\pi}{2} , \\frac{\\pi}{2} ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a) intervals where $$f$$ is increasing or decreasing, b) local minima and maxima of $$f ,$$ c) intervals where $$f$$ is concave up and concave down, and d) the inflection points of $$f .$$ Sketch the curve, then use a calculator to compare your answer. If you cannot determine the exact answer analytically, use a calculator.",
+        "Question": "[T] $$f ( x ) = \\text{sin} x + \\text{tan} x$$ over $$( - \\frac{\\pi}{2} , \\frac{\\pi}{2} )$$",
+        "Image Links": [],
+        "Answer": "a. Increasing for all $$x$$ b. No local minimum or maximum c. Concave up for $$x > 0 ,$$ concave down for $$x < 0$$ d. Inflection point at $$x = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a) intervals where $$f$$ is increasing or decreasing, b) local minima and maxima of $$f ,$$ c) intervals where $$f$$ is concave up and concave down, and d) the inflection points of $$f .$$ Sketch the curve, then use a calculator to compare your answer. If you cannot determine the exact answer analytically, use a calculator.",
+        "Question": "[T] $$f ( x ) = ( x - 2 )^{2} ( x - 4 )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a) intervals where $$f$$ is increasing or decreasing, b) local minima and maxima of $$f ,$$ c) intervals where $$f$$ is concave up and concave down, and d) the inflection points of $$f .$$ Sketch the curve, then use a calculator to compare your answer. If you cannot determine the exact answer analytically, use a calculator.",
+        "Question": "[T] $$f ( x ) = \\frac{1}{1 - x} , x \\ne 1$$",
+        "Image Links": [],
+        "Answer": "a. Increasing for all $$x$$ where defined b. No local minima or maxima c. Concave up for $$x < 1 ;$$ concave down for $$x > 1$$ d. No inflection points in domain",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a) intervals where $$f$$ is increasing or decreasing, b) local minima and maxima of $$f ,$$ c) intervals where $$f$$ is concave up and concave down, and d) the inflection points of $$f .$$ Sketch the curve, then use a calculator to compare your answer. If you cannot determine the exact answer analytically, use a calculator.",
+        "Question": "[T] $$f ( x ) = \\frac{\\text{sin} x}{x}$$ over $$x =$$ $$[ 2 \\pi , 0 ) \\cup ( 0 , 2 \\pi ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a) intervals where $$f$$ is increasing or decreasing, b) local minima and maxima of $$f ,$$ c) intervals where $$f$$ is concave up and concave down, and d) the inflection points of $$f .$$ Sketch the curve, then use a calculator to compare your answer. If you cannot determine the exact answer analytically, use a calculator.",
+        "Question": "$$f ( x ) = \\text{sin} ( x ) e^{x}$$ over $$x = [ \\text{unicode[:-]} \\pi , \\pi ]$$",
+        "Image Links": [],
+        "Answer": "a. Increasing over $$- \\frac{\\pi}{4} < x < \\frac{3 \\pi}{4} ,$$ decreasing over $$x > \\frac{3 \\pi}{4} , x < - \\frac{\\pi}{4}$$ b. Minimum at $$x = - \\frac{\\pi}{4} ,$$ maximum at $$x = \\frac{3 \\pi}{4}$$ c. Concave up for $$- \\frac{\\pi}{2} < x < \\frac{\\pi}{2} ,$$ concave down for $$x < - \\frac{\\pi}{2} , x > \\frac{\\pi}{2}$$ d. Infection points at $$x = \\text{unicode[:+-]} \\frac{\\pi}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a) intervals where $$f$$ is increasing or decreasing, b) local minima and maxima of $$f ,$$ c) intervals where $$f$$ is concave up and concave down, and d) the inflection points of $$f .$$ Sketch the curve, then use a calculator to compare your answer. If you cannot determine the exact answer analytically, use a calculator.",
+        "Question": "$$f ( x ) = \\text{ln} x \\sqrt{x} , x > 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a) intervals where $$f$$ is increasing or decreasing, b) local minima and maxima of $$f ,$$ c) intervals where $$f$$ is concave up and concave down, and d) the inflection points of $$f .$$ Sketch the curve, then use a calculator to compare your answer. If you cannot determine the exact answer analytically, use a calculator.",
+        "Question": "$$f ( x ) = \\frac{1}{4} \\sqrt{x} + \\frac{1}{x} , x > 0$$",
+        "Image Links": [],
+        "Answer": "a. Increasing over $$x > 4 ,$$ decreasing over $$0 < x < 4$$ b. Minimum at $$x = 4$$ c. Concave up for $$0 < x < 8 \\sqrt[3]{2} ,$$ concave down for $$x > 8 \\sqrt[3]{2}$$ d. Inflection point at $$x = 8 \\sqrt[3]{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a) intervals where $$f$$ is increasing or decreasing, b) local minima and maxima of $$f ,$$ c) intervals where $$f$$ is concave up and concave down, and d) the inflection points of $$f .$$ Sketch the curve, then use a calculator to compare your answer. If you cannot determine the exact answer analytically, use a calculator.",
+        "Question": "$$f ( x ) = \\frac{e^{x}}{x} , x \\ne 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, interpret the sentences in terms of $$f , f^{\\prime} , \\text{and} f^{\\second} .$$",
+        "Question": "The population is growing more slowly. Here $$f$$ is the population.",
+        "Image Links": [],
+        "Answer": "$$f > 0 , f^{\\prime} > 0 , f^{\\second} < 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, interpret the sentences in terms of $$f , f^{\\prime} , \\text{and} f^{\\second} .$$",
+        "Question": "A bike accelerates faster, but a car goes faster. Here $$f =$$ Bike\u2019s position minus Car\u2019s position.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, interpret the sentences in terms of $$f , f^{\\prime} , \\text{and} f^{\\second} .$$",
+        "Question": "The airplane lands smoothly. Here $$f$$ is the plane\u2019s altitude.",
+        "Image Links": [],
+        "Answer": "$$f > 0 , f^{\\prime} < 0 , f^{\\second} > 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, interpret the sentences in terms of $$f , f^{\\prime} , \\text{and} f^{\\second} .$$",
+        "Question": "Stock prices are at their peak. Here $$f$$ is the stock price.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, interpret the sentences in terms of $$f , f^{\\prime} , \\text{and} f^{\\second} .$$",
+        "Question": "The economy is picking up speed. Here $$f$$ is a measure of the economy, such as GDP.",
+        "Image Links": [],
+        "Answer": "$$f > 0 , f^{\\prime} > 0 , f^{\\second} > 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider a third-degree polynomial $$f ( x ) ,$$ which has the properties $$f^{\\prime} ( 1 ) = 0 , f^{\\prime} ( 3 ) = 0$$ (not applicable to Exercises 249 and 250). Determine whether the following statements are true or false . Justify your answer.",
+        "Question": "$$f ( x ) = 0$$ for some $$1 \\le x \\le 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider a third-degree polynomial $$f ( x ) ,$$ which has the properties $$f^{\\prime} ( 1 ) = 0 , f^{\\prime} ( 3 ) = 0$$ (not applicable to Exercises 249 and 250). Determine whether the following statements are true or false . Justify your answer.",
+        "Question": "$$f^{\\second} ( x ) = 0$$ for some $$1 \\le x \\le 3$$",
+        "Image Links": [],
+        "Answer": "True, by the Mean Value Theorem",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider a third-degree polynomial $$f ( x ) ,$$ which has the properties $$f^{\\prime} ( 1 ) = 0 , f^{\\prime} ( 3 ) = 0$$ (not applicable to Exercises 249 and 250). Determine whether the following statements are true or false . Justify your answer.",
+        "Question": "There is no absolute maximum at $$x = 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider a third-degree polynomial $$f ( x ) ,$$ which has the properties $$f^{\\prime} ( 1 ) = 0 , f^{\\prime} ( 3 ) = 0$$ (not applicable to Exercises 249 and 250). Determine whether the following statements are true or false . Justify your answer.",
+        "Question": "If $$f ( x )$$ has three roots, then it has $$1$$ inflection point.",
+        "Image Links": [],
+        "Answer": "True, examine derivative",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider a third-degree polynomial $$f ( x ) ,$$ which has the properties $$f^{\\prime} ( 1 ) = 0 , f^{\\prime} ( 3 ) = 0$$ (not applicable to Exercises 249 and 250). Determine whether the following statements are true or false . Justify your answer.",
+        "Question": "If $$f ( x )$$ has one inflection point, then it has three real roots.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

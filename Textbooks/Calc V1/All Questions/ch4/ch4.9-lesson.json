@@ -1,0 +1,474 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write Newton\u2019s formula as $$x_{n + 1} = F ( x_{n} )$$ for solving $$f ( x ) = 0 .$$",
+        "Question": "$$f ( x ) = x^{2} + 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write Newton\u2019s formula as $$x_{n + 1} = F ( x_{n} )$$ for solving $$f ( x ) = 0 .$$",
+        "Question": "$$f ( x ) = x^{3} + 2 x + 1$$",
+        "Image Links": [],
+        "Answer": "$$F ( x_{n} ) = x_{n} - \\frac{x_{n} ^{3} + 2 x_{n} + 1}{3 x_{n} ^{2} + 2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write Newton\u2019s formula as $$x_{n + 1} = F ( x_{n} )$$ for solving $$f ( x ) = 0 .$$",
+        "Question": "$$f ( x ) = \\text{sin} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write Newton\u2019s formula as $$x_{n + 1} = F ( x_{n} )$$ for solving $$f ( x ) = 0 .$$",
+        "Question": "$$f ( x ) = e^{x}$$",
+        "Image Links": [],
+        "Answer": "$$F ( x_{n} ) = x_{n} - \\frac{e^{x_{n}}}{e^{x_{n}}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write Newton\u2019s formula as $$x_{n + 1} = F ( x_{n} )$$ for solving $$f ( x ) = 0 .$$",
+        "Question": "$$f ( x ) = x^{3} + 3 x e^{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve $$f ( x ) = 0$$ using the iteration $$x_{n + 1} = x_{n} - c f ( x_{n} ) ,$$ which differs slightly from Newton\u2019s method. Find a $$c$$ that works and a $$c$$ that fails to converge, with the exception of $$c = 0 .$$",
+        "Question": "$$f ( x ) = x^{2} - 4 ,$$ with $$x_{0} = 0$$",
+        "Image Links": [],
+        "Answer": "$$| c | > 0.5$$ fails, $$| c | \\le 0.5$$ works",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve $$f ( x ) = 0$$ using the iteration $$x_{n + 1} = x_{n} - c f ( x_{n} ) ,$$ which differs slightly from Newton\u2019s method. Find a $$c$$ that works and a $$c$$ that fails to converge, with the exception of $$c = 0 .$$",
+        "Question": "$$f ( x ) = x^{2} - 4 x + 3 ,$$ with $$x_{0} = 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve $$f ( x ) = 0$$ using the iteration $$x_{n + 1} = x_{n} - c f ( x_{n} ) ,$$ which differs slightly from Newton\u2019s method. Find a $$c$$ that works and a $$c$$ that fails to converge, with the exception of $$c = 0 .$$",
+        "Question": "What is the value of $$\\text{\u201c} c \\text{\u201d}$$ for Newton\u2019s method?",
+        "Image Links": [],
+        "Answer": "$$c = \\frac{1}{f^{\\prime} ( x_{n} )}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Compute $$x_{1}$$ and $$x_{2}$$ using the specified iterative method.",
+        "Question": "$$x_{n + 1} = x_{n} ^{2} - \\frac{1}{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Compute $$x_{1}$$ and $$x_{2}$$ using the specified iterative method.",
+        "Question": "$$x_{n + 1} = 2 x_{n} ( 1 - x_{n} )$$",
+        "Image Links": [],
+        "Answer": "a. $$x_{1} = \\frac{12}{25} , x_{2} = \\frac{312}{625} ;$$ b. $$x_{1} = -4 , x_{2} = -40$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Compute $$x_{1}$$ and $$x_{2}$$ using the specified iterative method.",
+        "Question": "$$x_{n + 1} = \\sqrt{x_{n}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Compute $$x_{1}$$ and $$x_{2}$$ using the specified iterative method.",
+        "Question": "$$x_{n + 1} = \\frac{1}{\\sqrt{x_{n}}}$$",
+        "Image Links": [],
+        "Answer": "a. $$x_{1} = 1.291 , x_{2} = 0.8801 ;$$ b. $$x_{1} = 0.7071 , x_{2} = 1.189$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Compute $$x_{1}$$ and $$x_{2}$$ using the specified iterative method.",
+        "Question": "$$x_{n + 1} = 3 x_{n} ( 1 - x_{n} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Compute $$x_{1}$$ and $$x_{2}$$ using the specified iterative method.",
+        "Question": "$$x_{n + 1} = x_{n} ^{2} + x_{n} - 2$$",
+        "Image Links": [],
+        "Answer": "a. $$x_{1} = - \\frac{26}{25} , x_{2} = - \\frac{1224}{625} ;$$ b. $$x_{1} = 4 , x_{2} = 18$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Compute $$x_{1}$$ and $$x_{2}$$ using the specified iterative method.",
+        "Question": "$$x_{n + 1} = \\frac{1}{2} x_{n} - 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Compute $$x_{1}$$ and $$x_{2}$$ using the specified iterative method.",
+        "Question": "$$x_{n + 1} = | x_{n} |$$",
+        "Image Links": [],
+        "Answer": "a. $$x_{1} = \\frac{6}{10} , x_{2} = \\frac{6}{10} ;$$ b. $$x_{1} = 2 , x_{2} = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve to four decimal places using Newton\u2019s method and a computer or calculator. Choose any initial guess $$x_{0}$$ that is not the exact root.",
+        "Question": "$$x^{2} - 10 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve to four decimal places using Newton\u2019s method and a computer or calculator. Choose any initial guess $$x_{0}$$ that is not the exact root.",
+        "Question": "$$x^{4} - 100 = 0$$",
+        "Image Links": [],
+        "Answer": "$$3.1623 \\text{or} - 3.1623$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve to four decimal places using Newton\u2019s method and a computer or calculator. Choose any initial guess $$x_{0}$$ that is not the exact root.",
+        "Question": "$$x^{2} - x = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve to four decimal places using Newton\u2019s method and a computer or calculator. Choose any initial guess $$x_{0}$$ that is not the exact root.",
+        "Question": "$$x^{3} - x = 0$$",
+        "Image Links": [],
+        "Answer": "$$0 , -1 \\text{or} 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve to four decimal places using Newton\u2019s method and a computer or calculator. Choose any initial guess $$x_{0}$$ that is not the exact root.",
+        "Question": "$$x + 5 \\text{cos} ( x ) = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve to four decimal places using Newton\u2019s method and a computer or calculator. Choose any initial guess $$x_{0}$$ that is not the exact root.",
+        "Question": "$$x + \\text{tan} ( x ) = 0 ,$$ choose $$x_{0} \\in ( - \\frac{\\pi}{2} , \\frac{\\pi}{2} )$$",
+        "Image Links": [],
+        "Answer": "$$0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve to four decimal places using Newton\u2019s method and a computer or calculator. Choose any initial guess $$x_{0}$$ that is not the exact root.",
+        "Question": "$$\\frac{1}{1 - x} = 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve to four decimal places using Newton\u2019s method and a computer or calculator. Choose any initial guess $$x_{0}$$ that is not the exact root.",
+        "Question": "$$1 + x + x^{2} + x^{3} + x^{4} = 2$$",
+        "Image Links": [],
+        "Answer": "$$0.5188 \\text{or} - 1.2906$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve to four decimal places using Newton\u2019s method and a computer or calculator. Choose any initial guess $$x_{0}$$ that is not the exact root.",
+        "Question": "$$x^{3} + ( x + 1 )^{3} = 10^{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve to four decimal places using Newton\u2019s method and a computer or calculator. Choose any initial guess $$x_{0}$$ that is not the exact root.",
+        "Question": "$$x = \\text{sin}^{2} ( x )$$",
+        "Image Links": [],
+        "Answer": "$$0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Newton\u2019s method to find the fixed points of the function where $$f ( x ) = x ;$$ round to three decimals.",
+        "Question": "$$\\text{sin} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Newton\u2019s method to find the fixed points of the function where $$f ( x ) = x ;$$ round to three decimals.",
+        "Question": "$$\\text{tan} ( x )$$ on $$x = ( \\frac{\\pi}{2} , \\frac{3 \\pi}{2} )$$",
+        "Image Links": [],
+        "Answer": "$$4.493$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Newton\u2019s method to find the fixed points of the function where $$f ( x ) = x ;$$ round to three decimals.",
+        "Question": "$$e^{x} - 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Newton\u2019s method to find the fixed points of the function where $$f ( x ) = x ;$$ round to three decimals.",
+        "Question": "$$\\text{ln} ( x ) + 2$$",
+        "Image Links": [],
+        "Answer": "$$0.159 , 3.146$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Newton\u2019s method can be used to find maxima and minima of functions in addition to the roots. In this case apply Newton\u2019s method to the derivative function $$f^{\\prime} ( x )$$ to find its roots, instead of the original function. For the following exercises, consider the formulation of the method.",
+        "Question": "To find candidates for maxima and minima, we need to find the critical points $$f^{\\prime} ( x ) = 0 .$$ Show that to solve for the critical points of a function $$f ( x ) ,$$ Newton\u2019s method is given by $$x_{n + 1} = x_{n} - \\frac{f^{\\prime} ( x_{n} )}{f^{\\second} ( x_{n} )} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Newton\u2019s method can be used to find maxima and minima of functions in addition to the roots. In this case apply Newton\u2019s method to the derivative function $$f^{\\prime} ( x )$$ to find its roots, instead of the original function. For the following exercises, consider the formulation of the method.",
+        "Question": "What additional restrictions are necessary on the function $$f ?$$",
+        "Image Links": [],
+        "Answer": "We need $$f$$ to be twice continuously differentiable.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Newton\u2019s method to find the location of the local minima and/or maxima of the following functions; round to three decimals.",
+        "Question": "Minimum of $$f ( x ) = x^{2} + 2 x + 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Newton\u2019s method to find the location of the local minima and/or maxima of the following functions; round to three decimals.",
+        "Question": "Minimum of $$f ( x ) = 3 x^{3} + 2 x^{2} - 16$$",
+        "Image Links": [],
+        "Answer": "$$x = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Newton\u2019s method to find the location of the local minima and/or maxima of the following functions; round to three decimals.",
+        "Question": "Minimum of $$f ( x ) = x^{2} e^{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Newton\u2019s method to find the location of the local minima and/or maxima of the following functions; round to three decimals.",
+        "Question": "Maximum of $$f ( x ) = x + \\frac{1}{x}$$",
+        "Image Links": [],
+        "Answer": "$$x = -1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Newton\u2019s method to find the location of the local minima and/or maxima of the following functions; round to three decimals.",
+        "Question": "Maximum of $$f ( x ) = x^{3} + 10 x^{2} + 15 x - 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Newton\u2019s method to find the location of the local minima and/or maxima of the following functions; round to three decimals.",
+        "Question": "Maximum of $$f ( x ) = \\frac{\\sqrt{x} - \\sqrt[3]{x}}{x}$$",
+        "Image Links": [],
+        "Answer": "$$x = 5.619$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Newton\u2019s method to find the location of the local minima and/or maxima of the following functions; round to three decimals.",
+        "Question": "Minimum of $$f ( x ) = x^{2} \\text{sin} x ,$$ closest non-zero minimum to $$x = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Newton\u2019s method to find the location of the local minima and/or maxima of the following functions; round to three decimals.",
+        "Question": "Minimum of $$f ( x ) = x^{4} + x^{3} + 3 x^{2} + 12 x + 6$$",
+        "Image Links": [],
+        "Answer": "$$x = -1.326$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the specified method to solve the equation. If it does not work, explain why it does not work.",
+        "Question": "Newton\u2019s method, $$x^{2} + 2 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the specified method to solve the equation. If it does not work, explain why it does not work.",
+        "Question": "Newton\u2019s method, $$0 = e^{x}$$",
+        "Image Links": [],
+        "Answer": "There is no solution to the equation.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the specified method to solve the equation. If it does not work, explain why it does not work.",
+        "Question": "Newton\u2019s method, $$0 = 1 + x^{2}$$ starting at $$x_{0} = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the specified method to solve the equation. If it does not work, explain why it does not work.",
+        "Question": "Solving $$x_{n + 1} = \\text{unicode[:-]} x_{n} ^{3}$$ starting at $$x_{0} = -1$$",
+        "Image Links": [],
+        "Answer": "It enters a cycle.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the secant method , an alternative iterative method to Newton\u2019s method. The formula is given by $$x_{n} = x_{n - 1} - f ( x_{n - 1} ) \\frac{x_{n - 1} - x_{n - 2}}{f ( x_{n - 1} ) - f ( x_{n - 2} )} .$$",
+        "Question": "Find a root to $$0 = x^{2} - x - 3$$ accurate to three decimal places.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the secant method , an alternative iterative method to Newton\u2019s method. The formula is given by $$x_{n} = x_{n - 1} - f ( x_{n - 1} ) \\frac{x_{n - 1} - x_{n - 2}}{f ( x_{n - 1} ) - f ( x_{n - 2} )} .$$",
+        "Question": "Find a root to $$0 = \\text{sin} x + 3 x$$ accurate to four decimal places.",
+        "Image Links": [],
+        "Answer": "$$0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the secant method , an alternative iterative method to Newton\u2019s method. The formula is given by $$x_{n} = x_{n - 1} - f ( x_{n - 1} ) \\frac{x_{n - 1} - x_{n - 2}}{f ( x_{n - 1} ) - f ( x_{n - 2} )} .$$",
+        "Question": "Find a root to $$0 = e^{x} - 2$$ accurate to four decimal places.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the secant method , an alternative iterative method to Newton\u2019s method. The formula is given by $$x_{n} = x_{n - 1} - f ( x_{n - 1} ) \\frac{x_{n - 1} - x_{n - 2}}{f ( x_{n - 1} ) - f ( x_{n - 2} )} .$$",
+        "Question": "Find a root to $$\\text{ln} ( x + 2 ) = \\frac{1}{2}$$ accurate to four decimal places.",
+        "Image Links": [],
+        "Answer": "$$-0.3513$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the secant method , an alternative iterative method to Newton\u2019s method. The formula is given by $$x_{n} = x_{n - 1} - f ( x_{n - 1} ) \\frac{x_{n - 1} - x_{n - 2}}{f ( x_{n - 1} ) - f ( x_{n - 2} )} .$$",
+        "Question": "Why would you use the secant method over Newton\u2019s method? What are the necessary restrictions on $$f ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use both Newton\u2019s method and the secant method to calculate a root for the following equations. Use a calculator or computer to calculate how many iterations of each are needed to reach within three decimal places of the exact answer. For the secant method, use the first guess from Newton\u2019s method.",
+        "Question": "$$f ( x ) = x^{2} + 2 x + 1 , x_{0} = 1$$",
+        "Image Links": [],
+        "Answer": "Newton: $$11$$ iterations, secant: $$16$$ iterations",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use both Newton\u2019s method and the secant method to calculate a root for the following equations. Use a calculator or computer to calculate how many iterations of each are needed to reach within three decimal places of the exact answer. For the secant method, use the first guess from Newton\u2019s method.",
+        "Question": "$$f ( x ) = x^{2} , x_{0} = 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use both Newton\u2019s method and the secant method to calculate a root for the following equations. Use a calculator or computer to calculate how many iterations of each are needed to reach within three decimal places of the exact answer. For the secant method, use the first guess from Newton\u2019s method.",
+        "Question": "$$f ( x ) = \\text{sin} x , x_{0} = 1$$",
+        "Image Links": [],
+        "Answer": "Newton: three iterations, secant: six iterations",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use both Newton\u2019s method and the secant method to calculate a root for the following equations. Use a calculator or computer to calculate how many iterations of each are needed to reach within three decimal places of the exact answer. For the secant method, use the first guess from Newton\u2019s method.",
+        "Question": "$$f ( x ) = e^{x} - 1 , x_{0} = 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use both Newton\u2019s method and the secant method to calculate a root for the following equations. Use a calculator or computer to calculate how many iterations of each are needed to reach within three decimal places of the exact answer. For the secant method, use the first guess from Newton\u2019s method.",
+        "Question": "$$f ( x ) = x^{3} + 2 x + 4 , x_{0} = 0$$",
+        "Image Links": [],
+        "Answer": "Newton: five iterations, secant: eight iterations",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider Kepler\u2019s equation regarding planetary orbits, $$M = E - \\varepsilon \\text{sin} ( E ) ,$$ where $$M$$ is the mean anomaly, $$E$$ is eccentric anomaly, and $$\\varepsilon$$ measures eccentricity.",
+        "Question": "Use Newton\u2019s method to solve for the eccentric anomaly $$E$$ when the mean anomaly $$M = \\frac{\\pi}{3}$$ and the eccentricity of the orbit $$\\varepsilon = 0.25 ;$$ round to three decimals.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider Kepler\u2019s equation regarding planetary orbits, $$M = E - \\varepsilon \\text{sin} ( E ) ,$$ where $$M$$ is the mean anomaly, $$E$$ is eccentric anomaly, and $$\\varepsilon$$ measures eccentricity.",
+        "Question": "Use Newton\u2019s method to solve for the eccentric anomaly $$E$$ when the mean anomaly $$M = \\frac{3 \\pi}{2}$$ and the eccentricity of the orbit $$\\varepsilon = 0.8 ;$$ round to three decimals.",
+        "Image Links": [],
+        "Answer": "$$E = 4.071$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The following two exercises consider a bank investment. The initial investment is $$\\text{$} 10,000 .$$ After $$25$$ years, the investment has tripled to $$\\text{$} 30,000 .$$",
+        "Question": "Use Newton\u2019s method to determine the interest rate if the interest was compounded annually.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The following two exercises consider a bank investment. The initial investment is $$\\text{$} 10,000 .$$ After $$25$$ years, the investment has tripled to $$\\text{$} 30,000 .$$",
+        "Question": "Use Newton\u2019s method to determine the interest rate if the interest was compounded continuously.",
+        "Image Links": [],
+        "Answer": "$$4 . 394 \\text{%}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The following two exercises consider a bank investment. The initial investment is $$\\text{$} 10,000 .$$ After $$25$$ years, the investment has tripled to $$\\text{$} 30,000 .$$",
+        "Question": "The total cost for printing $$x$$ books can be given by the equation $$C ( x ) = 1000 + 12 x + ( \\frac{1}{2} ) x^{2 \\text{/} 3} .$$ Use Newton\u2019s method to find the break-even point if the printer sells each book for $$\\text{$} 2 0 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,584 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, convert each angle in degrees to radians. Write the answer as a multiple of $$\\pi .$$",
+        "Question": "$$240 \\text{\u00b0}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{4 \\pi}{3} \\text{rad}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, convert each angle in degrees to radians. Write the answer as a multiple of $$\\pi .$$",
+        "Question": "$$15 \\text{\u00b0}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, convert each angle in degrees to radians. Write the answer as a multiple of $$\\pi .$$",
+        "Question": "$$-60 \\text{\u00b0}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\text{unicode[:-]} \\pi}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, convert each angle in degrees to radians. Write the answer as a multiple of $$\\pi .$$",
+        "Question": "$$-225 \\text{\u00b0}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, convert each angle in degrees to radians. Write the answer as a multiple of $$\\pi .$$",
+        "Question": "$$330 \\text{\u00b0}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{11 \\pi}{6} \\text{rad}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, convert each angle in radians to degrees.",
+        "Question": "$$\\frac{\\pi}{2} \\text{rad}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, convert each angle in radians to degrees.",
+        "Question": "$$\\frac{7 \\pi}{6} \\text{rad}$$",
+        "Image Links": [],
+        "Answer": "$$210 \\text{\u00b0}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, convert each angle in radians to degrees.",
+        "Question": "$$\\frac{11 \\pi}{2} \\text{rad}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, convert each angle in radians to degrees.",
+        "Question": "$$-3 \\pi \\text{rad}$$",
+        "Image Links": [],
+        "Answer": "$$-540 \\text{\u00b0}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, convert each angle in radians to degrees.",
+        "Question": "$$\\frac{5 \\pi}{12} \\text{rad}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Evaluate the following functional values.",
+        "Question": "$$\\text{cos} ( \\frac{4 \\pi}{3} )$$",
+        "Image Links": [],
+        "Answer": "$$-0.5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Evaluate the following functional values.",
+        "Question": "$$\\text{tan} ( \\frac{19 \\pi}{4} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Evaluate the following functional values.",
+        "Question": "$$\\text{sin} ( - \\frac{3 \\pi}{4} )$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{\\sqrt{2}}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Evaluate the following functional values.",
+        "Question": "$$\\text{sec} ( \\frac{\\pi}{6} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Evaluate the following functional values.",
+        "Question": "$$\\text{sin} ( \\frac{\\pi}{12} )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\sqrt{3} - 1}{2 \\sqrt{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Evaluate the following functional values.",
+        "Question": "$$\\text{cos} ( \\frac{5 \\pi}{12} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider triangle ABC , a right triangle with a right angle at C. a. Find the missing side of the triangle. b. Find the six trigonometric function values for the angle at A . Where necessary, simplify to a fraction or round to three decimal places. ",
+        "Question": "$$a = 4 , c = 7$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6488f770949c2ab65435043860f79be4ee82e3d6"
+        ],
+        "Answer": "a. $$b = 5.7$$ b. $$\\text{sin} A = \\frac{4}{7} , \\text{cos} A = \\frac{5.7}{7} , \\text{tan} A = \\frac{4}{5.7} , \\text{csc} A = \\frac{7}{4} , \\text{sec} A = \\frac{7}{5.7} , \\text{cot} A = \\frac{5.7}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider triangle ABC , a right triangle with a right angle at C. a. Find the missing side of the triangle. b. Find the six trigonometric function values for the angle at A . Where necessary, simplify to a fraction or round to three decimal places. ",
+        "Question": "$$a = 21 , c = 29$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6488f770949c2ab65435043860f79be4ee82e3d6"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider triangle ABC , a right triangle with a right angle at C. a. Find the missing side of the triangle. b. Find the six trigonometric function values for the angle at A . Where necessary, simplify to a fraction or round to three decimal places. ",
+        "Question": "$$a = 85.3 , b = 125.5$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6488f770949c2ab65435043860f79be4ee82e3d6"
+        ],
+        "Answer": "a. $$c = 151.7$$ b. $$\\text{sin} A = 0.5623 , \\text{cos} A = 0.8273 , \\text{tan} A = 0.6797 , \\text{csc} A = 1.778 , \\text{sec} A = 1.209 , \\text{cot} A = 1.471$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider triangle ABC , a right triangle with a right angle at C. a. Find the missing side of the triangle. b. Find the six trigonometric function values for the angle at A . Where necessary, simplify to a fraction or round to three decimal places. ",
+        "Question": "$$b = 40 , c = 41$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6488f770949c2ab65435043860f79be4ee82e3d6"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider triangle ABC , a right triangle with a right angle at C. a. Find the missing side of the triangle. b. Find the six trigonometric function values for the angle at A . Where necessary, simplify to a fraction or round to three decimal places. ",
+        "Question": "$$a = 84 , b = 13$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6488f770949c2ab65435043860f79be4ee82e3d6"
+        ],
+        "Answer": "a. $$c = 85$$ b. $$\\text{sin} A = \\frac{84}{85} , \\text{cos} A = \\frac{13}{85} , \\text{tan} A = \\frac{84}{13} , \\text{csc} A = \\frac{85}{84} , \\text{sec} A = \\frac{85}{13} , \\text{cot} A = \\frac{13}{84}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider triangle ABC , a right triangle with a right angle at C. a. Find the missing side of the triangle. b. Find the six trigonometric function values for the angle at A . Where necessary, simplify to a fraction or round to three decimal places. ",
+        "Question": "$$b = 28 , c = 35$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6488f770949c2ab65435043860f79be4ee82e3d6"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, $$P$$ is a point on the unit circle. a. Find the (exact) missing coordinate value of each point and b. find the values of the six trigonometric functions for the angle $$\\theta$$ with a terminal side that passes through point $$P .$$ Rationalize denominators.",
+        "Question": "$$P ( \\frac{7}{25} , y ) , y > 0$$",
+        "Image Links": [],
+        "Answer": "a. $$y = \\frac{24}{25}$$ b. $$\\text{sin} \\theta = \\frac{24}{25} , \\text{cos} \\theta = \\frac{7}{25} , \\text{tan} \\theta = \\frac{24}{7} , \\text{csc} \\theta = \\frac{25}{24} , \\text{sec} \\theta = \\frac{25}{7} , \\text{cot} \\theta = \\frac{7}{24}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, $$P$$ is a point on the unit circle. a. Find the (exact) missing coordinate value of each point and b. find the values of the six trigonometric functions for the angle $$\\theta$$ with a terminal side that passes through point $$P .$$ Rationalize denominators.",
+        "Question": "$$P ( \\frac{-15}{17} , y ) , y < 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, $$P$$ is a point on the unit circle. a. Find the (exact) missing coordinate value of each point and b. find the values of the six trigonometric functions for the angle $$\\theta$$ with a terminal side that passes through point $$P .$$ Rationalize denominators.",
+        "Question": "$$P ( x , \\frac{\\sqrt{7}}{3} ) , x < 0$$",
+        "Image Links": [],
+        "Answer": "a. $$x = \\frac{\\text{unicode[:-]} \\sqrt{2}}{3}$$ b. $$\\text{sin} \\theta = \\frac{\\sqrt{7}}{3} , \\text{cos} \\theta = \\frac{\\text{unicode[:-]} \\sqrt{2}}{3} , \\text{tan} \\theta = \\frac{\\text{unicode[:-]} \\sqrt{14}}{2} , \\text{csc} \\theta = \\frac{3 \\sqrt{7}}{7} , \\text{sec} \\theta = \\frac{-3 \\sqrt{2}}{2} , \\text{cot} \\theta = \\frac{\\text{unicode[:-]} \\sqrt{14}}{7}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, $$P$$ is a point on the unit circle. a. Find the (exact) missing coordinate value of each point and b. find the values of the six trigonometric functions for the angle $$\\theta$$ with a terminal side that passes through point $$P .$$ Rationalize denominators.",
+        "Question": "$$P ( x , \\frac{\\text{unicode[:-]} \\sqrt{15}}{4} ) , x > 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, simplify each expression by writing it in terms of sines and cosines, then simplify. The final answer does not have to be in terms of sine and cosine only.",
+        "Question": "$$\\text{tan}^{2} x + \\text{sin} x \\text{csc} x$$",
+        "Image Links": [],
+        "Answer": "$$\\text{sec}^{2} x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, simplify each expression by writing it in terms of sines and cosines, then simplify. The final answer does not have to be in terms of sine and cosine only.",
+        "Question": "$$\\text{sec} x \\text{sin} x \\text{cot} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, simplify each expression by writing it in terms of sines and cosines, then simplify. The final answer does not have to be in terms of sine and cosine only.",
+        "Question": "$$\\frac{\\text{tan}^{2} x}{\\text{sec}^{2} x}$$",
+        "Image Links": [],
+        "Answer": "$$\\text{sin}^{2} x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, simplify each expression by writing it in terms of sines and cosines, then simplify. The final answer does not have to be in terms of sine and cosine only.",
+        "Question": "$$\\text{sec} x - \\text{cos} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, simplify each expression by writing it in terms of sines and cosines, then simplify. The final answer does not have to be in terms of sine and cosine only.",
+        "Question": "$$( 1 + \\text{tan} \\theta )^{2} - 2 \\text{tan} \\theta$$",
+        "Image Links": [],
+        "Answer": "$$\\text{sec}^{2} \\theta$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, simplify each expression by writing it in terms of sines and cosines, then simplify. The final answer does not have to be in terms of sine and cosine only.",
+        "Question": "$$\\text{sin} x ( \\text{csc} x - \\text{sin} x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, simplify each expression by writing it in terms of sines and cosines, then simplify. The final answer does not have to be in terms of sine and cosine only.",
+        "Question": "$$\\frac{\\text{cos} t}{\\text{sin} t} + \\frac{\\text{sin} t}{1 + \\text{cos} t}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{\\text{sin} t} ( = \\text{csc} t )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, simplify each expression by writing it in terms of sines and cosines, then simplify. The final answer does not have to be in terms of sine and cosine only.",
+        "Question": "$$\\frac{1 + \\text{tan}^{2} \\alpha}{1 + \\text{cot}^{2} \\alpha}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, verify that each equation is an identity.",
+        "Question": "$$\\frac{\\text{tan} \\theta \\text{cot} \\theta}{\\text{csc} \\theta} = \\text{sin} \\theta$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, verify that each equation is an identity.",
+        "Question": "$$\\frac{\\text{sec}^{2} \\theta}{\\text{tan} \\theta} = \\text{sec} \\theta \\text{csc} \\theta$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, verify that each equation is an identity.",
+        "Question": "$$\\frac{\\text{sin} t}{\\text{csc} t} + \\frac{\\text{cos} t}{\\text{sec} t} = 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, verify that each equation is an identity.",
+        "Question": "$$\\frac{\\text{sin} x}{\\text{cos} x + 1} + \\frac{\\text{cos} x - 1}{\\text{sin} x} = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, verify that each equation is an identity.",
+        "Question": "$$\\text{cot} \\gamma + \\text{tan} \\gamma = \\text{sec} \\gamma \\text{csc} \\gamma$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, verify that each equation is an identity.",
+        "Question": "$$\\text{sin}^{2} \\beta + \\text{tan}^{2} \\beta + \\text{cos}^{2} \\beta = \\text{sec}^{2} \\beta$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, verify that each equation is an identity.",
+        "Question": "$$\\frac{1}{1 - \\text{sin} \\alpha} + \\frac{1}{1 + \\text{sin} \\alpha} = 2 \\text{sec}^{2} \\alpha$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, verify that each equation is an identity.",
+        "Question": "$$\\frac{\\text{tan} \\theta - \\text{cot} \\theta}{\\text{sin} \\theta \\text{cos} \\theta} = \\text{sec}^{2} \\theta - \\text{csc}^{2} \\theta$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the trigonometric equations on the interval $$0 \\le \\theta < 2 \\pi .$$",
+        "Question": "$$2 \\text{sin} \\theta - 1 = 0$$",
+        "Image Links": [],
+        "Answer": "$$\\{ \\frac{\\pi}{6} , \\frac{5 \\pi}{6} \\}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the trigonometric equations on the interval $$0 \\le \\theta < 2 \\pi .$$",
+        "Question": "$$1 + \\text{cos} \\theta = \\frac{1}{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the trigonometric equations on the interval $$0 \\le \\theta < 2 \\pi .$$",
+        "Question": "$$2 \\text{tan}^{2} \\theta = 2$$",
+        "Image Links": [],
+        "Answer": "$$\\{ \\frac{\\pi}{4} , \\frac{3 \\pi}{4} , \\frac{5 \\pi}{4} , \\frac{7 \\pi}{4} \\}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the trigonometric equations on the interval $$0 \\le \\theta < 2 \\pi .$$",
+        "Question": "$$4 \\text{sin}^{2} \\theta - 2 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the trigonometric equations on the interval $$0 \\le \\theta < 2 \\pi .$$",
+        "Question": "$$\\sqrt{3} \\text{cot} \\theta + 1 = 0$$",
+        "Image Links": [],
+        "Answer": "$$\\{ \\frac{2 \\pi}{3} , \\frac{5 \\pi}{3} \\}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the trigonometric equations on the interval $$0 \\le \\theta < 2 \\pi .$$",
+        "Question": "$$3 \\text{sec} \\theta - 2 \\sqrt{3} = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the trigonometric equations on the interval $$0 \\le \\theta < 2 \\pi .$$",
+        "Question": "$$2 \\text{cos} \\theta \\text{sin} \\theta = \\text{sin} \\theta$$",
+        "Image Links": [],
+        "Answer": "$$\\{ 0 , \\pi , \\frac{\\pi}{3} , \\frac{5 \\pi}{3} \\}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the trigonometric equations on the interval $$0 \\le \\theta < 2 \\pi .$$",
+        "Question": "$$\\text{csc}^{2} \\theta + 2 \\text{csc} \\theta + 1 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, each graph is of the form $$y = A \\text{sin} B x$$ or $$y = A \\text{cos} B x ,$$ where $$B > 0 .$$ Write the equation of the graph.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b15ade3066bb3bcca727b3ec223d62f1e37ff073"
+        ],
+        "Answer": "$$y = 4 \\text{sin} ( \\frac{\\pi}{4} x )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, each graph is of the form $$y = A \\text{sin} B x$$ or $$y = A \\text{cos} B x ,$$ where $$B > 0 .$$ Write the equation of the graph.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f8bccbf5ac81af26fe83405cd80c64fd60032a42"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, each graph is of the form $$y = A \\text{sin} B x$$ or $$y = A \\text{cos} B x ,$$ where $$B > 0 .$$ Write the equation of the graph.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1838f906cca4b1a2edfb5e4da73718590fd3bfed"
+        ],
+        "Answer": "$$y = \\text{cos} ( 2 \\pi x )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, each graph is of the form $$y = A \\text{sin} B x$$ or $$y = A \\text{cos} B x ,$$ where $$B > 0 .$$ Write the equation of the graph.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8db9eb5c472b1480ac46dc339912a62375d354b4"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find a. the amplitude, b. the period, and c. the phase shift with direction for each function.",
+        "Question": "$$y = \\text{sin} ( x - \\frac{\\pi}{4} )$$",
+        "Image Links": [],
+        "Answer": "a. 1 b. $$2 \\pi$$ c. $$\\frac{\\pi}{4}$$ units to the right",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find a. the amplitude, b. the period, and c. the phase shift with direction for each function.",
+        "Question": "$$y = 3 \\text{cos} ( 2 x + 3 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find a. the amplitude, b. the period, and c. the phase shift with direction for each function.",
+        "Question": "$$y = \\frac{-1}{2} \\text{sin} ( \\frac{1}{4} x )$$",
+        "Image Links": [],
+        "Answer": "a. $$\\frac{1}{2}$$ b. $$8 \\pi$$ c. No phase shift",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find a. the amplitude, b. the period, and c. the phase shift with direction for each function.",
+        "Question": "$$y = 2 \\text{cos} ( x - \\frac{\\pi}{3} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find a. the amplitude, b. the period, and c. the phase shift with direction for each function.",
+        "Question": "$$y = -3 \\text{sin} ( \\pi x + 2 )$$",
+        "Image Links": [],
+        "Answer": "a. 3 b. $$2$$ c. $$\\frac{2}{\\pi}$$ units to the left",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find a. the amplitude, b. the period, and c. the phase shift with direction for each function.",
+        "Question": "$$y = 4 \\text{cos} ( 2 x - \\frac{\\pi}{2} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find a. the amplitude, b. the period, and c. the phase shift with direction for each function.",
+        "Question": "[T] The diameter of a wheel rolling on the ground is 40 in. If the wheel rotates through an angle of $$120 \\text{\u00b0} ,$$ how many inches does it move? Approximate to the nearest whole inch.",
+        "Image Links": [],
+        "Answer": "Approximately 42 in.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find a. the amplitude, b. the period, and c. the phase shift with direction for each function.",
+        "Question": "[T] Find the length of the arc intercepted by central angle $$\\theta$$ in a circle of radius r . Round to the nearest hundredth. a. $$r = 12.8$$ cm, $$\\theta = \\frac{5 \\pi}{6}$$ rad b. $$r = 4.378$$ cm, $$\\theta = \\frac{7 \\pi}{6}$$ rad c. $$r = 0.964$$ cm, $$\\theta = 50 \\text{\u00b0}$$ d. $$r = 8.55$$ cm, $$\\theta = 325 \\text{\u00b0}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find a. the amplitude, b. the period, and c. the phase shift with direction for each function.",
+        "Question": "[T] As a point P moves around a circle, the measure of the angle changes. The measure of how fast the angle is changing is called angular speed , $$\\upomega ,$$ and is given by $$\\upomega = \\theta \\text{/} t ,$$ where $$\\theta$$ is in radians and t is time. Find the angular speed for the given data. Round to the nearest thousandth. a. $$\\theta = \\frac{7 \\pi}{4} \\text{rad} , t = 10$$ sec b. $$\\theta = \\frac{3 \\pi}{5} \\text{rad} , t = 8$$ sec c. $$\\theta = \\frac{2 \\pi}{9} \\text{rad} , t = 1$$ min d. $$\\theta = 23.76 \\text{rad,} t = 14$$ min",
+        "Image Links": [],
+        "Answer": "a. 0.550 rad/sec b. 0.236 rad/sec c. 0.698 rad/min d. 1.697 rad/min",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find a. the amplitude, b. the period, and c. the phase shift with direction for each function.",
+        "Question": "[T] A total of 250,000 m 2 of land is needed to build a nuclear power plant. Suppose it is decided that the area on which the power plant is to be built should be circular. Find the radius of the circular land area. If the land area is to form a $$45 \\text{\u00b0}$$ sector of a circle instead of a whole circle, find the length of the curved side.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find a. the amplitude, b. the period, and c. the phase shift with direction for each function.",
+        "Question": "[T] The area of an isosceles triangle with equal sides of length x is $$\\frac{1}{2} x^{2} \\text{sin} \\theta ,$$ where $$\\theta$$ is the angle formed by the two sides. Find the area of an isosceles triangle with equal sides of length 8 in. and angle $$\\theta = 5 \\pi \\text{/} 12$$ rad.",
+        "Image Links": [],
+        "Answer": "$$\\approx 30.9 \\text{in}^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find a. the amplitude, b. the period, and c. the phase shift with direction for each function.",
+        "Question": "[T] A particle travels in a circular path at a constant angular speed $$\\upomega .$$ The angular speed is modeled by the function $$\\upomega = 9 | \\text{cos} ( \\pi t - \\pi \\text{/} 12 ) | .$$ Determine the angular speed at $$t = 9$$ sec.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find a. the amplitude, b. the period, and c. the phase shift with direction for each function.",
+        "Question": "[T] An alternating current for outlets in a home has voltage given by the function $$V ( t ) = 150 \\text{cos} 368 t ,$$ where V is the voltage in volts at time t in seconds. Find the period of the function and interpret its meaning. Determine the number of periods that occur when 1 sec has passed.",
+        "Image Links": [],
+        "Answer": "a. \u03c0/184; the voltage repeats every \u03c0/184 sec b. Approximately 59 periods",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find a. the amplitude, b. the period, and c. the phase shift with direction for each function.",
+        "Question": "[T] The number of hours of daylight in a northeast city is modeled by the function $$N ( t ) = 12 + 3 \\text{sin} [ \\frac{2 \\pi}{365} ( t - 79 ) ] ,$$ where t is the number of days after January 1. Find the amplitude and period. Determine the number of hours of daylight on the longest day of the year. Determine the number of hours of daylight on the shortest day of the year. Determine the number of hours of daylight 90 days after January 1. Sketch the graph of the function for one period starting on January 1.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find a. the amplitude, b. the period, and c. the phase shift with direction for each function.",
+        "Question": "[T] Suppose that $$T = 50 + 10 \\text{sin} [ \\frac{\\pi}{12} ( t - 8 ) ]$$ is a mathematical model of the temperature (in degrees Fahrenheit) at t hours after midnight on a certain day of the week. Determine the amplitude and period. Find the temperature 7 hours after midnight. At what time does $$T = 60 \\text{\u00b0} ?$$ Sketch the graph of $$T$$ over $$0 \\le t \\le 24 .$$",
+        "Image Links": [],
+        "Answer": "a. Amplitude = $$10 ; \\text{period} = \\text{} 24$$ b. $$47.4 \\text{\u00b0} F$$ c. 14 hours later, or 2 p.m. d.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7962067581ce8e2757fd52fbffeb6ddfc123fcea"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find a. the amplitude, b. the period, and c. the phase shift with direction for each function.",
+        "Question": "[T] The function $$H ( t ) = 8 \\text{sin} ( \\frac{\\pi}{6} t )$$ models the height H (in feet) of the tide t hours after midnight. Assume that $$t = 0$$ is midnight. Find the amplitude and period. Graph the function over one period. What is the height of the tide at 4:30 a.m.?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "Topic": "Checkpoint 3.11",
+        "Problem Statement": "",
+        "Question": "Find the derivative of $$g ( x ) = -3 .$$",
+        "Image Links": [],
+        "Answer": "0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.12",
+        "Problem Statement": "",
+        "Question": "Find $$\\frac{d}{d x} ( x^{4} ) .$$",
+        "Image Links": [],
+        "Answer": "$$4 x^{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.13",
+        "Problem Statement": "",
+        "Question": "Find the derivative of $$f ( x ) = x^{7} .$$",
+        "Image Links": [],
+        "Answer": "$$f^{\\prime} ( x ) = 7 x^{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.14",
+        "Problem Statement": "",
+        "Question": "Find the derivative of $$f ( x ) = 2 x^{3} - 6 x^{2} + 3 .$$",
+        "Image Links": [],
+        "Answer": "$$f^{\\prime} ( x ) = 6 x^{2} - 12 x .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.15",
+        "Problem Statement": "",
+        "Question": "Find the equation of the line tangent to the graph of $$f ( x ) = 3 x^{2} - 11$$ at $$x = 2 .$$ Use the point-slope form.",
+        "Image Links": [],
+        "Answer": "$$y = 12 x - 23$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.16",
+        "Problem Statement": "",
+        "Question": "Use the product rule to obtain the derivative of $$j ( x ) = 2 x^{5} ( 4 x^{2} + x ) .$$",
+        "Image Links": [],
+        "Answer": "$$j^{\\prime} ( x ) = 10 x^{4} ( 4 x^{2} + x ) + ( 8 x + 1 ) ( 2 x^{5} ) = 56 x^{6} + 12 x^{5} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.17",
+        "Problem Statement": "",
+        "Question": "Find the derivative of $$h ( x ) = \\frac{3 x + 1}{4 x - 3} .$$",
+        "Image Links": [],
+        "Answer": "$$k^{\\prime} ( x ) = - \\frac{13}{( 4 x - 3 )^{2}} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.18",
+        "Problem Statement": "",
+        "Question": "Find the derivative of $$g ( x ) = \\frac{1}{x^{7}}$$ using the extended power rule.",
+        "Image Links": [],
+        "Answer": "$$g^{\\prime} ( x ) = -7 x^{-8} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.19",
+        "Problem Statement": "",
+        "Question": "Find $$\\frac{d}{d x} ( 3 f ( x ) - 2 g ( x ) ) .$$",
+        "Image Links": [],
+        "Answer": "$$3 f^{\\prime} ( x ) - 2 g^{\\prime} ( x ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.20",
+        "Problem Statement": "",
+        "Question": "Find the values of $$x$$ for which the graph of $$f ( x ) = 4 x^{2} - 3 x + 2$$ has a tangent line parallel to the line $$y = 2 x + 3 .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{5}{8}$$",
+        "Answer Image Links": []
+    }
+]
