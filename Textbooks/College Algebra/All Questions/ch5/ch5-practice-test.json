@@ -1,0 +1,230 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "Give the degree and leading coefficient of the following polynomial function.",
+        "Question": "$$f ( x ) = x^{3} ( 3 - 6 x - 2 x^{2} )$$",
+        "Image Links": [],
+        "Answer": "Degree: 5, leading coefficient: -2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Determine the end behavior of the polynomial function.",
+        "Question": "$$f ( x ) = 8 x^{3} - 3 x^{2} + 2 x - 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Determine the end behavior of the polynomial function.",
+        "Question": "$$f ( x ) = - 2 x^{2} ( 4 - 3 x - 5 x^{2} )$$",
+        "Image Links": [],
+        "Answer": "$$\\text{As}   x \\vec{} -\u221e ,   f ( x ) \\vec{} \u221e ,   \\text{As}   x \\vec{} \u221e ,   f ( x ) \\vec{} \u221e$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Write the quadratic function in standard form. Determine the vertex and axes intercepts and graph the function.",
+        "Question": "$$f ( x ) = x^{2} + 2 x - 8$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Given information about the graph of a quadratic function, find its equation.",
+        "Question": "Vertex $$( 2 , 0 )$$ and point on graph $$( 4 , 12 ) .$$",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = 3 ( x - 2 )^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the following application problem.",
+        "Question": "A rectangular field is to be enclosed by fencing. In addition to the enclosing fence, another fence is to divide the field into two parts, running parallel to two sides. If 1,200 feet of fencing is available, find the maximum area that can be enclosed.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find all zeros of the following polynomial functions, noting multiplicities.",
+        "Question": "$$f ( x ) = ( x - 3 )^{3} ( 3 x - 1 ) ( x - 1 )^{2}$$",
+        "Image Links": [],
+        "Answer": "3 with multiplicity 3, $$\\frac{1}{3}$$ with multiplicity 1, 1 with multiplicity 2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find all zeros of the following polynomial functions, noting multiplicities.",
+        "Question": "$$f ( x ) = 2 x^{6} - 12 x^{5} + 18 x^{4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Based on the graph, determine the zeros of the function and multiplicities.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ea0a3097aab1ecce6abbb2dbeb500e1f428d1cb5"
+        ],
+        "Answer": "$$- \\frac{1}{2}$$ with multiplicity 3, 2 with multiplicity 2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use long division to find the quotient.",
+        "Question": "$$\\frac{2 x^{3} + 3 x - 4}{x + 2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use synthetic division to find the quotient. If the divisor is a factor, write the factored form.",
+        "Question": "$$\\frac{x^{4} + 3 x^{2} - 4}{x - 2}$$",
+        "Image Links": [],
+        "Answer": "$$x^{3} + 2 x^{2} + 7 x + 14 + \\frac{24}{x - 2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use synthetic division to find the quotient. If the divisor is a factor, write the factored form.",
+        "Question": "$$\\frac{2 x^{3} + 5 x^{2} - 7 x - 12}{x + 3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the Rational Zero Theorem to help you find the zeros of the polynomial functions.",
+        "Question": "$$f ( x ) = 2 x^{3} + 5 x^{2} - 6 x - 9$$",
+        "Image Links": [],
+        "Answer": "$$\\{ -3 , -1 , \\frac{3}{2} \\}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the Rational Zero Theorem to help you find the zeros of the polynomial functions.",
+        "Question": "$$f ( x ) = 4 x^{4} + 8 x^{3} + 21 x^{2} + 17 x + 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the Rational Zero Theorem to help you find the zeros of the polynomial functions.",
+        "Question": "$$f ( x ) = 4 x^{4} + 16 x^{3} + 13 x^{2} - 15 x - 18$$",
+        "Image Links": [],
+        "Answer": "1, -2, and - $$\\frac{3}{2}$$ (multiplicity 2)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the Rational Zero Theorem to help you find the zeros of the polynomial functions.",
+        "Question": "$$f ( x ) = x^{5} + 6 x^{4} + 13 x^{3} + 14 x^{2} + 12 x + 8$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Given the following information about a polynomial function, find the function.",
+        "Question": "It has a double zero at $$x = 3$$ and zeros at $$x = 1$$ and $$x = - 2$$ . Its y -intercept is $$( 0 , 12 ) .$$",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = - \\frac{2}{3} ( x - 3 )^{2} ( x - 1 ) ( x + 2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Given the following information about a polynomial function, find the function.",
+        "Question": "It has a zero of multiplicity 3 at $$x = \\frac{1}{2}$$ and another zero at $$x = - 3$$ . It contains the point $$( 1 , 8 ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use Descartes\u2019 Rule of Signs to determine the possible number of positive and negative solutions.",
+        "Question": "$$8 x^{3} - 21 x^{2} + 6 = 0$$",
+        "Image Links": [],
+        "Answer": "2 or 0 positive, 1 negative",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following rational functions, find the intercepts and horizontal and vertical asymptotes, and sketch a graph.",
+        "Question": "$$f ( x ) = \\frac{x + 4}{x^{2} - 2 x - 3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following rational functions, find the intercepts and horizontal and vertical asymptotes, and sketch a graph.",
+        "Question": "$$f ( x ) = \\frac{x^{2} + 2 x - 3}{x^{2} - 4}$$",
+        "Image Links": [],
+        "Answer": "$$( - 3 , 0 ) ( 1 , 0 ) ( 0 , \\frac{3}{4} )$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/502c8901acd88cf64fb0297613f0456ce461ba4f"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the slant asymptote of the rational function.",
+        "Question": "$$f ( x ) = \\frac{x^{2} + 3 x - 3}{x - 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the inverse of the function.",
+        "Question": "$$f ( x ) = \\sqrt{x - 2} + 4$$",
+        "Image Links": [],
+        "Answer": "$$f^{- 1} ( x ) = ( x - 4 )^{2} + 2 , x \\geq 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the inverse of the function.",
+        "Question": "$$f ( x ) = 3 x^{3} - 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the inverse of the function.",
+        "Question": "$$f ( x ) = \\frac{2 x + 3}{3 x - 1}$$",
+        "Image Links": [],
+        "Answer": "$$f^{- 1} ( x ) = \\frac{x + 3}{3 x - 2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the unknown value.",
+        "Question": "$$y$$ varies inversely as the square of $$x$$ and when $$x = 3 ,$$ $$y = 2.$$ Find $$y$$ if $$x = 1.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the unknown value.",
+        "Question": "$$y$$ varies jointly with $$x$$ and the cube root of $$z .$$ If when $$x = 2$$ and $$z = 27 ,$$ $$y = 12 ,$$ find $$y$$ if $$x = 5$$ and $$z = 8.$$",
+        "Image Links": [],
+        "Answer": "$$y = 20$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the following application problem.",
+        "Question": "The distance a body falls varies directly as the square of the time it falls. If an object falls 64 feet in 2 seconds, how long will it take to fall 256 feet?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,480 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What does it mean when we say that two lines are parallel?",
+        "Image Links": [],
+        "Answer": "It means they have the same slope.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What is the relationship between the slopes of perpendicular lines (assuming neither is horizontal nor vertical)?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "How do we recognize when an equation, for example $$y = 4 x + 3 ,$$ will be a straight line (linear) when graphed?",
+        "Image Links": [],
+        "Answer": "The exponent of the $$x$$ variable is 1. It is called a first-degree equation.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What does it mean when we say that a linear equation is inconsistent?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "When solving the following equation: $$\\frac{2}{x - 5} = \\frac{4}{x + 1}$$ explain why we must exclude $$x = 5$$ and $$x = -1$$ as possible solutions from the solution set.",
+        "Image Links": [],
+        "Answer": "If we insert either value into the equation, they make an expression in the equation undefined (zero in the denominator).",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the equation for $$x .$$",
+        "Question": "$$7 x + 2 = 3 x - 9$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the equation for $$x .$$",
+        "Question": "$$4 x - 3 = 5$$",
+        "Image Links": [],
+        "Answer": "$$x = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the equation for $$x .$$",
+        "Question": "$$3 ( x + 2 ) - 12 = 5 ( x + 1 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the equation for $$x .$$",
+        "Question": "$$12 - 5 ( x + 3 ) = 2 x - 5$$",
+        "Image Links": [],
+        "Answer": "$$x = \\frac{2}{7}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the equation for $$x .$$",
+        "Question": "$$\\frac{1}{2} - \\frac{1}{3} x = \\frac{4}{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the equation for $$x .$$",
+        "Question": "$$\\frac{x}{3} - \\frac{3}{4} = \\frac{2 x + 3}{12}$$",
+        "Image Links": [],
+        "Answer": "$$x = 6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the equation for $$x .$$",
+        "Question": "$$\\frac{2}{3} x + \\frac{1}{2} = \\frac{31}{6}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the equation for $$x .$$",
+        "Question": "$$3 ( 2 x - 1 ) + x = 5 x + 3$$",
+        "Image Links": [],
+        "Answer": "$$x = 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the equation for $$x .$$",
+        "Question": "$$\\frac{2 x}{3} - \\frac{3}{4} = \\frac{x}{6} + \\frac{21}{4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the equation for $$x .$$",
+        "Question": "$$\\frac{x + 2}{4} - \\frac{x - 1}{3} = 2$$",
+        "Image Links": [],
+        "Answer": "$$x = -14$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve each rational equation for $$x .$$ State all x -values that are excluded from the solution set.",
+        "Question": "$$\\frac{3}{x} - \\frac{1}{3} = \\frac{1}{6}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve each rational equation for $$x .$$ State all x -values that are excluded from the solution set.",
+        "Question": "$$2 - \\frac{3}{x + 4} = \\frac{x + 2}{x + 4}$$",
+        "Image Links": [],
+        "Answer": "$$x \\ne -4 ;$$ $$x = -3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve each rational equation for $$x .$$ State all x -values that are excluded from the solution set.",
+        "Question": "$$\\frac{3}{x - 2} = \\frac{1}{x - 1} + \\frac{7}{( x - 1 ) ( x - 2 )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve each rational equation for $$x .$$ State all x -values that are excluded from the solution set.",
+        "Question": "$$\\frac{3 x}{x - 1} + 2 = \\frac{3}{x - 1}$$",
+        "Image Links": [],
+        "Answer": "$$x \\ne 1 ;$$ when we solve this we get $$x = 1 ,$$ which is excluded, therefore NO solution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve each rational equation for $$x .$$ State all x -values that are excluded from the solution set.",
+        "Question": "$$\\frac{5}{x + 1} + \\frac{1}{x - 3} = \\frac{- 6}{x^{2} - 2 x - 3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve each rational equation for $$x .$$ State all x -values that are excluded from the solution set.",
+        "Question": "$$\\frac{1}{x} = \\frac{1}{5} + \\frac{3}{2 x}$$",
+        "Image Links": [],
+        "Answer": "$$x \\ne 0 ;$$ $$x = - \\frac{5}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the equation of the line using the point-slope formula.\nWrite all the final equations using the slope-intercept form.",
+        "Question": "$$( 0 , 3 )$$ with a slope of $$\\frac{2}{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the equation of the line using the point-slope formula.\nWrite all the final equations using the slope-intercept form.",
+        "Question": "$$( 1 , 2 )$$ with a slope of $$- \\frac{4}{5}$$",
+        "Image Links": [],
+        "Answer": "$$y = - \\frac{4}{5} x + \\frac{14}{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the equation of the line using the point-slope formula.\nWrite all the final equations using the slope-intercept form.",
+        "Question": "x -intercept is 1, and $$( -2 , 6 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the equation of the line using the point-slope formula.\nWrite all the final equations using the slope-intercept form.",
+        "Question": "y -intercept is 2, and $$( 4 , -1 )$$",
+        "Image Links": [],
+        "Answer": "$$y = - \\frac{3}{4} x + 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the equation of the line using the point-slope formula.\nWrite all the final equations using the slope-intercept form.",
+        "Question": "$$( -3 , 10 )$$ and $$( 5 , -6 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the equation of the line using the point-slope formula.\nWrite all the final equations using the slope-intercept form.",
+        "Question": "$$( 1 , 3 ) \\text{\u00a0andquad} ( 5 , 5 )$$",
+        "Image Links": [],
+        "Answer": "$$y = \\frac{1}{2} x + \\frac{5}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the equation of the line using the point-slope formula.\nWrite all the final equations using the slope-intercept form.",
+        "Question": "parallel to $$y = 2 x + 5$$ and passes through the point $$( 4 , 3 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the equation of the line using the point-slope formula.\nWrite all the final equations using the slope-intercept form.",
+        "Question": "perpendicular to $$\\text{3} y = x - 4$$ and passes through the point $$( -2 , 1 )$$ .",
+        "Image Links": [],
+        "Answer": "$$y = -3 x - 5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the equation of the line using the given information.",
+        "Question": "$$( - 2 , 0 )$$ and $$( -2 , 5 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the equation of the line using the given information.",
+        "Question": "$$( 1 , 7 )$$ and $$( 3 , 7 )$$",
+        "Image Links": [],
+        "Answer": "$$y = 7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the equation of the line using the given information.",
+        "Question": "The slope is undefined and it passes through the point $$( 2 , 3 ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the equation of the line using the given information.",
+        "Question": "The slope equals zero and it passes through the point $$( 1 , -4 ) .$$",
+        "Image Links": [],
+        "Answer": "$$y = -4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the equation of the line using the given information.",
+        "Question": "The\u00a0slope\u00a0is $$\\frac{3}{4}$$ and\u00a0it\u00a0passes\u00a0through\u00a0the\u00a0point $$( 1 , 4 )$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the equation of the line using the given information.",
+        "Question": "$$( -1 , 3 )$$ and $$( 4 , -5 )$$",
+        "Image Links": [],
+        "Answer": "$$8 x + 5 y = 7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the pair of equations on the same axes, and state whether they are parallel, perpendicular, or neither.",
+        "Question": "$$\\left .\\begin{matrix}{a}y = 2 x + 7 \\\\ y = - \\frac{1}{2} x - 4\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the pair of equations on the same axes, and state whether they are parallel, perpendicular, or neither.",
+        "Question": "$$\\left .\\begin{matrix}{a}3 x - 2 y = 5 \\\\ 6 y - 9 x = 6\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "Parallel",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b60492a0b60c81b32da8bb4b59ab2f4c5e6af168"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the pair of equations on the same axes, and state whether they are parallel, perpendicular, or neither.",
+        "Question": "$$\\left .\\begin{matrix}{a}y = \\frac{3 x + 1}{4} \\\\ y = 3 x + 2\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the pair of equations on the same axes, and state whether they are parallel, perpendicular, or neither.",
+        "Question": "$$\\left .\\begin{matrix}{a}x = 4 \\\\ y = -3\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "Perpendicular",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/29d75c61526db9cd9e6650509022694265d9ce7c"
+        ]
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, find the slope of the line that passes through the given points.",
+        "Question": "$$( 5 , 4 )$$ and $$( 7 , 9 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, find the slope of the line that passes through the given points.",
+        "Question": "$$( -3 , 2 )$$ and $$( 4 , -7 )$$",
+        "Image Links": [],
+        "Answer": "$$m = - \\frac{9}{7}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, find the slope of the line that passes through the given points.",
+        "Question": "$$( -5 , 4 )$$ and $$( 2 , 4 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, find the slope of the line that passes through the given points.",
+        "Question": "$$( -1 , -2 )$$ and $$( 3 , 4 )$$",
+        "Image Links": [],
+        "Answer": "$$m = \\frac{3}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, find the slope of the line that passes through the given points.",
+        "Question": "$$( 3 , -2 )$$ and $$( 3 , -2 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, find the slope of the lines that pass through each pair of points and determine whether the lines are parallel or perpendicular.",
+        "Question": "$$None$$",
+        "Image Links": [],
+        "Answer": "$$m_{1} = - \\frac{1}{3} , \\text{\u2003} m_{2} = 3 ; \\text{\u2003} \\text{Perpendicular} \\text{.}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, find the slope of the lines that pass through each pair of points and determine whether the lines are parallel or perpendicular.",
+        "Question": "$$None$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, express the equations in slope intercept form (rounding each number to the thousandths place). Enter this into a graphing calculator as Y1, then adjust the ymin and ymax values for your window to include where the y -intercept occurs. State your ymin and ymax values.",
+        "Question": "$$0.537 x - 2.19 y = 100$$",
+        "Image Links": [],
+        "Answer": "$$y = 0.245 x - 45.662.$$ Answers may vary. $$y_{\\text{min}} = -50 , \\text{} y_{\\text{max}} = -40$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, express the equations in slope intercept form (rounding each number to the thousandths place). Enter this into a graphing calculator as Y1, then adjust the ymin and ymax values for your window to include where the y -intercept occurs. State your ymin and ymax values.",
+        "Question": "$$4,500 x - 200 y = 9,528$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, express the equations in slope intercept form (rounding each number to the thousandths place). Enter this into a graphing calculator as Y1, then adjust the ymin and ymax values for your window to include where the y -intercept occurs. State your ymin and ymax values.",
+        "Question": "$$\\frac{200 - 30 y}{x} = 70$$",
+        "Image Links": [],
+        "Answer": "$$y = - 2.333 x + 6.667.$$ Answers may vary. $$y_{\\min{}} = -10 , \\  y_{\\max{}} = 10$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Starting with the point-slope formula $$y - y_{1} = m ( x - x_{1} ) ,$$ solve this expression for $$x$$ in terms of $$x_{1} , y , y_{1} ,$$ and $$m$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Starting with the standard form of an equation $$A x + B y = C$$ solve this expression for $$y$$ in terms of $$A , B , C$$ and $$x$$ . Then put the expression in slope-intercept form.",
+        "Image Links": [],
+        "Answer": "$$y = - \\frac{A}{B} x + \\frac{C}{B}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Use the above derived formula to put the following standard equation in slope intercept form: $$7 x - 5 y = 25.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Given that the following coordinates are the vertices of a rectangle, prove that this truly is a rectangle by showing the slopes of the sides that meet are perpendicular. $$( - 1 , 1 ) , ( 2 , 0 ) , ( 3 , 3 )$$ and $$( 0 , 4 )$$",
+        "Image Links": [],
+        "Answer": "$$None$$ Yes they are perpendicular.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Find the slopes of the diagonals in the previous exercise. Are they perpendicular?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "The slope for a wheelchair ramp for a home has to be $$\\frac{1}{12} .$$ If the vertical distance from the ground to the door bottom is 2.5 ft, find the distance the ramp has to extend from the home in order to comply with the needed slope.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/bded289bae0a02e51a163adfd8db52d5c7df5cc9"
+        ],
+        "Answer": "30 ft",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "If the profit equation for a small business selling $$x$$ number of item one and $$y$$ number of item two is $$p = 3 x + 4 y ,$$ find the $$y$$ value when $$p = \\text{$} 453 \\text{andquad} x = 75.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, use this scenario: The cost of renting a car is $45/wk plus $0.25/mi traveled during that week. An equation to represent the cost would be $$y = 45 + .25 x ,$$ where $$x$$ is the number of miles traveled.",
+        "Question": "What is your cost if you travel 50 mi?",
+        "Image Links": [],
+        "Answer": "$57.50",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, use this scenario: The cost of renting a car is $45/wk plus $0.25/mi traveled during that week. An equation to represent the cost would be $$y = 45 + .25 x ,$$ where $$x$$ is the number of miles traveled.",
+        "Question": "If your cost were $$\\text{$} 63.75 ,$$ how many miles were you charged for traveling?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, use this scenario: The cost of renting a car is $45/wk plus $0.25/mi traveled during that week. An equation to represent the cost would be $$y = 45 + .25 x ,$$ where $$x$$ is the number of miles traveled.",
+        "Question": "Suppose you have a maximum of $100 to spend for the car rental. What would be the maximum number of miles you could travel?",
+        "Image Links": [],
+        "Answer": "220 mi",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "Given that $$h^{- 1} ( 6 ) = 2 ,$$ what are the corresponding input and output values of the original function $$h ?$$",
+        "Image Links": [],
+        "Answer": "$$h ( 2 ) = 6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "If $$f ( x ) = x^{3} - 4$$ and $$g ( x ) = \\sqrt[3]{x + 4} ,$$ is $$g = f^{- 1} ?$$",
+        "Image Links": [],
+        "Answer": "Yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "If $$f ( x ) = ( x - 1 )^{3} \\text{and} g ( x ) = \\sqrt[3]{x} + 1 ,$$ is $$g = f^{- 1} ?$$",
+        "Image Links": [],
+        "Answer": "Yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "The domain of function $$f$$ is $$( 1 , \\infty )$$ and the range of function $$f$$ is $$( -\u221e , -2 ) .$$ Find the domain and range of the inverse function.",
+        "Image Links": [],
+        "Answer": "The domain of function $$f^{- 1}$$ is $$( - \\infty \\text{,} - 2 )$$ and the range of function $$f^{- 1}$$ is $$( 1 , \\infty ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #5",
+        "Problem Statement": "",
+        "Question": "Using Table 4 , find and interpret \u24d0 $$\\text{} f ( 60 ) ,$$ and \u24d1 $$\\text{} f^{- 1} ( 60 ) .$$ \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\n$$t \\text{(minutes)}$$ & 30 & 50 & 60 & 70 & 90 \\\\ \\hline\n$$f ( t ) \\text{(miles)}$$ & 20 & 40 & 50 & 60 & 70 \\\\ \\hline\n\\end{tabular}\n\\end{table} Table 4",
+        "Image Links": [],
+        "Answer": "\u24d0 $$f ( 60 ) = 50.$$ In 60 minutes, 50 miles are traveled. \u24d1 $$f^{- 1} ( 60 ) = 70.$$ To travel 60 miles, it will take 70 minutes.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #6",
+        "Problem Statement": "",
+        "Question": "Using the graph in Figure 5 , \u24d0 find $$g^{- 1} ( 1 ) ,$$ and \u24d1 estimate $$g^{- 1} ( 4 ) .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ff1738c65c16a8b0dcc69d62a6a8322a8384baff"
+        ],
+        "Answer": "\u24d0 3 \u24d1 5.6",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #7",
+        "Problem Statement": "",
+        "Question": "Solve for $$x$$ in terms of $$y$$ given $$y = \\frac{1}{3} ( x - 5 ) .$$",
+        "Image Links": [],
+        "Answer": "$$x = 3 y + 5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #8",
+        "Problem Statement": "",
+        "Question": "What is the inverse of the function $$f ( x ) = 2 - \\sqrt{x} ?$$ State the domains of both the function and the inverse function.",
+        "Image Links": [],
+        "Answer": "$$f^{- 1} ( x ) = ( 2 - x )^{2} ;$$ $$\\text{domain} \\text{of} f : [ 0 , \\infty ) ;$$ $$\\text{domain} \\text{of} f^{- 1} : ( - \\infty , 2 ]$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #9",
+        "Problem Statement": "",
+        "Question": "Draw graphs of the functions $$f$$ and $$\\text{} f^{- 1}$$ from Example 8 .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/53befab97f738e3f43c87fdf77d711b37f30e3af"
+        ]
+    }
+]

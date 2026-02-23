@@ -1,0 +1,482 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "If the terms of a polynomial do not have a GCF, does that mean it is not factorable? Explain.",
+        "Image Links": [],
+        "Answer": "The terms of a polynomial do not have to have a common factor for the entire polynomial to be factorable. For example, $$4 x^{2}$$ and $$-9 y^{2}$$ don\u2019t have a common factor, but the whole polynomial is still factorable: $$4 x^{2} -9 y^{2} = ( 2 x + 3 y ) ( 2 x -3 y ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "A polynomial is factorable, but it is not a perfect square trinomial or a difference of two squares. Can you factor the polynomial without finding the GCF?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "How do you factor by grouping?",
+        "Image Links": [],
+        "Answer": "Divide the $$x$$ term into the sum of two terms, factor each portion of the expression separately, and then factor out the GCF of the entire expression.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the greatest common factor.",
+        "Question": "$$14 x + 4 x y - 18 x y^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the greatest common factor.",
+        "Question": "$$49 m b^{2} - 35 m^{2} b a + 77 m a^{2}$$",
+        "Image Links": [],
+        "Answer": "$$7 m$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the greatest common factor.",
+        "Question": "$$30 x^{3} y - 45 x^{2} y^{2} + 135 x y^{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the greatest common factor.",
+        "Question": "$$200 p^{3} m^{3} - 30 p^{2} m^{3} + 40 m^{3}$$",
+        "Image Links": [],
+        "Answer": "$$10 m^{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the greatest common factor.",
+        "Question": "$$36 j^{4} k^{2} - 18 j^{3} k^{3} + 54 j^{2} k^{4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the greatest common factor.",
+        "Question": "$$6 y^{4} - 2 y^{3} + 3 y^{2} - y$$",
+        "Image Links": [],
+        "Answer": "$$y$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor by grouping.",
+        "Question": "$$6 x^{2} + 5 x - 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor by grouping.",
+        "Question": "$$2 a^{2} + 9 a - 18$$",
+        "Image Links": [],
+        "Answer": "$$( 2 a -3 ) ( a + 6 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor by grouping.",
+        "Question": "$$6 c^{2} + 41 c + 63$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor by grouping.",
+        "Question": "$$6 n^{2} - 19 n - 11$$",
+        "Image Links": [],
+        "Answer": "$$( 3 n -11 ) ( 2 n + 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor by grouping.",
+        "Question": "$$20 w^{2} - 47 w + 24$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor by grouping.",
+        "Question": "$$2 p^{2} - 5 p - 7$$",
+        "Image Links": [],
+        "Answer": "$$( p + 1 ) ( 2 p -7 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomial.",
+        "Question": "$$7 x^{2} + 48 x - 7$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomial.",
+        "Question": "$$10 h^{2} - 9 h - 9$$",
+        "Image Links": [],
+        "Answer": "$$( 5 h + 3 ) ( 2 h -3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomial.",
+        "Question": "$$2 b^{2} - 25 b - 247$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomial.",
+        "Question": "$$9 d^{2} -73 d + 8$$",
+        "Image Links": [],
+        "Answer": "$$( 9 d -1 ) ( d -8 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomial.",
+        "Question": "$$90 v^{2} -181 v + 90$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomial.",
+        "Question": "$$12 t^{2} + t - 13$$",
+        "Image Links": [],
+        "Answer": "$$( 12 t + 13 ) ( t -1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomial.",
+        "Question": "$$2 n^{2} - n - 15$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomial.",
+        "Question": "$$16 x^{2} - 100$$",
+        "Image Links": [],
+        "Answer": "$$( 4 x + 10 ) ( 4 x - 10 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomial.",
+        "Question": "$$25 y^{2} - 196$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomial.",
+        "Question": "$$121 p^{2} - 169$$",
+        "Image Links": [],
+        "Answer": "$$( 11 p + 13 ) ( 11 p - 13 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomial.",
+        "Question": "$$4 m^{2} - 9$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomial.",
+        "Question": "$$361 d^{2} - 81$$",
+        "Image Links": [],
+        "Answer": "$$( 19 d + 9 ) ( 19 d - 9 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomial.",
+        "Question": "$$324 x^{2} - 121$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomial.",
+        "Question": "$$144 b^{2} - 25 c^{2}$$",
+        "Image Links": [],
+        "Answer": "$$( 12 b + 5 c ) ( 12 b - 5 c )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomial.",
+        "Question": "$$16 a^{2} - 8 a + 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomial.",
+        "Question": "$$49 n^{2} + 168 n + 144$$",
+        "Image Links": [],
+        "Answer": "$$( 7 n + 12 )^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomial.",
+        "Question": "$$121 x^{2} - 88 x + 16$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomial.",
+        "Question": "$$225 y^{2} + 120 y + 16$$",
+        "Image Links": [],
+        "Answer": "$$( 15 y + 4 )^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomial.",
+        "Question": "$$m^{2} - 20 m + 100$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomial.",
+        "Question": "$$25 p^{2} - 120 p + 144$$",
+        "Image Links": [],
+        "Answer": "$$( 5 p - 12 )^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomial.",
+        "Question": "$$36 q^{2} + 60 q + 25$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomials.",
+        "Question": "$$x^{3} + 216$$",
+        "Image Links": [],
+        "Answer": "$$( x + 6 ) ( x^{2} - 6 x + 36 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomials.",
+        "Question": "$$27 y^{3} - 8$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomials.",
+        "Question": "$$125 a^{3} + 343$$",
+        "Image Links": [],
+        "Answer": "$$( 5 a + 7 ) ( 25 a^{2} - 35 a + 49 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomials.",
+        "Question": "$$b^{3} - 8 d^{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomials.",
+        "Question": "$$64 x^{3} -125$$",
+        "Image Links": [],
+        "Answer": "$$( 4 x - 5 ) ( 16 x^{2} + 20 x + 25 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomials.",
+        "Question": "$$729 q^{3} + 1331$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomials.",
+        "Question": "$$125 r^{3} + 1,728 s^{3}$$",
+        "Image Links": [],
+        "Answer": "$$( 5 r + 12 s ) ( 25 r^{2} - 60 r s + 144 s^{2} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomials.",
+        "Question": "$$4 x ( x - 1 )^{- \\frac{2}{3}} + 3 ( x - 1 )^{\\frac{1}{3}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomials.",
+        "Question": "$$3 c ( 2 c + 3 )^{- \\frac{1}{4}} - 5 ( 2 c + 3 )^{\\frac{3}{4}}$$",
+        "Image Links": [],
+        "Answer": "$$( 2 c + 3 )^{- \\frac{1}{4}} ( -7 c - 15 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomials.",
+        "Question": "$$3 t ( 10 t + 3 )^{\\frac{1}{3}} + 7 ( 10 t + 3 )^{\\frac{4}{3}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomials.",
+        "Question": "$$14 x ( x + 2 )^{- \\frac{2}{5}} + 5 ( x + 2 )^{\\frac{3}{5}}$$",
+        "Image Links": [],
+        "Answer": "$$( x + 2 )^{- \\frac{2}{5}} ( 19 x + 10 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomials.",
+        "Question": "$$9 y ( 3 y - 13 )^{\\frac{1}{5}} - 2 ( 3 y - 13 )^{\\frac{6}{5}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomials.",
+        "Question": "$$5 z ( 2 z - 9 )^{- \\frac{3}{2}} + 11 ( 2 z - 9 )^{- \\frac{1}{2}}$$",
+        "Image Links": [],
+        "Answer": "$$( 2 z - 9 )^{- \\frac{3}{2}} ( 27 z - 99 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, factor the polynomials.",
+        "Question": "$$6 d ( 2 d + 3 )^{- \\frac{1}{6}} + 5 ( 2 d + 3 )^{\\frac{5}{6}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "Charlotte has appointed a chairperson to lead a city beautification project. The first act is to install statues and fountains in one of the city\u2019s parks. The park is a rectangle with an area of $$98 x^{2} + 105 x - 27$$ m 2 , as shown in the figure below. The length and width of the park are perfect factors of the area.\n",
+        "Question": "Factor by grouping to find the length and width of the park.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8bcfe6d47aadc0aa739ce9f3bf1e19b527e1cecf"
+        ],
+        "Answer": "$$( 14 x -3 ) ( 7 x + 9 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "Charlotte has appointed a chairperson to lead a city beautification project. The first act is to install statues and fountains in one of the city\u2019s parks. The park is a rectangle with an area of $$98 x^{2} + 105 x - 27$$ m 2 , as shown in the figure below. The length and width of the park are perfect factors of the area.\n",
+        "Question": "A statue is to be placed in the center of the park. The area of the base of the statue is $$4 x^{2} + 12 x + 9 \\text{\u00a0} \\text{m}^{2} .$$ Factor the area to find the lengths of the sides of the statue.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8bcfe6d47aadc0aa739ce9f3bf1e19b527e1cecf"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "Charlotte has appointed a chairperson to lead a city beautification project. The first act is to install statues and fountains in one of the city\u2019s parks. The park is a rectangle with an area of $$98 x^{2} + 105 x - 27$$ m 2 , as shown in the figure below. The length and width of the park are perfect factors of the area.\n",
+        "Question": "At the northwest corner of the park, the city is going to install a fountain. The area of the base of the fountain is $$9 x^{2} - 25 \\text{\u00a0} \\text{m}^{2} .$$ Factor the area to find the lengths of the sides of the fountain.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8bcfe6d47aadc0aa739ce9f3bf1e19b527e1cecf"
+        ],
+        "Answer": "$$( 3 x + 5 ) ( 3 x -5 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "A school is installing a flagpole in the central plaza. The plaza is a square with side length 100 yd. as shown in the figure below.  The flagpole will take up a square plot with area $$x^{2} - 6 x + 9$$ yd 2 .\n",
+        "Question": "Find the length of the base of the flagpole by factoring.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/53d3121a069310415e1ca28ff697e01ba6148d86"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, factor the polynomials completely.",
+        "Question": "$$16 x^{4} - 200 x^{2} + 625$$",
+        "Image Links": [],
+        "Answer": "$$( 2 x + 5 )^{2} ( 2 x - 5 )^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, factor the polynomials completely.",
+        "Question": "$$81 y^{4} - 256$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, factor the polynomials completely.",
+        "Question": "$$16 z^{4} - 2,401 a^{4}$$",
+        "Image Links": [],
+        "Answer": "$$( 4 z^{2} + 49 a^{2} ) ( 2 z + 7 a ) ( 2 z - 7 a )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, factor the polynomials completely.",
+        "Question": "$$5 x ( 3 x + 2 )^{- \\frac{2}{4}} + ( 12 x + 8 )^{\\frac{3}{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, factor the polynomials completely.",
+        "Question": "$$( 32 x^{3} + 48 x^{2} - 162 x - 243 )^{-1}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{( 4 x + 9 ) ( 4 x -9 ) ( 2 x + 3 )}$$",
+        "Answer Image Links": []
+    }
+]

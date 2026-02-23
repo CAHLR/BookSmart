@@ -1,0 +1,712 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "When examining the formula of a function that is the result of multiple transformations, how can you tell a horizontal shift from a vertical shift?",
+        "Image Links": [],
+        "Answer": "A horizontal shift results when a constant is added to or subtracted from the input. A vertical shifts results when a constant is added to or subtracted from the output.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "When examining the formula of a function that is the result of multiple transformations, how can you tell a horizontal stretch from a vertical stretch?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "When examining the formula of a function that is the result of multiple transformations, how can you tell a horizontal compression from a vertical compression?",
+        "Image Links": [],
+        "Answer": "A horizontal compression results when a constant greater than 1 is multiplied by the input. A vertical compression results when a constant between 0 and 1 is multiplied by the output.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "When examining the formula of a function that is the result of multiple transformations, how can you tell a reflection with respect to the x -axis from a reflection with respect to the y -axis?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "How can you determine whether a function is odd or even from the formula of the function?",
+        "Image Links": [],
+        "Answer": "For a function $$f ,$$ substitute $$( - x )$$ for $$( x )$$ in $$f ( x ) .$$ Simplify. If the resulting function is the same as the original function, $$f ( - x ) = f ( x ) ,$$ then the function is even. If the resulting function is the opposite of the original function, $$f ( - x ) = - f ( x ) ,$$ then the original function is odd. If the function is not the same or the opposite, then the function is neither odd nor even.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write a formula for the function obtained when the graph is shifted as described.",
+        "Question": "$$f ( x ) = \\sqrt{x}$$ is shifted up 1 unit and to the left 2 units.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write a formula for the function obtained when the graph is shifted as described.",
+        "Question": "$$f ( x ) = | x |$$ is shifted down 3 units and to the right 1 unit.",
+        "Image Links": [],
+        "Answer": "$$g ( x ) = | x - 1 | - 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write a formula for the function obtained when the graph is shifted as described.",
+        "Question": "$$f ( x ) = \\frac{1}{x}$$ is shifted down 4 units and to the right 3 units.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write a formula for the function obtained when the graph is shifted as described.",
+        "Question": "$$f ( x ) = \\frac{1}{x^{2}}$$ is shifted up 2 units and to the left 4 units.",
+        "Image Links": [],
+        "Answer": "$$g ( x ) = \\frac{1}{( x + 4 )^{2}} + 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, describe how the graph of the function is a transformation of the graph of the original function $$f .$$",
+        "Question": "$$y = f ( x - 49 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, describe how the graph of the function is a transformation of the graph of the original function $$f .$$",
+        "Question": "$$y = f ( x + 43 )$$",
+        "Image Links": [],
+        "Answer": "The graph of $$f ( x + 43 )$$ is a horizontal shift to the left 43 units of the graph of $$f .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, describe how the graph of the function is a transformation of the graph of the original function $$f .$$",
+        "Question": "$$y = f ( x + 3 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, describe how the graph of the function is a transformation of the graph of the original function $$f .$$",
+        "Question": "$$y = f ( x - 4 )$$",
+        "Image Links": [],
+        "Answer": "The graph of $$f ( x - 4 )$$ is a horizontal shift to the right 4 units of the graph of $$f .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, describe how the graph of the function is a transformation of the graph of the original function $$f .$$",
+        "Question": "$$y = f ( x ) + 5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, describe how the graph of the function is a transformation of the graph of the original function $$f .$$",
+        "Question": "$$y = f ( x ) + 8$$",
+        "Image Links": [],
+        "Answer": "The graph of $$f ( x ) + 8$$ is a vertical shift up 8 units of the graph of $$f .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, describe how the graph of the function is a transformation of the graph of the original function $$f .$$",
+        "Question": "$$y = f ( x ) - 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, describe how the graph of the function is a transformation of the graph of the original function $$f .$$",
+        "Question": "$$y = f ( x ) - 7$$",
+        "Image Links": [],
+        "Answer": "The graph of $$f ( x ) - 7$$ is a vertical shift down 7 units of the graph of $$f .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, describe how the graph of the function is a transformation of the graph of the original function $$f .$$",
+        "Question": "$$y = f ( x - 2 ) + 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, describe how the graph of the function is a transformation of the graph of the original function $$f .$$",
+        "Question": "$$y = f ( x + 4 ) - 1$$",
+        "Image Links": [],
+        "Answer": "The graph of $$f ( x + 4 ) - 1$$ is a horizontal shift to the left 4 units and a vertical shift down 1 unit of the graph of $$f .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, determine the interval(s) on which the function is increasing and decreasing.",
+        "Question": "$$f ( x ) = 4 ( x + 1 )^{2} - 5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, determine the interval(s) on which the function is increasing and decreasing.",
+        "Question": "$$g ( x ) = 5 ( x + 3 )^{2} - 2$$",
+        "Image Links": [],
+        "Answer": "decreasing on $$( - \\infty , - 3 )$$ and increasing on $$( - 3 , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, determine the interval(s) on which the function is increasing and decreasing.",
+        "Question": "$$a ( x ) = \\sqrt{- x + 4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, determine the interval(s) on which the function is increasing and decreasing.",
+        "Question": "$$k ( x ) = - 3 \\sqrt{x} - 1$$",
+        "Image Links": [],
+        "Answer": "decreasing on $$( 0 , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graph of $$f ( x ) = 2^{x}$$ shown in Figure 31 to sketch a graph of each transformation of $$f ( x ) .$$\nFigure 31",
+        "Question": "$$g ( x ) = 2^{x} + 1$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0821282de8064d7b4b3442a9895308f9ff1daf2f"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graph of $$f ( x ) = 2^{x}$$ shown in Figure 31 to sketch a graph of each transformation of $$f ( x ) .$$\nFigure 31",
+        "Question": "$$h ( x ) = 2^{x} - 3$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0821282de8064d7b4b3442a9895308f9ff1daf2f"
+        ],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/db69340756a54bcd9b495f0fabee146728576d83"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graph of $$f ( x ) = 2^{x}$$ shown in Figure 31 to sketch a graph of each transformation of $$f ( x ) .$$\nFigure 31",
+        "Question": "$$w ( x ) = 2^{x - 1}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0821282de8064d7b4b3442a9895308f9ff1daf2f"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch a graph of the function as a transformation of the graph of one of the toolkit functions.",
+        "Question": "$$f ( t ) = ( t + 1 )^{2} - 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/990e2ea2d25a08b7cb6c76301687d7b09839fb5f"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch a graph of the function as a transformation of the graph of one of the toolkit functions.",
+        "Question": "$$h ( x ) = | x - 1 | + 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch a graph of the function as a transformation of the graph of one of the toolkit functions.",
+        "Question": "$$k ( x ) = ( x - 2 )^{3} - 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8e389f9a9207de28f83c8aa89ef80d83bdbd8914"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch a graph of the function as a transformation of the graph of one of the toolkit functions.",
+        "Question": "$$m ( t ) = 3 + \\sqrt{t + 2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "",
+        "Question": "Tabular representations for the functions $$f , g ,$$ and $$h$$ are given below. Write $$g ( x )$$ and $$h ( x )$$ as transformations of $$f ( x ) .$$ \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\n$$x$$ & -2 & -1 & 0 & 1 & 2 \\\\ \\hline\n$$f ( x )$$ & -2 & -1 & -3 & 1 & 2 \\\\ \\hline\n\\end{tabular}\n\\end{table} \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\n$$x$$ & -1 & 0 & 1 & 2 & 3 \\\\ \\hline\n$$g ( x )$$ & -2 & -1 & -3 & 1 & 2 \\\\ \\hline\n\\end{tabular}\n\\end{table} \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\n$$x$$ & -2 & -1 & 0 & 1 & 2 \\\\ \\hline\n$$h ( x )$$ & -1 & 0 & -2 & 2 & 3 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "$$g ( x ) = f ( x - 1 ) , h ( x ) = f ( x ) + 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "",
+        "Question": "Tabular representations for the functions $$f , g ,$$ and $$h$$ are given below. Write $$g ( x )$$ and $$h ( x )$$ as transformations of $$f ( x ) .$$ \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\n$$x$$ & -2 & -1 & 0 & 1 & 2 \\\\ \\hline\n$$f ( x )$$ & -1 & -3 & 4 & 2 & 1 \\\\ \\hline\n\\end{tabular}\n\\end{table} \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\n$$x$$ & -3 & -2 & -1 & 0 & 1 \\\\ \\hline\n$$g ( x )$$ & -1 & -3 & 4 & 2 & 1 \\\\ \\hline\n\\end{tabular}\n\\end{table} \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\n$$x$$ & -2 & -1 & 0 & 1 & 2 \\\\ \\hline\n$$h ( x )$$ & -2 & -4 & 3 & 1 & 0 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, write an equation for each graphed function by using transformations of the graphs of one of the toolkit functions.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e4960329e7c2799427b4e0d03878fafbde780bbe"
+        ],
+        "Answer": "$$f ( x ) = | x - 3 | - 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, write an equation for each graphed function by using transformations of the graphs of one of the toolkit functions.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/59c72082c6b02668d71c299b61493c7392daef03"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, write an equation for each graphed function by using transformations of the graphs of one of the toolkit functions.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a076599190c90b216c082a4a4e63f9923ff1d623"
+        ],
+        "Answer": "$$f ( x ) = \\sqrt{x + 3} - 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, write an equation for each graphed function by using transformations of the graphs of one of the toolkit functions.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/79a2640063715b2201fa607a9f6369eae4e31713"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, write an equation for each graphed function by using transformations of the graphs of one of the toolkit functions.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/fadaea57325cef987310151c6f0c36380621a76b"
+        ],
+        "Answer": "$$f ( x ) = ( x - 2 )^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, write an equation for each graphed function by using transformations of the graphs of one of the toolkit functions.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/807ba618fde69cdbf9c06270cd86fab64b3d0fdb"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, write an equation for each graphed function by using transformations of the graphs of one of the toolkit functions.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/089aa2f667e68d504d79d616fb8646afc242cc7f"
+        ],
+        "Answer": "$$f ( x ) = | x + 3 | - 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, write an equation for each graphed function by using transformations of the graphs of one of the toolkit functions.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1e43aed6bbed22972f1f1dbdacfa4cecfcb25844"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the graphs of transformations of the square root function to find a formula for each of the functions.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0972b0182a82198cbbe88ba3d41b2f4384afb879"
+        ],
+        "Answer": "$$f ( x ) = - \\sqrt{x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the graphs of transformations of the square root function to find a formula for each of the functions.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/39fb2067ae2b21a7c50f7d8f88a659f7ab3a4c90"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the graphs of the transformed toolkit functions to write a formula for each of the resulting functions.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/087bfeb2ad2967cb0bf4f742dba97ea34d39400f"
+        ],
+        "Answer": "$$f ( x ) = - ( x + 1 )^{2} + 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the graphs of the transformed toolkit functions to write a formula for each of the resulting functions.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/94c2563b5c6689701d2b0d3a5f3c7fe17e90921d"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the graphs of the transformed toolkit functions to write a formula for each of the resulting functions.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7111a940f42f69e1cb9027077e2fb22d3df27afe"
+        ],
+        "Answer": "$$f ( x ) = \\sqrt{- x} + 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the graphs of the transformed toolkit functions to write a formula for each of the resulting functions.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0c5900083003f41bb33caf948a43f2aecefba55b"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, determine whether the function is odd, even, or neither.",
+        "Question": "$$f ( x ) = 3 x^{4}$$",
+        "Image Links": [],
+        "Answer": "even",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, determine whether the function is odd, even, or neither.",
+        "Question": "$$g ( x ) = \\sqrt{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, determine whether the function is odd, even, or neither.",
+        "Question": "$$h ( x ) = \\frac{1}{x} + 3 x$$",
+        "Image Links": [],
+        "Answer": "odd",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, determine whether the function is odd, even, or neither.",
+        "Question": "$$f ( x ) = ( x - 2 )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, determine whether the function is odd, even, or neither.",
+        "Question": "$$g ( x ) = 2 x^{4}$$",
+        "Image Links": [],
+        "Answer": "even",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, determine whether the function is odd, even, or neither.",
+        "Question": "$$h ( x ) = 2 x - x^{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, describe how the graph of each function is a transformation of the graph of the original function $$f .$$",
+        "Question": "$$g ( x ) = - f ( x )$$",
+        "Image Links": [],
+        "Answer": "The graph of $$g$$ is a vertical reflection (across the $$x$$ -axis) of the graph of $$f .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, describe how the graph of each function is a transformation of the graph of the original function $$f .$$",
+        "Question": "$$g ( x ) = f ( - x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, describe how the graph of each function is a transformation of the graph of the original function $$f .$$",
+        "Question": "$$g ( x ) = 4 f ( x )$$",
+        "Image Links": [],
+        "Answer": "The graph of $$g$$ is a vertical stretch by a factor of 4 of the graph of $$f .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, describe how the graph of each function is a transformation of the graph of the original function $$f .$$",
+        "Question": "$$g ( x ) = 6 f ( x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, describe how the graph of each function is a transformation of the graph of the original function $$f .$$",
+        "Question": "$$g ( x ) = f ( 5 x )$$",
+        "Image Links": [],
+        "Answer": "The graph of $$g$$ is a horizontal compression by a factor of $$\\frac{1}{5}$$ of the graph of $$f .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, describe how the graph of each function is a transformation of the graph of the original function $$f .$$",
+        "Question": "$$g ( x ) = f ( 2 x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, describe how the graph of each function is a transformation of the graph of the original function $$f .$$",
+        "Question": "$$g ( x ) = f ( \\frac{1}{3} x )$$",
+        "Image Links": [],
+        "Answer": "The graph of $$g$$ is a horizontal stretch by a factor of 3 of the graph of $$f .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, describe how the graph of each function is a transformation of the graph of the original function $$f .$$",
+        "Question": "$$g ( x ) = f ( \\frac{1}{5} x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, describe how the graph of each function is a transformation of the graph of the original function $$f .$$",
+        "Question": "$$g ( x ) = 3 f ( - x )$$",
+        "Image Links": [],
+        "Answer": "The graph of $$g$$ is a horizontal reflection across the $$y$$ -axis and a vertical stretch by a factor of 3 of the graph of $$f .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, describe how the graph of each function is a transformation of the graph of the original function $$f .$$",
+        "Question": "$$g ( x ) = - f ( 3 x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, write a formula for the function $$g$$ that results when the graph of a given toolkit function is transformed as described.",
+        "Question": "The graph of $$f ( x ) = | x |$$ is reflected over the $$y$$ - axis and horizontally compressed by a factor of $$\\frac{1}{4}$$ .",
+        "Image Links": [],
+        "Answer": "$$g ( x ) = | - 4 x |$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, write a formula for the function $$g$$ that results when the graph of a given toolkit function is transformed as described.",
+        "Question": "The graph of $$f ( x ) = \\sqrt{x}$$ is reflected over the $$x$$ -axis and horizontally stretched by a factor of 2.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, write a formula for the function $$g$$ that results when the graph of a given toolkit function is transformed as described.",
+        "Question": "The graph of $$f ( x ) = \\frac{1}{x^{2}}$$ is vertically compressed by a factor of $$\\frac{1}{3} ,$$ then shifted to the left 2 units and down 3 units.",
+        "Image Links": [],
+        "Answer": "$$g ( x ) = \\frac{1}{3 ( x + 2 )^{2}} - 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, write a formula for the function $$g$$ that results when the graph of a given toolkit function is transformed as described.",
+        "Question": "The graph of $$f ( x ) = \\frac{1}{x}$$ is vertically stretched by a factor of 8, then shifted to the right 4 units and up 2 units.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, write a formula for the function $$g$$ that results when the graph of a given toolkit function is transformed as described.",
+        "Question": "The graph of $$f ( x ) = x^{2}$$ is vertically compressed by a factor of $$\\frac{1}{2} ,$$ then shifted to the right 5 units and up 1 unit.",
+        "Image Links": [],
+        "Answer": "$$g ( x ) = \\frac{1}{2} ( x - 5 )^{2} + 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, write a formula for the function $$g$$ that results when the graph of a given toolkit function is transformed as described.",
+        "Question": "The graph of $$f ( x ) = x^{2}$$ is horizontally stretched by a factor of 3, then shifted to the left 4 units and down 3 units.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, describe how the formula is a transformation of a toolkit function. Then sketch a graph of the transformation.",
+        "Question": "$$g ( x ) = 4 ( x + 1 )^{2} - 5$$",
+        "Image Links": [],
+        "Answer": "The graph of the function $$f ( x ) = x^{2}$$ is shifted to the left 1 unit, stretched vertically by a factor of 4, and shifted down 5 units.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/dd4f8722727c566e9af8b91d5a75ec9a8eea3ce5"
+        ]
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, describe how the formula is a transformation of a toolkit function. Then sketch a graph of the transformation.",
+        "Question": "$$g ( x ) = 5 ( x + 3 )^{2} - 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, describe how the formula is a transformation of a toolkit function. Then sketch a graph of the transformation.",
+        "Question": "$$h ( x ) = - 2 | x - 4 | + 3$$",
+        "Image Links": [],
+        "Answer": "The graph of $$f ( x ) = | x |$$ is stretched vertically by a factor of 2, shifted horizontally 4 units to the right, reflected across the horizontal axis, and then shifted vertically 3 units up.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/945cf1eb16147355f81014e039351ad353376166"
+        ]
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, describe how the formula is a transformation of a toolkit function. Then sketch a graph of the transformation.",
+        "Question": "$$k ( x ) = - 3 \\sqrt{x} - 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, describe how the formula is a transformation of a toolkit function. Then sketch a graph of the transformation.",
+        "Question": "$$m ( x ) = \\frac{1}{2} x^{3}$$",
+        "Image Links": [],
+        "Answer": "The graph of the function $$f ( x ) = x^{3}$$ is compressed vertically by a factor of $$\\frac{1}{2} .$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/71bf026810e3525c77a74c49962253e8e9735678"
+        ]
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, describe how the formula is a transformation of a toolkit function. Then sketch a graph of the transformation.",
+        "Question": "$$n ( x ) = \\frac{1}{3} | x - 2 |$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, describe how the formula is a transformation of a toolkit function. Then sketch a graph of the transformation.",
+        "Question": "$$p ( x ) = ( \\frac{1}{3} x )^{3} - 3$$",
+        "Image Links": [],
+        "Answer": "The graph of the function is stretched horizontally by a factor of 3 and then shifted vertically downward by 3 units.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1bbb158173503ae4f7be3a8dac86225348d6c9bb"
+        ]
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, describe how the formula is a transformation of a toolkit function. Then sketch a graph of the transformation.",
+        "Question": "$$q ( x ) = ( \\frac{1}{4} x )^{3} + 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, describe how the formula is a transformation of a toolkit function. Then sketch a graph of the transformation.",
+        "Question": "$$a ( x ) = \\sqrt{- x + 4}$$",
+        "Image Links": [],
+        "Answer": "The graph of $$f ( x ) = \\sqrt{x}$$ is shifted right 4 units and then reflected across the vertical line $$x = 4.$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/720f1b61969fee33ad184c5cddad4f0b76f9603e"
+        ]
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the graph in Figure 32 to sketch the given transformations.\nFigure 32",
+        "Question": "$$g ( x ) = f ( x ) - 2$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/89c25baa1c109586121a845fa075e0e767df0b38"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the graph in Figure 32 to sketch the given transformations.\nFigure 32",
+        "Question": "$$g ( x ) = - f ( x )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/89c25baa1c109586121a845fa075e0e767df0b38"
+        ],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/acd10c8496a71071d117f4179c1301419a3d59fb"
+        ]
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the graph in Figure 32 to sketch the given transformations.\nFigure 32",
+        "Question": "$$g ( x ) = f ( x + 1 )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/89c25baa1c109586121a845fa075e0e767df0b38"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the graph in Figure 32 to sketch the given transformations.\nFigure 32",
+        "Question": "$$g ( x ) = f ( x - 2 )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/89c25baa1c109586121a845fa075e0e767df0b38"
+        ],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/741bf529e339bb8c568db479731e7f6689de11b6"
+        ]
+    }
+]

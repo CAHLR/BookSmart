@@ -1,0 +1,620 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Explain the advantage of writing a quadratic function in standard form.",
+        "Image Links": [],
+        "Answer": "When written in that form, the vertex can be easily identified.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "How can the vertex of a parabola be used in solving real-world problems?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Explain why the condition of $$a \\ne 0$$ is imposed in the definition of the quadratic function.",
+        "Image Links": [],
+        "Answer": "If $$a = 0$$ then the function becomes a linear function.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What is another name for the standard form of a quadratic function?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What two algebraic methods can be used to find the horizontal intercepts of a quadratic function?",
+        "Image Links": [],
+        "Answer": "If possible, we can use factoring. Otherwise, we can use the quadratic formula.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the quadratic functions in standard form and give the vertex.",
+        "Question": "$$f ( x ) = x^{2} - 12 x + 32$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the quadratic functions in standard form and give the vertex.",
+        "Question": "$$g ( x ) = x^{2} + 2 x - 3$$",
+        "Image Links": [],
+        "Answer": "$$g ( x ) = ( x + 1 )^{2} - 4 ,$$ Vertex $$( - 1 , - 4 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the quadratic functions in standard form and give the vertex.",
+        "Question": "$$f ( x ) = x^{2} - x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the quadratic functions in standard form and give the vertex.",
+        "Question": "$$f ( x ) = x^{2} + 5 x - 2$$",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = ( x + \\frac{5}{2} )^{2} - \\frac{33}{4} ,$$ Vertex $$( - \\frac{5}{2} , - \\frac{33}{4} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the quadratic functions in standard form and give the vertex.",
+        "Question": "$$h ( x ) = 2 x^{2} + 8 x - 10$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the quadratic functions in standard form and give the vertex.",
+        "Question": "$$k ( x ) = 3 x^{2} - 6 x - 9$$",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = 3 ( x - 1 )^{2} - 12 ,$$ Vertex $$( 1 , - 12 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the quadratic functions in standard form and give the vertex.",
+        "Question": "$$f ( x ) = 2 x^{2} - 6 x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the quadratic functions in standard form and give the vertex.",
+        "Question": "$$f ( x ) = 3 x^{2} - 5 x - 1$$",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = 3 ( x - \\frac{5}{6} )^{2} - \\frac{37}{12} ,$$ Vertex $$( \\frac{5}{6} , - \\frac{37}{12} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, determine whether there is a minimum or maximum value to each quadratic function. Find the value and the axis of symmetry.",
+        "Question": "$$y ( x ) = 2 x^{2} + 10 x + 12$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, determine whether there is a minimum or maximum value to each quadratic function. Find the value and the axis of symmetry.",
+        "Question": "$$f ( x ) = 2 x^{2} - 10 x + 4$$",
+        "Image Links": [],
+        "Answer": "Minimum is $$- \\frac{17}{2}$$ and occurs at $$\\frac{5}{2} .$$ Axis of symmetry is $$x = \\frac{5}{2} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, determine whether there is a minimum or maximum value to each quadratic function. Find the value and the axis of symmetry.",
+        "Question": "$$f ( x ) = - x^{2} + 4 x + 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, determine whether there is a minimum or maximum value to each quadratic function. Find the value and the axis of symmetry.",
+        "Question": "$$f ( x ) = 4 x^{2} + x - 1$$",
+        "Image Links": [],
+        "Answer": "Minimum is $$- \\frac{17}{16}$$ and occurs at $$- \\frac{1}{8} .$$ Axis of symmetry is $$x = - \\frac{1}{8} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, determine whether there is a minimum or maximum value to each quadratic function. Find the value and the axis of symmetry.",
+        "Question": "$$h ( t ) = -4 t^{2} + 6 t - 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, determine whether there is a minimum or maximum value to each quadratic function. Find the value and the axis of symmetry.",
+        "Question": "$$f ( x ) = \\frac{1}{2} x^{2} + 3 x + 1$$",
+        "Image Links": [],
+        "Answer": "Minimum is $$- \\frac{7}{2}$$ and occurs at $$-3.$$ Axis of symmetry is $$x = -3.$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, determine whether there is a minimum or maximum value to each quadratic function. Find the value and the axis of symmetry.",
+        "Question": "$$f ( x ) = - \\frac{1}{3} x^{2} - 2 x + 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, determine the domain and range of the quadratic function.",
+        "Question": "$$f ( x ) = ( x - 3 )^{2} + 2$$",
+        "Image Links": [],
+        "Answer": "Domain is $$( - \\infty , \\infty ) .$$ Range is $$[ 2 , \\infty ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, determine the domain and range of the quadratic function.",
+        "Question": "$$f ( x ) = -2 ( x + 3 )^{2} - 6$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, determine the domain and range of the quadratic function.",
+        "Question": "$$f ( x ) = x^{2} + 6 x + 4$$",
+        "Image Links": [],
+        "Answer": "Domain is $$( - \\infty , \\infty ) .$$ Range is $$[ -5 , \\infty ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, determine the domain and range of the quadratic function.",
+        "Question": "$$f ( x ) = 2 x^{2} - 4 x + 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, determine the domain and range of the quadratic function.",
+        "Question": "$$k ( x ) = 3 x^{2} - 6 x - 9$$",
+        "Image Links": [],
+        "Answer": "Domain is $$( - \\infty , \\infty ) .$$ Range is $$[ -12 , \\infty ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the vertex $$( h , k )$$ and a point on the graph $$( x , y )$$ to find the general form of the equation of the quadratic function.",
+        "Question": "$$( h , k ) = ( 2 , 0 ) , ( x , y ) = ( 4 , 4 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the vertex $$( h , k )$$ and a point on the graph $$( x , y )$$ to find the general form of the equation of the quadratic function.",
+        "Question": "$$( h , k ) = ( -2 , -1 ) , ( x , y ) = ( -4 , 3 )$$",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = x^{2} + 4 x + 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the vertex $$( h , k )$$ and a point on the graph $$( x , y )$$ to find the general form of the equation of the quadratic function.",
+        "Question": "$$( h , k ) = ( 0 , 1 ) , ( x , y ) = ( 2 , 5 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the vertex $$( h , k )$$ and a point on the graph $$( x , y )$$ to find the general form of the equation of the quadratic function.",
+        "Question": "$$( h , k ) = ( 2 , 3 ) , ( x , y ) = ( 5 , 12 )$$",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = x^{2} - 4 x + 7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the vertex $$( h , k )$$ and a point on the graph $$( x , y )$$ to find the general form of the equation of the quadratic function.",
+        "Question": "$$( h , k ) = ( - 5 , 3 ) , ( x , y ) = ( 2 , 9 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the vertex $$( h , k )$$ and a point on the graph $$( x , y )$$ to find the general form of the equation of the quadratic function.",
+        "Question": "$$( h , k ) = ( 3 , 2 ) , ( x , y ) = ( 10 , 1 )$$",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = - \\frac{1}{49} x^{2} + \\frac{6}{49} x + \\frac{89}{49}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the vertex $$( h , k )$$ and a point on the graph $$( x , y )$$ to find the general form of the equation of the quadratic function.",
+        "Question": "$$( h , k ) = ( 0 , 1 ) , ( x , y ) = ( 1 , 0 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the vertex $$( h , k )$$ and a point on the graph $$( x , y )$$ to find the general form of the equation of the quadratic function.",
+        "Question": "$$( h , k ) = ( 1 , 0 ) , ( x , y ) = ( 0 , 1 )$$",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = x^{2} - 2 x + 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch a graph of the quadratic function and give the vertex, axis of symmetry, and intercepts.",
+        "Question": "$$f ( x ) = x^{2} - 2 x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch a graph of the quadratic function and give the vertex, axis of symmetry, and intercepts.",
+        "Question": "$$f ( x ) = x^{2} - 6 x - 1$$",
+        "Image Links": [],
+        "Answer": "Vertex: (3, -10), axis of\nsymmetry: x = 3, intercepts: $$( 3 + \\sqrt{10} , 0 )$$ and $$( 3 - \\sqrt{10} , 0 )$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/aa0788f142e80d28542577774d7805100653047a"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch a graph of the quadratic function and give the vertex, axis of symmetry, and intercepts.",
+        "Question": "$$f ( x ) = x^{2} - 5 x - 6$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch a graph of the quadratic function and give the vertex, axis of symmetry, and intercepts.",
+        "Question": "$$f ( x ) = x^{2} - 7 x + 3$$",
+        "Image Links": [],
+        "Answer": "Vertex: $$( \\frac{7}{2} , - \\frac{37}{4} )$$ , axis of symmetry: $$x = \\frac{7}{2}$$ , y -intercept: $$( 0 , 3 )$$ , x -intercepts: $$( \\frac{7 + \\sqrt{37}}{2} , 0 ) , ( \\frac{7 - \\sqrt{37}}{2} , 0 )$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/18caaf6fa9b07eda89c431152de0bac2bfa428af"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch a graph of the quadratic function and give the vertex, axis of symmetry, and intercepts.",
+        "Question": "$$f ( x ) = -2 x^{2} + 5 x - 8$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch a graph of the quadratic function and give the vertex, axis of symmetry, and intercepts.",
+        "Question": "$$f ( x ) = 4 x^{2} - 12 x - 3$$",
+        "Image Links": [],
+        "Answer": "Vertex: $$( \\frac{3}{2} , - 12 )$$ , axis of symmetry: $$x = \\frac{3}{2}$$ , intercept: $$( \\frac{3 + 2 \\sqrt{3}}{2} , 0 )$$ and $$( \\frac{3 - 2 \\sqrt{3}}{2} , 0 )$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/73dbb909adf5fd3582b2e15d3e0d825d8ef02cba"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, write the equation for the graphed quadratic function.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/995859f8dcf8b94596f50fe6bd0a6b9e99874be4"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, write the equation for the graphed quadratic function.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1eef8c557040e445063052c7f8cebcfe94a0db5d"
+        ],
+        "Answer": "$$f ( x ) = x^{2} + 2 x + 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, write the equation for the graphed quadratic function.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8dd41ef036b4ae2f8523c69390b4116f1d8ae2de"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, write the equation for the graphed quadratic function.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7eebd88325275f1d523505647209d65e69e4e9f2"
+        ],
+        "Answer": "$$f ( x ) = - 3 x^{2} - 6 x - 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, write the equation for the graphed quadratic function.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0ec859fdea17b402e3bb18faac8eceb2889c8184"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, write the equation for the graphed quadratic function.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8f54048b503a1649a98c16a34200327a1c1f3cbc"
+        ],
+        "Answer": "$$f ( x ) = - \\frac{1}{4} x^{2} - x + 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the table of values that represent points on the graph of a quadratic function. By determining the vertex and axis of symmetry, find the general form of the equation of the quadratic function.",
+        "Question": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\n$$x$$ & -2 & -1 & 0 & 1 & 2 \\\\ \\hline\n$$y$$ & 5 & 2 & 1 & 2 & 5 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the table of values that represent points on the graph of a quadratic function. By determining the vertex and axis of symmetry, find the general form of the equation of the quadratic function.",
+        "Question": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\n$$x$$ & -2 & -1 & 0 & 1 & 2 \\\\ \\hline\n$$y$$ & 1 & 0 & 1 & 4 & 9 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = x^{2} + 2 x + 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the table of values that represent points on the graph of a quadratic function. By determining the vertex and axis of symmetry, find the general form of the equation of the quadratic function.",
+        "Question": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\n$$x$$ & -2 & -1 & 0 & 1 & 2 \\\\ \\hline\n$$y$$ & -2 & 1 & 2 & 1 & -2 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the table of values that represent points on the graph of a quadratic function. By determining the vertex and axis of symmetry, find the general form of the equation of the quadratic function.",
+        "Question": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\n$$x$$ & -2 & -1 & 0 & 1 & 2 \\\\ \\hline\n$$y$$ & -8 & -3 & 0 & 1 & 0 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = - x^{2} + 2 x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the table of values that represent points on the graph of a quadratic function. By determining the vertex and axis of symmetry, find the general form of the equation of the quadratic function.",
+        "Question": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\n$$x$$ & -2 & -1 & 0 & 1 & 2 \\\\ \\hline\n$$y$$ & 8 & 2 & 0 & 2 & 8 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to find the answer.",
+        "Question": "Graph on the same set of axes the functions $$f ( x ) = x^{2}$$ , $$f ( x ) = 2 x^{2}$$ , and $$f ( x ) = \\frac{1}{3} x^{2}$$ . What appears to be the effect of changing the coefficient?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to find the answer.",
+        "Question": "Graph on the same set of axes $$f ( x ) = x^{2} , f ( x ) = x^{2} + 2$$ and $$f ( x ) = x^{2} , f ( x ) = x^{2} + 5$$ and $$f ( x ) = x^{2} - 3.$$ What appears to be the effect of adding a constant?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to find the answer.",
+        "Question": "Graph on the same set of axes $$f ( x ) = x^{2} , f ( x ) = ( x - 2 )^{2} , f ( x - 3 )^{2}$$ , and $$f ( x ) = ( x + 4 )^{2} .$$ What appears to be the effect of adding or subtracting those numbers?",
+        "Image Links": [],
+        "Answer": "The graph is shifted to the right or left (a horizontal shift).",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to find the answer.",
+        "Question": "The path of an object projected at a 45 degree angle with initial velocity of 80 feet per second is given by the function $$h ( x ) = \\frac{- 32}{( 80 )^{2}} x^{2} + x$$ where $$x$$ is the horizontal distance traveled and $$h ( x )$$ is the height in feet. Use the TRACE feature of your calculator to determine the height of the object when it has traveled 100 feet away horizontally.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to find the answer.",
+        "Question": "A suspension bridge can be modeled by the quadratic function $$h ( x ) = .0001 x^{2}$$ with $$-2000 \\le x \\le 2000$$ where $$| x |$$ is the number of feet from the center and $$h ( x )$$ is height in feet. Use the TRACE feature of your calculator to estimate how far from the center does the bridge have a height of 100 feet.",
+        "Image Links": [],
+        "Answer": "The suspension bridge has 1,000 feet distance from the center.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, use the vertex of the graph of the quadratic function and the direction the graph opens to find the domain and range of the function.",
+        "Question": "Vertex $$( 1 , -2 ) ,$$ opens up.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, use the vertex of the graph of the quadratic function and the direction the graph opens to find the domain and range of the function.",
+        "Question": "Vertex $$( -1 , 2 )$$ opens down.",
+        "Image Links": [],
+        "Answer": "Domain is $$( - \\infty , \\infty ) .$$ Range is $$( - \\infty , 2 ] .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, use the vertex of the graph of the quadratic function and the direction the graph opens to find the domain and range of the function.",
+        "Question": "Vertex $$( -5 , 11 ) ,$$ opens down.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, use the vertex of the graph of the quadratic function and the direction the graph opens to find the domain and range of the function.",
+        "Question": "Vertex $$( -100 , 100 ) ,$$ opens up.",
+        "Image Links": [],
+        "Answer": "Domain: $$( - \\infty , \\infty )$$ ; range: $$[ 100 , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, write the equation of the quadratic function that contains the given point and has the same shape as the given function.",
+        "Question": "Contains $$( 1 , 1 )$$ and has shape of $$f ( x ) = 2 x^{2} .$$ Vertex is on the $$y \\text{-}$$ axis.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, write the equation of the quadratic function that contains the given point and has the same shape as the given function.",
+        "Question": "Contains $$( -1 , 4 )$$ and has the shape of $$f ( x ) = 2 x^{2} .$$ Vertex is on the $$y \\text{-}$$ axis.",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = 2 x^{2} + 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, write the equation of the quadratic function that contains the given point and has the same shape as the given function.",
+        "Question": "Contains $$( 2 , 3 )$$ and has the shape of $$f ( x ) = 3 x^{2} .$$ Vertex is on the $$y \\text{-}$$ axis.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, write the equation of the quadratic function that contains the given point and has the same shape as the given function.",
+        "Question": "Contains $$( 1 , -3 )$$ and has the shape of $$f ( x ) = - x^{2} .$$ Vertex is on the $$y \\text{-}$$ axis.",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = - x^{2} - 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, write the equation of the quadratic function that contains the given point and has the same shape as the given function.",
+        "Question": "Contains $$( 4 , 3 )$$ and has the shape of $$f ( x ) = 5 x^{2} .$$ Vertex is on the $$y \\text{-}$$ axis.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, write the equation of the quadratic function that contains the given point and has the same shape as the given function.",
+        "Question": "Contains $$( 1 , -6 )$$ has the shape of $$f ( x ) = 3 x^{2} .$$ Vertex has x-coordinate of $$-1.$$",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = 3 x^{2} + 6 x - 15$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Find the dimensions of the rectangular dog park producing the greatest enclosed area given 200 feet of fencing.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Find the dimensions of the rectangular dog park split into 2 pens of the same size producing the greatest possible enclosed area given 300 feet of fencing.",
+        "Image Links": [],
+        "Answer": "75 feet by 50 feet",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Find the dimensions of the rectangular dog park producing the greatest enclosed area split into 3 sections of the same size given 500 feet of fencing.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Among all of the pairs of numbers whose sum is 6, find the pair with the largest product. What is the product?",
+        "Image Links": [],
+        "Answer": "3 and 3; product is 9",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Among all of the pairs of numbers whose difference is 12, find the pair with the smallest product.  What is the product?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Suppose that the price per unit in dollars of a cell phone production is modeled by $$p = \\text{$} 45 - 0.0125 x ,$$ where $$x$$ is in thousands of phones produced, and the revenue represented by thousands of dollars is $$R = x \\cdot p .$$ Find the production level that will maximize revenue.",
+        "Image Links": [],
+        "Answer": "The revenue\nreaches the maximum value when 1800 thousand phones are produced.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A rocket is launched in the air. Its height, in meters above sea level, as a function of time, in seconds, is given by $$h ( t ) = -4.9 t^{2} + 229 t + 234.$$ Find the maximum height the rocket attains.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A ball is thrown in the air from the top of a building.  Its height, in meters above ground, as a function of time, in seconds, is given by $$h ( t ) = - 4.9 t^{2} + 24 t + 8.$$ How long does it take to reach maximum height?",
+        "Image Links": [],
+        "Answer": "2.449 seconds",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A soccer stadium holds 62,000 spectators. With a ticket price of $11, the average attendance has been 26,000. When the price dropped to $9, the average attendance rose to 31,000. Assuming that attendance is linearly related to ticket price, what ticket price would maximize revenue?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A farmer finds that if she plants 75 trees per acre, each tree will yield 20 bushels of fruit. She estimates that for each additional tree planted per acre, the yield of each tree will decrease by 3 bushels. How many trees should she plant per acre to maximize her harvest?",
+        "Image Links": [],
+        "Answer": "41 trees per acre",
+        "Answer Image Links": []
+    }
+]
