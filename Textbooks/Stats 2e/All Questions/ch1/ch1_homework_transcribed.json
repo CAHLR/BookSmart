@@ -1,0 +1,392 @@
+[
+    {
+        "Topic": "1.1 Definitions of Statistics, Probability, and Key Terms",
+        "Problem Statement": "For each of the following eight exercises, identify: a. the population, b. the sample,\nc. the parameter, d. the statistic, e. the variable, and f. the data. Give examples where appropriate.",
+        "Question": "A fitness center is interested in the mean amount of time a client exercises in the center each\nweek.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.1 Definitions of Statistics, Probability, and Key Terms",
+        "Problem Statement": "For each of the following eight exercises, identify: a. the population, b. the sample,\nc. the parameter, d. the statistic, e. the variable, and f. the data. Give examples where appropriate.",
+        "Question": "Ski resorts are interested in the mean age that children take their first ski and snowboard lessons. They need this information to plan their ski classes optimally.",
+        "Image Links": [],
+        "Answer": "a) all children who take ski or snowboard lessons b) a group of these children c) the population mean age of children who take their first snowboard lesson d) the sample mean age of children who take their first snowboard lesson e) X = the age of one child who takes their first ski or snowboard lesson f) values for X , such as 3, 7, and so on",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.1 Definitions of Statistics, Probability, and Key Terms",
+        "Problem Statement": "For each of the following eight exercises, identify: a. the population, b. the sample,\nc. the parameter, d. the statistic, e. the variable, and f. the data. Give examples where appropriate.",
+        "Question": "A cardiologist is interested in the mean recovery period of their patients who have had heart attacks.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.1 Definitions of Statistics, Probability, and Key Terms",
+        "Problem Statement": "For each of the following eight exercises, identify: a. the population, b. the sample,\nc. the parameter, d. the statistic, e. the variable, and f. the data. Give examples where appropriate.",
+        "Question": "Insurance companies are interested in the mean health costs each year of their clients, so that they can determine the costs of health insurance.",
+        "Image Links": [],
+        "Answer": "a) the clients of the insurance companies b) a group of the clients c) the mean health costs of the clients d) the mean health costs of the sample e) X = the health costs of one client f) values for X , such as 34, 9, 82, and so on",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.1 Definitions of Statistics, Probability, and Key Terms",
+        "Problem Statement": "For each of the following eight exercises, identify: a. the population, b. the sample,\nc. the parameter, d. the statistic, e. the variable, and f. the data. Give examples where appropriate.",
+        "Question": "A politician is interested in the proportion of voters in their district who think the politician doing a good job.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.1 Definitions of Statistics, Probability, and Key Terms",
+        "Problem Statement": "For each of the following eight exercises, identify: a. the population, b. the sample,\nc. the parameter, d. the statistic, e. the variable, and f. the data. Give examples where appropriate.",
+        "Question": "A marriage counselor is interested in the proportion of clients they counsel who stay married.",
+        "Image Links": [],
+        "Answer": "a) all the clients of this counselor b) a group of clients of this marriage counselor c) the proportion of all her clients who stay married d) the proportion of the sample of the counselor\u2019s clients who stay married e) X = the number of couples who stay married f) yes, no",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.1 Definitions of Statistics, Probability, and Key Terms",
+        "Problem Statement": "For each of the following eight exercises, identify: a. the population, b. the sample,\nc. the parameter, d. the statistic, e. the variable, and f. the data. Give examples where appropriate.",
+        "Question": "Political pollsters may be interested in the proportion of people who will vote for a particular\ncause.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.1 Definitions of Statistics, Probability, and Key Terms",
+        "Problem Statement": "For each of the following eight exercises, identify: a. the population, b. the sample,\nc. the parameter, d. the statistic, e. the variable, and f. the data. Give examples where appropriate.",
+        "Question": "A marketing company is interested in the proportion of people who will buy a particular product.",
+        "Image Links": [],
+        "Answer": "a) all people (maybe in a certain geographic area, such as the United States) b) a group of the people c) the proportion of all people who will buy the product d) the proportion of the sample who will buy the product e) X = the number of people who will buy it f) buy, not buy",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.1 Definitions of Statistics, Probability, and Key Terms",
+        "Problem Statement": "Use the following information to answer the next three exercises: A Lake Tahoe Community College instructor is interested in the mean number of days Lake Tahoe Community College math students are absent from class during a quarter.",
+        "Question": "What is the population she is interested in? a) all Lake Tahoe Community College students b) all Lake Tahoe Community College English students c) all Lake Tahoe Community College students in her classes d) all Lake Tahoe Community College math students",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.1 Definitions of Statistics, Probability, and Key Terms",
+        "Problem Statement": "Use the following information to answer the next three exercises: A Lake Tahoe Community College instructor is interested in the mean number of days Lake Tahoe Community College math students are absent from class during a quarter.",
+        "Question": "Consider the following: $$X$$ = number of days a Lake Tahoe Community College math student is absent In this case, X is an example of a: a) variable. b) population. c) statistic. d) data.",
+        "Image Links": [],
+        "Answer": "a",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.1 Definitions of Statistics, Probability, and Key Terms",
+        "Problem Statement": "Use the following information to answer the next three exercises: A Lake Tahoe Community College instructor is interested in the mean number of days Lake Tahoe Community College math students are absent from class during a quarter.",
+        "Question": "The instructor\u2019s sample produces a mean number of days absent of 3.5 days. This value is an example of a: a) parameter. b) data. c) statistic. d) variable.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Data, Sampling, and Variation in Data and Sampling",
+        "Problem Statement": "For the following exercises, identify the type of data that would be used to describe a response (quantitative discrete, quantitative continuous, or qualitative), and give an example of the data.",
+        "Question": "number of tickets sold to a concert",
+        "Image Links": [],
+        "Answer": "quantitative discrete, 150",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Data, Sampling, and Variation in Data and Sampling",
+        "Problem Statement": "For the following exercises, identify the type of data that would be used to describe a response (quantitative discrete, quantitative continuous, or qualitative), and give an example of the data.",
+        "Question": "percent of body fat",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Data, Sampling, and Variation in Data and Sampling",
+        "Problem Statement": "For the following exercises, identify the type of data that would be used to describe a response (quantitative discrete, quantitative continuous, or qualitative), and give an example of the data.",
+        "Question": "favorite baseball team",
+        "Image Links": [],
+        "Answer": "qualitative, Oakland A\u2019s",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Data, Sampling, and Variation in Data and Sampling",
+        "Problem Statement": "For the following exercises, identify the type of data that would be used to describe a response (quantitative discrete, quantitative continuous, or qualitative), and give an example of the data.",
+        "Question": "time in line to buy groceries",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Data, Sampling, and Variation in Data and Sampling",
+        "Problem Statement": "For the following exercises, identify the type of data that would be used to describe a response (quantitative discrete, quantitative continuous, or qualitative), and give an example of the data.",
+        "Question": "number of students enrolled at Evergreen Valley College",
+        "Image Links": [],
+        "Answer": "quantitative discrete, 11,234 students",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Data, Sampling, and Variation in Data and Sampling",
+        "Problem Statement": "For the following exercises, identify the type of data that would be used to describe a response (quantitative discrete, quantitative continuous, or qualitative), and give an example of the data.",
+        "Question": "most-watched television show",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Data, Sampling, and Variation in Data and Sampling",
+        "Problem Statement": "For the following exercises, identify the type of data that would be used to describe a response (quantitative discrete, quantitative continuous, or qualitative), and give an example of the data.",
+        "Question": "brand of toothpaste",
+        "Image Links": [],
+        "Answer": "qualitative, Crest",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Data, Sampling, and Variation in Data and Sampling",
+        "Problem Statement": "For the following exercises, identify the type of data that would be used to describe a response (quantitative discrete, quantitative continuous, or qualitative), and give an example of the data.",
+        "Question": "distance to the closest movie theatre",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Data, Sampling, and Variation in Data and Sampling",
+        "Problem Statement": "For the following exercises, identify the type of data that would be used to describe a response (quantitative discrete, quantitative continuous, or qualitative), and give an example of the data.",
+        "Question": "age of executives in Fortune 500 companies",
+        "Image Links": [],
+        "Answer": "quantitative continuous, 47.3 years",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Data, Sampling, and Variation in Data and Sampling",
+        "Problem Statement": "For the following exercises, identify the type of data that would be used to describe a response (quantitative discrete, quantitative continuous, or qualitative), and give an example of the data.",
+        "Question": "number of competing computer spreadsheet software packages",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Data, Sampling, and Variation in Data and Sampling",
+        "Problem Statement": "Use the following information to answer the next two exercises: A study was done to determine the age, number of times per week, and the duration (amount of time) of resident use of a local park in San Jose. The first house in the neighborhood around the park was selected randomly and then every 8th house in the neighborhood around the park was interviewed.",
+        "Question": "\u201cNumber of times per week\u201d is what type of data? a) qualitative b) quantitative discrete c) quantitative continuous",
+        "Image Links": [],
+        "Answer": "b",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Data, Sampling, and Variation in Data and Sampling",
+        "Problem Statement": "Use the following information to answer the next two exercises: A study was done to determine the age, number of times per week, and the duration (amount of time) of resident use of a local park in San Jose. The first house in the neighborhood around the park was selected randomly and then every 8th house in the neighborhood around the park was interviewed.",
+        "Question": "\u201cDuration (amount of time)\u201d is what type of data? a) qualitative b) quantitative discrete c) quantitative continuous",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Data, Sampling, and Variation in Data and Sampling",
+        "Problem Statement": "Use the following information to answer the next two exercises: A study was done to determine the age, number of times per week, and the duration (amount of time) of resident use of a local park in San Jose. The first house in the neighborhood around the park was selected randomly and then every 8th house in the neighborhood around the park was interviewed.",
+        "Question": "Airline companies are interested in the consistency of the number of babies on each flight, so that they have adequate safety equipment. Suppose an airline conducts a survey. Over Thanksgiving weekend, it surveys six flights from Boston to Salt Lake City to determine the number of babies on the flights. It determines the amount of safety equipment needed by the result of that study. a) Using complete sentences, list three things wrong with the way the survey was conducted. b) Using complete sentences, list three ways that you would improve the survey if it were to be repeated.",
+        "Image Links": [],
+        "Answer": "a) The survey was conducted using six similar flights. The survey would not be a true representation of the entire population of air travelers. Conducting the survey on a holiday weekend will not produce representative results. b) Conduct the survey during different times of the year. Conduct the survey using flights to and from various locations. Conduct the survey on different days of the week.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Data, Sampling, and Variation in Data and Sampling",
+        "Problem Statement": "Use the following information to answer the next two exercises: A study was done to determine the age, number of times per week, and the duration (amount of time) of resident use of a local park in San Jose. The first house in the neighborhood around the park was selected randomly and then every 8th house in the neighborhood around the park was interviewed.",
+        "Question": "Suppose you want to determine the mean number of students per statistics class in your state.\nDescribe a possible sampling method in three to five complete sentences. Make the description\ndetailed.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Data, Sampling, and Variation in Data and Sampling",
+        "Problem Statement": "Use the following information to answer the next two exercises: A study was done to determine the age, number of times per week, and the duration (amount of time) of resident use of a local park in San Jose. The first house in the neighborhood around the park was selected randomly and then every 8th house in the neighborhood around the park was interviewed.",
+        "Question": "Suppose you want to determine the mean number of cans of soda drunk each month by students in their twenties at your school. Describe a possible sampling method in three to five complete sentences. Make the description detailed.",
+        "Image Links": [],
+        "Answer": "Answers will vary. Sample Answer: You could use a systematic sampling method. Stop the tenth person as they leave one of the buildings on campus at 9:50 in the morning. Then stop the tenth person as they leave a different building on campus at 1:50 in the afternoon.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Data, Sampling, and Variation in Data and Sampling",
+        "Problem Statement": "Use the following information to answer the next two exercises: A study was done to determine the age, number of times per week, and the duration (amount of time) of resident use of a local park in San Jose. The first house in the neighborhood around the park was selected randomly and then every 8th house in the neighborhood around the park was interviewed.",
+        "Question": "List some practical difficulties involved in getting accurate results from a telephone survey.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Data, Sampling, and Variation in Data and Sampling",
+        "Problem Statement": "Use the following information to answer the next two exercises: A study was done to determine the age, number of times per week, and the duration (amount of time) of resident use of a local park in San Jose. The first house in the neighborhood around the park was selected randomly and then every 8th house in the neighborhood around the park was interviewed.",
+        "Question": "List some practical difficulties involved in getting accurate results from a mailed survey.",
+        "Image Links": [],
+        "Answer": "Answers will vary. Sample Answer: Many people will not respond to mail surveys. If they do respond to the surveys, you can\u2019t be sure who is responding. In addition, mailing lists can be incomplete.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Data, Sampling, and Variation in Data and Sampling",
+        "Problem Statement": "Use the following information to answer the next two exercises: A study was done to determine the age, number of times per week, and the duration (amount of time) of resident use of a local park in San Jose. The first house in the neighborhood around the park was selected randomly and then every 8th house in the neighborhood around the park was interviewed.",
+        "Question": "With your classmates, brainstorm some ways you could overcome these problems if you needed to conduct a phone or mail survey.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Data, Sampling, and Variation in Data and Sampling",
+        "Problem Statement": "Use the following information to answer the next two exercises: A study was done to determine the age, number of times per week, and the duration (amount of time) of resident use of a local park in San Jose. The first house in the neighborhood around the park was selected randomly and then every 8th house in the neighborhood around the park was interviewed.",
+        "Question": "An instructor takes a sample by gathering data on five randomly selected students from each Lake Tahoe Community College math class. The type of sampling used is a) cluster sampling b) stratified sampling c) simple random sampling d) convenience sampling",
+        "Image Links": [],
+        "Answer": "b",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Data, Sampling, and Variation in Data and Sampling",
+        "Problem Statement": "Use the following information to answer the next two exercises: A study was done to determine the age, number of times per week, and the duration (amount of time) of resident use of a local park in San Jose. The first house in the neighborhood around the park was selected randomly and then every 8th house in the neighborhood around the park was interviewed.",
+        "Question": "A study was done to determine the age, number of times per week, and the duration (amount of time) of residents using a local park in San Jose. The first house in the neighborhood around the park was selected randomly and then every eighth house in the neighborhood around the park was interviewed. The sampling method was: a) simple random b) systematic c) stratified d) cluster",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Data, Sampling, and Variation in Data and Sampling",
+        "Problem Statement": "Use the following information to answer the next two exercises: A study was done to determine the age, number of times per week, and the duration (amount of time) of resident use of a local park in San Jose. The first house in the neighborhood around the park was selected randomly and then every 8th house in the neighborhood around the park was interviewed.",
+        "Question": "Name the sampling method used in each of the following situations: a) A person in the airport is handing out questionnaires to travelers asking them to evaluate the airport\u2019s service. The person does not ask travelers who are hurrying through the airport with their hands full of luggage but instead asks all travelers who are sitting near gates and not taking naps while they wait. b) A teacher wants to know if her students are doing homework, so they randomly select rows two and five and then call on all students in row two and all students in row five to present the solutions to homework problems to the class. c) The marketing manager for an electronics chain store wants information about the ages of its customers. Over the next two weeks, at each store location, 100 randomly selected customers are given questionnaires to fill out asking for information about age, as well as about other variables of interest. d) The librarian at a public library wants to determine what proportion of the library users are children. The librarian has a tally sheet on which they mark whether books are checked out by an adult or a child. The librarian records this data for every fourth patron who checks out books. e) A political party wants to know the reaction of voters to a debate between the candidates. The day after the debate, the party\u2019s polling staff calls 1,200 randomly selected phone numbers. If a registered voter answers the phone or is available to come to the phone, that registered voter is asked whom they intend to vote for and whether the debate changed their opinion of the candidates.",
+        "Image Links": [],
+        "Answer": "convenience cluster stratified systematic simple random",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Data, Sampling, and Variation in Data and Sampling",
+        "Problem Statement": "Use the following information to answer the next two exercises: A study was done to determine the age, number of times per week, and the duration (amount of time) of resident use of a local park in San Jose. The first house in the neighborhood around the park was selected randomly and then every 8th house in the neighborhood around the park was interviewed.",
+        "Question": "A \u201crandom survey\u201d was conducted of 3,274 people of the \u201cmicroprocessor generation\u201d (people born\nsince 1971, the year the microprocessor was invented). It was reported that 48% of those individuals surveyed stated that if they had $2,000 to spend, they would use it for computer equipment. Also, 66% of those surveyed considered themselves relatively savvy computer users. a) Do you consider the sample size large enough for a study of this type? Why or why not? b) Based on your \u201cgut feeling,\u201d do you believe the percents accurately reflect the U.S. population for those individuals born since 1971? If not, do you think the percents of the population are actually higher or lower than the sample statistics? Why? Additional information: The survey, reported by Intel Corporation, was filled out by individuals who visited the Los Angeles Convention Center to see the Smithsonian Institute's road show called\n\u201cAmerica\u2019s Smithsonian.\u201d c) With this additional information, do you feel that all demographic and ethnic groups were equally represented at the event? Why or why not? d) With the additional information, comment on how accurately you think the sample statistics reflect the population parameters.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Data, Sampling, and Variation in Data and Sampling",
+        "Problem Statement": "Use the following information to answer the next two exercises: A study was done to determine the age, number of times per week, and the duration (amount of time) of resident use of a local park in San Jose. The first house in the neighborhood around the park was selected randomly and then every 8th house in the neighborhood around the park was interviewed.",
+        "Question": "The Well-Being Index is a survey that follows trends of U.S. residents on a regular basis. There are six areas of health and wellness covered in the survey: Life Evaluation, Emotional Health, Physical Health, Healthy Behavior, Work Environment, and Basic Access. Some of the questions used to measure the Index are listed below. Identify the type of data obtained from each question used in this survey: qualitative, quantitative discrete, or quantitative continuous. a) Do you have any health problems that prevent you from doing any of the things people your age can normally do? b) During the past 30 days, for about how many days did poor health keep you from doing your usual activities? c) In the last seven days, on how many days did you exercise for 30 minutes or more? d) Do you have health insurance coverage?",
+        "Image Links": [],
+        "Answer": "a) qualitative b) quantitative discrete c) quantitative discrete d) qualitative",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Data, Sampling, and Variation in Data and Sampling",
+        "Problem Statement": "Use the following information to answer the next two exercises: A study was done to determine the age, number of times per week, and the duration (amount of time) of resident use of a local park in San Jose. The first house in the neighborhood around the park was selected randomly and then every 8th house in the neighborhood around the park was interviewed.",
+        "Question": "In advance of the 1936 Presidential Election, a magazine titled Literary Digest released the results of an opinion poll predicting that the republican candidate Alf Landon would win by a large margin. The magazine sent post cards to approximately 10,000,000 prospective voters. These prospective voters were selected from the subscription list of the magazine, from automobile registration lists, from phone lists, and from club membership lists. Approximately 2,300,000 people returned the postcards. a) Think about the state of the United States in 1936. Explain why a sample chosen from magazine subscription lists, automobile registration lists, phone books, and club membership lists was not representative of the population of the United States at that time. b) What effect does the low response rate have on the reliability of the sample? c) Are these problems examples of sampling error or nonsampling error? d) During the same year, George Gallup conducted his own poll of 30,000 prospective voters. These researchers used a method they called \"quota sampling\" to obtain survey answers from specific subsets of the population. Quota sampling is an example of which sampling method described in this module?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Data, Sampling, and Variation in Data and Sampling",
+        "Problem Statement": "Use the following information to answer the next two exercises: A study was done to determine the age, number of times per week, and the duration (amount of time) of resident use of a local park in San Jose. The first house in the neighborhood around the park was selected randomly and then every 8th house in the neighborhood around the park was interviewed.",
+        "Question": "Crime-related and demographic statistics for 47 US states in 1960 were collected from government agencies, including the FBI's Uniform Crime Report . One analysis of this data found a strong connection between education and crime indicating that higher levels of education in a community correspond to higher crime rates. Which of the potential problems with samples discussed in 1.2 Data, Sampling, and Variation in Data and Sampling could explain this connection?",
+        "Image Links": [],
+        "Answer": "Causality: The fact that two variables are related does not guarantee that one variable is influencing the other. We cannot assume that crime rate impacts education level or that education level impacts crime rate. Confounding: There are many factors that define a community other than education level and crime rate. Communities with high crime rates and high education levels may have other lurking variables that distinguish them from communities with lower crime rates and lower education levels. Because we cannot isolate these variables of interest, we cannot draw valid conclusions about the connection between education and crime. Possible lurking variables include police expenditures, unemployment levels, region, average age, and size.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Data, Sampling, and Variation in Data and Sampling",
+        "Problem Statement": "Use the following information to answer the next two exercises: A study was done to determine the age, number of times per week, and the duration (amount of time) of resident use of a local park in San Jose. The first house in the neighborhood around the park was selected randomly and then every 8th house in the neighborhood around the park was interviewed.",
+        "Question": "Imagine you work for a polling company and a member of your team has proposed the following survey question: \u201cDo you feel happy paying your taxes while some politicians are allowed to use loopholes and avoid paying their fair share of taxes?\u201d As part of preliminary data collection, 11 people responded to this question. Each participant answered \u201cNO!\u201d Which of the potential problems with samples discussed in this module could explain this connection?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Data, Sampling, and Variation in Data and Sampling",
+        "Problem Statement": "Use the following information to answer the next two exercises: A study was done to determine the age, number of times per week, and the duration (amount of time) of resident use of a local park in San Jose. The first house in the neighborhood around the park was selected randomly and then every 8th house in the neighborhood around the park was interviewed.",
+        "Question": "A scholarly article about response rates begins with the following quote: \u201cDeclining contact and cooperation rates in random digit dial (RDD) national telephone surveys raise serious concerns about the validity of estimates drawn from such research.\u201d(Scott Keeter et al., \u201cGauging the Impact of Growing Nonresponse on Estimates from a National RDD Telephone Survey,\u201d Public Opinion Quarterly 70 no. 5 (2006), http://poq.oxfordjournals.org/content/70/5/759.full (accessed May 1, 2013).) The Pew Research Center for People and the Press admits: \u201cThe percentage of people we interview - out of all we try to interview - has been declining over the past decade or more.\u201d (Frequently Asked Questions, Pew Research Center for the People & the Press, http://www.people-press.org/methodology/frequently-asked-questions/#dont-you-have-trouble-getting-people-to-answer-your-polls (accessed May 1, 2013).) a) What are some reasons for the decline in response rate over the past decade? b) Explain why researchers are concerned with the impact of the declining response rate on public opinion polls.",
+        "Image Links": [],
+        "Answer": "a) Possible reasons: increased use of caller id, decreased use of landlines, increased use of private numbers, voice mail, privacy managers, hectic nature of personal schedules, decreased willingness to be interviewed b) When a large number of people refuse to participate, then the sample may not have the same characteristics of the population. Perhaps the majority of people willing to participate are doing so because they feel strongly about the subject of the survey.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.3 Frequency, Frequency Tables, and Levels of Measurement",
+        "Problem Statement": "",
+        "Question": "Fifty part-time students were asked how many courses they were taking this term. The (incomplete) results are shown below: \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|}\n\\hline\n# of Courses & Frequency & Relative Frequency & Cumulative Relative Frequency \\\\ \\hline\n1 & 30 & 0.6 &  \\\\ \\hline\n2 & 15 &  &  \\\\ \\hline\n3 &  &  &  \\\\ \\hline\n\\end{tabular}\n\\end{table} a) Fill in the blanks in Table 1.34 . b) What percent of students take exactly two courses? c) What percent of students take one or two courses?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.3 Frequency, Frequency Tables, and Levels of Measurement",
+        "Problem Statement": "",
+        "Question": "Sixty adults with gum disease were asked the number of times per week they used to floss before their diagnosis. The (incomplete) results are shown in Table 1.35 . \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|}\n\\hline\n# Flossing per Week & Frequency & Relative Frequency & Cumulative Relative Freq. \\\\ \\hline\n0 & 27 & 0.4500 &  \\\\ \\hline\n1 & 18 &  &  \\\\ \\hline\n3 &  &  & 0.9333 \\\\ \\hline\n6 & 3 & 0.0500 &  \\\\ \\hline\n7 & 1 & 0.0167 &  \\\\ \\hline\n\\end{tabular}\n\\end{table} a) Fill in the blanks in Table 1.35 . b) What percent of adults flossed six times per week? c) What percent flossed at most three times per week?",
+        "Image Links": [],
+        "Answer": "a) \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|}\n\\hline\n# Flossing per Week & Frequency & Relative Frequency & Cumulative Relative Frequency \\\\ \\hline\n0 & 27 & 0.4500 & 0.4500 \\\\ \\hline\n1 & 18 & 0.3000 & 0.7500 \\\\ \\hline\n3 & 11 & 0.1833 & 0.9333 \\\\ \\hline\n6 & 3 & 0.0500 & 0.9833 \\\\ \\hline\n7 & 1 & 0.0167 & 1 \\\\ \\hline\n\\end{tabular}\n\\end{table} b) 5.00% c) 93.33%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.3 Frequency, Frequency Tables, and Levels of Measurement",
+        "Problem Statement": "",
+        "Question": "Nineteen immigrants to the U.S were asked how many years, to the nearest year, they have lived in the U.S. The data are as follows: 2 ; 5 ; 7 ; 2 ; 2 ; 10 ; 20 ; 15 ; 0 ; 7 ; 0 ; 20 ; 5 ; 12 ; 15 ; 12 ; 4 ; 5 ; 10 . Table 1.36 was produced. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|}\n\\hline\nData & Frequency & Relative Frequency & Cumulative Relative Frequency \\\\ \\hline\n0 & 2 & $$\\frac{2}{19}$$ & 0.1053 \\\\ \\hline\n2 & 3 & $$\\frac{3}{19}$$ & 0.2632 \\\\ \\hline\n4 & 1 & $$\\frac{1}{19}$$ & 0.3158 \\\\ \\hline\n5 & 3 & $$\\frac{3}{19}$$ & 0.4737 \\\\ \\hline\n7 & 2 & $$\\frac{2}{19}$$ & 0.5789 \\\\ \\hline\n10 & 2 & $$\\frac{2}{19}$$ & 0.6842 \\\\ \\hline\n12 & 2 & $$\\frac{2}{19}$$ & 0.7895 \\\\ \\hline\n15 & 1 & $$\\frac{1}{19}$$ & 0.8421 \\\\ \\hline\n20 & 1 & $$\\frac{1}{19}$$ & 1.0000 \\\\ \\hline\n\\end{tabular}\n\\end{table} a) Fix the errors in Table 1.36 . Also, explain how someone might have arrived at the incorrect\nnumber(s). b) Explain what is wrong with this statement: \u201c47 percent of the people surveyed have lived in the U.S. for 5 years.\u201d c) Fix the statement in b to make it correct. d) What fraction of the people surveyed have lived in the U.S. five or seven years? e) What fraction of the people surveyed have lived in the U.S. at most 12 years? f) What fraction of the people surveyed have lived in the U.S. fewer than 12 years? g) What fraction of the people surveyed have lived in the U.S. from five to 20 years, inclusive?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.3 Frequency, Frequency Tables, and Levels of Measurement",
+        "Problem Statement": "",
+        "Question": "How much time does it take to travel to work? Table 1.37 shows the mean commute time by state for workers at least 16 years old who are not working at home. Find the mean travel time, and round off the answer properly. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}\n\\hline\n24.0 & 24.3 & 25.9 & 18.9 & 27.5 & 17.9 & 21.8 & 20.9 & 16.7 & 27.3 \\\\ \\hline\n18.2 & 24.7 & 20.0 & 22.6 & 23.9 & 18.0 & 31.4 & 22.3 & 24.0 & 25.5 \\\\ \\hline\n24.7 & 24.6 & 28.1 & 24.9 & 22.6 & 23.6 & 23.4 & 25.7 & 24.8 & 25.5 \\\\ \\hline\n21.2 & 25.7 & 23.1 & 23.0 & 23.9 & 26.0 & 16.3 & 23.1 & 21.4 & 21.5 \\\\ \\hline\n27.0 & 27.0 & 18.6 & 31.7 & 23.3 & 30.1 & 22.9 & 23.3 & 21.7 & 18.6 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "The sum of the travel times is 1,173.1. Divide the sum by 50 to calculate the mean value: 23.462. Because each state\u2019s travel time was measured to the nearest tenth, round this calculation to the nearest hundredth: 23.46.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.3 Frequency, Frequency Tables, and Levels of Measurement",
+        "Problem Statement": "",
+        "Question": "A leading business magazine publishes data on small businesses (defined as businesses that have been publicly traded for at least a year, have a stock price of at least $5 per share, and have reported annual revenue between $5 million and $1 billion). Table 1.38 shows the ages of the chief executive officers for the first 60 ranked small businesses. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|}\n\\hline\nAge & Frequency & Relative Frequency & Cumulative Relative Frequency \\\\ \\hline\n40-44 & 3 &  &  \\\\ \\hline\n45-49 & 11 &  &  \\\\ \\hline\n50-54 & 13 &  &  \\\\ \\hline\n55-59 & 16 &  &  \\\\ \\hline\n60-64 & 10 &  &  \\\\ \\hline\n65-69 & 6 &  &  \\\\ \\hline\n70-74 & 1 &  &  \\\\ \\hline\n\\end{tabular}\n\\end{table} a) What is the frequency for CEO ages between 54 and 65? b) What percentage of CEOs are 65 years or older? c) What is the relative frequency of ages under 50? d) What is the cumulative relative frequency for CEOs younger than 55? e) Which graph shows the relative frequency and which shows the cumulative relative frequency? Figure 1.13",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8693363821ffadc37eddca5090ce776022065f0e"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.3 Frequency, Frequency Tables, and Levels of Measurement",
+        "Problem Statement": "Use the following information to answer the next two exercises: Table 1.39 contains data on hurricanes that have made direct hits on the U.S. Between 1851 and 2004. A hurricane is given a strength category rating based on the minimum wind speed generated by the storm. Category Number of Direct Hits Relative Frequency Cumulative Frequency 1 109 0.3993 0.3993 2 72 0.2637 0.6630 3 71 0.2601 4 18 0.9890 5 3 0.0110 1.0000 Total = 273 Table 1.39 Frequency of Hurricane Direct Hits",
+        "Question": "What is the relative frequency of direct hits that were category 4 hurricanes? a) 0.0768 b) 0.0659 c) 0.2601 d) Not enough information to calculate",
+        "Image Links": [],
+        "Answer": "b",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.3 Frequency, Frequency Tables, and Levels of Measurement",
+        "Problem Statement": "Use the following information to answer the next two exercises: Table 1.39 contains data on hurricanes that have made direct hits on the U.S. Between 1851 and 2004. A hurricane is given a strength category rating based on the minimum wind speed generated by the storm. Category Number of Direct Hits Relative Frequency Cumulative Frequency 1 109 0.3993 0.3993 2 72 0.2637 0.6630 3 71 0.2601 4 18 0.9890 5 3 0.0110 1.0000 Total = 273 Table 1.39 Frequency of Hurricane Direct Hits",
+        "Question": "What is the relative frequency of direct hits that were AT MOST a category 3 storm? a) 0.3480 b) 0.9231 c) 0.2601 d) 0.3370",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.4 Experimental Design and Ethics",
+        "Problem Statement": "",
+        "Question": "How does sleep deprivation affect your ability to drive? A recent study measured the effects on 19 professional drivers. Each driver participated in two experimental sessions: one after normal sleep and one after 27 hours of total sleep deprivation. The treatments were assigned in random order. In each session, performance was measured on a variety of tasks including a driving simulation. Use key terms from this module to describe the design of this experiment.",
+        "Image Links": [],
+        "Answer": "Explanatory variable: amount of sleep Response variable: performance measured in assigned tasks Treatments: normal sleep and 27 hours of total sleep deprivation Experimental Units: 19 professional drivers Lurking variables: none - all drivers participated in both treatments Random assignment: treatments were assigned in random order; this eliminated the effect of any \u201clearning\u201d that may take place during the first experimental session Control/Placebo: completing the experimental session under normal sleep conditions Blinding: researchers evaluating subjects\u2019 performance must not know which treatment is being applied at the time",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.4 Experimental Design and Ethics",
+        "Problem Statement": "",
+        "Question": "An advertisement for Acme Investments displays the two graphs in Figure 1.14 to show\nthe value of Acme\u2019s product in comparison with the Other Guy\u2019s product. Describe the potentially\nmisleading visual effect of these comparison graphs. How can this be corrected? Figure 1.14 As the graphs show, Acme consistently outperforms the Other Guys!",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/af70ad822f611dc55897392623d50186dbfa077d"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.4 Experimental Design and Ethics",
+        "Problem Statement": "",
+        "Question": "The graph in Figure 1.15 shows the number of complaints for six different airlines as reported to the US Department of Transportation in February 2013. Alaska, Pinnacle, and Airtran Airlines have far fewer complaints reported than American, Delta, and United. Can we conclude that American, Delta, and United are the worst airline carriers since they have the most complaints? Figure 1.15",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f60d456fe5d18cba3e3a3356532bf10a7c77d12f"
+        ],
+        "Answer": "You cannot assume that the numbers of complaints reflect the quality of the airlines. The airlines shown with the greatest number of complaints are the ones with the most passengers. You must consider the appropriateness of methods for presenting data; in this case displaying totals is misleading.",
+        "Answer Image Links": []
+    }
+]

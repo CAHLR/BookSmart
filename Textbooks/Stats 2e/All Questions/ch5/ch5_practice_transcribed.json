@@ -1,0 +1,604 @@
+[
+    {
+        "Topic": "5.1 Continuous Probability Functions",
+        "Problem Statement": "",
+        "Question": "Which type of distribution does the graph illustrate? Figure 5.37",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/73448c7c2bbe0cbf0936fff53612b857f7b1694e"
+        ],
+        "Answer": "Uniform Distribution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.1 Continuous Probability Functions",
+        "Problem Statement": "",
+        "Question": "Which type of distribution does the graph illustrate? Figure 5.38",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7569a721d35050f6ce45d461b98f8fa94e39b43c"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.1 Continuous Probability Functions",
+        "Problem Statement": "",
+        "Question": "Which type of distribution does the graph illustrate? Figure 5.39",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/565d712a38384282214f76960ad9ef80e66c3d2c"
+        ],
+        "Answer": "Normal Distribution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.1 Continuous Probability Functions",
+        "Problem Statement": "",
+        "Question": "What does the shaded area represent? P (___< x < ___) Figure 5.40",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8a3080db46fc17e41c53e73e8917dc36796ce3d1"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.1 Continuous Probability Functions",
+        "Problem Statement": "",
+        "Question": "What does the shaded area represent? P (___< x < ___) Figure 5.41",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c139b7e7d5cc6b47db79b422611e843fd1d9cc0f"
+        ],
+        "Answer": "P (6 < x < 7)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.1 Continuous Probability Functions",
+        "Problem Statement": "",
+        "Question": "For a continuous probablity distribution, 0 \u2264 x \u2264 15. What is P ( x > 15)?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.1 Continuous Probability Functions",
+        "Problem Statement": "",
+        "Question": "What is the area under f ( x ) if the function is a continuous probability density function?",
+        "Image Links": [],
+        "Answer": "one",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.1 Continuous Probability Functions",
+        "Problem Statement": "",
+        "Question": "For a continuous probability distribution, 0 \u2264 x \u2264 10. What is P ( x = 7)?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.1 Continuous Probability Functions",
+        "Problem Statement": "",
+        "Question": "A continuous probability function is restricted to the portion between x = 0 and 7. What is P ( x = 10)?",
+        "Image Links": [],
+        "Answer": "zero",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.1 Continuous Probability Functions",
+        "Problem Statement": "",
+        "Question": "f ( x ) for a continuous probability function is $$\\frac{1}{5}$$ , and the function is restricted to 0 \u2264 x \u2264 5. What is P ( x < 0)?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.1 Continuous Probability Functions",
+        "Problem Statement": "",
+        "Question": "f ( x ), a continuous probability function, is equal to $$\\frac{1}{12}$$ , and the function is restricted to 0 \u2264 x \u2264 12. What is P (0 < x < 12)?",
+        "Image Links": [],
+        "Answer": "one",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.1 Continuous Probability Functions",
+        "Problem Statement": "",
+        "Question": "Find the probability that x falls in the shaded area. Figure 5.42",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/609aa9bf6a6ec587923738535c18a7f9c11a80be"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.1 Continuous Probability Functions",
+        "Problem Statement": "",
+        "Question": "Find the probability that x falls in the shaded area. Figure 5.43",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c9bd2838954cd472baa8aecfbbae7695ff27c4ee"
+        ],
+        "Answer": "0.625",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.1 Continuous Probability Functions",
+        "Problem Statement": "",
+        "Question": "Find the probability that x falls in the shaded area. Figure 5.44",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8b21ba94ab15222ea55ee85b418c75b7cf118812"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.1 Continuous Probability Functions",
+        "Problem Statement": "",
+        "Question": "f ( x ), a continuous probability function, is equal to $$\\frac{1}{3}$$ and the function is restricted to 1 \u2264 x \u2264 4. Describe $$P ( x > \\frac{3}{2} ) .$$",
+        "Image Links": [],
+        "Answer": "The probability is equal to the area from x = $$\\frac{3}{2}$$ to x = 4 above the x-axis and up to f ( x ) = $$\\frac{1}{3}$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next ten questions. The data that follow are the square footage (in 1,000 feet squared) of 28 homes. 1.5 2.4 3.6 2.6 1.6 2.4 2.0 3.5 2.5 1.8 2.4 2.5 3.5 4.0 2.6 1.6 2.2 1.8 3.8 2.5 1.5 2.8 1.8 4.5 1.9 1.9 3.1 1.6 Table 5.4 The sample mean = 2.50 and the sample standard deviation = 0.8302. The distribution can be written as X ~ U (1.5, 4.5).",
+        "Question": "What type of distribution is this?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next ten questions. The data that follow are the square footage (in 1,000 feet squared) of 28 homes. 1.5 2.4 3.6 2.6 1.6 2.4 2.0 3.5 2.5 1.8 2.4 2.5 3.5 4.0 2.6 1.6 2.2 1.8 3.8 2.5 1.5 2.8 1.8 4.5 1.9 1.9 3.1 1.6 Table 5.4 The sample mean = 2.50 and the sample standard deviation = 0.8302. The distribution can be written as X ~ U (1.5, 4.5).",
+        "Question": "In this distribution, outcomes are equally likely. What does this mean?",
+        "Image Links": [],
+        "Answer": "It means that the value of x is just as likely to be any number between 1.5 and 4.5.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next ten questions. The data that follow are the square footage (in 1,000 feet squared) of 28 homes. 1.5 2.4 3.6 2.6 1.6 2.4 2.0 3.5 2.5 1.8 2.4 2.5 3.5 4.0 2.6 1.6 2.2 1.8 3.8 2.5 1.5 2.8 1.8 4.5 1.9 1.9 3.1 1.6 Table 5.4 The sample mean = 2.50 and the sample standard deviation = 0.8302. The distribution can be written as X ~ U (1.5, 4.5).",
+        "Question": "What is the height of f ( x ) for the continuous probability distribution?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next ten questions. The data that follow are the square footage (in 1,000 feet squared) of 28 homes. 1.5 2.4 3.6 2.6 1.6 2.4 2.0 3.5 2.5 1.8 2.4 2.5 3.5 4.0 2.6 1.6 2.2 1.8 3.8 2.5 1.5 2.8 1.8 4.5 1.9 1.9 3.1 1.6 Table 5.4 The sample mean = 2.50 and the sample standard deviation = 0.8302. The distribution can be written as X ~ U (1.5, 4.5).",
+        "Question": "What are the constraints for the values of x ?",
+        "Image Links": [],
+        "Answer": "1.5 \u2264 x \u2264 4.5",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next ten questions. The data that follow are the square footage (in 1,000 feet squared) of 28 homes. 1.5 2.4 3.6 2.6 1.6 2.4 2.0 3.5 2.5 1.8 2.4 2.5 3.5 4.0 2.6 1.6 2.2 1.8 3.8 2.5 1.5 2.8 1.8 4.5 1.9 1.9 3.1 1.6 Table 5.4 The sample mean = 2.50 and the sample standard deviation = 0.8302. The distribution can be written as X ~ U (1.5, 4.5).",
+        "Question": "Graph P (2 < x < 3).",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next ten questions. The data that follow are the square footage (in 1,000 feet squared) of 28 homes. 1.5 2.4 3.6 2.6 1.6 2.4 2.0 3.5 2.5 1.8 2.4 2.5 3.5 4.0 2.6 1.6 2.2 1.8 3.8 2.5 1.5 2.8 1.8 4.5 1.9 1.9 3.1 1.6 Table 5.4 The sample mean = 2.50 and the sample standard deviation = 0.8302. The distribution can be written as X ~ U (1.5, 4.5).",
+        "Question": "What is P (2 < x < 3)?",
+        "Image Links": [],
+        "Answer": "0.3333",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next ten questions. The data that follow are the square footage (in 1,000 feet squared) of 28 homes. 1.5 2.4 3.6 2.6 1.6 2.4 2.0 3.5 2.5 1.8 2.4 2.5 3.5 4.0 2.6 1.6 2.2 1.8 3.8 2.5 1.5 2.8 1.8 4.5 1.9 1.9 3.1 1.6 Table 5.4 The sample mean = 2.50 and the sample standard deviation = 0.8302. The distribution can be written as X ~ U (1.5, 4.5).",
+        "Question": "What is P (x < 3.5| x < 4)?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next ten questions. The data that follow are the square footage (in 1,000 feet squared) of 28 homes. 1.5 2.4 3.6 2.6 1.6 2.4 2.0 3.5 2.5 1.8 2.4 2.5 3.5 4.0 2.6 1.6 2.2 1.8 3.8 2.5 1.5 2.8 1.8 4.5 1.9 1.9 3.1 1.6 Table 5.4 The sample mean = 2.50 and the sample standard deviation = 0.8302. The distribution can be written as X ~ U (1.5, 4.5).",
+        "Question": "What is P ( x = 1.5)?",
+        "Image Links": [],
+        "Answer": "zero",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next ten questions. The data that follow are the square footage (in 1,000 feet squared) of 28 homes. 1.5 2.4 3.6 2.6 1.6 2.4 2.0 3.5 2.5 1.8 2.4 2.5 3.5 4.0 2.6 1.6 2.2 1.8 3.8 2.5 1.5 2.8 1.8 4.5 1.9 1.9 3.1 1.6 Table 5.4 The sample mean = 2.50 and the sample standard deviation = 0.8302. The distribution can be written as X ~ U (1.5, 4.5).",
+        "Question": "What is the 90 th percentile of square footage for homes?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next ten questions. The data that follow are the square footage (in 1,000 feet squared) of 28 homes. 1.5 2.4 3.6 2.6 1.6 2.4 2.0 3.5 2.5 1.8 2.4 2.5 3.5 4.0 2.6 1.6 2.2 1.8 3.8 2.5 1.5 2.8 1.8 4.5 1.9 1.9 3.1 1.6 Table 5.4 The sample mean = 2.50 and the sample standard deviation = 0.8302. The distribution can be written as X ~ U (1.5, 4.5).",
+        "Question": "Find the probability that a randomly selected home has more than 3,000 square feet given that you already know the house has more than 2,000 square feet.",
+        "Image Links": [],
+        "Answer": "0.6",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next eight exercises. A distribution is given as X ~ U (0, 12).",
+        "Question": "What is a ? What does it represent?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next eight exercises. A distribution is given as X ~ U (0, 12).",
+        "Question": "What is b ? What does it represent?",
+        "Image Links": [],
+        "Answer": "b is 12, and it represents the highest value of x .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next eight exercises. A distribution is given as X ~ U (0, 12).",
+        "Question": "What is the probability density function?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next eight exercises. A distribution is given as X ~ U (0, 12).",
+        "Question": "What is the theoretical mean?",
+        "Image Links": [],
+        "Answer": "six",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next eight exercises. A distribution is given as X ~ U (0, 12).",
+        "Question": "What is the theoretical standard deviation?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next eight exercises. A distribution is given as X ~ U (0, 12).",
+        "Question": "Draw the graph of the distribution for P ( x > 9).",
+        "Image Links": [],
+        "Answer": "Figure 5.52",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/fc3499c1b328f4da5c5e105227fa514b7bc9fd83"
+        ]
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next eight exercises. A distribution is given as X ~ U (0, 12).",
+        "Question": "Find P ( x > 9).",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next eight exercises. A distribution is given as X ~ U (0, 12).",
+        "Question": "Find the 40 th percentile.",
+        "Image Links": [],
+        "Answer": "4.8",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next eleven exercises. The age of cars in the staff parking lot of a suburban college is uniformly distributed from six months (0.5 years) to 9.5 years.",
+        "Question": "What is being measured here?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next eleven exercises. The age of cars in the staff parking lot of a suburban college is uniformly distributed from six months (0.5 years) to 9.5 years.",
+        "Question": "In words, define the random variable X .",
+        "Image Links": [],
+        "Answer": "X = The age (in years) of cars in the staff parking lot",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next eleven exercises. The age of cars in the staff parking lot of a suburban college is uniformly distributed from six months (0.5 years) to 9.5 years.",
+        "Question": "Are the data discrete or continuous?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next eleven exercises. The age of cars in the staff parking lot of a suburban college is uniformly distributed from six months (0.5 years) to 9.5 years.",
+        "Question": "The interval of values for x is ______.",
+        "Image Links": [],
+        "Answer": "0.5 to 9.5",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next eleven exercises. The age of cars in the staff parking lot of a suburban college is uniformly distributed from six months (0.5 years) to 9.5 years.",
+        "Question": "The distribution for X is ______.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next eleven exercises. The age of cars in the staff parking lot of a suburban college is uniformly distributed from six months (0.5 years) to 9.5 years.",
+        "Question": "Write the probability density function.",
+        "Image Links": [],
+        "Answer": "f ( x ) = $$\\frac{1}{9}$$ where x is between 0.5 and 9.5, inclusive.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next eleven exercises. The age of cars in the staff parking lot of a suburban college is uniformly distributed from six months (0.5 years) to 9.5 years.",
+        "Question": "Graph the probability distribution. a) Sketch the graph of the probability distribution. Figure 5.45 b) Identify the following values: Lowest value for $$\\overline{x}$$ : _______ Highest value for $$\\overline{x}$$ : _______ Height of the rectangle: _______ Label for x -axis (words): _______ Label for y -axis (words): _______",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a81148b79429741f4c254769dfeca2ac69b1a25b"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next eleven exercises. The age of cars in the staff parking lot of a suburban college is uniformly distributed from six months (0.5 years) to 9.5 years.",
+        "Question": "Find the average age of the cars in the lot.",
+        "Image Links": [],
+        "Answer": "\u03bc = 5",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next eleven exercises. The age of cars in the staff parking lot of a suburban college is uniformly distributed from six months (0.5 years) to 9.5 years.",
+        "Question": "Find the probability that a randomly chosen car in the lot was less than four years old. a) Sketch the graph, and shade the area of interest. Figure 5.46 b) Find the probability. P ( x < 4) = _______",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a81148b79429741f4c254769dfeca2ac69b1a25b"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next eleven exercises. The age of cars in the staff parking lot of a suburban college is uniformly distributed from six months (0.5 years) to 9.5 years.",
+        "Question": "Considering only the cars less than 7.5 years old, find the probability that a randomly chosen car in the lot was less than four years old. a) Sketch the graph, shade the area of interest. Figure 5.47 b) Find the probability. P ( x < 4| x < 7.5) = _______",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a81148b79429741f4c254769dfeca2ac69b1a25b"
+        ],
+        "Answer": "a) Answers may vary. b) $$\\frac{3.5}{7}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next eleven exercises. The age of cars in the staff parking lot of a suburban college is uniformly distributed from six months (0.5 years) to 9.5 years.",
+        "Question": "What has changed in the previous two problems that made the solutions different?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next eleven exercises. The age of cars in the staff parking lot of a suburban college is uniformly distributed from six months (0.5 years) to 9.5 years.",
+        "Question": "Find the third quartile of ages of cars in the lot. This means you will have to find the value such that $$\\frac{3}{4}$$ , or 75%, of the cars are at most (less than or equal to) that age. a) Sketch the graph, and shade the area of interest. Figure 5.48 b) Find the value k such that P ( x < k ) = 0.75. c) The third quartile is _______",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a81148b79429741f4c254769dfeca2ac69b1a25b"
+        ],
+        "Answer": "a) Answers may vary. b) k = 7.25 c) 7.25",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next ten exercises. A customer service representative must spend different amounts of time with each customer to resolve various concerns. The amount of time spent with each customer can be modeled by the following distribution: X ~ Exp (0.2)",
+        "Question": "What type of distribution is this?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next ten exercises. A customer service representative must spend different amounts of time with each customer to resolve various concerns. The amount of time spent with each customer can be modeled by the following distribution: X ~ Exp (0.2)",
+        "Question": "Are outcomes equally likely in this distribution? Why or why not?",
+        "Image Links": [],
+        "Answer": "No, outcomes are not equally likely. In this distribution, more people require a little bit of time, and fewer people require a lot of time, so it is more likely that someone will require less time.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next ten exercises. A customer service representative must spend different amounts of time with each customer to resolve various concerns. The amount of time spent with each customer can be modeled by the following distribution: X ~ Exp (0.2)",
+        "Question": "What is m ? What does it represent?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next ten exercises. A customer service representative must spend different amounts of time with each customer to resolve various concerns. The amount of time spent with each customer can be modeled by the following distribution: X ~ Exp (0.2)",
+        "Question": "What is the mean?",
+        "Image Links": [],
+        "Answer": "five",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next ten exercises. A customer service representative must spend different amounts of time with each customer to resolve various concerns. The amount of time spent with each customer can be modeled by the following distribution: X ~ Exp (0.2)",
+        "Question": "What is the standard deviation?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next ten exercises. A customer service representative must spend different amounts of time with each customer to resolve various concerns. The amount of time spent with each customer can be modeled by the following distribution: X ~ Exp (0.2)",
+        "Question": "State the probability density function.",
+        "Image Links": [],
+        "Answer": "f ( x ) = 0.2e -0.2 x",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next ten exercises. A customer service representative must spend different amounts of time with each customer to resolve various concerns. The amount of time spent with each customer can be modeled by the following distribution: X ~ Exp (0.2)",
+        "Question": "Graph the distribution.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next ten exercises. A customer service representative must spend different amounts of time with each customer to resolve various concerns. The amount of time spent with each customer can be modeled by the following distribution: X ~ Exp (0.2)",
+        "Question": "Find P (2 < x < 10).",
+        "Image Links": [],
+        "Answer": "0.5350",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next ten exercises. A customer service representative must spend different amounts of time with each customer to resolve various concerns. The amount of time spent with each customer can be modeled by the following distribution: X ~ Exp (0.2)",
+        "Question": "Find P ( x > 6).",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next ten exercises. A customer service representative must spend different amounts of time with each customer to resolve various concerns. The amount of time spent with each customer can be modeled by the following distribution: X ~ Exp (0.2)",
+        "Question": "Find the 70 th percentile.",
+        "Image Links": [],
+        "Answer": "6.02",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next seven exercises. A distribution is given as X ~ Exp (0.75).",
+        "Question": "What is m ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next seven exercises. A distribution is given as X ~ Exp (0.75).",
+        "Question": "What is the probability density function?",
+        "Image Links": [],
+        "Answer": "f ( x ) = 0.75 e -0.75 x",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next seven exercises. A distribution is given as X ~ Exp (0.75).",
+        "Question": "What is the cumulative distribution function?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next seven exercises. A distribution is given as X ~ Exp (0.75).",
+        "Question": "Draw the distribution.",
+        "Image Links": [],
+        "Answer": "Figure 5.53",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9083ef48067ab2f28815dc743c1179f23693fad6"
+        ]
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next seven exercises. A distribution is given as X ~ Exp (0.75).",
+        "Question": "Find P ( x < 4).",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next seven exercises. A distribution is given as X ~ Exp (0.75).",
+        "Question": "Find the 30 th percentile.",
+        "Image Links": [],
+        "Answer": "0.4756",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next seven exercises. A distribution is given as X ~ Exp (0.75).",
+        "Question": "Find the median.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next seven exercises. A distribution is given as X ~ Exp (0.75).",
+        "Question": "Which is larger, the mean or the median?",
+        "Image Links": [],
+        "Answer": "The mean is larger. The mean is $$\\frac{1}{m} = \\frac{1}{0.75} \\approx 1.33$$ , which is greater than 0.9242.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next 16 exercises. Carbon-14 is a radioactive element with a half-life of about 5,730 years. Carbon-14 is said to decay exponentially. The decay rate is 0.000121. We start with one gram of carbon-14. We are interested in the time (years) it takes to decay carbon-14.",
+        "Question": "What is being measured here?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next 16 exercises. Carbon-14 is a radioactive element with a half-life of about 5,730 years. Carbon-14 is said to decay exponentially. The decay rate is 0.000121. We start with one gram of carbon-14. We are interested in the time (years) it takes to decay carbon-14.",
+        "Question": "Are the data discrete or continuous?",
+        "Image Links": [],
+        "Answer": "continuous",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next 16 exercises. Carbon-14 is a radioactive element with a half-life of about 5,730 years. Carbon-14 is said to decay exponentially. The decay rate is 0.000121. We start with one gram of carbon-14. We are interested in the time (years) it takes to decay carbon-14.",
+        "Question": "In words, define the random variable X .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next 16 exercises. Carbon-14 is a radioactive element with a half-life of about 5,730 years. Carbon-14 is said to decay exponentially. The decay rate is 0.000121. We start with one gram of carbon-14. We are interested in the time (years) it takes to decay carbon-14.",
+        "Question": "What is the decay rate ( m )?",
+        "Image Links": [],
+        "Answer": "m = 0.000121",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next 16 exercises. Carbon-14 is a radioactive element with a half-life of about 5,730 years. Carbon-14 is said to decay exponentially. The decay rate is 0.000121. We start with one gram of carbon-14. We are interested in the time (years) it takes to decay carbon-14.",
+        "Question": "The distribution for X is ______.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next 16 exercises. Carbon-14 is a radioactive element with a half-life of about 5,730 years. Carbon-14 is said to decay exponentially. The decay rate is 0.000121. We start with one gram of carbon-14. We are interested in the time (years) it takes to decay carbon-14.",
+        "Question": "Find the amount (percent of one gram) of carbon-14 lasting less than 5,730 years. This means, find P ( x < 5,730). a) Sketch the graph, and shade the area of interest. Figure 5.49 b) Find the probability. P ( x < 5,730) = __________",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a81148b79429741f4c254769dfeca2ac69b1a25b"
+        ],
+        "Answer": "a) Answers may vary. b) P ( x < 5,730) = 0.5001",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next 16 exercises. Carbon-14 is a radioactive element with a half-life of about 5,730 years. Carbon-14 is said to decay exponentially. The decay rate is 0.000121. We start with one gram of carbon-14. We are interested in the time (years) it takes to decay carbon-14.",
+        "Question": "Find the percentage of carbon-14 lasting longer than 10,000 years. a) Sketch the graph, and shade the area of interest. Figure 5.50 b) Find the probability. P ( x > 10,000) = ________",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a81148b79429741f4c254769dfeca2ac69b1a25b"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next 16 exercises. Carbon-14 is a radioactive element with a half-life of about 5,730 years. Carbon-14 is said to decay exponentially. The decay rate is 0.000121. We start with one gram of carbon-14. We are interested in the time (years) it takes to decay carbon-14.",
+        "Question": "Thirty percent (30%) of carbon-14 will decay within how many years? a) Sketch the graph, and shade the area of interest. Figure 5.51 b) Find the value k such that P ( x < k ) = 0.30.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a81148b79429741f4c254769dfeca2ac69b1a25b"
+        ],
+        "Answer": "a) Answers may vary. b) k = 2947.73",
+        "Answer Image Links": []
+    }
+]

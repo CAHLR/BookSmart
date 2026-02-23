@@ -1,0 +1,234 @@
+[
+    {
+        "Topic": "6.1 The Standard Normal Distribution",
+        "Problem Statement": "Use the following information to answer the next two exercises: The patient recovery time from a particular surgical procedure is normally distributed with a mean of 5.3 days and a standard deviation of 2.1 days.",
+        "Question": "What is the median recovery time? a) 2.7 b) 5.3 c) 7.4 d) 2.1",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 The Standard Normal Distribution",
+        "Problem Statement": "Use the following information to answer the next two exercises: The patient recovery time from a particular surgical procedure is normally distributed with a mean of 5.3 days and a standard deviation of 2.1 days.",
+        "Question": "What is the z -score for a patient who takes ten days to recover? a) 1.5 b) 0.2 c) 2.2 d) 7.3",
+        "Image Links": [],
+        "Answer": "c",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 The Standard Normal Distribution",
+        "Problem Statement": "Use the following information to answer the next two exercises: The patient recovery time from a particular surgical procedure is normally distributed with a mean of 5.3 days and a standard deviation of 2.1 days.",
+        "Question": "The length of time to find a parking space at 9 A.M. follows a normal distribution with a mean of five minutes and a standard deviation of two minutes. If the mean is significantly greater than the standard deviation, which of the following statements is true? 1) The data cannot follow the uniform distribution. 2) The data cannot follow the exponential distribution.. 3) The data cannot follow the normal distribution. a) I only b) II only c) III only d) I, II, and III",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 The Standard Normal Distribution",
+        "Problem Statement": "Use the following information to answer the next two exercises: The patient recovery time from a particular surgical procedure is normally distributed with a mean of 5.3 days and a standard deviation of 2.1 days.",
+        "Question": "The heights of the 430 National Basketball Association players were listed on team rosters at the start of a recent season. The heights of basketball players have an approximate normal distribution with mean, \u00b5 = 79 inches and a standard deviation, \u03c3 = 3.89 inches. For each of the following heights, calculate the z -score and interpret it using complete sentences. a) 77 inches b) 85 inches c) If an NBA player reported his height had a z -score of 3.5, would you believe him? Explain your answer.",
+        "Image Links": [],
+        "Answer": "a) Use the z -score formula. z = -0.5141. The height of 77 inches is 0.5141 standard deviations below the mean. An NBA player whose height is 77 inches is shorter than average. b) Use the z -score formula. z = 1.5424. The height 85 inches is 1.5424 standard deviations above the mean. An NBA player whose height is 85 inches is taller than average. c) Height = 79 + 3.5(3.89) = 92.615 inches, which is taller than 7 feet, 8 inches. There are very few NBA players this tall so the answer is no, not likely.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 The Standard Normal Distribution",
+        "Problem Statement": "Use the following information to answer the next two exercises: The patient recovery time from a particular surgical procedure is normally distributed with a mean of 5.3 days and a standard deviation of 2.1 days.",
+        "Question": "The systolic blood pressure (given in millimeters) of males has an approximately normal distribution with mean \u00b5 = 125 and standard deviation \u03c3 = 14. Systolic blood pressure for males follows a normal distribution. a) Calculate the z -scores for the male systolic blood pressures 100 and 150 millimeters. b) If a male friend of yours said he thought his systolic blood pressure was 2.5 standard deviations below the mean, but that he believed his blood pressure was between 100 and 150 millimeters, what would you say to him?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 The Standard Normal Distribution",
+        "Problem Statement": "Use the following information to answer the next two exercises: The patient recovery time from a particular surgical procedure is normally distributed with a mean of 5.3 days and a standard deviation of 2.1 days.",
+        "Question": "Kyle\u2019s doctor told him that the z -score for his systolic blood pressure is 1.75. Which of the following is the best interpretation of this standardized score? The systolic blood pressure (given in millimeters) of males has an approximately normal distribution with mean \u00b5 = 125 and standard deviation \u03c3 = 14. If X = a systolic blood pressure score then X ~ N (125, 14). a) Which answer(s) is/are correct? Kyle\u2019s systolic blood pressure is 175. Kyle\u2019s systolic blood pressure is 1.75 times the average blood pressure of men his age. Kyle\u2019s systolic blood pressure is 1.75 above the average systolic blood pressure of men his age. Kyles\u2019s systolic blood pressure is 1.75 standard deviations above the average systolic blood pressure for men. b) Calculate Kyle\u2019s blood pressure.",
+        "Image Links": [],
+        "Answer": "a) iv b) Kyle\u2019s blood pressure is equal to 125 + (1.75)(14) = 149.5.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 The Standard Normal Distribution",
+        "Problem Statement": "Use the following information to answer the next two exercises: The patient recovery time from a particular surgical procedure is normally distributed with a mean of 5.3 days and a standard deviation of 2.1 days.",
+        "Question": "Height and weight are two measurements used to track a child\u2019s development. The World Health Organization measures child development by comparing the weights of children who are the same height and the same gender. In 2009, weights for all 80 cm girls in the reference population had a mean \u00b5 = 10.2 kg and standard deviation \u03c3 = 0.8 kg. Weights are normally distributed. X ~ N (10.2, 0.8). Calculate the z -scores that correspond to the following weights and interpret them. a) 11 kg b) 7.9 kg c) 12.2 kg",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 The Standard Normal Distribution",
+        "Problem Statement": "Use the following information to answer the next two exercises: The patient recovery time from a particular surgical procedure is normally distributed with a mean of 5.3 days and a standard deviation of 2.1 days.",
+        "Question": "During a certain year, 1,475,623 students heading to college took the SAT. The distribution of scores in the math section of the SAT follows a normal distribution with mean \u00b5 = 520 and standard deviation \u03c3 = 115. a) Calculate the z -score for an SAT score of 720. Interpret it using a complete sentence. b) What math SAT score is 1.5 standard deviations above the mean? What can you say about this SAT score? c) During a different year, the SAT math test had a mean of 514 and standard deviation 117. The ACT math test is an alternate to the SAT and is approximately normally distributed with mean 21 and standard deviation 5.3. If one person took the SAT math test and scored 700 and a second person took the ACT math test and scored 30, who did better with respect to the test they took?",
+        "Image Links": [],
+        "Answer": "Let X = an SAT math score and Y = an ACT math score. Use the z-score formula. a) X = 720 : $$z = \\frac{720 - 520}{115} = 1 . 74$$ . The exam score of 720 is 1.74 standard deviations above the mean of 520. b) z = 1.5 The math SAT score is 520 + 1.5(115) \u2248 692.5. The exam score of 692.5 is 1.5 standard deviations above the mean of 520. c) $$\\frac{X \\text{\u00a0-\u00a0} \\mu}{\\text{sigma}}$$ = $$\\frac{\\text{700\u00a0-\u00a0514}}{\\text{117}}$$ \u2248 1.59, the z -score for the SAT. $$\\frac{Y \\text{\u00a0-\u00a0} \\mu}{\\sigma}$$ = $$\\frac{30 \\text{\u00a0-\u00a0} 21}{5.3}$$ \u2248 1.70, the z -scores for the ACT. With respect to the test they took, the person who took the ACT did better (has the higher z -score).",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Using the Normal Distribution",
+        "Problem Statement": "Use the following information to answer the next two exercises: The patient recovery time from a particular surgical procedure is normally distributed with a mean of 5.3 days and a standard deviation of 2.1 days.",
+        "Question": "What is the probability of spending more than two days in recovery? a) 0.0580 b) 0.8447 c) 0.0553 d) 0.9420",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Using the Normal Distribution",
+        "Problem Statement": "Use the following information to answer the next two exercises: The patient recovery time from a particular surgical procedure is normally distributed with a mean of 5.3 days and a standard deviation of 2.1 days.",
+        "Question": "The 90 th percentile for recovery times is? a) 8.89 b) 7.07 c) 7.99 d) 4.32",
+        "Image Links": [],
+        "Answer": "c",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Using the Normal Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises: The length of time it takes to find a parking space at 9 A.M. follows a normal distribution with a mean of five minutes and a standard deviation of two minutes.",
+        "Question": "Based upon the given information and numerically justified, would you be surprised if it took less than one minute to find a parking space? a) Yes b) No c) Unable to determine",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Using the Normal Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises: The length of time it takes to find a parking space at 9 A.M. follows a normal distribution with a mean of five minutes and a standard deviation of two minutes.",
+        "Question": "Find the probability that it takes at least eight minutes to find a parking space. a) 0.0001 b) 0.9270 c) 0.1862 d) 0.0668",
+        "Image Links": [],
+        "Answer": "d",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Using the Normal Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises: The length of time it takes to find a parking space at 9 A.M. follows a normal distribution with a mean of five minutes and a standard deviation of two minutes.",
+        "Question": "Seventy percent of the time, it takes more than how many minutes to find a parking space? a) 1.24 b) 2.41 c) 3.95 d) 6.05",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Using the Normal Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises: The length of time it takes to find a parking space at 9 A.M. follows a normal distribution with a mean of five minutes and a standard deviation of two minutes.",
+        "Question": "According to a study done by De Anza students, the height for Asian adult males is normally distributed with an average of 66 inches and a standard deviation of 2.5 inches.  Suppose one Asian adult male is randomly chosen.  Let X = height of the individual. a) X ~ _____(_____,_____) b) Find the probability that the person is between 65 and 69 inches.  Include a sketch of the graph, and write a probability statement. c) Would you expect to meet many Asian adult males over 72 inches? Explain why or why not,\nand justify your answer numerically.",
+        "Image Links": [],
+        "Answer": "a) X ~ N (66, 2.5) b) 0.5404 c) No, the probability that an Asian male is over 72 inches tall is 0.0082",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Using the Normal Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises: The length of time it takes to find a parking space at 9 A.M. follows a normal distribution with a mean of five minutes and a standard deviation of two minutes.",
+        "Question": "IQ is normally distributed with a mean of 100 and a standard deviation of 15.  Suppose one individual is randomly chosen.  Let X =  IQ of an individual. a) X ~ _____(_____,_____) b) Find the probability that the person has an IQ greater than 120. Include a sketch of the graph, and write a probability statement. c) MENSA is an organization whose members have the top 2% of all IQs. Find the minimum IQ needed to qualify for the MENSA organization. Sketch the graph, and write the probability statement. d) The middle 50% of IQs fall between what two values? Sketch the graph and write the probability statement.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Using the Normal Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises: The length of time it takes to find a parking space at 9 A.M. follows a normal distribution with a mean of five minutes and a standard deviation of two minutes.",
+        "Question": "The percent of fat calories that a person in America consumes each day is normally distributed with a mean of about 36 and a standard deviation of 10.  Suppose that one individual is randomly chosen. Let X = percent of fat calories. a) X ~ _____(_____,_____) b) Find the probability that the percent of fat calories a person consumes is more than 40. Graph the situation. Shade in the area to be determined. c) Find the maximum number for the lower quarter of percent of fat calories. Sketch the graph and write the probability statement.",
+        "Image Links": [],
+        "Answer": "a) X ~ N (36, 10) b) The probability that a person consumes more than 40% of their calories as fat is 0.3446. c) Approximately 25% of people consume less than 29.26% of their calories as fat.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Using the Normal Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises: The length of time it takes to find a parking space at 9 A.M. follows a normal distribution with a mean of five minutes and a standard deviation of two minutes.",
+        "Question": "Suppose that the distance of fly balls hit to the outfield (in baseball) is normally distributed with a mean of 250 feet and a standard deviation of 50 feet. a) If X = distance in feet for a fly ball, then X ~ _____(_____,_____) b) If one fly ball is randomly chosen from this distribution, what is the probability that this ball traveled fewer than 220 feet? Sketch the graph. Scale the horizontal axis X . Shade the region corresponding to the probability. Find the probability. c) Find the 80 th percentile of the distribution of fly balls.  Sketch the graph, and write the probability statement.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Using the Normal Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises: The length of time it takes to find a parking space at 9 A.M. follows a normal distribution with a mean of five minutes and a standard deviation of two minutes.",
+        "Question": "In China, four-year-olds average three hours a day unsupervised.  Most of the unsupervised children live in rural areas, considered safe.  Suppose that the standard deviation is 1.5 hours and the amount of time spent alone is normally distributed.  We randomly select one Chinese four-year-old living in a rural area. We are interested in the amount of time the child spends alone per day. a) In words, define the random variable X . b) X ~ _____(_____,_____) c) Find the probability that the child spends less than one hour per day unsupervised. Sketch the graph, and write the probability statement. d) What percent of the children spend over ten hours per day unsupervised? e) Seventy percent of the children spend at least how long per day unsupervised?",
+        "Image Links": [],
+        "Answer": "a) X = number of hours that a Chinese four-year-old in a rural area is unsupervised during the day. b) X ~ N (3, 1.5) c) The probability that the child spends less than one hour a day unsupervised is 0.0918. d) The probability that a child spends over ten hours a day unsupervised is less than 0.0001. e) 2.21 hours",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Using the Normal Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises: The length of time it takes to find a parking space at 9 A.M. follows a normal distribution with a mean of five minutes and a standard deviation of two minutes.",
+        "Question": "In a certain presidential election, Alaska\u2019s 40 election districts averaged 1,956.8 votes per district for Candidate A. The standard deviation was  572.3.  (There are only 40 election districts in Alaska.)  The distribution of the votes per district for Candidate A was bell-shaped.  Let X = number of votes for Candidate A for an election district. a) State the approximate distribution of X . b) Is 1,956.8 a population mean or a sample mean? How do you know? c) Find the probability that a randomly selected district had fewer than 1,600 votes for Candidate A. Sketch the graph and write the probability statement. d) Find the probability that a randomly selected district had between 1,800 and 2,000 votes for Candidate A. e) Find the third quartile for votes for Candidate A.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Using the Normal Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises: The length of time it takes to find a parking space at 9 A.M. follows a normal distribution with a mean of five minutes and a standard deviation of two minutes.",
+        "Question": "Suppose that the duration of a particular type of criminal trial is known to be normally distributed with a mean of 21 days and a standard deviation of  seven days. a) In words, define the random variable X . b) X ~ _____(_____,_____) c) If one of the trials is randomly chosen, find the probability that it lasted at least 24 days. Sketch the graph and write the probability statement. d) Sixty percent of all trials of this type are completed within how many days?",
+        "Image Links": [],
+        "Answer": "a) X = the distribution of the number of days a particular type of criminal trial will take b) X ~ N (21, 7) c) The probability that a randomly selected trial will last more than 24 days is 0.3336. d) 22.77",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Using the Normal Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises: The length of time it takes to find a parking space at 9 A.M. follows a normal distribution with a mean of five minutes and a standard deviation of two minutes.",
+        "Question": "A motorcycle racer averages 129.71 seconds per 2.5 mile lap (in a seven-lap race) with a standard deviation of 2.28 seconds. The distribution of their race times is normally distributed.  We are interested in one of their randomly selected laps. a) In words, define the random variable X . b) X ~ _____(_____,_____) c) Find the percent of the racer's laps that are completed in less than 130 seconds. d) The fastest 3% of the racer's laps are under _____. e) The middle 80% of the racer's laps are from _______ seconds to _______ seconds.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Using the Normal Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises: The length of time it takes to find a parking space at 9 A.M. follows a normal distribution with a mean of five minutes and a standard deviation of two minutes.",
+        "Question": "Thuy Dau, Ngoc Bui, Sam Su, and Lan Voung conducted a survey as to how long customers at Lucky claimed to wait in the checkout line until their turn. Let X = time in line. Table 6.3 displays the ordered real data (in minutes): \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\n0.50 & 4.25 & 5 & 6 & 7.25 \\\\ \\hline\n1.75 & 4.25 & 5.25 & 6 & 7.25 \\\\ \\hline\n2 & 4.25 & 5.25 & 6.25 & 7.25 \\\\ \\hline\n2.25 & 4.25 & 5.5 & 6.25 & 7.75 \\\\ \\hline\n2.25 & 4.5 & 5.5 & 6.5 & 8 \\\\ \\hline\n2.5 & 4.75 & 5.5 & 6.5 & 8.25 \\\\ \\hline\n2.75 & 4.75 & 5.75 & 6.5 & 9.5 \\\\ \\hline\n3.25 & 4.75 & 5.75 & 6.75 & 9.5 \\\\ \\hline\n3.75 & 5 & 6 & 6.75 & 9.75 \\\\ \\hline\n3.75 & 5 & 6 & 6.75 & 10.75 \\\\ \\hline\n\\end{tabular}\n\\end{table} a) Calculate the sample mean and the sample standard deviation. b) Construct a histogram. c) Draw a smooth curve through the midpoints of the tops of the bars. d) In words, describe the shape of your histogram and smooth curve. e) Let the sample mean approximate \u03bc and the sample standard deviation approximate \u03c3 . The distribution of X can then be approximated by X ~ _____(_____,_____) f) Use the distribution in part e to calculate the probability that a person will wait fewer than 6.1 minutes. g) Determine the cumulative relative frequency for waiting less than 6.1 minutes. h) Why aren\u2019t the answers to part f and part g exactly the same? i) Why are the answers to part f and part g as close as they are? j) If only ten customers has been surveyed rather than 50, do you think the answers to part f and part g would have been closer together or farther apart? Explain your conclusion.",
+        "Image Links": [],
+        "Answer": "a) mean = 5.51, s = 2.15 b) Answers may vary. c) Answers may vary. d) Answers may vary. e) X ~ N (5.51, 2.15) f) 0.6029 g) The cumulative frequency for less than 6.1 minutes is 0.64. h) The answers to part f and part g are not exactly the same, because the normal distribution is only an approximation to the real one. i) The answers to part f and part g are close, because a normal distribution is an excellent approximation when the sample size is greater than 30. j) The approximation would have been less accurate, because the smaller sample size means that the data does not fit normal curve as well.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Using the Normal Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises: The length of time it takes to find a parking space at 9 A.M. follows a normal distribution with a mean of five minutes and a standard deviation of two minutes.",
+        "Question": "Suppose that Ric and Anita attend different colleges. Ric\u2019s GPA is the same as the average GPA at their school.  Anita\u2019s GPA is 0.70 standard deviations above her school average. In complete sentences, explain why each of the following statements may be false. a) Ric\u2019s actual GPA is lower than Anita\u2019s actual GPA. b) Ric is not passing because their z -score is zero. c) Anita is in the 70 th percentile of students at her college.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Using the Normal Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises: The length of time it takes to find a parking space at 9 A.M. follows a normal distribution with a mean of five minutes and a standard deviation of two minutes.",
+        "Question": "Table 6.4 shows a sample of the maximum capacity (maximum number of spectators) of sports stadiums.  The table does not include horse-racing or motor-racing stadiums. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\n40,000 & 40,000 & 45,050 & 45,500 & 46,249 & 48,134 \\\\ \\hline\n49,133 & 50,071 & 50,096 & 50,466 & 50,832 & 51,100 \\\\ \\hline\n51,500 & 51,900 & 52,000 & 52,132 & 52,200 & 52,530 \\\\ \\hline\n52,692 & 53,864 & 54,000 & 55,000 & 55,000 & 55,000 \\\\ \\hline\n55,000 & 55,000 & 55,000 & 55,082 & 57,000 & 58,008 \\\\ \\hline\n59,680 & 60,000 & 60,000 & 60,492 & 60,580 & 62,380 \\\\ \\hline\n62,872 & 64,035 & 65,000 & 65,050 & 65,647 & 66,000 \\\\ \\hline\n66,161 & 67,428 & 68,349 & 68,976 & 69,372 & 70,107 \\\\ \\hline\n70,585 & 71,594 & 72,000 & 72,922 & 73,379 & 74,500 \\\\ \\hline\n75,025 & 76,212 & 78,000 & 80,000 & 80,000 & 82,300 \\\\ \\hline\n\\end{tabular}\n\\end{table} a) Calculate the sample mean and the sample standard deviation for the maximum capacity of sports stadiums (the data). b) Construct a histogram. c) Draw a smooth curve through the midpoints of the tops of the bars of the histogram. d) In words, describe the shape of your histogram and smooth curve. e) Let the sample mean approximate \u03bc and the sample standard deviation approximate \u03c3 . The distribution of X can then be approximated by X ~ _____(_____,_____). f) Use the distribution in part e to calculate the probability that the maximum capacity of sports stadiums is less than 67,000 spectators. g) Determine the cumulative relative frequency that the maximum capacity of sports stadiums is less than 67,000 spectators. Hint: Order the data and count the sports stadiums that have a maximum capacity less than 67,000. Divide by the total number of sports stadiums in the sample. h) Why aren\u2019t the answers to part f and part g exactly the same?",
+        "Image Links": [],
+        "Answer": "1) mean = 60,136 s = 10,468 2) Answers will vary. 3) Answers will vary. 4) Answers will vary. 5) X ~ N (60136, 10468) 6) 0.7440 7) The cumulative relative frequency is 43/60 = 0.717. 8) The answers for part f and part g are not the same, because the normal distribution is only an\napproximation.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Using the Normal Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises: The length of time it takes to find a parking space at 9 A.M. follows a normal distribution with a mean of five minutes and a standard deviation of two minutes.",
+        "Question": "An expert witness for a paternity lawsuit testifies that the length of a pregnancy is normally distributed with a mean of 280 days and a standard deviation of 13 days. The person who is being sued for lack of child support was out of the country from 240 to 306 days before the birth of the child, so the pregnancy would have been less than 240 days or more than 306 days long if he was the biological parent.  The birth was uncomplicated, and the child needed no medical intervention.  What is the probability that he was NOT the parent?  What is the probability that he could be the parent?  Calculate the z -scores first, and then use those to calculate the probability.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Using the Normal Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises: The length of time it takes to find a parking space at 9 A.M. follows a normal distribution with a mean of five minutes and a standard deviation of two minutes.",
+        "Question": "An automotive factory can build an average of 6,000 cars and trucks a week. Generally, 10% of the cars were defective coming off the assembly line. Suppose we draw a random sample of n = 100 cars. Let X represent the number of defective cars in the sample. What can we say about X in regard to  the 68-95-99.7 empirical rule (one standard deviation, two standard deviations  and three standard deviations from the mean are being referred to)?  Assume a normal distribution for the defective cars in the sample.",
+        "Image Links": [],
+        "Answer": "n = 100; p = 0.1; q = 0.9 \u03bc = np = (100)(0.10) = 10 \u03c3 = $$\\sqrt{n p q}$$ = $$\\sqrt{\\text{(100)(0} \\text{.1)(0} \\text{.9)}}$$ = 3 1) z = \u00b11: x 1 = \u00b5 + z\u03c3 = 10 + 1(3) = 13  and x 2 = \u00b5 - z\u03c3 = 10 - 1(3) = 7.  68% of the defective cars will fall between seven and 13. 2) z = \u00b12: x 1 = \u00b5 + z\u03c3 = 10 + 2(3) = 16 and x 2 = \u00b5 - z\u03c3 = 10 - 2(3) = 4. 95 % of the defective cars will fall between four and 16 3) z = \u00b13: x 1 = \u00b5 + z\u03c3 = 10 + 3(3) = 19 and x 2 = \u00b5 - z\u03c3 = 10 - 3(3) = 1.  99.7% of the defective cars will fall between one and 19.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Using the Normal Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises: The length of time it takes to find a parking space at 9 A.M. follows a normal distribution with a mean of five minutes and a standard deviation of two minutes.",
+        "Question": "We flip a coin 100 times ( n = 100) and note that it only comes up heads 20% ( p = 0.20) of the time. The mean and standard deviation for the number of times the coin lands on heads is \u00b5 = 20 and \u03c3 = 4 (verify the mean and standard deviation). Solve the following: a) There is about a 68% chance that the number of heads will be somewhere between ___ and ___. b) There is about a ____chance that the number of heads will be somewhere between 12 and 28. c) There is about a ____ chance that the number of heads will be somewhere between eight and 32.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Using the Normal Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises: The length of time it takes to find a parking space at 9 A.M. follows a normal distribution with a mean of five minutes and a standard deviation of two minutes.",
+        "Question": "A $1 scratch off lotto ticket will be a winner one out of five times. Out of a shipment of n = 190 lotto tickets, find the probability for the lotto tickets that there are a) somewhere between 34 and 54 prizes. b) somewhere between 54 and 64 prizes. c) more than 64 prizes.",
+        "Image Links": [],
+        "Answer": "n = 190; p = $$\\frac{1}{5}$$ = 0.2; q = 0.8 \u03bc = np = (190)(0.2) = 38 \u03c3 = $$\\sqrt{n p q}$$ = $$\\sqrt{\\text{(190)(0} \\text{.2)(0} \\text{.8)}}$$ = 5.5136 a) For this problem: P (34 < x < 54) = normalcdf(34,54,48,5.5136) = 0.7641 b) For this problem: P (54 < x < 64) = normalcdf(54,64,48,5.5136) = 0.0018 c) For this problem: P ( x > 64) = normalcdf(64,10 99 ,48,5.5136) = 0.0000012 (approximately 0)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Using the Normal Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises: The length of time it takes to find a parking space at 9 A.M. follows a normal distribution with a mean of five minutes and a standard deviation of two minutes.",
+        "Question": "On average, 28% of 18 to 34 year olds check social media before getting out of bed in the morning.  Suppose this percentage follows a normal distribution with a standard deviation of 5%. a) Find the probability that the percent of 18 to 34-year-olds who check social media before getting out of bed in the morning is at least 30. b) Find the 95 th percentile,  and express it in a sentence.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]
