@@ -1,0 +1,498 @@
+[
+    {
+        "Topic": "32.1 Diagnostics and Medical Imaging",
+        "Problem Statement": "",
+        "Question": "A neutron generator uses an $$\\alpha$$ source, such as radium, to bombard beryllium, inducing the reaction $$^{4} \\text{He} + ^{9} \\text{Be} \\vec{} ^{\\text{12}} \\text{C} + n$$ . Such neutron sources are called RaBe sources, or PuBe sources if they use plutonium to get the $$\\alpha$$ s. Calculate the energy output of the reaction in MeV.",
+        "Image Links": [],
+        "Answer": "5.701 MeV",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.1 Diagnostics and Medical Imaging",
+        "Problem Statement": "",
+        "Question": "Neutrons from a source (perhaps the one discussed in the preceding problem) bombard natural molybdenum, which is 24 percent $$^{\\text{98}} \\text{Mo}$$ . What is the energy output of the reaction $$^{\\text{98}} \\text{Mo} + n \\vec{} ^{\\text{99}} \\text{Mo} + \\gamma$$ ? The mass of $$^{\\text{98}} \\text{Mo}$$ is given in Appendix A: Atomic Masses, and that of $$^{\\text{99}} \\text{Mo}$$ is 98.907711 u.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.1 Diagnostics and Medical Imaging",
+        "Problem Statement": "",
+        "Question": "The purpose of producing $$^{\\text{99}} \\text{Mo}$$ (usually by neutron activation of natural molybdenum, as in the preceding problem) is to produce $$^{\\text{99m}} \\text{Tc.}$$ Using the rules, verify that the $$\\beta^{- }$$ decay of $$^{\\text{99}} \\text{Mo}$$ produces $$^{\\text{99m}} \\text{Tc}$$ . (Most $$^{\\text{99m}} \\text{Tc}$$ nuclei produced in this decay are left in a metastable excited state denoted $$^{\\text{99m}} \\text{Tc}$$ .)",
+        "Image Links": [],
+        "Answer": "$$_{\\text{42}}^{\\text{99}} \\text{Mo}_{\\text{57}} \\vec{} _{\\text{43}}^{\\text{99}} \\text{Tc}_{\\text{56}} + \\beta^{- } + \\overline{v}_{e}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.1 Diagnostics and Medical Imaging",
+        "Problem Statement": "",
+        "Question": "(a) Two annihilation $$\\gamma$$ rays in a PET scan originate at the same point and travel to detectors on either side of the patient. If the point of origin is 9.00 cm closer to one of the detectors, what is the difference in arrival times of the photons? (This could be used to give position information, but the time difference is small enough to make it difficult.) (b) How accurately would you need to be able to measure arrival time differences to get a position resolution of 1.00 mm?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.1 Diagnostics and Medical Imaging",
+        "Problem Statement": "",
+        "Question": "Table 32.1 indicates that 7.50 mCi of $$^{\\text{99m}} \\text{Tc}$$ is used in a brain scan. What is the mass of technetium?",
+        "Image Links": [],
+        "Answer": "$$1 \\text{.} \\text{43} \\times \\text{10}^{- 9} \\text{g}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.1 Diagnostics and Medical Imaging",
+        "Problem Statement": "",
+        "Question": "The activities of $$^{\\text{131}} \\text{I}$$ and $$^{\\text{123}} \\text{I}$$ used in thyroid scans are given in Table 32.1 to be 50 and $$\\text{70 mu} Ci$$ , respectively. Find and compare the masses of $$^{\\text{131}} \\text{I}$$ and $$^{\\text{123}} \\text{I}$$ in such scans, given their respective half-lives are 8.04 d and 13.2 h. The masses are so small that the radioiodine is usually mixed with stable iodine as a carrier to ensure normal chemistry and distribution in the body.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.1 Diagnostics and Medical Imaging",
+        "Problem Statement": "",
+        "Question": "(a) Neutron activation of sodium, which is 100% $$^{\\text{23}} \\text{Na}$$ , produces $$^{\\text{24}} \\text{Na}$$ , which is used in some heart scans, as seen in Table 32.1. The equation for the reaction is $$^{\\text{23}} \\text{Na} + n \\vec{} ^{\\text{24}} \\text{Na} + \\gamma$$ . Find its energy output, given the mass of $$^{\\text{24}} \\text{Na}$$ is 23.990962 u. (b) What mass of $$^{\\text{24}} \\text{Na}$$ produces the needed 5.0-mCi activity, given its half-life is 15.0 h?",
+        "Image Links": [],
+        "Answer": "(a) 6.958 MeV (b) $$5 \\text{.} 7 \\times \\text{10}^{- \\text{10}} \\text{g}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.2 Biological Effects of Ionizing Radiation",
+        "Problem Statement": "",
+        "Question": "What is the dose in mSv for: (a) a 0.1 Gy x-ray? (b) 2.5 mGy of neutron exposure to the eye? (c) 1.5 mGy of $$\\alpha$$ exposure?",
+        "Image Links": [],
+        "Answer": "(a) 100 mSv (b) 80 mSv (c) ~30 mSv",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.2 Biological Effects of Ionizing Radiation",
+        "Problem Statement": "",
+        "Question": "Find the radiation dose in Gy for: (a) A 10-mSv fluoroscopic x-ray series. (b) 50 mSv of skin exposure by an $$\\alpha$$ emitter. (c) 160 mSv of $$\u03b2^{-}$$ and $$\\gamma$$ rays from the $$^{\\text{40}} \\text{K}$$ in your body.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.2 Biological Effects of Ionizing Radiation",
+        "Problem Statement": "",
+        "Question": "How many Gy of exposure is needed to give a cancerous tumor a dose of 40 Sv if it is exposed to $$\\alpha$$ activity?",
+        "Image Links": [],
+        "Answer": "~2 Gy",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.2 Biological Effects of Ionizing Radiation",
+        "Problem Statement": "",
+        "Question": "What is the dose in Sv in a cancer treatment that exposes the patient to 200 Gy of $$\\gamma$$ rays?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.2 Biological Effects of Ionizing Radiation",
+        "Problem Statement": "",
+        "Question": "One half the $$\\gamma$$ rays from $$^{\\text{99m}} \\text{Tc}$$ are absorbed by a 0.170-mm-thick lead shielding. Half of the $$\\gamma$$ rays that pass through the first layer of lead are absorbed in a second layer of equal thickness. What thickness of lead will absorb all but one in 1000 of these $$\\gamma$$ rays?",
+        "Image Links": [],
+        "Answer": "1.69 mm",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.2 Biological Effects of Ionizing Radiation",
+        "Problem Statement": "",
+        "Question": "A plumber at a nuclear power plant receives a whole-body dose of 30 mSv in 15 minutes while repairing a crucial valve. Find the radiation-induced yearly risk of death from cancer and the chance of genetic defect from this maximum allowable exposure.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.2 Biological Effects of Ionizing Radiation",
+        "Problem Statement": "",
+        "Question": "In the 1980s, the term picowave was used to describe food irradiation in order to overcome public resistance by playing on the well-known safety of microwave radiation. Find the energy in MeV of a photon having a wavelength of a picometer.",
+        "Image Links": [],
+        "Answer": "1.24 MeV",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.2 Biological Effects of Ionizing Radiation",
+        "Problem Statement": "",
+        "Question": "Find the mass of $$^{\\text{239}} \\text{Pu}$$ that has an activity of $$\\text{1.00 muCi}$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.3 Therapeutic Uses of Ionizing Radiation",
+        "Problem Statement": "",
+        "Question": "A beam of 168-MeV nitrogen nuclei is used for cancer therapy. If this beam is directed onto a 0.200-kg tumor and gives it a 2.00-Sv dose, how many nitrogen nuclei were stopped? (Use an RBE of 20 for heavy ions.)",
+        "Image Links": [],
+        "Answer": "$$7.44 \\times \\text{10}^{8}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.3 Therapeutic Uses of Ionizing Radiation",
+        "Problem Statement": "",
+        "Question": "(a) If the average molecular mass of compounds in food is 50.0 g, how many molecules are there in 1.00 kg of food? (b) How many ion pairs are created in 1.00 kg of food, if it is exposed to 1000 Sv and it takes 32.0 eV to create an ion pair? (c) Find the ratio of ion pairs to molecules. (d) If these ion pairs recombine into a distribution of 2000 new compounds, how many parts per billion is each?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.3 Therapeutic Uses of Ionizing Radiation",
+        "Problem Statement": "",
+        "Question": "Calculate the dose in Sv to the chest of a patient given an x-ray under the following conditions. The x-ray beam intensity is $$\\text{1.50 W} \\text{/m}^{2}$$ , the area of the chest exposed is $$\\text{0.0750} \\text{m}^{2}$$ , 35.0% of the x-rays are absorbed in 20.0 kg of tissue, and the exposure time is 0.250 s.",
+        "Image Links": [],
+        "Answer": "$$4.92 \\times 10^{-4} \\text{Sv}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.3 Therapeutic Uses of Ionizing Radiation",
+        "Problem Statement": "",
+        "Question": "(a) A cancer patient is exposed to $$\\gamma$$ rays from a 5000-Ci $$^{60} \\text{Co}$$ transillumination unit for 32.0 s. The $$\\gamma$$ rays are collimated in such a manner that only 1.00% of them strike the patient. Of those, 20.0% are absorbed in a tumor having a mass of 1.50 kg. What is the dose in rem to the tumor, if the average $$\\gamma$$ energy per decay is 1.25 MeV? None of the $$\\beta$$ s from the decay reach the patient. (b) Is the dose consistent with stated therapeutic doses?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.3 Therapeutic Uses of Ionizing Radiation",
+        "Problem Statement": "",
+        "Question": "What is the mass of $$^{60} \\text{Co}$$ in a cancer therapy transillumination unit containing 5.00 kCi of $$^{60} \\text{Co}$$ ?",
+        "Image Links": [],
+        "Answer": "4.43 g",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.3 Therapeutic Uses of Ionizing Radiation",
+        "Problem Statement": "",
+        "Question": "Large amounts of $$^{65} \\text{Zn}$$ are produced in copper exposed to accelerator beams. While machining contaminated copper, a physicist ingests $$50.0 \u03bcCi$$ of $$^{65} \\text{Zn}$$ . Each $$^{65} \\text{Zn}$$ decay emits an average $$\\gamma$$ -ray energy of 0.550 MeV, 40.0% of which is absorbed in the scientist\u2019s 75.0-kg body. What dose in mSv is caused by this in one day?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.3 Therapeutic Uses of Ionizing Radiation",
+        "Problem Statement": "",
+        "Question": "Naturally occurring $$^{\\text{40}} \\text{K}$$ is listed as responsible for 16 mrem/y of background radiation. Calculate the mass of $$^{\\text{40}} \\text{K}$$ that must be inside the 55-kg body of a woman to produce this dose. Each $$^{\\text{40}} \\text{K}$$ decay emits a 1.32-MeV $$\\beta$$ , and 50% of the energy is absorbed inside the body.",
+        "Image Links": [],
+        "Answer": "0.010 g",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.3 Therapeutic Uses of Ionizing Radiation",
+        "Problem Statement": "",
+        "Question": "(a) Background radiation due to $$^{226} \\text{Ra}$$ averages only 0.01 mSv/y, but it can range upward depending on where a person lives. Find the mass of $$^{226} \\text{Ra}$$ in the 80.0-kg body of a man who receives a dose of 2.50-mSv/y from it, noting that each $$^{226} \\text{Ra}$$ decay emits a 4.80-MeV $$\\alpha$$ particle. You may neglect dose due to daughters and assume a constant amount, evenly distributed due to balanced ingestion and bodily elimination. (b) Is it surprising that such a small mass could cause a measurable radiation dose? Explain.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.3 Therapeutic Uses of Ionizing Radiation",
+        "Problem Statement": "",
+        "Question": "The annual radiation dose from $$^{14} \\text{C}$$ in our bodies is 0.01 mSv/y. Each $$^{14} \\text{C}$$ decay emits a $$\\beta^{-}$$ averaging 0.0750 MeV. Taking the fraction of $$^{14} \\text{C}$$ to be $$1.3 \\times 10^{-12} \\text{N}$$ of normal $$^{12} \\text{C}$$ , and assuming the body is 13% carbon, estimate the fraction of the decay energy absorbed. (The rest escapes, exposing those close to you.)",
+        "Image Links": [],
+        "Answer": "95%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.3 Therapeutic Uses of Ionizing Radiation",
+        "Problem Statement": "",
+        "Question": "If everyone in Australia received an extra 0.05 mSv per year of radiation, what would be the increase in the number of cancer deaths per year? (Assume that time had elapsed for the effects to become apparent.) Assume that there are $$\\text{200} \\times \\text{10}^{- 4}$$ deaths per Sv of radiation per year. What percent of the actual number of cancer deaths recorded is this?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.5 Fusion",
+        "Problem Statement": "",
+        "Question": "Verify that the total number of nucleons, total charge, and electron family number are conserved for each of the fusion reactions in the proton-proton cycle in $$^{1} \\text{H } + ^{1} \\text{H } \\vec{} ^{2} \\text{H} + e^{+ } + v_{\\text{e}}  ,$$ $$^{1} \\text{H} + ^{2} \\text{H} \\vec{} ^{3} \\text{He } + \\gamma  ,$$ and $$^{3} \\text{He } + ^{3} \\text{He} \\vec{} ^{4} \\text{He} + ^{1} \\text{H} + ^{1} \\text{H} .$$ (List the value of each of the conserved quantities before and after each of the reactions.)",
+        "Image Links": [],
+        "Answer": "(a) $$A \\text{=1+1=2}$$ , $$Z \\text{=1+1=1+1}$$ , $$\\text{efn} = 0 = - 1 + 1$$ (b) $$A \\text{=1+2=3}$$ , $$Z \\text{=1+1=2}$$ , $$\\text{efn=0=0}$$ (c) $$A \\text{=3+3=4+1+1}$$ , $$Z \\text{=2+2=2+1+1}$$ , $$\\text{efn=0=0}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.5 Fusion",
+        "Problem Statement": "",
+        "Question": "Calculate the energy output in each of the fusion reactions in the proton-proton cycle, and verify the values given in the above summary.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.5 Fusion",
+        "Problem Statement": "",
+        "Question": "Show that the total energy released in the proton-proton cycle is 26.7 MeV, considering the overall effect in $$^{1} \\text{H } + ^{1} \\text{H } \\vec{} ^{2} \\text{H} + e^{+ } + v_{\\text{e}}$$ , $$^{1} \\text{H} + ^{2} \\text{H} \\vec{} ^{3} \\text{He } + \\gamma$$ , and $$^{3} \\text{He } + ^{3} \\text{He} \\vec{} ^{4} \\text{He} + ^{1} \\text{H} + ^{1} \\text{H}$$ and being certain to include the annihilation energy.",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{aaa}E & = & ( m_{\\text{i}} - m_{\\text{f}} ) c^{2} \\\\  & = & [ 4 m ( ^{1} \\text{H} ) - m ( ^{4} \\text{He} ) ] c^{2} \\\\  & = & [ 4 ( 1.007825 ) - 4 \\text{.} \\text{002603} ] ( \\text{931.5 MeV} ) \\\\  & = &  \\text{26.73 MeV}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.5 Fusion",
+        "Problem Statement": "",
+        "Question": "Verify by listing the number of nucleons, total charge, and electron family number before and after the cycle that these quantities are conserved in the overall proton-proton cycle in $$2 e^{- } + 4 ^{1} \\text{H} \\vec{} ^{4} \\text{He} + {2 v}_{\\text{e}} + 6\u03b3$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.5 Fusion",
+        "Problem Statement": "",
+        "Question": "The energy produced by the fusion of a 1.00-kg mixture of deuterium and tritium was found in Example Calculating Energy and Power from Fusion. Approximately how many kilograms would be required to supply the annual energy use in the United States?",
+        "Image Links": [],
+        "Answer": "$$3.12 \\times \\text{10}^{5} \\text{kg}$$ (about 200 tons)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.5 Fusion",
+        "Problem Statement": "",
+        "Question": "Tritium is naturally rare, but can be produced by the reaction $$n + ^{2} \\text{H} \\vec{} ^{3} \\text{H} + \\gamma$$ . How much energy in MeV is released in this neutron capture?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.5 Fusion",
+        "Problem Statement": "",
+        "Question": "Two fusion reactions mentioned in the text are $$n + ^{3} \\text{He} \\vec{} ^{4} \\text{He} + \\gamma$$ and $$n + ^{1} \\text{H} \\vec{} ^{2} \\text{H} + \\gamma$$ . Both reactions release energy, but the second also creates more fuel. Confirm that the energies produced in the reactions are 20.58 and 2.22 MeV, respectively. Comment on which product nuclide is most tightly bound, $$^{4} \\text{He}$$ or $$^{2} \\text{H}$$ .",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{aaa}E & = & ( m_{\\text{i}} - m_{\\text{f}} ) c^{2} \\\\ E_{1} & = & ( \\text{1.008665} + \\text{3.016030} - \\text{4.002603} ) ( \\text{931.5 MeV} ) \\\\  & = & \\text{20.58 MeV} \\\\ E_{2} & = & ( 1 \\text{.} \\text{008665} + 1 \\text{.} \\text{007825} - 2 \\text{.} \\text{014102} ) ( \\text{931.5 MeV} ) \\\\  & = & \\text{ 2.224 MeV}\\end{matrix}\\right .$$ $$^{4} \\text{He is more tightly bound, since this reaction gives off more energy per nucleon.}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.5 Fusion",
+        "Problem Statement": "",
+        "Question": "(a) Calculate the number of grams of deuterium in an 80,000-L swimming pool, given deuterium is 0.0150% of natural hydrogen. (b) Find the energy released in joules if this deuterium is fused via the reaction $$^{2} \\text{H} + ^{2} \\text{H} \\vec{} ^{3} \\text{He} + n$$ . (c) Could the neutrons be used to create more energy? (d) Discuss the amount of this type of energy in a swimming pool as compared to that in, say, a gallon of gasoline, also taking into consideration that water is far more abundant.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.5 Fusion",
+        "Problem Statement": "",
+        "Question": "How many kilograms of water are needed to obtain the 198.8 mol of deuterium, assuming that deuterium is 0.01500% (by number) of natural hydrogen?",
+        "Image Links": [],
+        "Answer": "$$1 \\text{.} \\text{19} \\times \\text{10}^{4} \\text{kg}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.5 Fusion",
+        "Problem Statement": "",
+        "Question": "The power output of the Sun is $$4 \\times \\text{10}^{\\text{26}} \\text{W}$$ . (a) If 90% of this is supplied by the proton-proton cycle, how many protons are consumed per second? (b) How many neutrinos per second should there be per square meter at the Earth from this process? This huge number is indicative of how rarely a neutrino interacts, since large detectors observe very few per day.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.5 Fusion",
+        "Problem Statement": "",
+        "Question": "Another set of reactions that result in the fusing of hydrogen into helium in the Sun and especially in hotter stars is called the carbon cycle. It is $$\\left .\\begin{matrix}{aaa}^{\\text{12}} \\text{C} + ^{1} \\text{H } & \\vec{} & ^{\\text{13}} \\text{N} + \\gamma , \\\\ ^{\\text{13}} \\text{N } & \\vec{} & ^{\\text{13}} \\text{C} + e^{+ } + v_{e} , \\\\ ^{\\text{13}} \\text{C } + ^{1} \\text{H } & \\vec{} & ^{\\text{14}} \\text{N} + \\gamma ,  \\\\ ^{\\text{14}} \\text{N} + ^{1} \\text{H } & \\vec{} & ^{\\text{15}} \\text{O} + \\gamma ,  \\\\ \\text{} ^{\\text{15}} \\text{O } & \\vec{} & ^{\\text{15}} \\text{N} + e^{+ } + v_{e} , \\\\ ^{\\text{15}} \\text{N} + ^{1} \\text{H } & \\vec{} & ^{\\text{12}} \\text{C} + ^{4} \\text{He.}\\end{matrix}\\right .$$ Write down the overall effect of the carbon cycle (as was done for the proton-proton cycle in $$2 e^{- } + 4 ^{1} \\text{H} \\vec{} ^{4} \\text{He} + {2 v}_{e} + 6\u03b3$$ ). Note the number of protons ( $$^{1} \\text{H}$$ ) required and assume that the positrons ( $$e^{+ }$$ ) annihilate electrons to form more $$\\gamma$$ rays.",
+        "Image Links": [],
+        "Answer": "$$2 e^{- } + 4 ^{1} \\text{H} \\vec{} ^{4} \\text{He} + 7\u03b3 + {2 v}_{e}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.5 Fusion",
+        "Problem Statement": "",
+        "Question": "(a) Find the total energy released in MeV in each carbon cycle (elaborated in the above problem) including the annihilation energy. (b) How does this compare with the proton-proton cycle output?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.5 Fusion",
+        "Problem Statement": "",
+        "Question": "Verify that the total number of nucleons, total charge, and electron family number are conserved for each of the fusion reactions in the carbon cycle given in the above problem. (List the value of each of the conserved quantities before and after each of the reactions.)",
+        "Image Links": [],
+        "Answer": "(a) $$A \\text{=12+1=13}$$ , $$Z \\text{=6+1=7}$$ , $$\\text{efn} = 0 = 0$$ (b) $$A \\text{=13=13}$$ , $$Z \\text{=7=6+1}$$ , $$\\text{efn} = 0 = - 1 + 1$$ (c) $$A \\text{=13} + \\text{1=14}$$ , $$Z \\text{=6+1=7}$$ , $$\\text{efn} = 0 = 0$$ (d) $$A \\text{=14} + \\text{1=15}$$ , $$Z \\text{=7+1=8}$$ , $$\\text{efn} = 0 = 0$$ (e) $$A \\text{=1} 5 \\text{=15}$$ , $$Z \\text{=8=7+1}$$ , $$\\text{efn} = 0 = - 1 + 1$$ (f) $$A \\text{=15} + \\text{1=12} + 4$$ , $$Z \\text{=7+1=6} + 2$$ , $$\\text{efn} = 0 = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.5 Fusion",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts The laser system tested for inertial confinement can produce a 100-kJ pulse only 1.00 ns in duration. (a) What is the power output of the laser system during the brief pulse? (b) How many photons are in the pulse, given their wavelength is $$1.06 \u00b5m$$ ? (c) What is the total momentum of all these photons? (d) How does the total photon momentum compare with that of a single 1.00 MeV deuterium nucleus?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.5 Fusion",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts Find the amount of energy given to the $$^{4} \\text{He}$$ nucleus and to the $$\\gamma$$ ray in the reaction $$n +^{3} \\text{He} \\vec{}^{4} \\text{He} + \\gamma$$ , using the conservation of momentum principle and taking the reactants to be initially at rest. This should confirm the contention that most of the energy goes to the $$\\gamma$$ ray.",
+        "Image Links": [],
+        "Answer": "$$E_{\\gamma} = \\text{20.6 MeV}$$ $$E_{^{4} \\text{He}} = 5.68 \\times 10^{-2} MeV$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.5 Fusion",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts (a) What temperature gas would have atoms moving fast enough to bring two $$^{3} \\text{He}$$ nuclei into contact? Note that, because both are moving, the average kinetic energy only needs to be half the electric potential energy of these doubly charged nuclei when just in contact with one another. (b) Does this high temperature imply practical difficulties for doing this in controlled fusion?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.5 Fusion",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts (a) Estimate the years that the deuterium fuel in the oceans could supply the energy needs of the world. Assume world energy consumption to be ten times that of the United States which is $$8 \\times \\text{10}^{\\text{19}}$$ J/y and that the deuterium in the oceans could be converted to energy with an efficiency of 32%. You must estimate or look up the amount of water in the oceans and take the deuterium content to be 0.015% of natural hydrogen to find the mass of deuterium available. Note that approximate energy yield of deuterium is $$3 \\text{.} \\text{37} \\times \\text{10}^{\\text{14}}$$ J/kg. (b) Comment on how much time this is by any human measure. (It is not an unreasonable result, only an impressive one.)",
+        "Image Links": [],
+        "Answer": "(a) $$3 \\times \\text{10}^{9} \\text{y}$$ (b) This is approximately half the lifetime of the Earth.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.6 Fission",
+        "Problem Statement": "",
+        "Question": "(a) Calculate the energy released in the neutron-induced fission (similar to the spontaneous fission in Example 32.3) $$n + ^{\\text{238}} \\text{U} \\vec{} ^{\\text{96}} \\text{Sr } + ^{\\text{140}} \\text{Xe} + 3 n,$$ given $$m ( ^{\\text{96}} \\text{Sr} ) = \\text{95.921750\u00a0u}$$ and $$m ( ^{\\text{140}} \\text{Xe} ) = \\text{139.92164}$$ . (b) This result is about 6 MeV greater than the result for spontaneous fission. Why? (c) Confirm that the total number of nucleons and total charge are conserved in this reaction.",
+        "Image Links": [],
+        "Answer": "(a) 177.1 MeV (b) Because the gain of an external neutron yields about 6 MeV, which is the average $$BE/ A$$ for heavy nuclei. (c) $$A = 1 + \\text{238} = \\text{96} + \\text{140} + 1 + 1 + 1, Z = \\text{92} = \\text{38} + \\text{53} , \\text{efn} = 0 = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.6 Fission",
+        "Problem Statement": "",
+        "Question": "(a) Calculate the energy released in the neutron-induced fission reaction $$n + ^{\\text{235}} \\text{U} \\vec{} ^{\\text{92}} \\text{Kr} + ^{\\text{142}} \\text{Ba} + 2 n,$$ given $$m ( ^{\\text{92}} \\text{Kr} ) = \\text{91} \\text{.} \\text{926269 u}$$ and $$m ( ^{\\text{142}} \\text{Ba} ) = \\text{141} \\text{.} \\text{916361} \\text{u}$$ . (b) Confirm that the total number of nucleons and total charge are conserved in this reaction.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.6 Fission",
+        "Problem Statement": "",
+        "Question": "(a) Calculate the energy released in the neutron-induced fission reaction $$n + ^{\\text{239}} \\text{Pu} \\vec{} ^{\\text{96}} \\text{Sr} + ^{\\text{140}} \\text{Ba} + 4 n ,$$ given $$m ( ^{\\text{96}} \\text{Sr} ) = \\text{95} \\text{.} \\text{921750 u}$$ and $$m ( ^{\\text{140}} \\text{Ba} ) = \\text{139} \\text{.} \\text{910581 u}$$ . (b) Confirm that the total number of nucleons and total charge are conserved in this reaction.",
+        "Image Links": [],
+        "Answer": "(a) 180.6 MeV (b) $$A = 1 + \\text{239} = \\text{96} + \\text{140} + 1 + 1 + 1 + 1, Z = \\text{94} = \\text{38} + \\text{56} , \\text{efn} = 0 = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.6 Fission",
+        "Problem Statement": "",
+        "Question": "Confirm that each of the reactions listed for plutonium breeding just following Example 32.4 conserves the total number of nucleons, the total charge, and electron family number.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.6 Fission",
+        "Problem Statement": "",
+        "Question": "Breeding plutonium produces energy even before any plutonium is fissioned. (The primary purpose of the four nuclear reactors at Chernobyl was breeding plutonium for weapons. Electrical power was a by-product used by the civilian population.) Calculate the energy produced in each of the reactions listed for plutonium breeding just following Example 32.4. The pertinent masses are $$m ( ^{\\text{239}} \\text{U} ) = \\text{239.054289 u}$$ , $$m ( ^{\\text{239}} \\text{Np} ) = \\text{239.052932 u}$$ , and $$m ( ^{\\text{239}} \\text{Pu} ) = \\text{239.052157 u}$$ .",
+        "Image Links": [],
+        "Answer": "$$^{\\text{238}} \\text{U} + n \\vec{} ^{\\text{239}} \\text{U} + \\gamma$$ 4.81 MeV $$^{\\text{239}} \\text{U} \\vec{} ^{\\text{239}} \\text{Np} + \\beta^{- } + v_{e}$$ 0.753 MeV $${}_{}^{\\text{239}}\\text{}_{}^{} \\text{Np} \\vec{} {}_{}^{\\text{239}}\\text{}_{}^{} \\text{Pu} + \\beta^{- } + v_{e}$$ 0.211 MeV",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.6 Fission",
+        "Problem Statement": "",
+        "Question": "The naturally occurring radioactive isotope $$^{\\text{232}} \\text{Th}$$ does not make good fission fuel, because it has an even number of neutrons; however, it can be bred into a suitable fuel (much as $$^{\\text{238}} \\text{U}$$ is bred into $$^{\\text{239}} \\text{P}$$ ). (a) What are $$Z$$ and $$N$$ for $$^{\\text{232}} \\text{Th}$$ ? (b) Write the reaction equation for neutron captured by $$^{\\text{232}} \\text{Th}$$ and identify the nuclide $$^{A} X$$ produced in $$n + ^{\\text{232}} \\text{Th} \\vec{} ^{A} X + \\gamma$$ . (c) The product nucleus $$\\beta^{- }$$ decays, as does its daughter. Write the decay equations for each, and identify the final nucleus. (d) Confirm that the final nucleus has an odd number of neutrons, making it a better fission fuel. (e) Look up the half-life of the final nucleus to see if it lives long enough to be a useful fuel.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.6 Fission",
+        "Problem Statement": "",
+        "Question": "The electrical power output of a large nuclear reactor facility is 900 MW. It has a 35.0% efficiency in converting nuclear power to electrical. (a) What is the thermal nuclear power output in megawatts? (b) How many $$^{\\text{235}} \\text{U}$$ nuclei fission each second, assuming the average fission produces 200 MeV? (c) What mass of $$^{\\text{235}} \\text{U}$$ is fissioned in one year of full-power operation?",
+        "Image Links": [],
+        "Answer": "(a) $$2 \\text{.} \\text{57} \\times \\text{10}^{3} \\text{MW}$$ (b) $$8.03 \\times \\text{10}^{\\text{19}} \\text{fission/s}$$ (c) 991 kg",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.6 Fission",
+        "Problem Statement": "",
+        "Question": "A large power reactor that has been in operation for some months is turned off, but residual activity in the core still produces 150 MW of power. If the average energy per decay of the fission products is 1.00 MeV, what is the core activity in curies?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.7 Nuclear Weapons",
+        "Problem Statement": "",
+        "Question": "Find the mass converted into energy by a 12.0-kT bomb.",
+        "Image Links": [],
+        "Answer": "0.56 g",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.7 Nuclear Weapons",
+        "Problem Statement": "",
+        "Question": "What mass is converted into energy by a 1.00-MT bomb?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.7 Nuclear Weapons",
+        "Problem Statement": "",
+        "Question": "Fusion bombs use neutrons from their fission trigger to create tritium fuel in the reaction $$n +^{6} \\text{Li} \\vec{}^{3} \\text{H} +^{4} \\text{He}$$ . What is the energy released by this reaction in MeV?",
+        "Image Links": [],
+        "Answer": "4.781 MeV",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.7 Nuclear Weapons",
+        "Problem Statement": "",
+        "Question": "It is estimated that the total explosive yield of all the nuclear bombs in existence currently is about 4,000 MT. (a) Convert this amount of energy to kilowatt-hours, noting that $$\\text{1 kW} \\cdot \\text{h} = 3 \\text{.} \\text{60} \\times \\text{10}^{6} \\text{J}$$ . (b) What would the monetary value of this energy be if it could be converted to electricity costing 10 cents per kW\u00b7h?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.7 Nuclear Weapons",
+        "Problem Statement": "",
+        "Question": "A radiation-enhanced nuclear weapon (or neutron bomb) can have a smaller total yield and still produce more prompt radiation than a conventional nuclear bomb. This allows the use of neutron bombs to kill nearby advancing enemy forces with radiation without blowing up your own forces with the blast. For a 0.500-kT radiation-enhanced weapon and a 1.00-kT conventional nuclear bomb: (a) Compare the blast yields. (b) Compare the prompt radiation yields.",
+        "Image Links": [],
+        "Answer": "(a) Blast yields $$2.1 \\times \\text{10}^{\\text{12}} \\text{J}$$ to $$8.4 \\times \\text{10}^{\\text{11}} \\text{J}$$ , or 2.5 to 1, conventional to radiation enhanced. (b) Prompt radiation yields $$6 \\text{.} 3 \\times \\text{10}^{\\text{11}} \\text{J}$$ to $$2.1 \\times \\text{10}^{\\text{11}} \\text{J}$$ , or 3 to 1, radiation enhanced to conventional.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.7 Nuclear Weapons",
+        "Problem Statement": "",
+        "Question": "(a) How many $$^{\\text{239}} \\text{Pu}$$ nuclei must fission to produce a 20.0-kT yield, assuming 200 MeV per fission? (b) What is the mass of this much $$^{\\text{239}} \\text{Pu}$$ ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.7 Nuclear Weapons",
+        "Problem Statement": "",
+        "Question": "Assume one-fourth of the yield of a typical 320-kT strategic bomb comes from fission reactions averaging 200 MeV and the remainder from fusion reactions averaging 20 MeV. (a) Calculate the number of fissions and the approximate mass of uranium and plutonium fissioned, taking the average atomic mass to be 238. (b) Find the number of fusions and calculate the approximate mass of fusion fuel, assuming an average total atomic mass of the two nuclei in each reaction to be 5. (c) Considering the masses found, does it seem reasonable that some missiles could carry 10 warheads? Discuss, noting that the nuclear fuel is only a part of the mass of a warhead.",
+        "Image Links": [],
+        "Answer": "(a) $$1 \\text{.} 1 \\times \\text{10}^{\\text{25}} \\text{fissions}$$ , 4.4 kg (b) $$3.2 \\times \\text{10}^{\\text{26}} \\text{fusions}$$ , 2.7 kg (c) The\nnuclear\nfuel\ntotals\nonly\n6\nkg,\nso\nit\nis\nquite\nreasonable\nthat\nsome\nmissiles\ncarry\n10\noverheads.\nThe\nmass\nof\nthe\nfuel\nwould\nonly\nbe\n60\nkg\nand\ntherefore\nthe\nmass\nof\nthe\n10\nwarheads,\nweighing\nabout\n10\ntimes\nthe\nnuclear\nfuel,\nwould\nbe\nonly\n1500\nlbs.\nIf\nthe\nfuel\nfor\nthe\nmissiles\nweighs\n5\ntimes\nthe\ntotal\nweight\nof\nthe\nwarheads,\nthe\nmissile\nwould\nweigh\nabout\n9000\nlbs\nor\n4.5\ntons.\nThis\nis\nnot\nan\nunreasonable\nweight\nfor\na\nmissile.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.7 Nuclear Weapons",
+        "Problem Statement": "",
+        "Question": "This problem gives some idea of the magnitude of the energy yield of a small tactical bomb. Assume that half the energy of a 1.00-kT nuclear depth charge set off under an aircraft carrier goes into lifting it out of the water-that is, into gravitational potential energy. How high is the carrier lifted if its mass is 90,000 tons?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.7 Nuclear Weapons",
+        "Problem Statement": "",
+        "Question": "It is estimated that weapons tests in the atmosphere have deposited approximately 9 MCi of $$^{\\text{90}} \\text{Sr}$$ on the surface of the earth. Find the mass of this amount of $$^{\\text{90}} \\text{Sr}$$ .",
+        "Image Links": [],
+        "Answer": "$$7 \\times \\text{10}^{4} \\text{g}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.7 Nuclear Weapons",
+        "Problem Statement": "",
+        "Question": "A 1.00-MT bomb exploded a few kilometers above the ground deposits 25.0% of its energy into radiant heat. (a) Find the calories per $$\\text{cm}^{2}$$ at a distance of 10.0 km by assuming a uniform distribution over a spherical surface of that radius. (b) If this heat falls on a person\u2019s body, what temperature increase does it cause in the affected tissue, assuming it is absorbed in a layer 1.00-cm deep?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.7 Nuclear Weapons",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts One scheme to put nuclear weapons to nonmilitary use is to explode them underground in a geologically stable region and extract the geothermal energy for electricity production. There was a total yield of about 4,000 MT in the combined arsenals in 2006. If 1.00 MT per day could be converted to electricity with an efficiency of 10.0%: (a) What would the average electrical power output be? (b) How many years would the arsenal last at this rate?",
+        "Image Links": [],
+        "Answer": "(a) $$4 \\text{.} \\text{86} \\times \\text{10}^{9} \\text{W}$$ (b) 11.0 y",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "32.7 Nuclear Weapons",
+        "Problem Statement": "",
+        "Question": "Critical Thinking A spherical target in a body is being targeted with $$\\beta^{+}$$ radiation. The target is centered at $$\\text{(0} \\text{.00,\u00a02} \\text{.00,\u00a03} \\text{.00)}$$ on a grid that is in centimeters. The target has a radius of 0.500 centimeters. (a) What two points on the x -axis are at the extremes of where the positrons annihilate the electrons? (b) What two points on the y -axis are at the extremes of where the positrons annihilate the electrons? (c) What can be said about the directions of the pair of gamma rays that result from the annihilations? (d) Can the use of $$\\beta^{+}$$ give information in three dimensions?",
+        "Image Links": [],
+        "Answer": "(a) $$( - 0.500 , 2.00 , 3.00 )$$ and $$( 0.500 , 2.00 , 3.00 )$$ (b) $$( 0.000 , 1.50 , 3.00 )$$ and $$( 0.000 , 2.50 , 3.00 )$$ (c) They travel in opposite directions along the same line. (d) Yes.",
+        "Answer Image Links": []
+    }
+]

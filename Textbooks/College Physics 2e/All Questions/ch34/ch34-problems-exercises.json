@@ -1,0 +1,262 @@
+[
+    {
+        "Topic": "34.1 Cosmology and Particle Physics",
+        "Problem Statement": "",
+        "Question": "Find the approximate mass of the luminous matter in the Milky Way galaxy, given it has approximately $$\\text{10}^{\\text{11}}$$ stars of average mass 1.5 times that of our Sun.",
+        "Image Links": [],
+        "Answer": "$$3 \\times \\text{10}^{\\text{41}} \\text{kg}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.1 Cosmology and Particle Physics",
+        "Problem Statement": "",
+        "Question": "Find the approximate mass of the dark and luminous matter in the Milky Way galaxy. Assume the luminous matter is due to approximately $$\\text{10}^{\\text{11}}$$ stars of average mass 1.5 times that of our Sun, and take the dark matter to be 10 times as massive as the luminous matter.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.1 Cosmology and Particle Physics",
+        "Problem Statement": "",
+        "Question": "(a) Estimate the mass of the luminous matter in the known universe, given there are $$\\text{10}^{\\text{11}}$$ galaxies, each containing $$\\text{10}^{\\text{11}}$$ stars of average mass 1.5 times that of our Sun. (b) How many protons (the most abundant nuclide) are there in this mass? (c) Estimate the total number of particles in the observable universe by multiplying the answer to (b) by two, since there is an electron for each proton, and then by $$\\text{10}^{9}$$ , since there are far more particles (such as photons and neutrinos) in space than in luminous matter.",
+        "Image Links": [],
+        "Answer": "(a) $$3 \\times \\text{10}^{\\text{52}} \\text{kg}$$ (b) $$2 \\times \\text{10}^{\\text{79}}$$ (c) $$4 \\times \\text{10}^{\\text{88}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.1 Cosmology and Particle Physics",
+        "Problem Statement": "",
+        "Question": "If a galaxy is 500 Mly away from us, how fast do we expect it to be moving and in what direction?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.1 Cosmology and Particle Physics",
+        "Problem Statement": "",
+        "Question": "On average, how far away are galaxies that are moving away from us at 2.0% of the speed of light?",
+        "Image Links": [],
+        "Answer": "0.30 Gly",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.1 Cosmology and Particle Physics",
+        "Problem Statement": "",
+        "Question": "Our solar system orbits the center of the Milky Way galaxy. Assuming a circular orbit 30,000 ly in radius and an orbital speed of 250 km/s, how many years does it take for one revolution? Note that this is approximate, assuming constant speed and circular orbit, but it is representative of the time for our system and local stars to make one revolution around the galaxy.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.1 Cosmology and Particle Physics",
+        "Problem Statement": "",
+        "Question": "(a) What is the approximate speed relative to us of a galaxy near the edge of the known universe, some 10 Gly away? (b) What fraction of the speed of light is this? Note that we have observed galaxies moving away from us at greater than $$0 \\text{.} 9 c$$ .",
+        "Image Links": [],
+        "Answer": "(a) $$2 \\text{.} 0 \\times \\text{10}^{5} \\text{km/s}$$ (b) $$0 \\text{.} \\text{67} c$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.1 Cosmology and Particle Physics",
+        "Problem Statement": "",
+        "Question": "(a) Calculate the approximate age of the universe from the average value of the Hubble constant, $$H_{0} = \\text{20} km/s \\cdot \\text{Mly}$$ . To do this, calculate the time it would take to travel 1 Mly at a constant expansion rate of 20 km/s. (b) If deceleration is taken into account, would the actual age of the universe be greater or less than that found here? Explain.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.1 Cosmology and Particle Physics",
+        "Problem Statement": "",
+        "Question": "Assuming a circular orbit for the Sun about the center of the Milky Way galaxy, calculate its orbital speed using the following information: The mass of the galaxy is equivalent to a single mass $$1 \\text{.} 5 \\times \\text{10}^{\\text{11}}$$ times that of the Sun (or $$3 \\times \\text{10}^{\\text{41}} \\text{kg}$$ ), located 30,000 ly away.",
+        "Image Links": [],
+        "Answer": "$$2 \\text{.} 7 \\times \\text{10}^{5} \\text{m/s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.1 Cosmology and Particle Physics",
+        "Problem Statement": "",
+        "Question": "(a) What is the approximate force of gravity on a 70-kg person due to the Andromeda galaxy, assuming its total mass is $$\\text{10}^{\\text{13}}$$ that of our Sun and acts like a single mass 2 Mly away? (b) What is the ratio of this force to the person\u2019s weight? Note that Andromeda is the closest large galaxy.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.1 Cosmology and Particle Physics",
+        "Problem Statement": "",
+        "Question": "Andromeda galaxy is the closest large galaxy and is visible to the naked eye. Estimate its brightness relative to the Sun, assuming it has luminosity $$\\text{10}^{\\text{12}}$$ times that of the Sun and lies 2 Mly away.",
+        "Image Links": [],
+        "Answer": "$$6 \\times \\text{10}^{- \\text{11}}$$ (an overestimate, since some of the light from Andromeda is blocked by gas and dust within that galaxy)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.1 Cosmology and Particle Physics",
+        "Problem Statement": "",
+        "Question": "(a) A particle and its antiparticle are at rest relative to an observer and annihilate (completely destroying both masses), creating two $$\\gamma$$ rays of equal energy. What is the characteristic $$\\gamma$$ -ray energy you would look for if searching for evidence of proton-antiproton annihilation? (The fact that such radiation is rarely observed is evidence that there is very little antimatter in the universe.) (b) How does this compare with the 0.511-MeV energy associated with electron-positron annihilation?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.1 Cosmology and Particle Physics",
+        "Problem Statement": "",
+        "Question": "The average particle energy needed to observe unification of forces is estimated to be $$\\text{10}^{\\text{19}} \\text{GeV}$$ . (a) What is the rest mass in kilograms of a particle that has a rest mass of $$\\text{10}^{\\text{19}} \\text{GeV/} c^{2}$$ ? (b) How many times the mass of a hydrogen atom is this?",
+        "Image Links": [],
+        "Answer": "(a) $$2 \\times \\text{10}^{- 8} \\text{kg}$$ (b) $$1 \\times \\text{10}^{\\text{19}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.1 Cosmology and Particle Physics",
+        "Problem Statement": "",
+        "Question": "The peak intensity of the CMBR occurs at a wavelength of 1.1 mm. (a) What is the energy in eV of a 1.1-mm photon? (b) There are approximately $$\\text{10}^{9}$$ photons for each massive particle in deep space. Calculate the energy of $$\\text{10}^{9}$$ such photons. (c) If the average massive particle in space has a mass half that of a proton, what energy would be created by converting its mass to energy? (d) Does this imply that space is \u201cmatter dominated\u201d? Explain briefly.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.1 Cosmology and Particle Physics",
+        "Problem Statement": "",
+        "Question": "(a) What Hubble constant corresponds to an approximate age of the universe of $$\\text{10}^{\\text{10}}$$ y? To get an approximate value, assume the expansion rate is constant and calculate the speed at which two galaxies must move apart to be separated by 1 Mly (present average galactic separation) in a time of $$\\text{10}^{\\text{10}}$$ y. (b) Similarly, what Hubble constant corresponds to a universe approximately $$2 \\times \\text{10}^{\\text{10}}$$ -y old?",
+        "Image Links": [],
+        "Answer": "(a) $$30 \\text{km/s} \\cdot \\text{Mly}$$ (b) $$15 \\text{km/s} \\cdot \\text{Mly}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.1 Cosmology and Particle Physics",
+        "Problem Statement": "",
+        "Question": "Show that the velocity of a star orbiting its galaxy in a circular orbit is inversely proportional to the square root of its orbital radius, assuming the mass of the stars inside its orbit acts like a single mass at the center of the galaxy. You may use an equation from a previous chapter to support your conclusion, but you must justify its use and define all terms used.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.1 Cosmology and Particle Physics",
+        "Problem Statement": "",
+        "Question": "The core of a star collapses during a supernova, forming a neutron star. Angular momentum of the core is conserved, and so the neutron star spins rapidly. If the initial core radius is $$5 \\text{.} 0 \\times \\text{10}^{5} \\text{ km}$$ and it collapses to 10.0 km, find the neutron star\u2019s angular velocity in revolutions per second, given the core\u2019s angular velocity was originally 1 revolution per 30.0 days.",
+        "Image Links": [],
+        "Answer": "960 rev/s",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.1 Cosmology and Particle Physics",
+        "Problem Statement": "",
+        "Question": "Using data from the previous problem, find the increase in rotational kinetic energy, given the core\u2019s mass is 1.3 times that of our Sun. Where does this increase in kinetic energy come from?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.1 Cosmology and Particle Physics",
+        "Problem Statement": "",
+        "Question": "Distances to the nearest stars (up to 500 ly away) can be measured by a technique called parallax, as shown in Figure 34.26. What are the angles $$\\theta_{1}$$ and $$\\theta_{2}$$ relative to the plane of the Earth\u2019s orbit for a star 4.0 ly directly above the Sun?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b641940c54931928f4306ff22648578439e8721c"
+        ],
+        "Answer": "$$\\text{89} \\text{.} \\text{999773\u00ba}$$ (many digits are used to show the difference between $$\\text{90\u00ba}$$ )",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.1 Cosmology and Particle Physics",
+        "Problem Statement": "",
+        "Question": "(a) Use the Heisenberg uncertainty principle to calculate the uncertainty in energy for a corresponding time interval of $$\\text{10}^{- \\text{43}} \\text{s}$$ . (b) Compare this energy with the $$\\text{10}^{\\text{19}} \\text{GeV}$$ unification-of-forces energy and discuss why they are similar.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.1 Cosmology and Particle Physics",
+        "Problem Statement": "",
+        "Question": "Construct Your Own Problem Consider a star moving in a circular orbit at the edge of a galaxy. Construct a problem in which you calculate the mass of that galaxy in kg and in multiples of the solar mass based on the velocity of the star and its distance from the center of the galaxy. Figure 34.26 Distances to nearby stars are measured using triangulation, also called the parallax method. The angle of line of sight to the star is measured at intervals six months apart, and the distance is calculated by using the known diameter of the Earth\u2019s orbit. This can be done for stars up to about 500 ly away.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b641940c54931928f4306ff22648578439e8721c"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.2 General Relativity and Quantum Gravity",
+        "Problem Statement": "",
+        "Question": "What is the Schwarzschild radius of a black hole that has a mass eight times that of our Sun? Note that stars must be more massive than the Sun to form black holes as a result of a supernova.",
+        "Image Links": [],
+        "Answer": "23.6 km",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.2 General Relativity and Quantum Gravity",
+        "Problem Statement": "",
+        "Question": "Black holes with masses smaller than those formed in supernovas may have been created in the Big Bang. Calculate the radius of one that has a mass equal to the Earth\u2019s.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.2 General Relativity and Quantum Gravity",
+        "Problem Statement": "",
+        "Question": "Supermassive black holes are thought to exist at the center of many galaxies. (a) What is the radius of such an object if it has a mass of $$\\text{10}^{9}$$ Suns? (b) What is this radius in light years?",
+        "Image Links": [],
+        "Answer": "(a) $$2 \\text{.} \\text{95} \\times \\text{10}^{\\text{12}} \\text{m}$$ (b) $$3 \\text{.} \\text{12} \\times \\text{10}^{- 4} \\text{ly}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.2 General Relativity and Quantum Gravity",
+        "Problem Statement": "",
+        "Question": "Construct Your Own Problem Consider a supermassive black hole near the center of a galaxy. Calculate the radius of such an object based on its mass. You must consider how much mass is reasonable for these large objects, and which is now nearly directly observed. (Information on black holes posted on the Web by NASA and other agencies is reliable, for example.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.3 Superstrings",
+        "Problem Statement": "",
+        "Question": "The characteristic length of entities in Superstring theory is approximately $$\\text{10}^{- \\text{35}} \\text{m}$$ . (a) Find the energy in GeV of a photon of this wavelength. (b) Compare this with the average particle energy of $$\\text{10}^{\\text{19}} \\text{GeV}$$ needed for unification of forces.",
+        "Image Links": [],
+        "Answer": "(a) $$\n1\n       \\times \n10\n       ^{\n20\n       }$$ (b) 10  times greater",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.4 Dark Matter and Closure",
+        "Problem Statement": "",
+        "Question": "If the dark matter in the Milky Way were composed entirely of MACHOs (evidence shows it is not), approximately how many would there have to be? Assume the average mass of a MACHO is 1/1000 that of the Sun, and that dark matter has a mass 10 times that of the luminous Milky Way galaxy with its $$\\text{10}^{\\text{11}}$$ stars of average mass 1.5 times the Sun\u2019s mass.",
+        "Image Links": [],
+        "Answer": "$$1 \\text{.} 5 \\times \\text{10}^{\\text{15}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.4 Dark Matter and Closure",
+        "Problem Statement": "",
+        "Question": "The critical mass density needed to just halt the expansion of the universe is approximately $$\\text{10}^{- \\text{26}} \\text{kg} / \\text{m}^{3}$$ . (a) Convert this to $$\\text{eV} / c^{2} \\cdot \\text{m}^{3}$$ . (b) Find the number of neutrinos per cubic meter needed to close the universe if their average mass is $$7 \\text{eV} / c^{2}$$ and they have negligible kinetic energies.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.4 Dark Matter and Closure",
+        "Problem Statement": "",
+        "Question": "Assume the average density of the universe is 0.1 of the critical density needed for closure. What is the average number of protons per cubic meter, assuming the universe is composed mostly of hydrogen?",
+        "Image Links": [],
+        "Answer": "$$0 \\text{.} 6 m^{- 3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.4 Dark Matter and Closure",
+        "Problem Statement": "",
+        "Question": "To get an idea of how empty deep space is on the average, perform the following calculations: (a) Find the volume our Sun would occupy if it had an average density equal to the critical density of $$\\text{10}^{- \\text{26}} \\text{kg} / \\text{m}^{3}$$ thought necessary to halt the expansion of the universe. (b) Find the radius of a sphere of this volume in light years. (c) What would this radius be if the density were that of luminous matter, which is approximately $$5% \\text{}$$ that of the critical density? (d) Compare the radius found in part (c) with the 4-ly average separation of stars in the arms of the Milky Way.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.6 High-temperature Superconductors",
+        "Problem Statement": "",
+        "Question": "A section of superconducting wire carries a current of 100 A and requires 1.00 L of liquid nitrogen per hour to keep it below its critical temperature. For it to be economically advantageous to use a superconducting wire, the cost of cooling the wire must be less than the cost of energy lost to heat in the wire. Assume that the cost of liquid nitrogen is $0.30 per liter, and that electric energy costs $0.10 per kW\u00b7h. What is the resistance of a normal wire that costs as much in wasted electric energy as the cost of liquid nitrogen for the superconductor?",
+        "Image Links": [],
+        "Answer": "$$\\text{0.30 omega}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "34.6 High-temperature Superconductors",
+        "Problem Statement": "",
+        "Question": "Critical Thinking Assume two galaxies are $$2.00 \\times 10^{2} \\text{\u00a0Mly}$$ apart. (a) How fast are they separating due to space expansion? (b) Now suppose a third galaxy is located $$2.00 \\times 10^{2} \\text{\u00a0Mly}$$ along a line that is a perpendicular bisector of the line segment between the first two galaxies. How fast is this galaxy separating from either of the other two galaxies? (c) Why would the third galaxy appear to be receding from both of the initially mentioned galaxies at the same rate? (d) How would the apparent motion be detected?",
+        "Image Links": [],
+        "Answer": "(a) $$v = H_{0} d = ( 20 \\text{\u00a0km/s} ) / \\text{Mly\u00a0} ( 2.00 \\times 10^{2} \\text{\u00a0Mly} ) = 4.00 \\times 10^{3} \\text{\u00a0km/s}$$ (b) $$\\left .\\begin{matrix}{a}d = \\sqrt{( 1.00 \\times 10^{2} )^{2} + ( 2.00 \\times 10^{2} )^{2}} \\text{\u00a0Mly} \\\\ \\text{quad} = 2.24 \\times 10^{2} \\text{\u00a0Mly} \\\\ v = ( 20 \\text{\u00a0km/s} ) / \\text{Mly\u00a0} ( 2.24 \\times 10^{2} \\text{\u00a0Mly} ) = 4.48 \\times 10^{3} \\text{\u00a0km/s}\\end{matrix}\\right .$$ (c) The galaxies are separating mostly due to the expansion of space. (d) Light from the third galaxy would have a red shift when detected in either of the other galaxies.",
+        "Answer Image Links": []
+    }
+]

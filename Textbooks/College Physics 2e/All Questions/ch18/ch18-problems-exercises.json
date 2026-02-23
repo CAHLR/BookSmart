@@ -1,0 +1,596 @@
+[
+    {
+        "Topic": "18.1 Static Electricity and Charge: Conservation of Charge",
+        "Problem Statement": "",
+        "Question": "Common static electricity involves charges ranging from nanocoulombs to microcoulombs. (a) How many electrons are needed to form a charge of $$-2.00 \\text{nC}$$ (b) How many electrons must be removed from a neutral object to leave a net charge of $$0.500 \\Micro \\text{C}$$ ?",
+        "Image Links": [],
+        "Answer": "(a) $$1.25 \\times \\text{10}^{\\text{10}}$$ (b) $$3.13 \\times \\text{10}^{\\text{12}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.1 Static Electricity and Charge: Conservation of Charge",
+        "Problem Statement": "",
+        "Question": "If $$1 \\text{.} \\text{80} \\times \\text{10}^{\\text{20}}$$ electrons move through a pocket calculator during a full day\u2019s operation, how many coulombs of charge moved through it?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.1 Static Electricity and Charge: Conservation of Charge",
+        "Problem Statement": "",
+        "Question": "To start a car engine, the car battery moves $$3 \\text{.} \\text{75} \\times \\text{10}^{\\text{21}}$$ electrons through the starter motor. How many coulombs of charge were moved?",
+        "Image Links": [],
+        "Answer": "-600 C",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.1 Static Electricity and Charge: Conservation of Charge",
+        "Problem Statement": "",
+        "Question": "A certain lightning bolt moves 40.0 C of charge. How many fundamental units of charge $$\\mid q_{e} \\mid$$ is this?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.2 Conductors and Insulators",
+        "Problem Statement": "",
+        "Question": "Suppose a speck of dust in an electrostatic precipitator has $$1 \\text{.} \\text{0000} \\times \\text{10}^{\\text{12}}$$ protons in it and has a net charge of -5.00 nC (a very large charge for a small speck). How many electrons does it have?",
+        "Image Links": [],
+        "Answer": "$$1.03 \\times 10^{12}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.2 Conductors and Insulators",
+        "Problem Statement": "",
+        "Question": "An amoeba has $$1.00 \\times 10^{16}$$ protons and a net charge of 0.300 pC. (a) How many fewer electrons are there than protons? (b) If you paired them up, what fraction of the protons would have no electrons?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.2 Conductors and Insulators",
+        "Problem Statement": "",
+        "Question": "A 50.0 g ball of copper has a net charge of $$2.00 \\Micro \\text{C}$$ . What fraction of the copper\u2019s electrons has been removed? (Each copper atom has 29 protons, and copper has an atomic mass of 63.5.)",
+        "Image Links": [],
+        "Answer": "$$9 \\text{.} \\text{09} \\times \\text{10}^{- \\text{13}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.2 Conductors and Insulators",
+        "Problem Statement": "",
+        "Question": "What net charge would you place on a 100 g piece of sulfur if you put an extra electron on 1 in $$\\text{10}^{\\text{12}}$$ of its atoms? (Sulfur has an atomic mass of 32.1.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.2 Conductors and Insulators",
+        "Problem Statement": "",
+        "Question": "How many coulombs of positive charge are there in 4.00 kg of plutonium, given its atomic mass is 244 and that each plutonium atom has 94 protons?",
+        "Image Links": [],
+        "Answer": "$$1 \\text{.} \\text{48} \\times \\text{10}^{8} \\text{C}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.3 Coulomb\u2019s Law",
+        "Problem Statement": "",
+        "Question": "What is the repulsive force between two pith balls that are 8.00 cm apart and have equal charges of - 30.0 nC?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.3 Coulomb\u2019s Law",
+        "Problem Statement": "",
+        "Question": "(a) How strong is the attractive force between a glass rod with a $$0.700 \\mu \\text{C}$$ charge and a silk cloth with a $$-0.600 \\mu \\text{C}$$ charge, which are 12.0 cm apart, using the approximation that they act like point charges? (b) Discuss how the answer to this problem might be affected if the charges are distributed over some area and do not act like point charges.",
+        "Image Links": [],
+        "Answer": "(a) 0.263 N (b) If the charges are distributed over some area, there will be a concentration of charge along the side closest to the oppositely charged object. This effect will increase the net force.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.3 Coulomb\u2019s Law",
+        "Problem Statement": "",
+        "Question": "Two point charges exert a 5.00 N force on each other. What will the force become if the distance between them is increased by a factor of three?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.3 Coulomb\u2019s Law",
+        "Problem Statement": "",
+        "Question": "Two point charges are brought closer together, increasing the force between them by a factor of 25. By what factor was their separation decreased?",
+        "Image Links": [],
+        "Answer": "The separation decreased by a factor of 5.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.3 Coulomb\u2019s Law",
+        "Problem Statement": "",
+        "Question": "How far apart must two point charges of 75.0 nC (typical of static electricity) be to have a force of 1.00 N between them?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.3 Coulomb\u2019s Law",
+        "Problem Statement": "",
+        "Question": "If two equal charges each of 1 C each are separated in air by a distance of 1 km, what is the magnitude of the force acting between them? You will see that even at a distance as large as 1 km, the repulsive force is substantial because 1 C is a very significant amount of charge.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.3 Coulomb\u2019s Law",
+        "Problem Statement": "",
+        "Question": "A test charge of $$+2 \\mu \\text{C}$$ is placed halfway between a charge of $$+6 \\mu \\text{C}$$ and another of $$+4 \\mu \\text{C}$$ separated by 10 cm. (a) What is the magnitude of the force on the test charge? (b) What is the direction of this force (away from or toward the $$+6 \\mu \\text{C}$$ charge)?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.3 Coulomb\u2019s Law",
+        "Problem Statement": "",
+        "Question": "Bare free charges do not remain stationary when close together. To illustrate this, calculate the acceleration of two isolated protons separated by 2.00 nm (a typical distance between gas atoms). Explicitly show how you follow the steps in the Problem-Solving Strategy for electrostatics.",
+        "Image Links": [],
+        "Answer": "$$F & = & k \\frac{\\left|\\right. q_{1} q_{2} \\left|\\right.}{r^{2}} = ma \\Rightarrow a = \\frac{k q^{2}}{m r^{2}} \\\\ & = & \\frac{\\left(\\right. 9.00 \\times \\left(10\\right)^{9} \\text{N} \\cdot \\left(\\text{m}\\right)^{2} / \\left(\\text{C}\\right)^{2} \\left.\\right) \\left(\\left(\\right. 1.60 \\times \\left(10\\right)^{-19} \\text{m} \\left.\\right)\\right)^{2}}{\\left(\\right. 1.67 \\times \\left(10\\right)^{-27} \\text{kg} \\left.\\right) \\left(\\left(\\right. 2.00 \\times \\left(10\\right)^{-9} \\text{m} \\left.\\right)\\right)^{2}} \\\\ & = & 3.45 \\times \\left(10\\right)^{16} \\text{m}/ \\left(\\text{s}\\right)^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.3 Coulomb\u2019s Law",
+        "Problem Statement": "",
+        "Question": "(a) By what factor must you change the distance between two point charges to change the force between them by a factor of 10? (b) Explain how the distance can either increase or decrease by this factor and still cause a factor of 10 change in the force.",
+        "Image Links": [],
+        "Answer": "(a) 3.2 (b) If the distance increases by 3.2, then the force will decrease by a factor of 10 ; if the distance decreases by 3.2, then the force will increase by a factor of 10. Either way, the force changes by a factor of 10.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.3 Coulomb\u2019s Law",
+        "Problem Statement": "",
+        "Question": "Suppose you have a total charge $$q_{\\text{tot}}$$ that you can split in any manner. Once split, the separation distance is fixed. How do you split the charge to achieve the greatest force?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.3 Coulomb\u2019s Law",
+        "Problem Statement": "",
+        "Question": "(a) Common transparent tape becomes charged when pulled from a dispenser. If one piece is placed above another, the repulsive force can be great enough to support the top piece\u2019s weight. Assuming equal point charges (only an approximation), calculate the magnitude of the charge if electrostatic force is great enough to support the weight of a 10.0 mg piece of tape held 1.00 cm above another. (b) Discuss whether the magnitude of this charge is consistent with what is typical of static electricity.",
+        "Image Links": [],
+        "Answer": "(a) $$1 \\text{.} \\text{04} \\times \\text{10}^{- 9}$$ C (b) This charge is approximately 1 nC, which is consistent with the magnitude of charge typical for static electricity",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.3 Coulomb\u2019s Law",
+        "Problem Statement": "",
+        "Question": "(a) Find the ratio of the electrostatic to gravitational force between two electrons. (b) What is this ratio for two protons? (c) Why is the ratio different for electrons and protons?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.3 Coulomb\u2019s Law",
+        "Problem Statement": "",
+        "Question": "At what distance is the electrostatic force between two protons equal to the weight of one proton?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.3 Coulomb\u2019s Law",
+        "Problem Statement": "",
+        "Question": "A certain five cent coin contains 5.00 g of nickel. What fraction of the nickel atoms\u2019 electrons, removed and placed 1.00 m above it, would support the weight of this coin? The atomic mass of nickel is 58.7, and each nickel atom contains 28 electrons and 28 protons.",
+        "Image Links": [],
+        "Answer": "$$1 \\text{.} \\text{02} \\times \\text{10}^{- \\text{11}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.3 Coulomb\u2019s Law",
+        "Problem Statement": "",
+        "Question": "(a) Two point charges totaling $$8.00 \\Micro \\text{C}$$ exert a repulsive force of 0.150 N on one another when separated by 0.500 m. What is the charge on each? (b) What is the charge on each if the force is attractive?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.3 Coulomb\u2019s Law",
+        "Problem Statement": "",
+        "Question": "Point charges of $$5.00 \\Micro \\text{C}$$ and $$-3.00 \\Micro \\text{C}$$ are placed 0.250 m apart. (a) Where can a third charge be placed so that the net force on it is zero? (b) What if both charges are positive?",
+        "Image Links": [],
+        "Answer": "A. 0.859 m beyond negative charge on line connecting two charges B. 0.109 m from lesser charge on line connecting two charges",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.3 Coulomb\u2019s Law",
+        "Problem Statement": "",
+        "Question": "Two point charges $$q_{\\text{1}}$$ and $$q_{\\text{2}}$$ are $$3.00 m$$ apart, and their total charge is $$20 \\Micro \\text{C}$$ . (a) If the force of repulsion between them is 0.075N, what are magnitudes of the two charges? (b) If one charge attracts the other with a force of 0.525N, what are the magnitudes of the two charges? Note that you may need to solve a quadratic equation to reach your answer.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.4 Electric Field: Concept of a Field Revisited",
+        "Problem Statement": "",
+        "Question": "What is the magnitude and direction of an electric field that exerts a $$2 \\text{.} \\text{00} \\times \\text{10}^{- 5} \\text{N}$$ upward force on a $$-1.75 \\mu \\text{C}$$ charge?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.4 Electric Field: Concept of a Field Revisited",
+        "Problem Statement": "",
+        "Question": "What is the magnitude and direction of the force exerted on a $$3.50 \\mu \\text{C}$$ charge by a 250 N/C electric field that points due east?",
+        "Image Links": [],
+        "Answer": "$$8 \\text{.} \\text{75} \\times \\text{10}^{- 4}$$ N",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.4 Electric Field: Concept of a Field Revisited",
+        "Problem Statement": "",
+        "Question": "Calculate the magnitude of the electric field 2.00 m from a point charge of 5.00 mC (such as found on the terminal of a Van de Graaff).",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.4 Electric Field: Concept of a Field Revisited",
+        "Problem Statement": "",
+        "Question": "(a) What magnitude point charge creates a 10,000 N/C electric field at a distance of 0.250 m? (b) How large is the field at 10.0 m?",
+        "Image Links": [],
+        "Answer": "(a) $$6 \\text{.} \\text{94} \\times \\text{10}^{- 8} \\text{C}$$ (b) $$6 \\text{.} \\text{25} \\text{ N/C}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.4 Electric Field: Concept of a Field Revisited",
+        "Problem Statement": "",
+        "Question": "Calculate the initial (from rest) acceleration of a proton in a $$5 \\text{.} \\text{00} \\times \\text{10}^{6} \\text{N/C}$$ electric field (such as created by a research Van de Graaff). Explicitly show how you follow the steps in the Problem-Solving Strategy for electrostatics.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.4 Electric Field: Concept of a Field Revisited",
+        "Problem Statement": "",
+        "Question": "(a) Find the magnitude and direction of an electric field that exerts a $$4 \\text{.} \\text{80} \\times \\text{10}^{- \\text{17}} \\text{N}$$ westward force on an electron. (b) What magnitude and direction force does this field exert on a proton?",
+        "Image Links": [],
+        "Answer": "(a) $$\\text{300} \\text{ N/C } ( \\text{east} )$$ (b) $$4 \\text{.} \\text{80} \\times \\text{10}^{- \\text{17}} \\text{ N } ( \\text{east} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.5 Electric Field Lines: Multiple Charges",
+        "Problem Statement": "",
+        "Question": "(a) Sketch the electric field lines near a point charge $$+ q$$ . (b) Do the same for a point charge $$-3.00 q$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.5 Electric Field Lines: Multiple Charges",
+        "Problem Statement": "",
+        "Question": "Sketch the electric field lines a long distance from the charge distributions shown in Figure 18.23 (a) and (b)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.5 Electric Field Lines: Multiple Charges",
+        "Problem Statement": "",
+        "Question": "Figure 18.43 shows the electric field lines near two charges $$q_{1}$$ and $$q_{2}$$ . What is the ratio of their magnitudes? (b) Sketch the electric field lines a long distance from the charges shown in the figure. Figure 18.43 The electric field near two charges.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9096503979f652c490677284fcf0aba04b54156a"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.5 Electric Field Lines: Multiple Charges",
+        "Problem Statement": "",
+        "Question": "Sketch the electric field lines in the vicinity of two opposite charges, where the negative charge is three times greater in magnitude than the positive. (See Figure 18.43 for a similar situation).",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9096503979f652c490677284fcf0aba04b54156a"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.7 Conductors and Electric Fields in Static Equilibrium",
+        "Problem Statement": "",
+        "Question": "Sketch the electric field lines in the vicinity of the conductor in Figure 18.44 given the field was originally uniform and parallel to the object\u2019s long axis. Is the resulting field small near the long side of the object? Figure 18.44",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3a14579e536570a98678d0195be94a6d7b90548d"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.7 Conductors and Electric Fields in Static Equilibrium",
+        "Problem Statement": "",
+        "Question": "Sketch the electric field lines in the vicinity of the conductor in Figure 18.45 given the field was originally uniform and parallel to the object\u2019s long axis. Is the resulting field small near the long side of the object? Figure 18.45",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/fa0ccff1d72915dce5944626839d5b37e1845544"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.7 Conductors and Electric Fields in Static Equilibrium",
+        "Problem Statement": "",
+        "Question": "Sketch the electric field between the two conducting plates shown in Figure 18.46, given the top plate is positive and an equal amount of negative charge is on the bottom plate. Be certain to indicate the distribution of charge on the plates. Figure 18.46",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e0ba2aa142aa00b1322a2ed77450058f56014b30"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.7 Conductors and Electric Fields in Static Equilibrium",
+        "Problem Statement": "",
+        "Question": "Sketch the electric field lines in the vicinity of the charged insulator in Figure 18.47 noting its nonuniform charge distribution. Figure 18.47 A charged insulating rod such as might be used in a classroom demonstration.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/fad3ab77b7a14bc02ee9a3825ac2a882bcd314b2"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.7 Conductors and Electric Fields in Static Equilibrium",
+        "Problem Statement": "",
+        "Question": "What is the force on the charge located at $$x = 8.00 cm$$ in Figure 18.48(a) given that $$q = 1 \\text{.} \\text{00} \\text{muC}$$ ? Figure 18.48 (a) Point charges located at 3.00, 8.00, and 11.0 cm along the x -axis. (b) Point charges located at 1.00, 5.00, 8.00, and 14.0 cm along the x -axis.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c31183d7bd0c5a78b2807d1e1a2cf1da7940b3c7"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.7 Conductors and Electric Fields in Static Equilibrium",
+        "Problem Statement": "",
+        "Question": "(a) Find the total electric field at $$x = 11.00 cm$$ in Figure 18.48(b). (b) If the charges are allowed to move and eventually be brought to rest by friction, what will the final charge configuration be? (That is, will there be a single charge, double charge, etc., and what will its value(s) be?)",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c31183d7bd0c5a78b2807d1e1a2cf1da7940b3c7"
+        ],
+        "Answer": "(a) $$2 \\text{.} \\text{12} \\times \\text{10}^{5} \\text{N/C}$$ (b) one charge of $$+ q$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.7 Conductors and Electric Fields in Static Equilibrium",
+        "Problem Statement": "",
+        "Question": "(a) Find the electric field at $$x = 5.00 cm$$ in Figure 18.48(a), given that $$q = 1.00 \\text{muC}$$ . (b) At what position between 3.00 and 8.00 cm is the total electric field the same as that for $$-2 q$$ alone? (c) Can the electric field be zero anywhere between 0.00 and 8.00 cm? (d) At very large positive or negative values of x , the electric field approaches zero in both (a) and (b). In which does it most rapidly approach zero and why? (e) At what position to the right of 11.0 cm is the total electric field zero, other than at infinity? (Hint: A graphing calculator can yield considerable insight in this problem.)",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c31183d7bd0c5a78b2807d1e1a2cf1da7940b3c7"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.7 Conductors and Electric Fields in Static Equilibrium",
+        "Problem Statement": "",
+        "Question": "(a) Find the total Coulomb force on a charge of 2.00 nC located at $$x = 4.00 cm$$ in Figure 18.48 (b), given that $$q = 1.00 \\text{muC}$$ . (b) Find the x -position at which the electric field is zero in Figure 18.48 (b).",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c31183d7bd0c5a78b2807d1e1a2cf1da7940b3c7"
+        ],
+        "Answer": "(a) 0.252 N to the left (b) $$x = 6.07 cm$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.7 Conductors and Electric Fields in Static Equilibrium",
+        "Problem Statement": "",
+        "Question": "Using the symmetry of the arrangement, determine the direction of the force on $$q$$ in the figure below, given that $$q_{a} = q_{b} \\text{=+} 7 \\text{.} \\text{50} \\text{muC}$$ and $$q_{c} = q_{d} = - 7 \\text{.} \\text{50} \\text{muC}$$ . (b) Calculate the magnitude of the force on the charge $$q$$ , given that the square is 10.0 cm on a side and $$q = 2 \\text{.} \\text{00} \\text{muC}$$ . Figure 18.49",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/15639185a8eefdea53b6e9f862600556f027d105"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.7 Conductors and Electric Fields in Static Equilibrium",
+        "Problem Statement": "",
+        "Question": "(a) Using the symmetry of the arrangement, determine the direction of the electric field at the center of the square in Figure 18.49, given that $$q_{a} = q_{b} = - 1 \\text{.} \\text{00} \\text{muC}$$ and $$q_{c} = q_{d} \\text{=+} 1 \\text{.} \\text{00} \\text{muC}$$ . (b) Calculate the magnitude of the electric field at the location of $$q$$ , given that the square is 5.00 cm on a side.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/15639185a8eefdea53b6e9f862600556f027d105"
+        ],
+        "Answer": "(a)The electric field at the center of the square will be straight up, since $$q_{a}$$ and $$q_{b}$$ are positive and $$q_{c}$$ and $$q_{d}$$ are negative and all have the same magnitude. (b) $$2 \\text{.} \\text{04} \\times \\text{10}^{7} \\text{N/C} ( \\text{upward} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.7 Conductors and Electric Fields in Static Equilibrium",
+        "Problem Statement": "",
+        "Question": "Find the electric field at the location of $$q_{a}$$ in Figure 18.49 given that $$q_{b} = q_{c} = q_{d} \\text{=+} 2 \\text{.} \\text{00} \\text{nC}$$ , $$q = - 1 \\text{.} \\text{00} \\text{nC}$$ , and the square is 20.0 cm on a side.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/15639185a8eefdea53b6e9f862600556f027d105"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.7 Conductors and Electric Fields in Static Equilibrium",
+        "Problem Statement": "",
+        "Question": "Find the total Coulomb force on the charge $$q$$ in Figure 18.49, given that $$q = 1 \\text{.} \\text{00} \\text{muC}$$ , $$q_{a} = 2 \\text{.} \\text{00} \\text{muC}$$ , $$q_{b} = - 3 \\text{.} \\text{00} \\text{muC}$$ , $$q_{c} = - 4 \\text{.} \\text{00} \\text{muC}$$ , and $$q_{d} \\text{=+} 1 \\text{.} \\text{00} \\text{muC}$$ . The square is 50.0 cm on a side.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/15639185a8eefdea53b6e9f862600556f027d105"
+        ],
+        "Answer": "$$0 \\text{.} \\text{102} \\text{N} ,$$ in the $$- y$$ $$$$ $$$$ $$$$ direction",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.7 Conductors and Electric Fields in Static Equilibrium",
+        "Problem Statement": "",
+        "Question": "(a) Find the electric field at the location of $$q_{a}$$ in Figure 18.50, given that $$q_{\\text{b}} = +10.00 \\mu \\text{C}$$ and $$q_{\\text{c}} = -5.00 \\mu \\text{C}$$ . (b) What is the force on $$q_{a}$$ , given that $$q_{\\text{a}} = +1.50 \\text{nC}$$ ? Figure 18.50 Point charges located at the corners of an equilateral triangle 25.0 cm on a side.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ef42455e9cdb6f10f719844f63cbed467bf75eac"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.7 Conductors and Electric Fields in Static Equilibrium",
+        "Problem Statement": "",
+        "Question": "(a) Find the electric field at the center of the triangular configuration of charges in Figure 18.50, given that $$q_{a} \\text{=+} 2 \\text{.} \\text{50} \\text{nC}$$ , $$q_{b} = - 8 \\text{.} \\text{00} \\text{nC}$$ , and $$q_{c} \\text{=+} 1 \\text{.} \\text{50} \\text{nC}$$ . (b) Is there any combination of charges, other than $$q_{a} = q_{b} = q_{c}$$ , that will produce a zero strength electric field at the center of the triangular configuration?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ef42455e9cdb6f10f719844f63cbed467bf75eac"
+        ],
+        "Answer": "(a) $$\\vec{E} = 4.36 \\times \\text{10}^{3} \\text{N/C} , 35.0\u00ba$$ , below the horizontal. (b) No",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.8 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "(a) What is the electric field 5.00 m from the center of the terminal of a Van de Graaff with a 3.00 mC charge, noting that the field is equivalent to that of a point charge at the center of the terminal? (b) At this distance, what force does the field exert on a $$2.00 \\mu \\text{C}$$ charge on the Van de Graaff\u2019s belt?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.8 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "(a) What is the direction and magnitude of an electric field that supports the weight of a free electron near the surface of Earth? (b) Discuss what the small value for this field implies regarding the relative strength of the gravitational and electrostatic forces.",
+        "Image Links": [],
+        "Answer": "(a) $$5 \\text{.} \\text{58} \\times \\text{10}^{- \\text{11}} \\text{ N/C}$$ (b)the coulomb force is extraordinarily stronger than gravity",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.8 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "A simple and common technique for accelerating electrons is shown in Figure 18.51, where there is a uniform electric field between two plates. Electrons are released, usually from a hot filament, near the negative plate, and there is a small hole in the positive plate that allows the electrons to continue moving. (a) Calculate the acceleration of the electron if the field strength is $$2.50 \\times 10^{4} \\text{N/C}$$ . (b) Explain why the electron will not be pulled back to the positive plate once it moves through the hole. Figure 18.51 Parallel conducting plates with opposite charges on them create a relatively uniform electric field used to accelerate electrons to the right. Those that go through the hole can be used to make a TV or computer screen glow or to produce X-rays.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/18feb6f75819ef936dfedd8abbe271bf7dd1bc91"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.8 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "Earth has a net charge that produces an electric field of approximately 150 N/C downward at its surface. (a) What is the magnitude and sign of the excess charge, noting the electric field of a conducting sphere is equivalent to a point charge at its center? (b) What acceleration will the field produce on a free electron near Earth\u2019s surface? (c) What mass object with a single extra electron will have its weight supported by this field?",
+        "Image Links": [],
+        "Answer": "(a) $$- 6 \\text{.} \\text{76} \\times \\text{10}^{5} \\text{ C}$$ (b) $$2 \\text{.} \\text{63} \\times \\text{10}^{\\text{13}} \\text{m/s}^{2} ( \\text{upward} )$$ (c) $$2 \\text{.} \\text{45} \\times \\text{10}^{- \\text{18}} \\text{kg}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.8 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "Point charges of $$25.0 \\mu \\text{C}$$ and $$45.0 \\mu \\text{C}$$ are placed 0.500 m apart. (a) At what point along the line between them is the electric field zero? (b) What is the electric field halfway between them?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.8 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "What can you say about two charges $$q_{1}$$ and $$q_{2}$$ , if the electric field one-fourth of the way from $$q_{1}$$ to $$q_{2}$$ is zero?",
+        "Image Links": [],
+        "Answer": "The charge $$q_{2}$$ is 9 times greater than $$q_{1}$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.8 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts Calculate the angular velocity $$\u03c9$$ of an electron orbiting a proton in the hydrogen atom, given the radius of the orbit is $$0.530 \\times 10^{-10} \\text{m}$$ . You may assume that the proton is stationary and the centripetal force is supplied by Coulomb attraction.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.8 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts An electron has an initial velocity of $$5.00 \\times 10^{6} \\text{m/s}$$ in a uniform $$2.00 \\times 10^{5} \\text{N/C}$$ strength electric field. The field accelerates the electron in the direction opposite to its initial velocity. (a) What is the direction of the electric field? (b) How far does the electron travel before coming to rest? (c) How long does it take the electron to come to rest? (d) What is the electron\u2019s velocity when it returns to its starting point?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.8 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts The practical limit to an electric field in air is about $$3.00 \\times 10^{6} \\text{N/C}$$ . Above this strength, sparking takes place because air begins to ionize and charges flow, reducing the field. (a) Calculate the distance a free proton must travel in this field to reach $$3.00%$$ of the speed of light, starting from rest. (b) Is this practical in air, or must it occur in a vacuum?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.8 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts A 5.00 g charged insulating ball hangs on a 30.0 cm long string in a uniform horizontal electric field as shown in Figure 18.52. Given the charge on the ball is $$1.00 \\mu \\text{C}$$ , find the strength of the field. Figure 18.52 A horizontal electric field causes the charged ball to hang at an angle of $$8.00\u00ba$$ .",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2282ebe66a830b5daf9110369f44be9190d3fa83"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.8 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts Figure 18.53 shows an electron passing between two charged metal plates that create an 100 N/C vertical electric field perpendicular to the electron\u2019s original horizontal velocity. (These can be used to change the electron\u2019s direction, such as in an oscilloscope.) The initial speed of the electron is $$3.00 \\times 10^{6} \\text{m/s}$$ , and the horizontal distance it travels in the uniform field is 4.00 cm. (a) What is its vertical deflection? (b) What is the vertical component of its final velocity? (c) At what angle does it exit? Neglect any edge effects. Figure 18.53",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/4318f6991fa50e9a47861fff9e6deaa0a8d0d9e6"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.8 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts The classic Millikan oil drop experiment was the first to obtain an accurate measurement of the charge on an electron. In it, oil drops were suspended against the gravitational force by a vertical electric field. (See Figure 18.54.) Given the oil drop to be $$1.00 \\mu \\text{m}$$ in radius and have a density of $$920 kg/ m^{3}$$ : (a) Find the weight of the drop. (b) If the drop has a single excess electron, find the electric field strength needed to balance its weight. Figure 18.54 In the Millikan oil drop experiment, small drops can be suspended in an electric field by the force exerted on a single excess electron. Classically, this experiment was used to determine the electron charge $$q_{\\text{e}}$$ by measuring the electric field and mass of the drop.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9bab7754af12521234850dec2ab5e2ee9e57cec3"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.8 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts (a) In Figure 18.55, four equal charges $$q$$ lie on the corners of a square. A fifth charge $$Q$$ is on a mass $$m$$ directly above the center of the square, at a height equal to the length $$d$$ of one side of the square. Determine the magnitude of $$q$$ in terms of $$Q$$ , $$m$$ , and $$d$$ , if the Coulomb force is to equal the weight of $$m$$ . (b) Is this equilibrium stable or unstable? Discuss. Figure 18.55 Four equal charges on the corners of a horizontal square support the weight of a fifth charge located directly above the center of the square.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b72f5803b13dd9f47b501f8c5ae6a4f361b5316c"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.8 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "Unreasonable Results (a) Calculate the electric field strength near a 10.0 cm diameter conducting sphere that has 1.00 C of excess charge on it. (b) What is unreasonable about this result? (c) Which assumptions are responsible?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.8 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "Unreasonable Results (a) Two 0.500 g raindrops in a thunderhead are 1.00 cm apart when they each acquire 1.00 mC charges. Find their acceleration. (b) What is unreasonable about this result? (c) Which premise or assumption is responsible?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.8 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "Unreasonable Results A wrecking yard inventor wants to pick up cars by charging a 0.400 m diameter ball and inducing an equal and opposite charge on the car. If a car has a 1000 kg mass and the ball is to be able to lift it from a distance of 1.00 m: (a) What minimum charge must be used? (b) What is the electric field near the surface of the ball? (c) Why are these results unreasonable? (d) Which premise or assumption is responsible?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.8 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "Construct Your Own Problem Consider two insulating balls with evenly distributed equal and opposite charges on their surfaces, held with a certain distance between the centers of the balls. Construct a problem in which you calculate the electric field (magnitude and direction) due to the balls at various points along a line running through the centers of the balls and extending to infinity on either side. Choose interesting points and comment on the meaning of the field at those points. For example, at what points might the field be just that due to one ball and where does the field become negligibly small? Among the things to be considered are the magnitudes of the charges and the distance between the centers of the balls. Your instructor may wish for you to consider the electric field off axis or for a more complex array of charges, such as those in a water molecule.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.8 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "Construct Your Own Problem Consider identical spherical conducting space ships in deep space where gravitational fields from other bodies are negligible compared to the gravitational attraction between the ships. Construct a problem in which you place identical excess charges on the space ships to exactly counter their gravitational attraction. Calculate the amount of excess charge needed. Examine whether that charge depends on the distance between the centers of the ships, the masses of the ships, or any other factors. Discuss whether this would be an easy, difficult, or even impossible thing to do in practice.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "18.8 Applications of Electrostatics",
+        "Problem Statement": "",
+        "Question": "Critical Thinking A frictionless circular track with a diameter of 4.00 m has two spheres of 10.0 kg each anchored very near it. The track is oriented with a diameter along the x -axis. The anchored spheres are just outside the track. One of the anchored spheres is just left of the origin at a distance of $$1.00 \\times 10^{- 15} \\text{m}$$ from it, and the other is on the x -axis just right of the track at a distance of $$1.00 \\times 10^{- 15} \\text{m}$$ past $$( 4 , 0 )$$ . Each sphere carries a charge of $$2.00 \\times 10^{- 9} \\text{\u00a0C}$$ . (Note: The slight distance from the track is so the particles cannot collide, and does not enter into the calculations for three significant figures.) (a) A third sphere has a mass of 10.00 kg and carries a charge of $$- 1.00 \\times 10^{- 9} \\text{\u00a0C}$$ . It is free to move on the track. It is initially placed an equal length from the two anchored spheres at $$( 2.00 , 2.00 )$$ . What is the total force on the third sphere? (Be certain to include gravity between the spheres.) (b) Will the third sphere move? (c) Label the first two spheres A and B, and the movable sphere C. Now start sphere C at $$( 1.00 , 2.00 )$$ . What are the forces on sphere C? (d) Will sphere C now move? (e) If it does, where will it stop moving and reverse course? If it does not move, you may skip this part. (f) How many equilibrium points are there on the track at which the movable sphere will remain stationary? Where are they?",
+        "Image Links": [],
+        "Answer": "(a) The forces are balanced in the x -direction, so the net force is vertical. It is composed of the sum of the vertical components of the Coulomb force and the gravitational force. $$\\left .\\begin{matrix}{a}\\mathbf{F}_{y} = - 2 ( \\frac{k q_{1} q_{2}}{r^{2}} + G \\frac{m_{1} m_{2}}{r^{2}} ) \\cos{} 45 __{degree} = \\\\ - 2 ( \\frac{8.99 \\times 10^{9} ( 1.00 \\times 10^{- 9} ) ( 2.00 \\times 10^{- 9} )}{8} + 6.67 \\times 10^{- 11} \\frac{( 10.0 ) ( 10.0 )}{8} ) \\\\ \\cos{} 45 __{degree} = - 4.36 \\times 10^{- 9} \\text{\u00a0N}\\end{matrix}\\right .$$ (b) No, it is in a metastable position. Since it cannot move horizontally, it cannot traverse any part of the track. (c) $$\\left .\\begin{matrix}{a}\\mathbf{F}_{x} = - ( \\frac{k q_{1} q_{2}}{4} + G \\frac{m_{1} m_{2}}{4} ) \\frac{1}{2} + ( \\frac{k q_{1} q_{2}}{12} + G \\frac{m_{1} m_{2}}{12} ) \\frac{\\sqrt{3}}{2} = \\\\ - ( \\frac{8.99 \\times 10^{9} ( - 1.00 \\times 10^{- 9} ) ( 2.00 \\times 10^{- 9} )}{4} \\frac{1}{2} - 6.67 \\times 10^{- 11} \\frac{( 10.0 ) ( 10.0 )}{4} \\frac{1}{2} ) \\\\ + ( \\frac{8.99 \\times 10^{9} ( - 1.00 \\times 10^{- 9} ) ( 2.00 \\times 10^{- 9} )}{12} \\frac{\\sqrt{3}}{2} - 6.67 \\times 10^{- 11} \\frac{( 10.0 ) ( 10.0 )}{12} \\frac{\\sqrt{3}}{2} ) \\text{N} = \\text{2} \\text{.60} \\times \\text{10}^{- 9} \\text{\u00a0N}\\end{matrix}\\right .$$ $$\\left .\\begin{matrix}{a}\\mathbf{F}_{y} = - ( \\frac{k q_{1} q_{2}}{4} + G \\frac{m_{1} m_{2}}{4} ) \\frac{\\sqrt{3}}{2} - ( \\frac{k q_{1} q_{2}}{12} + G \\frac{m_{1} m_{2}}{12} ) \\frac{1}{2} = - 2.08 \\times 10^{- 9} \\text{\u00a0N} \\\\ - ( \\frac{8.99 \\times 10^{9} ( 1.00 \\times 10^{- 9} ) ( 2.00 \\times 10^{- 9} )}{4} \\frac{\\sqrt{3}}{2} - 6.67 \\times 10^{- 11} \\frac{( 10.0 ) ( 10.0 )}{4} \\frac{\\sqrt{3}}{2} ) \\\\ - ( \\frac{8.99 \\times 10^{9} ( 1.00 \\times 10^{- 9} ) ( 2.00 \\times 10^{- 9} )}{12} \\frac{1}{2} + 6.67 \\times 10^{- 11} \\frac{( 10.0 ) ( 10.0 )}{12} \\frac{1}{2} ) \\text{N} = - 6.36 \\times \\text{10}^{- 9} \\text{\u00a0N}\\end{matrix}\\right .$$ (d) Yes. (e) It will reach $$( 1 , - \\sqrt{3 )}$$ before it will change direction. (f) The metastable positions where there is no component in one direction are $$( 0 , 0 )$$ , $$( 4 , 0 )$$ , $$( 2 , 2 )$$ , and $$( 2 , - 2 )$$ . They number 4.",
+        "Answer Image Links": []
+    }
+]
