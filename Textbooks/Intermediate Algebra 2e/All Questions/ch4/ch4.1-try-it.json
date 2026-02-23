@@ -1,0 +1,210 @@
+[
+    {
+        "Topic": "Try It 4.1",
+        "Problem Statement": "",
+        "Question": "Determine whether the ordered pair is a solution to the system $$\\left .\\begin{matrix}{a}\\{ \\left .\\begin{matrix}{a}3 x + y = 0 \\\\ x + 2 y = -5\\end{matrix}\\right . . \\\\ \\end{matrix}\\right .$$ \u24d0 $$( 1 , -3 )$$ \u24d1 $$( 0 , 0 )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 yes \u24d1 no",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.2",
+        "Problem Statement": "",
+        "Question": "Determine whether the ordered pair is a solution to the system $$\\left .\\begin{matrix}{a}\\{ \\left .\\begin{matrix}{a}x - 3 y = -8 \\\\ - 3 x - y = 4\\end{matrix}\\right . . \\\\ \\end{matrix}\\right .$$ \u24d0 $$( 2 , -2 )$$ \u24d1 $$( -2 , 2 )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 no \u24d1 yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.3",
+        "Problem Statement": "",
+        "Question": "Solve the system by graphing: $$\\{ \\left .\\begin{matrix}{a}x - 3 y = -3 \\\\ x + y = 5\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "$$( 3 , 2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.4",
+        "Problem Statement": "",
+        "Question": "Solve the system by graphing: $$\\{ \\left .\\begin{matrix}{a}- x + y = 1 \\\\ 3 x + 2 y = 12\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "$$( 2 , 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.5",
+        "Problem Statement": "",
+        "Question": "Solve the system by graphing: $$\\{ \\left .\\begin{matrix}{a}- x + y = 1 \\\\ 2 x + y = 10\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "$$( 3 , 4 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.6",
+        "Problem Statement": "",
+        "Question": "Solve the system by graphing: $$\\{ \\left .\\begin{matrix}{a}2 x + y = 6 \\\\ x + y = 1\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "$$( 5 , -4 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.7",
+        "Problem Statement": "",
+        "Question": "Solve the system by graphing: $$\\{ \\left .\\begin{matrix}{a}y = - \\frac{1}{4} x + 2 \\\\ x + 4 y = - 8\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "no solution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.8",
+        "Problem Statement": "",
+        "Question": "Solve the system by graphing: $$\\{ \\left .\\begin{matrix}{a}y = 3 x - 1 \\\\ 6 x - 2 y = 6\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "no solution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.9",
+        "Problem Statement": "",
+        "Question": "Solve the system by graphing: $$\\{ \\left .\\begin{matrix}{a}y = - 3 x - 6 \\\\ 6 x + 2 y = - 12\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "infinitely many solutions",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.10",
+        "Problem Statement": "",
+        "Question": "Solve the system by graphing: $$\\{ \\left .\\begin{matrix}{a}y = \\frac{1}{2} x - 4 \\\\ 2 x - 4 y = 16\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "infinitely many solutions",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.11",
+        "Problem Statement": "",
+        "Question": "Without graphing, determine the number of solutions and then classify the system of equations. \u24d0 $$\\{ \\left .\\begin{matrix}{a}y = -2 x - 4 \\\\ 4 x + 2 y = 9\\end{matrix}\\right .$$ \u24d1 $$\\{ \\left .\\begin{matrix}{a}3 x + 2 y = 2 \\\\ 2 x + y = 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 no solution, inconsistent, independent \u24d1 one solution, consistent, independent",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.12",
+        "Problem Statement": "",
+        "Question": "Without graphing, determine the number of solutions and then classify the system of equations. \u24d0 $$\\{ \\left .\\begin{matrix}{a}y = \\frac{1}{3} x - 5 \\\\ x - 3 y = 6\\end{matrix}\\right .$$ \u24d1 $$\\{ \\left .\\begin{matrix}{a}x + 4 y = 12 \\\\ - x + y = 3\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 no solution, inconsistent, independent \u24d1 one solution, consistent, independent",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.13",
+        "Problem Statement": "",
+        "Question": "Solve the system by substitution: $$\\{ \\left .\\begin{matrix}{a}- 2 x + y = -11 \\\\ x + 3 y = 9\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "$$( 6 , 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.14",
+        "Problem Statement": "",
+        "Question": "Solve the system by substitution: $$\\{ \\left .\\begin{matrix}{a}2 x + y = -1 \\\\ 4 x + 3 y = 3\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "$$( -3 , 5 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.15",
+        "Problem Statement": "",
+        "Question": "Solve the system by substitution: $$\\{ \\left .\\begin{matrix}{a}x - 4 y = -4 \\\\ - 3 x + 4 y = 0\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "$$( 2 , \\frac{3}{2} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.16",
+        "Problem Statement": "",
+        "Question": "Solve the system by substitution: $$\\{ \\left .\\begin{matrix}{a}4 x - y = 0 \\\\ 2 x - 3 y = 5\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "$$( - \\frac{1}{2} , -2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.17",
+        "Problem Statement": "",
+        "Question": "Solve the system by elimination: $$\\{ \\left .\\begin{matrix}{a}3 x + y = 5 \\\\ 2 x - 3 y = 7\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "$$( 2 , -1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.18",
+        "Problem Statement": "",
+        "Question": "Solve the system by elimination: $$\\{ \\left .\\begin{matrix}{a}4 x + y = - 5 \\\\ - 2 x - 2 y = - 2\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "$$( -2 , 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.19",
+        "Problem Statement": "",
+        "Question": "Solve the system by elimination: $$\\{ \\left .\\begin{matrix}{a}3 x - 4 y = - 9 \\\\ 5 x + 3 y = 14\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "$$( 1 , 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.20",
+        "Problem Statement": "",
+        "Question": "Solve each system by elimination: $$\\{ \\left .\\begin{matrix}{a}7 x + 8 y = 4 \\\\ 3 x - 5 y = 27\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "$$( 4 , -3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.21",
+        "Problem Statement": "",
+        "Question": "Solve each system by elimination: $$\\{ \\left .\\begin{matrix}{a}\\frac{1}{3} x - \\frac{1}{2} y = 1 \\\\ \\frac{3}{4} x - y = \\frac{5}{2}\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "$$( 6 , 2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.22",
+        "Problem Statement": "",
+        "Question": "Solve each system by elimination: $$\\{ \\left .\\begin{matrix}{a}x + \\frac{3}{5} y = - \\frac{1}{5} \\\\ - \\frac{1}{2} x - \\frac{2}{3} y = \\frac{5}{6}\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "$$( 1 , -2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.23",
+        "Problem Statement": "",
+        "Question": "Solve the system by elimination: $$\\{ \\left .\\begin{matrix}{a}5 x - 3 y = 15 \\\\ y = - 5 + \\frac{5}{3} x\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "infinitely many solutions",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.24",
+        "Problem Statement": "",
+        "Question": "Solve the system by elimination: $$\\{ \\left .\\begin{matrix}{a}x + 2 y = 6 \\\\ y = - \\frac{1}{2} x + 3\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "infinitely many solutions",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.25",
+        "Problem Statement": "",
+        "Question": "For each system of linear equations decide whether it would be more convenient to solve it by substitution or elimination. Explain your answer. \u24d0 $$\\{ \\left .\\begin{matrix}{a}4 x - 5 y = -32 \\\\ 3 x + 2 y = -1\\end{matrix}\\right .$$ \u24d1 $$\\{ \\left .\\begin{matrix}{a}x = 2 y - 1 \\\\ 3 x - 5 y = -7\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 Since both equations are in standard form, using elimination will be most convenient. \u24d1 Since one equation is already solved for x , using substitution will be most convenient.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.26",
+        "Problem Statement": "",
+        "Question": "For each system of linear equations decide whether it would be more convenient to solve it by substitution or elimination. Explain your answer. \u24d0 $$\\{ \\left .\\begin{matrix}{a}y = 2 x - 1 \\\\ 3 x - 4 y = - 6\\end{matrix}\\right .$$ \u24d1 $$\\{ \\left .\\begin{matrix}{a}6 x - 2 y = 12 \\\\ 3 x + 7 y = -13\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 Since one equation is already solved for y , using substitution will be most convenient. \u24d1 Since both equations are in standard form, using elimination will be most convenient.",
+        "Answer Image Links": []
+    }
+]

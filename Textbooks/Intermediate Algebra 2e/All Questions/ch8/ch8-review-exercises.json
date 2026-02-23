@@ -1,0 +1,790 @@
+[
+    {
+        "Topic": "Simplify Expressions with Roots",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$\\sqrt{225}$$ \u24d1 $$\\text{unicode[:-]} \\sqrt{16}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 15 \u24d1 $$-4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Expressions with Roots",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$\\text{unicode[:-]} \\sqrt{169}$$ \u24d1 $$\\sqrt{-8}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Expressions with Roots",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$\\sqrt[3]{8}$$ \u24d1 $$\\sqrt[4]{81}$$ \u24d2 $$\\sqrt[5]{243}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 2 \u24d1 3 \u24d2 3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Expressions with Roots",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$\\sqrt[3]{-512}$$ \u24d1 $$\\sqrt[4]{-81}$$ \u24d2 $$\\sqrt[5]{-1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Expressions with Roots",
+        "Problem Statement": "In the following exercises, estimate each root between two consecutive whole numbers.",
+        "Question": "\u24d0 $$\\sqrt{68}$$ \u24d1 $$\\sqrt[3]{84}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$8 < \\sqrt{68} < 9$$ \u24d1 $$4 < \\sqrt[3]{84} < 5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Expressions with Roots",
+        "Problem Statement": "In the following exercises, approximate each root and round to two decimal places.",
+        "Question": "\u24d0 $$\\sqrt{37}$$ \u24d1 $$\\sqrt[3]{84}$$ \u24d2 $$\\sqrt[4]{125}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Expressions with Roots",
+        "Problem Statement": "In the following exercises, simplify using absolute values as necessary.",
+        "Question": "\u24d0 $$\\sqrt[3]{a^{3}}$$ \u24d1 $$\\sqrt[7]{b^{7}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 a \u24d1 $$b$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Expressions with Roots",
+        "Problem Statement": "In the following exercises, simplify using absolute values as necessary.",
+        "Question": "\u24d0 $$\\sqrt{a^{14}}$$ \u24d1 $$\\sqrt{w^{24}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Expressions with Roots",
+        "Problem Statement": "In the following exercises, simplify using absolute values as necessary.",
+        "Question": "\u24d0 $$\\sqrt[4]{m^{8}}$$ \u24d1 $$\\sqrt[5]{n^{20}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$m^{2}$$ \u24d1 $$n^{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Expressions with Roots",
+        "Problem Statement": "In the following exercises, simplify using absolute values as necessary.",
+        "Question": "\u24d0 $$\\sqrt{121 m^{20}}$$ \u24d1 $$\\text{unicode[:-]} \\sqrt{64 a^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Expressions with Roots",
+        "Problem Statement": "In the following exercises, simplify using absolute values as necessary.",
+        "Question": "\u24d0 $$\\sqrt[3]{216 a^{6}}$$ \u24d1 $$\\sqrt[5]{32 b^{20}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$6 a^{2}$$ \u24d1 $$2 b^{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Expressions with Roots",
+        "Problem Statement": "In the following exercises, simplify using absolute values as necessary.",
+        "Question": "\u24d0 $$\\sqrt{144 x^{2} y^{2}}$$ \u24d1 $$\\sqrt{169 w^{8} y^{10}}$$ \u24d2 $$\\sqrt[3]{8 a^{51} b^{6}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Radical Expressions",
+        "Problem Statement": "In the following exercises, use the Product Property to simplify radical expressions.",
+        "Question": "$$\\sqrt{125}$$",
+        "Image Links": [],
+        "Answer": "$$5 \\sqrt{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Radical Expressions",
+        "Problem Statement": "In the following exercises, use the Product Property to simplify radical expressions.",
+        "Question": "$$\\sqrt{675}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Radical Expressions",
+        "Problem Statement": "In the following exercises, use the Product Property to simplify radical expressions.",
+        "Question": "\u24d0 $$\\sqrt[3]{625}$$ \u24d1 $$\\sqrt[6]{128}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$5 \\sqrt[3]{5}$$ \u24d1 $$2 \\sqrt[6]{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Radical Expressions",
+        "Problem Statement": "In the following exercises, simplify using absolute value signs as needed.",
+        "Question": "\u24d0 $$\\sqrt{a^{23}}$$ \u24d1 $$\\sqrt[3]{b^{8}}$$ \u24d2 $$\\sqrt[8]{c^{13}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Radical Expressions",
+        "Problem Statement": "In the following exercises, simplify using absolute value signs as needed.",
+        "Question": "\u24d0 $$\\sqrt{80 s^{15}}$$ \u24d1 $$\\sqrt[5]{96 a^{7}}$$ \u24d2 $$\\sqrt[6]{128 b^{7}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$4 | s^{7} | \\sqrt[]{5 s}$$ \u24d1 $$2 a \\sqrt[5]{3 a^{2}}$$ \u24d2 $$2 | b | \\sqrt[6]{2 b}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Radical Expressions",
+        "Problem Statement": "In the following exercises, simplify using absolute value signs as needed.",
+        "Question": "\u24d0 $$\\sqrt{96 r^{3} s^{3}}$$ \u24d1 $$\\sqrt[3]{80 x^{7} y^{6}}$$ \u24d2 $$\\sqrt[4]{80 x^{8} y^{9}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Radical Expressions",
+        "Problem Statement": "In the following exercises, simplify using absolute value signs as needed.",
+        "Question": "\u24d0 $$\\sqrt[5]{-32}$$ \u24d1 $$\\sqrt[8]{-1}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-2$$ \u24d1 not real",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Radical Expressions",
+        "Problem Statement": "In the following exercises, simplify using absolute value signs as needed.",
+        "Question": "\u24d0 $$8 + \\sqrt{96}$$ \u24d1 $$\\frac{2 + \\sqrt{40}}{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Radical Expressions",
+        "Problem Statement": "In the following exercises, use the Quotient Property to simplify square roots.",
+        "Question": "\u24d0 $$\\sqrt{\\frac{72}{98}}$$ \u24d1 $$\\sqrt[3]{\\frac{24}{81}}$$ \u24d2 $$\\sqrt[4]{\\frac{6}{96}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{6}{7}$$ \u24d1 $$\\frac{2}{3}$$ \u24d2 $$\\frac{1}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Radical Expressions",
+        "Problem Statement": "In the following exercises, use the Quotient Property to simplify square roots.",
+        "Question": "\u24d0 $$\\sqrt{\\frac{y^{4}}{y^{8}}}$$ \u24d1 $$\\sqrt[5]{\\frac{u^{21}}{u^{11}}}$$ \u24d2 $$\\sqrt[6]{\\frac{v^{30}}{v^{12}}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Radical Expressions",
+        "Problem Statement": "In the following exercises, use the Quotient Property to simplify square roots.",
+        "Question": "$$\\sqrt{\\frac{300 m^{5}}{64}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{5 m^{2} \\sqrt{3 m}}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Radical Expressions",
+        "Problem Statement": "In the following exercises, use the Quotient Property to simplify square roots.",
+        "Question": "\u24d0 $$\\sqrt{\\frac{28 p^{7}}{q^{2}}}$$ \u24d1 $$\\sqrt[3]{\\frac{81 s^{8}}{t^{3}}}$$ \u24d2 $$\\sqrt[4]{\\frac{64 p^{15}}{q^{12}}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Radical Expressions",
+        "Problem Statement": "In the following exercises, use the Quotient Property to simplify square roots.",
+        "Question": "\u24d0 $$\\sqrt{\\frac{27 p^{2} q}{108 p^{4} q^{3}}}$$ \u24d1 $$\\sqrt[3]{\\frac{16 c^{5} d^{7}}{250 c^{2} d^{2}}}$$ \u24d2 $$\\sqrt[6]{\\frac{2 m^{9} n^{7}}{128 m^{3} n}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{1}{2 | p q |}$$ \u24d1 $$\\frac{2 c d}{5} \\sqrt[3]{d^{2}}$$ \u24d2 $$\\frac{| m n |}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Radical Expressions",
+        "Problem Statement": "In the following exercises, use the Quotient Property to simplify square roots.",
+        "Question": "\u24d0 $$\\frac{\\sqrt{80 q^{5}}}{\\sqrt{5 q}}$$ \u24d1 $$\\frac{\\sqrt[3]{- 625}}{\\sqrt[3]{5}}$$ \u24d2 $$\\frac{\\sqrt[4]{80 m^{7}}}{\\sqrt[4]{5 m}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Rational Exponents",
+        "Problem Statement": "In the following exercises, write as a radical expression.",
+        "Question": "\u24d0 $$r^{\\frac{1}{2}}$$ \u24d1 $$s^{\\frac{1}{3}}$$ \u24d2 $$t^{\\frac{1}{4}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\sqrt{r}$$ \u24d1 $$\\sqrt[3]{s}$$ \u24d2 $$\\sqrt[4]{t}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Rational Exponents",
+        "Problem Statement": "In the following exercises, write with a rational exponent.",
+        "Question": "\u24d0 $$\\sqrt{21 p}$$ \u24d1 $$\\sqrt[4]{8 q}$$ \u24d2 $$4 \\sqrt[6]{36 r}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Rational Exponents",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$625^{\\frac{1}{4}}$$ \u24d1 $$243^{\\frac{1}{5}}$$ \u24d2 $$32^{\\frac{1}{5}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 5 \u24d1 3 \u24d2 2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Rational Exponents",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$( -1,000 )^{\\frac{1}{3}}$$ \u24d1 $$\\text{unicode[:-]} 1,000^{\\frac{1}{3}}$$ \u24d2 $$( 1,000 )^{- \\frac{1}{3}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Rational Exponents",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$( -32 )^{\\frac{1}{5}}$$ \u24d1 $$( 243 )^{- \\frac{1}{5}}$$ \u24d2 $$\\text{unicode[:-]} 125^{\\frac{1}{3}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-2$$ \u24d1 $$\\frac{1}{3}$$ \u24d2 $$-5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Rational Exponents",
+        "Problem Statement": "In the following exercises, write with a rational exponent.",
+        "Question": "\u24d0 $$\\sqrt[4]{r^{7}}$$ \u24d1 $$( \\sqrt[5]{2 p q} )^{3}$$ \u24d2 $$\\sqrt[4]{( \\frac{12 m}{7 n} )^{3}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Rational Exponents",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$25^{\\frac{3}{2}}$$ \u24d1 $$9^{- \\frac{3}{2}}$$ \u24d2 $$( -64 )^{\\frac{2}{3}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 125 \u24d1 $$\\frac{1}{27}$$ \u24d2 16",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Rational Exponents",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$\\text{unicode[:-]} 64^{\\frac{3}{2}}$$ \u24d1 $$\\text{unicode[:-]} 64^{- \\frac{3}{2}}$$ \u24d2 $$( -64 )^{\\frac{3}{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Rational Exponents",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$6^{\\frac{5}{2}} \\cdotp 6^{\\frac{1}{2}}$$ \u24d1 $$( b^{15} )^{\\frac{3}{5}}$$ \u24d2 $$\\frac{w^{\\frac{2}{7}}}{w^{\\frac{9}{7}}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$6^{3}$$ \u24d1 $$b^{9}$$ \u24d2 $$\\frac{1}{w}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Rational Exponents",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$\\frac{a^{\\frac{3}{4}} \\cdotp a^{- \\frac{1}{4}}}{a^{- \\frac{10}{4}}}$$ \u24d1 $$( \\frac{27 \\text{\u200b} b^{\\frac{2}{3}} \\text{\u200b} c^{- \\frac{5}{2}}}{b^{- \\frac{7}{3}} c^{\\frac{1}{2}}} )^{\\frac{1}{3}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add, Subtract and Multiply Radical Expressions",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$7 \\sqrt{2} - 3 \\sqrt{2}$$ \u24d1 $$7 \\sqrt[3]{p} + 2 \\sqrt[3]{p}$$ \u24d2 $$5 \\sqrt[3]{x} - 3 \\sqrt[3]{x}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$4 \\sqrt{2}$$ \u24d1 $$9 \\sqrt[3]{p}$$ \u24d2 $$2 \\sqrt[3]{x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add, Subtract and Multiply Radical Expressions",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$\\sqrt{11 b} - 5 \\sqrt{11 b} + 3 \\sqrt{11 b}$$ \u24d1 $$8 \\sqrt[4]{11 c d} + 5 \\sqrt[4]{11 c d} - 9 \\sqrt[4]{11 c d}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add, Subtract and Multiply Radical Expressions",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$\\sqrt{48} + \\sqrt{27}$$ \u24d1 $$\\sqrt[3]{54} + \\sqrt[3]{128}$$ \u24d2 $$6 \\sqrt[4]{5} - \\frac{3}{2} \\sqrt[4]{80}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$7 \\sqrt{3}$$ \u24d1 $$7 \\sqrt[3]{2}$$ \u24d2 $$3 \\sqrt[4]{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add, Subtract and Multiply Radical Expressions",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$\\sqrt{80 c^{7}} - \\sqrt{20 c^{7}}$$ \u24d1 $$2 \\sqrt[4]{162 r^{10}} + 4 \\sqrt[4]{32 r^{10}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add, Subtract and Multiply Radical Expressions",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$3 \\sqrt{75 y^{2}} + 8 y \\sqrt{48} - \\sqrt{300 y^{2}}$$",
+        "Image Links": [],
+        "Answer": "$$37 y \\sqrt{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add, Subtract and Multiply Radical Expressions",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$( 5 \\sqrt{6} ) ( \\text{unicode[:-]} \\sqrt{12} )$$ \u24d1 $$( -2 \\sqrt[4]{18} ) ( \\text{unicode[:-]} \\sqrt[4]{9} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add, Subtract and Multiply Radical Expressions",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$( 3 \\sqrt{2 x^{3}} ) ( 7 \\sqrt{18 x^{2}} )$$ \u24d1 $$( -6 \\sqrt[3]{20 a^{2}} ) ( -2 \\sqrt[3]{16 a^{3}} )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$126 x^{2} \\sqrt{x}$$ \u24d1 $$48 a \\sqrt[3]{5 a^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add, Subtract and Multiply Radical Expressions",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "\u24d0 $$\\sqrt{11} ( 8 + 4 \\sqrt{11} )$$ \u24d1 $$\\sqrt[3]{3} ( \\sqrt[3]{9} + \\sqrt[3]{18} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add, Subtract and Multiply Radical Expressions",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "\u24d0 $$( 3 - 2 \\sqrt{7} ) ( 5 - 4 \\sqrt{7} )$$ \u24d1 $$( \\sqrt[3]{x} - 5 ) ( \\sqrt[3]{x} - 3 )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$71 - 22 \\sqrt{7}$$ \u24d1 $$\\sqrt[3]{x^{2}} - 8 \\sqrt[3]{x} + 15$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add, Subtract and Multiply Radical Expressions",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( 2 \\sqrt{7} - 5 \\sqrt{11} ) ( 4 \\sqrt{7} + 9 \\sqrt{11} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add, Subtract and Multiply Radical Expressions",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "\u24d0 $$( 4 + \\sqrt{11} )^{2}$$ \u24d1 $$( 3 - 2 \\sqrt{5} )^{2}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$27 + 8 \\sqrt{11}$$ \u24d1 $$29 - 12 \\sqrt{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add, Subtract and Multiply Radical Expressions",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( 7 + \\sqrt{10} ) ( 7 - \\sqrt{10} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add, Subtract and Multiply Radical Expressions",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( \\sqrt[3]{3 x} + 2 ) ( \\sqrt[3]{3 x} - 2 )$$",
+        "Image Links": [],
+        "Answer": "$$\\sqrt[3]{9 x^{2}} - 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Divide Radical Expressions",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$\\frac{\\sqrt{48}}{\\sqrt{75}}$$ \u24d1 $$\\frac{\\sqrt[3]{81}}{\\sqrt[3]{24}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Divide Radical Expressions",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$\\frac{\\sqrt{320 m n^{-5}}}{\\sqrt{45 m^{-7} n^{3}}}$$ \u24d1 $$\\frac{\\sqrt[3]{16 x^{4} y^{-2}}}{\\sqrt[3]{-54 x^{-2} y^{4}}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{8 m^{4}}{3 n^{4}}$$ \u24d1 $$- \\frac{2 x^{2}}{3 y^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Divide Radical Expressions",
+        "Problem Statement": "In the following exercises, rationalize the denominator.",
+        "Question": "\u24d0 $$\\frac{8}{\\sqrt{3}}$$ \u24d1 $$\\sqrt{\\frac{7}{40}}$$ \u24d2 $$\\frac{8}{\\sqrt{2 y}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Divide Radical Expressions",
+        "Problem Statement": "In the following exercises, rationalize the denominator.",
+        "Question": "\u24d0 $$\\frac{1}{\\sqrt[3]{11}}$$ \u24d1 $$\\sqrt[3]{\\frac{7}{54}}$$ \u24d2 $$\\frac{3}{\\sqrt[3]{3 x^{2}}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{\\sqrt[3]{121}}{11}$$ \u24d1 $$\\frac{\\sqrt[3]{28}}{6}$$ \u24d2 $$\\frac{\\sqrt[3]{9 x}}{x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Divide Radical Expressions",
+        "Problem Statement": "In the following exercises, rationalize the denominator.",
+        "Question": "\u24d0 $$\\frac{1}{\\sqrt[4]{4}}$$ \u24d1 $$\\sqrt[4]{\\frac{9}{32}}$$ \u24d2 $$\\frac{6}{\\sqrt[4]{9 x^{3}}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Divide Radical Expressions",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\frac{7}{2 - \\sqrt{6}}$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{7 ( 2 + \\sqrt{6} )}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Divide Radical Expressions",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\frac{\\sqrt{5}}{\\sqrt{n} - \\sqrt{7}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Divide Radical Expressions",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\frac{\\sqrt{x} + \\sqrt{8}}{\\sqrt{x} - \\sqrt{8}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{( \\sqrt{x} + 2 \\sqrt{2} )}{x - 8}^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Radical Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$\\sqrt{4 x - 3} = 7$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Radical Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$\\sqrt{5 x + 1} = -3$$",
+        "Image Links": [],
+        "Answer": "no solution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Radical Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$\\sqrt[3]{4 x - 1} = 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Radical Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$\\sqrt{u - 3} + 3 = u$$",
+        "Image Links": [],
+        "Answer": "$$u = 3 , u = 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Radical Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$\\sqrt[3]{4 x + 5} - 2 = -5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Radical Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$( 8 x + 5 )^{\\frac{1}{3}} + 2 = -1$$",
+        "Image Links": [],
+        "Answer": "$$x = -4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Radical Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$\\sqrt{y + 4} - y + 2 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Radical Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$2 \\sqrt{8 r + 1} - 8 = 2$$",
+        "Image Links": [],
+        "Answer": "$$r = 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Radical Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$\\sqrt{10 + 2 c} = \\sqrt{4 c + 16}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Radical Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$\\sqrt[3]{2 x^{2} + 9 x - 18} = \\sqrt[3]{x^{2} + 3 x - 2}$$",
+        "Image Links": [],
+        "Answer": "$$x = -8 , x = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Radical Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$\\sqrt{r} + 6 = \\sqrt{r + 8}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Radical Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$\\sqrt{x + 1} - \\sqrt{x - 2} = 1$$",
+        "Image Links": [],
+        "Answer": "$$x = 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Radical Equations",
+        "Problem Statement": "In the following exercises, solve. Round approximations to one decimal place.",
+        "Question": "Landscaping Reed wants to have a square garden plot in his backyard. He has enough compost to cover an area of 75 square feet. Use the formula $$s = \\sqrt{A}$$ to find the length of each side of his garden. Round your answer to the nearest tenth of a foot.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Radical Equations",
+        "Problem Statement": "In the following exercises, solve. Round approximations to one decimal place.",
+        "Question": "Accident investigation An accident investigator measured the skid marks of one of the vehicles involved in an accident. The length of the skid marks was 175 feet. Use the formula $$s = \\sqrt{24 d}$$ to find the speed of the vehicle before the brakes were applied. Round your answer to the nearest tenth.",
+        "Image Links": [],
+        "Answer": "$$64.8$$ feet",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use Radicals in Functions",
+        "Problem Statement": "In the following exercises, evaluate each function.",
+        "Question": "$$g ( x ) = \\sqrt{6 x + 1} ,$$ find \u24d0 $$g ( 4 )$$ \u24d1 $$g ( 8 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use Radicals in Functions",
+        "Problem Statement": "In the following exercises, evaluate each function.",
+        "Question": "$$G ( x ) = \\sqrt{5 x - 1} ,$$ find \u24d0 $$G ( 5 )$$ \u24d1 $$G ( 2 )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$G ( 5 ) = 2 \\sqrt{6}$$ \u24d1 $$G ( 2 ) = 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use Radicals in Functions",
+        "Problem Statement": "In the following exercises, evaluate each function.",
+        "Question": "$$h ( x ) = \\sqrt[3]{x^{2} - 4} ,$$ find \u24d0 $$h ( -2 )$$ \u24d1 $$h ( 6 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use Radicals in Functions",
+        "Problem Statement": "In the following exercises, evaluate each function.",
+        "Question": "For the function $$g ( x ) = \\sqrt[4]{4 - 4 x} ,$$ find \u24d0 $$g ( 1 )$$ \u24d1 $$g ( -3 )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$g ( 1 ) = 0$$ \u24d1 $$g ( -3 ) = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use Radicals in Functions",
+        "Problem Statement": "In the following exercises, find the domain of the function and write the domain in interval notation.",
+        "Question": "$$g ( x ) = \\sqrt{2 - 3 x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use Radicals in Functions",
+        "Problem Statement": "In the following exercises, find the domain of the function and write the domain in interval notation.",
+        "Question": "$$F ( x ) = \\sqrt{\\frac{x + 3}{x - 2}}$$",
+        "Image Links": [],
+        "Answer": "$$( 2 , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use Radicals in Functions",
+        "Problem Statement": "In the following exercises, find the domain of the function and write the domain in interval notation.",
+        "Question": "$$f ( x ) = \\sqrt[3]{4 x^{2} - 16}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use Radicals in Functions",
+        "Problem Statement": "In the following exercises, find the domain of the function and write the domain in interval notation.",
+        "Question": "$$F ( x ) = \\sqrt[4]{10 - 7 x}$$",
+        "Image Links": [],
+        "Answer": "$$( - \\infty , \\frac{10}{7} ]$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use Radicals in Functions",
+        "Problem Statement": "In the following exercises, \u24d0 find the domain of the function \u24d1 graph the function \u24d2 use the graph to determine the range.",
+        "Question": "$$g ( x ) = \\sqrt{x + 4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use Radicals in Functions",
+        "Problem Statement": "In the following exercises, \u24d0 find the domain of the function \u24d1 graph the function \u24d2 use the graph to determine the range.",
+        "Question": "$$g ( x ) = 2 \\sqrt{x}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 domain: $$[ 0 , \\infty )$$ \u24d1 \u24d2 range: $$[ 0 , \\infty )$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/676a64b0d2ec6a886fbd3d4a1c1130d577230bfd"
+        ]
+    },
+    {
+        "Topic": "Use Radicals in Functions",
+        "Problem Statement": "In the following exercises, \u24d0 find the domain of the function \u24d1 graph the function \u24d2 use the graph to determine the range.",
+        "Question": "$$f ( x ) = \\sqrt[3]{x - 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use Radicals in Functions",
+        "Problem Statement": "In the following exercises, \u24d0 find the domain of the function \u24d1 graph the function \u24d2 use the graph to determine the range.",
+        "Question": "$$f ( x ) = \\sqrt[3]{x} + 3$$",
+        "Image Links": [],
+        "Answer": "\u24d0 domain: $$( \\text{unicode[:-]} \\infty , \\infty )$$ \u24d1 \u24d2 range: $$( \\text{unicode[:-]} \\infty , \\infty )$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b0f6341a15bc6c57ac0d80ca4a8c824e5a39e5f9"
+        ]
+    },
+    {
+        "Topic": "Use the Complex Number System",
+        "Problem Statement": "In the following exercises, write each expression in terms of i and simplify if possible.",
+        "Question": "\u24d0 $$\\sqrt{-100}$$ \u24d1 $$\\sqrt{-13}$$ \u24d2 $$\\sqrt{-45}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Complex Number System",
+        "Problem Statement": "In the following exercises, add or subtract.",
+        "Question": "$$\\sqrt{-50} + \\sqrt{-18}$$",
+        "Image Links": [],
+        "Answer": "$$8 \\sqrt{2} i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Complex Number System",
+        "Problem Statement": "In the following exercises, add or subtract.",
+        "Question": "$$( 8 - i ) + ( 6 + 3 i )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Complex Number System",
+        "Problem Statement": "In the following exercises, add or subtract.",
+        "Question": "$$( 6 + i ) - ( -2 - 4 i )$$",
+        "Image Links": [],
+        "Answer": "$$8 + 5 i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Complex Number System",
+        "Problem Statement": "In the following exercises, add or subtract.",
+        "Question": "$$( -7 - \\sqrt{-50} ) - ( -32 - \\sqrt{-18} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Complex Number System",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( -2 - 5 i ) ( -4 + 3 i )$$",
+        "Image Links": [],
+        "Answer": "$$23 + 14 i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Complex Number System",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$-6 i ( -3 - 2 i )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Complex Number System",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$\\sqrt{-4} \\cdotp \\sqrt{-16}$$",
+        "Image Links": [],
+        "Answer": "$$-8$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Complex Number System",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( 5 - \\sqrt{-12} ) ( -3 + \\sqrt{-75} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Complex Number System",
+        "Problem Statement": "In the following exercises, multiply using the Product of Binomial Squares Pattern.",
+        "Question": "$$( -2 - 3 i )^{2}$$",
+        "Image Links": [],
+        "Answer": "$$-5 + 12 i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Complex Number System",
+        "Problem Statement": "In the following exercises, multiply using the Product of Complex Conjugates Pattern.",
+        "Question": "$$( 9 - 2 i ) ( 9 + 2 i )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Complex Number System",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "$$\\frac{2 + i}{3 - 4 i}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2}{25} + \\frac{11}{25} i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Complex Number System",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "$$\\frac{-4}{3 - 2 i}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Complex Number System",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$i^{48}$$",
+        "Image Links": [],
+        "Answer": "1",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Complex Number System",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$i^{255}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "Topic": "Try It 7.65",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\frac{1}{y} + \\frac{2}{3} = \\frac{1}{5} .$$",
+        "Image Links": [],
+        "Answer": "$$y = - \\frac{15}{7}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.66",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\frac{2}{3} + \\frac{1}{5} = \\frac{1}{x} .$$",
+        "Image Links": [],
+        "Answer": "$$x = \\frac{15}{13}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.67",
+        "Problem Statement": "",
+        "Question": "Solve: $$1 - \\frac{2}{x} = \\frac{15}{x^{2}} .$$",
+        "Image Links": [],
+        "Answer": "$$x = -3 , x = 5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.68",
+        "Problem Statement": "",
+        "Question": "Solve: $$1 - \\frac{4}{y} = \\frac{12}{y^{2}} .$$",
+        "Image Links": [],
+        "Answer": "$$y = -2 , y = 6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.69",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\frac{2}{x + 1} + \\frac{1}{x - 1} = \\frac{1}{x^{2} - 1} .$$",
+        "Image Links": [],
+        "Answer": "$$x = \\frac{2}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.70",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\frac{5}{y + 3} + \\frac{2}{y - 3} = \\frac{5}{y^{2} - 9} .$$",
+        "Image Links": [],
+        "Answer": "$$y = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.71",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\frac{x + 13}{x^{2} - 7 x + 10} = \\frac{6}{x - 5} - \\frac{4}{x - 2} .$$",
+        "Image Links": [],
+        "Answer": "There is no solution.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.72",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\frac{y - 6}{y^{2} + 3 y - 4} = \\frac{2}{y + 4} + \\frac{7}{y - 1} .$$",
+        "Image Links": [],
+        "Answer": "There is no solution.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.73",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\frac{x}{x + 4} = \\frac{32}{x^{2} - 16} + 5 .$$",
+        "Image Links": [],
+        "Answer": "$$x = 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.74",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\frac{y}{y + 8} = \\frac{128}{y^{2} - 64} + 9 .$$",
+        "Image Links": [],
+        "Answer": "$$y = 7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.75",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\frac{y}{5 y - 10} - \\frac{5}{3 y + 6} = \\frac{2 y^{2} - 19 y + 54}{15 y^{2} - 60} .$$",
+        "Image Links": [],
+        "Answer": "There is no solution.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.76",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\frac{z}{2 z + 8} - \\frac{3}{4 z - 8} = \\frac{3 z^{2} - 16 z - 16}{8 z^{2} + 16 z - 64} .$$",
+        "Image Links": [],
+        "Answer": "There is no solution.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.77",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\frac{15}{x^{2} + x - 6} - \\frac{3}{x - 2} = \\frac{2}{x + 3} .$$",
+        "Image Links": [],
+        "Answer": "There is no solution.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.78",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\frac{5}{x^{2} + 2 x - 3} - \\frac{3}{x^{2} + x - 2} = \\frac{1}{x^{2} + 5 x + 6} .$$",
+        "Image Links": [],
+        "Answer": "There is no solution.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.79",
+        "Problem Statement": "",
+        "Question": "For rational function, $$f ( x ) = \\frac{8 - x}{x^{2} - 7 x + 12} ,$$ \u24d0 find the domain of the function \u24d1 solve $$f ( x ) = 3$$ \u24d2 find the points on the graph at this function value.",
+        "Image Links": [],
+        "Answer": "\u24d0 The domain is all real numbers except $$x \\ne 3$$ and $$x \\ne 4 .$$ \u24d1 $$x = 2 , x = \\frac{14}{3}$$ \u24d2 $$( 2 , 3 ) , ( \\frac{14}{3} , 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.80",
+        "Problem Statement": "",
+        "Question": "For rational function, $$f ( x ) = \\frac{x - 1}{x^{2} - 6 x + 5} ,$$ \u24d0 find the domain of the function \u24d1 solve $$f ( x ) = 4$$ \u24d2 find the points on the graph at this function value.",
+        "Image Links": [],
+        "Answer": "\u24d0 The domain is all real numbers except $$x \\ne 1$$ and $$x \\ne 5 .$$ \u24d1 $$x = \\frac{21}{4}$$ \u24d2 $$( \\frac{21}{4} , 4 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.81",
+        "Problem Statement": "",
+        "Question": "Solve: $$m = \\frac{y - 5}{x - 4}$$ for $$y .$$",
+        "Image Links": [],
+        "Answer": "$$y = m x - 4 m + 5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.82",
+        "Problem Statement": "",
+        "Question": "Solve: $$m = \\frac{y - 1}{x + 5}$$ for $$y .$$",
+        "Image Links": [],
+        "Answer": "$$y = m x + 5 m + 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.83",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\frac{1}{a} + \\frac{1}{b} = c$$ for a .",
+        "Image Links": [],
+        "Answer": "$$a = \\frac{b}{c b - 1}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.84",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\frac{2}{x} + \\frac{1}{3} = \\frac{1}{y}$$ for y .",
+        "Image Links": [],
+        "Answer": "$$y = \\frac{3 x}{x + 6}$$",
+        "Answer Image Links": []
+    }
+]

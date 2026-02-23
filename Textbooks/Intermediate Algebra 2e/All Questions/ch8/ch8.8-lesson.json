@@ -1,0 +1,578 @@
+[
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, write each expression in terms of i and simplify if possible.",
+        "Question": "\u24d0 $$\\sqrt{-16}$$ \u24d1 $$\\sqrt{-11}$$ \u24d2 $$\\sqrt{-8}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$4 i$$ \u24d1 $$\\sqrt{11} i$$ \u24d2 $$2 \\sqrt{2} i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, write each expression in terms of i and simplify if possible.",
+        "Question": "\u24d0 $$\\sqrt{-121}$$ \u24d1 $$\\sqrt{-1}$$ \u24d2 $$\\sqrt{-20}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, write each expression in terms of i and simplify if possible.",
+        "Question": "\u24d0 $$\\sqrt{-100}$$ \u24d1 $$\\sqrt{-13}$$ \u24d2 $$\\sqrt{-45}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$10 i$$ \u24d1 $$\\sqrt{13} i$$ \u24d2 $$3 \\sqrt{5} i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, write each expression in terms of i and simplify if possible.",
+        "Question": "\u24d0 $$\\sqrt{-49}$$ \u24d1 $$\\sqrt{-15}$$ \u24d2 $$\\sqrt{-75}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Add or Subtract Complex Numbers In the following exercises, add or subtract.",
+        "Question": "$$\\sqrt{-75} + \\sqrt{-48}$$",
+        "Image Links": [],
+        "Answer": "$$9 \\sqrt{3} i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Add or Subtract Complex Numbers In the following exercises, add or subtract.",
+        "Question": "$$\\sqrt{-12} + \\sqrt{-75}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Add or Subtract Complex Numbers In the following exercises, add or subtract.",
+        "Question": "$$\\sqrt{-50} + \\sqrt{-18}$$",
+        "Image Links": [],
+        "Answer": "$$8 \\sqrt{2} i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Add or Subtract Complex Numbers In the following exercises, add or subtract.",
+        "Question": "$$\\sqrt{-72} + \\sqrt{-8}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Add or Subtract Complex Numbers In the following exercises, add or subtract.",
+        "Question": "$$( 1 + 3 i ) + ( 7 + 4 i )$$",
+        "Image Links": [],
+        "Answer": "$$8 + 7 i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Add or Subtract Complex Numbers In the following exercises, add or subtract.",
+        "Question": "$$( 6 + 2 i ) + ( 3 - 4 i )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Add or Subtract Complex Numbers In the following exercises, add or subtract.",
+        "Question": "$$( 8 - i ) + ( 6 + 3 i )$$",
+        "Image Links": [],
+        "Answer": "$$14 + 2 i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Add or Subtract Complex Numbers In the following exercises, add or subtract.",
+        "Question": "$$( 7 - 4 i ) + ( -2 - 6 i )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Add or Subtract Complex Numbers In the following exercises, add or subtract.",
+        "Question": "$$( 1 - 4 i ) - ( 3 - 6 i )$$",
+        "Image Links": [],
+        "Answer": "$$-2 + 2 i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Add or Subtract Complex Numbers In the following exercises, add or subtract.",
+        "Question": "$$( 8 - 4 i ) - ( 3 + 7 i )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Add or Subtract Complex Numbers In the following exercises, add or subtract.",
+        "Question": "$$( 6 + i ) - ( -2 - 4 i )$$",
+        "Image Links": [],
+        "Answer": "$$8 + 5 i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Add or Subtract Complex Numbers In the following exercises, add or subtract.",
+        "Question": "$$( -2 + 5 i ) - ( -5 + 6 i )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Add or Subtract Complex Numbers In the following exercises, add or subtract.",
+        "Question": "$$( 5 - \\sqrt{-36} ) + ( 2 - \\sqrt{-49} )$$",
+        "Image Links": [],
+        "Answer": "$$7 - 13 i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Add or Subtract Complex Numbers In the following exercises, add or subtract.",
+        "Question": "$$( -3 + \\sqrt{-64} ) + ( 5 - \\sqrt{-16} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Add or Subtract Complex Numbers In the following exercises, add or subtract.",
+        "Question": "$$( -7 - \\sqrt{-50} ) - ( -32 - \\sqrt{-18} )$$",
+        "Image Links": [],
+        "Answer": "$$25 - 2 \\sqrt{2} i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Add or Subtract Complex Numbers In the following exercises, add or subtract.",
+        "Question": "$$( -5 + \\sqrt{-27} ) - ( -4 - \\sqrt{-48} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$4 i ( 5 - 3 i )$$",
+        "Image Links": [],
+        "Answer": "$$12 + 20 i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$2 i ( -3 + 4 i )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$-6 i ( -3 - 2 i )$$",
+        "Image Links": [],
+        "Answer": "$$-12 + 18 i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$\\text{unicode[:-]} i ( 6 + 5 i )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( 4 + 3 i ) ( -5 + 6 i )$$",
+        "Image Links": [],
+        "Answer": "$$-38 + + 9 i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( -2 - 5 i ) ( -4 + 3 i )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( -3 + 3 i ) ( -2 - 7 i )$$",
+        "Image Links": [],
+        "Answer": "$$27 + 15 i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( -6 - 2 i ) ( -3 - 5 i )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply using the Product of Binomial Squares Pattern.",
+        "Question": "$$( 3 + 4 i )^{2}$$",
+        "Image Links": [],
+        "Answer": "$$-7 + 24 i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply using the Product of Binomial Squares Pattern.",
+        "Question": "$$( -1 + 5 i )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply using the Product of Binomial Squares Pattern.",
+        "Question": "$$( -2 - 3 i )^{2}$$",
+        "Image Links": [],
+        "Answer": "$$-5 + 12 i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply using the Product of Binomial Squares Pattern.",
+        "Question": "$$( -6 - 5 i )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$\\sqrt{-25} \\cdotp \\sqrt{-36}$$",
+        "Image Links": [],
+        "Answer": "$$-30$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$\\sqrt{-4} \\cdotp \\sqrt{-16}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$\\sqrt{-9} \\cdotp \\sqrt{-100}$$",
+        "Image Links": [],
+        "Answer": "$$-30$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$\\sqrt{-64} \\cdotp \\sqrt{-9}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( -2 - \\sqrt{-27} ) ( 4 - \\sqrt{-48} )$$",
+        "Image Links": [],
+        "Answer": "$$-44 - 4 i \\sqrt{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( 5 - \\sqrt{-12} ) ( -3 + \\sqrt{-75} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( 2 + \\sqrt{-8} ) ( -4 + \\sqrt{-18} )$$",
+        "Image Links": [],
+        "Answer": "$$-20 - 2 \\sqrt{2} i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( 5 + \\sqrt{-18} ) ( -2 - \\sqrt{-50} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( 2 - i ) ( 2 + i )$$",
+        "Image Links": [],
+        "Answer": "5",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( 4 - 5 i ) ( 4 + 5 i )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( 7 - 2 i ) ( 7 + 2 i )$$",
+        "Image Links": [],
+        "Answer": "53",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( -3 - 8 i ) ( -3 + 8 i )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply using the Product of Complex Conjugates Pattern.",
+        "Question": "$$( 7 - i ) ( 7 + i )$$",
+        "Image Links": [],
+        "Answer": "50",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply using the Product of Complex Conjugates Pattern.",
+        "Question": "$$( 6 - 5 i ) ( 6 + 5 i )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply using the Product of Complex Conjugates Pattern.",
+        "Question": "$$( 9 - 2 i ) ( 9 + 2 i )$$",
+        "Image Links": [],
+        "Answer": "85",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply using the Product of Complex Conjugates Pattern.",
+        "Question": "$$( -3 - 4 i ) ( -3 + 4 i )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "$$\\frac{3 + 4 i}{4 - 3 i}$$",
+        "Image Links": [],
+        "Answer": "i",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "$$\\frac{5 - 2 i}{2 + 5 i}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "$$\\frac{2 + i}{3 - 4 i}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2}{25} + \\frac{11}{25} i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "$$\\frac{3 - 2 i}{6 + i}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "$$\\frac{3}{2 - 3 i}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{6}{13} + \\frac{9}{13} i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "$$\\frac{2}{4 - 5 i}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "$$\\frac{-4}{3 - 2 i}$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{12}{13} - \\frac{8}{13} i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "$$\\frac{-1}{3 + 2 i}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "$$\\frac{1 + 4 i}{3 i}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{4}{3} - \\frac{1}{3} i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "$$\\frac{4 + 3 i}{7 i}$$",
+        "Image Links": [],
+        "Answer": "$$[ - \\frac{3}{8} , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "$$\\frac{-2 - 3 i}{4 i}$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{3}{4} + \\frac{1}{2} i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "$$\\frac{-3 - 5 i}{2 i}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$i^{41}$$",
+        "Image Links": [],
+        "Answer": "i",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$i^{39}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$i^{66}$$",
+        "Image Links": [],
+        "Answer": "$$-1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$i^{48}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$i^{128}$$",
+        "Image Links": [],
+        "Answer": "1",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$i^{162}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$i^{137}$$",
+        "Image Links": [],
+        "Answer": "i",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$i^{255}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "Explain the relationship between real numbers and complex numbers.",
+        "Image Links": [],
+        "Answer": "Answers will vary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "Aniket multiplied as follows and he got the wrong answer. What is wrong with his reasoning? $$\\left .\\begin{matrix}{a}\\sqrt{-7} \\cdotp \\sqrt{-7} \\\\ \\sqrt{49} \\\\ 7\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "Why is $$\\sqrt{-64} = 8 i$$ but $$\\sqrt[3]{-64} = -4 .$$",
+        "Image Links": [],
+        "Answer": "Answers will vary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "Explain how dividing complex numbers is similar to rationalizing a denominator.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

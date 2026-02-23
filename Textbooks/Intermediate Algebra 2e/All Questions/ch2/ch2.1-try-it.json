@@ -1,0 +1,210 @@
+[
+    {
+        "Topic": "Try It 2.1",
+        "Problem Statement": "",
+        "Question": "Determine whether the values are solutions to the equation: $$9 y + 2 = 6 y + 3 .$$ \u24d0 $$y = \\frac{4}{3}$$ \u24d1 $$y = \\frac{1}{3}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 no \u24d1 yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.2",
+        "Problem Statement": "",
+        "Question": "Determine whether the values are solutions to the equation: $$4 x - 2 = 2 x + 1 .$$ \u24d0 $$x = \\frac{3}{2}$$ \u24d1 $$x = - \\frac{1}{2}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 yes \u24d1 no",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.3",
+        "Problem Statement": "",
+        "Question": "Solve: $$2 ( m - 4 ) + 3 = -1 .$$",
+        "Image Links": [],
+        "Answer": "$$m = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.4",
+        "Problem Statement": "",
+        "Question": "Solve: $$5 ( a - 3 ) + 5 = -10 .$$",
+        "Image Links": [],
+        "Answer": "$$a = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.5",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\frac{1}{3} ( 6 u + 3 ) = 7 - u .$$",
+        "Image Links": [],
+        "Answer": "$$u = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.6",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\frac{2}{3} ( 9 x - 12 ) = 8 + 2 x .$$",
+        "Image Links": [],
+        "Answer": "$$x = 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.7",
+        "Problem Statement": "",
+        "Question": "Solve: $$6 ( p - 3 ) - 7 = 5 ( 4 p + 3 ) - 12 .$$",
+        "Image Links": [],
+        "Answer": "$$p = -2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.8",
+        "Problem Statement": "",
+        "Question": "Solve: $$8 ( q + 1 ) - 5 = 3 ( 2 q - 4 ) - 1 .$$",
+        "Image Links": [],
+        "Answer": "$$q = -8$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.9",
+        "Problem Statement": "",
+        "Question": "Solve: $$6 [ 4 - 2 ( 7 y - 1 ) ] = 8 ( 13 - 8 y ) .$$",
+        "Image Links": [],
+        "Answer": "$$y = - \\frac{17}{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.10",
+        "Problem Statement": "",
+        "Question": "Solve: $$12 [ 1 - 5 ( 4 z - 1 ) ] = 3 ( 24 + 11 z ) .$$",
+        "Image Links": [],
+        "Answer": "$$z = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.11",
+        "Problem Statement": "",
+        "Question": "Classify the equation as a conditional equation, an identity, or a contradiction and then state the solution: $$4 + 9 ( 3 x - 7 ) = -42 x - 13 + 23 ( 3 x - 2 ) .$$",
+        "Image Links": [],
+        "Answer": "identity; all real numbers",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.12",
+        "Problem Statement": "",
+        "Question": "Classify the equation as a conditional equation, an identity, or a contradiction and then state the solution: $$8 ( 1 - 3 x ) + 15 ( 2 x + 7 ) = 2 ( x + 50 ) + 4 ( x + 3 ) + 1 .$$",
+        "Image Links": [],
+        "Answer": "identity; all real numbers",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.13",
+        "Problem Statement": "",
+        "Question": "Classify the equation as a conditional equation, an identity, or a contradiction and then state the solution: $$11 ( q + 3 ) - 5 = 19 .$$",
+        "Image Links": [],
+        "Answer": "conditional equation; $$q = - \\frac{9}{11}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.14",
+        "Problem Statement": "",
+        "Question": "Classify the equation as a conditional equation, an identity, or a contradiction and then state the solution: $$6+14 ( k - 8 ) = 95 .$$",
+        "Image Links": [],
+        "Answer": "conditional equation; $$k = \\frac{201}{14}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.15",
+        "Problem Statement": "",
+        "Question": "Classify the equation as a conditional equation, an identity, or a contradiction and then state the solution: $$12 c + 5 ( 5 + 3 c ) = 3 ( 9 c - 4 ) .$$",
+        "Image Links": [],
+        "Answer": "contradiction; no solution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.16",
+        "Problem Statement": "",
+        "Question": "Classify the equation as a conditional equation, an identity, or a contradiction and then state the solution: $$4 ( 7 d + 18 ) = 13 ( 3 d - 2 ) - 11 d .$$",
+        "Image Links": [],
+        "Answer": "contradiction; no solution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.17",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\frac{1}{4} x + \\frac{1}{2} = \\frac{5}{8} .$$",
+        "Image Links": [],
+        "Answer": "$$x = \\frac{1}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.18",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\frac{1}{8} x + \\frac{1}{2} = \\frac{1}{4} .$$",
+        "Image Links": [],
+        "Answer": "$$x = -2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.19",
+        "Problem Statement": "",
+        "Question": "Solve: $$7 = \\frac{1}{2} x + \\frac{3}{4} x - \\frac{2}{3} x .$$",
+        "Image Links": [],
+        "Answer": "$$x = 12$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.20",
+        "Problem Statement": "",
+        "Question": "Solve: $$-1 = \\frac{1}{2} u + \\frac{1}{4} u - \\frac{2}{3} u .$$",
+        "Image Links": [],
+        "Answer": "$$u = -12$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.21",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\frac{1}{5} ( n + 3 ) = \\frac{1}{4} ( n + 2 ) .$$",
+        "Image Links": [],
+        "Answer": "$$n = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.22",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\frac{1}{2} ( m - 3 ) = \\frac{1}{4} ( m - 7 ) .$$",
+        "Image Links": [],
+        "Answer": "$$m = -1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.23",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\frac{3 r + 5}{6} + 1 = \\frac{4 r + 3}{3} .$$",
+        "Image Links": [],
+        "Answer": "$$r = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.24",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\frac{2 s + 3}{2} + 1 = \\frac{3 s + 2}{4} .$$",
+        "Image Links": [],
+        "Answer": "$$s = -8$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.25",
+        "Problem Statement": "",
+        "Question": "Solve: $$0.25 n + 0.05 ( n + 5 ) = 2.95 .$$",
+        "Image Links": [],
+        "Answer": "$$n = 9$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.26",
+        "Problem Statement": "",
+        "Question": "Solve: $$0.10 d + 0.05 ( d - 5 ) = 2.15 .$$",
+        "Image Links": [],
+        "Answer": "$$d = 16$$",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,638 @@
+[
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, \u24d0 graph the quadratic functions on the same rectangular coordinate system and \u24d1 describe what effect adding a constant, k , to the function has on the basic parabola.",
+        "Question": "$$f ( x ) = x^{2} , g ( x ) = x^{2} + 4 ,$$ and $$h ( x ) = x^{2} - 4 .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 \u24d1 The graph of $$g ( x ) = x^{2} + 4$$ is the same as the graph of $$f ( x ) = x^{2}$$ but shifted up 4 units. The graph of $$h ( x ) = x^{2} - 4$$ is the same as the graph of $$f ( x ) = x^{2}$$ but shift down 4 units.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/dcba92eea517e1ceed296969806b8daac87ff4e7"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, \u24d0 graph the quadratic functions on the same rectangular coordinate system and \u24d1 describe what effect adding a constant, k , to the function has on the basic parabola.",
+        "Question": "$$f ( x ) = x^{2} , g ( x ) = x^{2} + 7 ,$$ and $$h ( x ) = x^{2} - 7 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function using a vertical shift.",
+        "Question": "$$f ( x ) = x^{2} + 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/046230ae0133a83397c954eccdde3f58f9dc9ca9"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function using a vertical shift.",
+        "Question": "$$f ( x ) = x^{2} - 7$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function using a vertical shift.",
+        "Question": "$$g ( x ) = x^{2} + 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b751b6fb4775929c266a9460eb54527a2409bd45"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function using a vertical shift.",
+        "Question": "$$g ( x ) = x^{2} + 5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function using a vertical shift.",
+        "Question": "$$h ( x ) = x^{2} - 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2ac3b14ab5a3df9d66184c5063859bf08fe26c28"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function using a vertical shift.",
+        "Question": "$$h ( x ) = x^{2} - 5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, \u24d0 graph the quadratic functions on the same rectangular coordinate system and \u24d1 describe what effect adding a constant, $$h$$ , inside the parentheses has",
+        "Question": "$$f ( x ) = x^{2} , g ( x ) = ( x - 3 )^{2} ,$$ and $$h ( x ) = ( x + 3 )^{2} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 \u24d1 The graph of $$g ( x ) = ( x - 3 )^{2}$$ is the same as the graph of $$f ( x ) = x^{2}$$ but shifted right 3 units. The graph of $$h ( x ) = ( x + 3 )^{2}$$ is the same as the graph of $$f ( x ) = x^{2}$$ but shifted left 3 units.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0ea308b0f7200ffe8e33db10bc657392bd690f96"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, \u24d0 graph the quadratic functions on the same rectangular coordinate system and \u24d1 describe what effect adding a constant, $$h$$ , inside the parentheses has",
+        "Question": "$$f ( x ) = x^{2} , g ( x ) = ( x + 4 )^{2} ,$$ and $$h ( x ) = ( x - 4 )^{2} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function using a horizontal shift.",
+        "Question": "$$f ( x ) = ( x - 2 )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e32506265e23571c1710a558e710f29ebbc71f0c"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function using a horizontal shift.",
+        "Question": "$$f ( x ) = ( x - 1 )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function using a horizontal shift.",
+        "Question": "$$f ( x ) = ( x + 5 )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7a933c8e576d2cf08b9f486eaf3aa5293954b061"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function using a horizontal shift.",
+        "Question": "$$f ( x ) = ( x + 3 )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function using a horizontal shift.",
+        "Question": "$$f ( x ) = ( x - 5 )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f709794cafa4f696851dca3045d3831c785677bc"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function using a horizontal shift.",
+        "Question": "$$f ( x ) = ( x + 2 )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function using transformations.",
+        "Question": "$$f ( x ) = ( x + 2 )^{2} + 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a83b54cc81f15fc1599ce3d36ba4832db42aaf02"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function using transformations.",
+        "Question": "$$f ( x ) = ( x + 4 )^{2} + 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function using transformations.",
+        "Question": "$$f ( x ) = ( x - 1 )^{2} + 5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/50bdc67949383a0c70f8a6db74528f20c91d63d2"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function using transformations.",
+        "Question": "$$f ( x ) = ( x - 3 )^{2} + 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function using transformations.",
+        "Question": "$$f ( x ) = ( x + 3 )^{2} - 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f6c357d35d55e15ef17a4e3a00088926170b9026"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function using transformations.",
+        "Question": "$$f ( x ) = ( x + 5 )^{2} - 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function using transformations.",
+        "Question": "$$f ( x ) = ( x - 4 )^{2} - 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/aebd6285580d4bd2fa3b73ace5892f2372f8c587"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function using transformations.",
+        "Question": "$$f ( x ) = ( x - 6 )^{2} - 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function.",
+        "Question": "$$f ( x ) = -2 x^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/91eb93b8c63e65d32e8ac529504097d201d052e2"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function.",
+        "Question": "$$f ( x ) = 4 x^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function.",
+        "Question": "$$f ( x ) = -4 x^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/656411cca696cd4a0d07860976e1cd8737efd961"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function.",
+        "Question": "$$f ( x ) = \\text{unicode[:-]} x^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function.",
+        "Question": "$$f ( x ) = \\frac{1}{2} x^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b645969fccd9f3755fb030e8865552d63445f5ec"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function.",
+        "Question": "$$f ( x ) = \\frac{1}{3} x^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function.",
+        "Question": "$$f ( x ) = \\frac{1}{4} x^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/4b4b039ae30f39f180603845f9a784c8c26928c8"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function.",
+        "Question": "$$f ( x ) = - \\frac{1}{2} x^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, rewrite each function in the $$f ( x ) = a ( x - h )^{2} + k$$ form by completing the square.",
+        "Question": "$$f ( x ) = -3 x^{2} - 12 x - 5$$",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = -3 ( x + 2 )^{2} + 7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, rewrite each function in the $$f ( x ) = a ( x - h )^{2} + k$$ form by completing the square.",
+        "Question": "$$f ( x ) = 2 x^{2} - 12 x + 7$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, rewrite each function in the $$f ( x ) = a ( x - h )^{2} + k$$ form by completing the square.",
+        "Question": "$$f ( x ) = 3 x^{2} + 6 x - 1$$",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = 3 ( x + 1 )^{2} - 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, rewrite each function in the $$f ( x ) = a ( x - h )^{2} + k$$ form by completing the square.",
+        "Question": "$$f ( x ) = -4 x^{2} - 16 x - 9$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, \u24d0 rewrite each function in $$f ( x ) = a ( x - h )^{2} + k$$ form and \u24d1 graph it by using transformations.",
+        "Question": "$$f ( x ) = x^{2} + 6 x + 5$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$f ( x ) = ( x + 3 )^{2} - 4$$ \u24d1",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e2453b391cc260d697874da1da5e93732e963862"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, \u24d0 rewrite each function in $$f ( x ) = a ( x - h )^{2} + k$$ form and \u24d1 graph it by using transformations.",
+        "Question": "$$f ( x ) = x^{2} + 4 x - 12$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, \u24d0 rewrite each function in $$f ( x ) = a ( x - h )^{2} + k$$ form and \u24d1 graph it by using transformations.",
+        "Question": "$$f ( x ) = x^{2} + 4 x + 3$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$f ( x ) = ( x + 2 )^{2} - 1$$ \u24d1",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c94daf96a4035fa9a29a9933848b4bd992e695cc"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, \u24d0 rewrite each function in $$f ( x ) = a ( x - h )^{2} + k$$ form and \u24d1 graph it by using transformations.",
+        "Question": "$$f ( x ) = x^{2} - 6 x + 8$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, \u24d0 rewrite each function in $$f ( x ) = a ( x - h )^{2} + k$$ form and \u24d1 graph it by using transformations.",
+        "Question": "$$f ( x ) = x^{2} - 6 x + 15$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$f ( x ) = ( x - 3 )^{2} + 6$$ \u24d1",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/41527597e9d24b5a5829930aeb855dbfd4af68b2"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, \u24d0 rewrite each function in $$f ( x ) = a ( x - h )^{2} + k$$ form and \u24d1 graph it by using transformations.",
+        "Question": "$$f ( x ) = x^{2} + 8 x + 10$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, \u24d0 rewrite each function in $$f ( x ) = a ( x - h )^{2} + k$$ form and \u24d1 graph it by using transformations.",
+        "Question": "$$f ( x ) = \\text{unicode[:-]} x^{2} + 8 x - 16$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$f ( x ) = \\text{unicode[:-]} ( x - 4 )^{2} + 0$$ \u24d1",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/4b5724878ba4535c6464d9a2497b93e6e22de51b"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, \u24d0 rewrite each function in $$f ( x ) = a ( x - h )^{2} + k$$ form and \u24d1 graph it by using transformations.",
+        "Question": "$$f ( x ) = \\text{unicode[:-]} x^{2} + 2 x - 7$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, \u24d0 rewrite each function in $$f ( x ) = a ( x - h )^{2} + k$$ form and \u24d1 graph it by using transformations.",
+        "Question": "$$f ( x ) = \\text{unicode[:-]} x^{2} - 4 x + 2$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$f ( x ) = \\text{unicode[:-]} ( x + 2 )^{2} + 6$$ \u24d1",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d7560750c6ff45066c61a692b0d4b4f185511a48"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, \u24d0 rewrite each function in $$f ( x ) = a ( x - h )^{2} + k$$ form and \u24d1 graph it by using transformations.",
+        "Question": "$$f ( x ) = \\text{unicode[:-]} x^{2} + 4 x - 5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, \u24d0 rewrite each function in $$f ( x ) = a ( x - h )^{2} + k$$ form and \u24d1 graph it by using transformations.",
+        "Question": "$$f ( x ) = 5 x^{2} - 10 x + 8$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$f ( x ) = 5 ( x - 1 )^{2} + 3$$ \u24d1",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1d5debabe7a9942460c727402ffb3b2494dc7c46"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, \u24d0 rewrite each function in $$f ( x ) = a ( x - h )^{2} + k$$ form and \u24d1 graph it by using transformations.",
+        "Question": "$$f ( x ) = 3 x^{2} + 18 x + 20$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, \u24d0 rewrite each function in $$f ( x ) = a ( x - h )^{2} + k$$ form and \u24d1 graph it by using transformations.",
+        "Question": "$$f ( x ) = 2 x^{2} - 4 x + 1$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$f ( x ) = 2 ( x - 1 )^{2} - 1$$ \u24d1",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3360b916c0326c768befd8e91efdfb1fd39fc261"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, \u24d0 rewrite each function in $$f ( x ) = a ( x - h )^{2} + k$$ form and \u24d1 graph it by using transformations.",
+        "Question": "$$f ( x ) = 3 x^{2} - 6 x - 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, \u24d0 rewrite each function in $$f ( x ) = a ( x - h )^{2} + k$$ form and \u24d1 graph it by using transformations.",
+        "Question": "$$f ( x ) = -2 x^{2} + 8 x - 10$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$f ( x ) = -2 ( x - 2 )^{2} - 2$$ \u24d1",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/502bd5f8e0db516ed2aab590f295545aa317c5d0"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, \u24d0 rewrite each function in $$f ( x ) = a ( x - h )^{2} + k$$ form and \u24d1 graph it by using transformations.",
+        "Question": "$$f ( x ) = -3 x^{2} + 6 x + 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, \u24d0 rewrite each function in $$f ( x ) = a ( x - h )^{2} + k$$ form and \u24d1 graph it using properties.",
+        "Question": "$$f ( x ) = 2 x^{2} + 4 x + 6$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$f ( x ) = 2 ( x + 1 )^{2} + 4$$ \u24d1",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/223475aad49682790aca9ba20a5cb68eba3157f5"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, \u24d0 rewrite each function in $$f ( x ) = a ( x - h )^{2} + k$$ form and \u24d1 graph it using properties.",
+        "Question": "$$f ( x ) = 3 x^{2} - 12 x + 7$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, \u24d0 rewrite each function in $$f ( x ) = a ( x - h )^{2} + k$$ form and \u24d1 graph it using properties.",
+        "Question": "$$f ( x ) = \\text{unicode[:-]} x^{2} + 2 x - 4$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$f ( x ) = \\text{unicode[:-]} ( x - 1 )^{2} - 3$$ \u24d1",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ac35c3cf34ddda8b40c32be4f526bca444268f28"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, \u24d0 rewrite each function in $$f ( x ) = a ( x - h )^{2} + k$$ form and \u24d1 graph it using properties.",
+        "Question": "$$f ( x ) = -2 x^{2} - 4 x - 5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, match the graphs to one of the following functions: \u24d0 $$f ( x ) = x^{2} + 4$$ \u24d1 $$f ( x ) = x^{2} - 4$$ \u24d2 $$f ( x ) = ( x + 4 )^{2}$$ \u24d3 $$f ( x ) = ( x - 4 )^{2}$$ \u24d4 $$f ( x ) = ( x + 4 )^{2} - 4$$ \u24d5 $$f ( x ) = ( x + 4 )^{2} + 4$$ \u24d6 $$f ( x ) = ( x - 4 )^{2} - 4$$ \u24d7 $$f ( x ) = ( x - 4 )^{2} + 4$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8e4f6a672490273776a9f10acf8706227ab23ba6"
+        ],
+        "Answer": "\u24d2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, match the graphs to one of the following functions: \u24d0 $$f ( x ) = x^{2} + 4$$ \u24d1 $$f ( x ) = x^{2} - 4$$ \u24d2 $$f ( x ) = ( x + 4 )^{2}$$ \u24d3 $$f ( x ) = ( x - 4 )^{2}$$ \u24d4 $$f ( x ) = ( x + 4 )^{2} - 4$$ \u24d5 $$f ( x ) = ( x + 4 )^{2} + 4$$ \u24d6 $$f ( x ) = ( x - 4 )^{2} - 4$$ \u24d7 $$f ( x ) = ( x - 4 )^{2} + 4$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/eea5efcb856766b825a9fed8a26b5e268993c8bf"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, match the graphs to one of the following functions: \u24d0 $$f ( x ) = x^{2} + 4$$ \u24d1 $$f ( x ) = x^{2} - 4$$ \u24d2 $$f ( x ) = ( x + 4 )^{2}$$ \u24d3 $$f ( x ) = ( x - 4 )^{2}$$ \u24d4 $$f ( x ) = ( x + 4 )^{2} - 4$$ \u24d5 $$f ( x ) = ( x + 4 )^{2} + 4$$ \u24d6 $$f ( x ) = ( x - 4 )^{2} - 4$$ \u24d7 $$f ( x ) = ( x - 4 )^{2} + 4$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/744660b0d289117d6f451b220997ccf9ce43beff"
+        ],
+        "Answer": "\u24d4",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, match the graphs to one of the following functions: \u24d0 $$f ( x ) = x^{2} + 4$$ \u24d1 $$f ( x ) = x^{2} - 4$$ \u24d2 $$f ( x ) = ( x + 4 )^{2}$$ \u24d3 $$f ( x ) = ( x - 4 )^{2}$$ \u24d4 $$f ( x ) = ( x + 4 )^{2} - 4$$ \u24d5 $$f ( x ) = ( x + 4 )^{2} + 4$$ \u24d6 $$f ( x ) = ( x - 4 )^{2} - 4$$ \u24d7 $$f ( x ) = ( x - 4 )^{2} + 4$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/466c659ba1faf157b4cc611f638d1b5faa79bd77"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, match the graphs to one of the following functions: \u24d0 $$f ( x ) = x^{2} + 4$$ \u24d1 $$f ( x ) = x^{2} - 4$$ \u24d2 $$f ( x ) = ( x + 4 )^{2}$$ \u24d3 $$f ( x ) = ( x - 4 )^{2}$$ \u24d4 $$f ( x ) = ( x + 4 )^{2} - 4$$ \u24d5 $$f ( x ) = ( x + 4 )^{2} + 4$$ \u24d6 $$f ( x ) = ( x - 4 )^{2} - 4$$ \u24d7 $$f ( x ) = ( x - 4 )^{2} + 4$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/590cf804c02627d7d6dc52354815ea49afeb11ef"
+        ],
+        "Answer": "\u24d3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, match the graphs to one of the following functions: \u24d0 $$f ( x ) = x^{2} + 4$$ \u24d1 $$f ( x ) = x^{2} - 4$$ \u24d2 $$f ( x ) = ( x + 4 )^{2}$$ \u24d3 $$f ( x ) = ( x - 4 )^{2}$$ \u24d4 $$f ( x ) = ( x + 4 )^{2} - 4$$ \u24d5 $$f ( x ) = ( x + 4 )^{2} + 4$$ \u24d6 $$f ( x ) = ( x - 4 )^{2} - 4$$ \u24d7 $$f ( x ) = ( x - 4 )^{2} + 4$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/87f5f9f9c551f81fa0ecf4d9a79e0cbfde729d41"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, match the graphs to one of the following functions: \u24d0 $$f ( x ) = x^{2} + 4$$ \u24d1 $$f ( x ) = x^{2} - 4$$ \u24d2 $$f ( x ) = ( x + 4 )^{2}$$ \u24d3 $$f ( x ) = ( x - 4 )^{2}$$ \u24d4 $$f ( x ) = ( x + 4 )^{2} - 4$$ \u24d5 $$f ( x ) = ( x + 4 )^{2} + 4$$ \u24d6 $$f ( x ) = ( x - 4 )^{2} - 4$$ \u24d7 $$f ( x ) = ( x - 4 )^{2} + 4$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3bf2bc508fee58240ef7da2a957493e352842887"
+        ],
+        "Answer": "\u24d6",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, match the graphs to one of the following functions: \u24d0 $$f ( x ) = x^{2} + 4$$ \u24d1 $$f ( x ) = x^{2} - 4$$ \u24d2 $$f ( x ) = ( x + 4 )^{2}$$ \u24d3 $$f ( x ) = ( x - 4 )^{2}$$ \u24d4 $$f ( x ) = ( x + 4 )^{2} - 4$$ \u24d5 $$f ( x ) = ( x + 4 )^{2} + 4$$ \u24d6 $$f ( x ) = ( x - 4 )^{2} - 4$$ \u24d7 $$f ( x ) = ( x - 4 )^{2} + 4$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7c1bcf9b7ea1046b8e9e5e302fff81728b6076c6"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, write the quadratic function in $$f ( x ) = a ( x - h )^{2} + k$$ form whose graph is shown.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/775e0725977841882176745eef52d58ceea80d60"
+        ],
+        "Answer": "$$f ( x ) = ( x + 1 )^{2} - 5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, write the quadratic function in $$f ( x ) = a ( x - h )^{2} + k$$ form whose graph is shown.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/02764ee1bf177f14b6dc6e1961e87bdb0f089401"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, write the quadratic function in $$f ( x ) = a ( x - h )^{2} + k$$ form whose graph is shown.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/bc9922ab46b48eff63f2d1347bdc3a86bd07c97d"
+        ],
+        "Answer": "$$f ( x ) = 2 ( x - 1 )^{2} - 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, write the quadratic function in $$f ( x ) = a ( x - h )^{2} + k$$ form whose graph is shown.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/32a81090412fc955db6a5feb7f49bd06af3ba8c6"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercise",
+        "Problem Statement": "",
+        "Question": "Graph the quadratic function $$f ( x ) = x^{2} + 4 x + 5$$ first using the properties as we did in the last section and then graph it using transformations. Which method do you prefer? Why?",
+        "Image Links": [],
+        "Answer": "Answers will vary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercise",
+        "Problem Statement": "",
+        "Question": "Graph the quadratic function $$f ( x ) = 2 x^{2} - 4 x - 3$$ first using the properties as we did in the last section and then graph it using transformations. Which method do you prefer? Why?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

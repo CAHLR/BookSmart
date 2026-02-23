@@ -1,0 +1,194 @@
+[
+    {
+        "Topic": "Try It 12.1",
+        "Problem Statement": "",
+        "Question": "Write the first five terms of the sequence whose general term is $$a_{n} = 3 n - 4 .$$",
+        "Image Links": [],
+        "Answer": "$$-1 , 2 , 5 , 8 , 11$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.2",
+        "Problem Statement": "",
+        "Question": "Write the first five terms of the sequence whose general term is $$a_{n} = 2 n - 5 .$$",
+        "Image Links": [],
+        "Answer": "$$-3 , -1 , 1 , 3 , 5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.3",
+        "Problem Statement": "",
+        "Question": "Write the first five terms of the sequence whose general term is $$a_{n} = 3^{n} + 4 .$$",
+        "Image Links": [],
+        "Answer": "$$7 , 13 , 31 , 85 , 247$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.4",
+        "Problem Statement": "",
+        "Question": "Write the first five terms of the sequence whose general term is $$a_{n} = 2^{n} - 5 .$$",
+        "Image Links": [],
+        "Answer": "$$-3 , -1 , 3 , 11 , 27$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.5",
+        "Problem Statement": "",
+        "Question": "Write the first five terms of the sequence whose general term is $$a_{n} = ( -1 )^{n} n^{2} .$$",
+        "Image Links": [],
+        "Answer": "$$-1 , 4 , -9 , 16 , -25$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.6",
+        "Problem Statement": "",
+        "Question": "Write the first five terms of the sequence whose general term is $$a_{n} = ( -1 )^{n + 1} n^{3} .$$",
+        "Image Links": [],
+        "Answer": "$$1 , -8 , 27 , -64 , 125$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.7",
+        "Problem Statement": "",
+        "Question": "Find a general term for the sequence whose first five terms are shown. $$3 , 6 , 9 , 12 , 15 , \\text{unicode[:ddot.]}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = 3 n$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.8",
+        "Problem Statement": "",
+        "Question": "Find a general term for the sequence whose first five terms are shown. $$5 , 10 , 15 , 20 , 25 , \\text{unicode[:ddot.]}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = 5 n$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.9",
+        "Problem Statement": "",
+        "Question": "Find a general term for the sequence whose first five terms are shown. $$-3 , 9 , -27 , 81 , -243 \\text{,} \\text{unicode[:ddot.]}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = ( -1 )^{n} 3^{n}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.10",
+        "Problem Statement": "",
+        "Question": "Find a general term for the sequence whose first five terms are shown $$1 , -4 , 9 , -16 , 25 \\text{,} \\text{unicode[:ddot.]}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = ( -1 )^{n + 1} n^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.11",
+        "Problem Statement": "",
+        "Question": "Find a general term for the sequence whose first five terms are shown. $$\\frac{1}{2} , \\frac{1}{4} , \\frac{1}{8} , \\frac{1}{16} , \\frac{1}{32} , \\text{unicode[:ddot.]}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = \\frac{1}{2^{n}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.12",
+        "Problem Statement": "",
+        "Question": "Find a general term for the sequence whose first five terms are shown. $$\\frac{1}{1} , \\frac{1}{4} , \\frac{1}{9} , \\frac{1}{16} , \\frac{1}{25} , \\text{unicode[:ddot.]}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = \\frac{1}{n^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.13",
+        "Problem Statement": "",
+        "Question": "Write the first five terms of the sequence whose general term is $$a_{n} = \\frac{2}{n !} .$$",
+        "Image Links": [],
+        "Answer": "$$2 , 1 , \\frac{1}{3} , \\frac{1}{12} , \\frac{1}{60}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.14",
+        "Problem Statement": "",
+        "Question": "Write the first five terms of the sequence whose general term is $$a_{n} = \\frac{3}{n !} .$$",
+        "Image Links": [],
+        "Answer": "$$3 , \\frac{3}{2} , \\frac{1}{2} , \\frac{1}{8} , \\frac{1}{40}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.15",
+        "Problem Statement": "",
+        "Question": "Write the first five terms of the sequence whose general term is $$a_{n} = \\frac{( n - 1 ) !}{( n + 1 ) !} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{2} , \\frac{1}{6} , \\frac{1}{12} , \\frac{1}{20} , \\frac{1}{30}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.16",
+        "Problem Statement": "",
+        "Question": "Write the first five terms of the sequence whose general term is $$a_{n} = \\frac{n !}{( n + 1 ) !} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{2} , \\frac{1}{3} , \\frac{1}{4} , \\frac{1}{5} , \\frac{1}{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.17",
+        "Problem Statement": "",
+        "Question": "Expand the partial sum and find its value: $$\\sum_{i = 1}^{5} 3 i .$$",
+        "Image Links": [],
+        "Answer": "45",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.18",
+        "Problem Statement": "",
+        "Question": "Expand the partial sum and find its value: $$\\sum_{i = 1}^{5} 4 i .$$",
+        "Image Links": [],
+        "Answer": "60",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.19",
+        "Problem Statement": "",
+        "Question": "Expand the partial sum and find its value: $$\\sum_{k = 0}^{3} \\frac{2}{k !} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{16}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.20",
+        "Problem Statement": "",
+        "Question": "Expand the partial sum and find its value: $$\\sum_{k = 0}^{3} \\frac{3}{k !} .$$",
+        "Image Links": [],
+        "Answer": "8",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.21",
+        "Problem Statement": "",
+        "Question": "Write the sum using summation notation: $$\\frac{1}{2} + \\frac{1}{4} + \\frac{1}{8} + \\frac{1}{16} + \\frac{1}{32} .$$",
+        "Image Links": [],
+        "Answer": "$$\\sum_{n = 1}^{5} \\frac{1}{2^{n}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.22",
+        "Problem Statement": "",
+        "Question": "Write the sum using summation notation: $$1 + \\frac{1}{4} + \\frac{1}{9} + \\frac{1}{16} + \\frac{1}{25} .$$",
+        "Image Links": [],
+        "Answer": "$$\\sum_{n = 1}^{5} \\frac{1}{n^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.23",
+        "Problem Statement": "",
+        "Question": "Write each sum using summation notation: $$1 - 4 + 9 - 16 + 25 .$$",
+        "Image Links": [],
+        "Answer": "$$\\sum_{n = 1}^{5} ( -1 )^{n + 1} n^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.24",
+        "Problem Statement": "",
+        "Question": "Write each sum using summation notation: $$-2 + 4 - 6 + 8 - 10 .$$",
+        "Image Links": [],
+        "Answer": "$$\\sum_{n = 1}^{5} ( -1 )^{n} 2 n$$",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,642 @@
+[
+    {
+        "Topic": "Sequences",
+        "Problem Statement": "In the following exercises, write the first five terms of the sequence whose general term is given.",
+        "Question": "$$a_{n} = 7 n - 5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Sequences",
+        "Problem Statement": "In the following exercises, write the first five terms of the sequence whose general term is given.",
+        "Question": "$$a_{n} = 3^{n} + 4$$",
+        "Image Links": [],
+        "Answer": "$$7 , 13 , 31 , 85 , 247$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Sequences",
+        "Problem Statement": "In the following exercises, write the first five terms of the sequence whose general term is given.",
+        "Question": "$$a_{n} = 2^{n} + n$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Sequences",
+        "Problem Statement": "In the following exercises, write the first five terms of the sequence whose general term is given.",
+        "Question": "$$a_{n} = \\frac{2 n + 1}{4^{n}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3}{4} , \\frac{5}{16} , \\frac{7}{64} , \\frac{9}{256} , \\frac{11}{1024}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Sequences",
+        "Problem Statement": "In the following exercises, write the first five terms of the sequence whose general term is given.",
+        "Question": "$$a_{n} = \\frac{( -1 )^{n}}{n^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Sequences",
+        "Problem Statement": "In the following exercises, find a general term for the sequence whose first five terms are shown.",
+        "Question": "$$9 , 18 , 27 , 36 , 45 , \\text{unicode[:ddot.]}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = 9 n$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Sequences",
+        "Problem Statement": "In the following exercises, find a general term for the sequence whose first five terms are shown.",
+        "Question": "$$-5 , -4 , -3 , -2 , -1 , \\text{unicode[:ddot.]}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Sequences",
+        "Problem Statement": "In the following exercises, find a general term for the sequence whose first five terms are shown.",
+        "Question": "$$\\frac{1}{e^{3}} , \\frac{1}{e^{2}} , \\frac{1}{e} , 1 , e , \\text{unicode[:ddot.]}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = e^{n - 4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Sequences",
+        "Problem Statement": "In the following exercises, find a general term for the sequence whose first five terms are shown.",
+        "Question": "$$1 , -8 , 27 , -64 , 125 , \\text{unicode[:ddot.]}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Sequences",
+        "Problem Statement": "In the following exercises, find a general term for the sequence whose first five terms are shown.",
+        "Question": "$$- \\frac{1}{3} , - \\frac{1}{2} , - \\frac{3}{5} , - \\frac{2}{3} , - \\frac{5}{7} , \\text{unicode[:ddot.]}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = - \\frac{n}{n + 2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Sequences",
+        "Problem Statement": "In the following exercises, using factorial notation, write the first five terms of the sequence whose general term is given.",
+        "Question": "$$a_{n} = 4 n !$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Sequences",
+        "Problem Statement": "In the following exercises, using factorial notation, write the first five terms of the sequence whose general term is given.",
+        "Question": "$$a_{n} = \\frac{n !}{( n + 2 ) \\text{!}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{6} , \\frac{1}{12} , \\frac{1}{20} , \\frac{1}{30} , \\frac{1}{42}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Sequences",
+        "Problem Statement": "In the following exercises, using factorial notation, write the first five terms of the sequence whose general term is given.",
+        "Question": "$$a_{n} = \\frac{( n - 1 ) !}{( n + 1 )^{\\text{2}}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Sequences",
+        "Problem Statement": "In the following exercises, expand the partial sum and find its value.",
+        "Question": "$$\\sum_{i = 1}^{7} ( 2 i - 5 )$$",
+        "Image Links": [],
+        "Answer": "$$-3 + ( -1 ) + 1 + 3 + 5$$ $$+ 7 + 9 = 21$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Sequences",
+        "Problem Statement": "In the following exercises, expand the partial sum and find its value.",
+        "Question": "$$\\sum_{i = 1}^{3} 5^{i}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Sequences",
+        "Problem Statement": "In the following exercises, expand the partial sum and find its value.",
+        "Question": "$$\\sum_{k = 0}^{4} \\frac{4}{k !}$$",
+        "Image Links": [],
+        "Answer": "$$4 + 4 + 2 + \\frac{2}{3} + \\frac{1}{6} = \\frac{65}{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Sequences",
+        "Problem Statement": "In the following exercises, expand the partial sum and find its value.",
+        "Question": "$$\\sum_{k = 1}^{4} ( k + 1 ) ( 2 k + 1 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Sequences",
+        "Problem Statement": "In the following exercises, write each sum using summation notation.",
+        "Question": "$$- \\frac{1}{3} + \\frac{1}{9} - \\frac{1}{27} + \\frac{1}{81} - \\frac{1}{243}$$",
+        "Image Links": [],
+        "Answer": "$$\\sum_{n = 1}^{5} ( -1 )^{n} \\frac{1}{3^{n}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Sequences",
+        "Problem Statement": "In the following exercises, write each sum using summation notation.",
+        "Question": "$$4 - 8 + 12 - 16 + 20 - 24$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Sequences",
+        "Problem Statement": "In the following exercises, write each sum using summation notation.",
+        "Question": "$$4 + 2 + \\frac{4}{3} + 1 + \\frac{4}{5}$$",
+        "Image Links": [],
+        "Answer": "$$\\sum_{n = 1}^{5} \\frac{4}{n}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Arithmetic Sequences",
+        "Problem Statement": "In the following exercises, determine if each sequence is arithmetic, and if so, indicate the common difference.",
+        "Question": "$$1 , 2 , 4 , 8 , 16 , 32 , \\text{unicode[:ddot.]}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Arithmetic Sequences",
+        "Problem Statement": "In the following exercises, determine if each sequence is arithmetic, and if so, indicate the common difference.",
+        "Question": "$$-7 , -1 , 5 , 11 , 17 , 23 , \\text{unicode[:ddot.]}$$",
+        "Image Links": [],
+        "Answer": "The sequence is arithmetic with common difference $$d = 6 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Arithmetic Sequences",
+        "Problem Statement": "In the following exercises, determine if each sequence is arithmetic, and if so, indicate the common difference.",
+        "Question": "$$13 , 9 , 5 , 1 , -3 , -7 , \\text{unicode[:ddot.]}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Arithmetic Sequences",
+        "Problem Statement": "In the following exercises, write the first five terms of each arithmetic sequence with the given first term and common difference.",
+        "Question": "$$a_{1} = 5$$ and $$d = 3$$",
+        "Image Links": [],
+        "Answer": "$$5 , 8 , 11 , 14 , 17$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Arithmetic Sequences",
+        "Problem Statement": "In the following exercises, write the first five terms of each arithmetic sequence with the given first term and common difference.",
+        "Question": "$$a_{1} = 8$$ and $$d = -2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Arithmetic Sequences",
+        "Problem Statement": "In the following exercises, write the first five terms of each arithmetic sequence with the given first term and common difference.",
+        "Question": "$$a_{1} = -13$$ and $$d = 6$$",
+        "Image Links": [],
+        "Answer": "$$-13 , -7 , -1 , 5 , 11$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Arithmetic Sequences",
+        "Problem Statement": "In the following exercises, find the term described using the information provided.",
+        "Question": "Find the twenty-fifth term of a sequence where the first term is five and the common difference is three.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Arithmetic Sequences",
+        "Problem Statement": "In the following exercises, find the term described using the information provided.",
+        "Question": "Find the thirtieth term of a sequence where the first term is 16 and the common difference is $$-5 .$$",
+        "Image Links": [],
+        "Answer": "$$-129$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Arithmetic Sequences",
+        "Problem Statement": "In the following exercises, find the term described using the information provided.",
+        "Question": "Find the seventeenth term of a sequence where the first term is $$-21$$ and the common difference is two.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Arithmetic Sequences",
+        "Problem Statement": "In the following exercises, find the indicated term and give the formula for the general term.",
+        "Question": "Find the eighteenth term of a sequence where the fifth term is $$12$$ and the common difference is seven.",
+        "Image Links": [],
+        "Answer": "$$a_{18} = 103 .$$ The general term is $$a_{n} = 7 n - 23 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Arithmetic Sequences",
+        "Problem Statement": "In the following exercises, find the indicated term and give the formula for the general term.",
+        "Question": "Find the twenty-first term of a sequence where the seventh term is $$14$$ and the common difference is $$-3 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Arithmetic Sequences",
+        "Problem Statement": "In the following exercises, find the first term and common difference of the sequence with the given terms. Give the formula for the general term.",
+        "Question": "The fifth term is 17 and the fourteenth term is 53.",
+        "Image Links": [],
+        "Answer": "$$a_{1} = 1 ,$$ $$d = 4 .$$ The general term is $$a_{n} = 4 n - 3 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Arithmetic Sequences",
+        "Problem Statement": "In the following exercises, find the first term and common difference of the sequence with the given terms. Give the formula for the general term.",
+        "Question": "The third term is $$-26$$ and the sixteenth term is $$-91 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Arithmetic Sequences",
+        "Problem Statement": "In the following exercises, find the sum of the first 30 terms of each arithmetic sequence.",
+        "Question": "$$7 , 4 , 1 , -2 , -5 , \\text{unicode[:ddot.]}$$",
+        "Image Links": [],
+        "Answer": "$$-1,095$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Arithmetic Sequences",
+        "Problem Statement": "In the following exercises, find the sum of the first 30 terms of each arithmetic sequence.",
+        "Question": "$$1 , 6 , 11 , 16 , 21 , \\text{unicode[:ddot.]}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Arithmetic Sequences",
+        "Problem Statement": "In the following exercises, find the sum of the first fifteen terms of the arithmetic sequence whose general term is given.",
+        "Question": "$$a_{n} = 4 n + 7$$",
+        "Image Links": [],
+        "Answer": "$$585$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Arithmetic Sequences",
+        "Problem Statement": "In the following exercises, find the sum of the first fifteen terms of the arithmetic sequence whose general term is given.",
+        "Question": "$$a_{n} = -2 n + 19$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Arithmetic Sequences",
+        "Problem Statement": "In the following exercises, find each sum.",
+        "Question": "$$\\sum_{i = 1}^{50} ( 4 i - 5 )$$",
+        "Image Links": [],
+        "Answer": "$$4,850$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Arithmetic Sequences",
+        "Problem Statement": "In the following exercises, find each sum.",
+        "Question": "$$\\sum_{i = 1}^{30} ( -3 i - 7 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Arithmetic Sequences",
+        "Problem Statement": "In the following exercises, find each sum.",
+        "Question": "$$\\sum_{i = 1}^{35} ( i + 10 )$$",
+        "Image Links": [],
+        "Answer": "$$980$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Geometric Sequences and Series",
+        "Problem Statement": "In the following exercises, determine if the sequence is geometric, and if so, indicate the common ratio.",
+        "Question": "$$3 , 12 , 48 , 192 , 768 , 3072 , \\text{unicode[:ddot.]}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Geometric Sequences and Series",
+        "Problem Statement": "In the following exercises, determine if the sequence is geometric, and if so, indicate the common ratio.",
+        "Question": "$$5 , 10 , 15 , 20 , 25 , 30 , \\text{unicode[:ddot.]}$$",
+        "Image Links": [],
+        "Answer": "The sequence is not geometric.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Geometric Sequences and Series",
+        "Problem Statement": "In the following exercises, determine if the sequence is geometric, and if so, indicate the common ratio.",
+        "Question": "$$112 , 56 , 28 , 14 , 7 , \\frac{7}{2} , \\text{unicode[:ddot.]}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Geometric Sequences and Series",
+        "Problem Statement": "In the following exercises, determine if the sequence is geometric, and if so, indicate the common ratio.",
+        "Question": "$$9 , -18 , 36 , -72 , 144 , -288 , \\text{unicode[:ddot.]}$$",
+        "Image Links": [],
+        "Answer": "The sequence is geometric with common ratio $$r = -2 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Geometric Sequences and Series",
+        "Problem Statement": "In the following exercises, write the first five terms of each geometric sequence with the given first term and common ratio.",
+        "Question": "$$a_{1} = -3$$ and $$r = 5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Geometric Sequences and Series",
+        "Problem Statement": "In the following exercises, write the first five terms of each geometric sequence with the given first term and common ratio.",
+        "Question": "$$a_{1} = 128$$ and $$r = \\frac{1}{4}$$",
+        "Image Links": [],
+        "Answer": "$$128 , 32 , 8 , 2 , \\frac{1}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Geometric Sequences and Series",
+        "Problem Statement": "In the following exercises, write the first five terms of each geometric sequence with the given first term and common ratio.",
+        "Question": "$$a_{1} = 5$$ and $$r = -3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Geometric Sequences and Series",
+        "Problem Statement": "In the following exercises, find the indicated term of a sequence where the first term and the common ratio is given.",
+        "Question": "Find $$a_{9}$$ given $$a_{1} = 6$$ and $$r = 2 .$$",
+        "Image Links": [],
+        "Answer": "$$1,536$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Geometric Sequences and Series",
+        "Problem Statement": "In the following exercises, find the indicated term of a sequence where the first term and the common ratio is given.",
+        "Question": "Find $$a_{11}$$ given $$a_{1} = 10,000,000$$ and $$r = 0.1 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Geometric Sequences and Series",
+        "Problem Statement": "In the following exercises, find the indicated term of the given sequence. Find the general term of the sequence.",
+        "Question": "Find $$a_{12}$$ of the sequence, $$6 , -24 , 96 , -384 , 1536 , -6144 , \\text{unicode[:ddot.]}$$",
+        "Image Links": [],
+        "Answer": "$$a_{12} = -25 , 165 , 824 .$$ The general term is $$a_{n} = 6 ( -4 )^{n - 1} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Geometric Sequences and Series",
+        "Problem Statement": "In the following exercises, find the indicated term of the given sequence. Find the general term of the sequence.",
+        "Question": "Find $$a_{9}$$ of the sequence, $$4374 , 1458 , 486 , 162 , 54 , 18 , \\text{unicode[:ddot.]}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Geometric Sequences and Series",
+        "Problem Statement": "In the following exercises, find the sum of the first fifteen terms of each geometric sequence.",
+        "Question": "$$-4 , 8 , -16 , 32 , -64 , 128 \\text{unicode[:ddot.]}$$",
+        "Image Links": [],
+        "Answer": "-43,692",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Geometric Sequences and Series",
+        "Problem Statement": "In the following exercises, find the sum of the first fifteen terms of each geometric sequence.",
+        "Question": "$$3 , 12 , 48 , 192 , 768 , 3072 \\text{unicode[:ddot.]}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Geometric Sequences and Series",
+        "Problem Statement": "In the following exercises, find the sum of the first fifteen terms of each geometric sequence.",
+        "Question": "$$3125 , 625 , 125 , 25 , 5 , 1 \\text{unicode[:ddot.]}$$",
+        "Image Links": [],
+        "Answer": "$$3906.25$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Geometric Sequences and Series",
+        "Problem Statement": "In the following exercises, find the sum",
+        "Question": "$$\\sum_{i = 1}^{8} 7 ( 3 )^{i}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Geometric Sequences and Series",
+        "Problem Statement": "In the following exercises, find the sum",
+        "Question": "$$\\sum_{i = 1}^{6} 24 ( \\frac{1}{2} )^{i}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{189}{8} = 23.625$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Geometric Sequences and Series",
+        "Problem Statement": "In the following exercises, find the sum of each infinite geometric series.",
+        "Question": "$$1 - \\frac{1}{3} + \\frac{1}{9} - \\frac{1}{27} + \\frac{1}{81} - \\frac{1}{243} + \\frac{1}{729} - \\text{unicode[:ddot.]}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Geometric Sequences and Series",
+        "Problem Statement": "In the following exercises, find the sum of each infinite geometric series.",
+        "Question": "$$49 + 7 + 1 + \\frac{1}{7} + \\frac{1}{49} + \\frac{1}{343} + \\text{unicode[:ddot.]}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{343}{6} \\approx 57.167$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Geometric Sequences and Series",
+        "Problem Statement": "In the following exercises, write each repeating decimal as a fraction.",
+        "Question": "$$0. \\overset{-}{8}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Geometric Sequences and Series",
+        "Problem Statement": "In the following exercises, write each repeating decimal as a fraction.",
+        "Question": "$$0. \\overset{-}{36}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{4}{11}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Geometric Sequences and Series",
+        "Problem Statement": "In the following exercises, solve the problem.",
+        "Question": "What is the total effect on the economy of a government tax rebate of $$\\text{$} 360$$ to each household in order to stimulate the economy if each household will spend $$60 %$$ of the rebate in goods and services?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Geometric Sequences and Series",
+        "Problem Statement": "In the following exercises, solve the problem.",
+        "Question": "Adam just got his first full-time job after graduating from high school at age 17. He decided to invest $$\\text{$} 300$$ per month in an IRA (an annuity). The interest on the annuity is $$7 %$$ which is compounded monthly. How much will be in Adam\u2019s account when he retires at his sixty-seventh birthday?",
+        "Image Links": [],
+        "Answer": "$$\\text{$} 1,634,421.27$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Binomial Theorem",
+        "Problem Statement": "In the following exercises, expand each binomial using Pascal\u2019s Triangle.",
+        "Question": "$$( a + b )^{7}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Binomial Theorem",
+        "Problem Statement": "In the following exercises, expand each binomial using Pascal\u2019s Triangle.",
+        "Question": "$$( x - y )^{4}$$",
+        "Image Links": [],
+        "Answer": "$$x^{4} - 4 x^{3} y + 6 x^{2} y^{2} - 4 x y^{3} + y^{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Binomial Theorem",
+        "Problem Statement": "In the following exercises, expand each binomial using Pascal\u2019s Triangle.",
+        "Question": "$$( x + 6 )^{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Binomial Theorem",
+        "Problem Statement": "In the following exercises, expand each binomial using Pascal\u2019s Triangle.",
+        "Question": "$$( 2 y - 3 )^{5}$$",
+        "Image Links": [],
+        "Answer": "$$32 y^{5} - 240 y^{4} + 720 y^{3} - 1080 y^{2}$$ $$+ 810 y - 243$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Binomial Theorem",
+        "Problem Statement": "In the following exercises, expand each binomial using Pascal\u2019s Triangle.",
+        "Question": "$$( 7 x + 2 y )^{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Binomial Theorem",
+        "Problem Statement": "In the following exercises, evaluate.",
+        "Question": "\u24d0 $$\\left (\\begin{matrix}11 \\\\ 1\\end{matrix}\\right )$$ \u24d1 $$\\left (\\begin{matrix}12 \\\\ 12\\end{matrix}\\right )$$ \u24d2 $$\\left (\\begin{matrix}13 \\\\ 0\\end{matrix}\\right )$$ \u24d3 $$\\left (\\begin{matrix}8 \\\\ 3\\end{matrix}\\right )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 11 \u24d1 1 \u24d2 1 \u24d3 56",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Binomial Theorem",
+        "Problem Statement": "In the following exercises, evaluate.",
+        "Question": "\u24d0 $$\\left (\\begin{matrix}7 \\\\ 1\\end{matrix}\\right )$$ \u24d1 $$\\left (\\begin{matrix}5 \\\\ 5\\end{matrix}\\right )$$ \u24d2 $$\\left (\\begin{matrix}9 \\\\ 0\\end{matrix}\\right )$$ \u24d3 $$\\left (\\begin{matrix}9 \\\\ 5\\end{matrix}\\right )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Binomial Theorem",
+        "Problem Statement": "In the following exercises, evaluate.",
+        "Question": "\u24d0 $$\\left (\\begin{matrix}1 \\\\ 1\\end{matrix}\\right )$$ \u24d1 $$\\left (\\begin{matrix}15 \\\\ 15\\end{matrix}\\right )$$ \u24d2 $$\\left (\\begin{matrix}4 \\\\ 0\\end{matrix}\\right )$$ \u24d3 $$\\left (\\begin{matrix}11 \\\\ 2\\end{matrix}\\right )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 1 \u24d1 1 \u24d2 1 \u24d3 55",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Binomial Theorem",
+        "Problem Statement": "In the following exercises, expand each binomial, using the Binomial Theorem.",
+        "Question": "$$( p + q )^{6}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Binomial Theorem",
+        "Problem Statement": "In the following exercises, expand each binomial, using the Binomial Theorem.",
+        "Question": "$$( t - 1 )^{9}$$",
+        "Image Links": [],
+        "Answer": "$$t^{9} - 9 t^{8} + 36 t^{7} - 84 t^{6} + 126 t^{5}$$ $$- 126 t^{4} + 84 t^{3} - 36 t^{2} + 9 t - 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Binomial Theorem",
+        "Problem Statement": "In the following exercises, expand each binomial, using the Binomial Theorem.",
+        "Question": "$$( 2 x + 1 )^{4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Binomial Theorem",
+        "Problem Statement": "In the following exercises, expand each binomial, using the Binomial Theorem.",
+        "Question": "$$( 4 x + 3 y )^{4}$$",
+        "Image Links": [],
+        "Answer": "$$256 x^{4} + 768 x^{3} y + 864 x^{2} y^{2}$$ $$+ 432 x y^{3} + 81 y^{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Binomial Theorem",
+        "Problem Statement": "In the following exercises, expand each binomial, using the Binomial Theorem.",
+        "Question": "$$( x - 3 y )^{5}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Binomial Theorem",
+        "Problem Statement": "In the following exercises, find the indicated term in the expansion of the binomial.",
+        "Question": "Seventh term of $$( a + b )^{9}$$",
+        "Image Links": [],
+        "Answer": "$$84 a^{3} b^{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Binomial Theorem",
+        "Problem Statement": "In the following exercises, find the indicated term in the expansion of the binomial.",
+        "Question": "Third term of $$( x - y )^{7}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Binomial Theorem",
+        "Problem Statement": "In the following exercises, find the coefficient of the indicated term in the expansion of the binomial.",
+        "Question": "$$y^{4}$$ term of $$( y + 3 )^{6}$$",
+        "Image Links": [],
+        "Answer": "135",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Binomial Theorem",
+        "Problem Statement": "In the following exercises, find the coefficient of the indicated term in the expansion of the binomial.",
+        "Question": "$$x^{5}$$ term of $$( x - 2 )^{8}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Binomial Theorem",
+        "Problem Statement": "In the following exercises, find the coefficient of the indicated term in the expansion of the binomial.",
+        "Question": "$$a^{3} b^{4}$$ term of $$( 2 a + b )^{7}$$",
+        "Image Links": [],
+        "Answer": "280",
+        "Answer Image Links": []
+    }
+]

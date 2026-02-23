@@ -1,0 +1,178 @@
+[
+    {
+        "Topic": "Try It 5.71",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$-72 a^{7} b^{3} \\div ( 8 a^{12} b^{4} ) .$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{9}{a^{5} b}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.72",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$-63 c^{8} d^{3} \\div ( 7 c^{12} d^{2} ) .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{-9 d}{c^{4}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.73",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$\\frac{28 x^{5} y^{14}}{49 x^{9} y^{12}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{4 y^{2}}{7 x^{4}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.74",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$\\frac{30 m^{5} n^{11}}{48 m^{10} n^{14}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{5}{8 m^{5} n^{3}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.75",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$( 32 a^{2} b - 16 a b^{2} ) \\div ( -8 a b ) .$$",
+        "Image Links": [],
+        "Answer": "$$-4 a + 2 b$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.76",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$( -48 a^{8} b^{4} - 36 a^{6} b^{5} ) \\div ( -6 a^{3} b^{3} ) .$$",
+        "Image Links": [],
+        "Answer": "$$8 a^{5} b + 6 a^{3} b^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.77",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$( y^{2} + 10 y + 21 ) \\div ( y + 3 ) .$$",
+        "Image Links": [],
+        "Answer": "$$y + 7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.78",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$( m^{2} + 9 m + 20 ) \\div ( m + 4 ) .$$",
+        "Image Links": [],
+        "Answer": "$$m + 5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.79",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$( x^{4} - 7 x^{2} + 7 x + 6 ) \\div ( x + 3 ) .$$",
+        "Image Links": [],
+        "Answer": "$$x^{3} - 3 x^{2} + 2 x + 1 + \\frac{3}{x + 3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.80",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$( x^{4} - 11 x^{2} - 7 x - 6 ) \\div ( x + 3 ) .$$",
+        "Image Links": [],
+        "Answer": "$$x^{3} - 3 x^{2} - 2 x - 1 - \\frac{3}{x + 3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.81",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$( x^{3} - 64 ) \\div ( x - 4 ) .$$",
+        "Image Links": [],
+        "Answer": "$$x^{2} + 4 x + 16$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.82",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$( 125 x^{3} - 8 ) \\div ( 5 x - 2 ) .$$",
+        "Image Links": [],
+        "Answer": "$$25 x^{2} + 10 x + 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.83",
+        "Problem Statement": "",
+        "Question": "Use synthetic division to find the quotient and remainder when $$3 x^{3} + 10 x^{2} + 6 x - 2$$ is divided by $$x + 2 .$$",
+        "Image Links": [],
+        "Answer": "$$3 x^{2} + 4 x - 2 \\text{;} 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.84",
+        "Problem Statement": "",
+        "Question": "Use synthetic division to find the quotient and remainder when $$4 x^{3} + 5 x^{2} - 5 x + 3$$ is divided by $$x + 2 .$$",
+        "Image Links": [],
+        "Answer": "$$4 x^{2} - 3 x + 1 \\text{;} 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.85",
+        "Problem Statement": "",
+        "Question": "Use synthetic division to find the quotient and remainder when $$x^{4} - 16 x^{2} + 5 x + 20$$ is divided by $$x + 4 .$$",
+        "Image Links": [],
+        "Answer": "$$x^{3} - 4 x^{2} + 5 \\text{;} 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.86",
+        "Problem Statement": "",
+        "Question": "Use synthetic division to find the quotient and remainder when $$x^{4} - 9 x^{2} + 2 x + 6$$ is divided by $$x + 3 .$$",
+        "Image Links": [],
+        "Answer": "$$x^{3} - 3 x^{2} + 2 \\text{;} 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.87",
+        "Problem Statement": "",
+        "Question": "For functions $$f ( x ) = x^{2} - 5 x - 24$$ and $$g ( x ) = x + 3 ,$$ find \u24d0 $$( \\frac{f}{g} ) ( x )$$ \u24d1 $$( \\frac{f}{g} ) ( -3 ) .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$( \\frac{f}{g} ) ( x ) = x - 8$$ \u24d1 $$( \\frac{f}{g} ) ( -3 ) = -11$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.88",
+        "Problem Statement": "",
+        "Question": "For functions $$f ( x ) = x^{2} - 5 x - 36$$ and $$g ( x ) = x + 4 ,$$ find \u24d0 $$( \\frac{f}{g} ) ( x )$$ \u24d1 $$( \\frac{f}{g} ) ( -5 ) .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$( \\frac{f}{g} ) ( x ) = x - 9$$ \u24d1 undefined",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.89",
+        "Problem Statement": "",
+        "Question": "Use the Remainder Theorem to find the remainder when $$f ( x ) = x^{3} + 4 x + 15$$ is divided by $$x + 2 .$$",
+        "Image Links": [],
+        "Answer": "$$-1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.90",
+        "Problem Statement": "",
+        "Question": "Use the Remainder Theorem to find the remainder when $$f ( x ) = x^{3} - 7 x + 12$$ is divided by $$x + 3 .$$",
+        "Image Links": [],
+        "Answer": "$$6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.91",
+        "Problem Statement": "",
+        "Question": "Use the Factor Theorem to determine if $$x - 5$$ is a factor of $$f ( x ) = x^{3} - 125 .$$",
+        "Image Links": [],
+        "Answer": "yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.92",
+        "Problem Statement": "",
+        "Question": "Use the Factor Theorem to determine if $$x - 6$$ is a factor of $$f ( x ) = x^{3} - 216 .$$",
+        "Image Links": [],
+        "Answer": "yes",
+        "Answer Image Links": []
+    }
+]

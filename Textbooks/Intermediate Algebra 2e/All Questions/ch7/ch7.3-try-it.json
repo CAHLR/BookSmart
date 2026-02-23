@@ -1,0 +1,146 @@
+[
+    {
+        "Topic": "Try It 7.47",
+        "Problem Statement": "",
+        "Question": "Simplify the complex rational expression by writing it as division: $$\\frac{\\frac{2}{x^{2} - 1}}{\\frac{3}{x + 1}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2}{3 ( x - 1 )}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.48",
+        "Problem Statement": "",
+        "Question": "Simplify the complex rational expression by writing it as division: $$\\frac{\\frac{1}{x^{2} - 7 x + 12}}{\\frac{2}{x - 4}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{2 ( x - 3 )}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.49",
+        "Problem Statement": "",
+        "Question": "Simplify the complex rational expression by writing it as division: $$\\frac{\\frac{1}{2} + \\frac{2}{3}}{\\frac{5}{6} + \\frac{1}{12}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{14}{11}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.50",
+        "Problem Statement": "",
+        "Question": "Simplify the complex rational expression by writing it as division: $$\\frac{\\frac{3}{4} - \\frac{1}{3}}{\\frac{1}{8} + \\frac{5}{6}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{10}{23}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.51",
+        "Problem Statement": "",
+        "Question": "Simplify the complex rational expression by writing it as division: $$\\frac{\\frac{1}{x} + \\frac{1}{y}}{\\frac{1}{x} - \\frac{1}{y}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{y + x}{y - x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.52",
+        "Problem Statement": "",
+        "Question": "Simplify the complex rational expression by writing it as division: $$\\frac{\\frac{1}{a} + \\frac{1}{b}}{\\frac{1}{a^{2}} - \\frac{1}{b^{2}}}$$ .",
+        "Image Links": [],
+        "Answer": "$$\\frac{a b}{b - a}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.53",
+        "Problem Statement": "",
+        "Question": "Simplify the complex rational expression by writing it as division: $$\\frac{b - \\frac{3 b}{b + 5}}{\\frac{2}{b + 5} + \\frac{1}{b - 5}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{b ( b + 2 ) ( b - 5 )}{3 b - 5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.54",
+        "Problem Statement": "",
+        "Question": "Simplify the complex rational expression by writing it as division: $$\\frac{1 - \\frac{3}{c + 4}}{\\frac{1}{c + 4} + \\frac{c}{3}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3}{c + 3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.55",
+        "Problem Statement": "",
+        "Question": "Simplify the complex rational expression by using the LCD: $$\\frac{\\frac{1}{2} + \\frac{1}{5}}{\\frac{1}{10} + \\frac{1}{5}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{7}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.56",
+        "Problem Statement": "",
+        "Question": "Simplify the complex rational expression by using the LCD: $$\\frac{\\frac{1}{4} + \\frac{3}{8}}{\\frac{1}{2} - \\frac{5}{16}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{10}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.57",
+        "Problem Statement": "",
+        "Question": "Simplify the complex rational expression by using the LCD: $$\\frac{\\frac{1}{a} + \\frac{1}{b}}{\\frac{a}{b} + \\frac{b}{a}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{b + a}{a^{2} + b^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.58",
+        "Problem Statement": "",
+        "Question": "Simplify the complex rational expression by using the LCD: $$\\frac{\\frac{1}{x^{2}} - \\frac{1}{y^{2}}}{\\frac{1}{x} + \\frac{1}{y}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{y - x}{x y}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.59",
+        "Problem Statement": "",
+        "Question": "Simplify the complex rational expression by using the LCD: $$\\frac{\\frac{3}{x + 2}}{\\frac{5}{x - 2} - \\frac{3}{x^{2} - 4}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3 ( x - 2 )}{5 x + 7}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.60",
+        "Problem Statement": "",
+        "Question": "Simplify the complex rational expression by using the LCD: $$\\frac{\\frac{2}{x - 7} - \\frac{1}{x + 7}}{\\frac{6}{x + 7} - \\frac{1}{x^{2} - 49}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{x + 21}{6 x - 43}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.61",
+        "Problem Statement": "",
+        "Question": "Simplify the complex rational expression by using the LCD: $$\\frac{\\frac{3}{x^{2} + 7 x + 10}}{\\frac{4}{x + 2} + \\frac{1}{x + 5}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3}{5 x + 22}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.62",
+        "Problem Statement": "",
+        "Question": "Simplify the complex rational expression by using the LCD: $$\\frac{\\frac{4 y}{y + 5} + \\frac{2}{y + 6}}{\\frac{3 y}{y^{2} + 11 y + 30}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2 ( 2 y^{2} + 13 y + 5 )}{3 y}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.63",
+        "Problem Statement": "",
+        "Question": "Simplify the complex rational expression by using the LCD: $$\\frac{\\frac{x}{x + 3}}{1 + \\frac{1}{x + 3}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{x}{x + 4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.64",
+        "Problem Statement": "",
+        "Question": "Simplify the complex rational expression by using the LCD: $$\\frac{1 + \\frac{1}{x - 1}}{\\frac{3}{x + 1}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{x ( x + 1 )}{3 ( x - 1 )}$$",
+        "Answer Image Links": []
+    }
+]

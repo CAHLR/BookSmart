@@ -1,0 +1,178 @@
+[
+    {
+        "Topic": "Try It 8.71",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$8 \\sqrt{2} - 9 \\sqrt{2}$$ \u24d1 $$4 \\sqrt[3]{x} + 7 \\sqrt[3]{x}$$ \u24d2 $$3 \\sqrt[4]{x} - 5 \\sqrt[4]{y} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\text{unicode[:-]} \\sqrt{2}$$ \u24d1 $$11 \\sqrt[3]{x}$$ \u24d2 $$3 \\sqrt[4]{x} - 5 \\sqrt[4]{y}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.72",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$5 \\sqrt{3} - 9 \\sqrt{3}$$ \u24d1 $$5 \\sqrt[3]{y} + 3 \\sqrt[3]{y}$$ \u24d2 $$5 \\sqrt[4]{m} - 2 \\sqrt[3]{m} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-4 \\sqrt{3}$$ \u24d1 $$8 \\sqrt[3]{y}$$ \u24d2 $$5 \\sqrt[4]{m} - 2 \\sqrt[3]{m}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.73",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{7 x} - 7 \\sqrt{7 x} + 4 \\sqrt{7 x}$$ \u24d1 $$4 \\sqrt[4]{5 x y} + 2 \\sqrt[4]{5 x y} - 7 \\sqrt[4]{5 x y} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-2 \\sqrt{7 x}$$ \u24d1 $$\\text{unicode[:-]} \\sqrt[4]{5 x y}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.74",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$4 \\sqrt{3 y} - 7 \\sqrt{3 y} + 2 \\sqrt{3 y}$$ \u24d1 $$6 \\sqrt[3]{7 m n} + \\sqrt[3]{7 m n} - 4 \\sqrt[3]{7 m n} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\text{unicode[:-]} \\sqrt{3 y}$$ \u24d1 $$3 \\sqrt[3]{7 m n}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.75",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{18} + 6 \\sqrt{2}$$ \u24d1 $$6 \\sqrt[3]{16} - 2 \\sqrt[3]{250}$$ \u24d2 $$\\frac{2}{3} \\sqrt[3]{81} - \\frac{1}{2} \\sqrt[3]{24} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$9 \\sqrt{2}$$ \u24d1 $$2 \\sqrt[3]{2}$$ \u24d2 $$\\sqrt[3]{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.76",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{27} + 4 \\sqrt{3}$$ \u24d1 $$4 \\sqrt[3]{5} - 7 \\sqrt[3]{40}$$ \u24d2 $$\\frac{1}{2} \\sqrt[3]{128} - \\frac{5}{3} \\sqrt[3]{54} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$7 \\sqrt{3}$$ \u24d1 $$-10 \\sqrt[3]{5}$$ \u24d2 $$-3 \\sqrt[3]{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.77",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{32 m^{7}} - \\sqrt{50 m^{7}}$$ \u24d1 $$\\sqrt[3]{135 x^{7}} - \\sqrt[3]{40 x^{7}} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\text{unicode[:-]} m^{3} \\sqrt{2 m}$$ \u24d1 $$x^{2} \\sqrt[3]{5 x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.78",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{27 p^{3}} - \\sqrt{48 p^{3}}$$ \u24d1 $$\\sqrt[3]{256 y^{5}} - \\sqrt[3]{32 y^{5}} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\text{unicode[:-]} p \\sqrt{3 p}$$ \u24d1 $$4 y \\sqrt[3]{4 y^{2}} - 2 y \\sqrt[3]{4 n^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.79",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$( 3 \\sqrt{2} ) ( 2 \\sqrt{30} )$$ \u24d1 $$( 2 \\sqrt[3]{18} ) ( -3 \\sqrt[3]{6} ) .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$12 \\sqrt{15}$$ \u24d1 $$-18 \\sqrt[3]{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.80",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$( 3 \\sqrt{3} ) ( 3 \\sqrt{6} )$$ \u24d1 $$( -4 \\sqrt[3]{9} ) ( 3 \\sqrt[3]{6} ) .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$27 \\sqrt{2}$$ \u24d1 $$-36 \\sqrt[3]{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.81",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$( 6 \\sqrt{6 x^{2}} ) ( 8 \\sqrt{30 x^{4}} )$$ \u24d1 $$( -4 \\sqrt[4]{12 y^{3}} ) ( \\text{unicode[:-]} \\sqrt[4]{8 y^{3}} ) .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$288 x^{3} \\sqrt{5}$$ \u24d1 $$8 y \\sqrt[4]{6 y^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.82",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$( 2 \\sqrt{6 y^{4}} ) ( 12 \\sqrt{30 y} )$$ \u24d1 $$( -4 \\sqrt[4]{9 a^{3}} ) ( 3 \\sqrt[4]{27 a^{2}} ) .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$144 y^{2} \\sqrt{5 y}$$ \u24d1 $$-36 a \\sqrt[4]{3 a}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.83",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{6} ( 1 + 3 \\sqrt{6} )$$ \u24d1 $$\\sqrt[3]{4} ( -2 - \\sqrt[3]{6} ) .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$18 + \\sqrt{6}$$ \u24d1 $$-2 \\sqrt[3]{4} - 2 \\sqrt[3]{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.84",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{8} ( 2 - 5 \\sqrt{8} )$$ \u24d1 $$\\sqrt[3]{3} ( \\text{unicode[:-]} \\sqrt[3]{9} - \\sqrt[3]{6} ) .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-40 + 4 \\sqrt{2}$$ \u24d1 $$-3 - \\sqrt[3]{18}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.85",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$( 6 - 3 \\sqrt{7} ) ( 3 + 4 \\sqrt{7} )$$ \u24d1 $$( \\sqrt[3]{x} - 2 ) ( \\sqrt[3]{x} - 3 ) .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-66 + 15 \\sqrt{7}$$ \u24d1 $$\\sqrt[3]{x^{2}} - 5 \\sqrt[3]{x} + 6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.86",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$( 2 - 3 \\sqrt{11} ) ( 4 - \\sqrt{11} )$$ \u24d1 $$( \\sqrt[3]{x} + 1 ) ( \\sqrt[3]{x} + 3 ) .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$41 - 14 \\sqrt{11}$$ \u24d1 $$\\sqrt[3]{x^{2}} + 4 \\sqrt[3]{x} + 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.87",
+        "Problem Statement": "",
+        "Question": "Simplify: $$( 5 \\sqrt{3} - \\sqrt{7} ) ( \\sqrt{3} + 2 \\sqrt{7} )$$",
+        "Image Links": [],
+        "Answer": "$$1 + 9 \\sqrt{21}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.88",
+        "Problem Statement": "",
+        "Question": "Simplify: $$( \\sqrt{6} - 3 \\sqrt{8} ) ( 2 \\sqrt{6} + \\sqrt{8} )$$",
+        "Image Links": [],
+        "Answer": "$$-12 - 20 \\sqrt{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.89",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$( 10 + \\sqrt{2} )^{2}$$ \u24d1 $$( 1 + 3 \\sqrt{6} )^{2} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$102 + 20 \\sqrt{2}$$ \u24d1 $$55 + 6 \\sqrt{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.90",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$( 6 - \\sqrt{5} )^{2}$$ \u24d1 $$( 9 - 2 \\sqrt{10} )^{2} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$41 - 12 \\sqrt{5}$$ \u24d1 $$121 - 36 \\sqrt{10}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.91",
+        "Problem Statement": "",
+        "Question": "Simplify: $$( 3 - 2 \\sqrt{5} ) ( 3 + 2 \\sqrt{5} )$$",
+        "Image Links": [],
+        "Answer": "$$-11$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.92",
+        "Problem Statement": "",
+        "Question": "Simplify: $$( 4 + 5 \\sqrt{7} ) ( 4 - 5 \\sqrt{7} ) .$$",
+        "Image Links": [],
+        "Answer": "$$-159$$",
+        "Answer Image Links": []
+    }
+]

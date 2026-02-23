@@ -1,0 +1,130 @@
+[
+    {
+        "Topic": "Try It 10.75",
+        "Problem Statement": "",
+        "Question": "Solve: $$2 \\text{log}_{3} x = \\text{log}_{3} 36$$",
+        "Image Links": [],
+        "Answer": "$$x = 6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.76",
+        "Problem Statement": "",
+        "Question": "Solve: $$3 \\text{log} x = \\text{log} 64$$",
+        "Image Links": [],
+        "Answer": "$$x = 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.77",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\text{log}_{2} x + \\text{log}_{2} ( x - 2 ) = 3$$",
+        "Image Links": [],
+        "Answer": "$$x = 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.78",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\text{log}_{2} x + \\text{log}_{2} ( x - 6 ) = 4$$",
+        "Image Links": [],
+        "Answer": "$$x = 8$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.79",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\text{log} ( x + 2 ) - \\text{log} ( 4 x + 3 ) = \\text{unicode[:-]} \\text{log} x .$$",
+        "Image Links": [],
+        "Answer": "$$x = 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.80",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\text{log} ( x - 2 ) - \\text{log} ( 4 x + 16 ) = \\text{log} \\frac{1}{x} .$$",
+        "Image Links": [],
+        "Answer": "$$x = 8$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.81",
+        "Problem Statement": "",
+        "Question": "Solve $$7^{x} = 43 .$$ Find the exact answer and then approximate it to three decimal places.",
+        "Image Links": [],
+        "Answer": "$$x = \\frac{\\text{log} 43}{\\text{log} 7} \\approx 1.933$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.82",
+        "Problem Statement": "",
+        "Question": "Solve $$8^{x} = 98 .$$ Find the exact answer and then approximate it to three decimal places.",
+        "Image Links": [],
+        "Answer": "$$x = \\frac{\\text{log} 98}{\\text{log} 8} \\approx 2.205$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.83",
+        "Problem Statement": "",
+        "Question": "Solve $$2 e^{x - 2} = 18 .$$ Find the exact answer and then approximate it to three decimal places.",
+        "Image Links": [],
+        "Answer": "$$x = \\text{ln} 9 + 2 \\approx 4.197$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.84",
+        "Problem Statement": "",
+        "Question": "Solve $$5 e^{2 x} = 25 .$$ Find the exact answer and then approximate it to three decimal places.",
+        "Image Links": [],
+        "Answer": "$$x = \\frac{\\text{ln} 5}{2} \\approx 0.805$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.85",
+        "Problem Statement": "",
+        "Question": "Hector invests $$\\text{$} 10,000$$ at age 21. He hopes the investments will be worth $$\\text{$} 150,000$$ when he turns 50. If the interest compounds continuously, approximately what rate of growth will he need to achieve his goal?",
+        "Image Links": [],
+        "Answer": "$$r \\approx 9.3 \\text{%}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.86",
+        "Problem Statement": "",
+        "Question": "Rachel invests $$\\text{$} 15,000$$ at age 25. She hopes the investments will be worth $$\\text{$} 90,000$$ when she turns 40. If the interest compounds continuously, approximately what rate of growth will she need to achieve her goal?",
+        "Image Links": [],
+        "Answer": "$$r \\approx 11.9 \\text{%}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.87",
+        "Problem Statement": "",
+        "Question": "Researchers recorded that a certain bacteria population grew from 100 to 500 in 6 hours. At this rate of growth, how many bacteria will there be 24 hours from the start of the experiment?",
+        "Image Links": [],
+        "Answer": "There will be 62,500 bacteria.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.88",
+        "Problem Statement": "",
+        "Question": "Researchers recorded that a certain bacteria population declined from 700,000 to 400,000 in 5 hours after the administration of medication. At this rate of decay, how many bacteria will there be 24 hours from the start of the experiment?",
+        "Image Links": [],
+        "Answer": "There will be 47,700 bacteria.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.89",
+        "Problem Statement": "",
+        "Question": "The half-life of magnesium-27 is 9.45 minutes. How much of a 10-mg sample will be left in 6 minutes?",
+        "Image Links": [],
+        "Answer": "There will be 6.44 mg left.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.90",
+        "Problem Statement": "",
+        "Question": "The half-life of radioactive iodine is 60 days. How much of a 50-mg sample will be left in 40 days?",
+        "Image Links": [],
+        "Answer": "There will be 31.5 mg left.",
+        "Answer Image Links": []
+    }
+]

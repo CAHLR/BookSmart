@@ -1,0 +1,158 @@
+[
+    {
+        "Topic": "Try It 10.1",
+        "Problem Statement": "",
+        "Question": "For functions $$f ( x ) = 3 x - 2$$ and $$g ( x ) = 5 x + 1 ,$$ find \u24d0 $$( f \\vysmwhtcircle g ) ( x )$$ \u24d1 $$( g \\vysmwhtcircle f ) ( x )$$ \u24d2 $$( f \\cdotp g ) ( x )$$ .",
+        "Image Links": [],
+        "Answer": "\u24d0 $$15 x + 1$$ \u24d1 $$15 x - 9$$ \u24d2 $$15 x^{2} - 7 x - 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.2",
+        "Problem Statement": "",
+        "Question": "For functions $$f ( x ) = 4 x - 3 ,$$ and $$g ( x ) = 6 x - 5 ,$$ find \u24d0 $$( f \\vysmwhtcircle g ) ( x ) ,$$ \u24d1 $$( g \\vysmwhtcircle f ) ( x ) ,$$ and \u24d2 $$( f \\cdotp g ) ( x ) .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$24 x - 23$$ \u24d1 $$24 x - 23$$ \u24d2 $$24 x^{2} - 38 x + 15$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.3",
+        "Problem Statement": "",
+        "Question": "For functions $$f ( x ) = x^{2} - 9 ,$$ and $$g ( x ) = 2 x + 5 ,$$ find \u24d0 $$( f \\vysmwhtcircle g ) ( -2 ) ,$$ \u24d1 $$( g \\vysmwhtcircle f ) ( -3 ) ,$$ and \u24d2 $$( f \\vysmwhtcircle f ) ( 4 ) .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 -8 \u24d1 5 \u24d2 40",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.4",
+        "Problem Statement": "",
+        "Question": "For functions $$f ( x ) = x^{2} + 1 ,$$ and $$g ( x ) = 3 x - 5 ,$$ find \u24d0 $$( f \\vysmwhtcircle g ) ( -1 ) ,$$ \u24d1 $$( g \\vysmwhtcircle f ) ( 2 ) ,$$ and \u24d2 $$( f \\vysmwhtcircle f ) ( -1 ) .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 65 \u24d1 10 \u24d2 5",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.5",
+        "Problem Statement": "",
+        "Question": "For each set of ordered pairs, determine if it represents a function and if so, is the function one-to-one. \u24d0 $$\\{ ( -3 , -6 ) , ( -2 , -4 ) , ( -1 , -2 ) , ( 0 , 0 ) , ( 1 , 2 ) , ( 2 , 4 ) , ( 3 , 6 ) \\}$$ \u24d1 $$\\{ ( -4 , 8 ) , ( -2 , 4 ) , ( -1 , 2 ) , ( 0 , 0 ) , ( 1 , 2 ) , ( 2 , 4 ) , ( 4 , 8 ) \\}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 One-to-one function \u24d1 Function; not one-to-one",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.6",
+        "Problem Statement": "",
+        "Question": "For each set of ordered pairs, determine if it represents a function and if so, is the function one-to-one. \u24d0 $$\\{ ( 27 , -3 ) , ( 8 , -2 ) , ( 1 , -1 ) , ( 0 , 0 ) , ( 1 , 1 ) , ( 8 , 2 ) , ( 27 , 3 ) \\}$$ \u24d1 $$\\{ ( 7 , -3 ) , ( -5 , -4 ) , ( 8 , 0 ) , ( 0 , 0 ) , ( -6 , 4 ) , ( -2 , 2 ) , ( -1 , 3 ) \\}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 Not a function \u24d1 Function; not one-to-one",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.7",
+        "Problem Statement": "",
+        "Question": "Determine whether each graph is the graph of a function and, if so, whether it is one-to-one.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/800d46efe8cb4fe050d5732e8b79efb8d3504280"
+        ],
+        "Answer": "\u24d0 Not a function \u24d1 One-to-one function",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.8",
+        "Problem Statement": "",
+        "Question": "Determine whether each graph is the graph of a function and, if so, whether it is one-to-one.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f20d52396969a1e4b6677e62af4477bf9bde2900"
+        ],
+        "Answer": "\u24d0 Function; not one-to-one \u24d1 One-to-one function",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.9",
+        "Problem Statement": "",
+        "Question": "Find the inverse of $$\\{ ( 0 , 4 ) , ( 1 , 7 ) , ( 2 , 10 ) , ( 3 , 13 ) \\} .$$ Determine the domain and range of the inverse function.",
+        "Image Links": [],
+        "Answer": "Inverse function: $$\\{ ( 4 , 0 ) , ( 7 , 1 ) , ( 10 , 2 ) , ( 13 , 3 ) \\} .$$ Domain: $$\\{ 4 , 7 , 10 , 13 \\} .$$ Range: $$\\{ 0 , 1 , 2 , 3 \\} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.10",
+        "Problem Statement": "",
+        "Question": "Find the inverse of $$\\{ ( -1 , 4 ) , ( -2 , 1 ) , ( -3 , 0 ) , ( -4 , 2 ) \\} .$$ Determine the domain and range of the inverse function.",
+        "Image Links": [],
+        "Answer": "Inverse function: $$\\{ ( 4 , -1 ) , ( 1 , -2 ) , ( 0 , -3 ) , ( 2 , -4 ) \\} .$$ Domain: $$\\{ 0 , 1 , 2 , 4 \\} .$$ Range: $$\\{ -4 , -3 , -2 , -1 \\} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.11",
+        "Problem Statement": "",
+        "Question": "Graph, on the same coordinate system, the inverse of the one-to one function.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c8200f22f8e992f963d41c21c05623bcc7435ea5"
+        ],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/bf6895666f01888a53807397cb8e67d3c532ec7a"
+        ]
+    },
+    {
+        "Topic": "Try It 10.12",
+        "Problem Statement": "",
+        "Question": "Graph, on the same coordinate system, the inverse of the one-to one function.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f64456880ec41641df34c62404a8db9a5c246ee6"
+        ],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3cb5450448a5455ce5cac8598e49e0434108c742"
+        ]
+    },
+    {
+        "Topic": "Try It 10.13",
+        "Problem Statement": "",
+        "Question": "Verify that the functions are inverse functions. $$f ( x ) = 4 x - 3$$ and $$g ( x ) = \\frac{x + 3}{4} .$$",
+        "Image Links": [],
+        "Answer": "$$g ( f ( x ) ) = x ,$$ and $$f ( g ( x ) ) = x ,$$ so they are inverses.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.14",
+        "Problem Statement": "",
+        "Question": "Verify that the functions are inverse functions. $$f ( x ) = 2 x + 6$$ and $$g ( x ) = \\frac{x - 6}{2} .$$",
+        "Image Links": [],
+        "Answer": "$$g ( f ( x ) ) = x ,$$ and $$f ( g ( x ) ) = x ,$$ so they are inverses.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.15",
+        "Problem Statement": "",
+        "Question": "Find the inverse of the function $$f ( x ) = 5 x - 3 .$$",
+        "Image Links": [],
+        "Answer": "$$f^{-1} ( x ) = \\frac{x + 3}{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.16",
+        "Problem Statement": "",
+        "Question": "Find the inverse of the function $$f ( x ) = 8 x + 5 .$$",
+        "Image Links": [],
+        "Answer": "$$f^{-1} ( x ) = \\frac{x - 5}{8}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.17",
+        "Problem Statement": "",
+        "Question": "Find the inverse of the function $$f ( x ) = \\sqrt[5]{3 x - 2} .$$",
+        "Image Links": [],
+        "Answer": "$$f^{-1} ( x ) = \\frac{x^{5} + 2}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.18",
+        "Problem Statement": "",
+        "Question": "Find the inverse of the function $$f ( x ) = \\sqrt[4]{6 x - 7} .$$",
+        "Image Links": [],
+        "Answer": "$$f^{-1} ( x ) = \\frac{x^{4} + 7}{6}$$",
+        "Answer Image Links": []
+    }
+]

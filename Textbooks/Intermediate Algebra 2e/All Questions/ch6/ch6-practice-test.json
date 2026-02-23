@@ -1,0 +1,162 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, factor completely.",
+        "Question": "$$80 a^{2} + 120 a^{3}$$",
+        "Image Links": [],
+        "Answer": "$$40 a^{2} ( 2 + 3 a )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, factor completely.",
+        "Question": "$$5 m ( m - 1 ) + 3 ( m - 1 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, factor completely.",
+        "Question": "$$x^{2} + 13 x + 36$$",
+        "Image Links": [],
+        "Answer": "$$( x + 4 ) ( x + 9 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, factor completely.",
+        "Question": "$$p^{2} + p q - 12 q^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, factor completely.",
+        "Question": "$$x y - 8 y + 7 x - 56$$",
+        "Image Links": [],
+        "Answer": "$$( x - 8 ) ( y + 7 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, factor completely.",
+        "Question": "$$40 r^{2} + 810$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, factor completely.",
+        "Question": "$$9 s^{2} - 12 s + 4$$",
+        "Image Links": [],
+        "Answer": "$$( 3 s - 2 )^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, factor completely.",
+        "Question": "$$6 x^{2} - 11 x - 10$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, factor completely.",
+        "Question": "$$3 x^{2} - 75 y^{2}$$",
+        "Image Links": [],
+        "Answer": "$$3 ( x + 5 y ) ( x - 5 y )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, factor completely.",
+        "Question": "$$6 u^{2} + 3 u - 18$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, factor completely.",
+        "Question": "$$x^{3} + 125$$",
+        "Image Links": [],
+        "Answer": "$$( x + 5 ) ( x^{2} - 5 x + 25 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, factor completely.",
+        "Question": "$$32 x^{5} y^{2} - 162 x y^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, factor completely.",
+        "Question": "$$6 x^{4} - 19 x^{2} + 15$$",
+        "Image Links": [],
+        "Answer": "$$( 3 x^{2} - 5 ) ( 2 x^{2} - 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, factor completely.",
+        "Question": "$$3 x^{3} - 36 x^{2} + 108 x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, solve",
+        "Question": "$$5 a^{2} + 26 a = 24$$",
+        "Image Links": [],
+        "Answer": "$$a = 4 \\text{/} 5 , a = -6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, solve",
+        "Question": "The product of two consecutive integers is 156. Find the integers.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, solve",
+        "Question": "The area of a rectangular place mat is 168 square inches. Its length is two inches longer than the width. Find the length and width of the placemat.",
+        "Image Links": [],
+        "Answer": "The width is 12 inches and the length is 14 inches.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, solve",
+        "Question": "Jing is going to throw a ball from the balcony of her condo. When she throws the ball from 80 feet above the ground, the function $$h ( t ) = -16 t^{2} + 64 t + 80$$ models the height, h , of the ball above the ground as a function of time, t . Find: \u24d0 the zeros of this function which tells us when the ball will hit the ground. \u24d1 the time(s) the ball will be 128 feet above the ground. \u24d2 the height the ball will be at $$t = 4$$ seconds.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, solve",
+        "Question": "For the function, $$f ( x ) = x^{2} - 7 x + 5 ,$$ \u24d0 find when $$f ( x ) = -7$$ \u24d1 Use this information to find two points that lie on the graph of the function.",
+        "Image Links": [],
+        "Answer": "\u24d0 $$x = 3$$ or $$x = 4$$ \u24d1 $$( 3 , -7 )$$ $$( 4 , -7 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, solve",
+        "Question": "For the function $$f ( x ) = 25 x^{2} - 81 ,$$ find: \u24d0 the zeros of the function \u24d1 the x -intercepts of the graph of the function \u24d2 the y -intercept of the graph of the function.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

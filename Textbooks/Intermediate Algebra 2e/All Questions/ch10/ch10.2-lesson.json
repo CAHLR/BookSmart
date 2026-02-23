@@ -1,0 +1,532 @@
+[
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each exponential function.",
+        "Question": "$$f ( x ) = 2^{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/82076d8cbe2dbd15555668cdb0e4777a0e9a3e25"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each exponential function.",
+        "Question": "$$g ( x ) = 3^{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each exponential function.",
+        "Question": "$$f ( x ) = 6^{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/804520e2a4899ccb738d5d89038d0913b70aa236"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each exponential function.",
+        "Question": "$$g ( x ) = 7^{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each exponential function.",
+        "Question": "$$f ( x ) = ( 1.5 )^{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b58bb2f9020da6e6a960d0d7d5f4342a883ca8b7"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each exponential function.",
+        "Question": "$$g ( x ) = ( 2.5 )^{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each exponential function.",
+        "Question": "$$f ( x ) = ( \\frac{1}{2} )^{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0c8c1ccae6ce41fdc26d084175daff08011544b0"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each exponential function.",
+        "Question": "$$g ( x ) = ( \\frac{1}{3} )^{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each exponential function.",
+        "Question": "$$f ( x ) = ( \\frac{1}{6} )^{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ea0bc3ba039631b4ddff853c1e2e060dc385ea87"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each exponential function.",
+        "Question": "$$g ( x ) = ( \\frac{1}{7} )^{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each exponential function.",
+        "Question": "$$f ( x ) = ( 0.4 )^{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7b8fe0828a0e70981c387703ab9c011b67382649"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each exponential function.",
+        "Question": "$$g ( x ) = ( 0.6 )^{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function in the same coordinate system.",
+        "Question": "$$f ( x ) = 4^{x} , g ( x ) = 4^{x - 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7857ca7926aafc2731627ba1121ddd2ffd747954"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function in the same coordinate system.",
+        "Question": "$$f ( x ) = 3^{x} , g ( x ) = 3^{x - 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function in the same coordinate system.",
+        "Question": "$$f ( x ) = 2^{x} , g ( x ) = 2^{x - 2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/122a637ca9665d7636cd618765ba968b56ddafcd"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function in the same coordinate system.",
+        "Question": "$$f ( x ) = 2^{x} , g ( x ) = 2^{x + 2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function in the same coordinate system.",
+        "Question": "$$f ( x ) = 3^{x} , g ( x ) = 3^{x} + 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/07982074b7ec7b24bf2e00de601666037faa2d96"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function in the same coordinate system.",
+        "Question": "$$f ( x ) = 4^{x} , g ( x ) = 4^{x} + 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function in the same coordinate system.",
+        "Question": "$$f ( x ) = 2^{x} , g ( x ) = 2^{x} + 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a798de69bc6ff3780970b2ca2384a46658a7d1b2"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each function in the same coordinate system.",
+        "Question": "$$f ( x ) = 2^{x} , g ( x ) = 2^{x} - 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each exponential function.",
+        "Question": "$$f ( x ) = 3^{x + 2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6ef859be4a403f4167e341cb9f94697ab77b2839"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each exponential function.",
+        "Question": "$$f ( x ) = 3^{x - 2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each exponential function.",
+        "Question": "$$f ( x ) = 2^{x} + 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a12b48b58554e6bdb92ed587a28fd38d85879870"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each exponential function.",
+        "Question": "$$f ( x ) = 2^{x} - 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each exponential function.",
+        "Question": "$$f ( x ) = ( \\frac{1}{2} )^{x - 4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/65244f6362f351fb5e1ac4370e109e9b9328846a"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each exponential function.",
+        "Question": "$$f ( x ) = ( \\frac{1}{2} )^{x} - 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each exponential function.",
+        "Question": "$$f ( x ) = e^{x} + 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b68388c9090b6ca2305113ad17da159e5da05557"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each exponential function.",
+        "Question": "$$f ( x ) = e^{x - 2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each exponential function.",
+        "Question": "$$f ( x ) = \\text{unicode[:-]} 2^{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/cf6cf297ae8d814e51e3d4e83f27c291318b815a"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each exponential function.",
+        "Question": "$$f ( x ) = 2^{- x - 1} -1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each equation.",
+        "Question": "$$2^{3 x - 8} = 16$$",
+        "Image Links": [],
+        "Answer": "$$x = 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each equation.",
+        "Question": "$$2^{2 x - 3} = 32$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each equation.",
+        "Question": "$$3^{x + 3} = 9$$",
+        "Image Links": [],
+        "Answer": "$$x = -1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each equation.",
+        "Question": "$$3^{x^{2}} = 81$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each equation.",
+        "Question": "$$4^{x^{2}} = 4$$",
+        "Image Links": [],
+        "Answer": "$$x = -1 , x = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each equation.",
+        "Question": "$$4^{x} = 32$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each equation.",
+        "Question": "$$4^{x + 2} = 64$$",
+        "Image Links": [],
+        "Answer": "$$x = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each equation.",
+        "Question": "$$4^{x + 3} = 16$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each equation.",
+        "Question": "$$2^{x^{2} + 2 x} = \\frac{1}{2}$$",
+        "Image Links": [],
+        "Answer": "$$x = -1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each equation.",
+        "Question": "$$3^{x^{2} - 2 x} = \\frac{1}{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each equation.",
+        "Question": "$$e^{3 x} \\cdotp e^{4} = e^{10}$$",
+        "Image Links": [],
+        "Answer": "$$x = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each equation.",
+        "Question": "$$e^{2 x} \\cdotp e^{3} = e^{9}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each equation.",
+        "Question": "$$\\frac{e^{x^{2}}}{e^{2}} = e^{x}$$",
+        "Image Links": [],
+        "Answer": "$$x = -1 , x = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each equation.",
+        "Question": "$$\\frac{e^{x^{2}}}{e^{3}} = e^{2 x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, match the graphs to one of the following functions: \u24d0 $$2^{x}$$ \u24d1 $$2^{x + 1}$$ \u24d2 $$2^{x - 1}$$ \u24d3 $$2^{x} + 2$$ \u24d4 $$2^{x} - 2$$ \u24d5 $$3^{x}$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/797ed32ef476d979e40e94447ab55bb7d12a02d5"
+        ],
+        "Answer": "\u24d5",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, match the graphs to one of the following functions: \u24d0 $$2^{x}$$ \u24d1 $$2^{x + 1}$$ \u24d2 $$2^{x - 1}$$ \u24d3 $$2^{x} + 2$$ \u24d4 $$2^{x} - 2$$ \u24d5 $$3^{x}$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a727a14c8f31c47da524288ba44f62a7c5554c98"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, match the graphs to one of the following functions: \u24d0 $$2^{x}$$ \u24d1 $$2^{x + 1}$$ \u24d2 $$2^{x - 1}$$ \u24d3 $$2^{x} + 2$$ \u24d4 $$2^{x} - 2$$ \u24d5 $$3^{x}$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b1994457d84ddff16ad12bd43ecbed4fa616840d"
+        ],
+        "Answer": "\u24d0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, match the graphs to one of the following functions: \u24d0 $$2^{x}$$ \u24d1 $$2^{x + 1}$$ \u24d2 $$2^{x - 1}$$ \u24d3 $$2^{x} + 2$$ \u24d4 $$2^{x} - 2$$ \u24d5 $$3^{x}$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/16757ff0d7a991025013ffcd25ac3b98fd97f986"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, match the graphs to one of the following functions: \u24d0 $$2^{x}$$ \u24d1 $$2^{x + 1}$$ \u24d2 $$2^{x - 1}$$ \u24d3 $$2^{x} + 2$$ \u24d4 $$2^{x} - 2$$ \u24d5 $$3^{x}$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0024bfa20d0ed1dd9cfc8c01b9d163cf32d96552"
+        ],
+        "Answer": "\u24d4",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, match the graphs to one of the following functions: \u24d0 $$2^{x}$$ \u24d1 $$2^{x + 1}$$ \u24d2 $$2^{x - 1}$$ \u24d3 $$2^{x} + 2$$ \u24d4 $$2^{x} - 2$$ \u24d5 $$3^{x}$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9f667118acf998aaf41b559d944f5fc153bac75b"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, use an exponential model to solve.",
+        "Question": "Edgar accumulated $$\\text{$} 5,000$$ in credit card debt. If the interest rate is $$20 \\text{%}$$ per year, and he does not make any payments for 2 years, how much will he owe on this debt in 2 years by each method of compounding? \u24d0 compound quarterly \u24d1 compound monthly \u24d2 compound continuously",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\text{$} 7,387.28$$ \u24d1 $$\\text{$} 7,434.57$$ \u24d2 $$\\text{$} 7,459.12$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, use an exponential model to solve.",
+        "Question": "Cynthia invested $$\\text{$} 12,000$$ in a savings account. If the interest rate is $$6 \\text{%} ,$$ how much will be in the account in 10 years by each method of compounding? \u24d0 compound quarterly \u24d1 compound monthly \u24d2 compound continuously",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, use an exponential model to solve.",
+        "Question": "Rochelle deposits $$\\text{$} 5,000$$ in an IRA. What will be the value of her investment in 25 years if the investment is earning $$8 \\text{%}$$ per year and is compounded continuously?",
+        "Image Links": [],
+        "Answer": "$$\\text{$} 36,945.28$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, use an exponential model to solve.",
+        "Question": "Nazerhy deposits $$\\text{$} 8,000$$ in a certificate of deposit. The annual interest rate is $$6 \\text{%}$$ and the interest will be compounded quarterly. How much will the certificate be worth in 10 years?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, use an exponential model to solve.",
+        "Question": "A researcher at the Center for Disease Control and Prevention is studying the growth of a bacteria. He starts his experiment with 100 of the bacteria that grows at a rate of $$6 \\text{%}$$ per hour. He will check on the bacteria every 8 hours. How many bacteria will he find in 8 hours?",
+        "Image Links": [],
+        "Answer": "162 bacteria",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, use an exponential model to solve.",
+        "Question": "A biologist is observing the growth pattern of a virus. She starts with 50 of the virus that grows at a rate of $$20 \\text{%}$$ per hour. She will check on the virus in 24 hours. How many viruses will she find?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, use an exponential model to solve.",
+        "Question": "In the last ten years the population of Indonesia has grown at a rate of $$1.12 \\text{%}$$ per year to 258,316,051. If this rate continues, what will be the population in 10 more years?",
+        "Image Links": [],
+        "Answer": "288,929,825",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, use an exponential model to solve.",
+        "Question": "In the last ten years the population of Brazil has grown at a rate of $$0.9 \\text{%}$$ per year to 205,823,665. If this rate continues, what will be the population in 10 more years?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "Explain how you can distinguish between exponential functions and polynomial functions.",
+        "Image Links": [],
+        "Answer": "Answers will vary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "Compare and contrast the graphs of $$y = x^{2}$$ and $$y = 2^{x}$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "What happens to an exponential function as the values of $$x$$ decreases? Will the graph ever cross the $$x$$ -axis? Explain.",
+        "Image Links": [],
+        "Answer": "Answers will vary.",
+        "Answer Image Links": []
+    }
+]

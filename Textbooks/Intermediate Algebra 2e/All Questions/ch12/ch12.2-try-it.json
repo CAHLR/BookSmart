@@ -1,0 +1,130 @@
+[
+    {
+        "Topic": "Try It 12.25",
+        "Problem Statement": "",
+        "Question": "Determine if each sequence is arithmetic. If so, indicate the common difference. \u24d0 $$9 , 20 , 31 , 42 , 53 , 64 \\text{,} \\text{unicode[:ddot.]}$$ \u24d1 $$12 , 6 , 0 , -6 , -12 , -18 \\text{,} \\text{unicode[:ddot.]}$$ \u24d2 $$7 , 1 , 10 , 4 , 13 , 7 \\text{,} \\text{unicode[:ddot.]}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 The sequence is arithmetic with common difference $$d = 11$$ . \u24d1 The sequence is arithmetic with common difference $$d = -6$$ . \u24d2 The sequence is not arithmetic as all the differences between the consecutive terms are not the same.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.26",
+        "Problem Statement": "",
+        "Question": "Determine if each sequence is arithmetic. If so, indicate the common difference. \u24d0 $$-4 , 4 , 2 , 10 , 8 , 16 \\text{,} \\text{unicode[:ddot.]}$$ \u24d1 $$-3 , -1 , 1 , 3 , 5 , 7 \\text{,} \\text{unicode[:ddot.]}$$ \u24d2 $$7 , 2 , -3 , -8 , -13 , -18 \\text{,} \\text{unicode[:ddot.]}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 The sequence is not arithmetic as all the differences between the consecutive terms are not the same. \u24d1 The sequence is arithmetic with common difference $$d = 2 .$$ \u24d2 The sequence is arithmetic with common difference $$d = -5 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.27",
+        "Problem Statement": "",
+        "Question": "Write the first five terms of the sequence where the first term is 7 and the common difference is $$d = -4 .$$",
+        "Image Links": [],
+        "Answer": "$$7 , 3 , -1 , -5 , -9 \\text{,} \\text{unicode[:ddot.]}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.28",
+        "Problem Statement": "",
+        "Question": "Write the first five terms of the sequence where the first term is 11 and the common difference is $$d = -8 .$$",
+        "Image Links": [],
+        "Answer": "$$11 , 3 , -5 , -13 , -21 \\text{,} \\text{unicode[:ddot.]}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.29",
+        "Problem Statement": "",
+        "Question": "Find the twenty-seventh term of a sequence where the first term is 7 and the common difference is 9.",
+        "Image Links": [],
+        "Answer": "241",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.30",
+        "Problem Statement": "",
+        "Question": "Find the eighteenth term of a sequence where the first term is 13 and the common difference is $$-7$$ .",
+        "Image Links": [],
+        "Answer": "$$-106$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.31",
+        "Problem Statement": "",
+        "Question": "Find the eleventh term of a sequence where the ninth term is 8 and the common difference is $$-3 .$$ Give the formula for the general term.",
+        "Image Links": [],
+        "Answer": "$$a_{11} = 2 .$$ The general term is $$a_{n} = -3 n + 35 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.32",
+        "Problem Statement": "",
+        "Question": "Find the nineteenth term of a sequence where the fifth term is 1 and the common difference is $$-4 .$$ Give the formula for the general term.",
+        "Image Links": [],
+        "Answer": "$$a_{19} = -55 .$$ The general term is $$a_{n} = -4 n + 21 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.33",
+        "Problem Statement": "",
+        "Question": "Find the first term and common difference of a sequence where the fourth term is 17 and the thirteenth term is 53. Give the formula for the general term.",
+        "Image Links": [],
+        "Answer": "$$a_{1} = 5 ,$$ $$d = 4 .$$ The general term is $$a_{n} = 4 n + 1 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.34",
+        "Problem Statement": "",
+        "Question": "Find the first term and common difference of a sequence where the third term is 2 and the twelfth term is $$-25 .$$ Give the formula for the general term.",
+        "Image Links": [],
+        "Answer": "$$a_{1} = 8 ,$$ $$d = -3 .$$ The general term is $$a_{n} = -3 n + 11 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.35",
+        "Problem Statement": "",
+        "Question": "Find the sum of the first 30 terms of the arithmetic sequence: 5, 9, 13, 17, 21, \u2026",
+        "Image Links": [],
+        "Answer": "1,890",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.36",
+        "Problem Statement": "",
+        "Question": "Find the sum of the first 30 terms of the arithmetic sequence: 7, 10, 13, 16, 19, \u2026",
+        "Image Links": [],
+        "Answer": "1,515",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.37",
+        "Problem Statement": "",
+        "Question": "Find the sum of the first 50 terms of the arithmetic sequence whose general term is $$a_{n} = 2 n - 5 .$$",
+        "Image Links": [],
+        "Answer": "2,300",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.38",
+        "Problem Statement": "",
+        "Question": "Find the sum of the first 50 terms of the arithmetic sequence whose general term is $$a_{n} = 4 n + 3 .$$",
+        "Image Links": [],
+        "Answer": "5,250",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.39",
+        "Problem Statement": "",
+        "Question": "Find the sum: $$\\sum_{i = 1}^{30} ( 6 i - 4 ) .$$",
+        "Image Links": [],
+        "Answer": "2,670",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 12.40",
+        "Problem Statement": "",
+        "Question": "Find the sum: $$\\sum_{i = 1}^{35} ( 5 i - 3 ) .$$",
+        "Image Links": [],
+        "Answer": "3,045",
+        "Answer Image Links": []
+    }
+]

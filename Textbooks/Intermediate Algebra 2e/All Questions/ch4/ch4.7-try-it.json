@@ -1,0 +1,156 @@
+[
+    {
+        "Topic": "Try It 4.105",
+        "Problem Statement": "",
+        "Question": "Determine whether the ordered pair is a solution to the system: $$\\{ \\left .\\begin{matrix}{a}x - 5 y > 10 \\\\ 2 x + 3 y > -2\\end{matrix}\\right . .$$ \u24d0 $$( 3 , -1 )$$ \u24d1 $$( 6 , -3 )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 no \u24d1 yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.106",
+        "Problem Statement": "",
+        "Question": "Determine whether the ordered pair is a solution to the system: $$\\{ \\left .\\begin{matrix}{a}y > 4 x - 2 \\\\ 4 x - y < 20\\end{matrix}\\right . .$$ \u24d0 $$( -2 , 1 )$$ \u24d1 $$( 4 , -1 )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 yes \u24d1 no",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.107",
+        "Problem Statement": "",
+        "Question": "Solve the system by graphing: $$\\{ \\left .\\begin{matrix}{a}y < 3 x + 2 \\\\ y > \\text{unicode[:-]} x - 1\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "$$\\{ \\left .\\begin{matrix}{a}\\text{} x + y + z = 4 \\\\ 2 x + 3 y - z = 8 \\\\ x + y - z = 3\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.108",
+        "Problem Statement": "",
+        "Question": "Solve the system by graphing: $$\\{ \\left .\\begin{matrix}{a}y < - \\frac{1}{2} x + 3 \\\\ y < 3 x - 4\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "The solution is the grey region.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f2b65191fe8dc4970ee1250e0ccd7c75eff81645"
+        ]
+    },
+    {
+        "Topic": "Try It 4.109",
+        "Problem Statement": "",
+        "Question": "Solve the system by graphing: $$\\{ \\left .\\begin{matrix}{a}x + y \\le 2 \\\\ y \\geq \\frac{2}{3} x - 1\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "The solution is the grey region.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7a52a05bb64da8fb40de8a8b8d882810e42a7526"
+        ]
+    },
+    {
+        "Topic": "Try It 4.110",
+        "Problem Statement": "",
+        "Question": "Solve the system by graphing: $$\\{ \\left .\\begin{matrix}{a}3 x - 2 y \\le 6 \\\\ y > \\text{unicode[:-]} \\frac{1}{4} x + 5\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "The solution is the grey region.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/70c9a70303af3fc8c0a9017eab1f9016503af2ee"
+        ]
+    },
+    {
+        "Topic": "Try It 4.111",
+        "Problem Statement": "",
+        "Question": "Solve the system by graphing: $$\\{ \\left .\\begin{matrix}{a}y \\geq 3 x - 2 \\\\ y < - 1\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "The solution is the grey region.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/97a971055090e43fb7ec85312b0280b8420e697b"
+        ]
+    },
+    {
+        "Topic": "Try It 4.112",
+        "Problem Statement": "",
+        "Question": "Solve the system by graphing: $$\\{ \\left .\\begin{matrix}{a}x > -4 \\\\ x - 2 y \\geq -4\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "The solution is the grey region.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/329e2a328c1a8f52ff9aa342f597ed03e2ea6415"
+        ]
+    },
+    {
+        "Topic": "Try It 4.113",
+        "Problem Statement": "",
+        "Question": "Solve the system by graphing: $$\\{ \\left .\\begin{matrix}{a}3 x - 2 y \\geq 12 \\\\ y \\geq \\frac{3}{2} x + 1\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "No solution.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/60bab188c2d0cab4cda14fd442b41bb9121da80a"
+        ]
+    },
+    {
+        "Topic": "Try It 4.114",
+        "Problem Statement": "",
+        "Question": "Solve the system by graphing: $$\\{ \\left .\\begin{matrix}{a}x + 3 y > 8 \\\\ y < - \\frac{1}{3} x - 2\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "No solution.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/acfb7c0750fb6de2d54c39d6209df6e475bf546d"
+        ]
+    },
+    {
+        "Topic": "Try It 4.115",
+        "Problem Statement": "",
+        "Question": "Solve the system by graphing: $$\\{ \\left .\\begin{matrix}{a}y \\geq 3 x + 1 \\\\ -3 x + y \\geq -4\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "The solution is the grey region.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/781b372f1a2f93a396c6704667561315f391f719"
+        ]
+    },
+    {
+        "Topic": "Try It 4.116",
+        "Problem Statement": "",
+        "Question": "Solve the system by graphing: $$\\{ \\left .\\begin{matrix}{a}y \\le - \\frac{1}{4} x + 2 \\\\ x + 4 y \\le 4\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "The solution is the grey region.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/bb32b2a700165e3cc57fc362206adac16c163b03"
+        ]
+    },
+    {
+        "Topic": "Try It 4.117",
+        "Problem Statement": "",
+        "Question": "A trailer can carry a maximum weight of 160 pounds and a maximum volume of 15 cubic feet. A microwave oven weighs 30 pounds and has 2 cubic feet of volume, while a printer weighs 20 pounds and has 3 cubic feet of space. \u24d0 Write a system of inequalities to model this situation. \u24d1 Graph the system. \u24d2 Could 4 microwaves and 2 printers be carried on this trailer? \u24d3 Could 7 microwaves and 3 printers be carried on this trailer?",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\{ \\left .\\begin{matrix}{a}30 m + 20 p \\le 160 \\\\ 2 m + 3 p \\le 15\\end{matrix}\\right .$$ \u24d1 \u24d2 yes \u24d3 no",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b3ecc42471e290e229265e456ab328ff70072503"
+        ]
+    },
+    {
+        "Topic": "Try It 4.118",
+        "Problem Statement": "",
+        "Question": "Mary needs to purchase supplies of answer sheets and pencils for a standardized test to be given to the juniors at her high school. The number of the answer sheets needed is at least 5 more than the number of pencils. The pencils cost $2 and the answer sheets cost $1. Mary\u2019s budget for these supplies allows for a maximum cost of $400. \u24d0 Write a system of inequalities to model this situation. \u24d1 Graph the system. \u24d2 Could Mary purchase 100 pencils and 100 answer sheets? \u24d3 Could Mary purchase 150 pencils and 150 answer sheets?",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\{ \\left .\\begin{matrix}{a}a \\geq p + 5 \\\\ a + 2 p \\le 400\\end{matrix}\\right .$$ \u24d1 \u24d2 no \u24d3 no",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2c3401404e2da4a4eef9a96f850ecb4220cc1cf3"
+        ]
+    },
+    {
+        "Topic": "Try It 4.119",
+        "Problem Statement": "",
+        "Question": "Tenison needs to eat at least an extra 1,000 calories a day to prepare for running a marathon. He has only $25 to spend on the extra food he needs and will spend it on $0.75 donuts which have 360 calories each and $2 energy drinks which have 110 calories. \u24d0 Write a system of inequalities that models this situation. \u24d1 Graph the system. \u24d2 Can he buy 8 donuts and 4 energy drinks and satisfy his caloric needs? \u24d3 Can he buy 1 donut and 3 energy drinks and satisfy his caloric needs?",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\{ \\left .\\begin{matrix}{a}0.75 d + 2 e \\le 25 \\\\ 360 d + 110 e \\geq 1000\\end{matrix}\\right .$$ \u24d1 \u24d2 yes \u24d3 no",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7107af4a840ab1405067632c307efc96942de8cf"
+        ]
+    },
+    {
+        "Topic": "Try It 4.120",
+        "Problem Statement": "",
+        "Question": "Philip\u2019s doctor tells him he should add at least 1,000 more calories per day to his usual diet. Philip wants to buy protein bars that cost $1.80 each and have 140 calories and juice that costs $1.25 per bottle and have 125 calories. He doesn\u2019t want to spend more than $12. \u24d0 Write a system of inequalities that models this situation. \u24d1 Graph the system. \u24d2 Can he buy 3 protein bars and 5 bottles of juice? \u24d3 Can he buy 5 protein bars and 3 bottles of juice?",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\{ \\left .\\begin{matrix}{a}140 p + 125 j \\geq 1000 \\\\ 1.80 p + 1.25 j \\le 12\\end{matrix}\\right .$$ \u24d1 \u24d2 yes \u24d3 no",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e12ede105d3168b110dc5293d28641c2cad20a4b"
+        ]
+    }
+]

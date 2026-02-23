@@ -1,0 +1,98 @@
+[
+    {
+        "Topic": "Try It 4.61",
+        "Problem Statement": "",
+        "Question": "Determine whether the ordered triple is a solution to the system: $$\\{ \\left .\\begin{matrix}{a}3 x + y + z = 2 \\\\ x + 2 y + z = -3 \\\\ 3 x + y + 2 z = 4\\end{matrix}\\right . .$$ \u24d0 $$( 1 , -3 , 2 )$$ \u24d1 $$( 4 , -1 , -5 )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 yes \u24d1 no",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.62",
+        "Problem Statement": "",
+        "Question": "Determine whether the ordered triple is a solution to the system: $$\\{ \\left .\\begin{matrix}{a}x - 3 y + z = -5 \\\\ - 3 x - y - z = 1 \\\\ 2 x - 2 y + 3 z = 1\\end{matrix}\\right . .$$ \u24d0 $$( 2 , -2 , 3 )$$ \u24d1 $$( -2 , 2 , 3 )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 no \u24d1 yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.63",
+        "Problem Statement": "",
+        "Question": "Solve the system by elimination: $$\\{ \\left .\\begin{matrix}{a}3 x + y - z = 2 \\\\ 2 x - 3 y - 2 z = 1 \\\\ 4 x - y - 3 z = 0\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "$$( 2 , -1 , 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.64",
+        "Problem Statement": "",
+        "Question": "Solve the system by elimination: $$\\{ \\left .\\begin{matrix}{a}4 x + y + z = -1 \\\\ - 2 x - 2 y + z = 2 \\\\ 2 x + 3 y - z = 1\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "$$( -2 , 3 , 4 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.65",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\{ \\left .\\begin{matrix}{a}3 x - 4 z = -1 \\\\ 2 y + 3 z = 2 \\\\ 2 x + 3 y = 6\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "$$( -3 , 4 , -2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.66",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\{ \\left .\\begin{matrix}{a}4 x - 3 z = -5 \\\\ 3 y + 2 z = 7 \\\\ 3 x + 4 y = 6\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "$$( -2 , 3 , -1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.67",
+        "Problem Statement": "",
+        "Question": "Solve the system of equations: $$\\{ \\left .\\begin{matrix}{a}x + 2 y + 6 z = 5 \\\\ - x + y - 2 z = 3 \\\\ x - 4 y - 2 z = 1\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "no solution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.68",
+        "Problem Statement": "",
+        "Question": "Solve the system of equations: $$\\{ \\left .\\begin{matrix}{a}2 x - 2 y + 3 z = 6 \\\\ 4 x - 3 y + 2 z = 0 \\\\ - 2 x + 3 y - 7 z = 1\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "no solution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.69",
+        "Problem Statement": "",
+        "Question": "Solve the system by equations: $$\\{ \\left .\\begin{matrix}{a}x + y - z = 0 \\\\ 2 x + 4 y - 2 z = 6 \\\\ 3 x + 6 y - 3 z = 9\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "infinitely many solutions $$( x , 3 , z )$$ where $$x = z - 3 ; y = 3 ; z$$ is any real number",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.70",
+        "Problem Statement": "",
+        "Question": "Solve the system by equations: $$\\{ \\left .\\begin{matrix}{a}x - y - z = 1 \\\\ - x + 2 y - 3 z = -4 \\\\ 3 x - 2 y - 7 z = 0\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "infinitely many solutions $$( x , y , z )$$ where $$x = 5 z - 2 ; y = 4 z - 3 ; z$$ is any real number",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.71",
+        "Problem Statement": "",
+        "Question": "The community college fine arts department sold three kinds of tickets to its latest dance presentation. The adult tickets sold for $20, the student tickets for $12 and the child tickets for $10.The fine arts department was thrilled to have sold 350 tickets and brought in $4,650 in one night. The number of child tickets sold is the same as the number of adult tickets sold. How many of each type did the department sell?",
+        "Image Links": [],
+        "Answer": "The fine arts department sold 75 adult tickets, 200 student tickets, and 75 child tickets.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.72",
+        "Problem Statement": "",
+        "Question": "The community college soccer team sold three kinds of tickets to its latest game. The adult tickets sold for $10, the student tickets for $8 and the child tickets for $5. The soccer team was thrilled to have sold 600 tickets and brought in $4,900 for one game. The number of adult tickets is twice the number of child tickets. How many of each type did the soccer team sell?",
+        "Image Links": [],
+        "Answer": "The soccer team sold 200 adult tickets, 300 student tickets, and 100 child tickets.",
+        "Answer Image Links": []
+    }
+]

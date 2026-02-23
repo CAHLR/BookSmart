@@ -1,0 +1,194 @@
+[
+    {
+        "Topic": "Try It 7.1",
+        "Problem Statement": "",
+        "Question": "Determine the value for which each rational expression is undefined. \u24d0 $$\\frac{3 y^{2}}{8 x}$$ \u24d1 $$\\frac{8 n - 5}{3 n + 1}$$ \u24d2 $$\\frac{a + 10}{a^{2} + 4 a + 3}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$x = 0$$ \u24d1 $$n = - \\frac{1}{3}$$ \u24d2 $$a = -1 , a = -3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.2",
+        "Problem Statement": "",
+        "Question": "Determine the value for which each rational expression is undefined. \u24d0 $$\\frac{4 p}{5 q}$$ \u24d1 $$\\frac{y - 1}{3 y + 2}$$ \u24d2 $$\\frac{m - 5}{m^{2} + m - 6}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$q = 0$$ \u24d1 $$y = - \\frac{2}{3}$$ \u24d2 $$m = 2 , m = -3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.3",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\frac{x^{2} - x - 2}{x^{2} - 3 x + 2} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{x + 1}{x - 1} ,$$ $$x \\ne 2 ,$$ $$x \\ne 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.4",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\frac{x^{2} - 3 x - 10}{x^{2} + x - 2} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{x - 5}{x - 1} ,$$ $$x \\ne \\text{unicode[:-]} 2 ,$$ $$x \\ne 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.5",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\frac{2 x^{2} - 12 x y + 18 y^{2}}{3 x^{2} - 27 y^{2}}$$ .",
+        "Image Links": [],
+        "Answer": "$$\\frac{2 ( x - 3 y )}{3 ( x + 3 y )}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.6",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\frac{5 x^{2} - 30 x y + 25 y^{2}}{2 x^{2} - 50 y^{2}}$$ .",
+        "Image Links": [],
+        "Answer": "$$\\frac{5 ( x - y )}{2 ( x + 5 y )}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.7",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\frac{x^{2} - 4 x - 5}{25 - x^{2}} .$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{x + 1}{x + 5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.8",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\frac{x^{2} + x - 2}{1 - x^{2}} .$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{x + 2}{x + 1}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.9",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\frac{5 x}{x^{2} + 5 x + 6} \\cdotp \\frac{x^{2} - 4}{10 x} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{x - 2}{2 ( x + 3 )}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.10",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\frac{9 x^{2}}{x^{2} + 11 x + 30} \\cdotp \\frac{x^{2} - 36}{3 x^{2}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3 ( x - 6 )}{x + 5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.11",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\frac{2 x^{2} + 5 x - 12}{x^{2} - 16} \\cdotp \\frac{x^{2} - 8 x + 16}{2 x^{2} - 13 x + 15} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{x - 4}{x - 5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.12",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\frac{4 b^{2} + 7 b - 2}{1 - b^{2}} \\cdotp \\frac{b^{2} - 2 b + 1}{4 b^{2} + 15 b - 4} .$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{( b + 2 ) ( b - 1 )}{( 1 + b ) ( b + 4 )}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.13",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\frac{x^{3} + 8}{3 x^{2} - 6 x + 12} \\div \\frac{x^{2} - 4}{6} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2}{x - 2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.14",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\frac{2 z^{2}}{z^{2} - 1} \\div \\frac{z^{3} - z^{2} + z}{z^{3} + 1} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2 z}{z - 1}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.15",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\frac{\\frac{3 x^{2} + 7 x + 2}{4 x + 24}}{\\frac{3 x^{2} - 14 x - 5}{x^{2} + x - 30}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{x + 2}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.16",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\frac{\\frac{y^{2} - 36}{2 y^{2} + 11 y - 6}}{\\frac{2 y^{2} - 2 y - 60}{8 y - 4}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2}{y + 5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.17",
+        "Problem Statement": "",
+        "Question": "Perform the indicated operations: $$\\frac{4 m + 4}{3 m - 15} \\cdotp \\frac{m^{2} - 3 m - 10}{m^{2} - 4 m - 32} \\div \\frac{12 m - 36}{6 m - 48} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2 ( m + 1 ) ( m + 2 )}{3 ( m + 4 ) ( m - 3 )}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.18",
+        "Problem Statement": "",
+        "Question": "Perform the indicated operations: $$\\frac{2 n^{2} + 10 n}{n - 1} \\div \\frac{n^{2} + 10 n + 24}{n^{2} + 8 n - 9} \\cdotp \\frac{n + 4}{8 n^{2} + 12 n} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{( n + 5 ) ( n + 9 )}{2 ( n + 6 ) ( 2 n + 3 )}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.19",
+        "Problem Statement": "",
+        "Question": "Find the domain of $$R ( x ) = \\frac{2 x^{2} - 10 x}{4 x^{2} - 16 x - 20} .$$",
+        "Image Links": [],
+        "Answer": "The domain of $$R ( x )$$ is all real numbers where $$x \\ne 5$$ and $$x \\ne \\text{unicode[:-]} 1 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.20",
+        "Problem Statement": "",
+        "Question": "Find the domain of $$R ( x ) = \\frac{4 x^{2} - 16 x}{8 x^{2} - 16 x - 64} .$$",
+        "Image Links": [],
+        "Answer": "The domain of $$R ( x )$$ is all real numbers where $$x \\ne 4$$ and $$x \\ne \\text{unicode[:-]} 2 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.21",
+        "Problem Statement": "",
+        "Question": "Find $$R ( x ) = f ( x ) \\cdotp g ( x )$$ where $$f ( x ) = \\frac{3 x - 21}{x^{2} - 9 x + 14}$$ and $$g ( x ) = \\frac{2 x^{2} - 8}{3 x + 6} .$$",
+        "Image Links": [],
+        "Answer": "$$R ( x ) = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.22",
+        "Problem Statement": "",
+        "Question": "Find $$R ( x ) = f ( x ) \\cdotp g ( x )$$ where $$f ( x ) = \\frac{x^{2} - x}{3 x^{2} + 27 x - 30}$$ and $$g ( x ) = \\frac{x^{2} - 100}{x^{2} - 10 x} .$$",
+        "Image Links": [],
+        "Answer": "$$R ( x ) = \\frac{1}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.23",
+        "Problem Statement": "",
+        "Question": "Find $$R ( x ) = \\frac{f ( x )}{g ( x )}$$ where $$f ( x ) = \\frac{2 x^{2}}{x^{2} - 8 x}$$ and $$g ( x ) = \\frac{8 x^{2} + 24 x}{x^{2} + x - 6} .$$",
+        "Image Links": [],
+        "Answer": "$$R ( x ) = \\frac{x - 2}{4 ( x - 8 )}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.24",
+        "Problem Statement": "",
+        "Question": "Find $$R ( x ) = \\frac{f ( x )}{g ( x )}$$ where $$f ( x ) = \\frac{15 x^{2}}{3 x^{2} + 33 x}$$ and $$g ( x ) = \\frac{5 x - 5}{x^{2} + 9 x - 22} .$$",
+        "Image Links": [],
+        "Answer": "$$R ( x ) = \\frac{x ( x - 2 )}{x - 1}$$",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "Topic": "Try It 11.39",
+        "Problem Statement": "",
+        "Question": "Graph: $$\\frac{x^{2}}{4} + \\frac{y^{2}}{16} = 1 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f4da364a7241cd28e0cace95a30cba5a7941dd25"
+        ]
+    },
+    {
+        "Topic": "Try It 11.40",
+        "Problem Statement": "",
+        "Question": "Graph: $$\\frac{x^{2}}{9} + \\frac{y^{2}}{16} = 1 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/36c8b83496d4f9750881951b2520a569f8e80611"
+        ]
+    },
+    {
+        "Topic": "Try It 11.41",
+        "Problem Statement": "",
+        "Question": "Graph $$9 x^{2} + 16 y^{2} = 144 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/4daa7527f7a757fe297c188641b45512cbeb07d4"
+        ]
+    },
+    {
+        "Topic": "Try It 11.42",
+        "Problem Statement": "",
+        "Question": "Graph $$16 x^{2} + 25 y^{2} = 400 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6309897b09e0c960ee6edf6fdbbb98e090e0c188"
+        ]
+    },
+    {
+        "Topic": "Try It 11.43",
+        "Problem Statement": "",
+        "Question": "Find the equation of the ellipse shown.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ae8649235229db2da52d36b7a9005dc1c6f60d62"
+        ],
+        "Answer": "$$\\frac{x^{2}}{4} + \\frac{y^{2}}{25} = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 11.44",
+        "Problem Statement": "",
+        "Question": "Find the equation of the ellipse shown.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ad8c51fb40cb85922a927a60b6216b6566ffffa7"
+        ],
+        "Answer": "$$\\frac{x^{2}}{9} + \\frac{y^{2}}{4} = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 11.45",
+        "Problem Statement": "",
+        "Question": "Graph: $$\\frac{( x + 3 )^{2}}{4} + \\frac{( y - 5 )^{2}}{16} = 1 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e8f6594556164ed21b3f6964f4dd4e919b1e5d3f"
+        ]
+    },
+    {
+        "Topic": "Try It 11.46",
+        "Problem Statement": "",
+        "Question": "Graph: $$\\frac{( x - 1 )^{2}}{25} + \\frac{( y + 3 )^{2}}{16} = 1 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/23e7828d95f0764b4bb9267f401efe91f2b44b86"
+        ]
+    },
+    {
+        "Topic": "Try It 11.47",
+        "Problem Statement": "",
+        "Question": "Graph $$\\frac{( x - 5 )^{2}}{9} + \\frac{( y + 4 )^{2}}{4} = 1$$ by translation.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/417b1cdb7301aa15f360e5db52b41bb8133913bb"
+        ]
+    },
+    {
+        "Topic": "Try It 11.48",
+        "Problem Statement": "",
+        "Question": "Graph $$\\frac{( x + 6 )^{2}}{16} + \\frac{( y + 2 )^{2}}{25} = 1$$ by translation.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/561845236c4aec3d9503d400c50340f1129e13b2"
+        ]
+    },
+    {
+        "Topic": "Try It 11.49",
+        "Problem Statement": "",
+        "Question": "\u24d0 Write the equation $$6 x^{2} + 4 y^{2} + 12 x - 32 y + 34 = 0$$ in standard form and \u24d1 graph.",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{( x + 1 )^{2}}{6} + \\frac{( y - 4 )^{2}}{9} = 1$$ \u24d1",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6054d0ff7165990d08a18768e2cd7a2fd10f7586"
+        ]
+    },
+    {
+        "Topic": "Try It 11.50",
+        "Problem Statement": "",
+        "Question": "\u24d0 Write the equation $$4 x^{2} + y^{2} - 16 x - 6 y + 9 = 0$$ in standard form and \u24d1 graph.",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{( x - 2 )^{2}}{4} + \\frac{( y - 3 )^{2}}{16} = 1$$ \u24d1",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c0207c1ff75bbd4d8a01e47b115a37660fa60b88"
+        ]
+    },
+    {
+        "Topic": "Try It 11.51",
+        "Problem Statement": "",
+        "Question": "A planet moves in an elliptical orbit around its sun. The closest the planet gets to the sun is approximately 20 AU and the furthest is approximately 30 AU. The sun is one of the foci of the elliptical orbit. Letting the ellipse center at the origin and labeling the axes in AU, the orbit will look like the figure below. Use the graph to write an equation for the elliptical orbit of the planet.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d924f951da8e5142e069846fadc8e66248d926e8"
+        ],
+        "Answer": "$$\\frac{x^{2}}{625} + \\frac{y^{2}}{600} = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 11.52",
+        "Problem Statement": "",
+        "Question": "A planet moves in an elliptical orbit around its sun. The closest the planet gets to the sun is approximately 20 AU and the furthest is approximately 50 AU. The sun is one of the foci of the elliptical orbit. Letting the ellipse center at the origin and labeling the axes in AU, the orbit will look like the figure below. Use the graph to write an equation for the elliptical orbit of the planet.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/34719e70fab61542354ce545dfaec012392fb406"
+        ],
+        "Answer": "$$\\frac{x^{2}}{1225} + \\frac{y^{2}}{1000} = 1$$",
+        "Answer Image Links": []
+    }
+]

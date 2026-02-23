@@ -1,0 +1,750 @@
+[
+    {
+        "Topic": "Finding Composite and Inverse Functions",
+        "Problem Statement": "In the following exercises, for each pair of functions, find \u24d0 ( f \u2218 g )( x ), \u24d1 ( g \u2218 f )( x ), and \u24d2 ( f \u00b7 g )( x ).",
+        "Question": "$$f ( x ) = 7 x - 2$$ and $$g ( x ) = 5 x + 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Finding Composite and Inverse Functions",
+        "Problem Statement": "In the following exercises, for each pair of functions, find \u24d0 ( f \u2218 g )( x ), \u24d1 ( g \u2218 f )( x ), and \u24d2 ( f \u00b7 g )( x ).",
+        "Question": "$$f ( x ) = 4 x$$ and $$g ( x ) = x^{2} + 3 x$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$4 x^{2} + 12 x$$ \u24d1 $$16 x^{2} + 12 x$$ \u24d2 $$4 x^{3} + 12 x^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Finding Composite and Inverse Functions",
+        "Problem Statement": "In the following exercises, evaluate the composition.",
+        "Question": "For functions $$f ( x ) = 3 x^{2} + 2$$ and $$g ( x ) = 4 x - 3 ,$$ find \u24d0 $$( f \\vysmwhtcircle g ) ( -3 )$$ \u24d1 $$( g \\vysmwhtcircle f ) ( -2 )$$ \u24d2 $$( f \\vysmwhtcircle f ) ( -1 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Finding Composite and Inverse Functions",
+        "Problem Statement": "In the following exercises, evaluate the composition.",
+        "Question": "For functions $$f ( x ) = 2 x^{3} + 5$$ and $$g ( x ) = 3 x^{2} - 7 ,$$ find \u24d0 $$( f \\vysmwhtcircle g ) ( -1 )$$ \u24d1 $$( g \\vysmwhtcircle f ) ( -2 )$$ \u24d2 $$( g \\vysmwhtcircle g ) ( 1 )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-123$$ \u24d1 356 \u24d2 41",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Finding Composite and Inverse Functions",
+        "Problem Statement": "In the following exercises, for each set of ordered pairs, determine if it represents a function and if so, is the function one-to-one.",
+        "Question": "$$\\{ ( -3 , -5 ) , ( -2 , -4 ) , ( -1 , -3 ) , ( 0 , -2 ) ,$$ $$( -1 , -1 ) , ( -2 , 0 ) , ( -3 , 1 ) \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Finding Composite and Inverse Functions",
+        "Problem Statement": "In the following exercises, for each set of ordered pairs, determine if it represents a function and if so, is the function one-to-one.",
+        "Question": "$$\\{ ( -3 , 0 ) , ( -2 , -2 ) , ( -1 , 0 ) , ( 0 , 1 ) ,$$ $$( 1 , 2 ) , ( 2 , 1 ) , ( 3 , -1 ) \\}$$",
+        "Image Links": [],
+        "Answer": "Function; not one-to-one",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Finding Composite and Inverse Functions",
+        "Problem Statement": "In the following exercises, for each set of ordered pairs, determine if it represents a function and if so, is the function one-to-one.",
+        "Question": "$$\\{ ( -3 , 3 ) , ( -2 , 1 ) , ( -1 , -1 ) , ( 0 , -3 ) ,$$ $$( 1 , -5 ) , ( 2 , -4 ) , ( 3 , -2 ) \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Finding Composite and Inverse Functions",
+        "Problem Statement": "In the following exercises, determine whether each graph is the graph of a function and if so, is it one-to-one.",
+        "Question": "\u24d0 \u24d1",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/66de1f37ff4c5848ac558cbccc02922a8d406630",
+            "https://openstax.org/apps/archive/20240812.170248/resources/0b16c689da48feedcaf9f6cf53d9fd796df44b5b"
+        ],
+        "Answer": "\u24d0 Function; not one-to-one \u24d1 Not a function",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Finding Composite and Inverse Functions",
+        "Problem Statement": "In the following exercises, determine whether each graph is the graph of a function and if so, is it one-to-one.",
+        "Question": "\u24d0 \u24d1",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/197ef281144d3fd2e6fd86935b1144bb31264ae8",
+            "https://openstax.org/apps/archive/20240812.170248/resources/0b8ada8e1e2676a84ea37f2e2541cffa8d90992f"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Finding Composite and Inverse Functions",
+        "Problem Statement": "In the following exercise, find the inverse of the function. Determine the domain and range of the inverse function.",
+        "Question": "$$\\{ ( -3 , 10 ) , ( -2 , 5 ) , ( -1 , 2 ) , ( 0 , 1 ) \\}$$",
+        "Image Links": [],
+        "Answer": "Inverse function: $$\\{ ( 10 , -3 ) , ( 5 , -2 ) , ( 2 , -1 ) , ( 1 , 0 ) \\} .$$ Domain: $$\\{ 1 , 2 , 5 , 10 \\} .$$ Range: $$\\{ -3 , -2 , -1 , 0 \\} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Finding Composite and Inverse Functions",
+        "Problem Statement": "In the following exercise, graph the inverse of the one-to-one function shown.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6c0bf9326fd15a3fdc1fa062cf06cac7f017613f"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Finding Composite and Inverse Functions",
+        "Problem Statement": "In the following exercises, verify that the functions are inverse functions.",
+        "Question": "$$f ( x ) = 3 x + 7$$ and $$g ( x ) = \\frac{x - 7}{3}$$",
+        "Image Links": [],
+        "Answer": "$$g ( f ( x ) ) = x ,$$ and $$f ( g ( x ) ) = x ,$$ so they are inverses.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Finding Composite and Inverse Functions",
+        "Problem Statement": "In the following exercises, verify that the functions are inverse functions.",
+        "Question": "$$f ( x ) = 2 x + 9$$ and $$g ( x ) = \\frac{x + 9}{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Finding Composite and Inverse Functions",
+        "Problem Statement": "In the following exercises, find the inverse of each function.",
+        "Question": "$$f ( x ) = 6 x - 11$$",
+        "Image Links": [],
+        "Answer": "$$f^{-1} ( x ) = \\frac{x + 11}{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Finding Composite and Inverse Functions",
+        "Problem Statement": "In the following exercises, find the inverse of each function.",
+        "Question": "$$f ( x ) = x^{3} + 13$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Finding Composite and Inverse Functions",
+        "Problem Statement": "In the following exercises, find the inverse of each function.",
+        "Question": "$$f ( x ) = \\frac{1}{x + 5}$$",
+        "Image Links": [],
+        "Answer": "$$f^{-1} ( x ) = \\frac{1}{x} - 5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Finding Composite and Inverse Functions",
+        "Problem Statement": "In the following exercises, find the inverse of each function.",
+        "Question": "$$f ( x ) = \\sqrt[5]{x - 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Exponential Functions",
+        "Problem Statement": "In the following exercises, graph each of the following functions.",
+        "Question": "$$f ( x ) = 4^{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/afc27e53fa8afd5db00187fce045c109fab94ea5"
+        ]
+    },
+    {
+        "Topic": "Evaluate and Graph Exponential Functions",
+        "Problem Statement": "In the following exercises, graph each of the following functions.",
+        "Question": "$$f ( x ) = ( \\frac{1}{5} )^{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Exponential Functions",
+        "Problem Statement": "In the following exercises, graph each of the following functions.",
+        "Question": "$$g ( x ) = ( 0.75 )^{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/81aee571daa9d3777daaee2ab453e72b79eea6b3"
+        ]
+    },
+    {
+        "Topic": "Evaluate and Graph Exponential Functions",
+        "Problem Statement": "In the following exercises, graph each of the following functions.",
+        "Question": "$$g ( x ) = 3^{x + 2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Exponential Functions",
+        "Problem Statement": "In the following exercises, graph each of the following functions.",
+        "Question": "$$f ( x ) = ( 2.3 )^{x} - 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/71b860036e4467285b1fad48cacfa780d34e1486"
+        ]
+    },
+    {
+        "Topic": "Evaluate and Graph Exponential Functions",
+        "Problem Statement": "In the following exercises, graph each of the following functions.",
+        "Question": "$$f ( x ) = e^{x} + 5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Exponential Functions",
+        "Problem Statement": "In the following exercises, graph each of the following functions.",
+        "Question": "$$f ( x ) = \\text{unicode[:-]} e^{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3633e10d7108c2dd6e536df37f07dab4ae8bd4d9"
+        ]
+    },
+    {
+        "Topic": "Evaluate and Graph Exponential Functions",
+        "Problem Statement": "In the following exercises, solve each equation.",
+        "Question": "$$3^{5 x - 6} = 81$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Exponential Functions",
+        "Problem Statement": "In the following exercises, solve each equation.",
+        "Question": "$$2^{x^{2}} = 16$$",
+        "Image Links": [],
+        "Answer": "$$x = -2 , x = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Exponential Functions",
+        "Problem Statement": "In the following exercises, solve each equation.",
+        "Question": "$$9^{x} = 27$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Exponential Functions",
+        "Problem Statement": "In the following exercises, solve each equation.",
+        "Question": "$$5^{x^{2} + 2 x} = \\frac{1}{5}$$",
+        "Image Links": [],
+        "Answer": "$$x = -1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Exponential Functions",
+        "Problem Statement": "In the following exercises, solve each equation.",
+        "Question": "$$e^{4 x} \\cdotp e^{7} = e^{19}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Exponential Functions",
+        "Problem Statement": "In the following exercises, solve each equation.",
+        "Question": "$$\\frac{e^{x^{2}}}{e^{15}} = e^{2 x}$$",
+        "Image Links": [],
+        "Answer": "$$x = -3 , x = 5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Exponential Functions",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "Felix invested $$\\text{$} 12,000$$ in a savings account. If the interest rate is $$4 \\text{%}$$ how much will be in the account in 12 years by each method of compounding? \u24d0 compound quarterly \u24d1 compound monthly \u24d2 compound continuously.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Exponential Functions",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "Sayed deposits $$\\text{$} 20,000$$ in an investment account. What will be the value of his investment in 30 years if the investment is earning $$7 \\text{%}$$ per year and is compounded continuously?",
+        "Image Links": [],
+        "Answer": "$$\\text{$} 163,323.40$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Exponential Functions",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "A researcher at the Center for Disease Control and Prevention is studying the growth of a bacteria. She starts her experiment with 150 of the bacteria that grows at a rate of $$15 \\text{%}$$ per hour. She will check on the bacteria every 24 hours. How many bacteria will he find in 24 hours?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Exponential Functions",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "In the last five years the population of the United States has grown at a rate of $$0.7 \\text{%}$$ per year to about 318,900,000. If this rate continues, what will be the population in 5 more years?",
+        "Image Links": [],
+        "Answer": "330,259,000",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Logarithmic Functions",
+        "Problem Statement": "In the following exercises, convert from exponential to logarithmic form.",
+        "Question": "$$5^{4} = 625$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Logarithmic Functions",
+        "Problem Statement": "In the following exercises, convert from exponential to logarithmic form.",
+        "Question": "$$10^{-3} = \\frac{1}{1,000}$$",
+        "Image Links": [],
+        "Answer": "$$\\text{log} \\frac{1}{1,000} = -3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Logarithmic Functions",
+        "Problem Statement": "In the following exercises, convert from exponential to logarithmic form.",
+        "Question": "$$63^{\\frac{1}{5}} = \\sqrt[5]{63}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Logarithmic Functions",
+        "Problem Statement": "In the following exercises, convert from exponential to logarithmic form.",
+        "Question": "$$e^{y} = 16$$",
+        "Image Links": [],
+        "Answer": "$$\\text{ln} 16 = y$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Logarithmic Functions",
+        "Problem Statement": "In the following exercises, convert each logarithmic equation to exponential form.",
+        "Question": "$$7 = \\text{log}_{2} 128$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Logarithmic Functions",
+        "Problem Statement": "In the following exercises, convert each logarithmic equation to exponential form.",
+        "Question": "$$5 = \\text{log} 100,000$$",
+        "Image Links": [],
+        "Answer": "$$100000 = 10^{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Logarithmic Functions",
+        "Problem Statement": "In the following exercises, convert each logarithmic equation to exponential form.",
+        "Question": "$$4 = \\text{ln} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Logarithmic Functions",
+        "Problem Statement": "In the following exercises, solve for x .",
+        "Question": "$$\\text{log}_{x} 125 = 3$$",
+        "Image Links": [],
+        "Answer": "$$x = 5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Logarithmic Functions",
+        "Problem Statement": "In the following exercises, solve for x .",
+        "Question": "$$\\text{log}_{7} x = -2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Logarithmic Functions",
+        "Problem Statement": "In the following exercises, solve for x .",
+        "Question": "$$\\text{log}_{\\frac{1}{2}} \\frac{1}{16} = x$$",
+        "Image Links": [],
+        "Answer": "$$x = 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Logarithmic Functions",
+        "Problem Statement": "In the following exercises, find the exact value of each logarithm without using a calculator.",
+        "Question": "$$\\text{log}_{2} 32$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Logarithmic Functions",
+        "Problem Statement": "In the following exercises, find the exact value of each logarithm without using a calculator.",
+        "Question": "$$\\text{log}_{8} 1$$",
+        "Image Links": [],
+        "Answer": "0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Logarithmic Functions",
+        "Problem Statement": "In the following exercises, find the exact value of each logarithm without using a calculator.",
+        "Question": "$$\\text{log}_{3} \\frac{1}{9}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Logarithmic Functions",
+        "Problem Statement": "In the following exercises, graph each logarithmic function.",
+        "Question": "$$y = \\text{log}_{5} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c4f9129e2cbf5ac9a2c72abba9ce7f75629864f7"
+        ]
+    },
+    {
+        "Topic": "Evaluate and Graph Logarithmic Functions",
+        "Problem Statement": "In the following exercises, graph each logarithmic function.",
+        "Question": "$$y = \\text{log}_{\\frac{1}{4}} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Logarithmic Functions",
+        "Problem Statement": "In the following exercises, graph each logarithmic function.",
+        "Question": "$$y = \\text{log}_{0.8} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/48e6bf6262a2f9cfb921a2768592c61e82383c16"
+        ]
+    },
+    {
+        "Topic": "Evaluate and Graph Logarithmic Functions",
+        "Problem Statement": "In the following exercises, solve each logarithmic equation.",
+        "Question": "$$\\text{log}_{a} 36 = 5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Logarithmic Functions",
+        "Problem Statement": "In the following exercises, solve each logarithmic equation.",
+        "Question": "$$\\text{ln} x = -3$$",
+        "Image Links": [],
+        "Answer": "$$x = e^{-3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Logarithmic Functions",
+        "Problem Statement": "In the following exercises, solve each logarithmic equation.",
+        "Question": "$$\\text{log}_{2} ( 5 x - 7 ) = 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Logarithmic Functions",
+        "Problem Statement": "In the following exercises, solve each logarithmic equation.",
+        "Question": "$$\\text{ln} e^{3 x} = 24$$",
+        "Image Links": [],
+        "Answer": "$$x = 8$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Logarithmic Functions",
+        "Problem Statement": "In the following exercises, solve each logarithmic equation.",
+        "Question": "$$\\text{log} ( x^{2} - 21 ) = 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Evaluate and Graph Logarithmic Functions",
+        "Problem Statement": "Use Logarithmic Models in Applications",
+        "Question": "What is the decibel level of a train whistle with intensity $$10^{-3}$$ watts per square inch?",
+        "Image Links": [],
+        "Answer": "90 dB",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Properties of Logarithms",
+        "Problem Statement": "In the following exercises, use the properties of logarithms to evaluate.",
+        "Question": "\u24d0 $$\\text{log}_{7} 1$$ \u24d1 $$\\text{log}_{12} 12$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Properties of Logarithms",
+        "Problem Statement": "In the following exercises, use the properties of logarithms to evaluate.",
+        "Question": "\u24d0 $$5^{\\text{log}_{5} 13}$$ \u24d1 $$\\text{log}_{3} 3^{-9}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 13 \u24d1 $$-9$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Properties of Logarithms",
+        "Problem Statement": "In the following exercises, use the properties of logarithms to evaluate.",
+        "Question": "\u24d0 $$10^{\\text{log} \\sqrt{5}}$$ \u24d1 $$\\text{log} 10^{-3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Properties of Logarithms",
+        "Problem Statement": "In the following exercises, use the properties of logarithms to evaluate.",
+        "Question": "\u24d0 $$e^{\\text{ln} 8}$$ \u24d1 $$\\text{ln} e^{5}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 8 \u24d1 5",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Properties of Logarithms",
+        "Problem Statement": "In the following exercises, use the Product Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible.",
+        "Question": "$$\\text{log}_{4} ( 64 x y )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Properties of Logarithms",
+        "Problem Statement": "In the following exercises, use the Product Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible.",
+        "Question": "$$\\text{log} 10,000 m$$",
+        "Image Links": [],
+        "Answer": "$$4 + \\text{log} m$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Properties of Logarithms",
+        "Problem Statement": "In the following exercises, use the Quotient Property of Logarithms to write each logarithm as a sum of logarithms. Simplify, if possible.",
+        "Question": "$$\\text{log}_{7} \\frac{49}{y}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Properties of Logarithms",
+        "Problem Statement": "In the following exercises, use the Quotient Property of Logarithms to write each logarithm as a sum of logarithms. Simplify, if possible.",
+        "Question": "$$\\text{ln} \\frac{e^{5}}{2}$$",
+        "Image Links": [],
+        "Answer": "$$5 - \\text{ln} 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Properties of Logarithms",
+        "Problem Statement": "In the following exercises, use the Power Property of Logarithms to expand each logarithm. Simplify, if possible.",
+        "Question": "$$\\text{log} x^{-9}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Properties of Logarithms",
+        "Problem Statement": "In the following exercises, use the Power Property of Logarithms to expand each logarithm. Simplify, if possible.",
+        "Question": "$$\\text{log}_{4} \\sqrt[7]{z}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{7} \\text{log}_{4} z$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Properties of Logarithms",
+        "Problem Statement": "In the following exercises, use properties of logarithms to write each logarithm as a sum of logarithms. Simplify if possible.",
+        "Question": "$$\\text{log}_{3} ( \\sqrt{4} x^{7} y^{8} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Properties of Logarithms",
+        "Problem Statement": "In the following exercises, use properties of logarithms to write each logarithm as a sum of logarithms. Simplify if possible.",
+        "Question": "$$\\log_{5} \\frac{8 a^{2} b^{6} c}{d^{3}}$$",
+        "Image Links": [],
+        "Answer": "$$\\text{log}_{5} 8 + 2 \\text{log}_{5} a + 6 \\text{log}_{5} b$$ $$+ \\text{log}_{5} c - 3 \\text{log}_{5} d$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Properties of Logarithms",
+        "Problem Statement": "In the following exercises, use properties of logarithms to write each logarithm as a sum of logarithms. Simplify if possible.",
+        "Question": "$$\\text{ln} \\frac{\\sqrt{3 x^{2} - y^{2}}}{z^{4}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Properties of Logarithms",
+        "Problem Statement": "In the following exercises, use properties of logarithms to write each logarithm as a sum of logarithms. Simplify if possible.",
+        "Question": "$$\\text{log}_{6} \\sqrt[3]{\\frac{7 x^{2}}{6 y^{3} z^{5}}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{3} ( \\text{log}_{6} 7 + 2 \\text{log}_{6} x - 1 - 3 \\text{log}_{6} y$$ $$- 5 \\text{log}_{6} z )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Properties of Logarithms",
+        "Problem Statement": "In the following exercises, use the Properties of Logarithms to condense the logarithm. Simplify if possible.",
+        "Question": "$$\\text{log}_{2} 56 - \\text{log}_{2} 7$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Properties of Logarithms",
+        "Problem Statement": "In the following exercises, use the Properties of Logarithms to condense the logarithm. Simplify if possible.",
+        "Question": "$$3 \\text{log}_{3} x + 7 \\text{log}_{3} y$$",
+        "Image Links": [],
+        "Answer": "$$\\text{log}_{3} x^{3} y^{7}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Properties of Logarithms",
+        "Problem Statement": "In the following exercises, use the Properties of Logarithms to condense the logarithm. Simplify if possible.",
+        "Question": "$$\\text{log}_{5} ( x^{2} - 16 ) - 2 \\text{log}_{5} ( x + 4 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Properties of Logarithms",
+        "Problem Statement": "In the following exercises, use the Properties of Logarithms to condense the logarithm. Simplify if possible.",
+        "Question": "$$\\frac{1}{4} \\text{log} y - 2 \\text{log} ( y - 3 )$$",
+        "Image Links": [],
+        "Answer": "$$\\text{log} \\frac{\\sqrt[4]{y}}{( y - 3 )^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Properties of Logarithms",
+        "Problem Statement": "In the following exercises, rounding to three decimal places, approximate each logarithm.",
+        "Question": "$$\\text{log}_{5} 97$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Use the Properties of Logarithms",
+        "Problem Statement": "In the following exercises, rounding to three decimal places, approximate each logarithm.",
+        "Question": "$$\\text{log}_{\\sqrt{3}} 16$$",
+        "Image Links": [],
+        "Answer": "5.047",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Exponential and Logarithmic Equations",
+        "Problem Statement": "In the following exercises, solve for x .",
+        "Question": "$$3 \\text{log}_{5} x = \\text{log}_{5} 216$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Exponential and Logarithmic Equations",
+        "Problem Statement": "In the following exercises, solve for x .",
+        "Question": "$$\\text{log}_{2} x + \\text{log}_{2} ( x - 2 ) = 3$$",
+        "Image Links": [],
+        "Answer": "$$x = 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Exponential and Logarithmic Equations",
+        "Problem Statement": "In the following exercises, solve for x .",
+        "Question": "$$\\text{log} ( x - 1 ) - \\text{log} ( 3 x + 5 ) = \\text{unicode[:-]} \\text{log} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Exponential and Logarithmic Equations",
+        "Problem Statement": "In the following exercises, solve for x .",
+        "Question": "$$\\text{log}_{4} ( x - 2 ) + \\text{log}_{4} ( x + 5 ) = \\text{log}_{4} 8$$",
+        "Image Links": [],
+        "Answer": "$$x = 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Exponential and Logarithmic Equations",
+        "Problem Statement": "In the following exercises, solve for x .",
+        "Question": "$$\\text{ln} ( 3 x - 2 ) = \\text{ln} ( x + 4 ) + \\text{ln} 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Exponential and Logarithmic Equations",
+        "Problem Statement": "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places.",
+        "Question": "$$2^{x} = 101$$",
+        "Image Links": [],
+        "Answer": "$$x = \\frac{\\text{log} 101}{\\text{log} 2} \\approx 6.658$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Exponential and Logarithmic Equations",
+        "Problem Statement": "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places.",
+        "Question": "$$e^{x} = 23$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Exponential and Logarithmic Equations",
+        "Problem Statement": "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places.",
+        "Question": "$$( \\frac{1}{3} )^{x} = 7$$",
+        "Image Links": [],
+        "Answer": "$$x = \\frac{\\text{log} 7}{\\text{log} \\frac{1}{3}} \\approx \\text{unicode[:-]} 1.771$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Exponential and Logarithmic Equations",
+        "Problem Statement": "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places.",
+        "Question": "$$7 e^{x + 3} = 28$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Exponential and Logarithmic Equations",
+        "Problem Statement": "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places.",
+        "Question": "$$e^{x - 4} + 8 = 23$$",
+        "Image Links": [],
+        "Answer": "$$x = \\text{ln} 15 + 4 \\approx 6.708$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Exponential and Logarithmic Equations",
+        "Problem Statement": "Use Exponential Models in Applications",
+        "Question": "Jerome invests $$\\text{$} 18,000$$ at age 17. He hopes the investments will be worth $$\\text{$} 30,000$$ when he turns 26. If the interest compounds continuously, approximately what rate of growth will he need to achieve his goal? Is that a reasonable expectation?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Exponential and Logarithmic Equations",
+        "Problem Statement": "Use Exponential Models in Applications",
+        "Question": "Elise invests $$\\text{$} 4500$$ in an account that compounds interest monthly and earns $$6 \\text{%} .$$ How long will it take for her money to double?",
+        "Image Links": [],
+        "Answer": "11.6 years",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Exponential and Logarithmic Equations",
+        "Problem Statement": "Use Exponential Models in Applications",
+        "Question": "Researchers recorded that a certain bacteria population grew from 100 to 300 in 8 hours. At this rate of growth, how many bacteria will there be in 24 hours?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Exponential and Logarithmic Equations",
+        "Problem Statement": "Use Exponential Models in Applications",
+        "Question": "Mouse populations can double in 8 months $$( A = 2 A_{0} ) .$$ How long will it take for a mouse population to triple?",
+        "Image Links": [],
+        "Answer": "12.7 months",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Exponential and Logarithmic Equations",
+        "Problem Statement": "Use Exponential Models in Applications",
+        "Question": "The half-life of radioactive iodine is 60 days. How much of a 50 mg sample will be left in 40 days?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

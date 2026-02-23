@@ -1,0 +1,482 @@
+[
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, find the greatest common factor.",
+        "Question": "$$10 p^{3} q , 12 p q^{2}$$",
+        "Image Links": [],
+        "Answer": "$$2 p q$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, find the greatest common factor.",
+        "Question": "$$8 a^{2} b^{3} , 10 a b^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, find the greatest common factor.",
+        "Question": "$$12 m^{2} n^{3} , 30 m^{5} n^{3}$$",
+        "Image Links": [],
+        "Answer": "$$6 m^{2} n^{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, find the greatest common factor.",
+        "Question": "$$28 x^{2} y^{4} , 42 x^{4} y^{4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, find the greatest common factor.",
+        "Question": "$$10 a^{3} , 12 a^{2} , 14 a$$",
+        "Image Links": [],
+        "Answer": "$$2 a$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, find the greatest common factor.",
+        "Question": "$$20 y^{3} , 28 y^{2} , 40 y$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, find the greatest common factor.",
+        "Question": "$$35 x^{3} y^{2} , 10 x^{4} y , 5 x^{5} y^{3}$$",
+        "Image Links": [],
+        "Answer": "$$5 x^{3} y$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, find the greatest common factor.",
+        "Question": "$$27 p^{2} q^{3} , 45 p^{3} q^{4} , 9 p^{4} q^{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor the greatest common factor from each polynomial.",
+        "Question": "$$6 m + 9$$",
+        "Image Links": [],
+        "Answer": "$$3 ( 2 m + 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor the greatest common factor from each polynomial.",
+        "Question": "$$14 p + 35$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor the greatest common factor from each polynomial.",
+        "Question": "$$9 n - 63$$",
+        "Image Links": [],
+        "Answer": "$$9 ( n - 7 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor the greatest common factor from each polynomial.",
+        "Question": "$$45 b - 18$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor the greatest common factor from each polynomial.",
+        "Question": "$$3 x^{2} + 6 x - 9$$",
+        "Image Links": [],
+        "Answer": "$$3 ( x^{2} + 2 x - 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor the greatest common factor from each polynomial.",
+        "Question": "$$4 y^{2} + 8 y - 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor the greatest common factor from each polynomial.",
+        "Question": "$$8 p^{2} + 4 p + 2$$",
+        "Image Links": [],
+        "Answer": "$$2 ( 4 p^{2} + 2 p + 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor the greatest common factor from each polynomial.",
+        "Question": "$$10 q^{2} + 14 q + 20$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor the greatest common factor from each polynomial.",
+        "Question": "$$8 y^{3} + 16 y^{2}$$",
+        "Image Links": [],
+        "Answer": "$$8 y^{2} ( y + 2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor the greatest common factor from each polynomial.",
+        "Question": "$$12 x^{3} - 10 x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor the greatest common factor from each polynomial.",
+        "Question": "$$5 x^{3} - 15 x^{2} + 20 x$$",
+        "Image Links": [],
+        "Answer": "$$5 x ( x^{2} - 3 x + 4 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor the greatest common factor from each polynomial.",
+        "Question": "$$8 m^{2} - 40 m + 16$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor the greatest common factor from each polynomial.",
+        "Question": "$$24 x^{3} - 12 x^{2} + 15 x$$",
+        "Image Links": [],
+        "Answer": "$$3 x ( 8 x^{2} - 4 x + 5 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor the greatest common factor from each polynomial.",
+        "Question": "$$24 y^{3} - 18 y^{2} - 30 y$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor the greatest common factor from each polynomial.",
+        "Question": "$$12 x y^{2} + 18 x^{2} y^{2} - 30 y^{3}$$",
+        "Image Links": [],
+        "Answer": "$$6 y^{2} ( 2 x + 3 x^{2} - 5 y )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor the greatest common factor from each polynomial.",
+        "Question": "$$21 p q^{2} + 35 p^{2} q^{2} - 28 q^{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor the greatest common factor from each polynomial.",
+        "Question": "$$20 x^{3} y - 4 x^{2} y^{2} + 12 x y^{3}$$",
+        "Image Links": [],
+        "Answer": "$$4 x y ( 5 x^{2} - x y + 3 y^{2} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor the greatest common factor from each polynomial.",
+        "Question": "$$24 a^{3} b + 6 a^{2} b^{2} - 18 a b^{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor the greatest common factor from each polynomial.",
+        "Question": "$$-2 x - 4$$",
+        "Image Links": [],
+        "Answer": "$$-2 ( x + 2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor the greatest common factor from each polynomial.",
+        "Question": "$$-3 b + 12$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor the greatest common factor from each polynomial.",
+        "Question": "$$-2 x^{3} + 18 x^{2} - 8 x$$",
+        "Image Links": [],
+        "Answer": "$$-2 x ( x^{2} - 9 x + 4 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor the greatest common factor from each polynomial.",
+        "Question": "$$-5 y^{3} + 35 y^{2} - 15 y$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor the greatest common factor from each polynomial.",
+        "Question": "$$-4 p^{3} q - 12 p^{2} q^{2} + 16 p q^{2}$$",
+        "Image Links": [],
+        "Answer": "$$-4 p q ( p^{2} + 3 p q - 4 q )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor the greatest common factor from each polynomial.",
+        "Question": "$$-6 a^{3} b - 12 a^{2} b^{2} + 18 a b^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor the greatest common factor from each polynomial.",
+        "Question": "$$5 x ( x + 1 ) + 3 ( x + 1 )$$",
+        "Image Links": [],
+        "Answer": "$$( x + 1 ) ( 5 x + 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor the greatest common factor from each polynomial.",
+        "Question": "$$2 x ( x - 1 ) + 9 ( x - 1 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor the greatest common factor from each polynomial.",
+        "Question": "$$3 b ( b - 2 ) - 13 ( b - 2 )$$",
+        "Image Links": [],
+        "Answer": "$$( b - 2 ) ( 3 b - 13 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor the greatest common factor from each polynomial.",
+        "Question": "$$6 m ( m - 5 ) - 7 ( m - 5 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor by grouping.",
+        "Question": "$$a b + 5 a + 3 b + 15$$",
+        "Image Links": [],
+        "Answer": "$$( b + 5 ) ( a + 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor by grouping.",
+        "Question": "$$c d + 6 c + 4 d + 24$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor by grouping.",
+        "Question": "$$8 y^{2} + y + 40 y + 5$$",
+        "Image Links": [],
+        "Answer": "$$( y + 5 ) ( 8 y + 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor by grouping.",
+        "Question": "$$6 y^{2} + 7 y + 24 y + 28$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor by grouping.",
+        "Question": "$$u v - 9 u + 2 v - 18$$",
+        "Image Links": [],
+        "Answer": "$$( u + 2 ) ( v - 9 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor by grouping.",
+        "Question": "$$p q - 10 p + 8 q - 80$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor by grouping.",
+        "Question": "$$u^{2} - u + 6 u - 6$$",
+        "Image Links": [],
+        "Answer": "$$( u - 1 ) ( u + 6 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor by grouping.",
+        "Question": "$$x^{2} - x + 4 x - 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor by grouping.",
+        "Question": "$$9 p^{2} + 12 p - 15 p - 20$$",
+        "Image Links": [],
+        "Answer": "$$( 3 p - 5 ) ( 3 p + 4 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor by grouping.",
+        "Question": "$$16 q^{2} + 20 q - 28 q - 35$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor by grouping.",
+        "Question": "$$m n - 6 m - 4 n + 24$$",
+        "Image Links": [],
+        "Answer": "$$( n - 6 ) ( m - 4 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor by grouping.",
+        "Question": "$$r^{2} - 3 r - r + 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor by grouping.",
+        "Question": "$$2 x^{2} - 14 x - 5 x + 35$$",
+        "Image Links": [],
+        "Answer": "$$( x - 7 ) ( 2 x - 5 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor by grouping.",
+        "Question": "$$4 x^{2} - 36 x - 3 x + 27$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor.",
+        "Question": "$$-18 x y^{2} - 27 x^{2} y$$",
+        "Image Links": [],
+        "Answer": "$$-9 x y ( 2 y + 3 x )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor.",
+        "Question": "$$-4 x^{3} y^{5} - x^{2} y^{3} + 12 x y^{4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor.",
+        "Question": "$$3 x^{3} - 7 x^{2} + 6 x - 14$$",
+        "Image Links": [],
+        "Answer": "$$( x^{2} + 2 ) ( 3 x - 7 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor.",
+        "Question": "$$x^{3} + x^{2} + x + 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor.",
+        "Question": "$$x^{2} + x y + 5 x + 5 y$$",
+        "Image Links": [],
+        "Answer": "$$( x + y ) ( x + 5 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, factor.",
+        "Question": "$$5 x^{3} - 3 x^{2} + 5 x - 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "What does it mean to say a polynomial is in factored form?",
+        "Image Links": [],
+        "Answer": "Answers will vary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "How do you check result after factoring a polynomial?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "The greatest common factor of 36 and 60 is 12. Explain what this means.",
+        "Image Links": [],
+        "Answer": "Answers will vary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "What is the GCF of $$y^{4} , y^{5} ,$$ and $$y^{10} ?$$ Write a general rule that tells you how to find the GCF of $$y^{a} , y^{b} ,$$ and $$y^{c} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]
