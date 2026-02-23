@@ -1,0 +1,242 @@
+[
+    {
+        "Topic": "Try It 6.1",
+        "Problem Statement": "",
+        "Question": "Determine whether each polynomial is a monomial, binomial, trinomial, or other polynomial: \u24d0 $$5 b$$ \u24d1 $$8 y^{3} - 7 y^{2} - y - 3$$ \u24d2 $$-3 x^{2} - 5 x + 9$$ \u24d3 $$81 - 4 a^{2}$$ \u24d4 $$-5 x^{6}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 monomial \u24d1 polynomial \u24d2 trinomial \u24d3 binomial \u24d4 monomial",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.2",
+        "Problem Statement": "",
+        "Question": "Determine whether each polynomial is a monomial, binomial, trinomial, or other polynomial: \u24d0 $$27 z^{3} - 8$$ \u24d1 $$12 m^{3} - 5 m^{2} - 2 m$$ \u24d2 $$\\frac{5}{6}$$ \u24d3 $$8 x^{4} - 7 x^{2} - 6 x - 5$$ \u24d4 $$\\text{unicode[:-]} n^{4}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 binomial \u24d1 trinomial \u24d2 monomial \u24d3 polynomial \u24d4 monomial",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.3",
+        "Problem Statement": "",
+        "Question": "Find the degree of the following polynomials: \u24d0 $$-15 b$$ \u24d1 $$10 z^{4} + 4 z^{2} - 5$$ \u24d2 $$12 c^{5} d^{4} + 9 c^{3} d^{9} - 7$$ \u24d3 $$3 x^{2} y - 4 x$$ \u24d4 $$-9$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$1$$ \u24d1 $$4$$ \u24d2 $$12$$ \u24d3 3 \u24d4 0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.4",
+        "Problem Statement": "",
+        "Question": "Find the degree of the following polynomials: \u24d0 $$52$$ \u24d1 $$a^{4} b - 17 a^{4}$$ \u24d2 $$5 x + 6 y + 2 z$$ \u24d3 $$3 x^{2} - 5 x + 7$$ \u24d4 $$\\text{unicode[:-]} a^{3}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$0$$ \u24d1 $$5$$ \u24d2 $$1$$ \u24d3 2 \u24d4 3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.5",
+        "Problem Statement": "",
+        "Question": "Add: $$12 q^{2} + 9 q^{2} .$$",
+        "Image Links": [],
+        "Answer": "$$21 q^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.6",
+        "Problem Statement": "",
+        "Question": "Add: $$-15 c^{2} + 8 c^{2} .$$",
+        "Image Links": [],
+        "Answer": "$$-7 c^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.7",
+        "Problem Statement": "",
+        "Question": "Subtract: $$8 m - ( -5 m ) .$$",
+        "Image Links": [],
+        "Answer": "$$13 m$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.8",
+        "Problem Statement": "",
+        "Question": "Subtract: $$-15 z^{3} - ( -5 z^{3} ) .$$",
+        "Image Links": [],
+        "Answer": "$$-10 z^{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.9",
+        "Problem Statement": "",
+        "Question": "Add: $$8 y^{2} + 3 z^{2} - 3 y^{2} .$$",
+        "Image Links": [],
+        "Answer": "$$5 y^{2} + 3 z^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.10",
+        "Problem Statement": "",
+        "Question": "Add: $$3 m^{2} + n^{2} - 7 m^{2} .$$",
+        "Image Links": [],
+        "Answer": "$$-4 m^{2} + n^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.11",
+        "Problem Statement": "",
+        "Question": "Simplify: $$m^{2} n^{2} - 8 m^{2} + 4 n^{2} .$$",
+        "Image Links": [],
+        "Answer": "There are no like terms to combine.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.12",
+        "Problem Statement": "",
+        "Question": "Simplify: $$p q^{2} - 6 p - 5 q^{2} .$$",
+        "Image Links": [],
+        "Answer": "There are no like terms to combine.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.13",
+        "Problem Statement": "",
+        "Question": "Find the sum: $$( 7 x^{2} - 4 x + 5 ) + ( x^{2} - 7 x + 3 ) .$$",
+        "Image Links": [],
+        "Answer": "$$8 x^{2} - 11 x + 8$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.14",
+        "Problem Statement": "",
+        "Question": "Find the sum: $$( 14 y^{2} + 6 y - 4 ) + ( 3 y^{2} + 8 y + 5 ) .$$",
+        "Image Links": [],
+        "Answer": "$$17 y^{2} + 14 y + 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.15",
+        "Problem Statement": "",
+        "Question": "Find the difference: $$( 8 x^{2} + 3 x - 19 ) - ( 7 x^{2} - 14 ) .$$",
+        "Image Links": [],
+        "Answer": "$$x^{2} + 3 x - 5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.16",
+        "Problem Statement": "",
+        "Question": "Find the difference: $$( 9 b^{2} - 5 b - 4 ) - ( 3 b^{2} - 5 b - 7 ) .$$",
+        "Image Links": [],
+        "Answer": "$$6 b^{2} + 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.17",
+        "Problem Statement": "",
+        "Question": "Subtract: $$( 5 z^{2} - 6 z - 2 )$$ from $$( 7 z^{2} + 6 z - 4 )$$ .",
+        "Image Links": [],
+        "Answer": "$$2 z^{2} + 12 z - 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.18",
+        "Problem Statement": "",
+        "Question": "Subtract: $$( x^{2} - 5 x - 8 )$$ from $$( 6 x^{2} + 9 x - 1 )$$ .",
+        "Image Links": [],
+        "Answer": "$$5 x^{2} + 14 x + 7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.19",
+        "Problem Statement": "",
+        "Question": "Find the sum: $$( 3 x^{2} - 4 x y + 5 y^{2} ) + ( 2 x^{2} - x y )$$ .",
+        "Image Links": [],
+        "Answer": "$$5 x^{2} - 5 x y + 5 y^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.20",
+        "Problem Statement": "",
+        "Question": "Find the sum: $$( 2 x^{2} - 3 x y - 2 y^{2} ) + ( 5 x^{2} - 3 x y )$$ .",
+        "Image Links": [],
+        "Answer": "$$7 x^{2} - 6 x y - 2 y^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.21",
+        "Problem Statement": "",
+        "Question": "Find the difference: $$( a^{2} + b^{2} ) - ( a^{2} + 5 a b - 6 b^{2} )$$ .",
+        "Image Links": [],
+        "Answer": "$$- 5 a b + 7 b^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.22",
+        "Problem Statement": "",
+        "Question": "Find the difference: $$( m^{2} + n^{2} ) - ( m^{2} - 7 m n - 3 n^{2} )$$ .",
+        "Image Links": [],
+        "Answer": "$$4 n^{2} + 7 m n$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.23",
+        "Problem Statement": "",
+        "Question": "Simplify: $$( x^{3} - x^{2} y ) - ( x y^{2} + y^{3} ) + ( x^{2} y + x y^{2} )$$ .",
+        "Image Links": [],
+        "Answer": "$$x^{3} - y^{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.24",
+        "Problem Statement": "",
+        "Question": "Simplify: $$( p^{3} - p^{2} q ) + ( p q^{2} + q^{3} ) - ( p^{2} q + p q^{2} )$$ .",
+        "Image Links": [],
+        "Answer": "$$p^{3} - 2 p^{2} q + q^{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.25",
+        "Problem Statement": "",
+        "Question": "Evaluate: $$3 x^{2} + 2 x - 15$$ when \u24d0 $$x = 3$$ \u24d1 $$x = -5$$ \u24d2 $$x = 0$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$18$$ \u24d1 $$50$$ \u24d2 $$-15$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.26",
+        "Problem Statement": "",
+        "Question": "Evaluate: $$5 z^{2} - z - 4$$ when \u24d0 $$z = -2$$ \u24d1 $$z = 0$$ \u24d2 $$z = 2$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$18$$ \u24d1 $$-4$$ \u24d2 $$14$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.27",
+        "Problem Statement": "",
+        "Question": "The polynomial $$-16 t^{2} + 250$$ gives the height of a ball $$t$$ seconds after it is dropped from a 250-foot tall building. Find the height after $$t = 0$$ seconds.",
+        "Image Links": [],
+        "Answer": "$$250$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.28",
+        "Problem Statement": "",
+        "Question": "The polynomial $$-16 t^{2} + 250$$ gives the height of a ball $$t$$ seconds after it is dropped from a 250-foot tall building. Find the height after $$t = 3$$ seconds.",
+        "Image Links": [],
+        "Answer": "$$106$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.29",
+        "Problem Statement": "",
+        "Question": "The polynomial $$6 x^{2} + 15 x y$$ gives the cost, in dollars, of producing a rectangular container whose top and bottom are squares with side x feet and sides of height y feet. Find the cost of producing a box with $$x = 6$$ feet and $$y = 4$$ feet.",
+        "Image Links": [],
+        "Answer": "$576",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.30",
+        "Problem Statement": "",
+        "Question": "The polynomial $$6 x^{2} + 15 x y$$ gives the cost, in dollars, of producing a rectangular container whose top and bottom are squares with side x feet and sides of height y feet. Find the cost of producing a box with $$x = 5$$ feet and $$y = 8$$ feet.",
+        "Image Links": [],
+        "Answer": "$750",
+        "Answer Image Links": []
+    }
+]

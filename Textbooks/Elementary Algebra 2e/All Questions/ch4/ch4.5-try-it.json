@@ -1,0 +1,306 @@
+[
+    {
+        "Topic": "Try It 4.79",
+        "Problem Statement": "",
+        "Question": "Use the graph to find the slope and y -intercept of the line $$y = \\frac{2}{3} x - 1$$ . Compare these values to the equation $$y = m x + b$$ .",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3ee4d6fe865c9ee9bb1c2bc95741b6ea340353df"
+        ],
+        "Answer": "slope $$m = \\frac{2}{3}$$ and y -intercept $$( 0 , -1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.80",
+        "Problem Statement": "",
+        "Question": "Use the graph to find the slope and y -intercept of the line $$y = \\frac{1}{2} x + 3$$ . Compare these values to the equation $$y = m x + b$$ .",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ee7aebc15ca94e5911e5054153b99439fc4c6b46"
+        ],
+        "Answer": "slope $$m = \\frac{1}{2}$$ and y -intercept $$( 0 , 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.81",
+        "Problem Statement": "",
+        "Question": "Identify the slope and y -intercept of the line $$y = \\frac{2}{5} x - 1$$ .",
+        "Image Links": [],
+        "Answer": "$$\\frac{2}{5} ; ( 0 , -1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.82",
+        "Problem Statement": "",
+        "Question": "Identify the slope and y -intercept of the line $$y = - \\frac{4}{3} x + 1$$ .",
+        "Image Links": [],
+        "Answer": "$$- \\frac{4}{3} ; ( 0 , 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.83",
+        "Problem Statement": "",
+        "Question": "Identify the slope and y -intercept of the line $$x + 4 y = 8$$ .",
+        "Image Links": [],
+        "Answer": "$$- \\frac{1}{4} ; ( 0 , 2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.84",
+        "Problem Statement": "",
+        "Question": "Identify the slope and y -intercept of the line $$3 x + 2 y = 12$$ .",
+        "Image Links": [],
+        "Answer": "$$- \\frac{3}{2} ; ( 0 , 6 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.85",
+        "Problem Statement": "",
+        "Question": "Graph the line of the equation $$y = 4 x + 1$$ using its slope and y -intercept.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/40edefc884d6a02c267aae21f33a9e2c6416c430"
+        ]
+    },
+    {
+        "Topic": "Try It 4.86",
+        "Problem Statement": "",
+        "Question": "Graph the line of the equation $$y = 2 x - 3$$ using its slope and y -intercept.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7c6b30bffafef9112fb3f2ba492baf4b8dde5439"
+        ]
+    },
+    {
+        "Topic": "Try It 4.87",
+        "Problem Statement": "",
+        "Question": "Graph the line of the equation $$y = \\text{unicode[:-]} x - 3$$ using its slope and y -intercept.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d97cdf42f060ff4d4873ef8f51c140884f49fd65"
+        ]
+    },
+    {
+        "Topic": "Try It 4.88",
+        "Problem Statement": "",
+        "Question": "Graph the line of the equation $$y = \\text{unicode[:-]} x - 1$$ using its slope and y -intercept.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c4cff5c256339aeaa8a2c058f068f5027ad1a0f0"
+        ]
+    },
+    {
+        "Topic": "Try It 4.89",
+        "Problem Statement": "",
+        "Question": "Graph the line of the equation $$y = - \\frac{5}{2} x + 1$$ using its slope and y -intercept.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/794180983b42439667dc5d68c4d3c715f11447a4"
+        ]
+    },
+    {
+        "Topic": "Try It 4.90",
+        "Problem Statement": "",
+        "Question": "Graph the line of the equation $$y = - \\frac{3}{4} x - 2$$ using its slope and y -intercept.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/88f6db47f1c841f44570c0f56ba21a6f87677721"
+        ]
+    },
+    {
+        "Topic": "Try It 4.91",
+        "Problem Statement": "",
+        "Question": "Graph the line of the equation $$2 x - y = 6$$ using its slope and y -intercept.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c3b5aade8c7baee76dd82394685ef831a42f6f45"
+        ]
+    },
+    {
+        "Topic": "Try It 4.92",
+        "Problem Statement": "",
+        "Question": "Graph the line of the equation $$3 x - 2 y = 8$$ using its slope and y -intercept.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/61374cc6d5a60bd3bcfe7d0211d2946dc30e305d"
+        ]
+    },
+    {
+        "Topic": "Try It 4.93",
+        "Problem Statement": "",
+        "Question": "Graph the line of the equation $$y = 0.5 x + 25$$ using its slope and y -intercept.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1aba3415df2956a9c53c93611090b777e74a21fe"
+        ]
+    },
+    {
+        "Topic": "Try It 4.94",
+        "Problem Statement": "",
+        "Question": "Graph the line of the equation $$y = 0.1 x - 30$$ using its slope and y -intercept.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8c0e863505f5f2f88197f9327b1f2954a29b5e8a"
+        ]
+    },
+    {
+        "Topic": "Try It 4.95",
+        "Problem Statement": "",
+        "Question": "Determine the most convenient method to graph each line: \u24d0 $$3 x + 2 y = 12$$ \u24d1 $$y = 4$$ \u24d2 $$y = \\frac{1}{5} x - 4$$ \u24d3 $$x = -7$$ .",
+        "Image Links": [],
+        "Answer": "\u24d0 intercepts \u24d1 horizontal line \u24d2 slope-intercept \u24d3 vertical line",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.96",
+        "Problem Statement": "",
+        "Question": "Determine the most convenient method to graph each line: \u24d0 $$x = 6$$ \u24d1 $$y = - \\frac{3}{4} x + 1$$ \u24d2 $$y = -8$$ \u24d3 $$4 x - 3 y = -1$$ .",
+        "Image Links": [],
+        "Answer": "\u24d0 vertical line \u24d1 slope-intercept \u24d2 horizontal line \u24d3 intercepts",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.97",
+        "Problem Statement": "",
+        "Question": "The equation $$h = 2 s + 50$$ is used to estimate a woman\u2019s height in inches, h , based on her shoe size, s . \u24d0 Estimate the height of a child who wears women\u2019s shoe size 0. \u24d1 Estimate the height of a woman with shoe size 8. \u24d2 Interpret the slope and h -intercept of the equation. \u24d3 Graph the equation.",
+        "Image Links": [],
+        "Answer": "\u24d0 50 inches \u24d1 66 inches \u24d2 The slope, 2, means that the height, h , increases by 2 inches when the shoe size, s , increases by 1. The h -intercept means that when the shoe size is 0, the height is 50 inches. \u24d3",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/31d099c55abdc316fe50f1260c970c330f19491e"
+        ]
+    },
+    {
+        "Topic": "Try It 4.98",
+        "Problem Statement": "",
+        "Question": "The equation $$T = \\frac{1}{4} n + 40$$ is used to estimate the temperature in degrees Fahrenheit, T , based on the number of cricket chirps, n , in one minute. \u24d0 Estimate the temperature when there are no chirps. \u24d1 Estimate the temperature when the number of chirps in one minute is 100. \u24d2 Interpret the slope and T -intercept of the equation. \u24d3 Graph the equation.",
+        "Image Links": [],
+        "Answer": "\u24d0 40 degrees \u24d1 65 degrees \u24d2 The slope, $$\\frac{1}{4}$$ , means that the temperature Fahrenheit ( F ) increases 1 degree when the number of chirps, n , increases by 4. The T -intercept means that when the number of chirps is 0, the temperature is $$40 \\text{\u00b0}$$ . \u24d3",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/47d5645e0566db086d5041b4e92c3271499e65aa"
+        ]
+    },
+    {
+        "Topic": "Try It 4.99",
+        "Problem Statement": "",
+        "Question": "Sam drives a delivery van. The equation $$C = 0.5 m + 60$$ models the relation between his weekly cost, C , in dollars and the number of miles, m , that he drives. \u24d0 Find Sam\u2019s cost for a week when he drives 0 miles. \u24d1 Find the cost for a week when he drives 250 miles. \u24d2 Interpret the slope and C -intercept of the equation. \u24d3 Graph the equation.",
+        "Image Links": [],
+        "Answer": "\u24d0 $60 \u24d1 $185 \u24d2 The slope, 0.5, means that the weekly cost, C , increases by $0.50 when the number of miles driven, n, increases by 1. The C -intercept means that when the number of miles driven is 0, the weekly cost is $60 \u24d3",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e1e14da34405ca6e3070820b67a63d6c682211bd"
+        ]
+    },
+    {
+        "Topic": "Try It 4.100",
+        "Problem Statement": "",
+        "Question": "Loreen has a calligraphy business. The equation $$C = 1.8 n + 35$$ models the relation between her weekly cost, C , in dollars and the number of wedding invitations, n , that she writes. \u24d0 Find Loreen\u2019s cost for a week when she writes no invitations. \u24d1 Find the cost for a week when she writes 75 invitations. \u24d2 Interpret the slope and C -intercept of the equation. \u24d3 Graph the equation.",
+        "Image Links": [],
+        "Answer": "\u24d0 $35 \u24d1 $170 \u24d2 The slope, 1.8, means that the weekly cost, C, increases by $1.80 when the number of invitations, n , increases by 1.80. The C -intercept means that when the number of invitations is 0, the weekly cost is $35.; \u24d3",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3afef50abf153a082f6645b2f0e86c87a3e3bfba"
+        ]
+    },
+    {
+        "Topic": "Try It 4.101",
+        "Problem Statement": "",
+        "Question": "Use slopes and y -intercepts to determine if the lines $$2 x + 5 y = 5 \\text{and} y = - \\frac{2}{5} x - 4$$ are parallel.",
+        "Image Links": [],
+        "Answer": "parallel",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.102",
+        "Problem Statement": "",
+        "Question": "Use slopes and y -intercepts to determine if the lines $$4 x - 3 y = 6 \\text{and} y = \\frac{4}{3} x - 1$$ are parallel.",
+        "Image Links": [],
+        "Answer": "parallel",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.103",
+        "Problem Statement": "",
+        "Question": "Use slopes and y -intercepts to determine if the lines $$y = 8 \\text{and} y = -6$$ are parallel.",
+        "Image Links": [],
+        "Answer": "parallel",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.104",
+        "Problem Statement": "",
+        "Question": "Use slopes and y -intercepts to determine if the lines $$y = 1 \\text{and} y = -5$$ are parallel.",
+        "Image Links": [],
+        "Answer": "parallel",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.105",
+        "Problem Statement": "",
+        "Question": "Use slopes and y -intercepts to determine if the lines $$x = 1$$ and $$x = -5$$ are parallel.",
+        "Image Links": [],
+        "Answer": "parallel",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.106",
+        "Problem Statement": "",
+        "Question": "Use slopes and y -intercepts to determine if the lines $$x = 8$$ and $$x = -6$$ are parallel.",
+        "Image Links": [],
+        "Answer": "parallel",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.107",
+        "Problem Statement": "",
+        "Question": "Use slopes and y -intercepts to determine if the lines $$y = - \\frac{1}{2} x - 1$$ and $$x + 2 y = 2$$ are parallel.",
+        "Image Links": [],
+        "Answer": "parallel",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.108",
+        "Problem Statement": "",
+        "Question": "Use slopes and y -intercepts to determine if the lines $$y = \\frac{3}{4} x - 3$$ and $$3 x - 4 y = 12$$ are parallel.",
+        "Image Links": [],
+        "Answer": "not parallel; same line",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.109",
+        "Problem Statement": "",
+        "Question": "Use slopes to determine if the lines $$y = -3 x + 2$$ and $$x - 3 y = 4$$ are perpendicular.",
+        "Image Links": [],
+        "Answer": "perpendicular",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.110",
+        "Problem Statement": "",
+        "Question": "Use slopes to determine if the lines $$y = 2 x - 5$$ and $$x + 2 y = -6$$ are perpendicular.",
+        "Image Links": [],
+        "Answer": "perpendicular",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.111",
+        "Problem Statement": "",
+        "Question": "Use slopes to determine if the lines $$5 x + 4 y = 1$$ and $$4 x + 5 y = 3$$ are perpendicular.",
+        "Image Links": [],
+        "Answer": "not perpendicular",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.112",
+        "Problem Statement": "",
+        "Question": "Use slopes to determine if the lines $$2 x - 9 y = 3$$ and $$9 x - 2 y = 1$$ are perpendicular.",
+        "Image Links": [],
+        "Answer": "not perpendicular",
+        "Answer Image Links": []
+    }
+]

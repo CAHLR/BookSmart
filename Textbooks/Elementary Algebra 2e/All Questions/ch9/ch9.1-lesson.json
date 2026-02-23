@@ -1,0 +1,418 @@
+[
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{36}$$",
+        "Image Links": [],
+        "Answer": "6",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{64}$$",
+        "Image Links": [],
+        "Answer": "8",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{169}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{9}$$",
+        "Image Links": [],
+        "Answer": "3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{16}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{100}$$",
+        "Image Links": [],
+        "Answer": "10",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{144}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\text{unicode[:-]} \\sqrt{4}$$",
+        "Image Links": [],
+        "Answer": "$$-2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\text{unicode[:-]} \\sqrt{100}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\text{unicode[:-]} \\sqrt{1}$$",
+        "Image Links": [],
+        "Answer": "$$-1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\text{unicode[:-]} \\sqrt{121}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{-121}$$",
+        "Image Links": [],
+        "Answer": "not a real number",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{-36}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{-9}$$",
+        "Image Links": [],
+        "Answer": "not a real number",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{-49}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{9 + 16}$$",
+        "Image Links": [],
+        "Answer": "5",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{25 + 144}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{9} + \\sqrt{16}$$",
+        "Image Links": [],
+        "Answer": "7",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{25} + \\sqrt{144}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, estimate each square root between two consecutive whole numbers.",
+        "Question": "$$\\sqrt{70}$$",
+        "Image Links": [],
+        "Answer": "$$8 < \\sqrt{70} < 9$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, estimate each square root between two consecutive whole numbers.",
+        "Question": "$$\\sqrt{55}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, estimate each square root between two consecutive whole numbers.",
+        "Question": "$$\\sqrt{200}$$",
+        "Image Links": [],
+        "Answer": "$$14 < \\sqrt{200} < 15$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, estimate each square root between two consecutive whole numbers.",
+        "Question": "$$\\sqrt{172}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, approximate each square root and round to two decimal places.",
+        "Question": "$$\\sqrt{19}$$",
+        "Image Links": [],
+        "Answer": "4.36",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, approximate each square root and round to two decimal places.",
+        "Question": "$$\\sqrt{21}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, approximate each square root and round to two decimal places.",
+        "Question": "$$\\sqrt{53}$$",
+        "Image Links": [],
+        "Answer": "7.28",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, approximate each square root and round to two decimal places.",
+        "Question": "$$\\sqrt{47}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{y^{2}}$$",
+        "Image Links": [],
+        "Answer": "$$y$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{b^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{a^{14}}$$",
+        "Image Links": [],
+        "Answer": "$$a^{7}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{w^{24}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{49 x^{2}}$$",
+        "Image Links": [],
+        "Answer": "$$7 x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{100 y^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{121 m^{20}}$$",
+        "Image Links": [],
+        "Answer": "$$11 m^{10}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{25 h^{44}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{81 x^{36}}$$",
+        "Image Links": [],
+        "Answer": "$$9 x^{18}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{144 z^{84}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\text{unicode[:-]} \\sqrt{81 x^{18}}$$",
+        "Image Links": [],
+        "Answer": "$$-9 x^{9}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\text{unicode[:-]} \\sqrt{100 m^{32}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\text{unicode[:-]} \\sqrt{64 a^{2}}$$",
+        "Image Links": [],
+        "Answer": "$$-8 a$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\text{unicode[:-]} \\sqrt{25 x^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{144 x^{2} y^{2}}$$",
+        "Image Links": [],
+        "Answer": "$$12 x y$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{196 a^{2} b^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{169 w^{8} y^{10}}$$",
+        "Image Links": [],
+        "Answer": "$$13 w^{4} y^{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{81 p^{24} q^{6}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{9 c^{8} d^{12}}$$",
+        "Image Links": [],
+        "Answer": "$$3 c^{4} d^{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{36 r^{6} s^{20}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Everyday Math",
+        "Problem Statement": "",
+        "Question": "Decorating Denise wants to have a square accent of designer tiles in her new shower. She can afford to buy 625 square centimeters of the designer tiles. How long can a side of the accent be?",
+        "Image Links": [],
+        "Answer": "25 centimeters",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Everyday Math",
+        "Problem Statement": "",
+        "Question": "Decorating Morris wants to have a square mosaic inlaid in his new patio. His budget allows for 2025 square inch tiles. How long can a side of the mosaic be?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "Why is there no real number equal to $$\\sqrt{-64}$$ ?",
+        "Image Links": [],
+        "Answer": "Answers will vary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "What is the difference between $$9^{2}$$ and $$\\sqrt{9}$$ ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

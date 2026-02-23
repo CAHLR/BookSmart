@@ -1,0 +1,114 @@
+[
+    {
+        "Topic": "Try It 8.171",
+        "Problem Statement": "",
+        "Question": "If $$y$$ varies directly as $$x$$ and $$y = 3 , \\text{when} x = 10 .$$ find the equation that relates x and y .",
+        "Image Links": [],
+        "Answer": "$$\\frac{3}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.172",
+        "Problem Statement": "",
+        "Question": "If $$y$$ varies directly as $$x$$ and $$y = 12 \\text{when} x = 4$$ find the equation that relates x and y .",
+        "Image Links": [],
+        "Answer": "$$y = 3 x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.173",
+        "Problem Statement": "",
+        "Question": "The number of calories, c , burned varies directly with the amount of time, t, spent exercising. Arnold burned 312 calories in 65 minutes exercising. \u24d0 Write the equation that relates c and t . \u24d1 How many calories would he burn if he exercises for 90 minutes?",
+        "Image Links": [],
+        "Answer": "\u24d0 $$c = 4.8 t$$ \u24d1 432 calories",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.174",
+        "Problem Statement": "",
+        "Question": "The distance a moving body travels, d , varies directly with time, t , it moves. A train travels 100 miles in 2 hours \u24d0 Write the equation that relates d and t . \u24d1 How many miles would it travel in 5 hours?",
+        "Image Links": [],
+        "Answer": "\u24d0 $$d = 50 t$$ \u24d1 250 miles",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.175",
+        "Problem Statement": "",
+        "Question": "The distance that Brad travels varies directly with the time spent traveling. Brad travelled 660 miles in 12 hours, \u24d0 Write the equation that relates the number of miles travelled to the time. \u24d1 How many miles could Brad travel in 4 hours?",
+        "Image Links": [],
+        "Answer": "\u24d0 $$m = 55 h$$ \u24d1 220 miles",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.176",
+        "Problem Statement": "",
+        "Question": "The weight of a liquid varies directly as its volume. A liquid that weighs 24 pounds has a volume of 4 gallons. \u24d0 Write the equation that relates the weight to the volume. \u24d1 If a liquid has volume 13 gallons, what is its weight?",
+        "Image Links": [],
+        "Answer": "\u24d0 $$w = 6 v$$ \u24d1 78 pounds",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.177",
+        "Problem Statement": "",
+        "Question": "The distance an object falls is directly proportional to the square of the time it falls. A ball falls 144 feet in 3 seconds. \u24d0 Write the equation that relates the distance to the time. \u24d1 How far will an object fall in 4 seconds?",
+        "Image Links": [],
+        "Answer": "\u24d0 $$d = 16 t^{2}$$ \u24d1 256 feet",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.178",
+        "Problem Statement": "",
+        "Question": "The area of a circle varies directly as the square of the radius. A circular pizza with a radius of 6 inches has an area of 113.04 square inches. \u24d0 Write the equation that relates the area to the radius. \u24d1 What is the area of a pizza with a radius of 9 inches?",
+        "Image Links": [],
+        "Answer": "\u24d0 $$A = 3.14 r^{2}$$ \u24d1 254.34 square inches",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.179",
+        "Problem Statement": "",
+        "Question": "If $$p$$ varies inversely with $$q$$ and $$p = 30$$ when $$q = 12$$ find the equation that relates $$p$$ and $$q .$$",
+        "Image Links": [],
+        "Answer": "$$p = \\frac{360}{q}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.180",
+        "Problem Statement": "",
+        "Question": "If $$y$$ varies inversely with $$x$$ and $$y = 8$$ when $$x = 2$$ find the equation that relates $$x$$ and $$y$$ .",
+        "Image Links": [],
+        "Answer": "$$y = \\frac{16}{x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.181",
+        "Problem Statement": "",
+        "Question": "A car\u2019s value varies inversely with its age. Elena bought a two-year-old car for $20,000. \u24d0 Write the equation of variation. \u24d1 What will be the value of Elena\u2019s car when it is 5 years old?",
+        "Image Links": [],
+        "Answer": "\u24d0 $$v = \\frac{40,000}{a}$$ \u24d1 $8,000",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.182",
+        "Problem Statement": "",
+        "Question": "The time required to empty a pool varies inversely as the rate of pumping. It took Lucy 2.5 hours to empty her pool using a pump that was rated at 400 gpm (gallons per minute). \u24d0 Write the equation of variation. \u24d1 How long will it take her to empty the pool using a pump rated at 500 gpm?",
+        "Image Links": [],
+        "Answer": "\u24d0 $$t = \\frac{1000}{r}$$ \u24d1 2 hours",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.183",
+        "Problem Statement": "",
+        "Question": "The number of hours it takes for ice to melt varies inversely with the air temperature. Suppose a block of ice melts in 2 hours when the temperature is 65 degrees. \u24d0 Write the equation of variation. \u24d1 How many hours would it take for the same block of ice to melt if the temperature was 78 degrees?",
+        "Image Links": [],
+        "Answer": "\u24d0 $$h = \\frac{130}{t}$$ \u24d1 $$1 \\frac{2}{3}$$ hours",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.184",
+        "Problem Statement": "",
+        "Question": "The force needed to break a board varies inversely with its length. Richard uses 24 pounds of pressure to break a 2-foot long board. \u24d0 Write the equation of variation. \u24d1 How many pounds of pressure is needed to break a 5-foot long board?",
+        "Image Links": [],
+        "Answer": "\u24d0 $$F = \\frac{48}{L}$$ \u24d1 9.6 pounds",
+        "Answer Image Links": []
+    }
+]

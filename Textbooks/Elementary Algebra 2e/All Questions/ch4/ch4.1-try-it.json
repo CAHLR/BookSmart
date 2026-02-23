@@ -1,0 +1,158 @@
+[
+    {
+        "Topic": "Try It 4.1",
+        "Problem Statement": "",
+        "Question": "Plot each point in a rectangular coordinate system and identify the quadrant in which the point is located: \u24d0 $$( -2 , 1 )$$ \u24d1 $$( -3 , -1 )$$ \u24d2 $$( 4 , -4 )$$ \u24d3 $$( -4 , 4 )$$ \u24d4 $$( -4 , \\frac{3}{2} )$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/03d3d6843fc4309c7199bd857a337b6956e5b6d8"
+        ]
+    },
+    {
+        "Topic": "Try It 4.2",
+        "Problem Statement": "",
+        "Question": "Plot each point in a rectangular coordinate system and identify the quadrant in which the point is located: \u24d0 $$( -4 , 1 )$$ \u24d1 $$( -2 , 3 )$$ \u24d2 $$( 2 , -5 )$$ \u24d3 $$( -2 , 5 )$$ \u24d4 $$( -3 , \\frac{5}{2} )$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1fcc8a233a1da533e424f875f6bd25c7f709fa15"
+        ]
+    },
+    {
+        "Topic": "Try It 4.3",
+        "Problem Statement": "",
+        "Question": "Plot each point: \u24d0 $$( 4 , 0 )$$ \u24d1 $$( -2 , 0 )$$ \u24d2 $$( 0 , 0 )$$ \u24d3 $$( 0 , 2 )$$ \u24d4 $$( 0 , -3 )$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3e38d9a0b611548b63ecd56722718352923689a5"
+        ]
+    },
+    {
+        "Topic": "Try It 4.4",
+        "Problem Statement": "",
+        "Question": "Plot each point: \u24d0 $$( -5 , 0 )$$ \u24d1 $$( 3 , 0 )$$ \u24d2 $$( 0 , 0 )$$ \u24d3 $$( 0 , -1 )$$ \u24d4 $$( 0 , 4 )$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/53669312203b9e3364552e85c3b1b84aef831fee"
+        ]
+    },
+    {
+        "Topic": "Try It 4.5",
+        "Problem Statement": "",
+        "Question": "Name the ordered pair of each point shown in the rectangular coordinate system.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/993e1abb7e3fd96d08ce30f7a32b60a1f6ca8fb4"
+        ],
+        "Answer": "A: $$( 5 , 1 )$$ B: $$( -2 , 4 )$$ C: $$( -5 , -1 )$$ D: $$( 3 , -2 )$$ E: $$( 0 , -5 )$$ F: $$( 4 , 0 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.6",
+        "Problem Statement": "",
+        "Question": "Name the ordered pair of each point shown in the rectangular coordinate system.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d546dbfa6c26a70007cbe48017d3883ed63cc597"
+        ],
+        "Answer": "A: $$( 4 , 2 )$$ B: $$( -2 , 3 )$$ C: $$( -4 , -4 )$$ D: $$( 3 , -5 )$$ E: $$( -3 , 0 )$$ F: $$( 0 , 2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.7",
+        "Problem Statement": "",
+        "Question": "Which of the following ordered pairs are solutions to $$2 x + 3 y = 6$$ ? \u24d0 $$( 3 , 0 )$$ \u24d1 $$( 2 , 0 )$$ \u24d2 $$( 6 , -2 )$$",
+        "Image Links": [],
+        "Answer": "a, c",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.8",
+        "Problem Statement": "",
+        "Question": "Which of the following ordered pairs are solutions to the equation $$4 x - y = 8$$ ? \u24d0 $$( 0 , 8 )$$ \u24d1 $$( 2 , 0 )$$ \u24d2 $$( 1 , -4 )$$",
+        "Image Links": [],
+        "Answer": "b, c",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.9",
+        "Problem Statement": "",
+        "Question": "Which of the following ordered pairs are solutions to the equation $$y = 4 x - 3$$ ? \u24d0 $$( 0 , 3 )$$ \u24d1 $$( 1 , 1 )$$ \u24d2 $$( -1 , -1 )$$",
+        "Image Links": [],
+        "Answer": "b",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.10",
+        "Problem Statement": "",
+        "Question": "Which of the following ordered pairs are solutions to the equation $$y = -2 x + 6$$ ? \u24d0 $$( 0 , 6 )$$ \u24d1 $$( 1 , 4 )$$ \u24d2 $$( -2 , -2 )$$",
+        "Image Links": [],
+        "Answer": "a, b",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.11",
+        "Problem Statement": "",
+        "Question": "Complete the table to find three solutions to this equation: $$y = 3 x - 1$$ . \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|}\n\\hline\n$$y = 3 x - 1$$ \\\\ \\hline\n$$x$$ & $$y$$ & $$( x , y )$$ \\\\ \\hline\n0 &  &  \\\\ \\hline\n$$-1$$ &  &  \\\\ \\hline\n2 &  &  \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|}\n\\hline\n$$y = 3 x - 1$$ \\\\ \\hline\n$$x$$ & $$y$$ & $$( x , y )$$ \\\\ \\hline\n0 & $$-1$$ & $$( 0 , -1 )$$ \\\\ \\hline\n$$-1$$ & $$-4$$ & $$( -1 , -4 )$$ \\\\ \\hline\n2 & 5 & $$( 2 , 5 )$$ \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.12",
+        "Problem Statement": "",
+        "Question": "Complete the table to find three solutions to this equation: $$y = 6 x + 1$$ . \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|}\n\\hline\n$$y = 6 x + 1$$ \\\\ \\hline\n$$x$$ & $$y$$ & $$( x , y )$$ \\\\ \\hline\n0 &  &  \\\\ \\hline\n1 &  &  \\\\ \\hline\n$$-2$$ &  &  \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|}\n\\hline\n$$y = 6 x + 1$$ \\\\ \\hline\n$$x$$ & $$y$$ & $$( x , y )$$ \\\\ \\hline\n0 & 1 & $$( 0 , 1 )$$ \\\\ \\hline\n1 & 7 & $$( 1 , 7 )$$ \\\\ \\hline\n$$-2$$ & $$-11$$ & $$( -2 , -11 )$$ \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.13",
+        "Problem Statement": "",
+        "Question": "Complete the table to find three solutions to this equation: $$2 x - 5 y = 20$$ . \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|}\n\\hline\n$$2 x - 5 y = 20$$ \\\\ \\hline\n$$x$$ & $$y$$ & $$( x , y )$$ \\\\ \\hline\n0 &  &  \\\\ \\hline\n & 0 &  \\\\ \\hline\n$$-5$$ &  &  \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|}\n\\hline\n$$2 x - 5 y = 20$$ \\\\ \\hline\n$$x$$ & $$y$$ & $$( x , y )$$ \\\\ \\hline\n0 & $$-4$$ & $$( 0 , -4 )$$ \\\\ \\hline\n10 & 0 & $$( 10 , 0 )$$ \\\\ \\hline\n$$-5$$ & $$-6$$ & $$( -5 , -6 )$$ \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.14",
+        "Problem Statement": "",
+        "Question": "Complete the table to find three solutions to this equation: $$3 x - 4 y = 12$$ . \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|}\n\\hline\n$$3 x - 4 y = 12$$ \\\\ \\hline\n$$x$$ & $$y$$ & $$( x , y )$$ \\\\ \\hline\n0 &  &  \\\\ \\hline\n & 0 &  \\\\ \\hline\n$$-4$$ &  &  \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|}\n\\hline\n$$3 x - 4 y = 12$$ \\\\ \\hline\n$$x$$ & $$y$$ & $$( x , y )$$ \\\\ \\hline\n0 & $$-3$$ & $$( 0 , -3 )$$ \\\\ \\hline\n4 & 0 & $$( 4 , 0 )$$ \\\\ \\hline\n$$-4$$ & $$-6$$ & $$( -4 , -6 )$$ \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.15",
+        "Problem Statement": "",
+        "Question": "Find three solutions to this equation: $$y = -2 x + 3$$ .",
+        "Image Links": [],
+        "Answer": "Answers will vary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.16",
+        "Problem Statement": "",
+        "Question": "Find three solutions to this equation: $$y = -4 x + 1$$ .",
+        "Image Links": [],
+        "Answer": "Answers will vary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.17",
+        "Problem Statement": "",
+        "Question": "Find three solutions to the equation $$2 x + 3 y = 6$$ .",
+        "Image Links": [],
+        "Answer": "Answers will vary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.18",
+        "Problem Statement": "",
+        "Question": "Find three solutions to the equation $$4 x + 2 y = 8$$ .",
+        "Image Links": [],
+        "Answer": "Answers will vary.",
+        "Answer Image Links": []
+    }
+]

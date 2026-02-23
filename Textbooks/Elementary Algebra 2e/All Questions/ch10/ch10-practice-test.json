@@ -1,0 +1,164 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Use the Square Root Property to solve the quadratic equation: $$3 ( w + 5 )^{2} = 27$$ .",
+        "Image Links": [],
+        "Answer": "$$w = -2 , -8$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Use Completing the Square to solve the quadratic equation: $$a^{2} - 8 a + 7 = 23$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Use the Quadratic Formula to solve the quadratic equation: $$2 m^{2} - 5 m + 3 = 0$$ .",
+        "Image Links": [],
+        "Answer": "$$m = 1 , \\frac{3}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the following quadratic equations. Use any method.",
+        "Question": "$$8 v^{2} + 3 = 35$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the following quadratic equations. Use any method.",
+        "Question": "$$3 n^{2} + 8 n + 3 = 0$$",
+        "Image Links": [],
+        "Answer": "$$n = \\frac{-4 \\pm \\sqrt{7}}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the following quadratic equations. Use any method.",
+        "Question": "$$2 b^{2} + 6 b - 8 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the following quadratic equations. Use any method.",
+        "Question": "$$x ( x + 3 ) + 12 = 0$$",
+        "Image Links": [],
+        "Answer": "no real solution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the following quadratic equations. Use any method.",
+        "Question": "$$\\frac{4}{3} y^{2} - 4 y + 3 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the discriminant to determine the number of solutions of each quadratic equation.",
+        "Question": "$$6 p^{2} - 13 p + 7 = 0$$",
+        "Image Links": [],
+        "Answer": "2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the discriminant to determine the number of solutions of each quadratic equation.",
+        "Question": "$$3 q^{2} - 10 q + 12 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve by factoring, the Square Root Property, or the Quadratic Formula.",
+        "Question": "Find two consecutive even numbers whose product is 360.",
+        "Image Links": [],
+        "Answer": "Two consecutive even number are $$-20$$ and $$-18$$ and 18 and 20.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve by factoring, the Square Root Property, or the Quadratic Formula.",
+        "Question": "The length of a diagonal of a rectangle is three more than the width. The length of the rectangle is three times the width. Find the length of the diagonal. (Round to the nearest tenth.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each parabola, find \u24d0 which ways it opens, \u24d1 the axis of symmetry, \u24d2 the vertex, \u24d3 the x - and y -intercepts, and \u24d4 the maximum or minimum value.",
+        "Question": "$$y = 3 x^{2} + 6 x + 8$$",
+        "Image Links": [],
+        "Answer": "\u24d0 up \u24d1 $$x = -1$$ \u24d2 $$( -1 , 5 )$$ \u24d3 $$y \\text{:} ( 0 , 8 ) ; x \\text{:} \\text{none}$$ \u24d4 minimum value of 5 when $$x = -1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each parabola, find \u24d0 which ways it opens, \u24d1 the axis of symmetry, \u24d2 the vertex, \u24d3 the x - and y -intercepts, and \u24d4 the maximum or minimum value.",
+        "Question": "$$y = x^{2} - 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each parabola, find \u24d0 which ways it opens, \u24d1 the axis of symmetry, \u24d2 the vertex, \u24d3 the x - and y -intercepts, and \u24d4 the maximum or minimum value.",
+        "Question": "$$y = x^{2} + 10 x + 24$$",
+        "Image Links": [],
+        "Answer": "\u24d0 up \u24d1 $$x = -5$$ \u24d2 $$( -5 , -1 )$$ \u24d3 $$y ; ( 0 , 24 ) ; x \\text{:} ( -6 , 0 ) , ( -4 , 0 )$$ \u24d4 minimum value of $$-1$$ when $$x = -5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each parabola, find \u24d0 which ways it opens, \u24d1 the axis of symmetry, \u24d2 the vertex, \u24d3 the x - and y -intercepts, and \u24d4 the maximum or minimum value.",
+        "Question": "$$y = -3 x^{2} + 12 x - 8$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each parabola, find \u24d0 which ways it opens, \u24d1 the axis of symmetry, \u24d2 the vertex, \u24d3 the x - and y -intercepts, and \u24d4 the maximum or minimum value.",
+        "Question": "$$y = \\text{unicode[:-]} x^{2} - 8 x + 16$$",
+        "Image Links": [],
+        "Answer": "\u24d0 down \u24d1 $$x = -4$$ \u24d2 $$( -4 , 32 )$$ \u24d3 $$y ; ( 0 , 16 ) ; x \\text{:} ( -9.7 , 0 ) , ( 1.7 , 0 )$$ \u24d4 maximum value of $$32$$ when $$x = -4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Graph the following parabolas by using intercepts, the vertex, and the axis of symmetry.",
+        "Question": "$$y = 2 x^{2} + 6 x + 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Graph the following parabolas by using intercepts, the vertex, and the axis of symmetry.",
+        "Question": "$$y = 16 x^{2} + 24 x + 9$$",
+        "Image Links": [],
+        "Answer": "$$y \\text{:} ( 0 , 9 ) ; x \\text{:} ( - \\frac{3}{4} , 0 ) ;$$ axis: $$x = - \\frac{3}{4} ; \\text{vertex} \\text{:} ( - \\frac{3}{4} , 0 )$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/409bd9b72a66f45be19576760c3abd112b75b677"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve.",
+        "Question": "A water balloon is launched upward at the rate of 86 ft/sec. Using the formula $$h = -16 t^{2} + 86 t$$ , find how long it will take the balloon to reach the maximum height and then find the maximum height. Round to the nearest tenth.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

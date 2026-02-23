@@ -1,0 +1,690 @@
+[
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$\\frac{x^{18}}{x^{3}}$$ \u24d1 $$\\frac{5^{12}}{5^{3}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$\\frac{y^{20}}{y^{10}}$$ \u24d1 $$\\frac{7^{16}}{7^{2}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$y^{10}$$ \u24d1 $$7^{14}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$\\frac{p^{21}}{p^{7}}$$ \u24d1 $$\\frac{4^{16}}{4^{4}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$\\frac{u^{24}}{u^{3}}$$ \u24d1 $$\\frac{9^{15}}{9^{5}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$u^{21}$$ \u24d1 $$9^{10}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$\\frac{q^{18}}{q^{36}}$$ \u24d1 $$\\frac{10^{2}}{10^{3}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$\\frac{t^{10}}{t^{40}}$$ \u24d1 $$\\frac{8^{3}}{8^{5}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{1}{t^{30}}$$ \u24d1 $$\\frac{1}{64}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$\\frac{b}{b^{9}}$$ \u24d1 $$\\frac{4}{4^{6}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$\\frac{x}{x^{7}}$$ \u24d1 $$\\frac{10}{10^{3}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{1}{x^{6}}$$ \u24d1 $$\\frac{1}{100}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$20^{0}$$ \u24d1 $$b^{0}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$13^{0}$$ \u24d1 $$k^{0}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 1 \u24d1 1",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$\\text{unicode[:-]} 27^{0}$$ \u24d1 $$\\text{unicode[:-]} ( 27^{0} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$\\text{unicode[:-]} 15^{0}$$ \u24d1 $$\\text{unicode[:-]} ( 15^{0} )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-1$$ \u24d1 $$-1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$( 25 x )^{0}$$ \u24d1 $$25 x^{0}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$( 6 y )^{0}$$ \u24d1 $$6 y^{0}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 1 \u24d1 6",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$( 12 x )^{0}$$ \u24d1 $$( -56 p^{4} q^{3} )^{0}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$7 y^{0}$$ $$( 17 y )^{0}$$ \u24d1 $$( -93 c^{7} d^{15} )^{0}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 7 \u24d1 1",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$12 n^{0} - 18 m^{0}$$ \u24d1 $$( 12 n )^{0} - ( 18 m )^{0}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$15 r^{0} - 22 s^{0}$$ \u24d1 $$( 15 r )^{0} - ( 22 s )^{0}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-7$$ \u24d1 0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$( \\frac{3}{4} )^{3}$$ \u24d1 $$( \\frac{p}{2} )^{5}$$ \u24d2 $$( \\frac{x}{y} )^{6}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$( \\frac{2}{5} )^{2}$$ \u24d1 $$( \\frac{x}{3} )^{4}$$ \u24d2 $$( \\frac{a}{b} )^{5}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{4}{25}$$ \u24d1 $$\\frac{x^{4}}{81}$$ \u24d2 $$\\frac{a^{5}}{b^{5}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$( \\frac{a}{3 b} )^{4}$$ \u24d1 $$( \\frac{5}{4 m} )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$( \\frac{x}{2 y} )^{3}$$ \u24d1 $$( \\frac{10}{3 q} )^{4}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{x^{3}}{8 y^{3}}$$ \u24d1 $$\\frac{10,000}{81 q^{4}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\frac{( a^{2} )^{3}}{a^{4}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\frac{( p^{3} )^{4}}{p^{5}}$$",
+        "Image Links": [],
+        "Answer": "$$p^{7}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\frac{( y^{3} )^{4}}{y^{10}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\frac{( x^{4} )^{5}}{x^{15}}$$",
+        "Image Links": [],
+        "Answer": "$$x^{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\frac{u^{6}}{( u^{3} )^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\frac{v^{20}}{( v^{4} )^{5}}$$",
+        "Image Links": [],
+        "Answer": "1",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\frac{m^{12}}{( m^{8} )^{3}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\frac{n^{8}}{( n^{6} )^{4}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{n^{16}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$( \\frac{p^{9}}{p^{3}} )^{5}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$( \\frac{q^{8}}{q^{2}} )^{3}$$",
+        "Image Links": [],
+        "Answer": "$$q^{18}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$( \\frac{r^{2}}{r^{6}} )^{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$( \\frac{m^{4}}{m^{7}} )^{4}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{m^{12}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$( \\frac{p}{r^{11}} )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$( \\frac{a}{b^{6}} )^{3}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{a^{3}}{b^{18}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$( \\frac{w^{5}}{x^{3}} )^{8}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$( \\frac{y^{4}}{z^{10}} )^{5}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{y^{20}}{z^{50}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$( \\frac{2 j^{3}}{3 k} )^{4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$( \\frac{3 m^{5}}{5 n} )^{3}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{27 m^{15}}{125 n^{3}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$( \\frac{3 c^{2}}{4 d^{6}} )^{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$( \\frac{5 u^{7}}{2 v^{3}} )^{4}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{625 u^{28}}{16 v^{^{12}}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$( \\frac{k^{2} k^{8}}{k^{3}} )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$( \\frac{j^{2} j^{5}}{j^{4}} )^{3}$$",
+        "Image Links": [],
+        "Answer": "$$j^{9}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\frac{( t^{2} )^{5} ( t^{4} )^{2}}{( t^{3} )^{7}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\frac{( q^{3} )^{6} ( q^{2} )^{3}}{( q^{4} )^{8}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{q^{8}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\frac{( -2 p^{2} )^{4} ( 3 p^{4} )^{2}}{( -6 p^{3} )^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\frac{( -2 k^{3} )^{2} ( 6 k^{2} )^{4}}{( 9 k^{4} )^{2}}$$",
+        "Image Links": [],
+        "Answer": "$$64 k^{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\frac{( -4 m^{3} )^{2} ( 5 m^{4} )^{3}}{( -10 m^{6} )^{3}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\frac{( -10 n^{2} )^{3} ( 4 n^{5} )^{2}}{( 2 n^{8} )^{2}}$$",
+        "Image Links": [],
+        "Answer": "$$-4,000$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide the monomials.",
+        "Question": "$$56 b^{8} \\div   7 b^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide the monomials.",
+        "Question": "$$63 v^{10} \\div   9 v^{2}$$",
+        "Image Links": [],
+        "Answer": "$$7 v^{8}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide the monomials.",
+        "Question": "$$-88 y^{15} \\div   8 y^{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide the monomials.",
+        "Question": "$$-72 u^{12} \\div   1 2 u^{4}$$",
+        "Image Links": [],
+        "Answer": "$$-6 u^{8}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide the monomials.",
+        "Question": "$$\\frac{45 a^{6} b^{8}}{-15 a^{10} b^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide the monomials.",
+        "Question": "$$\\frac{54 x^{9} y^{3}}{-18 x^{6} y^{15}}$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{3 x^{3}}{y^{12}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide the monomials.",
+        "Question": "$$\\frac{15 r^{4} s^{9}}{18 r^{9} s^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide the monomials.",
+        "Question": "$$\\frac{20 m^{8} n^{4}}{30 m^{5} n^{9}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2 m^{3}}{3 n^{5}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide the monomials.",
+        "Question": "$$\\frac{18 a^{4} b^{8}}{-27 a^{9} b^{5}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide the monomials.",
+        "Question": "$$\\frac{45 x^{5} y^{9}}{-60 x^{8} y^{6}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{-3 y^{3}}{4 x^{3}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide the monomials.",
+        "Question": "$$\\frac{64 q^{11} r^{9} s^{3}}{48 q^{6} r^{8} s^{5}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide the monomials.",
+        "Question": "$$\\frac{65 a^{10} b^{8} c^{5}}{42 a^{7} b^{6} c^{8}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{65 a^{3} b^{2}}{42 c^{3}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide the monomials.",
+        "Question": "$$\\frac{( 10 m^{5} n^{4} ) ( 5 m^{3} n^{6} )}{25 m^{7} n^{5}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide the monomials.",
+        "Question": "$$\\frac{( -18 p^{4} q^{7} ) ( -6 p^{3} q^{8} )}{-36 p^{12} q^{10}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{-3 q^{5}}{p^{5}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide the monomials.",
+        "Question": "$$\\frac{( 6 a^{4} b^{3} ) ( 4 a b^{5} )}{( 12 a^{2} b ) ( a^{3} b )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide the monomials.",
+        "Question": "$$\\frac{( 4 u^{2} v^{5} ) ( 15 u^{3} v )}{( 12 u^{3} v ) ( u^{4} v )}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{5 v^{4}}{u^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "\u24d0 $$24 a^{5} + 2 a^{5}$$ \u24d1 $$24 a^{5} - 2 a^{5}$$ \u24d2 $$24 a^{5} \\cdotp 2 a^{5}$$ \u24d3 $$24 a^{5} \\div 2 a^{5}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "\u24d0 $$15 n^{10} + 3 n^{10}$$ \u24d1 $$15 n^{10} - 3 n^{10}$$ \u24d2 $$15 n^{10} \\cdotp 3 n^{10}$$ \u24d3 $$15 n^{10} \\div 3 n^{10}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$18 n^{10}$$ \u24d1 $$12 n^{10}$$ \u24d2 $$45 n^{20}$$ \u24d3 5",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "\u24d0 $$p^{4} \\cdotp p^{6}$$ \u24d1 $$( p^{4} )^{6}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "\u24d0 $$q^{5} \\cdotp q^{3}$$ \u24d1 $$( q^{5} )^{3}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$q^{8}$$ \u24d1 $$q^{15}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "\u24d0 $$\\frac{y^{3}}{y}$$ \u24d1 $$\\frac{y}{y^{3}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "\u24d0 $$\\frac{z^{6}}{z^{5}}$$ \u24d1 $$\\frac{z^{5}}{z^{6}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$z$$ \u24d1 $$\\frac{1}{z}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$( 8 x^{5} ) ( 9 x ) \\div 6 x^{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$( 4 y ) ( 12 y^{7} ) \\div 8 y^{2}$$",
+        "Image Links": [],
+        "Answer": "$$6 y^{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$\\frac{27 a^{7}}{3 a^{3}} + \\frac{54 a^{9}}{9 a^{5}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$\\frac{32 c^{11}}{4 c^{5}} + \\frac{42 c^{9}}{6 c^{3}}$$",
+        "Image Links": [],
+        "Answer": "$$15 c^{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$\\frac{32 y^{5}}{8 y^{2}} - \\frac{60 y^{10}}{5 y^{7}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$\\frac{48 x^{6}}{6 x^{4}} - \\frac{35 x^{9}}{7 x^{7}}$$",
+        "Image Links": [],
+        "Answer": "$$3 x^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$\\frac{63 r^{6} s^{3}}{9 r^{4} s^{2}} - \\frac{72 r^{2} s^{2}}{6 s}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$\\frac{56 y^{4} z^{5}}{7 y^{3} z^{3}} - \\frac{45 y^{2} z^{2}}{5 y}$$",
+        "Image Links": [],
+        "Answer": "$$\\text{unicode[:-]} y z^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Everyday Math",
+        "Problem Statement": "",
+        "Question": "Memory One megabyte is approximately $$10^{6}$$ bytes. One gigabyte is approximately $$10^{9}$$ bytes. How many megabytes are in one gigabyte?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Everyday Math",
+        "Problem Statement": "",
+        "Question": "Memory One gigabyte is approximately $$10^{9}$$ bytes. One terabyte is approximately $$10^{12}$$ bytes. How many gigabytes are in one terabyte?",
+        "Image Links": [],
+        "Answer": "$$10^{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "Jennifer thinks the quotient $$\\frac{a^{24}}{a^{6}}$$ simplifies to $$a^{4}$$ . What is wrong with her reasoning?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "Maurice simplifies the quotient $$\\frac{d^{7}}{d}$$ by writing $$\\frac{d^{7}}{d} = 7$$ . What is wrong with his reasoning?",
+        "Image Links": [],
+        "Answer": "Answers will vary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "When Drake simplified $$\\text{unicode[:-]} 3^{0}$$ and $$( -3 )^{0}$$ he got the same answer. Explain how using the Order of Operations correctly gives different answers.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "Robert thinks $$x^{0}$$ simplifies to 0. What would you say to convince Robert he is wrong?",
+        "Image Links": [],
+        "Answer": "Answers will vary.",
+        "Answer Image Links": []
+    }
+]

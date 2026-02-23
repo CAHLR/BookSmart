@@ -1,0 +1,460 @@
+[
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, determine whether each ordered pair is a solution to the system.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}3 x + y > 5 \\\\ 2 x - y \\le 10\\end{matrix}\\right .$$ \u24d0 $$( 3 , -3 )$$ \u24d1 $$( 7 , 1 )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 true \u24d1 false",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, determine whether each ordered pair is a solution to the system.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}4 x - y < 10 \\\\ -2 x + 2 y > -8\\end{matrix}\\right .$$ \u24d0 $$( 5 , -2 )$$ \u24d1 $$( -1 , 3 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, determine whether each ordered pair is a solution to the system.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}y > \\frac{2}{3} x - 5 \\\\ x + \\frac{1}{2} y \\le 4\\end{matrix}\\right .$$ \u24d0 $$( 6 , -4 )$$ \u24d1 $$( 3 , 0 )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 false \u24d1 true",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, determine whether each ordered pair is a solution to the system.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}y < \\frac{3}{2} x + 3 \\\\ \\frac{3}{4} x - 2 y < 5\\end{matrix}\\right .$$ \u24d0 $$( -4 , -1 )$$ \u24d1 $$( 8 , 3 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, determine whether each ordered pair is a solution to the system.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}7 x + 2 y > 14 \\\\ 5 x - y \\le 8\\end{matrix}\\right .$$ \u24d0 $$( 2 , 3 )$$ \u24d1 $$( 7 , -1 )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 true \u24d1 false",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, determine whether each ordered pair is a solution to the system.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}6 x - 5 y < 20 \\\\ -2 x + 7 y > -8\\end{matrix}\\right .$$ \u24d0 $$( 1 , -3 )$$ \u24d1 $$( -4 , 4 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, determine whether each ordered pair is a solution to the system.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}2 x + 3 y \\geq 2 \\\\ 4 x - 6 y < -1\\end{matrix}\\right .$$ \u24d0 $$( \\frac{3}{2} , \\frac{4}{3} )$$ \u24d1 $$( \\frac{1}{4} , \\frac{7}{6} )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 true \u24d1 true",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, determine whether each ordered pair is a solution to the system.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}5 x - 3 y < -2 \\\\ 10 x + 6 y > 4\\end{matrix}\\right .$$ \u24d0 $$( \\frac{1}{5} , \\frac{2}{3} )$$ \u24d1 $$( - \\frac{3}{10} , \\frac{7}{6} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}y \\le 3 x + 2 \\\\ y > x - 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f58e536d31fec9cd6b3b1b1fc7f6bc7793c4d279"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}y < -2 x + 2 \\\\ y \\geq - x - 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}y < 2 x - 1 \\\\ y \\le - \\frac{1}{2} x + 4\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/36ada86e5817c2312e78a4ab0d05d25a580d6c72"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}y \\geq - \\frac{2}{3} x + 2 \\\\ y > 2 x - 3\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}x - y > 1 \\\\ y < - \\frac{1}{4} x + 3\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1a114e6f9f83e892e9984a5793dbf454e0640a64"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}x + 2 y < 4 \\\\ y < x - 2\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}3 x - y \\le 6 \\\\ y \\geq - \\frac{1}{2} x\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d6ca486b7faa18e7b85c86006757069d7c526b2e"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}2 x + 4 y \\geq 8 \\\\ y \\le \\frac{3}{4} x\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}2 x - 5 y < 10 \\\\ 3 x + 4 y \\geq 12\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1b4608cd0b451e16bdc43e2bdc37b3eb52670cf9"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}3 x - 2 y \\le 6 \\\\ -4 x - 2 y > 8\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}2 x + 2 y > -4 \\\\ - x + 3 y \\geq 9\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9f5b0bd22caee8d07c04525a493b156977abe411"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}2 x + y > -6 \\\\ - x + 2 y \\geq -4\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}x - 2 y < 3 \\\\ y \\le 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9253c0a32a66a71d304810d3307ef3159915b78c"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}x - 3 y > 4 \\\\ y \\le - 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}y \\geq - \\frac{1}{2} x - 3 \\\\ x \\le 2\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a0935f369178ad9bb9055b3c6d509e8f71acab05"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}y \\le - \\frac{2}{3} x + 5 \\\\ x \\geq 3\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}y \\geq \\frac{3}{4} x - 2 \\\\ y < 2\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/520ea2b21232171b0831badf8d459980ae030158"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}y \\le - \\frac{1}{2} x + 3 \\\\ y < 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}3 x - 4 y < 8 \\\\ x < 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/fc679cccd3a34c26876a3e05bbe41aaa2b143432"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}-3 x + 5 y > 10 \\\\ x > -1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}x \\geq 3 \\\\ y \\le 2\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/efa02f0617b72c101ad177900b8a93756956cdcd"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}x \\le - 1 \\\\ y \\geq 3\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}2 x + 4 y > 4 \\\\ y \\le - \\frac{1}{2} x - 2\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "No solution",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/83567bedd033f0192d42dc255471e7a64346dd34"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}x - 3 y \\geq 6 \\\\ y > \\frac{1}{3} x + 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}-2 x + 6 y < 0 \\\\ 6 y > 2 x + 4\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "No solution",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/96139eb11f8879b28fb7c08713bb88b41eaaf3fc"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}-3 x + 6 y > 12 \\\\ 4 y \\le 2 x - 4\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}y \\geq -3 x + 2 \\\\ 3 x + y > 5\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3c26eb08cde181c928c3772575ca21b6c5ab71c8"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}y \\geq \\frac{1}{2} x - 1 \\\\ -2 x + 4 y \\geq 4\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}y \\le - \\frac{1}{4} x - 2 \\\\ x + 4 y < 6\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$x + 4 y < 6$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1e61472bfbc2a7479a4f5baa0327276625587f9f"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}y \\geq 3 x - 1 \\\\ -3 x + y > -4\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}3 y > x + 2 \\\\ -2 x + 6 y > 8\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$-2 x + 6 y > 8$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9d1952c6751d211d0dba0812ec99c4b351a17d5e"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve each system by graphing.",
+        "Question": "$$\\{ \\left .\\begin{matrix}{a}y < \\frac{3}{4} x - 2 \\\\ -3 x + 4 y < 7\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, translate to a system of inequalities and solve.",
+        "Question": "Caitlyn sells her drawings at the county fair. She wants to sell at least 60 drawings and has portraits and landscapes. She sells the portraits for $15 and the landscapes for $10. She needs to sell at least $800 worth of drawings in order to earn a profit. \u24d0 Write a system of inequalities to model this situation. \u24d1 Graph the system. \u24d2 Will she make a profit if she sells 20 portraits and 35 landscapes? \u24d3 Will she make a profit if she sells 50 portraits and 20 landscapes?",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\{ \\left .\\begin{matrix}{a}p + l \\geq 60 \\\\ 15 p + 10 l \\geq 800\\end{matrix}\\right .$$ \u24d1 \u24d2 No \u24d3 Yes",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ff22b1847226498947315adbb6c8fe3c803c0e64"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, translate to a system of inequalities and solve.",
+        "Question": "Jake does not want to spend more than $50 on bags of fertilizer and peat moss for his garden. Fertilizer costs $2 a bag and peat moss costs $5 a bag. Jake\u2019s van can hold at most 20 bags. \u24d0 Write a system of inequalities to model this situation. \u24d1 Graph the system. \u24d2 Can he buy 15 bags of fertilizer and 4 bags of peat moss? \u24d3 Can he buy 10 bags of fertilizer and 10 bags of peat moss?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, translate to a system of inequalities and solve.",
+        "Question": "Reiko needs to mail her Christmas cards and packages and wants to keep her mailing costs to no more than $500. The number of cards is at least 4 more than twice the number of packages. The cost of mailing a card (with pictures enclosed) is $3 and for a package the cost is $7. \u24d0 Write a system of inequalities to model this situation. \u24d1 Graph the system. \u24d2 Can she mail 60 cards and 26 packages? \u24d3 Can she mail 90 cards and 40 packages?",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\{ \\left .\\begin{matrix}{a}7 p + 3 c \\le 500 \\\\ p \\geq 2 c + 4\\end{matrix}\\right .$$ \u24d1 \u24d2 Yes \u24d3 No",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/34d2e0592cf06b19d4b09082667248fcc549b310"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, translate to a system of inequalities and solve.",
+        "Question": "Juan is studying for his final exams in Chemistry and Algebra. He knows he only has 24 hours to study, and it will take him at least three times as long to study for Algebra than Chemistry. \u24d0 Write a system of inequalities to model this situation. \u24d1 Graph the system. \u24d2 Can he spend 4 hours on Chemistry and 20 hours on Algebra? \u24d3 Can he spend 6 hours on Chemistry and 18 hours on Algebra?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, translate to a system of inequalities and solve.",
+        "Question": "Jocelyn is pregnant and needs to eat at least 500 more calories a day than usual. When buying groceries one day with a budget of $15 for the extra food, she buys bananas that have 90 calories each and chocolate granola bars that have 150 calories each. The bananas cost $0.35 each and the granola bars cost $2.50 each. \u24d0 Write a system of inequalities to model this situation. \u24d1 Graph the system. \u24d2 Could she buy 5 bananas and 6 granola bars? \u24d3 Could she buy 3 bananas and 4 granola bars?",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\{ \\left .\\begin{matrix}{a}90 b + 150 g \\geq 500 \\\\ 0.35 b + 2.50 g \\le 15\\end{matrix}\\right .$$ \u24d1 \u24d2 No \u24d3 Yes",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6e8414adc6fe2f771f8c70b6e185d05a27d140b6"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, translate to a system of inequalities and solve.",
+        "Question": "Mark is attempting to build muscle mass and so he needs to eat at least an additional 80 grams of protein a day. A bottle of protein water costs $3.20 and a protein bar costs $1.75. The protein water supplies 27 grams of protein and the bar supplies 16 gram. If he has $ 10 dollars to spend \u24d0 Write a system of inequalities to model this situation. \u24d1 Graph the system. \u24d2 Could he buy 3 bottles of protein water and 1 protein bar? \u24d3 Could he buy no bottles of protein water and 5 protein bars?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, translate to a system of inequalities and solve.",
+        "Question": "Jocelyn desires to increase both her protein consumption and caloric intake. She desires to have at least 35 more grams of protein each day and no more than an additional 200 calories daily. An ounce of cheddar cheese has 7 grams of protein and 110 calories. An ounce of parmesan cheese has 11 grams of protein and 22 calories. \u24d0 Write a system of inequalities to model this situation. \u24d1 Graph the system. \u24d2 Could she eat 1 ounce of cheddar cheese and 3 ounces of parmesan cheese? \u24d3 Could she eat 2 ounces of cheddar cheese and 1 ounce of parmesan cheese?",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\{ \\left .\\begin{matrix}{a}7 c + 11 p \\geq 35 \\\\ 110 \\text{c} + 22 p \\le 200\\end{matrix}\\right .$$ \u24d1 \u24d2 Yes \u24d3 No",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0e98a53d9c01008861297d7039ff544bd3ca9cbe"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, translate to a system of inequalities and solve.",
+        "Question": "Mark is increasing his exercise routine by running and walking at least 4 miles each day. His goal is to burn a minimum of 1,500 calories from this exercise. Walking burns 270 calories/mile and running burns 650 calories. \u24d0 Write a system of inequalities to model this situation. \u24d1 Graph the system. \u24d2 Could he meet his goal by walking 3 miles and running 1 mile? \u24d3 Could he meet his goal by walking 2 miles and running 2 mile?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Everyday Math",
+        "Problem Statement": "",
+        "Question": "Tickets for an American Baseball League game for 3 adults and 3 children cost less than $75, while tickets for 2 adults and 4 children cost less than $62. \u24d0 Write a system of inequalities to model this problem. \u24d1 Graph the system. \u24d2 Could the tickets cost $20 for adults and $8 for children? \u24d3 Could the tickets cost $15 for adults and $5 for children?",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\{ \\left .\\begin{matrix}{a}3 a + 3 c < 75 \\\\ 2 \\text{a} + 4 c < 62\\end{matrix}\\right .$$ \u24d1 \u24d2 No \u24d3 Yes",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e2121222bc9a08cb43a403b1e630d989eea96896"
+        ]
+    },
+    {
+        "Topic": "Everyday Math",
+        "Problem Statement": "",
+        "Question": "Grandpa and Grandma are treating their family to the movies. Matinee tickets cost $4 per child and $4 per adult. Evening tickets cost $6 per child and $8 per adult. They plan on spending no more than $80 on the matinee tickets and no more than $100 on the evening tickets. \u24d0 Write a system of inequalities to model this situation. \u24d1 Graph the system. \u24d2 Could they take 9 children and 4 adults to both shows? \u24d3 Could they take 8 children and 5 adults to both shows?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "Graph the inequality $$x - y \\geq 3$$ . How do you know which side of the line $$x - y = 3$$ should be shaded?",
+        "Image Links": [],
+        "Answer": "Answers will vary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "Graph the system $$\\{ \\left .\\begin{matrix}{a}x + 2 y \\le 6 \\\\ y \\geq - \\frac{1}{2} x - 4\\end{matrix}\\right .$$ . What does the solution mean?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

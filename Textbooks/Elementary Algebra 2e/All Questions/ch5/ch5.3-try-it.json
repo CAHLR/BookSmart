@@ -1,0 +1,162 @@
+[
+    {
+        "Topic": "Try It 5.49",
+        "Problem Statement": "",
+        "Question": "Solve the system by elimination. $$\\{ \\left .\\begin{matrix}{a}3 x + y = 5 \\\\ 2 x - 3 y = 7\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( 2 , -1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.50",
+        "Problem Statement": "",
+        "Question": "Solve the system by elimination. $$\\{ \\left .\\begin{matrix}{a}4 x + y = -5 \\\\ -2 x - 2 y = -2\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( -2 , 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.51",
+        "Problem Statement": "",
+        "Question": "Solve the system by elimination. $$\\{ \\left .\\begin{matrix}{a}2 x + y = 5 \\\\ x - y = 4\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( 3 , -1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.52",
+        "Problem Statement": "",
+        "Question": "Solve the system by elimination. $$\\{ \\left .\\begin{matrix}{a}x + y = 3 \\\\ -2 x - y = -1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( -2 , 5 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.53",
+        "Problem Statement": "",
+        "Question": "Solve the system by elimination. $$\\{ \\left .\\begin{matrix}{a}4 x - 3 y = 1 \\\\ 5 x - 9 y = -4\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( 1 , 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.54",
+        "Problem Statement": "",
+        "Question": "Solve the system by elimination. $$\\{ \\left .\\begin{matrix}{a}3 x + 2 y = 2 \\\\ 6 x + 5 y = 8\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( -2 , 4 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.55",
+        "Problem Statement": "",
+        "Question": "Solve the system by elimination. $$\\{ \\left .\\begin{matrix}{a}3 x - 4 y = -9 \\\\ 5 x + 3 y = 14\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( 1 , 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.56",
+        "Problem Statement": "",
+        "Question": "Solve the system by elimination. $$\\{ \\left .\\begin{matrix}{a}7 x + 8 y = 4 \\\\ 3 x - 5 y = 27\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( 4 , -3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.57",
+        "Problem Statement": "",
+        "Question": "Solve the system by elimination. $$\\{ \\left .\\begin{matrix}{a}\\frac{1}{3} x - \\frac{1}{2} y = 1 \\\\ \\frac{3}{4} x - y = \\frac{5}{2}\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( 6 , 2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.58",
+        "Problem Statement": "",
+        "Question": "Solve the system by elimination. $$\\{ \\left .\\begin{matrix}{a}x + \\frac{3}{5} y = - \\frac{1}{5} \\\\ - \\frac{1}{2} x - \\frac{2}{3} y = \\frac{5}{6}\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( 1 , -2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.59",
+        "Problem Statement": "",
+        "Question": "Solve the system by elimination. $$\\{ \\left .\\begin{matrix}{a}5 x - 3 y = 15 \\\\ y = -5 + \\frac{5}{3} x\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "infinitely many solutions",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.60",
+        "Problem Statement": "",
+        "Question": "Solve the system by elimination. $$\\{ \\left .\\begin{matrix}{a}x + 2 y = 6 \\\\ y = - \\frac{1}{2} x + 3\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "infinitely many solutions",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.61",
+        "Problem Statement": "",
+        "Question": "Solve the system by elimination. $$\\{ \\left .\\begin{matrix}{a}-3 x + 2 y = 8 \\\\ 9 x - 6 y = 13\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "no solution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.62",
+        "Problem Statement": "",
+        "Question": "Solve the system by elimination. $$\\{ \\left .\\begin{matrix}{a}7 x - 3 y = - 2 \\\\ -14 x + 6 y = 8\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "no solution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.63",
+        "Problem Statement": "",
+        "Question": "The sum of two numbers is 42. Their difference is 8. Find the numbers.",
+        "Image Links": [],
+        "Answer": "The numbers are 25 and 17.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.64",
+        "Problem Statement": "",
+        "Question": "The sum of two numbers is -15. Their difference is -35. Find the numbers.",
+        "Image Links": [],
+        "Answer": "The numbers are -25 and 10.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.65",
+        "Problem Statement": "",
+        "Question": "Malik stops at the grocery store to buy a bag of diapers and 2 cans of formula. He spends a total of $37. The next week he stops and buys 2 bags of diapers and 5 cans of formula for a total of $87. How much does a bag of diapers cost? How much is one can of formula?",
+        "Image Links": [],
+        "Answer": "The bag of diapers costs $11 and the can of formula costs $13.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.66",
+        "Problem Statement": "",
+        "Question": "To get her daily intake of fruit for the day, Sasha eats a banana and 8 strawberries on Wednesday for a calorie count of 145. On the following Wednesday, she eats two bananas and 5 strawberries for a total of 235 calories for the fruit. How many calories are there in a banana? How many calories are in a strawberry?",
+        "Image Links": [],
+        "Answer": "There are 105 calories in a banana and 5 calories in a strawberry.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.67",
+        "Problem Statement": "",
+        "Question": "For each system of linear equations, decide whether it would be more convenient to solve it by substitution or elimination. Explain your answer. \u24d0 $$\\{ \\left .\\begin{matrix}{a}4 x - 5 y = -32 \\\\ 3 x + 2 y = -1\\end{matrix}\\right .$$ \u24d1 $$\\{ \\left .\\begin{matrix}{a}x = 2 y - 1 \\\\ 3 x - 5 y = - 7\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 Since both equations are in standard form, using elimination will be most convenient. \u24d1 Since one equation is already solved for $$x$$ , using substitution will be most convenient.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.68",
+        "Problem Statement": "",
+        "Question": "For each system of linear equations, decide whether it would be more convenient to solve it by substitution or elimination. Explain your answer. \u24d0 $$\\{ \\left .\\begin{matrix}{a}y = 2 x - 1 \\\\ 3 x - 4 y = - 6\\end{matrix}\\right .$$ \u24d1 $$\\{ \\left .\\begin{matrix}{a}6 x - 2 y = 12 \\\\ 3 x + 7 y = -13\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 Since one equation is already solved for $$y$$ , using substitution will be most convenient; \u24d1 Since both equations are in standard form, using elimination will be most convenient.",
+        "Answer Image Links": []
+    }
+]

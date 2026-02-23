@@ -1,0 +1,258 @@
+[
+    {
+        "Topic": "Try It 7.1",
+        "Problem Statement": "",
+        "Question": "Find the GCF of 48 and 80.",
+        "Image Links": [],
+        "Answer": "16",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.2",
+        "Problem Statement": "",
+        "Question": "Find the GCF of 18 and 40.",
+        "Image Links": [],
+        "Answer": "2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.3",
+        "Problem Statement": "",
+        "Question": "Find the GCF: $$12 x^{2} , 18 x^{3}$$ .",
+        "Image Links": [],
+        "Answer": "$$6 x^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.4",
+        "Problem Statement": "",
+        "Question": "Find the GCF: $$16 y^{2} , 24 y^{3}$$ .",
+        "Image Links": [],
+        "Answer": "$$8 y^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.5",
+        "Problem Statement": "",
+        "Question": "Find the GCF: $$6 a b^{4} , 8 a^{2} b$$ .",
+        "Image Links": [],
+        "Answer": "$$2 a b$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.6",
+        "Problem Statement": "",
+        "Question": "Find the GCF: $$9 m^{5} n^{2} , 12 m^{3} n$$ .",
+        "Image Links": [],
+        "Answer": "$$3 m^{3} n$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.7",
+        "Problem Statement": "",
+        "Question": "Find the greatest common factor: $$25 m^{4} , 35 m^{3} , 20 m^{2}$$ .",
+        "Image Links": [],
+        "Answer": "$$5 m^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.8",
+        "Problem Statement": "",
+        "Question": "Find the greatest common factor: $$14 x^{3} , 70 x^{2} , 105 x$$ .",
+        "Image Links": [],
+        "Answer": "$$7 x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.9",
+        "Problem Statement": "",
+        "Question": "Factor: $$6 a + 24$$ .",
+        "Image Links": [],
+        "Answer": "$$6 ( a + 4 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.10",
+        "Problem Statement": "",
+        "Question": "Factor: $$2 b + 14$$ .",
+        "Image Links": [],
+        "Answer": "$$2 ( b + 7 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.11",
+        "Problem Statement": "",
+        "Question": "Factor: $$14 x + 14$$ .",
+        "Image Links": [],
+        "Answer": "$$14 ( x + 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.12",
+        "Problem Statement": "",
+        "Question": "Factor: $$12 p + 12$$ .",
+        "Image Links": [],
+        "Answer": "$$12 ( p + 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.13",
+        "Problem Statement": "",
+        "Question": "Factor: $$18 u - 36$$ .",
+        "Image Links": [],
+        "Answer": "$$18 ( u - 2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.14",
+        "Problem Statement": "",
+        "Question": "Factor: $$30 y - 60$$ .",
+        "Image Links": [],
+        "Answer": "$$30 ( y - 2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.15",
+        "Problem Statement": "",
+        "Question": "Factor: $$5 x^{2} - 25 x + 15$$ .",
+        "Image Links": [],
+        "Answer": "$$5 ( x^{2} - 5 x + 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.16",
+        "Problem Statement": "",
+        "Question": "Factor: $$3 y^{2} - 12 y + 27$$ .",
+        "Image Links": [],
+        "Answer": "$$3 ( y^{2} - 4 y + 9 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.17",
+        "Problem Statement": "",
+        "Question": "Factor: $$2 x^{3} + 12 x^{2}$$ .",
+        "Image Links": [],
+        "Answer": "$$2 x^{2} ( x + 6 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.18",
+        "Problem Statement": "",
+        "Question": "Factor: $$6 y^{3} - 15 y^{2}$$ .",
+        "Image Links": [],
+        "Answer": "$$3 y^{2} ( 2 y - 5 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.19",
+        "Problem Statement": "",
+        "Question": "Factor: $$20 x^{3} - 10 x^{2} + 14 x$$ .",
+        "Image Links": [],
+        "Answer": "$$2 x ( 10 x^{2} - 5 x + 7 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.20",
+        "Problem Statement": "",
+        "Question": "Factor: $$24 y^{3} - 12 y^{2} - 20 y$$ .",
+        "Image Links": [],
+        "Answer": "$$4 y ( 6 y^{2} - 3 y - 5 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.21",
+        "Problem Statement": "",
+        "Question": "Factor: $$9 x y^{2} + 6 x^{2} y^{2} + 21 y^{3}$$ .",
+        "Image Links": [],
+        "Answer": "$$3 y^{2} ( 3 x + 2 x^{2} + 7 y )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.22",
+        "Problem Statement": "",
+        "Question": "Factor: $$3 p^{3} - 6 p^{2} q + 9 p q^{3}$$ .",
+        "Image Links": [],
+        "Answer": "$$3 p ( p^{2} - 2 p q + 3 q^{3} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.23",
+        "Problem Statement": "",
+        "Question": "Factor: $$-16 z - 64$$ .",
+        "Image Links": [],
+        "Answer": "$$-16 ( z + 4 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.24",
+        "Problem Statement": "",
+        "Question": "Factor: $$-9 y - 27$$ .",
+        "Image Links": [],
+        "Answer": "$$-9 ( y + 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.25",
+        "Problem Statement": "",
+        "Question": "Factor: $$-4 b^{2} + 16 b$$ .",
+        "Image Links": [],
+        "Answer": "$$-4 b ( b - 4 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.26",
+        "Problem Statement": "",
+        "Question": "Factor: $$-7 a^{2} + 21 a$$ .",
+        "Image Links": [],
+        "Answer": "$$-7 a ( a - 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.27",
+        "Problem Statement": "",
+        "Question": "Factor: $$4 m ( m + 3 ) - 7 ( m + 3 )$$ .",
+        "Image Links": [],
+        "Answer": "$$( m + 3 ) ( 4 m - 7 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.28",
+        "Problem Statement": "",
+        "Question": "Factor: $$8 n ( n - 4 ) + 5 ( n - 4 )$$ .",
+        "Image Links": [],
+        "Answer": "$$( n - 4 ) ( 8 n + 5 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.29",
+        "Problem Statement": "",
+        "Question": "Factor: $$x y + 8 y + 3 x + 24$$ .",
+        "Image Links": [],
+        "Answer": "$$( x + 8 ) ( y + 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.30",
+        "Problem Statement": "",
+        "Question": "Factor: $$a b + 7 b + 8 a + 56$$ .",
+        "Image Links": [],
+        "Answer": "$$( a + 7 ) ( b + 8 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.31",
+        "Problem Statement": "",
+        "Question": "Factor: $$x^{2} + 2 x - 5 x - 10$$ .",
+        "Image Links": [],
+        "Answer": "$$( x - 5 ) ( x + 2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.32",
+        "Problem Statement": "",
+        "Question": "Factor: $$y^{2} + 4 y - 7 y - 28$$ .",
+        "Image Links": [],
+        "Answer": "$$( y + 4 ) ( y - 7 )$$",
+        "Answer Image Links": []
+    }
+]

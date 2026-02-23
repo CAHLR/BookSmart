@@ -1,0 +1,130 @@
+[
+    {
+        "Topic": "Try It 2.115",
+        "Problem Statement": "",
+        "Question": "Lindsay drove for $$5 \\frac{1}{2}$$ hours at 60 miles per hour. How much distance did she travel?",
+        "Image Links": [],
+        "Answer": "330 miles",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.116",
+        "Problem Statement": "",
+        "Question": "Trinh walked for $$2 \\frac{1}{3}$$ hours at 3 miles per hour. How far did she walk?",
+        "Image Links": [],
+        "Answer": "7 miles",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.117",
+        "Problem Statement": "",
+        "Question": "Lee wants to drive from Phoenix to his brother\u2019s apartment in San Francisco, a distance of 770 miles. If he drives at a steady rate of 70 miles per hour, how many hours will the trip take?",
+        "Image Links": [],
+        "Answer": "11 hours",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.118",
+        "Problem Statement": "",
+        "Question": "Yesenia is 168 miles from Chicago. If she needs to be in Chicago in 3 hours, at what rate does she need to drive?",
+        "Image Links": [],
+        "Answer": "56 mph",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.119",
+        "Problem Statement": "",
+        "Question": "Solve the formula $$d = r t$$ for $$r$$ : \u24d0 when $$d = 180 \\text{and} t = 4$$ \u24d1 in general",
+        "Image Links": [],
+        "Answer": "\u24d0 $$r = 45$$ \u24d1 $$r = \\frac{d}{t}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.120",
+        "Problem Statement": "",
+        "Question": "Solve the formula $$d = r t$$ for $$r$$ : \u24d0 when $$d = 780 \\text{and} t = 12$$ \u24d1 in general",
+        "Image Links": [],
+        "Answer": "\u24d0 $$r = 65$$ \u24d1 $$r = \\frac{d}{t}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.121",
+        "Problem Statement": "",
+        "Question": "Use the formula $$A = \\frac{1}{2} b h$$ to solve for $$h$$ : \u24d0 when $$A = 170$$ and $$b = 17$$ \u24d1 in general",
+        "Image Links": [],
+        "Answer": "\u24d0 $$h = 20$$ \u24d1 $$h = \\frac{2 A}{b}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.122",
+        "Problem Statement": "",
+        "Question": "Use the formula $$A = \\frac{1}{2} b h$$ to solve for $$b$$ : \u24d0 when $$A = 62$$ and $$h = 31$$ \u24d1 in general",
+        "Image Links": [],
+        "Answer": "\u24d0 $$b = 4$$ \u24d1 $$b = \\frac{2 A}{h}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.123",
+        "Problem Statement": "",
+        "Question": "Use the formula $$I = P r t$$ to find the principal, $$P$$ : \u24d0 when $$I = \\text{$} 2,160 , r = 6 % , t = 3 \\text{years}$$ \u24d1 in general",
+        "Image Links": [],
+        "Answer": "\u24d0 $12,000 \u24d1 $$P = \\frac{I}{r t}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.124",
+        "Problem Statement": "",
+        "Question": "Use the formula $$I = P r t$$ to find the principal, $$P$$ : \u24d0 when $$I = \\text{$} 5,400 , r = 12 % , t = 5 \\text{years}$$ \u24d1 in general",
+        "Image Links": [],
+        "Answer": "\u24d0 $9,000 \u24d1 $$P = \\frac{I}{r t}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.125",
+        "Problem Statement": "",
+        "Question": "Solve the formula $$3 x + 4 y = 10$$ for y : \u24d0 when $$x = \\frac{14}{3}$$ \u24d1 in general",
+        "Image Links": [],
+        "Answer": "\u24d0 $$y = - 1$$ \u24d1 $$y = \\frac{10 - 3 x}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.126",
+        "Problem Statement": "",
+        "Question": "Solve the formula $$5 x + 2 y = 18$$ for y: \u24d0 when $$x = 4$$ \u24d1 in general",
+        "Image Links": [],
+        "Answer": "\u24d0 $$y = -1$$ \u24d1 $$y = \\frac{18 - 5 x}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.127",
+        "Problem Statement": "",
+        "Question": "Solve the formula $$P = a + b + c$$ for b .",
+        "Image Links": [],
+        "Answer": "$$b = P - a - c$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.128",
+        "Problem Statement": "",
+        "Question": "Solve the formula $$P = a + b + c$$ for c .",
+        "Image Links": [],
+        "Answer": "$$c = P - a - b$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.129",
+        "Problem Statement": "",
+        "Question": "Solve the formula $$4 x + 7 y = 9$$ for y.",
+        "Image Links": [],
+        "Answer": "$$y = \\frac{9 - 4 x}{7}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.130",
+        "Problem Statement": "",
+        "Question": "Solve the formula $$5 x + 8 y = 1$$ for y.",
+        "Image Links": [],
+        "Answer": "$$y = \\frac{1 - 5 x}{8}$$",
+        "Answer Image Links": []
+    }
+]

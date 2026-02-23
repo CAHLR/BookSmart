@@ -1,0 +1,138 @@
+[
+    {
+        "Topic": "Try It 4.137",
+        "Problem Statement": "",
+        "Question": "Determine whether each ordered pair is a solution to the inequality $$y > x - 3$$ : \u24d0 $$( 0 , 0 )$$ \u24d1 $$( 4 , 9 )$$ \u24d2 $$( -2 , 1 )$$ \u24d3 $$( -5 , -3 )$$ \u24d4 $$( 5 , 1 )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 yes \u24d1 yes \u24d2 yes \u24d3 yes \u24d4 no",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.138",
+        "Problem Statement": "",
+        "Question": "Determine whether each ordered pair is a solution to the inequality $$y < x + 1$$ : \u24d0 $$( 0 , 0 )$$ \u24d1 $$( 8 , 6 )$$ \u24d2 $$( -2 , -1 )$$ \u24d3 $$( 3 , 4 )$$ \u24d4 $$( -1 , -4 )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 yes \u24d1 yes \u24d2 no \u24d3 no \u24d4 yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.139",
+        "Problem Statement": "",
+        "Question": "Write the inequality shown by the graph with the boundary line $$y = -2 x + 3$$ .",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/28d084c98411f6381037d0765e5ff044e471d48d"
+        ],
+        "Answer": "$$y \\geq -2 x + 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.140",
+        "Problem Statement": "",
+        "Question": "Write the inequality shown by the graph with the boundary line $$y = \\frac{1}{2} x - 4$$ .",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/252b4cef723aeda15b5c0b7daf22ebfaacbaccbd"
+        ],
+        "Answer": "$$y \\le \\frac{1}{2} x - 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.141",
+        "Problem Statement": "",
+        "Question": "Write the inequality shown by the shaded region in the graph with the boundary line $$x - 4 y = 8$$ .",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b56dd18da0a7ccc3754801b1f0d876231a9ae5b6"
+        ],
+        "Answer": "$$x - 4 y \\le 8$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.142",
+        "Problem Statement": "",
+        "Question": "Write the inequality shown by the shaded region in the graph with the boundary line $$3 x - y = 6$$ .",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/42cc5accc05bc316c796452a88529e1f6b7829e1"
+        ],
+        "Answer": "$$3 x - y \\le 6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.143",
+        "Problem Statement": "",
+        "Question": "Graph the linear inequality $$y > \\frac{5}{2} x - 4$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/766f30ba90a5aeb2d101b9d6c57e5b4e23ba80b4"
+        ]
+    },
+    {
+        "Topic": "Try It 4.144",
+        "Problem Statement": "",
+        "Question": "Graph the linear inequality $$y < \\frac{2}{3} x - 5$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/bd0db4ecaa0c7696bc9e7f422b15c956670af301"
+        ]
+    },
+    {
+        "Topic": "Try It 4.145",
+        "Problem Statement": "",
+        "Question": "Graph the linear inequality $$2 x - 3 y \\le 6$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6bc04b7711d3ee34a6a49153ff89f8fd5854b202"
+        ]
+    },
+    {
+        "Topic": "Try It 4.146",
+        "Problem Statement": "",
+        "Question": "Graph the linear inequality $$2 x - y > 3$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8b4df1f024c702ced5d9ece3fa52f2c57c6d9bad"
+        ]
+    },
+    {
+        "Topic": "Try It 4.147",
+        "Problem Statement": "",
+        "Question": "Graph the linear inequality $$y > -3 x$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a7301451115d1652302f98f245d0786f4e6ba7e7"
+        ]
+    },
+    {
+        "Topic": "Try It 4.148",
+        "Problem Statement": "",
+        "Question": "Graph the linear inequality $$y \\geq -2 x$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e167e956a78594ea31ed9d51db0e3a9dec4de86e"
+        ]
+    },
+    {
+        "Topic": "Try It 4.149",
+        "Problem Statement": "",
+        "Question": "Graph the linear inequality $$y < 5$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9aed10380c6dae4358f031f7251583dc40ece902"
+        ]
+    },
+    {
+        "Topic": "Try It 4.150",
+        "Problem Statement": "",
+        "Question": "Graph the linear inequality $$y \\le -1$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2b5f3fb3a868a70d72645c354ec16cf6799583d7"
+        ]
+    }
+]

@@ -1,0 +1,526 @@
+[
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{36}$$",
+        "Image Links": [],
+        "Answer": "6",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{64}$$",
+        "Image Links": [],
+        "Answer": "8",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{169}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{9}$$",
+        "Image Links": [],
+        "Answer": "3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{16}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{100}$$",
+        "Image Links": [],
+        "Answer": "10",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{144}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\text{unicode[:-]} \\sqrt{4}$$",
+        "Image Links": [],
+        "Answer": "$$-2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\text{unicode[:-]} \\sqrt{100}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\text{unicode[:-]} \\sqrt{1}$$",
+        "Image Links": [],
+        "Answer": "$$-1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\text{unicode[:-]} \\sqrt{121}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, write as the ratio of two integers.",
+        "Question": "\u24d0 5 \u24d1 3.19",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{5}{1}$$ \u24d1 $$\\frac{319}{100}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, write as the ratio of two integers.",
+        "Question": "\u24d0 8 \u24d1 1.61",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, write as the ratio of two integers.",
+        "Question": "\u24d0 $$\\text{unicode[:-]} 12$$ \u24d1 9.279",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{-12}{1}$$ \u24d1 $$\\frac{9297}{1000}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, write as the ratio of two integers.",
+        "Question": "\u24d0 $$\\text{unicode[:-]} 16$$ \u24d1 4.399",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, list the \u24d0 rational numbers, \u24d1 irrational numbers",
+        "Question": "$$None$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$None$$ \u24d1 $$1.39174 \\text{unicode[:ddot.]}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, list the \u24d0 rational numbers, \u24d1 irrational numbers",
+        "Question": "$$None$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, list the \u24d0 rational numbers, \u24d1 irrational numbers",
+        "Question": "$$None$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$None$$ \u24d1 $$1.919293 \\text{unicode[:ddot.]}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, list the \u24d0 rational numbers, \u24d1 irrational numbers",
+        "Question": "$$None$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, identify whether each number is rational or irrational.",
+        "Question": "\u24d0 $$\\sqrt{25}$$ \u24d1 $$\\sqrt{30}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 rational \u24d1 irrational",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, identify whether each number is rational or irrational.",
+        "Question": "\u24d0 $$\\sqrt{44}$$ \u24d1 $$\\sqrt{49}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, identify whether each number is rational or irrational.",
+        "Question": "\u24d0 $$\\sqrt{164}$$ \u24d1 $$\\sqrt{169}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 irrational \u24d1 rational",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, identify whether each number is rational or irrational.",
+        "Question": "\u24d0 $$\\sqrt{225}$$ \u24d1 $$\\sqrt{216}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, identify whether each number is a real number or not a real number.",
+        "Question": "\u24d0 $$\\text{unicode[:-]} \\sqrt{81}$$ \u24d1 $$\\sqrt{-121}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 real number \u24d1 not a real number",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, identify whether each number is a real number or not a real number.",
+        "Question": "\u24d0 $$\\text{unicode[:-]} \\sqrt{64}$$ \u24d1 $$\\sqrt{-9}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, identify whether each number is a real number or not a real number.",
+        "Question": "\u24d0 $$\\sqrt{-36}$$ \u24d1 $$\\text{unicode[:-]} \\sqrt{144}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 not a real number \u24d1 real number",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, identify whether each number is a real number or not a real number.",
+        "Question": "\u24d0 $$\\sqrt{-49}$$ \u24d1 $$\\text{unicode[:-]} \\sqrt{144}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, list the \u24d0 whole numbers, \u24d1 integers, \u24d2 rational numbers, \u24d3 irrational numbers, \u24d4 real numbers for each set of numbers.",
+        "Question": "$$-8 , 0 , 1.95286 \\text{unicode[:ddot.]} , \\frac{12}{5} , \\sqrt{36} , 9$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$0 , \\sqrt{36} , 9$$ \u24d1 $$-8 , 0 , \\sqrt{36} , 9$$ \u24d2 $$-8 , 0 , \\frac{12}{5} , \\sqrt{36} , 9$$ \u24d3 $$1.95286 \\text{unicode[:ddot.]}$$ \u24d4 $$-8 , 0 , 1.95286 \\text{unicode[:ddot.]} , \\frac{12}{5} , \\sqrt{36} , 9$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, list the \u24d0 whole numbers, \u24d1 integers, \u24d2 rational numbers, \u24d3 irrational numbers, \u24d4 real numbers for each set of numbers.",
+        "Question": "$$None$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, list the \u24d0 whole numbers, \u24d1 integers, \u24d2 rational numbers, \u24d3 irrational numbers, \u24d4 real numbers for each set of numbers.",
+        "Question": "$$\\text{unicode[:-]} \\sqrt{100} , -7 , - \\frac{8}{3} , -1 , 0.77 , 3 \\frac{1}{4}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 none \u24d1 $$\\text{unicode[:-]} \\sqrt{100} , -7 , -1$$ \u24d2 $$\\text{unicode[:-]} \\sqrt{100} , -7 , - \\frac{8}{3} , -1 , 0.77 , 3 \\frac{1}{4}$$ \u24d3 none \u24d4 $$\\text{unicode[:-]} \\sqrt{100} , -7 , - \\frac{8}{3} , -1 , 0.77 , 3 \\frac{1}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, list the \u24d0 whole numbers, \u24d1 integers, \u24d2 rational numbers, \u24d3 irrational numbers, \u24d4 real numbers for each set of numbers.",
+        "Question": "$$None$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, locate the numbers on a number line.",
+        "Question": "$$\\frac{3}{4} , \\frac{8}{5} , \\frac{10}{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b6f5cda12360eecdc38957c8e8cb823cec8e3317"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, locate the numbers on a number line.",
+        "Question": "$$\\frac{1}{4} , \\frac{9}{5} , \\frac{11}{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, locate the numbers on a number line.",
+        "Question": "$$\\frac{3}{10} , \\frac{7}{2} , \\frac{11}{6} , 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/67f37a4902bdab13733b9a1446641bfb789506f6"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, locate the numbers on a number line.",
+        "Question": "$$\\frac{7}{10} , \\frac{5}{2} , \\frac{13}{8} , 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, locate the numbers on a number line.",
+        "Question": "$$\\frac{2}{5} , - \\frac{2}{5}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/42dde702fd163e1f3a188df01f0f2b71057d0f0f"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, locate the numbers on a number line.",
+        "Question": "$$\\frac{3}{4} , - \\frac{3}{4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, locate the numbers on a number line.",
+        "Question": "$$\\frac{3}{4} , - \\frac{3}{4} , 1 \\frac{2}{3} , -1 \\frac{2}{3} , \\frac{5}{2} , - \\frac{5}{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8fe9ba10b7cde5eb030a7f7cbefd683acdac4cd5"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, locate the numbers on a number line.",
+        "Question": "$$\\frac{2}{5} , - \\frac{2}{5} , 1 \\frac{3}{4} , -1 \\frac{3}{4} , \\frac{8}{3} , - \\frac{8}{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, order each of the pairs of numbers, using < or >.",
+        "Question": "$$-1 ___ - \\frac{1}{4}$$",
+        "Image Links": [],
+        "Answer": "<",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, order each of the pairs of numbers, using < or >.",
+        "Question": "$$-1 ___ - \\frac{1}{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, order each of the pairs of numbers, using < or >.",
+        "Question": "$$-2 \\frac{1}{2} ___ -3$$",
+        "Image Links": [],
+        "Answer": ">",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, order each of the pairs of numbers, using < or >.",
+        "Question": "$$-1 \\frac{3}{4} ___ -2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, order each of the pairs of numbers, using < or >.",
+        "Question": "$$- \\frac{5}{12} ___ - \\frac{7}{12}$$",
+        "Image Links": [],
+        "Answer": ">",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, order each of the pairs of numbers, using < or >.",
+        "Question": "$$- \\frac{9}{10} ___ - \\frac{3}{10}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, order each of the pairs of numbers, using < or >.",
+        "Question": "$$-3 ___ - \\frac{13}{5}$$",
+        "Image Links": [],
+        "Answer": "<",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, order each of the pairs of numbers, using < or >.",
+        "Question": "$$-4 ___ - \\frac{23}{6}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Locate Decimals on the Number Line In the following exercises, locate the number on the number line.",
+        "Question": "0.8",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5fd66b480c55aed86c040c1cb8bea7097fcfaeec"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Locate Decimals on the Number Line In the following exercises, locate the number on the number line.",
+        "Question": "$$-0.9$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Locate Decimals on the Number Line In the following exercises, locate the number on the number line.",
+        "Question": "$$-1.6$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7022e62c7f3c0b35d9f6db7cff6692b4b8d2db90"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Locate Decimals on the Number Line In the following exercises, locate the number on the number line.",
+        "Question": "3.1",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, order each pair of numbers, using < or >.",
+        "Question": "$$0.37 ___ 0.63$$",
+        "Image Links": [],
+        "Answer": "<",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, order each pair of numbers, using < or >.",
+        "Question": "$$0.86 ___ 0.69$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, order each pair of numbers, using < or >.",
+        "Question": "$$0.91 ___ 0.901$$",
+        "Image Links": [],
+        "Answer": ">",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, order each pair of numbers, using < or >.",
+        "Question": "$$0.415 ___ 0.41$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, order each pair of numbers, using < or >.",
+        "Question": "$$-0.5 ___ -0.3$$",
+        "Image Links": [],
+        "Answer": "<",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, order each pair of numbers, using < or >.",
+        "Question": "$$-0.1 ___ -0.4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, order each pair of numbers, using < or >.",
+        "Question": "$$-0.62 ___ -0.619$$",
+        "Image Links": [],
+        "Answer": "<",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, order each pair of numbers, using < or >.",
+        "Question": "$$-7.31 ___ -7.3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Everyday Math",
+        "Problem Statement": "",
+        "Question": "Field trip All the 5th graders at Lincoln Elementary School will go on a field trip to the science museum. Counting all the children, teachers, and chaperones, there will be 147 people. Each bus holds 44 people. \u24d0 How many busses will be needed? \u24d1 Why must the answer be a whole number? \u24d2 Why shouldn\u2019t you round the answer the usual way, by choosing the whole number closest to the exact answer?",
+        "Image Links": [],
+        "Answer": "\u24d0 4 busses \u24d1 answers may vary \u24d2 answers may vary",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Everyday Math",
+        "Problem Statement": "",
+        "Question": "Child care Serena wants to open a licensed child care center. Her state requires there be no more than 12 children for each teacher. She would like her child care center to serve 40 children. \u24d0 How many teachers will be needed? \u24d1 Why must the answer be a whole number? \u24d2 Why shouldn\u2019t you round the answer the usual way, by choosing the whole number closest to the exact answer?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "In your own words, explain the difference between a rational number and an irrational number.",
+        "Image Links": [],
+        "Answer": "Answers may vary",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "Explain how the sets of numbers (counting, whole, integer, rational, irrationals, reals) are related to each other.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

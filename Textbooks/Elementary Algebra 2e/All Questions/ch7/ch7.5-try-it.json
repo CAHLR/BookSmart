@@ -1,0 +1,162 @@
+[
+    {
+        "Topic": "Try It 7.117",
+        "Problem Statement": "",
+        "Question": "Factor completely: $$3 a^{4} + 18 a^{3}$$ .",
+        "Image Links": [],
+        "Answer": "$$3 a^{3} ( a + 6 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.118",
+        "Problem Statement": "",
+        "Question": "Factor completely: $$45 b^{6} + 27 b^{5}$$ .",
+        "Image Links": [],
+        "Answer": "$$9 b^{5} ( 5 b + 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.119",
+        "Problem Statement": "",
+        "Question": "Factor completely: $$10 a^{2} - 17 a + 6$$ .",
+        "Image Links": [],
+        "Answer": "$$( 5 a - 6 ) ( 2 a - 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.120",
+        "Problem Statement": "",
+        "Question": "Factor completely: $$8 x^{2} - 18 x + 9$$ .",
+        "Image Links": [],
+        "Answer": "$$( 2 x - 3 ) ( 4 x - 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.121",
+        "Problem Statement": "",
+        "Question": "Factor completely: $$x^{3} + 36 x$$ .",
+        "Image Links": [],
+        "Answer": "$$x ( x^{2} + 36 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.122",
+        "Problem Statement": "",
+        "Question": "Factor completely: $$27 y^{2} + 48$$ .",
+        "Image Links": [],
+        "Answer": "$$3 ( 9 y^{2} + 16 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.123",
+        "Problem Statement": "",
+        "Question": "Factor completely: $$16 x^{3} - 36 x$$ .",
+        "Image Links": [],
+        "Answer": "$$4 x ( 2 x - 3 ) ( 2 x + 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.124",
+        "Problem Statement": "",
+        "Question": "Factor completely: $$27 y^{2} - 48$$ .",
+        "Image Links": [],
+        "Answer": "$$3 ( 3 y - 4 ) ( 3 y + 4 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.125",
+        "Problem Statement": "",
+        "Question": "Factor completely: $$4 x^{2} + 20 x y + 25 y^{2}$$ .",
+        "Image Links": [],
+        "Answer": "$$( 2 x + 5 y )^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.126",
+        "Problem Statement": "",
+        "Question": "Factor completely: $$9 m^{2} + 42 m n + 49 n^{2}$$ .",
+        "Image Links": [],
+        "Answer": "$$( 3 m + 7 n )^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.127",
+        "Problem Statement": "",
+        "Question": "Factor completely: $$8 y^{2} + 16 y - 24$$ .",
+        "Image Links": [],
+        "Answer": "$$8 ( y - 1 ) ( y + 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.128",
+        "Problem Statement": "",
+        "Question": "Factor completely: $$5 u^{2} - 15 u - 270$$ .",
+        "Image Links": [],
+        "Answer": "$$5 ( u - 9 ) ( u + 6 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.129",
+        "Problem Statement": "",
+        "Question": "Factor completely: $$250 m^{3} + 432$$ .",
+        "Image Links": [],
+        "Answer": "$$2 ( 5 m + 6 ) ( 25 m^{2} - 30 m + 36 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.130",
+        "Problem Statement": "",
+        "Question": "Factor completely: $$81 q^{3} + 192$$ .",
+        "Image Links": [],
+        "Answer": "$$3 ( 3 q + 4 ) ( 9 q^{2} - 12 q + 16 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.131",
+        "Problem Statement": "",
+        "Question": "Factor completely: $$4 a^{4} - 64$$ .",
+        "Image Links": [],
+        "Answer": "$$4 ( a^{2} + 4 ) ( a - 2 ) ( a + 2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.132",
+        "Problem Statement": "",
+        "Question": "Factor completely: $$7 y^{4} - 7$$ .",
+        "Image Links": [],
+        "Answer": "$$7 ( y^{2} + 1 ) ( y - 1 ) ( y + 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.133",
+        "Problem Statement": "",
+        "Question": "Factor completely: $$6 x^{2} - 12 x c + 6 b x - 12 b c$$ .",
+        "Image Links": [],
+        "Answer": "$$6 ( x + b ) ( x - 2 c )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.134",
+        "Problem Statement": "",
+        "Question": "Factor completely: $$16 x^{2} + 24 x y - 4 x - 6 y$$ .",
+        "Image Links": [],
+        "Answer": "$$2 ( 4 x - 1 ) ( 2 x + 3 y )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.135",
+        "Problem Statement": "",
+        "Question": "Factor completely: $$4 p^{2} - 16 p + 12$$ .",
+        "Image Links": [],
+        "Answer": "$$4 ( p - 1 ) ( p - 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 7.136",
+        "Problem Statement": "",
+        "Question": "Factor completely: $$6 q^{2} - 9 q - 6$$ .",
+        "Image Links": [],
+        "Answer": "$$3 ( q - 2 ) ( 2 q + 1 )$$",
+        "Answer Image Links": []
+    }
+]
