@@ -1,0 +1,26 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "A company sells doughnuts. They incur a fixed cost of $25,000 for rent, insurance, and other expenses. It costs $0.25 to produce each doughnut. \u24d0 Write a linear model to represent the cost $$C$$ of the company as a function of $$x ,$$ the number of doughnuts produced. \u24d1 Find and interpret the y -intercept.",
+        "Image Links": [],
+        "Answer": "\u24d0 $$C ( x ) = 0.25 x + 25 , 000$$ \u24d1 The y -intercept is $$( 0 , 25 , 000 ) .$$ If the company does not produce a single doughnut, they still incur a cost of $25,000.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "A city\u2019s population has been growing linearly. In 2008, the population was 28,200. By 2012, the population was 36,800. Assume this trend continues. \u24d0 Predict the population in 2014. \u24d1 Identify the year in which the population will reach 54,000.",
+        "Image Links": [],
+        "Answer": "\u24d0 41,100 \u24d1 2020",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "There is a straight road leading from the town of Timpson to Ashburn 60 miles east and 12 miles north. Partway down the road, it junctions with a second road, perpendicular to the first, leading to the town of Garrison. If the town of Garrison is located 22 miles directly east of the town of Timpson, how far is the road junction from Timpson?",
+        "Image Links": [],
+        "Answer": "21.57 miles",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,308 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The population of a pod of bottlenose dolphins is modeled by the function $$A ( t ) = 8 ( 1.17 )^{t} ,$$ where $$t$$ is given in years. To the nearest whole number, what will the pod population be after $$3$$ years?",
+        "Image Links": [],
+        "Answer": "About 13 dolphins.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Find an exponential equation that passes through the points $$\\text{(0, 4)}$$ and $$\\text{(2, 9)} \\text{.}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Drew wants to save $2,500 to go to the next World Cup. To the nearest dollar, how much will he need to invest in an account now with $$6.25 %$$ APR, compounding daily, in order to reach his goal in $$4$$ years?",
+        "Image Links": [],
+        "Answer": "$$$ 1,947$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "An investment account was opened with an initial deposit of $9,600 and earns $$7.4 %$$ interest, compounded continuously. How much will the account be worth after $$15$$ years?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Graph the function $$f ( x ) = 5 ( 0.5 )^{- x}$$ and its reflection across the y -axis on the same axes, and give the y -intercept.",
+        "Image Links": [],
+        "Answer": "y -intercept: $$( 0 , \\text{5} )$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/4a1a1c8418dfdd312054230b049b12566321ba91"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The graph shows transformations of the graph of $$f ( x ) = ( \\frac{1}{2} )^{x} .$$ What is the equation for the transformation?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/652292147fc237799dc103f96dda1067f3c27bce"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Rewrite $$\\log_{8.5} ( 614.125 ) = a$$ as an equivalent exponential equation.",
+        "Image Links": [],
+        "Answer": "$$8.5^{a} = 614.125$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Rewrite $$e^{\\frac{1}{2}} = m$$ as an equivalent logarithmic equation.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Solve for $$x$$ by converting the logarithmic equation $$l o g_{\\frac{1}{7}} ( x ) = 2$$ to exponential form.",
+        "Image Links": [],
+        "Answer": "$$x = ( \\frac{1}{7} )^{2} = \\frac{1}{49}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Evaluate $$\\log ( 10,000,000 )$$ without using a calculator.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Evaluate $$\\ln{( 0.716 )}$$ using a calculator. Round to the nearest thousandth.",
+        "Image Links": [],
+        "Answer": "$$\\ln{( 0.716 )} \\approx - 0.334$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Graph the function $$g ( x ) = \\log ( 12 - 6 x ) + 3.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "State the domain, vertical asymptote, and end behavior of the function $$f ( x ) = \\log_{5} ( 39 - 13 x ) + 7.$$",
+        "Image Links": [],
+        "Answer": "Domain: $$x < 3 ;$$ Vertical asymptote: $$x = 3 ;$$ End behavior: $$x \\vec{} 3^{-} , f ( x ) \\vec{} - \\infty$$ and $$x \\vec{} - \\infty , f ( x ) \\vec{} \\infty$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Rewrite $$\\log ( 17 a \\cdot 2 b )$$ as a sum.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Rewrite $$\\log_{t} ( 96 ) - \\log_{t} ( 8 )$$ in compact form.",
+        "Image Links": [],
+        "Answer": "$$\\log_{t} ( 12 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Rewrite $$\\log_{8} ( a^{\\frac{1}{b}} )$$ as a product.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Use properties of logarithm to expand $$\\ln{( y^{3} z^{2} \\cdot \\sqrt[3]{x - 4} )} .$$",
+        "Image Links": [],
+        "Answer": "$$3 \\ln{} ( y ) + 2 \\ln{} ( z ) + \\frac{\\ln{( x - 4 )}}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Condense the expression $$4 \\ln{} ( c ) + \\ln{} ( d ) + \\frac{\\ln{( a )}}{3} + \\frac{\\ln{( b + 3 )}}{3}$$ to a single logarithm.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Rewrite $$16^{3 x - 5} = 1000$$ as a logarithm. Then apply the change of base formula to solve for $$x$$ using the natural log. Round to the nearest thousandth.",
+        "Image Links": [],
+        "Answer": "$$x = \\frac{\\frac{\\ln{( 1000 )}}{\\ln{( 16 )}} + 5}{3} \\approx 2.497$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Solve $$( \\frac{1}{81} )^{x} \\cdot \\frac{1}{243} = ( \\frac{1}{9} )^{- 3 x - 1}$$ by rewriting each side with a common base.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Use logarithms to find the exact solution for $$- 9 e^{10 a - 8} - 5 = - 41$$ . If there is no solution, write no solution .",
+        "Image Links": [],
+        "Answer": "$$a = \\frac{\\ln{( 4 )} + 8}{10}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Find the exact solution for $$10 e^{4 x + 2} + 5 = 56.$$ If there is no solution, write no solution .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Find the exact solution for $$- 5 e^{- 4 x - 1} - 4 = 64.$$ If there is no solution, write no solution .",
+        "Image Links": [],
+        "Answer": "no solution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Find the exact solution for $$2^{x - 3} = 6^{2 x - 1} .$$ If there is no solution, write no solution .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Find the exact solution for $$e^{2 x} - e^{x} - 72 = 0.$$ If there is no solution, write no solution .",
+        "Image Links": [],
+        "Answer": "$$x = \\ln{} ( 9 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Use the definition of a logarithm to find the exact solution for $$4 \\log ( 2 n ) - 7 = - 11$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Use the one-to-one property of logarithms to find an exact solution for $$\\log ( 4 x^{2} - 10 ) + \\log ( 3 ) = \\log ( 51 )$$ If there is no solution, write no solution .",
+        "Image Links": [],
+        "Answer": "$$x = \\pm \\frac{3 \\sqrt{3}}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The formula for measuring sound intensity in decibels $$D$$ is defined by the equation $$D = 10 \\log ( \\frac{I}{I_{0}} ) ,$$ where $$I$$ is the intensity of the sound in watts per square meter and $$I_{0} = 10^{- 12}$$ is the lowest level of sound that the average person can hear. How many decibels are emitted from a rock concert with a sound intensity of $$4.7 \\cdot 10^{- 1}$$ watts per square meter?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A radiation safety officer is working with $$112$$ grams of a radioactive substance.  After $$17$$ days, the sample has decayed to $$80$$ grams. Rounding to five significant digits, write an exponential equation representing this situation. To the nearest day, what is the half-life of this substance?",
+        "Image Links": [],
+        "Answer": "$$f ( t ) = 112 e^{- .019792 t} ;$$ half-life: about $$35$$ days",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Write the formula found in the previous exercise as an equivalent equation with base $$e .$$ Express the exponent to five significant digits.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A bottle of soda with a temperature of $$\\text{71\u00b0}$$ Fahrenheit was taken off a shelf and placed in a refrigerator with an internal temperature of $$\\text{35\u00b0 F} \\text{.}$$ After ten minutes, the internal temperature of the soda was $$\\text{63\u00b0 F} \\text{.}$$ Use Newton\u2019s Law of Cooling to write a formula that models this situation. To the nearest degree, what will the temperature of the soda be after one hour?",
+        "Image Links": [],
+        "Answer": "$$T ( t ) = 36 e^{- 0.025131 t} + 35 ; T ( 60 ) \\approx 43^{\\text{o}} \\text{F}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The population of a wildlife habitat is modeled by the equation $$P ( t ) = \\frac{360}{1 + 6.2 e^{- 0.35 t}} ,$$ where $$t$$ is given in years. How many animals were originally transported to the habitat? How many years will it take before the habitat reaches half its capacity?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Enter the data from Table 1 into a graphing calculator and graph the resulting scatter plot. Determine whether the data from the table would likely represent a function that is linear, exponential, or logarithmic. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nx & f(x) \\\\ \\hline\n1 & 3 \\\\ \\hline\n2 & 8.55 \\\\ \\hline\n3 & 11.79 \\\\ \\hline\n4 & 14.09 \\\\ \\hline\n5 & 15.88 \\\\ \\hline\n6 & 17.33 \\\\ \\hline\n7 & 18.57 \\\\ \\hline\n8 & 19.64 \\\\ \\hline\n9 & 20.58 \\\\ \\hline\n10 & 21.42 \\\\ \\hline\n\\end{tabular}\n\\end{table} Table 1",
+        "Image Links": [],
+        "Answer": "logarithmic",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/110cd7651976a16d4b7e9a5206b964b295ff1f1e"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The population of a lake of fish is modeled by the logistic equation $$P ( t ) = \\frac{16 , 120}{1 + 25 e^{- 0.75 t}} ,$$ where $$t$$ is time in years. To the nearest hundredth, how many years will it take the lake to reach $$80 %$$ of its carrying capacity?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a graphing utility to create a scatter diagram of the data given in the table. Observe the shape of the scatter diagram to determine whether the data is best described by an exponential, logarithmic, or logistic model. Then use the appropriate regression feature to find an equation that models the data. When necessary, round values to five decimal places.",
+        "Question": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nx & f(x) \\\\ \\hline\n1 & 20 \\\\ \\hline\n2 & 21.6 \\\\ \\hline\n3 & 29.2 \\\\ \\hline\n4 & 36.4 \\\\ \\hline\n5 & 46.6 \\\\ \\hline\n6 & 55.7 \\\\ \\hline\n7 & 72.6 \\\\ \\hline\n8 & 87.1 \\\\ \\hline\n9 & 107.2 \\\\ \\hline\n10 & 138.1 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "exponential; $$y = 15.10062 ( 1.24621 )^{x}$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/cb06d5ed9333b5abdad3abbb95315c8452433f33"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a graphing utility to create a scatter diagram of the data given in the table. Observe the shape of the scatter diagram to determine whether the data is best described by an exponential, logarithmic, or logistic model. Then use the appropriate regression feature to find an equation that models the data. When necessary, round values to five decimal places.",
+        "Question": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nx & f(x) \\\\ \\hline\n3 & 13.98 \\\\ \\hline\n4 & 17.84 \\\\ \\hline\n5 & 20.01 \\\\ \\hline\n6 & 22.7 \\\\ \\hline\n7 & 24.1 \\\\ \\hline\n8 & 26.15 \\\\ \\hline\n9 & 27.37 \\\\ \\hline\n10 & 28.38 \\\\ \\hline\n11 & 29.97 \\\\ \\hline\n12 & 31.07 \\\\ \\hline\n13 & 31.43 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a graphing utility to create a scatter diagram of the data given in the table. Observe the shape of the scatter diagram to determine whether the data is best described by an exponential, logarithmic, or logistic model. Then use the appropriate regression feature to find an equation that models the data. When necessary, round values to five decimal places.",
+        "Question": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nx & f(x) \\\\ \\hline\n0 & 2.2 \\\\ \\hline\n0.5 & 2.9 \\\\ \\hline\n1 & 3.9 \\\\ \\hline\n1.5 & 4.8 \\\\ \\hline\n2 & 6.4 \\\\ \\hline\n3 & 9.3 \\\\ \\hline\n4 & 12.3 \\\\ \\hline\n5 & 15 \\\\ \\hline\n6 & 16.2 \\\\ \\hline\n7 & 17.3 \\\\ \\hline\n8 & 17.9 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "logistic; $$y = \\frac{18.41659}{1 + 7.54644 e^{- 0.68375 x}}$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a8a0372bf0f4730e32c1ee90c4708ffe149b8639"
+        ]
+    }
+]

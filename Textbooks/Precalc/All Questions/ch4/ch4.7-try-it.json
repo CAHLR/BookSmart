@@ -1,0 +1,60 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "The half-life of plutonium-244 is 80,000,000 years. Find a function that gives the amount of plutonium-244 remaining as a function of time, measured in years.",
+        "Image Links": [],
+        "Answer": "$$f ( t ) = A_{0} e^{- 0.0000000087 t}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "Cesium-137 has a half-life of about 30 years. If we begin with 200 mg of cesium-137, will it take more or less than 230 years until only 1 milligram remains?",
+        "Image Links": [],
+        "Answer": "less than 230 years, 229.3157 to be exact",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "Recent data suggests that, as of 2013, the rate of growth predicted by Moore\u2019s Law no longer holds. Growth has slowed to a doubling time of approximately three years. Find the new function that takes that longer doubling time into account.",
+        "Image Links": [],
+        "Answer": "$$f ( t ) = A_{0} e^{\\frac{\\ln{2}}{3} t}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "A pitcher of water at 40 degrees Fahrenheit is placed into a 70 degree room. One hour later, the temperature has risen to 45 degrees. How long will it take for the temperature to rise to 60 degrees?",
+        "Image Links": [],
+        "Answer": "6.026 hours",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #5",
+        "Problem Statement": "",
+        "Question": "Using the model in Example 6 , estimate the number of cases of flu on day 15.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5153586b5e901e4656e478535bc6e3f0c1e9af16"
+        ],
+        "Answer": "895 cases on day 15",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #6",
+        "Problem Statement": "",
+        "Question": "Does a linear, exponential, or logarithmic model best fit the data in Table 2 ? Find the model. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}\n\\hline\n$$x$$ & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 \\\\ \\hline\n$$y$$ & 3.297 & 5.437 & 8.963 & 14.778 & 24.365 & 40.172 & 66.231 & 109.196 & 180.034 \\\\ \\hline\n\\end{tabular}\n\\end{table} Table 2",
+        "Image Links": [],
+        "Answer": "Exponential. $$y = 2 e^{0.5 x} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #7",
+        "Problem Statement": "",
+        "Question": "Change the function $$y = 3 ( 0.5 )^{x}$$ to one having $$e$$ as the base.",
+        "Image Links": [],
+        "Answer": "$$y = 3 e^{( \\ln{0.5} ) x}$$",
+        "Answer Image Links": []
+    }
+]

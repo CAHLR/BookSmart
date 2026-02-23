@@ -1,0 +1,568 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "How is the slope of a linear function similar to the derivative?",
+        "Image Links": [],
+        "Answer": "The slope of a linear function stays the same. The derivative of a general function varies according to $$x .$$ Both the slope of a line and the derivative at a point measure the rate of change of the function.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What is the difference between the average rate of change of a function on the interval $$[ x , x + h ]$$ and the derivative of the function at $$x ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "A car traveled 110 miles during the time period from 2:00 P.M. to 4:00 P.M. What was the car's average velocity? At exactly 2:30 P.M. , the speed of the car registered exactly 62 miles per hour. What is another name for the speed of the car at 2:30 P.M. ?  Why does this speed differ from the average velocity?",
+        "Image Links": [],
+        "Answer": "Average velocity is 55 miles per hour. The instantaneous velocity at 2:30 p.m. is 62 miles per hour. The instantaneous velocity measures the velocity of the car at an instant of time whereas the average velocity gives the velocity of the car over an interval.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Explain the concept of the slope of a curve at point $$x .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Suppose water is flowing into a tank at an average rate of 45 gallons per minute. Translate this statement into the language of mathematics.",
+        "Image Links": [],
+        "Answer": "The average rate of change of the amount of water in the tank is 45 gallons per minute. If $$f ( x )$$ is the function giving the amount of water in the tank at any time $$t ,$$ then the average rate of change of $$f ( x )$$ between $$t = a$$ and $$t = b$$ is $$f ( a ) + 45 ( b - a ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the definition of derivative $$\\underset{ \\left ( h \\vec{} 0 \\right ) }{lim} \\frac{f ( x + h ) - f ( x )}{h}$$ to calculate the derivative of each function.",
+        "Question": "$$f ( x ) = 3 x - 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the definition of derivative $$\\underset{ \\left ( h \\vec{} 0 \\right ) }{lim} \\frac{f ( x + h ) - f ( x )}{h}$$ to calculate the derivative of each function.",
+        "Question": "$$f ( x ) = - 2 x + 1$$",
+        "Image Links": [],
+        "Answer": "$$f^{\\prime} ( x ) = - 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the definition of derivative $$\\underset{ \\left ( h \\vec{} 0 \\right ) }{lim} \\frac{f ( x + h ) - f ( x )}{h}$$ to calculate the derivative of each function.",
+        "Question": "$$f ( x ) = x^{2} - 2 x + 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the definition of derivative $$\\underset{ \\left ( h \\vec{} 0 \\right ) }{lim} \\frac{f ( x + h ) - f ( x )}{h}$$ to calculate the derivative of each function.",
+        "Question": "$$f ( x ) = 2 x^{2} + x - 3$$",
+        "Image Links": [],
+        "Answer": "$$f^{\\prime} ( x ) = 4 x + 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the definition of derivative $$\\underset{ \\left ( h \\vec{} 0 \\right ) }{lim} \\frac{f ( x + h ) - f ( x )}{h}$$ to calculate the derivative of each function.",
+        "Question": "$$f ( x ) = 2 x^{2} + 5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the definition of derivative $$\\underset{ \\left ( h \\vec{} 0 \\right ) }{lim} \\frac{f ( x + h ) - f ( x )}{h}$$ to calculate the derivative of each function.",
+        "Question": "$$f ( x ) = \\frac{- 1}{x - 2}$$",
+        "Image Links": [],
+        "Answer": "$$f^{\\prime} ( x ) = \\frac{1}{( x - 2 )^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the definition of derivative $$\\underset{ \\left ( h \\vec{} 0 \\right ) }{lim} \\frac{f ( x + h ) - f ( x )}{h}$$ to calculate the derivative of each function.",
+        "Question": "$$f ( x ) = \\frac{2 + x}{1 - x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the definition of derivative $$\\underset{ \\left ( h \\vec{} 0 \\right ) }{lim} \\frac{f ( x + h ) - f ( x )}{h}$$ to calculate the derivative of each function.",
+        "Question": "$$f ( x ) = \\frac{5 - 2 x}{3 + 2 x}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{- 16}{( 3 + 2 x )^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the definition of derivative $$\\underset{ \\left ( h \\vec{} 0 \\right ) }{lim} \\frac{f ( x + h ) - f ( x )}{h}$$ to calculate the derivative of each function.",
+        "Question": "$$f ( x ) = \\sqrt{1 + 3 x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the definition of derivative $$\\underset{ \\left ( h \\vec{} 0 \\right ) }{lim} \\frac{f ( x + h ) - f ( x )}{h}$$ to calculate the derivative of each function.",
+        "Question": "$$f ( x ) = 3 x^{3} - x^{2} + 2 x + 5$$",
+        "Image Links": [],
+        "Answer": "$$f^{\\prime} ( x ) = 9 x^{2} - 2 x + 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the definition of derivative $$\\underset{ \\left ( h \\vec{} 0 \\right ) }{lim} \\frac{f ( x + h ) - f ( x )}{h}$$ to calculate the derivative of each function.",
+        "Question": "$$f ( x ) = 5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the definition of derivative $$\\underset{ \\left ( h \\vec{} 0 \\right ) }{lim} \\frac{f ( x + h ) - f ( x )}{h}$$ to calculate the derivative of each function.",
+        "Question": "$$f ( x ) = 5 \\pi$$",
+        "Image Links": [],
+        "Answer": "$$f^{\\prime} ( x ) = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the average rate of change between the two points.",
+        "Question": "$$( -2 , 0 )$$ and $$( -4 , 5 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the average rate of change between the two points.",
+        "Question": "$$( 4 , -3 )$$ and $$( -2 , -1 )$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{1}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the average rate of change between the two points.",
+        "Question": "$$( 0 , 5 )$$ and $$( 6 , 5 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the average rate of change between the two points.",
+        "Question": "$$( 7 , -2 )$$ and $$( 7 , 10 )$$",
+        "Image Links": [],
+        "Answer": "undefined",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following polynomial functions, find the derivatives.",
+        "Question": "$$f ( x ) = x^{3} + 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following polynomial functions, find the derivatives.",
+        "Question": "$$f ( x ) = - 3 x^{2} - 7 x = 6$$",
+        "Image Links": [],
+        "Answer": "$$f^{\\prime} ( x ) = - 6 x - 7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following polynomial functions, find the derivatives.",
+        "Question": "$$f ( x ) = 7 x^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following polynomial functions, find the derivatives.",
+        "Question": "$$f ( x ) = 3 x^{3} + 2 x^{2} + x - 26$$",
+        "Image Links": [],
+        "Answer": "$$f^{\\prime} ( x ) = 9 x^{2} + 4 x + 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following functions, find the equation of the tangent line to the curve at the given point $$x$$ on the curve.",
+        "Question": "$$\\left .\\begin{matrix}{aa}f ( x ) = 2 x^{2} - 3 x & x = 3\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following functions, find the equation of the tangent line to the curve at the given point $$x$$ on the curve.",
+        "Question": "$$\\left .\\begin{matrix}{aa}f ( x ) = x^{3} + 1 & x = 2\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$y = 12 x - 15$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following functions, find the equation of the tangent line to the curve at the given point $$x$$ on the curve.",
+        "Question": "$$\\left .\\begin{matrix}{aa}f ( x ) = \\sqrt{x} & x = 9\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercise, find $$k$$ such that the given line is tangent to the graph of the function.",
+        "Question": "$$\\left .\\begin{matrix}{aa}f ( x ) = x^{2} - k x , & y = 4 x - 9\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$k = - 10$$ or $$k = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, consider the graph of the function $$f$$ and determine where the function is continuous/discontinuous and differentiable/not differentiable.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/4d9bc9090c50fb3bc8bfd9c5d48e3a19ef80a058"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, consider the graph of the function $$f$$ and determine where the function is continuous/discontinuous and differentiable/not differentiable.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8e1c9592a8c73f108192068f3aaa4944e00c5b91"
+        ],
+        "Answer": "Discontinuous at $$x = - 2$$ and $$x = 0.$$ Not differentiable at -2, 0, 2.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, consider the graph of the function $$f$$ and determine where the function is continuous/discontinuous and differentiable/not differentiable.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/01ecf2156501a4273be1b70b6b7603e1c065b893"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, consider the graph of the function $$f$$ and determine where the function is continuous/discontinuous and differentiable/not differentiable.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b6639301ab0867b489581f787defa36dd9446355"
+        ],
+        "Answer": "Discontinuous at $$x = 5.$$ Not differentiable at -4, -2, 0, 1, 3, 4, 5.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Figure 20 to estimate either the function at a given value of $$x$$ or the derivative at a given value of $$x ,$$ as indicated.\nFigure 20",
+        "Question": "$$f ( - 1 )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a2880f2ed3d4403d257f465257d2b646ccc0b835"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Figure 20 to estimate either the function at a given value of $$x$$ or the derivative at a given value of $$x ,$$ as indicated.\nFigure 20",
+        "Question": "$$f ( 0 )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a2880f2ed3d4403d257f465257d2b646ccc0b835"
+        ],
+        "Answer": "$$f ( 0 ) = - 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Figure 20 to estimate either the function at a given value of $$x$$ or the derivative at a given value of $$x ,$$ as indicated.\nFigure 20",
+        "Question": "$$f ( 1 )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a2880f2ed3d4403d257f465257d2b646ccc0b835"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Figure 20 to estimate either the function at a given value of $$x$$ or the derivative at a given value of $$x ,$$ as indicated.\nFigure 20",
+        "Question": "$$f ( 2 )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a2880f2ed3d4403d257f465257d2b646ccc0b835"
+        ],
+        "Answer": "$$f ( 2 ) = - 6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Figure 20 to estimate either the function at a given value of $$x$$ or the derivative at a given value of $$x ,$$ as indicated.\nFigure 20",
+        "Question": "$$f ( 3 )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a2880f2ed3d4403d257f465257d2b646ccc0b835"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Figure 20 to estimate either the function at a given value of $$x$$ or the derivative at a given value of $$x ,$$ as indicated.\nFigure 20",
+        "Question": "$$f^{\\prime} ( - 1 )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a2880f2ed3d4403d257f465257d2b646ccc0b835"
+        ],
+        "Answer": "$$f^{\\prime} ( - 1 ) = 9$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Figure 20 to estimate either the function at a given value of $$x$$ or the derivative at a given value of $$x ,$$ as indicated.\nFigure 20",
+        "Question": "$$f^{\\prime} ( 0 )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a2880f2ed3d4403d257f465257d2b646ccc0b835"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Figure 20 to estimate either the function at a given value of $$x$$ or the derivative at a given value of $$x ,$$ as indicated.\nFigure 20",
+        "Question": "$$f^{\\prime} ( 1 )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a2880f2ed3d4403d257f465257d2b646ccc0b835"
+        ],
+        "Answer": "$$f^{\\prime} ( 1 ) = - 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Figure 20 to estimate either the function at a given value of $$x$$ or the derivative at a given value of $$x ,$$ as indicated.\nFigure 20",
+        "Question": "$$f^{\\prime} ( 2 )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a2880f2ed3d4403d257f465257d2b646ccc0b835"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Figure 20 to estimate either the function at a given value of $$x$$ or the derivative at a given value of $$x ,$$ as indicated.\nFigure 20",
+        "Question": "$$f^{\\prime} ( 3 )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a2880f2ed3d4403d257f465257d2b646ccc0b835"
+        ],
+        "Answer": "$$f^{\\prime} ( 3 ) = 9$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Figure 20 to estimate either the function at a given value of $$x$$ or the derivative at a given value of $$x ,$$ as indicated.\nFigure 20",
+        "Question": "Sketch the function based on the information below: $$f^{\\prime} ( x ) = 2 x$$ , $$f ( 2 ) = 4$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a2880f2ed3d4403d257f465257d2b646ccc0b835"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "",
+        "Question": "Numerically evaluate the derivative. Explore the behavior of the graph of $$f ( x ) = x^{2}$$ around $$x = 1$$ by graphing the function on the following domains: $$[ 0.9 , 1.1 ]$$ , $$[ 0.99 , 1.01 ]$$ , $$[ 0.999 , 1.001 ] ,$$ and $$[ 0.9999 , 1.0001 ]$$ . We can use the feature on our calculator that automatically sets Ymin and Ymax to the Xmin and Xmax values we preset. (On some of the commonly used graphing calculators, this feature may be called ZOOM FIT or ZOOM AUTO). By examining the corresponding range values for this viewing window, approximate how the curve changes at $$x = 1 ,$$ that is, approximate the derivative at $$x = 1.$$",
+        "Image Links": [],
+        "Answer": "Answers vary. The slope of the tangent line near $$x = 1$$ is 2.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, explain the notation in words. The volume $$f ( t )$$ of a tank of gasoline, in gallons, $$t$$ minutes after noon.",
+        "Question": "$$f ( 0 ) = 600$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, explain the notation in words. The volume $$f ( t )$$ of a tank of gasoline, in gallons, $$t$$ minutes after noon.",
+        "Question": "$$f \\prime ( 30 ) = -20$$",
+        "Image Links": [],
+        "Answer": "At 12:30 p.m. , the rate of change of the number of gallons in the tank is -20 gallons per minute. That is, the tank is losing 20 gallons per minute.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, explain the notation in words. The volume $$f ( t )$$ of a tank of gasoline, in gallons, $$t$$ minutes after noon.",
+        "Question": "$$f ( 30 ) = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, explain the notation in words. The volume $$f ( t )$$ of a tank of gasoline, in gallons, $$t$$ minutes after noon.",
+        "Question": "$$f \\prime ( 200 ) = 30$$",
+        "Image Links": [],
+        "Answer": "At 200 minutes after noon, the volume of gallons in the tank is changing at the rate of 30 gallons per minute.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, explain the notation in words. The volume $$f ( t )$$ of a tank of gasoline, in gallons, $$t$$ minutes after noon.",
+        "Question": "$$f ( 240 ) = 500$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, explain the functions in words. The height, $$s ,$$ of a projectile after $$t$$ seconds is given by $$s ( t ) = - 16 t^{2} + 80 t .$$",
+        "Question": "$$s ( 2 ) = 96$$",
+        "Image Links": [],
+        "Answer": "The height of the projectile after 2 seconds is 96 feet.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, explain the functions in words. The height, $$s ,$$ of a projectile after $$t$$ seconds is given by $$s ( t ) = - 16 t^{2} + 80 t .$$",
+        "Question": "$$s \\prime ( 2 ) = 16$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, explain the functions in words. The height, $$s ,$$ of a projectile after $$t$$ seconds is given by $$s ( t ) = - 16 t^{2} + 80 t .$$",
+        "Question": "$$s ( 3 ) = 96$$",
+        "Image Links": [],
+        "Answer": "The height of the projectile at $$t = 3$$ seconds is 96 feet.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, explain the functions in words. The height, $$s ,$$ of a projectile after $$t$$ seconds is given by $$s ( t ) = - 16 t^{2} + 80 t .$$",
+        "Question": "$$s \\prime ( 3 ) = -16$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, explain the functions in words. The height, $$s ,$$ of a projectile after $$t$$ seconds is given by $$s ( t ) = - 16 t^{2} + 80 t .$$",
+        "Question": "$$s ( 0 ) = 0 , s ( 5 ) = 0.$$",
+        "Image Links": [],
+        "Answer": "The height of the projectile is zero at $$t = 0$$ and again at $$t = 5.$$ In other words, the projectile starts on the ground and falls to earth again after 5 seconds.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, the volume $$V$$ of a sphere with respect to its radius $$r$$ is given by $$V = \\frac{4}{3} \\pi r^{3} .$$",
+        "Question": "Find the average rate of change of $$V$$ as $$r$$ changes from 1 cm to 2 cm.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, the volume $$V$$ of a sphere with respect to its radius $$r$$ is given by $$V = \\frac{4}{3} \\pi r^{3} .$$",
+        "Question": "Find the instantaneous rate of change of $$V$$ when $$r = 3 \\text{\u00a0cm} \\text{.}$$",
+        "Image Links": [],
+        "Answer": "$$36 \\pi$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, the revenue generated by selling $$x$$ items is given by $$R ( x ) = 2 x^{2} + 10 x .$$",
+        "Question": "Find the average change of the revenue function as $$x$$ changes from $$x = 10$$ to $$x = 20.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, the revenue generated by selling $$x$$ items is given by $$R ( x ) = 2 x^{2} + 10 x .$$",
+        "Question": "Find $$R \\prime ( 10 )$$ and interpret.",
+        "Image Links": [],
+        "Answer": "$50.00 per unit, which is the instantaneous rate of change of revenue when exactly 10 units are sold.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, the revenue generated by selling $$x$$ items is given by $$R ( x ) = 2 x^{2} + 10 x .$$",
+        "Question": "Find $$R \\prime ( 15 )$$ and interpret. Compare $$R \\prime ( 15 )$$ to $$R \\prime ( 10 ) ,$$ and explain the difference.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, the cost of producing $$x$$ cellphones is described by the function $$C ( x ) = x^{2} - 4 x + 1000.$$",
+        "Question": "Find the average rate of change in the total cost as $$x$$ changes from $$x = 10 \\text{\u00a0to\u00a0} x = 15.$$",
+        "Image Links": [],
+        "Answer": "$21 per unit",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, the cost of producing $$x$$ cellphones is described by the function $$C ( x ) = x^{2} - 4 x + 1000.$$",
+        "Question": "Find the approximate marginal cost, when 15 cellphones have been produced, of producing the 16 th cellphone.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, the cost of producing $$x$$ cellphones is described by the function $$C ( x ) = x^{2} - 4 x + 1000.$$",
+        "Question": "Find the approximate marginal cost, when 20 cellphones have been produced, of producing the 21 st cellphone.",
+        "Image Links": [],
+        "Answer": "$36",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extension",
+        "Problem Statement": "For the following exercises, use the definition for the derivative at a point $$x = a ,$$ $$\\underset{ \\left ( x \\vec{} a \\right ) }{lim} \\frac{f ( x ) - f ( a )}{x - a} ,$$ to find the derivative of the functions.",
+        "Question": "$$f ( x ) = \\frac{1}{x^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extension",
+        "Problem Statement": "For the following exercises, use the definition for the derivative at a point $$x = a ,$$ $$\\underset{ \\left ( x \\vec{} a \\right ) }{lim} \\frac{f ( x ) - f ( a )}{x - a} ,$$ to find the derivative of the functions.",
+        "Question": "$$f ( x ) = 5 x^{2} - x + 4$$",
+        "Image Links": [],
+        "Answer": "$$f \\prime ( x ) = 10 a - 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extension",
+        "Problem Statement": "For the following exercises, use the definition for the derivative at a point $$x = a ,$$ $$\\underset{ \\left ( x \\vec{} a \\right ) }{lim} \\frac{f ( x ) - f ( a )}{x - a} ,$$ to find the derivative of the functions.",
+        "Question": "$$f ( x ) = - x^{2} + 4 x + 7$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extension",
+        "Problem Statement": "For the following exercises, use the definition for the derivative at a point $$x = a ,$$ $$\\underset{ \\left ( x \\vec{} a \\right ) }{lim} \\frac{f ( x ) - f ( a )}{x - a} ,$$ to find the derivative of the functions.",
+        "Question": "$$f ( x ) = \\frac{- 4}{3 - x^{2}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{4}{( 3 - x )^{2}}$$",
+        "Answer Image Links": []
+    }
+]

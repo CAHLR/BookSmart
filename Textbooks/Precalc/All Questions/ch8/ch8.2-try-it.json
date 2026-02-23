@@ -1,0 +1,34 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "Find the missing side and angles of the given triangle: $$\\alpha = 30\u00b0 ,$$ $$b = 12 ,$$ $$c = 24.$$",
+        "Image Links": [],
+        "Answer": "$$a \\approx 14.9 ,$$ $$\\beta \\approx 23.8\u00b0 ,$$ $$\\gamma \\approx 126.2\u00b0 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "Given $$a = 5 , b = 7 ,$$ and $$c = 10 ,$$ find the missing angles.",
+        "Image Links": [],
+        "Answer": "$$\\alpha \\approx 27.7\u00b0 ,$$ $$\\beta \\approx 40.5\u00b0 ,$$ $$\\gamma \\approx 111.8\u00b0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "Use Heron\u2019s formula to find the area of a triangle with sides of lengths $$a = 29.7 \\text{ft} , b = 42.3 \\text{ft} ,$$ and $$c = 38.4 \\text{ft} .$$",
+        "Image Links": [],
+        "Answer": "Area = 552 square feet",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "Find the area of a triangle given $$a = 4.38 \\text{ft} , b = 3.79 \\text{ft,}$$ and $$c = 5.22 \\text{ft} \\text{.}$$",
+        "Image Links": [],
+        "Answer": "about 8.15 square feet",
+        "Answer Image Links": []
+    }
+]

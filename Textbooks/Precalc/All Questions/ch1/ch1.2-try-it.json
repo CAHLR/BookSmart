@@ -1,0 +1,72 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "Find the domain of the function: $$\\{ ( -5 , 4 ) , ( 0 , 0 ) , ( 5 , -4 ) , ( 10 , -8 ) , ( 15 , -12 ) \\}$$",
+        "Image Links": [],
+        "Answer": "$$\\{ - 5 , 0 , 5 , 10 , 15 \\}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "Find the domain of the function: $$f ( x ) = 5 - x + x^{3} .$$",
+        "Image Links": [],
+        "Answer": "$$( - \\infty , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "Find the domain of the function: $$f ( x ) = \\frac{1 + 4 x}{2 x - 1} .$$",
+        "Image Links": [],
+        "Answer": "$$( - \\infty , \\frac{1}{2} ) \\cup ( \\frac{1}{2} , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "Find the domain of the function $$f ( x ) = \\sqrt{5 + 2 x} .$$",
+        "Image Links": [],
+        "Answer": "$$[ - \\frac{5}{2} , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #5",
+        "Problem Statement": "",
+        "Question": "Given Figure 7 , specify the graphed set in \u24d0 words \u24d1 set-builder notation \u24d2 interval notation Figure 7",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/eba2f61d5fb32eca2dd57b7de1a1e57511a15f6a"
+        ],
+        "Answer": "\u24d0 values that are less than or equal to -2, or values that are greater than or equal to -1 and less than 3; \u24d1 $$\\{ x | x \\le - 2 \\text{or} - 1 \\le x < 3 \\}$$ ; \u24d2 $$( - \\infty , - 2 ] \\cup [ - 1 , 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #6",
+        "Problem Statement": "",
+        "Question": "Given Figure 12 , identify the domain and range using interval notation. Figure 12",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d86a2e251962e6baf7039f5a05db37e4bb123d1a"
+        ],
+        "Answer": "domain =[1950,2002] range = [47,000,000,89,000,000]",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #7",
+        "Problem Statement": "",
+        "Question": "Find the domain and range of $$f ( x ) = - \\sqrt{2 - x} .$$",
+        "Image Links": [],
+        "Answer": "domain: $$( - \\infty , 2 ] ;$$ range: $$( - \\infty , 0 ]$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #8",
+        "Problem Statement": "",
+        "Question": "Graph the following piecewise function. $$f ( x ) = \\{ \\left .\\begin{matrix}{aaa}x^{3} & \\text{if} & x < - 1 \\\\ - 2 & \\text{if} & - 1 < x < 4 \\\\ \\sqrt{x} & \\text{if} & x > 4\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/55b54680118bbe7214755035f529a3ba2024d244"
+        ]
+    }
+]

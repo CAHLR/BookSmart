@@ -1,0 +1,104 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "What is the domain of $$f ( x ) = \\log_{5} ( x - 2 ) + 1 ?$$",
+        "Image Links": [],
+        "Answer": "$$( 2 , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "What is the domain of $$f ( x ) = \\log ( x - 5 ) + 2 ?$$",
+        "Image Links": [],
+        "Answer": "$$( 5 , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "Graph $$f ( x ) = \\log_{\\frac{1}{5}} ( x ) .$$ State the domain, range, and asymptote.",
+        "Image Links": [],
+        "Answer": "The domain is $$( 0 , \\infty ) ,$$ the range is $$( - \\infty , \\infty ) ,$$ and the vertical asymptote is $$x = 0.$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8611d7c58cd76863e0815af2aedf3771dda2d936"
+        ]
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "Sketch a graph of $$f ( x ) = \\log_{3} ( x + 4 )$$ alongside its parent function. Include the key points and asymptotes on the graph. State the domain, range, and asymptote.",
+        "Image Links": [],
+        "Answer": "The domain is $$( - 4 , \\infty ) ,$$ the range $$( - \\infty , \\infty ) ,$$ and the asymptote $$x = - 4.$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e9e092e4a015b877e4574c7e9e68c3bd665b0e88"
+        ]
+    },
+    {
+        "Topic": "Try It #5",
+        "Problem Statement": "",
+        "Question": "Sketch a graph of $$f ( x ) = \\log_{2} ( x ) + 2$$ alongside its parent function. Include the key points and asymptote on the graph. State the domain, range, and asymptote.",
+        "Image Links": [],
+        "Answer": "The domain is $$( 0 , \\infty ) ,$$ the range is $$( - \\infty , \\infty ) ,$$ and the vertical asymptote is $$x = 0.$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/db748dc984a57b45d84296a30c0a199c8daa2c0a"
+        ]
+    },
+    {
+        "Topic": "Try It #6",
+        "Problem Statement": "",
+        "Question": "Sketch a graph of $$f ( x ) = \\frac{1}{2} \\log_{4} ( x )$$ alongside its parent function. Include the key points and asymptote on the graph. State the domain, range, and asymptote.",
+        "Image Links": [],
+        "Answer": "The domain is $$( 0 , \\infty ) ,$$ the range is $$( - \\infty , \\infty ) ,$$ and the vertical asymptote is $$x = 0.$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/27e2815cc4fe7f063ccff1afcf98f5c92db897da"
+        ]
+    },
+    {
+        "Topic": "Try It #7",
+        "Problem Statement": "",
+        "Question": "Sketch a graph of the function $$f ( x ) = 3 \\log ( x - 2 ) + 1.$$ State the domain, range, and asymptote.",
+        "Image Links": [],
+        "Answer": "The domain is $$( 2 , \\infty ) ,$$ the range is $$( - \\infty , \\infty ) ,$$ and the vertical asymptote is $$x = 2.$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c1427b25573006e4c39ae4fab11009c66fba5a76"
+        ]
+    },
+    {
+        "Topic": "Try It #8",
+        "Problem Statement": "",
+        "Question": "Graph $$f ( x ) = - \\log ( - x ) .$$ State the domain, range, and asymptote.",
+        "Image Links": [],
+        "Answer": "The domain is $$( - \\infty , 0 ) ,$$ the range is $$( - \\infty , \\infty ) ,$$ and the vertical asymptote is $$x = 0.$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c6f82d450986da55c493763eb6e639762568b560"
+        ]
+    },
+    {
+        "Topic": "Try It #9",
+        "Problem Statement": "",
+        "Question": "Solve $$5 \\log ( x + 2 ) = 4 - \\log ( x )$$ graphically. Round to the nearest thousandth.",
+        "Image Links": [],
+        "Answer": "$$x \\approx 3.049$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #10",
+        "Problem Statement": "",
+        "Question": "What is the vertical asymptote of $$f ( x ) = 3 + \\ln{} ( x - 1 ) ?$$",
+        "Image Links": [],
+        "Answer": "$$x = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #11",
+        "Problem Statement": "",
+        "Question": "Give the equation of the natural logarithm graphed in Figure 16 . Figure 16",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1623ba479c810ef4876c5f42049744e858b3ad9b"
+        ],
+        "Answer": "$$f ( x ) = 2 \\ln{} ( x + 3 ) - 1$$",
+        "Answer Image Links": []
+    }
+]

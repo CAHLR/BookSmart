@@ -1,0 +1,60 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "Express $$\\sqrt{- 24}$$ in standard form.",
+        "Image Links": [],
+        "Answer": "$$\\sqrt{- 24} = 0 + 2 i \\sqrt{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "Plot the complex number $$-4 - i$$ on the complex plane.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7a3cbc1607417bbe13fb4e2c7bebb3c31ca81f66"
+        ]
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "Subtract $$2 + 5 i$$ from $$3 - 4 i .$$",
+        "Image Links": [],
+        "Answer": "$$( 3 - 4 i ) - ( 2 + 5 i ) = 1 - 9 i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "Find the product $$- 4 ( 2 + 6 i ) .$$",
+        "Image Links": [],
+        "Answer": "$$- 8 - 24 i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #5",
+        "Problem Statement": "",
+        "Question": "Multiply $$( 3 - 4 i ) ( 2 + 3 i ) .$$",
+        "Image Links": [],
+        "Answer": "$$18 + i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #6",
+        "Problem Statement": "",
+        "Question": "Let $$f ( x ) = 2 x^{2} - 3 x .$$ Evaluate $$f ( 8 - i ) .$$",
+        "Image Links": [],
+        "Answer": "$$102 - 29 i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #7",
+        "Problem Statement": "",
+        "Question": "Let $$f ( x ) = \\frac{x + 1}{x - 4} .$$ Evaluate $$f ( - i ) .$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{3}{17} + \\frac{5 i}{17}$$",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "Write the first five terms of the sequence defined by the explicit formula $$t_{n} = 5 n - 4.$$",
+        "Image Links": [],
+        "Answer": "The first five terms are $$\\{ 1 , 6 , \\  11 , \\  16 , \\  21 \\} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "Write the first five terms of the sequence. $$a_{n} = \\frac{4 n}{( - 2 )^{n}}$$",
+        "Image Links": [],
+        "Answer": "The first five terms are $$\\{ - 2 , \\  2 , \\  - \\frac{3}{2} , \\  1 , \\text{} - \\frac{5}{8} \\} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "Write the first six terms of the sequence. $$a_{n} = \\{ \\left .\\begin{matrix}{aa}2 n^{3} & \\text{if\u00a0} n \\text{is\u00a0odd} \\\\ \\frac{5 n}{2} & \\text{if\u00a0} n \\text{is\u00a0even}\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "The first six terms are $$\\{ 2 , \\text{} 5 , \\text{} 54 , \\text{} 10 , \\text{} 250 , \\text{} 15 \\} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "Write an explicit formula for the $$n \\text{th}$$ term of the sequence. $$\\text{{9,} - \\text{81,} \\text{729,} - \\text{6,561,} \\text{59,049,} \\text{unicode[:ddot.]}}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = ( - 1 )^{n + 1} 9^{n}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #5",
+        "Problem Statement": "",
+        "Question": "Write an explicit formula for the $$n \\text{th}$$ term of the sequence. $$\\{ - \\frac{3}{4} , - \\frac{9}{8} , - \\frac{27}{12} , - \\frac{81}{16} , - \\frac{243}{20} , ... \\}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = - \\frac{3^{n}}{4 n}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #6",
+        "Problem Statement": "",
+        "Question": "Write an explicit formula for the $$n \\text{th}$$ term of the sequence. $$\\{ \\frac{1}{e^{2}} , \\  \\frac{1}{e} , \\  1 , \\  e , \\  e^{2} , ... \\}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = e^{n - 3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #7",
+        "Problem Statement": "",
+        "Question": "Write the first five terms of the sequence defined by the recursive formula. $$\\left .\\begin{matrix}{a}a_{1} = 2 \\\\ a_{n} = 2 a_{n - 1} + 1 \\text{,\u00a0for\u00a0} n \\geq 2\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$\\{ 2 , \\  5 , \\  11 , \\  23 , \\  47 \\}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #8",
+        "Problem Statement": "",
+        "Question": "Write the first 8 terms of the sequence defined by the recursive formula. $$\\left .\\begin{matrix}{a}\\left .\\begin{matrix}{a} \\\\ a_{1} = 0\\end{matrix}\\right . \\\\ a_{2} = 1 \\\\ a_{3} = 1 \\\\ a_{n} = \\frac{a_{n - 1}}{a_{n - 2}} + a_{n - 3} \\text{,\u00a0for\u00a0} n \\geq 4\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$\\{ 0 , \\  1 , \\  1 , \\  1 , \\  2 , \\  3 , \\  \\frac{5}{2} , \\text{} \\frac{17}{6} \\} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #9",
+        "Problem Statement": "",
+        "Question": "Write the first five terms of the sequence defined by the explicit formula $$a_{n} = \\frac{( n + 1 ) !}{2 n} .$$",
+        "Image Links": [],
+        "Answer": "The first five terms are $$\\{ 1 , \\  \\frac{3}{2} , \\  4 , \\text{} 15 , \\text{} 72 \\} .$$",
+        "Answer Image Links": []
+    }
+]

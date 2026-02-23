@@ -1,0 +1,360 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the graph of $$f$$ in Figure 1 .\nFigure 1",
+        "Question": "$$f ( 1 )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ffbe645b70200ec334bc256655678b3a7829a220"
+        ],
+        "Answer": "3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the graph of $$f$$ in Figure 1 .\nFigure 1",
+        "Question": "$$\\underset{ \\left ( x \\vec{} -1^{+} \\right ) }{lim} f ( x )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ffbe645b70200ec334bc256655678b3a7829a220"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the graph of $$f$$ in Figure 1 .\nFigure 1",
+        "Question": "$$\\underset{ \\left ( x \\vec{} -1^{-} \\right ) }{lim} f ( x )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ffbe645b70200ec334bc256655678b3a7829a220"
+        ],
+        "Answer": "0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the graph of $$f$$ in Figure 1 .\nFigure 1",
+        "Question": "$$\\underset{ \\left ( x \\vec{} -1 \\right ) }{lim} f ( x )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ffbe645b70200ec334bc256655678b3a7829a220"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the graph of $$f$$ in Figure 1 .\nFigure 1",
+        "Question": "$$\\underset{ \\left ( x \\vec{} -2 \\right ) }{lim} f ( x )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ffbe645b70200ec334bc256655678b3a7829a220"
+        ],
+        "Answer": "$$-1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the graph of $$f$$ in Figure 1 .\nFigure 1",
+        "Question": "At what values of $$x$$ is $$f$$ discontinuous? What property of continuity is violated?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ffbe645b70200ec334bc256655678b3a7829a220"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, with the use of a graphing utility, use numerical or graphical evidence to determine the left- and right-hand limits of the function given as $$x$$ approaches $$a .$$ If the function has a limit as $$x$$ approaches $$a ,$$ state it. If not, discuss why there is no limit",
+        "Question": "$$f ( x ) = \\{ \\left .\\begin{matrix}{aa}\\frac{1}{x} - 3 , \\text{\u00a0i} f & x \\le 2 \\\\ x^{3} + 1 , i f & x > 2\\end{matrix}\\right . \\text{quad} a = 2$$",
+        "Image Links": [],
+        "Answer": "$$\\underset{ \\left ( x \\vec{} 2^{-} \\right ) }{lim} f ( x ) = - \\frac{5}{2} a$$ and $$\\underset{ \\left ( x \\vec{} 2^{+} \\right ) }{lim} f ( x ) = 9$$ Thus, the limit of the function as $$x$$ approaches 2 does not exist.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, with the use of a graphing utility, use numerical or graphical evidence to determine the left- and right-hand limits of the function given as $$x$$ approaches $$a .$$ If the function has a limit as $$x$$ approaches $$a ,$$ state it. If not, discuss why there is no limit",
+        "Question": "$$f ( x ) = \\{ \\left .\\begin{matrix}{aaa}x^{3} + 1 , & i f & x < 1 \\\\ 3 x^{2} - 1 , & i f & x = 1 \\\\ - \\sqrt{x + 3} + 4 , & i f & x > 1\\end{matrix}\\right . \\text{ } a = 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate each limit using algebraic techniques.",
+        "Question": "$$\\underset{ \\left ( x \\vec{} -5 \\right ) }{lim} ( \\frac{\\frac{1}{5} + \\frac{1}{x}}{10 + 2 x} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate each limit using algebraic techniques.",
+        "Question": "$$\\underset{ \\left ( h \\vec{} 0 \\right ) }{lim} ( \\frac{\\sqrt{h^{2} + 25} - 5}{h^{2}} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate each limit using algebraic techniques.",
+        "Question": "$$\\underset{ \\left ( h \\vec{} 0 \\right ) }{lim} ( \\frac{1}{h} - \\frac{1}{h^{2} + h} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether or not the given function $$f$$ is continuous. If it is continuous, show why. If it is not continuous, state which conditions fail.",
+        "Question": "$$f ( x ) = \\sqrt{x^{2} - 4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether or not the given function $$f$$ is continuous. If it is continuous, show why. If it is not continuous, state which conditions fail.",
+        "Question": "$$f ( x ) = \\frac{x^{3} - 4 x^{2} - 9 x + 36}{x^{3} - 3 x^{2} + 2 x - 6}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the definition of a derivative to find the derivative of the given function at $$x = a .$$",
+        "Question": "$$f ( x ) = \\frac{3}{5 + 2 x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the definition of a derivative to find the derivative of the given function at $$x = a .$$",
+        "Question": "$$f ( x ) = \\frac{3}{\\sqrt{x}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the definition of a derivative to find the derivative of the given function at $$x = a .$$",
+        "Question": "$$f ( x ) = 2 x^{2} + 9 x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the definition of a derivative to find the derivative of the given function at $$x = a .$$",
+        "Question": "For the graph in Figure 2 , determine where the function is continuous/discontinuous and differentiable/not differentiable. Figure 2",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0d765cd1c953fba8ac49d36b0f739d7195fecc73"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, with the aid of a graphing utility, explain why the function is not differentiable everywhere on its domain. Specify the points where the function is not differentiable.",
+        "Question": "$$f ( x ) = | x - 2 | - | x + 2 |$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, with the aid of a graphing utility, explain why the function is not differentiable everywhere on its domain. Specify the points where the function is not differentiable.",
+        "Question": "$$f ( x ) = \\frac{2}{1 + e^{\\frac{2}{x}}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, explain the notation in words when the height of a projectile in feet, $$s ,$$ is a function of time $$t$$ in seconds after launch and is given by the function $$s ( t ) .$$",
+        "Question": "$$s ( 0 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, explain the notation in words when the height of a projectile in feet, $$s ,$$ is a function of time $$t$$ in seconds after launch and is given by the function $$s ( t ) .$$",
+        "Question": "$$s ( 2 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, explain the notation in words when the height of a projectile in feet, $$s ,$$ is a function of time $$t$$ in seconds after launch and is given by the function $$s ( t ) .$$",
+        "Question": "$$s \\prime ( 2 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, explain the notation in words when the height of a projectile in feet, $$s ,$$ is a function of time $$t$$ in seconds after launch and is given by the function $$s ( t ) .$$",
+        "Question": "$$\\frac{s ( 2 ) - s ( 1 )}{2 - 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, explain the notation in words when the height of a projectile in feet, $$s ,$$ is a function of time $$t$$ in seconds after launch and is given by the function $$s ( t ) .$$",
+        "Question": "$$s ( t ) = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use technology to evaluate the limit.",
+        "Question": "$$\\underset{ \\left ( x \\vec{} 0 \\right ) }{lim} \\frac{\\sin{(} x )}{3 x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use technology to evaluate the limit.",
+        "Question": "$$\\underset{ \\left ( x \\vec{} 0 \\right ) }{lim} \\frac{\\tan{}^{2} ( x )}{2 x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use technology to evaluate the limit.",
+        "Question": "$$\\underset{ \\left ( x \\vec{} 0 \\right ) }{lim} \\frac{\\sin{(} x ) ( 1 - \\cos{} ( x ) )}{2 x^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use technology to evaluate the limit.",
+        "Question": "Evaluate the limit by hand. $$\\left .\\begin{matrix}{a}lim \\\\ ^{x \\vec{} 1}\\end{matrix}\\right . f ( x ) , \\text{\u00a0wherequad} f ( x ) = \\{ \\left .\\begin{matrix}{aa}4 x - 7 & x \\ne 1 \\\\ x^{2} - 4 & x = 1\\end{matrix}\\right .$$ At what value(s) of $$x$$ is the function below discontinuous? $$f ( x ) = \\{ \\left .\\begin{matrix}{a}4 x - 7 x \\ne 1 \\\\ x^{2} - 4 x = 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider the function whose graph appears in Figure 3 .\nFigure 3",
+        "Question": "Find the average rate of change of the function from $$x = 1 \\text{\u00a0to\u00a0} x = 3.$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1713e5796a99c4c4f0bc9c3dd29b7c99379dca2e"
+        ],
+        "Answer": "2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider the function whose graph appears in Figure 3 .\nFigure 3",
+        "Question": "Find all values of $$x$$ at which $$f \\prime ( x ) = 0.$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1713e5796a99c4c4f0bc9c3dd29b7c99379dca2e"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider the function whose graph appears in Figure 3 .\nFigure 3",
+        "Question": "Find all values of $$x$$ at which $$f \\prime ( x )$$ does not exist.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1713e5796a99c4c4f0bc9c3dd29b7c99379dca2e"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider the function whose graph appears in Figure 3 .\nFigure 3",
+        "Question": "Find an equation of the tangent line to the graph of $$f$$ the indicated point: $$f ( x ) = 3 x^{2} - 2 x - 6 , \\text{quad} x = - 2$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1713e5796a99c4c4f0bc9c3dd29b7c99379dca2e"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the function $$f ( x ) = x ( 1 - x )^{\\frac{2}{5}}$$ .",
+        "Question": "Graph the function $$f ( x ) = x ( 1 - x )^{\\frac{2}{5}}$$ by entering $$f ( x ) = x ( ( 1 - x )^{2} )^{\\frac{1}{5}}$$ and then by entering $$f ( x ) = x ( ( 1 - x )^{\\frac{1}{5}} )^{2}$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the function $$f ( x ) = x ( 1 - x )^{\\frac{2}{5}}$$ .",
+        "Question": "Explore the behavior of the graph of $$f ( x )$$ around $$x = 1$$ by graphing the function on the following domains, [0.9, 1.1],  [0.99, 1.01],  [0.999, 1.001], and [0.9999, 1.0001]. Use this information to determine whether the function appears to be differentiable at $$x = 1.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the derivative of each of the functions using the definition: $$\\underset{ \\left ( h \\vec{} 0 \\right ) }{lim} \\frac{f ( x + h ) - f ( x )}{h}$$",
+        "Question": "$$f ( x ) = 2 x - 8$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the derivative of each of the functions using the definition: $$\\underset{ \\left ( h \\vec{} 0 \\right ) }{lim} \\frac{f ( x + h ) - f ( x )}{h}$$",
+        "Question": "$$f ( x ) = 4 x^{2} - 7$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the derivative of each of the functions using the definition: $$\\underset{ \\left ( h \\vec{} 0 \\right ) }{lim} \\frac{f ( x + h ) - f ( x )}{h}$$",
+        "Question": "$$f ( x ) = x - \\frac{1}{2} x^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the derivative of each of the functions using the definition: $$\\underset{ \\left ( h \\vec{} 0 \\right ) }{lim} \\frac{f ( x + h ) - f ( x )}{h}$$",
+        "Question": "$$f ( x ) = \\frac{1}{x + 2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the derivative of each of the functions using the definition: $$\\underset{ \\left ( h \\vec{} 0 \\right ) }{lim} \\frac{f ( x + h ) - f ( x )}{h}$$",
+        "Question": "$$f ( x ) = \\frac{3}{x - 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the derivative of each of the functions using the definition: $$\\underset{ \\left ( h \\vec{} 0 \\right ) }{lim} \\frac{f ( x + h ) - f ( x )}{h}$$",
+        "Question": "$$f ( x ) = - x^{3} + 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the derivative of each of the functions using the definition: $$\\underset{ \\left ( h \\vec{} 0 \\right ) }{lim} \\frac{f ( x + h ) - f ( x )}{h}$$",
+        "Question": "$$f ( x ) = x^{2} + x^{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the derivative of each of the functions using the definition: $$\\underset{ \\left ( h \\vec{} 0 \\right ) }{lim} \\frac{f ( x + h ) - f ( x )}{h}$$",
+        "Question": "$$f ( x ) = \\sqrt{x - 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

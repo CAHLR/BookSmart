@@ -1,0 +1,430 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Explain what types of physical phenomena are best modeled by sinusoidal functions. What are the characteristics necessary?",
+        "Image Links": [],
+        "Answer": "Physical behavior should be periodic, or cyclical.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What information is necessary to construct a trigonometric model of daily temperature? Give examples of two different sets of information that would enable modeling with an equation.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "If we want to model cumulative rainfall over the course of a year, would a sinusoidal function be a good model? Why or why not?",
+        "Image Links": [],
+        "Answer": "Since cumulative rainfall is always increasing, a sinusoidal function would not be ideal here.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Explain the effect of a damping factor on the graphs of harmonic motion functions.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find a possible formula for the trigonometric function represented by the given table of values.",
+        "Question": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\n$$x$$ & $$y$$ \\\\ \\hline\n$$0$$ & $$- 4$$ \\\\ \\hline\n$$3$$ & $$- 1$$ \\\\ \\hline\n$$6$$ & $$2$$ \\\\ \\hline\n$$9$$ & $$- 1$$ \\\\ \\hline\n$$12$$ & $$- 4$$ \\\\ \\hline\n$$15$$ & $$- 1$$ \\\\ \\hline\n$$18$$ & $$2$$ \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "$$y = - 3 \\cos{} ( \\frac{\\pi}{6} x ) - 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find a possible formula for the trigonometric function represented by the given table of values.",
+        "Question": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\n$$x$$ & $$y$$ \\\\ \\hline\n$$0$$ & $$5$$ \\\\ \\hline\n$$2$$ & $$1$$ \\\\ \\hline\n$$4$$ & $$- 3$$ \\\\ \\hline\n$$6$$ & $$1$$ \\\\ \\hline\n$$8$$ & $$5$$ \\\\ \\hline\n$$10$$ & $$1$$ \\\\ \\hline\n$$12$$ & $$- 3$$ \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find a possible formula for the trigonometric function represented by the given table of values.",
+        "Question": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\n$$x$$ & $$y$$ \\\\ \\hline\n$$0$$ & $$2$$ \\\\ \\hline\n$$\\frac{\\pi}{4}$$ & $$7$$ \\\\ \\hline\n$$\\frac{\\pi}{2}$$ & $$2$$ \\\\ \\hline\n$$\\frac{3 \\pi}{4}$$ & $$- 3$$ \\\\ \\hline\n$$\\pi$$ & $$2$$ \\\\ \\hline\n$$\\frac{5 \\pi}{4}$$ & $$7$$ \\\\ \\hline\n$$\\frac{3 \\pi}{2}$$ & $$2$$ \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "$$5 \\sin{} ( 2 x ) + 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find a possible formula for the trigonometric function represented by the given table of values.",
+        "Question": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\n$$x$$ & $$y$$ \\\\ \\hline\n$$0$$ & $$1$$ \\\\ \\hline\n$$1$$ & $$- 3$$ \\\\ \\hline\n$$2$$ & $$- 7$$ \\\\ \\hline\n$$3$$ & $$- 3$$ \\\\ \\hline\n$$4$$ & $$1$$ \\\\ \\hline\n$$5$$ & $$- 3$$ \\\\ \\hline\n$$6$$ & $$- 7$$ \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find a possible formula for the trigonometric function represented by the given table of values.",
+        "Question": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\n$$x$$ & $$y$$ \\\\ \\hline\n$$0$$ & $$- 2$$ \\\\ \\hline\n$$1$$ & $$4$$ \\\\ \\hline\n$$2$$ & $$10$$ \\\\ \\hline\n$$3$$ & $$4$$ \\\\ \\hline\n$$4$$ & $$- 2$$ \\\\ \\hline\n$$5$$ & $$4$$ \\\\ \\hline\n$$6$$ & $$10$$ \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find a possible formula for the trigonometric function represented by the given table of values.",
+        "Question": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\n$$x$$ & $$y$$ \\\\ \\hline\n$$0$$ & $$5$$ \\\\ \\hline\n$$1$$ & $$- 3$$ \\\\ \\hline\n$$2$$ & $$5$$ \\\\ \\hline\n$$3$$ & $$13$$ \\\\ \\hline\n$$4$$ & $$5$$ \\\\ \\hline\n$$5$$ & $$- 3$$ \\\\ \\hline\n$$6$$ & $$5$$ \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find a possible formula for the trigonometric function represented by the given table of values.",
+        "Question": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\n$$x$$ & $$y$$ \\\\ \\hline\n$$- 3$$ & $$- 1 - \\sqrt{2}$$ \\\\ \\hline\n$$- 2$$ & $$- 1$$ \\\\ \\hline\n$$- 1$$ & $$1 - \\sqrt{2}$$ \\\\ \\hline\n$$0$$ & $$0$$ \\\\ \\hline\n$$1$$ & $$\\sqrt{2} - 1$$ \\\\ \\hline\n$$2$$ & $$1$$ \\\\ \\hline\n$$3$$ & $$\\sqrt{2} + 1$$ \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find a possible formula for the trigonometric function represented by the given table of values.",
+        "Question": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\n$$x$$ & $$y$$ \\\\ \\hline\n$$- 1$$ & $$\\sqrt{3} - 2$$ \\\\ \\hline\n$$0$$ & $$0$$ \\\\ \\hline\n$$1$$ & $$2 - \\sqrt{3}$$ \\\\ \\hline\n$$2$$ & $$\\frac{\\sqrt{3}}{3}$$ \\\\ \\hline\n$$3$$ & $$1$$ \\\\ \\hline\n$$4$$ & $$\\sqrt{3}$$ \\\\ \\hline\n$$5$$ & $$2 + \\sqrt{3}$$ \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the given function, and then find a possible physical process that the equation could model.",
+        "Question": "$$f ( x ) = - 30 \\cos{} ( \\frac{x \\pi}{6} ) - 20 \\cos{}^{2} ( \\frac{x \\pi}{6} ) + 80 [ 0 , 12 ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6a2d68e5d517a87a1389e657248f0b4cf158be55"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the given function, and then find a possible physical process that the equation could model.",
+        "Question": "$$f ( x ) = - 18 \\cos{} ( \\frac{x \\pi}{12} ) - 5 \\sin{} ( \\frac{x \\pi}{12} ) + 100$$ on the interval $$[ 0 , 24 ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the given function, and then find a possible physical process that the equation could model.",
+        "Question": "$$f ( x ) = 10 - \\sin{} ( \\frac{x \\pi}{6} ) + 24 \\tan{} ( \\frac{x \\pi}{240} )$$ on the interval $$[ 0 , 80 ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9cc3241a9fa38c26dbe57f003f8d88232d1cdb6b"
+        ]
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercise, construct a function modeling behavior and use a calculator to find desired results.",
+        "Question": "A city\u2019s average yearly rainfall is currently 20 inches and varies seasonally by 5 inches. Due to unforeseen circumstances, rainfall appears to be decreasing by 15% each year. How many years from now would we expect rainfall to initially reach 0 inches? Note, the model is invalid once it predicts negative rainfall, so choose the first point at which it goes below 0.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, construct a sinusoidal function with the provided information, and then solve the equation for the requested values.",
+        "Question": "Outside temperatures over the course of a day can be modeled as a sinusoidal function. Suppose the high temperature of $$105 \\text{\u00b0F}$$ occurs at 5PM and the average temperature for the day is $$85 \\text{\u00b0F} \\text{.}$$ Find the temperature, to the nearest degree, at 9AM.",
+        "Image Links": [],
+        "Answer": "75 \u00b0F",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, construct a sinusoidal function with the provided information, and then solve the equation for the requested values.",
+        "Question": "Outside temperatures over the course of a day can be modeled as a sinusoidal function. Suppose the high temperature of $$84 \\text{\u00b0F}$$ occurs at 6PM and the average temperature for the day is $$70 \\text{\u00b0F} \\text{.}$$ Find the temperature, to the nearest degree, at 7AM.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, construct a sinusoidal function with the provided information, and then solve the equation for the requested values.",
+        "Question": "Outside temperatures over the course of a day can be modeled as a sinusoidal function. Suppose the temperature varies between $$47 \\text{\u00b0F}$$ and $$63 \\text{\u00b0F}$$ during the day and the average daily temperature first occurs at 10 AM. How many hours after midnight does the temperature first reach $$51 \\text{\u00b0F?}$$",
+        "Image Links": [],
+        "Answer": "8 a.m.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, construct a sinusoidal function with the provided information, and then solve the equation for the requested values.",
+        "Question": "Outside temperatures over the course of a day can be modeled as a sinusoidal function. Suppose the temperature varies between $$64 \\text{\u00b0F}$$ and $$86 \\text{\u00b0F}$$ during the day and the average daily temperature first occurs at 12 AM. How many hours after midnight does the temperature first reach $$70 \\text{\u00b0F?}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, construct a sinusoidal function with the provided information, and then solve the equation for the requested values.",
+        "Question": "A Ferris wheel is 20 meters in diameter and boarded from a platform that is 2 meters above the ground. The six o\u2019clock position on the Ferris wheel is level with the loading platform. The wheel completes 1 full revolution in 6 minutes. How much of the ride, in minutes and seconds, is spent higher than 13 meters above the ground?",
+        "Image Links": [],
+        "Answer": "2:49",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, construct a sinusoidal function with the provided information, and then solve the equation for the requested values.",
+        "Question": "A Ferris wheel is 45 meters in diameter and boarded from a platform that is 1 meter above the ground. The six o\u2019clock position on the Ferris wheel is level with the loading platform. The wheel completes 1 full revolution in 10 minutes. How many minutes of the ride are spent higher than 27 meters above the ground? Round to the nearest second",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, construct a sinusoidal function with the provided information, and then solve the equation for the requested values.",
+        "Question": "The sea ice area around the North Pole fluctuates between about 6 million square kilometers on September 1 to 14 million square kilometers on March 1. Assuming a sinusoidal fluctuation, when are there less than 9 million square kilometers of sea ice? Give your answer as a range of dates, to the nearest day.",
+        "Image Links": [],
+        "Answer": "From June 15 through November 16",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, construct a sinusoidal function with the provided information, and then solve the equation for the requested values.",
+        "Question": "The sea ice area around the South Pole fluctuates between about 18 million square kilometers in September to 3 million square kilometers in March. Assuming a sinusoidal fluctuation, when are there more than 15 million square kilometers of sea ice? Give your answer as a range of dates, to the nearest day.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, construct a sinusoidal function with the provided information, and then solve the equation for the requested values.",
+        "Question": "During a 90-day monsoon season, daily rainfall can be modeled by sinusoidal functions. If the rainfall fluctuates between a low of 2 inches on day 10 and 12 inches on day 55, during what period is daily rainfall more than 10 inches?",
+        "Image Links": [],
+        "Answer": "From day 41 through day 68",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, construct a sinusoidal function with the provided information, and then solve the equation for the requested values.",
+        "Question": "During a 90-day monsoon season, daily rainfall can be modeled by sinusoidal functions. A low of 4 inches of rainfall was recorded on day 30, and overall the average daily rainfall was 8 inches. During what period was daily rainfall less than 5 inches?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, construct a sinusoidal function with the provided information, and then solve the equation for the requested values.",
+        "Question": "In a certain region, monthly precipitation peaks at 8 inches on June 1 and falls to a low of 1 inch on December 1. Identify the periods when the region is under flood conditions (greater than 7 inches) and drought conditions (less than 2 inches). Give your answer in terms of the nearest day.",
+        "Image Links": [],
+        "Answer": "Floods: April 16 to July 15. Drought: October 16 to January 15.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, construct a sinusoidal function with the provided information, and then solve the equation for the requested values.",
+        "Question": "In a certain region, monthly precipitation peaks at 24 inches in September and falls to a low of 4 inches in March. Identify the periods when the region is under flood conditions (greater than 22 inches) and drought conditions (less than 5 inches). Give your answer in terms of the nearest day.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, find the amplitude, period, and frequency of the given function.",
+        "Question": "The displacement $$h ( t )$$ in centimeters of a mass suspended by a spring is modeled by the function $$h ( t ) = 8 \\sin{} ( 6 \\pi t ) ,$$ where $$t$$ is measured in seconds. Find the amplitude, period, and frequency of this displacement.",
+        "Image Links": [],
+        "Answer": "Amplitude: 8, period: $$\\frac{1}{3} ,$$ frequency: 3 Hz",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, find the amplitude, period, and frequency of the given function.",
+        "Question": "The displacement $$h ( t )$$ in centimeters of a mass suspended by a spring is modeled by the function $$h ( t ) = 11 \\sin{} ( 12 \\pi t ) ,$$ where $$t$$ is measured in seconds. Find the amplitude, period, and frequency of this displacement.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, find the amplitude, period, and frequency of the given function.",
+        "Question": "The displacement $$h ( t )$$ in centimeters of a mass suspended by a spring is modeled by the function $$h ( t ) = 4 \\cos{} ( \\frac{\\pi}{2} t ) ,$$ where $$t$$ is measured in seconds. Find the amplitude, period, and frequency of this displacement.",
+        "Image Links": [],
+        "Answer": "Amplitude: 4, period: $$4 ,$$ frequency: $$\\frac{1}{4}$$ Hz",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, construct an equation that models the described behavior.",
+        "Question": "The displacement $$h ( t ) ,$$ in centimeters, of a mass suspended by a spring is modeled by the function $$h ( t ) = -5 \\cos{} ( 60 \\pi t ) ,$$ where $$t$$ is measured in seconds. Find the amplitude, period, and frequency of this displacement.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, construct an equation that models the described behavior.",
+        "Question": "A deer population oscillates 19 above and below average during the year, reaching the lowest value in January. The average population starts at 800 deer and increases by 160 each year. Find a function that models the population, $$P ,$$ in terms of months since January, $$t .$$",
+        "Image Links": [],
+        "Answer": "$$P ( t ) = - 19 \\cos{} ( \\frac{\\pi}{6} t ) + 800 + \\frac{160}{12} t P ( t ) = - 19 \\cos{} ( \\frac{\\pi}{6} t ) + 800 + \\frac{40}{3} t$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, construct an equation that models the described behavior.",
+        "Question": "A rabbit population oscillates 15 above and below average during the year, reaching the lowest value in January. The average population starts at 650 rabbits and increases by 110 each year. Find a function that models the population, $$P ,$$ in terms of months since January, $$t .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, construct an equation that models the described behavior.",
+        "Question": "A muskrat population oscillates 33 above and below average during the year, reaching the lowest value in January. The average population starts at 900 muskrats and increases by 7% each month. Find a function that models the population, $$P ,$$ in terms of months since January, $$t .$$",
+        "Image Links": [],
+        "Answer": "$$P ( t ) = - 33 \\cos{} ( \\frac{\\pi}{6} t ) + 900 + ( 1.07 )^{t}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, construct an equation that models the described behavior.",
+        "Question": "A fish population oscillates 40 above and below average during the year, reaching the lowest value in January. The average population starts at 800 fish and increases by 4% each month. Find a function that models the population, $$P ,$$ in terms of months since January, $$t .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, construct an equation that models the described behavior.",
+        "Question": "A spring attached to the ceiling is pulled 10 cm down from equilibrium and released. The amplitude decreases by 15% each second. The spring oscillates 18 times each second. Find a function that models the distance, $$D ,$$ the end of the spring is from equilibrium in terms of seconds, $$t ,$$ since the spring was released.",
+        "Image Links": [],
+        "Answer": "$$D ( t ) = 10 ( 0.85 )^{t} \\cos{} ( 36 \\pi t )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, construct an equation that models the described behavior.",
+        "Question": "A spring attached to the ceiling is pulled 7 cm down from equilibrium and released. The amplitude decreases by 11% each second. The spring oscillates 20 times each second. Find a function that models the distance, $$D ,$$ the end of the spring is from equilibrium in terms of seconds, $$t ,$$ since the spring was released.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, construct an equation that models the described behavior.",
+        "Question": "A spring attached to the ceiling is pulled 17 cm down from equilibrium and released. After 3 seconds, the amplitude has decreased to 13 cm. The spring oscillates 14 times each second. Find a function that models the distance, $$D ,$$ the end of the spring is from equilibrium in terms of seconds, $$t ,$$ since the spring was released.",
+        "Image Links": [],
+        "Answer": "$$D ( t ) = 17 ( 0.9145 )^{t} \\cos{} ( 28 \\pi t )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, construct an equation that models the described behavior.",
+        "Question": "A spring attached to the ceiling is pulled 19 cm down from equilibrium and released. After 4 seconds, the amplitude has decreased to 14 cm. The spring oscillates 13 times each second. Find a function that models the distance, $$D ,$$ the end of the spring is from equilibrium in terms of seconds, $$t ,$$ since the spring was released.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, create a function modeling the described behavior. Then, calculate the desired result using a calculator.",
+        "Question": "A certain lake currently has an average trout population of 20,000. The population naturally oscillates above and below average by 2,000 every year. This year, the lake was opened to fishermen. If fishermen catch 3,000 fish every year, how long will it take for the lake to have no more trout?",
+        "Image Links": [],
+        "Answer": "6 years",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, create a function modeling the described behavior. Then, calculate the desired result using a calculator.",
+        "Question": "Whitefish populations are currently at 500 in a lake. The population naturally oscillates above and below by 25 each year. If humans overfish, taking 4% of the population every year, in how many years will the lake first have fewer than 200 whitefish?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, create a function modeling the described behavior. Then, calculate the desired result using a calculator.",
+        "Question": "A spring attached to a ceiling is pulled down 11 cm from equilibrium and released. After 2 seconds, the amplitude has decreased to 6 cm. The spring oscillates 8 times each second. Find when the spring first comes between $$- 0.1$$ and $$0.1 \\text{\u00a0cm,}$$ effectively at rest.",
+        "Image Links": [],
+        "Answer": "15.4 seconds",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, create a function modeling the described behavior. Then, calculate the desired result using a calculator.",
+        "Question": "A spring attached to a ceiling is pulled down 21 cm from equilibrium and released. After 6 seconds, the amplitude has decreased to 4 cm. The spring oscillates 20 times each second. Find when the spring first comes between $$- 0.1$$ and $$0.1 \\text{\u00a0cm,}$$ effectively at rest.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, create a function modeling the described behavior. Then, calculate the desired result using a calculator.",
+        "Question": "Two springs are pulled down from the ceiling and released at the same time. The first spring, which oscillates 8 times per second, was initially pulled down 32 cm from equilibrium, and the amplitude decreases by 50% each second. The second spring, oscillating 18 times per second, was initially pulled down 15 cm from equilibrium and after 4 seconds has an amplitude of 2 cm. Which spring comes to rest first, and at what time? Consider \u201crest\u201d as an amplitude less than $$0.1 \\text{\u00a0cm} \\text{.}$$",
+        "Image Links": [],
+        "Answer": "Spring 2 comes to rest first after 7.3 seconds.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, create a function modeling the described behavior. Then, calculate the desired result using a calculator.",
+        "Question": "Two springs are pulled down from the ceiling and released at the same time. The first spring, which oscillates 14 times per second, was initially pulled down 2 cm from equilibrium, and the amplitude decreases by 8% each second. The second spring, oscillating 22 times per second, was initially pulled down 10 cm from equilibrium and after 3 seconds has an amplitude of 2 cm. Which spring comes to rest first, and at what time? Consider \u201crest\u201d as an amplitude less than $$0.1 \\text{\u00a0cm} \\text{.}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "A plane flies 1 hour at 150 mph at $$22^{\\vysmwhtcircle}$$ east of north, then continues to fly for 1.5 hours at 120 mph, this time at a bearing of $$112^{\\vysmwhtcircle}$$ east of north. Find the total distance from the starting point and the direct angle flown north of east.",
+        "Image Links": [],
+        "Answer": "234.3 miles, at 72.2\u00b0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "A plane flies 2 hours at 200 mph at a bearing of $$60^{\\vysmwhtcircle} ,$$ then continues to fly for 1.5 hours at the same speed, this time at a bearing of $$150^{\\vysmwhtcircle} .$$ Find the distance from the starting point and the bearing from the starting point. Hint: bearing is measured counterclockwise from north.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, find a function of the form $$y = a b^{x} + c \\sin{} ( \\frac{\\pi}{2} x )$$ that fits the given data.",
+        "Question": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\n$$x$$ & 0 & 1 & 2 & 3 \\\\ \\hline\n$$y$$ & 6 & 29 & 96 & 379 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "$$y = 6 ( 4 )^{x} + 5 \\sin{} ( \\frac{\\pi}{2} x )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, find a function of the form $$y = a b^{x} + c \\sin{} ( \\frac{\\pi}{2} x )$$ that fits the given data.",
+        "Question": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\n$$x$$ & 0 & 1 & 2 & 3 \\\\ \\hline\n$$y$$ & 6 & 34 & 150 & 746 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, find a function of the form $$y = a b^{x} + c \\sin{} ( \\frac{\\pi}{2} x )$$ that fits the given data.",
+        "Question": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\n$$x$$ & 0 & 1 & 2 & 3 \\\\ \\hline\n$$y$$ & 4 & 0 & 16 & -40 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "$$y = 4 ( - 2 )^{x} + 8 \\sin{} ( \\frac{\\pi}{2} x )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, find a function of the form $$y = a b^{x} \\cos{} ( \\frac{\\pi}{2} x ) + c$$ that fits the given data.",
+        "Question": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\n$$x$$ & 0 & 1 & 2 & 3 \\\\ \\hline\n$$y$$ & 11 & 3 & 1 & 3 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, find a function of the form $$y = a b^{x} \\cos{} ( \\frac{\\pi}{2} x ) + c$$ that fits the given data.",
+        "Question": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\n$$x$$ & 0 & 1 & 2 & 3 \\\\ \\hline\n$$y$$ & 4 & 1 & -11 & 1 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "$$y = 3 ( 2 )^{x} \\cos{} ( \\frac{\\pi}{2 x} ) + 1$$",
+        "Answer Image Links": []
+    }
+]

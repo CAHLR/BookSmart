@@ -1,0 +1,44 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "A coordinate grid has been superimposed over the quadratic path of a basketball in Figure 8 . Assume that the point (-4, 7) is the highest point of the basketball\u2019s trajectory. Find an equation for the path of the ball. Does the shooter make the basket? Figure 8 (credit: modification of work by Dan Meyer)",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/46908d6bcd00f4f354ba505fa2db9eff99f98234"
+        ],
+        "Answer": "The path passes through the origin and has vertex at $$( - 4 , 7 ) ,$$ so $$( h ) x = - \\frac{7}{16} ( x + 4 )^{2} + 7.$$ To make the shot, $$h ( - 7.5 )$$ would need to be about 4 but $$h ( - 7.5 ) \\approx 1.64 ;$$ he doesn\u2019t make it.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "Given the equation $$g ( x ) = 13 + x^{2} - 6 x ,$$ write the equation in general form and then in standard form.",
+        "Image Links": [],
+        "Answer": "$$g ( x ) = x^{2} - 6 x + 13$$ in general form; $$g ( x ) = ( x - 3 )^{2} + 4$$ in standard form",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "Find the domain and range of $$f ( x ) = 2 ( x - \\frac{4}{7} )^{2} + \\frac{8}{11} .$$",
+        "Image Links": [],
+        "Answer": "The domain is all real numbers. The range is $$f ( x ) \\geq \\frac{8}{11} ,$$ or $$[ \\frac{8}{11} , \\infty ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "In a separate Try It , we found the standard and general form for the function $$g ( x ) = 13 + x^{2} - 6 x .$$ Now find the y - and $$x \\text{-}$$ intercepts (if any).",
+        "Image Links": [],
+        "Answer": "y -intercept at (0, 13), No $$x \\text{-}$$ intercepts",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #5",
+        "Problem Statement": "",
+        "Question": "A rock is thrown upward from the top of a 112-foot high cliff overlooking the ocean at a speed of 96 feet per second. The rock\u2019s height above ocean can be modeled by the equation $$H ( t ) = - 16 t^{2} + 96 t + 112.$$ \u24d0 When does the rock reach the maximum height? \u24d1 What is the maximum height of the rock? \u24d2 When does the rock hit the ocean?",
+        "Image Links": [],
+        "Answer": "\u24d0 3 seconds \u24d1 256 feet \u24d2 7 seconds",
+        "Answer Image Links": []
+    }
+]

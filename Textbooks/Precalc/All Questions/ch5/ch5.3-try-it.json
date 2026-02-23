@@ -1,0 +1,86 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "The point $$( \\frac{\\sqrt{2}}{2} , - \\frac{\\sqrt{2}}{2} )$$ is on the unit circle, as shown in Figure 3 . Find $$\\sin{t} , \\cos{} t , \\tan{} t , \\sec{} t , \\csc{} t ,$$ and $$\\cot{t} .$$ Figure 3",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/75a83d8d0e8998423a55aa835a70bbc8d2d1ad0d"
+        ],
+        "Answer": "$$\\sin{t} = - \\frac{\\sqrt{2}}{2}$$ , $$\\cos{t} = \\frac{\\sqrt{2}}{2}$$ , $$\\tan{t} = - 1$$ , $$\\sec{t} = \\sqrt{2}$$ , $$\\csc{t} = - \\sqrt{2}$$ , $$\\cot{t} = - 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "Find $$\\sin{t} , \\cos{} t , \\tan{} t , \\sec{} t , \\csc{} t ,$$ and $$\\cot{t}$$ when $$t = \\frac{\\pi}{3} .$$",
+        "Image Links": [],
+        "Answer": "$$\\sin{\\frac{\\pi}{3}} = \\frac{\\sqrt{3}}{2}$$ , $$\\cos{\\frac{\\pi}{3}} = \\frac{1}{2}$$ , $$\\tan{\\frac{\\pi}{3}} = \\sqrt{3}$$ , $$\\sec{\\frac{\\pi}{3}} = 2$$ , $$\\csc{\\frac{\\pi}{3}} = \\frac{2 \\sqrt{3}}{3}$$ , $$\\cot{\\frac{\\pi}{3}} = \\frac{\\sqrt{3}}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "Use reference angles to find all six trigonometric functions of $$- \\frac{7 \\pi}{4} .$$",
+        "Image Links": [],
+        "Answer": "$$\\sin{( \\frac{- 7 \\pi}{4} )} = \\frac{\\sqrt{2}}{2} , \\cos{} ( \\frac{- 7 \\pi}{4} ) = \\frac{\\sqrt{2}}{2} , \\tan{} ( \\frac{- 7 \\pi}{4} ) = 1 ,$$ $$\\sec{( \\frac{- 7 \\pi}{4} )} = \\sqrt{2} , \\csc{} ( \\frac{- 7 \\pi}{4} ) = \\sqrt{2} , \\cot{} ( \\frac{- 7 \\pi}{4} ) = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "If the cotangent of angle $$t$$ is $$\\sqrt{3} ,$$ what is the cotangent of $$- t ?$$",
+        "Image Links": [],
+        "Answer": "$$- \\sqrt{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #5",
+        "Problem Statement": "",
+        "Question": "Evaluate $$\\text{csc} ( \\frac{7 \\pi}{6} ) .$$",
+        "Image Links": [],
+        "Answer": "$$- 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #6",
+        "Problem Statement": "",
+        "Question": "Simplify $$( \\tan{} t ) ( \\cos{} t ) .$$",
+        "Image Links": [],
+        "Answer": "$$\\sin{t}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #7",
+        "Problem Statement": "",
+        "Question": "If $$\\sec{(} t ) = - \\frac{17}{8}$$ and $$0 < t < \\pi ,$$ find the values of the other five functions.",
+        "Image Links": [],
+        "Answer": "$$\\cos{t} = - \\frac{8}{17} , \\sin{} t = \\frac{15}{17} , \\tan{} t = - \\frac{15}{8}$$ $$\\csc{t} = \\frac{17}{15} , \\cot{} t = - \\frac{8}{15}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #8",
+        "Problem Statement": "",
+        "Question": "Find the values of the six trigonometric functions of angle $$t$$ based on Figure 10 . Figure 10",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/bc0dbc9d113217bbe2847c6ab511891784829a00"
+        ],
+        "Answer": "$$sin t = - 1 , cos t = 0 , tan t = \\text{Undefined} \\\\ sec t = \\textrm{ }\\text{Undefined}, csc t = - 1 , cot t = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #9",
+        "Problem Statement": "",
+        "Question": "If $$\\sin{( t )} = \\frac{\\sqrt{2}}{2}$$ and $$\\cos{( t )} = \\frac{\\sqrt{2}}{2} ,$$ find $$\\text{sec} ( t ) , \\text{csc} ( t ) , \\text{tan} ( t ) , \\text{\u00a0and\u00a0cot} ( t ) .$$",
+        "Image Links": [],
+        "Answer": "$$\\sec{t} = \\sqrt{2} , \\csc{} t = \\sqrt{2} , \\tan{} t = 1 , \\cot{} t = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #10",
+        "Problem Statement": "",
+        "Question": "Evaluate the cotangent of $$- \\frac{\\pi}{8} .$$",
+        "Image Links": [],
+        "Answer": "$$\\approx - 2.414$$",
+        "Answer Image Links": []
+    }
+]

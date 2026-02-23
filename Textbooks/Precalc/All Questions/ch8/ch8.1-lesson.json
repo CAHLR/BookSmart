@@ -1,0 +1,692 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Describe the altitude of a triangle.",
+        "Image Links": [],
+        "Answer": "The altitude extends from any vertex to the opposite side or to the line containing the opposite side at a 90\u00b0 angle.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Compare right triangles and oblique triangles.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "When can you use the Law of Sines to find a missing angle?",
+        "Image Links": [],
+        "Answer": "When the known values are the side opposite the missing angle and another side and its opposite angle.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "In the Law of Sines, what is the relationship between the angle in the numerator and the side in the denominator?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What type of triangle results in an ambiguous case?",
+        "Image Links": [],
+        "Answer": "A triangle with two given sides and a non-included angle.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, assume $$\\alpha$$ is opposite side $$a , \\beta$$ is opposite side $$b ,$$ and $$\\gamma$$ is opposite side $$c .$$ Solve each triangle, if possible. Round each answer to the nearest tenth.",
+        "Question": "$$\\alpha = 43\u00b0 , \\gamma = 69\u00b0 , a = 20$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, assume $$\\alpha$$ is opposite side $$a , \\beta$$ is opposite side $$b ,$$ and $$\\gamma$$ is opposite side $$c .$$ Solve each triangle, if possible. Round each answer to the nearest tenth.",
+        "Question": "$$\\alpha = 35\u00b0 , \\gamma = 73\u00b0 , c = 20$$",
+        "Image Links": [],
+        "Answer": "$$\\beta = 72\u00b0 , a \\approx 12.0 , b \\approx 19.9$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, assume $$\\alpha$$ is opposite side $$a , \\beta$$ is opposite side $$b ,$$ and $$\\gamma$$ is opposite side $$c .$$ Solve each triangle, if possible. Round each answer to the nearest tenth.",
+        "Question": "$$\\alpha = 60\u00b0 ,$$ $$\\beta = 60\u00b0 ,$$ $$\\gamma = 60\u00b0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, assume $$\\alpha$$ is opposite side $$a , \\beta$$ is opposite side $$b ,$$ and $$\\gamma$$ is opposite side $$c .$$ Solve each triangle, if possible. Round each answer to the nearest tenth.",
+        "Question": "$$a = 4 ,$$ $$\\alpha = 60\u00b0 ,$$ $$\\beta = 100\u00b0$$",
+        "Image Links": [],
+        "Answer": "$$\\gamma = 20\u00b0 , b \\approx 4.5 , c \\approx 1.6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, assume $$\\alpha$$ is opposite side $$a , \\beta$$ is opposite side $$b ,$$ and $$\\gamma$$ is opposite side $$c .$$ Solve each triangle, if possible. Round each answer to the nearest tenth.",
+        "Question": "$$b = 10 ,$$ $$\\beta = 95\u00b0 , \\gamma = 30\u00b0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Law of Sines to solve for the missing side for each oblique triangle. Round each answer to the nearest hundredth. Assume that angle $$A$$ is opposite side $$a ,$$ angle $$B$$ is opposite side $$b ,$$ and angle $$C$$ is opposite side $$c .$$",
+        "Question": "Find side $$b$$ when $$A = 37\u00b0 ,$$ $$B = 49\u00b0 ,$$ $$c = 5.$$",
+        "Image Links": [],
+        "Answer": "$$b \\approx 3.78$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Law of Sines to solve for the missing side for each oblique triangle. Round each answer to the nearest hundredth. Assume that angle $$A$$ is opposite side $$a ,$$ angle $$B$$ is opposite side $$b ,$$ and angle $$C$$ is opposite side $$c .$$",
+        "Question": "Find side $$a$$ when $$A = 132\u00b0 , C = 23\u00b0 , b = 10.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Law of Sines to solve for the missing side for each oblique triangle. Round each answer to the nearest hundredth. Assume that angle $$A$$ is opposite side $$a ,$$ angle $$B$$ is opposite side $$b ,$$ and angle $$C$$ is opposite side $$c .$$",
+        "Question": "Find side $$c$$ when $$B = 37\u00b0 , C = 21\u00b0 ,$$ $$b = 23.$$",
+        "Image Links": [],
+        "Answer": "$$c \\approx 13.70$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, assume $$\\alpha$$ is opposite side $$a , \\beta$$ is opposite side $$b ,$$ and $$\\gamma$$ is opposite side $$c .$$ Determine whether there is no triangle, one triangle, or two triangles. Then solve each triangle, if possible. Round each answer to the nearest tenth.",
+        "Question": "$$\\alpha = 119\u00b0 , a = 14 , b = 26$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, assume $$\\alpha$$ is opposite side $$a , \\beta$$ is opposite side $$b ,$$ and $$\\gamma$$ is opposite side $$c .$$ Determine whether there is no triangle, one triangle, or two triangles. Then solve each triangle, if possible. Round each answer to the nearest tenth.",
+        "Question": "$$\\gamma = 113\u00b0 , b = 10 , c = 32$$",
+        "Image Links": [],
+        "Answer": "one triangle, $$\\alpha \\approx 50.3\u00b0 , \\beta \\approx 16.7\u00b0 , a \\approx 26.7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, assume $$\\alpha$$ is opposite side $$a , \\beta$$ is opposite side $$b ,$$ and $$\\gamma$$ is opposite side $$c .$$ Determine whether there is no triangle, one triangle, or two triangles. Then solve each triangle, if possible. Round each answer to the nearest tenth.",
+        "Question": "$$b = 3.5 ,$$ $$c = 5.3 ,$$ $$\\gamma = 80\u00b0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, assume $$\\alpha$$ is opposite side $$a , \\beta$$ is opposite side $$b ,$$ and $$\\gamma$$ is opposite side $$c .$$ Determine whether there is no triangle, one triangle, or two triangles. Then solve each triangle, if possible. Round each answer to the nearest tenth.",
+        "Question": "$$a = 12 ,$$ $$c = 17 ,$$ $$\\alpha = 35\u00b0$$",
+        "Image Links": [],
+        "Answer": "two triangles, $$\\gamma \\approx 54.3\u00b0 , \\beta \\approx 90.7\u00b0 , b \\approx 20.9$$ or $$\\gamma^{\\prime} \\approx 125.7\u00b0 , \\beta^{\\prime} \\approx 19.3\u00b0 , b^{\\prime} \\approx 6.9$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, assume $$\\alpha$$ is opposite side $$a , \\beta$$ is opposite side $$b ,$$ and $$\\gamma$$ is opposite side $$c .$$ Determine whether there is no triangle, one triangle, or two triangles. Then solve each triangle, if possible. Round each answer to the nearest tenth.",
+        "Question": "$$a = 20.5 ,$$ $$b = 35.0 ,$$ $$\\beta = 25\u00b0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, assume $$\\alpha$$ is opposite side $$a , \\beta$$ is opposite side $$b ,$$ and $$\\gamma$$ is opposite side $$c .$$ Determine whether there is no triangle, one triangle, or two triangles. Then solve each triangle, if possible. Round each answer to the nearest tenth.",
+        "Question": "$$a = 7 ,$$ $$c = 9 ,$$ $$\\alpha = 43\u00b0$$",
+        "Image Links": [],
+        "Answer": "two triangles, $$\\beta \\approx 75.7\u00b0 , \\gamma \\approx 61.3\u00b0 , b \\approx 9.9$$ or $$\\beta^{\\prime} \\approx 18.3\u00b0 , \\gamma^{\\prime} \\approx 118.7\u00b0 , b^{\\prime} \\approx 3.2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, assume $$\\alpha$$ is opposite side $$a , \\beta$$ is opposite side $$b ,$$ and $$\\gamma$$ is opposite side $$c .$$ Determine whether there is no triangle, one triangle, or two triangles. Then solve each triangle, if possible. Round each answer to the nearest tenth.",
+        "Question": "$$a = 7 , b = 3 , \\beta = 24\u00b0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, assume $$\\alpha$$ is opposite side $$a , \\beta$$ is opposite side $$b ,$$ and $$\\gamma$$ is opposite side $$c .$$ Determine whether there is no triangle, one triangle, or two triangles. Then solve each triangle, if possible. Round each answer to the nearest tenth.",
+        "Question": "$$b = 13 , c = 5 , \\gamma = 10\u00b0$$",
+        "Image Links": [],
+        "Answer": "two triangles, $$\\alpha \\approx 143.2\u00b0 , \\beta \\approx 26.8\u00b0 , a \\approx 17.3$$ or $$\\alpha^{\\prime} \\approx 16.8\u00b0 , \\beta^{\\prime} \\approx 153.2\u00b0 , a^{\\prime} \\approx 8.3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, assume $$\\alpha$$ is opposite side $$a , \\beta$$ is opposite side $$b ,$$ and $$\\gamma$$ is opposite side $$c .$$ Determine whether there is no triangle, one triangle, or two triangles. Then solve each triangle, if possible. Round each answer to the nearest tenth.",
+        "Question": "$$a = 2.3 , c = 1.8 , \\gamma = 28\u00b0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, assume $$\\alpha$$ is opposite side $$a , \\beta$$ is opposite side $$b ,$$ and $$\\gamma$$ is opposite side $$c .$$ Determine whether there is no triangle, one triangle, or two triangles. Then solve each triangle, if possible. Round each answer to the nearest tenth.",
+        "Question": "$$\\beta = 119\u00b0 , b = 8.2 , a = 11.3$$",
+        "Image Links": [],
+        "Answer": "no triangle possible",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Law of Sines to solve, if possible, the missing side or angle for each triangle or triangles in the ambiguous case. Round each answer to the nearest tenth.",
+        "Question": "Find angle $$A$$ when $$a = 24 , b = 5 , B = 22\u00b0.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Law of Sines to solve, if possible, the missing side or angle for each triangle or triangles in the ambiguous case. Round each answer to the nearest tenth.",
+        "Question": "Find angle $$A$$ when $$a = 13 , b = 6 , B = 20\u00b0.$$",
+        "Image Links": [],
+        "Answer": "$$A \\approx 47.8\u00b0$$ or $$A^{\\prime} \\approx 132.2\u00b0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Law of Sines to solve, if possible, the missing side or angle for each triangle or triangles in the ambiguous case. Round each answer to the nearest tenth.",
+        "Question": "Find angle $$B$$ when $$A = 12\u00b0 , a = 2 , b = 9.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the area of the triangle with the given measurements. Round each answer to the nearest tenth.",
+        "Question": "$$a = 5 , c = 6 , \\beta = 35\u00b0$$",
+        "Image Links": [],
+        "Answer": "$$8.6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the area of the triangle with the given measurements. Round each answer to the nearest tenth.",
+        "Question": "$$b = 11 , c = 8 , \\alpha = 28\u00b0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the area of the triangle with the given measurements. Round each answer to the nearest tenth.",
+        "Question": "$$a = 32 , b = 24 , \\gamma = 75\u00b0$$",
+        "Image Links": [],
+        "Answer": "$$370.9$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the area of the triangle with the given measurements. Round each answer to the nearest tenth.",
+        "Question": "$$a = 7.2 , b = 4.5 , \\gamma = 43\u00b0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the length of side $$x .$$ Round to the nearest tenth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/431254114bd65348fb50de35414cce63d9cfad68"
+        ],
+        "Answer": "$$12.3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the length of side $$x .$$ Round to the nearest tenth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0a5c06694ce7d1046b57136c6522d21036721409"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the length of side $$x .$$ Round to the nearest tenth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/061c37d6257d5039014b45d8cd87673e6d30083c"
+        ],
+        "Answer": "$$12.2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the length of side $$x .$$ Round to the nearest tenth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a884b4731fe5deaa92796238357928d472e3d7c4"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the length of side $$x .$$ Round to the nearest tenth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2292a02d85baff2a37147e0c73d35b66e2b070f8"
+        ],
+        "Answer": "$$16.0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the length of side $$x .$$ Round to the nearest tenth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c5532a7c014b4cbb5d7cce980cc9e52928d77cf5"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the measure of angle $$x ,$$ if possible. Round to the nearest tenth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/61c5eb0ed10eb23550420da417b59b184432b308"
+        ],
+        "Answer": "$$29.7\u00b0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the measure of angle $$x ,$$ if possible. Round to the nearest tenth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/452b4a18bbc406523999b318997730acbfee845f"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the measure of angle $$x ,$$ if possible. Round to the nearest tenth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/dc53b9fa79db838f7db8c0f92dbe8294b926d276"
+        ],
+        "Answer": "$$x = 76.9\u00b0 \\text{or} x = 103.1\u00b0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the measure of angle $$x ,$$ if possible. Round to the nearest tenth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/363dadde5680aed4052c9849f08b13db1a72d6cd"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the measure of angle $$x ,$$ if possible. Round to the nearest tenth.",
+        "Question": "Notice that $$x$$ is an obtuse angle.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8388edb9c34827ad6e125b9f77cce4fb90f881a0"
+        ],
+        "Answer": "$$110.6\u00b0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the measure of angle $$x ,$$ if possible. Round to the nearest tenth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/425d0e4c77916e350662ab0acc8a0f14276d7dc1"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercise, solve the triangle. Round each answer to the nearest tenth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ffc475b600a37969706c35dc3b268d1eeec81398"
+        ],
+        "Answer": "$$A \\approx 39.4 , C \\approx 47.6 , B C \\approx 20.7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercise, solve the triangle. Round each answer to the nearest tenth.",
+        "Question": "For the following exercises, find the area of each triangle. Round each answer to the nearest tenth.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ea7cb7f5176dc59c848c4f3dcdc22834ce2a44ef"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercise, solve the triangle. Round each answer to the nearest tenth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0d588e3b0160673d56eed1f58aa2c5ba746c6eeb"
+        ],
+        "Answer": "$$57.1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercise, solve the triangle. Round each answer to the nearest tenth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/34434c2a8afa5adfa5e793700fe3af982734066d"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercise, solve the triangle. Round each answer to the nearest tenth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/969bb02c5dbc4e9c1a623de37c3c03bb9503d02b"
+        ],
+        "Answer": "$$42.0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercise, solve the triangle. Round each answer to the nearest tenth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5637a1ed64d191ad60b21faad4051030ef9693e6"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercise, solve the triangle. Round each answer to the nearest tenth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/fefba11107db1909dd1454f26d9e403428afe979"
+        ],
+        "Answer": "$$430.2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Find the radius of the circle in Figure 18 . Round to the nearest tenth. Figure 18",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/36e77277c5dd8c6994c7b9fb35fd444d5ff140e8"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Find the diameter of the circle in Figure 19 . Round to the nearest tenth. Figure 19",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3bd3ac869d250eef28c57b990c6f3b55dd021303"
+        ],
+        "Answer": "$$10.1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Find $$m \\angle A D C$$ in Figure 20 . Round to the nearest tenth. Figure 20",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8e7e763e383999db1ba0f238421adc5093533512"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Find $$A D$$ in Figure 21 . Round to the nearest tenth. Figure 21",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ebf5eb96f0f814243fdb8fd457f9fbac8f8e7ae7"
+        ],
+        "Answer": "$$A D \\approx 13.8$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Solve both triangles in Figure 22 . Round each answer to the nearest tenth. Figure 22",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/862c598447515a8b293e744e967fe0ac35663b7f"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Find $$A B$$ in the parallelogram shown in Figure 23 . Figure 23",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b89c6a9ac9708e88f896e67af409b7adb4812235"
+        ],
+        "Answer": "$$A B \\approx 2.8$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Solve the triangle in Figure 24 . (Hint: Draw a perpendicular from $$H$$ to $$J K ).$$ Round each answer to the nearest tenth. Figure 24",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0c42ae10e412ecf171b63a948c0198f20b9cdc57"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Solve the triangle in Figure 25 . (Hint: Draw a perpendicular from $$N$$ to $$L M ).$$ Round each answer to the nearest tenth. Figure 25",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8b634ab76760cc984d55249454f20f55b4b2d189"
+        ],
+        "Answer": "$$L \\approx 49.7 , N \\approx 56.3 , L N \\approx 5.8$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "In Figure 26 , $$A B C D$$ is not a parallelogram. $$\\angle m$$ is obtuse. Solve both triangles. Round each answer to the nearest tenth. Figure 26",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e0d5c335ae73a210afc7767599fc295764dcd354"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A pole leans away from the sun at an angle of $$7\u00b0$$ to the vertical, as shown in Figure 27 . When the elevation of the sun is $$55\u00b0 ,$$ the pole casts a shadow 42 feet long on the level ground. How long is the pole? Round the answer to the nearest tenth. Figure 27",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9742ea1db3aea678aef9c1ff08e206173defe3b8"
+        ],
+        "Answer": "51.4 feet",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "To determine how far a boat is from shore, two radar stations 500 feet apart find the angles out to the boat, as shown in Figure 28 . Determine the distance of the boat from station $$A$$ and the distance of the boat from shore. Round your answers to the nearest whole foot. Figure 28",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5e2819ee0c7861b2562026a9e3c358a535feccda"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Figure 29 shows a satellite orbiting Earth. The satellite passes directly over two tracking stations $$A$$ and $$B ,$$ which are 69\u00a0miles apart. When the satellite is on one side of the two stations, the angles of elevation at $$A$$ and $$B$$ are measured to be $$83.9\u00b0$$ and $$86.2\u00b0 ,$$ respectively. How far is the satellite from station $$A$$ and how high is the satellite above the ground? Round answers to the nearest whole mile. Figure 29",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/36a3d3ea94056e3a1773543b7740e35264da811e"
+        ],
+        "Answer": "The distance from the satellite to station $$A$$ is approximately 1716 miles. The satellite is approximately 1706 miles above the ground.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A communications tower is located at the top of a steep hill, as shown in Figure 30 . The angle of inclination of the hill is $$67\u00b0 .$$ A guy wire is to be attached to the top of the tower and to the ground, 165 meters downhill from the base of the tower. The angle formed by the guy wire and the hill is $$16\u00b0.$$ Find the length of the cable required for the guy wire to the nearest whole meter. Figure 30",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/cafb6d1a396ac988ab784fd1ffc7e3d8ed8c4c8b"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "The roof of a house is at a $$20\u00b0$$ angle. An 8-foot solar panel is to be mounted on the roof and should be angled $$38\u00b0$$ relative to the horizontal for optimal results. (See Figure 31 ). How long does the vertical support holding up the back of the panel need to be? Round to the nearest tenth. Figure 31",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b2a2f8a1529e614c0ceed0859d9254f82168c0f7"
+        ],
+        "Answer": "2.6\u00a0ft",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Similar to an angle of elevation, an angle of depression is the acute angle formed by a horizontal line and an observer\u2019s line of sight to an object below the horizontal. A pilot is flying over a straight highway. He determines the angles of depression to two mileposts, 6.6 km apart, to be $$37\u00b0$$ and $$44\u00b0 ,$$ as shown in Figure 32 . Find the distance of the plane from point $$A$$ to the nearest tenth of a kilometer. Figure 32",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8aedef49f23fab6b8ba0ec4ef2335035c1536b26"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A pilot is flying over a straight highway. He determines the angles of depression to two mileposts, 4.3 km apart, to be 32\u00b0 and 56\u00b0, as shown in Figure 33 . Find the distance of the plane from point $$A$$ to the nearest tenth of a kilometer. Figure 33",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/186b1a312ee2e33717c345beb20740948d31786e"
+        ],
+        "Answer": "5.6\u00a0km",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "In order to estimate the height of a building, two students stand at a certain distance from the building at street level. From this point, they find the angle of elevation from the street to the top of the building to be 39\u00b0. They then move 300 feet closer to the building and find the angle of elevation to be 50\u00b0. Assuming that the street is level, estimate the height of the building to the nearest foot.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "In order to estimate the height of a building, two students stand at a certain distance from the building at street level. From this point, they find the angle of elevation from the street to the top of the building to be 35\u00b0. They then move 250 feet closer to the building and find the angle of elevation to be 53\u00b0. Assuming that the street is level, estimate the height of the building to the nearest foot.",
+        "Image Links": [],
+        "Answer": "371\u00a0ft",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Points $$A$$ and $$B$$ are on opposite sides of a lake. Point $$C$$ is 97 meters from $$A .$$ The measure of angle $$B A C$$ is determined to be 101\u00b0, and the measure of angle $$A C B$$ is determined to be 53\u00b0. What is the distance from $$A$$ to $$B ,$$ rounded to the nearest whole meter?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A man and a woman standing $$3 \\frac{1}{2}$$ miles apart spot a hot air balloon at the same time. If the angle of elevation from the man to the balloon is 27\u00b0, and the angle of elevation from the woman to the balloon is 41\u00b0, find the altitude of the balloon to the nearest foot.",
+        "Image Links": [],
+        "Answer": "5936\u00a0ft",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Two search teams spot a stranded climber on a mountain. The first search team is 0.5 miles from the second search team, and both teams are at an altitude of 1 mile. The angle of elevation from the first search team to the stranded climber is 15\u00b0. The angle of elevation from the second search team to the climber is 22\u00b0. What is the altitude of the climber? Round to the nearest tenth of a mile.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A street light is mounted on a pole. A 6-foot-tall man is standing on the street a short distance from the pole, casting a shadow. The angle of elevation from the tip of the man\u2019s shadow to the top of his head of 28\u00b0. A 6-foot-tall woman is standing on the same street on the opposite side of the pole from the man. The angle of elevation from the tip of her shadow to the top of her head is 28\u00b0. If the man and woman are 20 feet apart, how far is the street light from the tip of the shadow of each person? Round the distance to the nearest tenth of a foot.",
+        "Image Links": [],
+        "Answer": "24.1\u00a0ft",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Three cities, $$A , B ,$$ and $$C ,$$ are located so that city $$A$$ is due east of city $$B .$$ If city $$C$$ is located 35\u00b0 west of north from city $$B$$ and is 100 miles from city $$A$$ and 70 miles from city $$B ,$$ how far is city $$A$$ from city $$B ?$$ Round the distance to the nearest tenth of a mile.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Two streets meet at an 80\u00b0 angle. At the corner, a park is being built in the shape of a triangle. Find the area of the park if, along one road, the park measures 180 feet, and along the other road, the park measures 215 feet.",
+        "Image Links": [],
+        "Answer": "19,056\u00a0ft 2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Brian\u2019s house is on a corner lot. Find the area of the front yard if the edges measure 40 and 56 feet, as shown in Figure 34 . Figure 34",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/bc68848e8a654c57762241ea85092efa1e17b776"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "The Bermuda triangle is a region of the Atlantic Ocean that connects Bermuda, Florida, and Puerto Rico. Find the area of the Bermuda triangle if the distance from Florida to Bermuda is 1030 miles, the distance from Puerto Rico to Bermuda is 980 miles, and the angle created by the two distances is 62\u00b0.",
+        "Image Links": [],
+        "Answer": "445,624\u00a0square\u00a0miles",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A yield sign measures 30 inches on all three sides. What is the area of the sign?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Naomi bought a dining table whose top is in the shape of a triangle. Find the area of the table top if two of the sides measure 4 feet and 4.5 feet, and the smaller angles measure 32\u00b0 and 42\u00b0, as shown in Figure 35 . Figure 35",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/236f7170867d35a90481e04088a5e7cf2c2a84d8"
+        ],
+        "Answer": "8.65\u00a0ft 2",
+        "Answer Image Links": []
+    }
+]

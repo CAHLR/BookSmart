@@ -1,0 +1,78 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "Which functions are power functions? $$\\left .\\begin{matrix}{a}f ( x ) = 2 x^{2} \\cdot 4 x^{3} \\\\ g ( x ) = - x^{5} + 5 x^{3} - 4 x \\\\ h ( x ) = \\frac{2 x^{5} - 1}{3 x^{2} + 4}\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$f ( x )$$ is a power function because it can be written as $$f ( x ) = 8 x^{5} .$$ The other functions are not power functions.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "Describe in words and symbols the end behavior of $$f ( x ) = - 5 x^{4} .$$",
+        "Image Links": [],
+        "Answer": "As $$x$$ approaches positive or negative infinity, $$f ( x )$$ decreases without bound: as $$x \\vec{} \\pm \\infty$$ , $$f ( x ) \\vec{} - \\infty$$ because of the negative coefficient.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "Identify the degree, leading term, and leading coefficient of the polynomial $$f ( x ) = 4 x^{2} - x^{6} + 2 x - 6.$$",
+        "Image Links": [],
+        "Answer": "The degree is 6. The leading term is $$- x^{6} .$$ The leading coefficient is $$- 1.$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "Describe the end behavior, and determine a possible degree of the polynomial function in Figure 8 . Figure 8",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c1d246f01bf89935c576a97f2fc497707235ba88"
+        ],
+        "Answer": "As $$x \\vec{} \\infty , f ( x ) \\vec{} - \\infty ; a s x \\vec{} - \\infty , f ( x ) \\vec{} - \\infty .$$ It has the shape of an even degree power function with a negative coefficient.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #5",
+        "Problem Statement": "",
+        "Question": "Given the function $$f ( x ) = 0.2 ( x - 2 ) ( x + 1 ) ( x - 5 ) ,$$ express the function as a polynomial in general form and determine the leading term, degree, and end behavior of the function.",
+        "Image Links": [],
+        "Answer": "The leading term is $$0.2 x^{3} ,$$ so it is a degree 3 polynomial. As $$x$$ approaches positive infinity, $$f ( x )$$ increases without bound; as $$x$$ approaches negative infinity, $$f ( x )$$ decreases without bound.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #6",
+        "Problem Statement": "",
+        "Question": "Given the polynomial function $$f ( x ) = 2 x^{3} - 6 x^{2} - 20 x ,$$ determine the $$y \\text{-}$$ and $$x \\text{-}$$ intercepts.",
+        "Image Links": [],
+        "Answer": "y -intercept $$( 0 , 0 ) ;$$ x -intercepts $$( 0 , 0 ) , ( - 2 , 0 ) ,$$ and $$( 5 , 0 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #7",
+        "Problem Statement": "",
+        "Question": "Without graphing the function, determine the maximum number of $$x \\text{-}$$ intercepts and turning points for $$f ( x ) = 108 - 13 x^{9} - 8 x^{4} + 14 x^{12} + 2 x^{3}$$",
+        "Image Links": [],
+        "Answer": "There are at most 12 $$x \\text{-}$$ intercepts and at most 11 turning points.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #8",
+        "Problem Statement": "",
+        "Question": "What can we conclude about the polynomial represented by the graph shown in Figure 14 based on its intercepts and turning points? Figure 14",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9b31fe9d7faee7a457e606e215ab723682de42e8"
+        ],
+        "Answer": "The end behavior indicates an odd-degree polynomial function; there are 3 $$x \\text{-}$$ intercepts and 2 turning points, so the degree is odd and at least 3. Because of the end behavior, we know that the lead coefficient must be negative.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #9",
+        "Problem Statement": "",
+        "Question": "Given the function $$f ( x ) = 0.2 ( x - 2 ) ( x + 1 ) ( x - 5 ) ,$$ determine the local behavior.",
+        "Image Links": [],
+        "Answer": "The $$x \\text{-}$$ intercepts are $$( 2 , 0 ) , ( - 1 , 0 ) ,$$ and $$( 5 , 0 ) ,$$ the y- intercept is $$( 0 , \\text{2} ) ,$$ and the graph has at most 2 turning points.",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "According to the data from Table 1 , what temperature can we predict it is if we counted 20 chirps in 15 seconds?\nTable 1\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}\n\\hline\nChirps & 44 & 35 & 20.4 & 33 & 31 & 35 & 18.5 & 37 & 26 \\\\ \\hline\nTemperature & 80.5 & 70.5 & 57 & 66 & 68 & 72 & 52 & 73.5 & 53 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "$$54 __{degree} \\text{F}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "Use the model we created using technology in Example 6 to predict the gas consumption in 2011. Is this an interpolation or an extrapolation?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/46361ea50eb0fd022efd04ebd947b65218bcc6f8"
+        ],
+        "Answer": "150.871 billion gallons; extrapolation",
+        "Answer Image Links": []
+    }
+]

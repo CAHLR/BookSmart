@@ -1,0 +1,514 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Explain how the graph of the sine function can be used to graph $$y = \\csc{} x .$$",
+        "Image Links": [],
+        "Answer": "Since $$y = \\csc{} x$$ is the reciprocal function of $$y = \\sin{} x ,$$ you can plot the reciprocal of the coordinates on the graph of $$y = \\sin{} x$$ to obtain the y -coordinates of $$y = \\csc{} x .$$ The x -intercepts of the graph $$y = \\sin{} x$$ are the vertical asymptotes for the graph of $$y = \\csc{} x .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "How can the graph of $$y = \\cos{} x$$ be used to construct the graph of $$y = \\sec{} x ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Explain why the period of $$\\tan{x}$$ is equal to $$\\pi .$$",
+        "Image Links": [],
+        "Answer": "Answers will vary. Using the unit circle, one can show that $$\\tan{( x + \\pi )} = \\tan{} x .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Why are there no intercepts on the graph of $$y = \\csc{} x ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "How does the period of $$y = \\csc{} x$$ compare with the period of $$y = \\sin{} x ?$$",
+        "Image Links": [],
+        "Answer": "The period is the same: $$2 \\pi .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, match each trigonometric function with one of the following graphs.\nFigure 18",
+        "Question": "$$f ( x ) = \\tan{} x$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7955489ee6187ff609de298d46ccac2d18f15d14"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, match each trigonometric function with one of the following graphs.\nFigure 18",
+        "Question": "$$f ( x ) = \\sec{} x$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7955489ee6187ff609de298d46ccac2d18f15d14"
+        ],
+        "Answer": "IV",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, match each trigonometric function with one of the following graphs.\nFigure 18",
+        "Question": "$$f ( x ) = \\csc{} x$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7955489ee6187ff609de298d46ccac2d18f15d14"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, match each trigonometric function with one of the following graphs.\nFigure 18",
+        "Question": "$$f ( x ) = \\cot{} x$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7955489ee6187ff609de298d46ccac2d18f15d14"
+        ],
+        "Answer": "III",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the period and horizontal shift of each of the functions.",
+        "Question": "$$f ( x ) = 2 \\tan{} ( 4 x - 32 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the period and horizontal shift of each of the functions.",
+        "Question": "$$h ( x ) = 2 \\sec{} ( \\frac{\\pi}{4} ( x + 1 ) )$$",
+        "Image Links": [],
+        "Answer": "period: 8; horizontal shift: 1 unit to left",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the period and horizontal shift of each of the functions.",
+        "Question": "$$m ( x ) = 6 \\csc{} ( \\frac{\\pi}{3} x + \\pi )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, evaluate the transformed functions.",
+        "Question": "If $$\\tan{x} = - 1.5 ,$$ find $$\\tan{( - x )} .$$",
+        "Image Links": [],
+        "Answer": "1.5",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, evaluate the transformed functions.",
+        "Question": "If $$\\sec{x} = 2 ,$$ find $$\\sec{( - x )} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, evaluate the transformed functions.",
+        "Question": "If $$\\csc{x} = - 5 ,$$ find $$\\csc{( - x )} .$$",
+        "Image Links": [],
+        "Answer": "5",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, evaluate the transformed functions.",
+        "Question": "If $$x \\sin{} x = 2 ,$$ find $$( - x ) \\sin{} ( - x ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite each expression such that the argument $$x$$ is positive.",
+        "Question": "$$\\cot{( - x )} \\cos{} ( - x ) + \\sin{} ( - x )$$",
+        "Image Links": [],
+        "Answer": "$$- \\cot{} x \\cos{} x - \\sin{} x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite each expression such that the argument $$x$$ is positive.",
+        "Question": "$$\\cos{( - x )} + \\tan{} ( - x ) \\sin{} ( - x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch two periods of the graph for each of the following functions. Identify the stretching factor, period, and asymptotes.",
+        "Question": "$$f ( x ) = 2 \\tan{} ( 4 x - 32 )$$",
+        "Image Links": [],
+        "Answer": "stretching factor: 2; period: $$\\frac{\\pi}{4} ;$$ asymptotes: $$x = \\frac{1}{4} ( \\frac{\\pi}{2} + \\pi k ) + 8 , \\text{\u00a0where\u00a0} k \\text{\u00a0is\u00a0an\u00a0integer}$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1b56c51a5f20a9733b5f30e56da1004a0fa568c2"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch two periods of the graph for each of the following functions. Identify the stretching factor, period, and asymptotes.",
+        "Question": "$$h ( x ) = 2 \\sec{} ( \\frac{\\pi}{4} ( x + 1 ) )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch two periods of the graph for each of the following functions. Identify the stretching factor, period, and asymptotes.",
+        "Question": "$$m ( x ) = 6 \\csc{} ( \\frac{\\pi}{3} x + \\pi )$$",
+        "Image Links": [],
+        "Answer": "stretching factor: 6; period: 6; asymptotes: $$x = 3 k , \\text{\u00a0where\u00a0} k \\text{\u00a0is\u00a0an\u00a0integer}$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6e880e16184a36c8619e08545ed2283ff9338b22"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch two periods of the graph for each of the following functions. Identify the stretching factor, period, and asymptotes.",
+        "Question": "$$j ( x ) = \\tan{} ( \\frac{\\pi}{2} x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch two periods of the graph for each of the following functions. Identify the stretching factor, period, and asymptotes.",
+        "Question": "$$p ( x ) = \\tan{} ( x - \\frac{\\pi}{2} )$$",
+        "Image Links": [],
+        "Answer": "stretching factor: 1; period: $$\\pi ;$$ asymptotes: $$x = \\pi k , \\text{\u00a0where\u00a0} k \\text{\u00a0is\u00a0an\u00a0integer}$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2cb5d02f855749ed862df08c32e87c85c92d5162"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch two periods of the graph for each of the following functions. Identify the stretching factor, period, and asymptotes.",
+        "Question": "$$f ( x ) = 4 \\tan{} ( x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch two periods of the graph for each of the following functions. Identify the stretching factor, period, and asymptotes.",
+        "Question": "$$f ( x ) = \\tan{} ( x + \\frac{\\pi}{4} )$$",
+        "Image Links": [],
+        "Answer": "Stretching factor: 1; period: $$\\pi ;$$ asymptotes: $$x = \\frac{\\pi}{4} + \\pi k , \\text{\u00a0where\u00a0} k \\text{\u00a0is\u00a0an\u00a0integer}$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f290423a0ace06ae1bbd748f0f25d214c4596101"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch two periods of the graph for each of the following functions. Identify the stretching factor, period, and asymptotes.",
+        "Question": "$$f ( x ) = \\pi \\tan{} ( \\pi x - \\pi ) - \\pi$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch two periods of the graph for each of the following functions. Identify the stretching factor, period, and asymptotes.",
+        "Question": "$$f ( x ) = 2 \\csc{} ( x )$$",
+        "Image Links": [],
+        "Answer": "stretching factor: 2; period: $$2 \\pi ;$$ asymptotes: $$x = \\pi k , \\text{\u00a0where\u00a0} k \\text{\u00a0is\u00a0an\u00a0integer}$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d883b470c508727ae75cba2271e013941f825aae"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch two periods of the graph for each of the following functions. Identify the stretching factor, period, and asymptotes.",
+        "Question": "$$f ( x ) = - \\frac{1}{4} \\csc{} ( x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch two periods of the graph for each of the following functions. Identify the stretching factor, period, and asymptotes.",
+        "Question": "$$f ( x ) = 4 \\sec{} ( 3 x )$$",
+        "Image Links": [],
+        "Answer": "stretching factor: 4; period: $$\\frac{2 \\pi}{3} ;$$ asymptotes: $$x = \\frac{\\pi}{6} k , \\text{\u00a0where\u00a0} k \\text{\u00a0is\u00a0an\u00a0odd\u00a0integer}$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/184e940889552f60525e38a28e0b079eeb945ddc"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch two periods of the graph for each of the following functions. Identify the stretching factor, period, and asymptotes.",
+        "Question": "$$f ( x ) = - 3 \\cot{} ( 2 x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch two periods of the graph for each of the following functions. Identify the stretching factor, period, and asymptotes.",
+        "Question": "$$f ( x ) = 7 \\sec{} ( 5 x )$$",
+        "Image Links": [],
+        "Answer": "stretching factor: 7; period: $$\\frac{2 \\pi}{5} ;$$ asymptotes: $$x = \\frac{\\pi}{10} k , \\text{\u00a0where\u00a0} k \\text{\u00a0is\u00a0an\u00a0odd\u00a0integer}$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/983527f6197a4cad727909e1c5dc9c80b558f89a"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch two periods of the graph for each of the following functions. Identify the stretching factor, period, and asymptotes.",
+        "Question": "$$f ( x ) = \\frac{9}{10} \\csc{} ( \\pi x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch two periods of the graph for each of the following functions. Identify the stretching factor, period, and asymptotes.",
+        "Question": "$$f ( x ) = 2 \\csc{} ( x + \\frac{\\pi}{4} ) - 1$$",
+        "Image Links": [],
+        "Answer": "stretching factor: 2; period: $$2 \\pi ;$$ asymptotes: $$x = - \\frac{\\pi}{4} + \\pi k , \\text{\u00a0where\u00a0} k \\text{\u00a0is\u00a0an\u00a0integer}$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6ba424d590a3269fb164a28a2adeba07b39e28fc"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch two periods of the graph for each of the following functions. Identify the stretching factor, period, and asymptotes.",
+        "Question": "$$f ( x ) = - \\sec{} ( x - \\frac{\\pi}{3} ) - 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch two periods of the graph for each of the following functions. Identify the stretching factor, period, and asymptotes.",
+        "Question": "$$f ( x ) = \\frac{7}{5} \\csc{} ( x - \\frac{\\pi}{4} )$$",
+        "Image Links": [],
+        "Answer": "stretching factor: $$\\frac{7}{5} ;$$ period: $$2 \\pi ;$$ asymptotes: $$x = \\frac{\\pi}{4} + \\pi k , \\text{\u00a0where\u00a0} k \\text{\u00a0is\u00a0an\u00a0integer}$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0927a7fed94486f39191d9e2d95e13c99c6c8f8c"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch two periods of the graph for each of the following functions. Identify the stretching factor, period, and asymptotes.",
+        "Question": "$$f ( x ) = 5 ( \\cot{( x + \\frac{\\pi}{2} )} - 3 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find and graph two periods of the periodic function with the given stretching factor, $$| A | ,$$ period, and phase shift.",
+        "Question": "A tangent curve, $$A = 1 ,$$ period of $$\\frac{\\pi}{3} ;$$ and phase shift $$( h , k ) = ( \\frac{\\pi}{4} , 2 )$$",
+        "Image Links": [],
+        "Answer": "$$y = \\tan{} ( 3 ( x - \\frac{\\pi}{4} ) ) + 2$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/83b78668cd8dfe9571ee25b737eaa491d773ee6e"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find and graph two periods of the periodic function with the given stretching factor, $$| A | ,$$ period, and phase shift.",
+        "Question": "A tangent curve, $$A = -2 ,$$ period of $$\\frac{\\pi}{4} ,$$ and phase shift $$( h , k ) = ( - \\frac{\\pi}{4} , -2 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find an equation for the graph of each function.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/19b33e9e1ff7a8cb1232b5cb62ec19729ad6f333"
+        ],
+        "Answer": "$$f ( x ) = \\csc{} ( 2 x )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find an equation for the graph of each function.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/02b6bc56c5bed81e889a6cb06a88dfee9d8c2730"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find an equation for the graph of each function.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/14b426aa704dbf870a17748ef07f1914eac21d9f"
+        ],
+        "Answer": "$$f ( x ) = \\csc{} ( 4 x )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find an equation for the graph of each function.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/583bdfa4f5f97edba56bed47fb3530aec1a45b52"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find an equation for the graph of each function.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/89b8fe9074690a083fc576363c2f419ac8c94dcc"
+        ],
+        "Answer": "$$f ( x ) = 2 \\csc{} x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find an equation for the graph of each function.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/759904f51a203f523e03757a6153f38dd985d08f"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find an equation for the graph of each function.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/557762b324821758c8dea1479dc41001e916fee1"
+        ],
+        "Answer": "$$f ( x ) = \\frac{1}{2} \\tan{} ( 100 \\pi x )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a graphing calculator to graph two periods of the given function. Note: most graphing calculators do not have a cosecant button; therefore, you will need to input $$\\csc{x}$$ as $$\\frac{1}{\\sin{x}} .$$",
+        "Question": "$$f ( x ) = | \\csc{( x )} |$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a graphing calculator to graph two periods of the given function. Note: most graphing calculators do not have a cosecant button; therefore, you will need to input $$\\csc{x}$$ as $$\\frac{1}{\\sin{x}} .$$",
+        "Question": "$$f ( x ) = | \\cot{( x )} |$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/cf7e78bf2440a59ff3a6decf82119a1887d46c43"
+        ]
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a graphing calculator to graph two periods of the given function. Note: most graphing calculators do not have a cosecant button; therefore, you will need to input $$\\csc{x}$$ as $$\\frac{1}{\\sin{x}} .$$",
+        "Question": "$$f ( x ) = 2^{\\csc{( x )}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a graphing calculator to graph two periods of the given function. Note: most graphing calculators do not have a cosecant button; therefore, you will need to input $$\\csc{x}$$ as $$\\frac{1}{\\sin{x}} .$$",
+        "Question": "$$f ( x ) = \\frac{\\csc{( x )}}{\\sec{( x )}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/39997e5736a5d39c4cbc3e93d7aa7d4f886a995e"
+        ]
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a graphing calculator to graph two periods of the given function. Note: most graphing calculators do not have a cosecant button; therefore, you will need to input $$\\csc{x}$$ as $$\\frac{1}{\\sin{x}} .$$",
+        "Question": "Graph $$f ( x ) = 1 + \\sec{}^{2} ( x ) - \\tan{}^{2} ( x ) .$$ What is the function shown in the graph?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a graphing calculator to graph two periods of the given function. Note: most graphing calculators do not have a cosecant button; therefore, you will need to input $$\\csc{x}$$ as $$\\frac{1}{\\sin{x}} .$$",
+        "Question": "$$f ( x ) = \\sec{} ( 0.001 x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0bb6095438602382c3cbebfceac5edf4d7cc98d5"
+        ]
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a graphing calculator to graph two periods of the given function. Note: most graphing calculators do not have a cosecant button; therefore, you will need to input $$\\csc{x}$$ as $$\\frac{1}{\\sin{x}} .$$",
+        "Question": "$$f ( x ) = \\cot{} ( 100 \\pi x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a graphing calculator to graph two periods of the given function. Note: most graphing calculators do not have a cosecant button; therefore, you will need to input $$\\csc{x}$$ as $$\\frac{1}{\\sin{x}} .$$",
+        "Question": "$$f ( x ) = \\sin{}^{2} x + \\cos{}^{2} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1174db8d0850b37bb1ca86bf78487bf885d1c876"
+        ]
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "The function $$f ( x ) = 20 \\tan{} ( \\frac{\\pi}{10} x )$$ marks the distance in the movement of a light beam from a police car across a wall for time $$x ,$$ in seconds, and distance $$f ( x ) ,$$ in feet. \u24d0 Graph on the interval $$[ 0 , 5 ] .$$ \u24d1 Find and interpret the stretching factor, period, and asymptote. \u24d2 Evaluate $$f ( 1 )$$ and $$f ( 2.5 )$$ and discuss the function\u2019s values at those inputs.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Standing on the shore of a lake, a fisherman sights a boat far in the distance to his left. Let $$x ,$$ measured in radians, be the angle formed by the line of sight to the ship and a line due north from his position. Assume due north is 0 and $$x$$ is measured negative to the left and positive to the right. (See Figure 19 .) The boat travels from due west to due east and, ignoring the curvature of the Earth, the distance $$d ( x ) ,$$ in kilometers, from the fisherman to the boat is given by the function $$d ( x ) = 1.5 \\sec{} ( x ) .$$ \u24d0 What is a reasonable domain for $$d ( x ) ?$$ \u24d1 Graph $$d ( x )$$ on this domain. \u24d2 Find and discuss the meaning of any vertical asymptotes on the graph of $$d ( x ) .$$ \u24d3 Calculate and interpret $$d ( - \\frac{\\pi}{3} ) .$$ Round to the second decimal place. \u24d4 Calculate and interpret $$d ( \\frac{\\pi}{6} ) .$$ Round to the second decimal place. \u24d5 What is the minimum distance between the fisherman and the boat? When does this occur? Figure 19",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/16fe0fda8d6727c3df871f14d1878feab700fb30"
+        ],
+        "Answer": "\u24d0 $$( - \\frac{\\pi}{2} , \\frac{\\pi}{2} ) ;$$ \u24d1 \u24d2 $$x = - \\frac{\\pi}{2}$$ and $$x = \\frac{\\pi}{2} ;$$ the distance grows without bound as $$| x |$$ approaches $$\\frac{\\pi}{2}$$ -i.e., at right angles to the line representing due north, the boat would be so far away, the fisherman could not see it; \u24d3 3; when $$x = - \\frac{\\pi}{3} ,$$ the boat is 3 km away; \u24d4 1.73; when $$x = \\frac{\\pi}{6} ,$$ the boat is about 1.73 km away; \u24d5 1.5 km; when $$x = 0$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d003975c56c76c0edb4ca5b1d697a0ff82ead133"
+        ]
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A laser rangefinder is locked on a comet approaching Earth. The distance $$g ( x ) ,$$ in kilometers, of the comet after $$x$$ days, for $$x$$ in the interval 0 to 30 days, is given by $$g ( x ) = 250,000 \\csc{} ( \\frac{\\pi}{30} x ) .$$ \u24d0 Graph $$g ( x )$$ on the interval $$[ 0 , 30 ] .$$ \u24d1 Evaluate $$g ( 5 )$$ and interpret the information. \u24d2 What is the minimum distance between the comet and Earth? When does this occur? To which constant in the equation does this correspond? \u24d3 Find and discuss the meaning of any vertical asymptotes.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A video camera is focused on a rocket on a launching pad 2 miles from the camera. The angle of elevation from the ground to the rocket after $$x$$ seconds is $$\\frac{\\pi}{120} x .$$ \u24d0 Write a function expressing the altitude $$h ( x ) ,$$ in miles, of the rocket above the ground after $$x$$ seconds. Ignore the curvature of the Earth. \u24d1 Graph $$h ( x )$$ on the interval $$( 0 , 60 ) .$$ \u24d2 Evaluate and interpret the values $$h ( 0 )$$ and $$h ( 30 ) .$$ \u24d3 What happens to the values of $$h ( x )$$ as $$x$$ approaches 60 seconds? Interpret the meaning of this in terms of the problem.",
+        "Image Links": [],
+        "Answer": "\u24d0 $$h ( x ) = 2 \\tan{} ( \\frac{\\pi}{120} x ) ;$$ \u24d1 \u24d2 $$h ( 0 ) = 0 :$$ after 0 seconds, the rocket is 0 mi above the ground; $$h ( 30 ) = 2 :$$ after 30 seconds, the rockets is 2 mi high; \u24d3 As $$x$$ approaches 60 seconds, the values of $$h ( x )$$ grow increasingly large. The distance to the rocket is growing so large that the camera can no longer track it.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1e380791f3f6e3024dfef7ae5212526a8d585f50"
+        ]
+    }
+]

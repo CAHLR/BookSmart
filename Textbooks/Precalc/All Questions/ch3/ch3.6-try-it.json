@@ -1,0 +1,58 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "Use the Remainder Theorem to evaluate $$f ( x ) = 2 x^{5} - 3 x^{4} - 9 x^{3} + 8 x^{2} + 2$$ at $$x = - 3.$$",
+        "Image Links": [],
+        "Answer": "$$f ( - 3 ) = - 412$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "Use the Factor Theorem to find the zeros of $$f ( x ) = x^{3} + 4 x^{2} - 4 x - 16$$ given that $$( x - 2 )$$ is a factor of the polynomial.",
+        "Image Links": [],
+        "Answer": "The zeros are 2, -2, and -4.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "Use the Rational Zero Theorem to find the rational zeros of $$f ( x ) = x^{3} - 5 x^{2} + 2 x + 1.$$",
+        "Image Links": [],
+        "Answer": "There are no rational zeros.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "Find the zeros of $$f ( x ) = 2 x^{3} + 5 x^{2} - 11 x + 4.$$",
+        "Image Links": [],
+        "Answer": "The zeros are $$\\text{-4,\u00a0} \\frac{1}{2} , \\text{\u00a0and\u00a01} \\text{.}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #5",
+        "Problem Statement": "",
+        "Question": "Find a third degree polynomial with real coefficients that has zeros of 5 and $$- 2 i$$ such that $$f ( 1 ) = 10.$$",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = - \\frac{1}{2} x^{3} + \\frac{5}{2} x^{2} - 2 x + 10$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #6",
+        "Problem Statement": "",
+        "Question": "Use Descartes\u2019 Rule of Signs to determine the maximum possible numbers of positive and negative real zeros for $$f ( x ) = 2 x^{4} - 10 x^{3} + 11 x^{2} - 15 x + 12.$$ Use a graph to verify the numbers of positive and negative real zeros for the function.",
+        "Image Links": [],
+        "Answer": "There must be 4, 2, or 0 positive real roots and 0 negative real roots. The graph shows that there are 2 positive real zeros and 0 negative real zeros.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #7",
+        "Problem Statement": "",
+        "Question": "A shipping container in the shape of a rectangular solid must have a volume of 84 cubic meters. The client tells the manufacturer that, because of the contents, the length of the container must be one meter longer than the width, and the height must be one meter greater than twice the width. What should the dimensions of the container be?",
+        "Image Links": [],
+        "Answer": "3 meters by 4 meters by 7 meters",
+        "Answer Image Links": []
+    }
+]
