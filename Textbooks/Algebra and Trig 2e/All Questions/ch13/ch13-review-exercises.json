@@ -1,0 +1,458 @@
+[
+    {
+        "Topic": "Sequences and Their Notation",
+        "Problem Statement": "",
+        "Question": "Write the first four terms of the sequence defined by the recursive formula $$a_{1} = 2 , a_{n} = a_{n - 1} + n .$$",
+        "Image Links": [],
+        "Answer": "$$2 , 4 , 7 , 11$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Sequences and Their Notation",
+        "Problem Statement": "",
+        "Question": "Evaluate $$\\frac{6 !}{( 5 - 3 ) ! 3 !} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Sequences and Their Notation",
+        "Problem Statement": "",
+        "Question": "Write the first four terms of the sequence defined by the explicit formula $$a_{n} = 10^{n} + 3.$$",
+        "Image Links": [],
+        "Answer": "$$13 , 103 , 1003 , 10003$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Sequences and Their Notation",
+        "Problem Statement": "",
+        "Question": "Write the first four terms of the sequence defined by the explicit formula $$a_{n} = \\frac{n !}{n ( n + 1 )} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Arithmetic Sequences",
+        "Problem Statement": "",
+        "Question": "Is the sequence $$\\frac{4}{7} , \\frac{47}{21} , \\frac{82}{21} , \\frac{39}{7} , ...$$ arithmetic? If so, find the common difference.",
+        "Image Links": [],
+        "Answer": "The sequence is arithmetic. The common difference is $$d = \\frac{5}{3} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Arithmetic Sequences",
+        "Problem Statement": "",
+        "Question": "Is the sequence $$2 , 4 , 8 , 16 , ...$$ arithmetic? If so, find the common difference.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Arithmetic Sequences",
+        "Problem Statement": "",
+        "Question": "An arithmetic sequence has the first term $$a_{1} = 18$$ and common difference $$d = - 8.$$ What are the first five terms?",
+        "Image Links": [],
+        "Answer": "$$18 , 10 , 2 , - 6 , - 14$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Arithmetic Sequences",
+        "Problem Statement": "",
+        "Question": "An arithmetic sequence has terms $$a_{3} = 11.7$$ and $$a_{8} = - 14.6.$$ What is the first term?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Arithmetic Sequences",
+        "Problem Statement": "",
+        "Question": "Write a recursive formula for the arithmetic sequence $$- 20 \\text{,} - 10 , 0 \\text{,} 10 \\text{,unicode[:ddot.]}$$",
+        "Image Links": [],
+        "Answer": "$$a_{1} = - 20 , \\text{} a_{n} = a_{n - 1} + 10$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Arithmetic Sequences",
+        "Problem Statement": "",
+        "Question": "Write a recursive formula for the arithmetic sequence $$0 , \\text{} - \\frac{1}{2} , \\text{} - 1 , \\text{} - \\frac{3}{2} , \\ldots ,$$ and then find the 31 st term.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Arithmetic Sequences",
+        "Problem Statement": "",
+        "Question": "Write an explicit formula for the arithmetic sequence $$\\frac{7}{8} , \\text{} \\frac{29}{24} , \\text{} \\frac{37}{24} , \\text{} \\frac{15}{8} , \\ldots$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = \\frac{1}{3} n + \\frac{13}{24}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Arithmetic Sequences",
+        "Problem Statement": "",
+        "Question": "How many terms are in the finite arithmetic sequence $$12 , 20 , 28 , \\ldots , 172 ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Geometric Sequences",
+        "Problem Statement": "",
+        "Question": "Find the common ratio for the geometric sequence $$2.5 , \\text{} 5 , \\text{} 10 , \\text{} 20 , \\ldots$$",
+        "Image Links": [],
+        "Answer": "$$r = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Geometric Sequences",
+        "Problem Statement": "",
+        "Question": "Is the sequence 4, 16, 28, 40 \u2026 geometric? If so find the common ratio. If not, explain why.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Geometric Sequences",
+        "Problem Statement": "",
+        "Question": "A geometric sequence has terms $$a_{7} = 16 \\text{,} 384$$ and $$a_{9} = 262 \\text{,} 144$$ . What are the first five terms?",
+        "Image Links": [],
+        "Answer": "4, 16, 64, 256, 1024",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Geometric Sequences",
+        "Problem Statement": "",
+        "Question": "A geometric sequence has the first term $$a_{1} \\text{=} - 3$$ and common ratio $$r = \\frac{1}{2} .$$ What is the 8 th term?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Geometric Sequences",
+        "Problem Statement": "",
+        "Question": "What are the first five terms of the geometric sequence $$a_{1} = 3 , \\text{} a_{n} = 4 \\cdot a_{n - 1} ?$$",
+        "Image Links": [],
+        "Answer": "$$3 , \\text{} 12 , \\text{} 48 , \\text{} 192 , \\text{} 768$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Geometric Sequences",
+        "Problem Statement": "",
+        "Question": "Write a recursive formula for the geometric sequence $$1 , \\text{} \\frac{1}{3} , \\text{} \\frac{1}{9} , \\text{} \\frac{1}{27} , \\ldots$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Geometric Sequences",
+        "Problem Statement": "",
+        "Question": "Write an explicit formula for the geometric sequence $$- \\frac{1}{5} , \\text{} - \\frac{1}{15} , \\text{} - \\frac{1}{45} , \\text{} - \\frac{1}{135} , \\ldots$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = - \\frac{1}{5} \\cdot ( \\frac{1}{3} )^{n - 1}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Geometric Sequences",
+        "Problem Statement": "",
+        "Question": "How many terms are in the finite geometric sequence $$- 5 , \\  - \\frac{5}{3} , \\  - \\frac{5}{9} , \\ldots , \\  - \\frac{5}{59 \\text{,} 049} ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Series and Their Notation",
+        "Problem Statement": "",
+        "Question": "Use summation notation to write the sum of terms $$\\frac{1}{2} m + 5$$ from $$m = 0$$ to $$m = 5.$$",
+        "Image Links": [],
+        "Answer": "$$\\sum_{m = 0}^{5} ( \\frac{1}{2} m + 5 ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Series and Their Notation",
+        "Problem Statement": "",
+        "Question": "Use summation notation to write the sum that results from adding the number $$13$$ twenty times.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Series and Their Notation",
+        "Problem Statement": "",
+        "Question": "Use the formula for the sum of the first $$n$$ terms of an arithmetic series to find the sum of the first eleven terms of the arithmetic series 2.5, 4, 5.5, \u2026 .",
+        "Image Links": [],
+        "Answer": "$$S_{11} = 110$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Series and Their Notation",
+        "Problem Statement": "",
+        "Question": "A ladder has $$15$$ tapered rungs, the lengths of which increase by a common difference. The first rung is 5 inches long, and the last rung is 20 inches long. What is the sum of the lengths of the rungs?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Series and Their Notation",
+        "Problem Statement": "",
+        "Question": "Use the formula for the sum of the first n terms of a geometric series to find $$S_{9}$$ for the series $$12 , \\text{} 6 , \\text{} 3 , \\text{} \\frac{3}{2} , \\ldots$$",
+        "Image Links": [],
+        "Answer": "$$S_{9} \\approx 23.95$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Series and Their Notation",
+        "Problem Statement": "",
+        "Question": "The fees for the first three years of a hunting club membership are given in Table 1 . If fees continue to rise at the same rate, how much will the total cost be for the first ten years of membership? \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nYear & Membership Fees \\\\ \\hline\n1 & $1500 \\\\ \\hline\n2 & $1950 \\\\ \\hline\n3 & $2535 \\\\ \\hline\n\\end{tabular}\n\\end{table} Table 1",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Series and Their Notation",
+        "Problem Statement": "",
+        "Question": "Find the sum of the infinite geometric series $$\\sum_{k = 1}^{\\infty} 45 \\cdot ( - \\frac{1}{3} )^{k - 1} .$$",
+        "Image Links": [],
+        "Answer": "$$S = \\frac{135}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Series and Their Notation",
+        "Problem Statement": "",
+        "Question": "A ball has a bounce-back ratio of $$\\frac{3}{5}$$ the height of the previous bounce. Write a series representing the total distance traveled by the ball, assuming it was initially dropped from a height of 5 feet. What is the total distance? ( Hint : the total distance the ball travels on each bounce is the sum of the heights of the rise and the fall.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Series and Their Notation",
+        "Problem Statement": "",
+        "Question": "Alejandro deposits $80 of his monthly earnings into an annuity that earns 6.25%  annual interest, compounded monthly. How much money will he have saved after 5 years?",
+        "Image Links": [],
+        "Answer": "$5,617.61",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Series and Their Notation",
+        "Problem Statement": "",
+        "Question": "The twins Hoa and Binh both opened retirement accounts on their 21 st birthday. Hoa deposits $4,800.00 each year, earning 5.5%  annual interest, compounded monthly. Binh deposits $3,600.00  each year, earning 8.5%  annual interest, compounded monthly. Which twin will earn the most interest by the time they are $$55$$ years old? How much more?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Counting Principles",
+        "Problem Statement": "",
+        "Question": "How many ways are there to choose a number from the set $$\\{ - 10 \\text{,} - 6 \\text{, } 4 \\text{, } 10 \\text{, } 12 \\text{, } 18 \\text{, } 24 \\text{, } 32 \\}$$ that is divisible by either $$4$$ or $$6 ?$$",
+        "Image Links": [],
+        "Answer": "6",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Counting Principles",
+        "Problem Statement": "",
+        "Question": "In a group of $$20$$ musicians, $$12$$ play piano, $$7$$ play trumpet, and $$2$$ play both piano and trumpet. How many musicians play either piano or trumpet?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Counting Principles",
+        "Problem Statement": "",
+        "Question": "How many ways are there to construct a 4-digit code if numbers can be repeated?",
+        "Image Links": [],
+        "Answer": "$$10^{4} = 10 \\text{,} 000$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Counting Principles",
+        "Problem Statement": "",
+        "Question": "A palette of water color paints has 3 shades of green, 3 shades of blue, 2 shades of red, 2 shades of yellow, and 1 shade of black. How many ways are there to choose one shade of each color?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Counting Principles",
+        "Problem Statement": "",
+        "Question": "Calculate $$P ( 18 , 4 ) .$$",
+        "Image Links": [],
+        "Answer": "$$P ( 18 , 4 ) = 73 \\text{,} 440$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Counting Principles",
+        "Problem Statement": "",
+        "Question": "In a group of $$5$$ first-year, $$10$$ second-year, $$3$$ third-year, and $$2$$ fourth-year students, how many ways can a president, vice president, and treasurer be elected?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Counting Principles",
+        "Problem Statement": "",
+        "Question": "Calculate $$C ( 15 , 6 ) .$$",
+        "Image Links": [],
+        "Answer": "$$C ( 15 , 6 ) = 5005$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Counting Principles",
+        "Problem Statement": "",
+        "Question": "A coffee shop has 7 Guatemalan roasts, 4 Cuban roasts, and 10 Costa Rican roasts. How many ways can the shop choose 2 Guatemalan, 2 Cuban, and 3 Costa Rican roasts for a coffee tasting event?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Counting Principles",
+        "Problem Statement": "",
+        "Question": "How many subsets does the set $$\\{ 1 , \\text{} 3 , \\text{} 5 , \\text{} \\ldots , \\text{} 99 \\}$$ have?",
+        "Image Links": [],
+        "Answer": "$$2^{50} = 1.13 \\times 10^{15}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Counting Principles",
+        "Problem Statement": "",
+        "Question": "A day spa charges a basic day rate that includes use of a sauna, pool, and showers. For an extra charge, guests can choose from the following additional services: massage, body scrub, manicure, pedicure, facial, and straight-razor shave. How many ways are there to order additional services at the day spa?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Counting Principles",
+        "Problem Statement": "",
+        "Question": "How many distinct ways can the word DEADWOOD be arranged?",
+        "Image Links": [],
+        "Answer": "$$\\frac{8 !}{3 ! 2 !} = 3360$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Counting Principles",
+        "Problem Statement": "",
+        "Question": "How many distinct rearrangements of the letters of the word DEADWOOD are there if the arrangement must begin and end with the letter D?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Binomial Theorem",
+        "Problem Statement": "",
+        "Question": "Evaluate the binomial coefficient $$\\left (\\begin{matrix}23 \\\\ 8\\end{matrix}\\right ) .$$",
+        "Image Links": [],
+        "Answer": "$$490 \\text{,} 314$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Binomial Theorem",
+        "Problem Statement": "",
+        "Question": "Use the Binomial Theorem to expand $$( 3 x + \\frac{1}{2} y )^{6} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Binomial Theorem",
+        "Problem Statement": "",
+        "Question": "Use the Binomial Theorem to write the first three terms of $$( 2 a + b )^{17} .$$",
+        "Image Links": [],
+        "Answer": "$$131 \\text{,} 072 a^{17} \\text{+} 1 \\text{,} 114 \\text{,} 112 a^{16} b \\text{+} 4 \\text{,} 456 \\text{,} 448 a^{15} b^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Binomial Theorem",
+        "Problem Statement": "",
+        "Question": "Find the fourth term of $$( 3 a^{2} - 2 b )^{11}$$ without fully expanding the binomial.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Probability",
+        "Problem Statement": "For the following exercises, assume two die are rolled.",
+        "Question": "Construct a table showing the sample space.",
+        "Image Links": [],
+        "Answer": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\hline\n & 1 & 2 & 3 & 4 & 5 & 6 \\\\ \\hline\n1 & 1,1 & 1,2 & 1,3 & 1,4 & 1,5 & 1,6 \\\\ \\hline\n2 & 2,1 & 2,2 & 2,3 & 2,4 & 2,5 & 2,6 \\\\ \\hline\n3 & 3,1 & 3,2 & 3,3 & 3,4 & 3,5 & 3,6 \\\\ \\hline\n4 & 4,1 & 4,2 & 4,3 & 4,4 & 4,5 & 4,6 \\\\ \\hline\n5 & 5,1 & 5,2 & 5,3 & 5,4 & 5,5 & 5,6 \\\\ \\hline\n6 & 6,1 & 6,2 & 6,3 & 6,4 & 6,5 & 6,6 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Probability",
+        "Problem Statement": "For the following exercises, assume two die are rolled.",
+        "Question": "What is the probability that a roll includes a $$2 ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Probability",
+        "Problem Statement": "For the following exercises, assume two die are rolled.",
+        "Question": "What is the probability of rolling a pair?",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Probability",
+        "Problem Statement": "For the following exercises, assume two die are rolled.",
+        "Question": "What is the probability that a roll includes a 2 or results in a pair?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Probability",
+        "Problem Statement": "For the following exercises, assume two die are rolled.",
+        "Question": "What is the probability that a roll doesn\u2019t include a 2 or result in a pair?",
+        "Image Links": [],
+        "Answer": "$$\\frac{5}{9}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Probability",
+        "Problem Statement": "For the following exercises, assume two die are rolled.",
+        "Question": "What is the probability of rolling a 5 or a 6?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Probability",
+        "Problem Statement": "For the following exercises, assume two die are rolled.",
+        "Question": "What is the probability that a roll includes neither a 5 nor a 6?",
+        "Image Links": [],
+        "Answer": "$$\\frac{4}{9}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Probability",
+        "Problem Statement": "For the following exercises, use the following data: An elementary school survey found that 350 of the 500 students preferred soda to milk. Suppose 8 children from the school are attending a birthday party. (Show calculations and round to the nearest tenth of a percent.)",
+        "Question": "What is the percent chance that all the children attending the party prefer soda?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Probability",
+        "Problem Statement": "For the following exercises, use the following data: An elementary school survey found that 350 of the 500 students preferred soda to milk. Suppose 8 children from the school are attending a birthday party. (Show calculations and round to the nearest tenth of a percent.)",
+        "Question": "What is the percent chance that at least one of the children attending the party prefers milk?",
+        "Image Links": [],
+        "Answer": "$$1 - \\frac{C ( 350 , 8 )}{C ( 500 , 8 )} \\approx 94.4 %$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Probability",
+        "Problem Statement": "For the following exercises, use the following data: An elementary school survey found that 350 of the 500 students preferred soda to milk. Suppose 8 children from the school are attending a birthday party. (Show calculations and round to the nearest tenth of a percent.)",
+        "Question": "What is the percent chance that exactly 3 of the children attending the party prefer soda?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Probability",
+        "Problem Statement": "For the following exercises, use the following data: An elementary school survey found that 350 of the 500 students preferred soda to milk. Suppose 8 children from the school are attending a birthday party. (Show calculations and round to the nearest tenth of a percent.)",
+        "Question": "What is the percent chance that exactly 3 of the children attending the party prefer milk?",
+        "Image Links": [],
+        "Answer": "$$\\frac{C ( 150 , 3 ) C ( 350 , 5 )}{C ( 500 , 8 )} \\approx 25.6 %$$",
+        "Answer Image Links": []
+    }
+]

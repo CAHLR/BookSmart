@@ -1,0 +1,424 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Why are the sine and cosine functions called periodic functions?",
+        "Image Links": [],
+        "Answer": "The sine and cosine functions have the property that $$f ( x + P ) = f ( x )$$ for a certain $$P .$$ This means that the function values repeat for every $$P$$ units on the x -axis.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "How does the graph of $$y = \\sin{} x$$ compare with the graph of $$y = \\cos{} x ?$$ Explain how you could horizontally translate the graph of $$y = \\sin{} x$$ to obtain $$y = \\cos{} x .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "For the equation $$A \\cos{} ( B x + C ) + D ,$$ what constants affect the range of the function and how do they affect the range?",
+        "Image Links": [],
+        "Answer": "The absolute value of the constant $$A$$ (amplitude) increases the total range and the constant $$D$$ (vertical shift) shifts the graph vertically.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "How does the range of a translated sine function relate to the equation $$y = A \\sin{} ( B x + C ) + D ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "How can the unit circle be used to construct the graph of $$f ( t ) = \\sin{} t ?$$",
+        "Image Links": [],
+        "Answer": "At the point where the terminal side of $$t$$ intersects the unit circle, you can determine that the $$\\sin{t}$$ equals the y -coordinate of the point.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph two full periods of each function and state the amplitude, period, and midline. State the maximum and minimum y -values and their corresponding x -values on one period for $$x > 0.$$ Round answers to two decimal places if necessary.",
+        "Question": "$$f ( x ) = 2 \\sin{} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph two full periods of each function and state the amplitude, period, and midline. State the maximum and minimum y -values and their corresponding x -values on one period for $$x > 0.$$ Round answers to two decimal places if necessary.",
+        "Question": "$$f ( x ) = \\frac{2}{3} \\cos{} x$$",
+        "Image Links": [],
+        "Answer": "amplitude: $$\\frac{2}{3} ;$$ period: $$2 \\pi ;$$ midline: $$y = 0 ;$$ maximum: $$y = \\frac{2}{3}$$ occurs at $$x = 0 ;$$ minimum: $$y = - \\frac{2}{3}$$ occurs at $$x = \\pi ;$$ for one period, the graph starts at 0 and ends at $$2 \\pi$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/19f369f5e4c271b465f79dda895c664626949600"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph two full periods of each function and state the amplitude, period, and midline. State the maximum and minimum y -values and their corresponding x -values on one period for $$x > 0.$$ Round answers to two decimal places if necessary.",
+        "Question": "$$f ( x ) = - 3 \\sin{} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph two full periods of each function and state the amplitude, period, and midline. State the maximum and minimum y -values and their corresponding x -values on one period for $$x > 0.$$ Round answers to two decimal places if necessary.",
+        "Question": "$$f ( x ) = 4 \\sin{} x$$",
+        "Image Links": [],
+        "Answer": "amplitude: 4; period: $$2 \\pi ;$$ midline: $$y = 0 ;$$ maximum $$y = 4$$ occurs at $$x = \\frac{\\pi}{2} ;$$ minimum: $$y = - 4$$ occurs at $$x = \\frac{3 \\pi}{2} ;$$ one full period occurs from $$x = 0$$ to $$x = 2 \\pi$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/79cbb14b3d85efbd9022a246bc67562a683c1422"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph two full periods of each function and state the amplitude, period, and midline. State the maximum and minimum y -values and their corresponding x -values on one period for $$x > 0.$$ Round answers to two decimal places if necessary.",
+        "Question": "$$f ( x ) = 2 \\cos{} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph two full periods of each function and state the amplitude, period, and midline. State the maximum and minimum y -values and their corresponding x -values on one period for $$x > 0.$$ Round answers to two decimal places if necessary.",
+        "Question": "$$f ( x ) = \\cos{} ( 2 x )$$",
+        "Image Links": [],
+        "Answer": "amplitude: 1; period: $$\\pi ;$$ midline: $$y = 0 ;$$ maximum: $$y = 1$$ occurs at $$x = \\pi ;$$ minimum: $$y = - 1$$ occurs at $$x = \\frac{\\pi}{2} ;$$ one full period is graphed from $$x = 0$$ to $$x = \\pi$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/31a99a29c1a8c555ca4bf76788159ef0f1547b6f"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph two full periods of each function and state the amplitude, period, and midline. State the maximum and minimum y -values and their corresponding x -values on one period for $$x > 0.$$ Round answers to two decimal places if necessary.",
+        "Question": "$$f ( x ) = 2 \\sin{} ( \\frac{1}{2} x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph two full periods of each function and state the amplitude, period, and midline. State the maximum and minimum y -values and their corresponding x -values on one period for $$x > 0.$$ Round answers to two decimal places if necessary.",
+        "Question": "$$f ( x ) = 4 \\cos{} ( \\pi x )$$",
+        "Image Links": [],
+        "Answer": "amplitude: 4; period: 2; midline: $$y = 0 ;$$ maximum: $$y = 4$$ occurs at $$x = 0 ;$$ minimum: $$y = - 4$$ occurs at $$x = 1$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/57ec54f1387846a3210c62cd89b6c8b93acbd11d"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph two full periods of each function and state the amplitude, period, and midline. State the maximum and minimum y -values and their corresponding x -values on one period for $$x > 0.$$ Round answers to two decimal places if necessary.",
+        "Question": "$$f ( x ) = 3 \\cos{} ( \\frac{6}{5} x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph two full periods of each function and state the amplitude, period, and midline. State the maximum and minimum y -values and their corresponding x -values on one period for $$x > 0.$$ Round answers to two decimal places if necessary.",
+        "Question": "$$y = 3 \\sin{} ( 8 ( x + 4 ) ) + 5$$",
+        "Image Links": [],
+        "Answer": "amplitude: 3; period: $$\\frac{\\pi}{4} ;$$ midline: $$y = 5 ;$$ maximum: $$y = 8$$ occurs at $$x = 0.12 ;$$ minimum: $$y = 2$$ occurs at $$x = 0.516 ;$$ horizontal shift: $$- 4 ;$$ vertical translation 5; one period occurs from $$x = 0$$ to $$x = \\frac{\\pi}{4}$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/84a6e2fc82686dd7b26513bdf9e4a489d0098dc3"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph two full periods of each function and state the amplitude, period, and midline. State the maximum and minimum y -values and their corresponding x -values on one period for $$x > 0.$$ Round answers to two decimal places if necessary.",
+        "Question": "$$y = 2 \\sin{} ( 3 x - 21 ) + 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph two full periods of each function and state the amplitude, period, and midline. State the maximum and minimum y -values and their corresponding x -values on one period for $$x > 0.$$ Round answers to two decimal places if necessary.",
+        "Question": "$$y = 5 \\sin{} ( 5 x + 20 ) - 2$$",
+        "Image Links": [],
+        "Answer": "amplitude: 5; period: $$\\frac{2 \\pi}{5} ;$$ midline: $$y = -2 ;$$ maximum: $$y = 3$$ occurs at $$x = 0.08 ;$$ minimum: $$y = -7$$ occurs at $$x = 0.71;$$ phase shift: $$-4 ;$$ vertical translation: $$-2;$$ one full period can be graphed on $$x = 0$$ to $$x = \\frac{2 \\pi}{5}$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/80ae4900cf88dce5a750e4cb7c19f7aa7c180c85"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph one full period of each function, starting at $$x = 0.$$ For each function, state the amplitude, period, and midline. State the maximum and minimum y -values and their corresponding x -values on one period for $$x > 0.$$ State the phase shift and vertical translation, if applicable. Round answers to two decimal places if necessary.",
+        "Question": "$$f ( t ) = 2 \\sin{} ( t - \\frac{5 \\pi}{6} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph one full period of each function, starting at $$x = 0.$$ For each function, state the amplitude, period, and midline. State the maximum and minimum y -values and their corresponding x -values on one period for $$x > 0.$$ State the phase shift and vertical translation, if applicable. Round answers to two decimal places if necessary.",
+        "Question": "$$f ( t ) = - \\cos{} ( t + \\frac{\\pi}{3} ) + 1$$",
+        "Image Links": [],
+        "Answer": "amplitude: 1 ; period: $$2 \\pi ;$$ midline: $$y = 1 ;$$ maximum: $$y = 2$$ occurs at $$x = 2.09 ;$$ maximum: $$y = 2$$ occurs at $$t = 2.09 ;$$ minimum: $$y = 0$$ occurs at $$t = 5.24 ;$$ phase shift: $$- \\frac{\\pi}{3} ;$$ vertical translation: 1; one full period is from $$t = 0$$ to $$t = 2 \\pi$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f29d9536af571b0e08019aa260bd7f7c5bdc0d9f"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph one full period of each function, starting at $$x = 0.$$ For each function, state the amplitude, period, and midline. State the maximum and minimum y -values and their corresponding x -values on one period for $$x > 0.$$ State the phase shift and vertical translation, if applicable. Round answers to two decimal places if necessary.",
+        "Question": "$$f ( t ) = 4 \\cos{} ( 2 ( t + \\frac{\\pi}{4} ) ) - 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph one full period of each function, starting at $$x = 0.$$ For each function, state the amplitude, period, and midline. State the maximum and minimum y -values and their corresponding x -values on one period for $$x > 0.$$ State the phase shift and vertical translation, if applicable. Round answers to two decimal places if necessary.",
+        "Question": "$$f ( t ) = - \\sin{} ( \\frac{1}{2} t + \\frac{5 \\pi}{3} )$$",
+        "Image Links": [],
+        "Answer": "amplitude: 1; period: $$4 \\pi ;$$ midline: $$y = 0 ;$$ maximum: $$y = 1$$ occurs at $$t = 11.52 ;$$ minimum: $$y = - 1$$ occurs at $$t = 5.24 ;$$ phase shift: $$- \\frac{10 \\pi}{3} ;$$ vertical shift: 0",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c9fe01d00b510cd774e5e03f195cdccada5e39e2"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph one full period of each function, starting at $$x = 0.$$ For each function, state the amplitude, period, and midline. State the maximum and minimum y -values and their corresponding x -values on one period for $$x > 0.$$ State the phase shift and vertical translation, if applicable. Round answers to two decimal places if necessary.",
+        "Question": "$$f ( x ) = 4 \\sin{} ( \\frac{\\pi}{2} ( x - 3 ) ) + 7$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph one full period of each function, starting at $$x = 0.$$ For each function, state the amplitude, period, and midline. State the maximum and minimum y -values and their corresponding x -values on one period for $$x > 0.$$ State the phase shift and vertical translation, if applicable. Round answers to two decimal places if necessary.",
+        "Question": "Determine the amplitude, midline, period, and an equation involving the sine function for the graph shown in Figure 26 . Figure 26",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1ed509f1981364a51f96dc7579b95a222863873c"
+        ],
+        "Answer": "amplitude: 2; midline: $$y = - 3 ;$$ period: 4; equation: $$f ( x ) = 2 \\sin{} ( \\frac{\\pi}{2} x ) - 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph one full period of each function, starting at $$x = 0.$$ For each function, state the amplitude, period, and midline. State the maximum and minimum y -values and their corresponding x -values on one period for $$x > 0.$$ State the phase shift and vertical translation, if applicable. Round answers to two decimal places if necessary.",
+        "Question": "Determine the amplitude, period, midline, and an equation involving cosine for the graph shown in Figure 27 . Figure 27",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f4fba2ebf2f2bdcfc01a9536a577b88fed8e731c"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph one full period of each function, starting at $$x = 0.$$ For each function, state the amplitude, period, and midline. State the maximum and minimum y -values and their corresponding x -values on one period for $$x > 0.$$ State the phase shift and vertical translation, if applicable. Round answers to two decimal places if necessary.",
+        "Question": "Determine the amplitude, period, midline, and an equation involving cosine for the graph shown in Figure 28 . Figure 28",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d308962062f0088c8ea8be34a0b80b9815205017"
+        ],
+        "Answer": "amplitude: 2; period: 5; midline: $$y = 3 ;$$ equation: $$f ( x ) = - 2 \\cos{} ( \\frac{2 \\pi}{5} x ) + 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph one full period of each function, starting at $$x = 0.$$ For each function, state the amplitude, period, and midline. State the maximum and minimum y -values and their corresponding x -values on one period for $$x > 0.$$ State the phase shift and vertical translation, if applicable. Round answers to two decimal places if necessary.",
+        "Question": "Determine the amplitude, period, midline, and an equation involving sine for the graph shown in Figure 29 . Figure 29",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7e12656993d833fda99d814d270b55405f2d0541"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph one full period of each function, starting at $$x = 0.$$ For each function, state the amplitude, period, and midline. State the maximum and minimum y -values and their corresponding x -values on one period for $$x > 0.$$ State the phase shift and vertical translation, if applicable. Round answers to two decimal places if necessary.",
+        "Question": "Determine the amplitude, period, midline, and an equation involving cosine for the graph shown in Figure 30 . Figure 30",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/dc8de63285e519bd5d4c8243f5c1a3c3fed36d55"
+        ],
+        "Answer": "amplitude: 4; period: 2; midline: $$y = 0 ;$$ equation: $$f ( x ) = - 4 \\cos{} ( \\pi ( x - \\frac{\\pi}{2} ) )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph one full period of each function, starting at $$x = 0.$$ For each function, state the amplitude, period, and midline. State the maximum and minimum y -values and their corresponding x -values on one period for $$x > 0.$$ State the phase shift and vertical translation, if applicable. Round answers to two decimal places if necessary.",
+        "Question": "Determine the amplitude, period, midline, and an equation involving sine for the graph shown in Figure 31 . Figure 31",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6a5607c386f47ba6a45b2a13fc800921ed9fd433"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph one full period of each function, starting at $$x = 0.$$ For each function, state the amplitude, period, and midline. State the maximum and minimum y -values and their corresponding x -values on one period for $$x > 0.$$ State the phase shift and vertical translation, if applicable. Round answers to two decimal places if necessary.",
+        "Question": "Determine the amplitude, period, midline, and an equation involving cosine for the graph shown in Figure 32 . Figure 32",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/bfc23d74f310901cb031b4d9e9e3e6863059d37b"
+        ],
+        "Answer": "amplitude: 2; period: 2; midline $$y = 1 ;$$ equation: $$f ( x ) = 2 \\cos{} ( \\pi x ) + 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph one full period of each function, starting at $$x = 0.$$ For each function, state the amplitude, period, and midline. State the maximum and minimum y -values and their corresponding x -values on one period for $$x > 0.$$ State the phase shift and vertical translation, if applicable. Round answers to two decimal places if necessary.",
+        "Question": "Determine the amplitude, period, midline, and an equation involving sine for the graph shown in Figure 33 . Figure 33",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5e500839df96ea3d90bb9d1e7af1175f338a5e25"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, let $$f ( x ) = \\sin{} x .$$",
+        "Question": "On $$[ 0 , 2 \\pi ),$$ solve $$f ( x ) = 0.$$",
+        "Image Links": [],
+        "Answer": "$$0 , \u03c0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, let $$f ( x ) = \\sin{} x .$$",
+        "Question": "On $$[ 0 , 2 \\pi ),$$ solve $$f ( x ) = \\frac{1}{2} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, let $$f ( x ) = \\sin{} x .$$",
+        "Question": "Evaluate $$f ( \\frac{\\pi}{2} ) .$$",
+        "Image Links": [],
+        "Answer": "$$\\text{sin} ( \\frac{\u03c0}{2} ) = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, let $$f ( x ) = \\sin{} x .$$",
+        "Question": "On $$[ 0 , 2 \\pi ) , f ( x ) = \\frac{\\sqrt{2}}{2} .$$ Find all values of $$x .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, let $$f ( x ) = \\sin{} x .$$",
+        "Question": "On $$[ 0 , 2 \\pi ),$$ the maximum value(s) of the function occur(s) at what x -value(s)?",
+        "Image Links": [],
+        "Answer": "$$\\frac{\u03c0}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, let $$f ( x ) = \\sin{} x .$$",
+        "Question": "On $$[ 0 , 2 \\pi ),$$ the minimum value(s) of the function occur(s) at what x -value(s)?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, let $$f ( x ) = \\sin{} x .$$",
+        "Question": "Show that $$f ( - x ) = - f ( x ) .$$ This means that $$f ( x ) = \\sin{} x$$ is an odd function and possesses symmetry with respect to ________________.",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = \\text{sin} x$$ is symmetric",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, let $$f ( x ) = \\cos{} x .$$",
+        "Question": "On $$[ 0 , 2 \\pi ),$$ solve the equation $$f ( x ) = \\cos{} x = 0.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, let $$f ( x ) = \\cos{} x .$$",
+        "Question": "On $$[ 0 , 2 \\pi ),$$ solve $$f ( x ) = \\frac{1}{2} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\u03c0}{3} , \\frac{5 \u03c0}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, let $$f ( x ) = \\cos{} x .$$",
+        "Question": "On $$[ 0 , 2 \\pi ),$$ find the x -intercepts of $$f ( x ) = \\cos{} x .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, let $$f ( x ) = \\cos{} x .$$",
+        "Question": "On $$[ 0 , 2 \\pi ),$$ find the x -values at which the function has a maximum or minimum value.",
+        "Image Links": [],
+        "Answer": "Maximum: $$1$$ at $$x = 0$$ ; minimum: $$-1$$ at $$x = \u03c0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, let $$f ( x ) = \\cos{} x .$$",
+        "Question": "On $$[ 0 , 2 \\pi ),$$ solve the equation $$f ( x ) = \\frac{\\sqrt{3}}{2} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "",
+        "Question": "Graph $$h ( x ) = x + \\sin{} x$$ on $$[ 0 , 2 \\pi ] .$$ Explain why the graph appears as it does.",
+        "Image Links": [],
+        "Answer": "A linear function is added to a periodic sine function. The graph does not have an amplitude because as the linear function increases without bound the combined function $$h ( x ) = x + \\text{sin} x$$ will increase without bound as well. The graph is bounded between the graphs of $$y = x + 1$$ and $$y = x - 1$$ because sine oscillates between -1 and 1.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ed12b8b4f8ed195e3c71a4adbc3dc8143afcc161"
+        ]
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "",
+        "Question": "Graph $$h ( x ) = x + \\sin{} x$$ on $$[ - 100 , 100 ] .$$ Did the graph appear as predicted in the previous exercise?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "",
+        "Question": "Graph $$f ( x ) = x \\sin{} x$$ on $$[ 0 , 2 \\pi ]$$ and verbalize how the graph varies from the graph of $$f ( x ) = \\sin{} x .$$",
+        "Image Links": [],
+        "Answer": "There is no amplitude because the function is not bounded.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7cdb1cbd174f5d300e3bccc17d07531ea9e0f4ab"
+        ]
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "",
+        "Question": "Graph $$f ( x ) = x \\sin{} x$$ on the window $$[ -10 , 10 ]$$ and explain what the graph shows.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "",
+        "Question": "Graph $$f ( x ) = \\frac{\\sin{x}}{x}$$ on the window $$[ -5 \\pi , 5 \\pi ]$$ and explain what the graph shows.",
+        "Image Links": [],
+        "Answer": "The graph is symmetric with respect to the y-axis and there is no amplitude because the function\u2019s bounds decrease as $$| x |$$ grows. There appears to be a horizontal asymptote at $$y = 0$$ .",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/24a9c053feb5ae1c3c33e956a80848a5c26e6d07"
+        ]
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A Ferris wheel is 25 meters in diameter and boarded from a platform that is 1 meter above the ground. The six o\u2019clock position on the Ferris wheel is level with the loading platform. The wheel completes 1 full revolution in 10 minutes. The function $$h ( t )$$ gives a person\u2019s height in meters above the ground t minutes after the wheel begins to turn. \u24d0 Find the amplitude, midline, and period of $$h ( t ) .$$ \u24d1 Find a formula for the height function $$h ( t ) .$$ \u24d2 How high off the ground is a person after 5 minutes?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

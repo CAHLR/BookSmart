@@ -1,0 +1,506 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Starting with the product to sum formula $$\\sin{\\alpha} \\cos{} \\beta = \\frac{1}{2} [ \\sin{} ( \\alpha + \\beta ) + \\sin{} ( \\alpha - \\beta ) ] ,$$ explain how to determine the formula for $$\\cos{\\alpha} \\sin{} \\beta .$$",
+        "Image Links": [],
+        "Answer": "Substitute $$\\text{ \u2009} \\alpha \\text{ \u2009}$$ into cosine and $$\\text{ \u2009} \\beta \\text{ \u2009}$$ into sine and evaluate.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Provide two different methods of calculating $$\\cos{(} 195\u00b0 ) \\cos{} ( 105\u00b0 ) ,$$ one of which uses the product to sum. Which method is easier?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Describe a situation where we would convert an equation from a sum to a product and give an example.",
+        "Image Links": [],
+        "Answer": "Answers will vary. There are some equations that involve a sum of two trig expressions where when converted to a product are easier to solve. For example: $$\\frac{\\sin{(} 3 x ) + \\sin{} x}{\\cos{x}} = 1. \\text{ \u2009}$$ When converting the numerator to a product the equation becomes: $$\\frac{2 \\sin{} ( 2 x ) \\cos{} x}{\\cos{x}} = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Describe a situation where we would convert an equation from a product to a sum, and give an example.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the product as a sum or difference.",
+        "Question": "$$16 \\sin{} ( 16 x ) \\sin{} ( 11 x )$$",
+        "Image Links": [],
+        "Answer": "$$8 ( \\cos{( 5 x )} - \\cos{} ( 27 x ) )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the product as a sum or difference.",
+        "Question": "$$20 \\cos{} ( 36 t ) \\cos{} ( 6 t )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the product as a sum or difference.",
+        "Question": "$$2 \\sin{} ( 5 x ) \\cos{} ( 3 x )$$",
+        "Image Links": [],
+        "Answer": "$$\\sin{( 2 x )} + \\sin{} ( 8 x )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the product as a sum or difference.",
+        "Question": "$$10 \\cos{} ( 5 x ) \\sin{} ( 10 x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the product as a sum or difference.",
+        "Question": "$$\\sin{( - x )} \\sin{} ( 5 x )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{2} ( \\cos{( 6 x )} - \\cos{} ( 4 x ) )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the product as a sum or difference.",
+        "Question": "$$\\sin{( 3 x )} \\cos{} ( 5 x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the sum or difference as a product.",
+        "Question": "$$\\cos{( 6 t )} + \\cos{} ( 4 t )$$",
+        "Image Links": [],
+        "Answer": "$$2 \\cos{} ( 5 t ) \\cos{} t$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the sum or difference as a product.",
+        "Question": "$$\\sin{( 3 x )} + \\sin{} ( 7 x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the sum or difference as a product.",
+        "Question": "$$\\cos{( 7 x )} + \\cos{} ( - 7 x )$$",
+        "Image Links": [],
+        "Answer": "$$2 \\cos{} ( 7 x )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the sum or difference as a product.",
+        "Question": "$$\\sin{( 3 x )} - \\sin{} ( - 3 x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the sum or difference as a product.",
+        "Question": "$$\\cos{( 3 x )} + \\cos{} ( 9 x )$$",
+        "Image Links": [],
+        "Answer": "$$2 \\cos{} ( 6 x ) \\cos{} ( 3 x )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the sum or difference as a product.",
+        "Question": "$$\\sin{h} - \\sin{} ( 3 h )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, evaluate the product for the following using a sum or difference of two functions. Evaluate exactly.",
+        "Question": "$$\\cos{( 45\u00b0 )} \\cos{} ( 15\u00b0 )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{4} ( 1 + \\sqrt{3} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, evaluate the product for the following using a sum or difference of two functions. Evaluate exactly.",
+        "Question": "$$\\cos{( 45\u00b0 )} \\sin{} ( 15\u00b0 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, evaluate the product for the following using a sum or difference of two functions. Evaluate exactly.",
+        "Question": "$$\\sin{( -345\u00b0 )} \\sin{} ( -15\u00b0 )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{4} ( \\sqrt{3} - 2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, evaluate the product for the following using a sum or difference of two functions. Evaluate exactly.",
+        "Question": "$$\\sin{( 195\u00b0 )} \\cos{} ( 15\u00b0 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, evaluate the product for the following using a sum or difference of two functions. Evaluate exactly.",
+        "Question": "$$\\sin{( -45\u00b0 )} \\sin{} ( -15\u00b0 )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{4} ( \\sqrt{3} - 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, evaluate the product using a sum or difference of two functions. Leave in terms of sine and cosine.",
+        "Question": "$$\\cos{( 23\u00b0 )} \\sin{} ( 17\u00b0 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, evaluate the product using a sum or difference of two functions. Leave in terms of sine and cosine.",
+        "Question": "$$2 \\sin{} ( 100\u00b0 ) \\sin{} ( 20\u00b0 )$$",
+        "Image Links": [],
+        "Answer": "$$\\cos{( 80\u00b0 )} - \\cos{} ( 120\u00b0 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, evaluate the product using a sum or difference of two functions. Leave in terms of sine and cosine.",
+        "Question": "$$2 \\sin{} ( -100\u00b0 ) \\sin{} ( -20\u00b0 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, evaluate the product using a sum or difference of two functions. Leave in terms of sine and cosine.",
+        "Question": "$$\\sin{( 213\u00b0 )} \\cos{} ( 8\u00b0 )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{2} ( \\sin{} ( 221\u00b0 ) + \\sin{} ( 205\u00b0 ) )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, evaluate the product using a sum or difference of two functions. Leave in terms of sine and cosine.",
+        "Question": "$$2 \\cos{} ( 56\u00b0 ) \\cos{} ( 47\u00b0 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the sum as a product of two functions. Leave in terms of sine and cosine.",
+        "Question": "$$\\sin{(} 76\u00b0 ) + \\sin{} ( 14\u00b0 )$$",
+        "Image Links": [],
+        "Answer": "$$\\sqrt{2} \\cos{} ( 31\u00b0 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the sum as a product of two functions. Leave in terms of sine and cosine.",
+        "Question": "$$\\cos{( 58\u00b0 )} - \\cos{} ( 12\u00b0 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the sum as a product of two functions. Leave in terms of sine and cosine.",
+        "Question": "$$\\sin{(} 101\u00b0 ) - \\sin{} ( 32\u00b0 )$$",
+        "Image Links": [],
+        "Answer": "$$2 \\cos{} ( 66.5\u00b0 ) \\sin{} ( 34.5\u00b0 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the sum as a product of two functions. Leave in terms of sine and cosine.",
+        "Question": "$$\\cos{( 100\u00b0 )} + \\cos{} ( 200\u00b0 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the sum as a product of two functions. Leave in terms of sine and cosine.",
+        "Question": "$$\\sin{(} -1\u00b0 ) + \\sin{} ( -2\u00b0 )$$",
+        "Image Links": [],
+        "Answer": "$$2 \\sin{} ( -1.5\u00b0 ) \\cos{} ( 0.5\u00b0 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, prove the identity.",
+        "Question": "$$\\frac{\\cos{(} a + b )}{\\cos{(} a - b )} = \\frac{1 - \\tan{} a \\tan{} b}{1 + \\tan{} a \\tan{} b}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, prove the identity.",
+        "Question": "$$4 \\sin{} ( 3 x ) \\cos{} ( 4 x ) = 2 \\sin{} ( 7 x ) - 2 \\sin{} x$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{a}2 \\sin{} ( 7 x ) - 2 \\sin{} x = 2 \\sin{} ( 4 x + 3 x ) - 2 \\sin{} ( 4 x - 3 x ) = \\\\ 2 ( \\sin{} ( 4 x ) \\cos{} ( 3 x ) + \\sin{} ( 3 x ) \\cos{} ( 4 x ) ) - 2 ( \\sin{} ( 4 x ) \\cos{} ( 3 x ) - \\sin{} ( 3 x ) \\cos{} ( 4 x ) ) = \\\\ 2 \\sin{} ( 4 x ) \\cos{} ( 3 x ) + 2 \\sin{} ( 3 x ) \\cos{} ( 4 x ) ) - 2 \\sin{} ( 4 x ) \\cos{} ( 3 x ) + 2 \\sin{} ( 3 x ) \\cos{} ( 4 x ) ) = \\\\ 4 \\sin{} ( 3 x ) \\cos{} ( 4 x ) \\\\ \\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, prove the identity.",
+        "Question": "$$\\frac{6 \\cos{} ( 8 x ) \\sin{} ( 2 x )}{\\sin{( - 6 x )}} = -3 \\sin{} ( 10 x ) \\csc{} ( 6 x ) + 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, prove the identity.",
+        "Question": "$$\\sin{x} + \\sin{} ( 3 x ) = 4 \\sin{} x \\cos{}^{2} x$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{aaa}\\sin{x} + \\sin{} ( 3 x ) & = & 2 \\sin{} ( \\frac{4 x}{2} ) \\cos{} ( \\frac{- 2 x}{2} ) = \\\\ 2 \\sin{} ( 2 x ) \\cos{} x & = & 2 ( 2 \\sin{} x \\cos{} x ) \\cos{} x = \\\\ 4 \\sin{} x \\cos{}^{2} x &  & \\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, prove the identity.",
+        "Question": "$$2 ( \\cos{}^{3} x - \\cos{} x \\sin{}^{2} x ) = \\cos{} ( 3 x ) + \\cos{} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, prove the identity.",
+        "Question": "$$2 \\tan{} x \\cos{} ( 3 x ) = \\sec{} x ( \\sin{( 4 x )} - \\sin{} ( 2 x ) )$$",
+        "Image Links": [],
+        "Answer": "$$None$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, prove the identity.",
+        "Question": "$$\\cos{( a + b )} + \\cos{} ( a - b ) = 2 \\cos{} a \\cos{} b$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, rewrite the sum as a product of two functions or the product as a sum of two functions. Give your answer in terms of sines and cosines. Then evaluate the final answer numerically, rounded to four decimal places.",
+        "Question": "$$\\cos{(} 58\u00b0 ) + \\cos{} ( 12\u00b0 )$$",
+        "Image Links": [],
+        "Answer": "$$2 \\cos{} ( 35\u00b0 ) \\cos{} ( 23\u00b0 ) , \\text{1.5081}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, rewrite the sum as a product of two functions or the product as a sum of two functions. Give your answer in terms of sines and cosines. Then evaluate the final answer numerically, rounded to four decimal places.",
+        "Question": "$$\\sin{(} 2\u00b0 ) - \\sin{} ( 3\u00b0 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, rewrite the sum as a product of two functions or the product as a sum of two functions. Give your answer in terms of sines and cosines. Then evaluate the final answer numerically, rounded to four decimal places.",
+        "Question": "$$\\cos{(} 44\u00b0 ) - \\cos{} ( 22\u00b0 )$$",
+        "Image Links": [],
+        "Answer": "$$- 2 \\sin{} ( 33\u00b0 ) \\sin{} ( 11\u00b0 ) , - 0.2078$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, rewrite the sum as a product of two functions or the product as a sum of two functions. Give your answer in terms of sines and cosines. Then evaluate the final answer numerically, rounded to four decimal places.",
+        "Question": "$$\\cos{(} 176\u00b0 ) \\sin{} ( 9\u00b0 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, rewrite the sum as a product of two functions or the product as a sum of two functions. Give your answer in terms of sines and cosines. Then evaluate the final answer numerically, rounded to four decimal places.",
+        "Question": "$$\\sin{(} -14\u00b0 ) \\sin{} ( 85\u00b0 )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{2} ( \\cos{} ( 99\u00b0 ) - \\cos{} ( 71\u00b0 ) ) , -0.2410$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, algebraically determine whether each of the given equation is an identity. If it is not an identity, replace the right-hand side with an expression equivalent to the left side. Verify the results by graphing both expressions on a calculator.",
+        "Question": "$$2 \\sin{} ( 2 x ) \\sin{} ( 3 x ) = \\cos{} x - \\cos{} ( 5 x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, algebraically determine whether each of the given equation is an identity. If it is not an identity, replace the right-hand side with an expression equivalent to the left side. Verify the results by graphing both expressions on a calculator.",
+        "Question": "$$\\frac{\\cos{( 10 \\theta )} + \\cos{} ( 6 \\theta )}{\\cos{( 6 \\theta )} - \\cos{} ( 10 \\theta )} = \\cot{} ( 2 \\theta ) \\cot{} ( 8 \\theta )$$",
+        "Image Links": [],
+        "Answer": "It is an identity.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, algebraically determine whether each of the given equation is an identity. If it is not an identity, replace the right-hand side with an expression equivalent to the left side. Verify the results by graphing both expressions on a calculator.",
+        "Question": "$$\\frac{\\sin{( 3 x )} - \\sin{} ( 5 x )}{\\cos{( 3 x )} + \\cos{} ( 5 x )} = \\tan{} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, algebraically determine whether each of the given equation is an identity. If it is not an identity, replace the right-hand side with an expression equivalent to the left side. Verify the results by graphing both expressions on a calculator.",
+        "Question": "$$2 \\cos{} ( 2 x ) \\cos{} x + \\sin{} ( 2 x ) \\sin{} x = 2 \\sin{} x$$",
+        "Image Links": [],
+        "Answer": "It is not an identity, but $$2 \\cos{}^{3} x$$ is.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, algebraically determine whether each of the given equation is an identity. If it is not an identity, replace the right-hand side with an expression equivalent to the left side. Verify the results by graphing both expressions on a calculator.",
+        "Question": "$$\\frac{\\sin{( 2 x )} + \\sin{} ( 4 x )}{\\sin{( 2 x )} - \\sin{} ( 4 x )} = - \\tan{} ( 3 x ) \\cot{} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, simplify the expression to one term, then graph the original function and your simplified version to verify they are identical.",
+        "Question": "$$\\frac{\\sin{( 9 t )} - \\sin{} ( 3 t )}{\\cos{( 9 t )} + \\cos{} ( 3 t )}$$",
+        "Image Links": [],
+        "Answer": "$$\\tan{( 3 t )}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, simplify the expression to one term, then graph the original function and your simplified version to verify they are identical.",
+        "Question": "$$2 \\sin{} ( 8 x ) \\cos{} ( 6 x ) - \\sin{} ( 2 x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, simplify the expression to one term, then graph the original function and your simplified version to verify they are identical.",
+        "Question": "$$\\frac{\\sin{( 3 x )} - \\sin{} x}{\\sin{x}}$$",
+        "Image Links": [],
+        "Answer": "$$2 \\cos{} ( 2 x )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, simplify the expression to one term, then graph the original function and your simplified version to verify they are identical.",
+        "Question": "$$\\frac{\\cos{( 5 x )} + \\cos{} ( 3 x )}{\\sin{( 5 x )} + \\sin{} ( 3 x )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, simplify the expression to one term, then graph the original function and your simplified version to verify they are identical.",
+        "Question": "$$\\sin{x} \\cos{} ( 15 x ) - \\cos{} x \\sin{} ( 15 x )$$",
+        "Image Links": [],
+        "Answer": "$$- \\sin{} ( 14 x )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, prove the following sum-to-product formulas.",
+        "Question": "$$\\sin{x} - \\sin{} y = 2 \\sin{} ( \\frac{x - y}{2} ) \\cos{} ( \\frac{x + y}{2} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, prove the following sum-to-product formulas.",
+        "Question": "$$\\cos{x} + \\cos{} y = 2 \\cos{} ( \\frac{x + y}{2} ) \\cos{} ( \\frac{x - y}{2} )$$",
+        "Image Links": [],
+        "Answer": "Start with $$\\cos{x} + \\cos{} y .$$ Make a substitution and let $$x = \\alpha + \\beta$$ and let $$y = \\alpha - \\beta ,$$ so $$\\cos{x} + \\cos{} y$$ becomes $$None$$ Since $$x = \\alpha + \\beta$$ and $$y = \\alpha - \\beta ,$$ we can solve for $$\\alpha$$ and $$\\beta$$ in terms of x and y and substitute in for $$2 \\cos{} \\alpha \\cos{} \\beta$$ and get $$2 \\cos{} ( \\frac{x + y}{2} ) \\cos{} ( \\frac{x - y}{2} ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, prove the identity.",
+        "Question": "$$\\frac{\\sin{(} 6 x ) + \\sin{} ( 4 x )}{\\sin{(} 6 x ) - \\sin{} ( 4 x )} = \\tan{} ( 5 x ) \\cot{} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, prove the identity.",
+        "Question": "$$\\frac{\\cos{(} 3 x ) + \\cos{} x}{\\cos{(} 3 x ) - \\cos{} x} = - \\cot{} ( 2 x ) \\cot{} x$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\cos{( 3 x )} + \\cos{} x}{\\cos{( 3 x )} - \\cos{} x} = \\frac{2 \\cos{} ( 2 x ) \\cos{} x}{- 2 \\sin{} ( 2 x ) \\sin{} x} = - \\cot{} ( 2 x ) \\cot{} x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, prove the identity.",
+        "Question": "$$\\frac{\\cos{(} 6 y ) + \\cos{} ( 8 y )}{\\sin{(} 6 y ) - \\sin{} ( 4 y )} = \\cot{} y \\cos{} ( 7 y ) \\sec{} ( 5 y )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, prove the identity.",
+        "Question": "$$\\frac{\\cos{( 2 y )} - \\cos{} ( 4 y )}{\\sin{( 2 y )} + \\sin{} ( 4 y )} = \\tan{} y$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{aaa}\\frac{\\cos{(} 2 y ) - \\cos{} ( 4 y )}{\\sin{(} 2 y ) + \\sin{} ( 4 y )} & = & \\frac{- 2 \\sin{} ( 3 y ) \\sin{} ( - y )}{2 \\sin{} ( 3 y ) \\cos{} y} = \\\\ \\frac{2 \\sin{} ( 3 y ) \\sin{} ( y )}{2 \\sin{} ( 3 y ) \\cos{} y} & = & \\tan{y}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, prove the identity.",
+        "Question": "$$\\frac{\\sin{( 10 x )} - \\sin{} ( 2 x )}{\\cos{( 10 x )} + \\cos{} ( 2 x )} = \\tan{} ( 4 x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, prove the identity.",
+        "Question": "$$\\cos{x} - \\cos{} ( 3 x ) = 4 \\sin{}^{2} x \\cos{} x$$",
+        "Image Links": [],
+        "Answer": "$$None$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, prove the identity.",
+        "Question": "$$( \\cos{} ( 2 x ) - \\cos{} ( 4 x ) )^{2} + ( \\sin{} ( 4 x ) + \\sin{} ( 2 x ) )^{2} = 4 \\sin{}^{2} ( 3 x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, prove the identity.",
+        "Question": "$$\\tan{( \\frac{\\pi}{4} - t )} = \\frac{1 - \\tan{} t}{1 + \\tan{} t}$$",
+        "Image Links": [],
+        "Answer": "$$\\tan{( \\frac{\\pi}{4} - t )} = \\frac{\\tan{( \\frac{\\pi}{4} )} - \\tan{} t}{1 + \\tan{} ( \\frac{\\pi}{4} ) \\tan{} ( t )} = \\frac{1 - \\tan{} t}{1 + \\tan{} t}$$",
+        "Answer Image Links": []
+    }
+]

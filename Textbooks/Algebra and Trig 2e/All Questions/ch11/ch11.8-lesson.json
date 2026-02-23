@@ -1,0 +1,530 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Explain why we can always evaluate the determinant of a square matrix.",
+        "Image Links": [],
+        "Answer": "A determinant is the sum and products of the entries in the matrix, so you can always evaluate that product-even if it does end up being 0.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Examining Cramer\u2019s Rule, explain why there is no unique solution to the system when the determinant of your matrix is 0. For simplicity, use a $$2 \\times 2$$ matrix.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Explain what it means in terms of an inverse for a matrix to have a 0 determinant.",
+        "Image Links": [],
+        "Answer": "The inverse does not exist.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "The determinant of $$2 \\times 2$$ matrix $$A$$ is 3. If you switch the rows and multiply the first row by 6 and the second row by 2, explain how to find the determinant and provide the answer.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the determinant.",
+        "Question": "$$\\left |\\begin{matrix}1 & 2 \\\\ 3 & 4\\end{matrix}\\right |$$",
+        "Image Links": [],
+        "Answer": "$$- 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the determinant.",
+        "Question": "$$\\left |\\begin{matrix}- 1 & 2 \\\\ 3 & - 4\\end{matrix}\\right |$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the determinant.",
+        "Question": "$$\\left |\\begin{matrix}2 & - 5 \\\\ - 1 & 6\\end{matrix}\\right |$$",
+        "Image Links": [],
+        "Answer": "$$7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the determinant.",
+        "Question": "$$\\left |\\begin{matrix}- 8 & 4 \\\\ - 1 & 5\\end{matrix}\\right |$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the determinant.",
+        "Question": "$$\\left |\\begin{matrix}1 & 0 \\\\ 3 & - 4\\end{matrix}\\right |$$",
+        "Image Links": [],
+        "Answer": "$$- 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the determinant.",
+        "Question": "$$\\left |\\begin{matrix}10 & 20 \\\\ 0 & - 10\\end{matrix}\\right |$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the determinant.",
+        "Question": "$$\\left |\\begin{matrix}10 & 0.2 \\\\ 5 & 0.1\\end{matrix}\\right |$$",
+        "Image Links": [],
+        "Answer": "$$0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the determinant.",
+        "Question": "$$\\left |\\begin{matrix}6 & - 3 \\\\ 8 & 4\\end{matrix}\\right |$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the determinant.",
+        "Question": "$$\\left |\\begin{matrix}- 2 & - 3 \\\\ 3.1 & 4 , 000\\end{matrix}\\right |$$",
+        "Image Links": [],
+        "Answer": "$$- 7 , 990.7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the determinant.",
+        "Question": "$$\\left |\\begin{matrix}- 1.1 & 0.6 \\\\ 7.2 & - 0.5\\end{matrix}\\right |$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the determinant.",
+        "Question": "$$\\left |\\begin{matrix}- 1 & 0 & 0 \\\\ 0 & 1 & 0 \\\\ 0 & 0 & - 3\\end{matrix}\\right |$$",
+        "Image Links": [],
+        "Answer": "$$3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the determinant.",
+        "Question": "$$\\left |\\begin{matrix}- 1 & 4 & 0 \\\\ 0 & 2 & 3 \\\\ 0 & 0 & - 3\\end{matrix}\\right |$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the determinant.",
+        "Question": "$$\\left |\\begin{matrix}1 & 0 & 1 \\\\ 0 & 1 & 0 \\\\ 1 & 0 & 0\\end{matrix}\\right |$$",
+        "Image Links": [],
+        "Answer": "$$- 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the determinant.",
+        "Question": "$$\\left |\\begin{matrix}2 & - 3 & 1 \\\\ 3 & - 4 & 1 \\\\ - 5 & 6 & 1\\end{matrix}\\right |$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the determinant.",
+        "Question": "$$\\left |\\begin{matrix}- 2 & 1 & 4 \\\\ - 4 & 2 & - 8 \\\\ 2 & - 8 & - 3\\end{matrix}\\right |$$",
+        "Image Links": [],
+        "Answer": "$$224$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the determinant.",
+        "Question": "$$\\left |\\begin{matrix}6 & - 1 & 2 \\\\ - 4 & - 3 & 5 \\\\ 1 & 9 & - 1\\end{matrix}\\right |$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the determinant.",
+        "Question": "$$\\left |\\begin{matrix}5 & 1 & - 1 \\\\ 2 & 3 & 1 \\\\ 3 & - 6 & - 3\\end{matrix}\\right |$$",
+        "Image Links": [],
+        "Answer": "$$15$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the determinant.",
+        "Question": "$$\\left |\\begin{matrix}1.1 & 2 & - 1 \\\\ - 4 & 0 & 0 \\\\ 4.1 & - 0.4 & 2.5\\end{matrix}\\right |$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the determinant.",
+        "Question": "$$\\left |\\begin{matrix}2 & - 1.6 & 3.1 \\\\ 1.1 & 3 & - 8 \\\\ - 9.3 & 0 & 2\\end{matrix}\\right |$$",
+        "Image Links": [],
+        "Answer": "$$- 17.03$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the determinant.",
+        "Question": "$$\\left |\\begin{matrix}- \\frac{1}{2} & \\frac{1}{3} & \\frac{1}{4} \\\\ \\frac{1}{5} & - \\frac{1}{6} & \\frac{1}{7} \\\\ 0 & 0 & \\frac{1}{8}\\end{matrix}\\right |$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the system of linear equations using Cramer\u2019s Rule.",
+        "Question": "$$\\left .\\begin{matrix}{a}2 x - 3 y = -1 \\\\ 4 x + 5 y = 9\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( 1 , 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the system of linear equations using Cramer\u2019s Rule.",
+        "Question": "$$\\left .\\begin{matrix}{a}5 x - 4 y = 2 \\\\ - 4 x + 7 y = 6\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the system of linear equations using Cramer\u2019s Rule.",
+        "Question": "$$\\left .\\begin{matrix}{a}6 x - 3 y = 2 \\\\ - 8 x + 9 y = -1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( \\frac{1}{2} , \\frac{1}{3} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the system of linear equations using Cramer\u2019s Rule.",
+        "Question": "$$\\left .\\begin{matrix}{a}2 x + 6 y = 12 \\\\ 5 x - 2 y = 13\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the system of linear equations using Cramer\u2019s Rule.",
+        "Question": "$$\\left .\\begin{matrix}{a}4 x + 3 y = 23 \\\\ 2 x - y = -1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( 2 , 5 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the system of linear equations using Cramer\u2019s Rule.",
+        "Question": "$$\\left .\\begin{matrix}{a}10 x - 6 y = 2 \\\\ - 5 x + 8 y = -1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the system of linear equations using Cramer\u2019s Rule.",
+        "Question": "$$\\left .\\begin{matrix}{a}4 x - 3 y = -3 \\\\ 2 x + 6 y = -4\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( - 1 , - \\frac{1}{3} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the system of linear equations using Cramer\u2019s Rule.",
+        "Question": "$$\\left .\\begin{matrix}{a}4 x - 5 y = 7 \\\\ - 3 x + 9 y = 0\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the system of linear equations using Cramer\u2019s Rule.",
+        "Question": "$$\\left .\\begin{matrix}{a}4 x + 10 y = 180 \\\\ - 3 x - 5 y = -105\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( 15 , 12 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the system of linear equations using Cramer\u2019s Rule.",
+        "Question": "$$\\left .\\begin{matrix}{a}8 x - 2 y = -3 \\\\ - 4 x + 6 y = 4\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the system of linear equations using Cramer\u2019s Rule.",
+        "Question": "$$\\left .\\begin{matrix}{a}x + 2 y - 4 z = - 1 \\\\ 7 x + 3 y + 5 z = 26 \\\\ - 2 x - 6 y + 7 z = - 6\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( 1 , 3 , 2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the system of linear equations using Cramer\u2019s Rule.",
+        "Question": "$$\\left .\\begin{matrix}{a}- 5 x + 2 y - 4 z = - 47 \\\\ 4 x - 3 y - z = - 94 \\\\ 3 x - 3 y + 2 z = 94\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the system of linear equations using Cramer\u2019s Rule.",
+        "Question": "$$\\left .\\begin{matrix}{a}4 x + 5 y - z = -7 \\\\ -2 x - 9 y + 2 z = 8 \\\\ 5 y + 7 z = 21\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( - 1 , 0 , 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the system of linear equations using Cramer\u2019s Rule.",
+        "Question": "$$\\left .\\begin{matrix}{a}4 x - 3 y + 4 z = 10 \\\\ 5 x - 2 z = - 2 \\\\ 3 x + 2 y - 5 z = - 9\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the system of linear equations using Cramer\u2019s Rule.",
+        "Question": "$$\\left .\\begin{matrix}{a}4 x - 2 y + 3 z = 6 \\\\ - 6 x + y = - 2 \\\\ 2 x + 7 y + 8 z = 24\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( \\frac{1}{2} , 1 , 2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the system of linear equations using Cramer\u2019s Rule.",
+        "Question": "$$\\left .\\begin{matrix}{a}5 x + 2 y - z = 1 \\\\ - 7 x - 8 y + 3 z = 1.5 \\\\ 6 x - 12 y + z = 7\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the system of linear equations using Cramer\u2019s Rule.",
+        "Question": "$$\\left .\\begin{matrix}{a}13 x - 17 y + 16 z = 73 \\\\ - 11 x + 15 y + 17 z = 61 \\\\ 46 x + 10 y - 30 z = - 18\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( 2 , 1 , 4 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the system of linear equations using Cramer\u2019s Rule.",
+        "Question": "$$\\left .\\begin{matrix}{a} \\\\ - 4 x - 3 y - 8 z = - 7 \\\\ 2 x - 9 y + 5 z = 0.5 \\\\ 5 x - 6 y - 5 z = - 2\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the system of linear equations using Cramer\u2019s Rule.",
+        "Question": "$$\\left .\\begin{matrix}{a}4 x - 6 y + 8 z = 10 \\\\ - 2 x + 3 y - 4 z = - 5 \\\\ x + y + z = 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "Infinite solutions",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the system of linear equations using Cramer\u2019s Rule.",
+        "Question": "$$\\left .\\begin{matrix}{a}4 x - 6 y + 8 z = 10 \\\\ - 2 x + 3 y - 4 z = - 5 \\\\ 12 x + 18 y - 24 z = - 30\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use the determinant function on a graphing utility.",
+        "Question": "$$\\left |\\begin{matrix}1 & 0 & 8 & 9 \\\\ 0 & 2 & 1 & 0 \\\\ 1 & 0 & 3 & 0 \\\\ 0 & 2 & 4 & 3\\end{matrix}\\right |$$",
+        "Image Links": [],
+        "Answer": "$$24$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use the determinant function on a graphing utility.",
+        "Question": "$$\\left |\\begin{matrix}1 & 0 & 2 & 1 \\\\ 0 & -9 & 1 & 3 \\\\ 3 & 0 & -2 & -1 \\\\ 0 & 1 & 1 & -2\\end{matrix}\\right |$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use the determinant function on a graphing utility.",
+        "Question": "$$\\left |\\begin{matrix}\\frac{1}{2} & 1 & 7 & 4 \\\\ 0 & \\frac{1}{2} & 100 & 5 \\\\ 0 & 0 & 2 & 2,000 \\\\ 0 & 0 & 0 & 2\\end{matrix}\\right |$$",
+        "Image Links": [],
+        "Answer": "$$1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use the determinant function on a graphing utility.",
+        "Question": "$$\\left |\\begin{matrix}1 & 0 & 0 & 0 \\\\ 2 & 3 & 0 & 0 \\\\ 4 & 5 & 6 & 0 \\\\ 7 & 8 & 9 & 0\\end{matrix}\\right |$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, create a system of linear equations to describe the behavior. Then, calculate the determinant. Will there be a unique solution? If so, find the unique solution.",
+        "Question": "Two numbers add up to 56. One number is 20 less than the other.",
+        "Image Links": [],
+        "Answer": "Yes; 18, 38",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, create a system of linear equations to describe the behavior. Then, calculate the determinant. Will there be a unique solution? If so, find the unique solution.",
+        "Question": "Two numbers add up to 104. If you add two times the first number plus two times the second number, your total is 208",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, create a system of linear equations to describe the behavior. Then, calculate the determinant. Will there be a unique solution? If so, find the unique solution.",
+        "Question": "Three numbers add up to 106. The first number is 3 less than the second number. The third number is 4 more than the first number.",
+        "Image Links": [],
+        "Answer": "Yes; 33, 36, 37",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, create a system of linear equations to describe the behavior. Then, calculate the determinant. Will there be a unique solution? If so, find the unique solution.",
+        "Question": "Three numbers add to 216. The sum of the first two numbers is 112. The third number is 8 less than the first two numbers combined.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, create a system of linear equations to describe the behavior. Then, solve the system for all solutions using Cramer\u2019s Rule.",
+        "Question": "You invest $10,000 into two accounts, which receive 8% interest and 5% interest. At the end of a year, you had $10,710 in your combined accounts. How much was invested in each account?",
+        "Image Links": [],
+        "Answer": "$7,000 in first account, $3,000 in second account.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, create a system of linear equations to describe the behavior. Then, solve the system for all solutions using Cramer\u2019s Rule.",
+        "Question": "You invest $80,000 into two accounts, $22,000 in one account, and $58,000 in the other account. At the end of one year, assuming simple interest, you have earned $2,470 in interest. The second account receives half a percent less than twice the interest on the first account. What are the interest rates for your accounts?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, create a system of linear equations to describe the behavior. Then, solve the system for all solutions using Cramer\u2019s Rule.",
+        "Question": "A theater needs to know how many adult tickets and children tickets were sold out of the 1,200 total tickets. If children\u2019s tickets are $5.95, adult tickets are $11.15, and the total amount of revenue was $12,756, how many children\u2019s tickets and adult tickets were sold?",
+        "Image Links": [],
+        "Answer": "120 children, 1,080 adult",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, create a system of linear equations to describe the behavior. Then, solve the system for all solutions using Cramer\u2019s Rule.",
+        "Question": "A concert venue sells single tickets for $40 each and couple\u2019s tickets for $65. If the total revenue was $18,090 and the 321 tickets were sold, how many single tickets and how many couple\u2019s tickets were sold?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, create a system of linear equations to describe the behavior. Then, solve the system for all solutions using Cramer\u2019s Rule.",
+        "Question": "You decide to paint your kitchen green. You create the color of paint by mixing yellow and blue paints. You cannot remember how many gallons of each color went into your mix, but you know there were 10 gal total. Additionally, you kept your receipt, and know the total amount spent was $29.50. If each gallon of yellow costs $2.59, and each gallon of blue costs $3.19, how many gallons of each color go into your green mix?",
+        "Image Links": [],
+        "Answer": "4 gal yellow, 6 gal blue",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, create a system of linear equations to describe the behavior. Then, solve the system for all solutions using Cramer\u2019s Rule.",
+        "Question": "You sold two types of scarves at a farmers\u2019 market and would like to know which one was more popular. The total number of scarves sold was 56, the yellow scarf cost $10, and the purple scarf cost $11. If you had total revenue of $583, how many yellow scarves and how many purple scarves were sold?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, create a system of linear equations to describe the behavior. Then, solve the system for all solutions using Cramer\u2019s Rule.",
+        "Question": "Your garden produced two types of tomatoes, one green and one red. The red weigh 10 oz, and the green weigh 4 oz. You have 30 tomatoes, and a total weight of 13 lb, 14 oz. How many of each type of tomato do you have?",
+        "Image Links": [],
+        "Answer": "13 green tomatoes, 17 red tomatoes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, create a system of linear equations to describe the behavior. Then, solve the system for all solutions using Cramer\u2019s Rule.",
+        "Question": "At a market, the three most popular vegetables make up 53% of vegetable sales. Corn has 4% higher sales than broccoli, which has 5% more sales than onions. What percentage does each vegetable have in the market share?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, create a system of linear equations to describe the behavior. Then, solve the system for all solutions using Cramer\u2019s Rule.",
+        "Question": "At the same market, the three most popular fruits make up 37% of the total fruit sold. Strawberries sell twice as much as oranges, and kiwis sell one more percentage point than oranges. For each fruit, find the percentage of total fruit sold.",
+        "Image Links": [],
+        "Answer": "Strawberries 18%, oranges 9%, kiwi 10%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, create a system of linear equations to describe the behavior. Then, solve the system for all solutions using Cramer\u2019s Rule.",
+        "Question": "Three artists performed at a concert venue. The first one charged $15 per ticket, the second artist charged $45 per ticket, and the final one charged $22 per ticket. There were 510 tickets sold, for a total of $12,700. If the first band had 40 more audience members than the second band, how many tickets were sold for each band?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, create a system of linear equations to describe the behavior. Then, solve the system for all solutions using Cramer\u2019s Rule.",
+        "Question": "A movie theatre sold tickets to three movies. The tickets to the first movie were $5, the tickets to the second movie were $11, and the third movie was $12. 100 tickets were sold to the first movie. The total number of tickets sold was 642, for a total revenue of $6,774. How many tickets for each movie were sold?",
+        "Image Links": [],
+        "Answer": "100 for movie 1, 230 for movie 2, 312 for movie 3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, use this scenario: A health-conscious company decides to make a trail mix out of almonds, dried cranberries, and chocolate-covered cashews. The nutritional information for these items is shown in Table 1 .\nTable 1\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|}\n\\hline\n & Fat (g) & Protein (g) & Carbohydrates (g) \\\\ \\hline\nAlmonds (10) & 6 & 2 & 3 \\\\ \\hline\nCranberries (10) & 0.02 & 0 & 8 \\\\ \\hline\nCashews (10) & 7 & 3.5 & 5.5 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "For the special \u201clow-carb\u201dtrail mix, there are 1,000 pieces of mix. The total number of carbohydrates is 425 g, and the total amount of fat is 570.2 g. If there are 200 more pieces of cashews than cranberries, how many of each item is in the trail mix?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, use this scenario: A health-conscious company decides to make a trail mix out of almonds, dried cranberries, and chocolate-covered cashews. The nutritional information for these items is shown in Table 1 .\nTable 1\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|}\n\\hline\n & Fat (g) & Protein (g) & Carbohydrates (g) \\\\ \\hline\nAlmonds (10) & 6 & 2 & 3 \\\\ \\hline\nCranberries (10) & 0.02 & 0 & 8 \\\\ \\hline\nCashews (10) & 7 & 3.5 & 5.5 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "For the \u201chiking\u201d mix, there are 1,000 pieces in the mix, containing 390.8 g of fat, and 165 g of protein. If there is the same amount of almonds as cashews, how many of each item is in the trail mix?",
+        "Image Links": [],
+        "Answer": "300 almonds, 400 cranberries, 300 cashews",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, use this scenario: A health-conscious company decides to make a trail mix out of almonds, dried cranberries, and chocolate-covered cashews. The nutritional information for these items is shown in Table 1 .\nTable 1\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|}\n\\hline\n & Fat (g) & Protein (g) & Carbohydrates (g) \\\\ \\hline\nAlmonds (10) & 6 & 2 & 3 \\\\ \\hline\nCranberries (10) & 0.02 & 0 & 8 \\\\ \\hline\nCashews (10) & 7 & 3.5 & 5.5 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "For the \u201cenergy-booster\u201d mix, there are 1,000 pieces in the mix, containing 145 g of protein and 625 g of carbohydrates. If the number of almonds and cashews summed together is equivalent to the amount of cranberries, how many of each item is in the trail mix?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

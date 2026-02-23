@@ -1,0 +1,434 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "For the following exercises, assume that there are $$n$$ ways an event $$A$$ can happen, $$m$$ ways an event $$B$$ can happen, and that $$A \\text{and\u00a0} B$$ are non-overlapping.",
+        "Question": "Use the Addition Principle of counting to explain how many ways event $$A \\text{or\u00a0} B$$ can occur.",
+        "Image Links": [],
+        "Answer": "There are $$m + n$$ ways for either event $$A$$ or event $$B$$ to occur.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "For the following exercises, assume that there are $$n$$ ways an event $$A$$ can happen, $$m$$ ways an event $$B$$ can happen, and that $$A \\text{and\u00a0} B$$ are non-overlapping.",
+        "Question": "Use the Multiplication Principle of counting to explain how many ways event $$A \\text{and\u00a0} B$$ can occur.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "Answer the following questions.",
+        "Question": "When given two separate events, how do we know whether to apply the Addition Principle or the Multiplication Principle when calculating possible outcomes? What conjunctions may help to determine which operations to use?",
+        "Image Links": [],
+        "Answer": "The addition principle is applied when determining the total possible of outcomes of either event occurring. The multiplication principle is applied when determining the total possible outcomes of both events occurring. The word \u201cor\u201d usually implies an addition problem. The word \u201cand\u201d usually implies a multiplication problem.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "Answer the following questions.",
+        "Question": "Describe how the permutation of $$n$$ objects differs from the permutation of choosing $$r$$ objects from a set of $$n$$ objects. Include how each is calculated.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "Answer the following questions.",
+        "Question": "What is the term for the arrangement that selects $$r$$ objects from a set of $$n$$ objects when the order of the $$r$$ objects is not important? What is the formula for calculating the number of possible outcomes for this type of arrangement?",
+        "Image Links": [],
+        "Answer": "A combination; $$C ( n , r ) = \\frac{n !}{( n - r ) ! r !}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, determine whether to use the Addition Principle or the Multiplication Principle. Then perform the calculations.",
+        "Question": "Let the set $$A = \\{ - 5 , - 3 , - 1 , 2 , 3 , 4 , 5 , 6 \\} .$$ How many ways are there to choose a negative or an even number from $$A?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, determine whether to use the Addition Principle or the Multiplication Principle. Then perform the calculations.",
+        "Question": "Let the set $$B = \\{ - 23 , - 16 , - 7 , - 2 , 20 , 36 , 48 , 72 \\} .$$ How many ways are there to choose a positive or an odd number from $$A ?$$",
+        "Image Links": [],
+        "Answer": "$$4 + 2 = 6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, determine whether to use the Addition Principle or the Multiplication Principle. Then perform the calculations.",
+        "Question": "How many ways are there to pick a red ace or a club from a standard card playing deck?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, determine whether to use the Addition Principle or the Multiplication Principle. Then perform the calculations.",
+        "Question": "How many ways are there to pick a paint color from 5 shades of green, 4 shades of blue, or 7 shades of yellow?",
+        "Image Links": [],
+        "Answer": "$$5 + 4 + 7 = 16$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, determine whether to use the Addition Principle or the Multiplication Principle. Then perform the calculations.",
+        "Question": "How many outcomes are possible from tossing a pair of coins?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, determine whether to use the Addition Principle or the Multiplication Principle. Then perform the calculations.",
+        "Question": "How many outcomes are possible from tossing a coin and rolling a 6-sided die?",
+        "Image Links": [],
+        "Answer": "$$2 \\times 6 = 12$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, determine whether to use the Addition Principle or the Multiplication Principle. Then perform the calculations.",
+        "Question": "How many two-letter strings-the first letter from $$A$$ and the second letter from $$B -$$ can be formed from the sets $$A = \\{ b , c , d \\}$$ and $$B = \\{ a , e , i , o , u \\} ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, determine whether to use the Addition Principle or the Multiplication Principle. Then perform the calculations.",
+        "Question": "How many ways are there to construct a string of 3 digits if numbers can be repeated?",
+        "Image Links": [],
+        "Answer": "$$10^{3} = 1000$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, determine whether to use the Addition Principle or the Multiplication Principle. Then perform the calculations.",
+        "Question": "How many ways are there to construct a string of 3 digits if numbers cannot be repeated?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, compute the value of the expression.",
+        "Question": "$$P ( 5 , 2 )$$",
+        "Image Links": [],
+        "Answer": "$$P ( 5 , 2 ) = 20$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, compute the value of the expression.",
+        "Question": "$$P ( 8 , 4 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, compute the value of the expression.",
+        "Question": "$$P ( 3 , 3 )$$",
+        "Image Links": [],
+        "Answer": "$$P ( 3 , 3 ) = 6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, compute the value of the expression.",
+        "Question": "$$P ( 9 , 6 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, compute the value of the expression.",
+        "Question": "$$P ( 11 , 5 )$$",
+        "Image Links": [],
+        "Answer": "$$P ( 11 , 5 ) = 55 , 440$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, compute the value of the expression.",
+        "Question": "$$C ( 8 , 5 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, compute the value of the expression.",
+        "Question": "$$C ( 12 , 4 )$$",
+        "Image Links": [],
+        "Answer": "$$C ( 12 , 4 ) = 495$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, compute the value of the expression.",
+        "Question": "$$C ( 26 , 3 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, compute the value of the expression.",
+        "Question": "$$C ( 7 , 6 )$$",
+        "Image Links": [],
+        "Answer": "$$C ( 7 , 6 ) = 7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, compute the value of the expression.",
+        "Question": "$$C ( 10 , 3 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, find the number of subsets in each given set.",
+        "Question": "$$\\{ 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 , 10 \\}$$",
+        "Image Links": [],
+        "Answer": "$$2^{10} = 1024$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, find the number of subsets in each given set.",
+        "Question": "$$\\{ a , b , c , \\ldots , z \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, find the number of subsets in each given set.",
+        "Question": "A set containing 5 distinct numbers, 4 distinct letters, and 3 distinct symbols",
+        "Image Links": [],
+        "Answer": "$$2^{12} = 4096$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, find the number of subsets in each given set.",
+        "Question": "The set of even numbers from 2 to 28",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, find the number of subsets in each given set.",
+        "Question": "The set of two-digit numbers between 1 and 100 containing the digit 0",
+        "Image Links": [],
+        "Answer": "$$2^{9} = 512$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, find the distinct number of arrangements.",
+        "Question": "The letters in the word \u201cjuggernaut\u201d",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, find the distinct number of arrangements.",
+        "Question": "The letters in the word \u201cacademia\u201d",
+        "Image Links": [],
+        "Answer": "$$\\frac{8 !}{3 !} = 6720$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, find the distinct number of arrangements.",
+        "Question": "The letters in the word  \u201cacademia\u201d that begin and end in \u201ca\u201d",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, find the distinct number of arrangements.",
+        "Question": "The symbols in the string #,#,#,@,@,$,$,$,%,%,%,%",
+        "Image Links": [],
+        "Answer": "$$\\frac{12 !}{3 ! 2 ! 3 ! 4 !}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, find the distinct number of arrangements.",
+        "Question": "The symbols in the string #,#,#,@,@,$,$,$,%,%,%,% that begin and end with \u201c%\u201d",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "The set, $$S$$ consists of $$\\text{900,000,000}$$ whole numbers, each being the same number of digits long. How many digits long is a number from $$S ?$$ ( Hint: use the fact that a whole number cannot start with the digit 0.)",
+        "Image Links": [],
+        "Answer": "9",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "The number of 5-element subsets from a set containing $$n$$ elements is equal to the number of 6-element subsets from the same set. What is the value of $$n ?$$ ( Hint: the order in which the elements for the subsets are chosen is not important.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Can $$C ( n , r )$$ ever equal $$P ( n , r ) ?$$ Explain.",
+        "Image Links": [],
+        "Answer": "Yes, for the trivial cases $$r = 0$$ and $$r = 1.$$ If $$r = 0 ,$$ then $$C ( n , r ) = P ( n , r ) = 1 \\text{.\u2009}$$ If $$r = 1 ,$$ then $$r = 1 ,$$ $$C ( n , r ) = P ( n , r ) = n .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Suppose a set $$A$$ has 2,048 subsets. How many distinct objects are contained in $$A ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "How many arrangements can be made from the letters of the word \u201cmountains\u201d if all the vowels must form a string?",
+        "Image Links": [],
+        "Answer": "$$\\frac{6 !}{2 !} \\times 4 ! = 8640$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A family consisting of 2 parents and 3 children is to pose for a picture with 2 family members in the front and 3 in the back. \u24d0 How many arrangements are possible with no restrictions? \u24d1 How many arrangements are possible if the parents must sit in the front? \u24d2 How many arrangements are possible if the parents must be next to each other?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A cell phone company offers 6 different voice packages and 8 different data packages. Of those, 3 packages include both voice and data. How many ways are there to choose either voice or data, but not both?",
+        "Image Links": [],
+        "Answer": "$$6 - 3 + 8 - 3 = 8$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "In horse racing, a \u201ctrifecta\u201d occurs when a bettor wins by selecting the first three finishers in the exact order (1st place, 2nd place, and 3rd place). How many different trifectas are possible if there are 14 horses in a race?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A wholesale T-shirt company offers sizes small, medium, large, and extra-large in organic or non-organic cotton and colors white, black, gray, blue, and red. How many different T-shirts are there to choose from?",
+        "Image Links": [],
+        "Answer": "$$4 \\times 2 \\times 5 = 40$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Hector wants to place billboard advertisements throughout the county for his new business. How many ways can Hector choose 15 neighborhoods to advertise in if there are 30 neighborhoods in the county?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "An art store has 4 brands of paint pens in 12 different colors and 3 types of ink. How many paint pens are there to choose from?",
+        "Image Links": [],
+        "Answer": "$$4 \\times 12 \\times 3 = 144$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "How many ways can a committee of 3 freshmen and 4 juniors be formed from a group of $$8$$ freshmen and $$11$$ juniors?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "How many ways can a baseball coach arrange the order of 9 batters if there are 15 players on the team?",
+        "Image Links": [],
+        "Answer": "$$P ( 15 , 9 ) = 1 , 816 , 214 , 400$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A conductor needs 5 cellists and 5 violinists to play at a diplomatic event. To do this, he ranks the orchestra\u2019s 10 cellists and 16 violinists in order of musical proficiency. What is the ratio of the total cellist rankings possible to the total violinist rankings possible?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A motorcycle shop has 10 choppers, 6 bobbers, and 5 caf\u00e9 racers-different types of vintage motorcycles. How many ways can the shop choose 3 choppers, 5 bobbers, and 2 caf\u00e9 racers for a weekend showcase?",
+        "Image Links": [],
+        "Answer": "$$C ( 10 , 3 ) \\times C ( 6 , 5 ) \\times C ( 5 , 2 ) = 7 , 200$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A skateboard shop stocks 10 types of board decks, 3 types of trucks, and 4 types of wheels. How many different skateboards can be constructed?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Just-For-Kicks Sneaker Company offers an online customizing service. How many ways are there to design a custom pair of Just-For-Kicks sneakers if a customer can choose from a basic shoe up to 11 customizable options?",
+        "Image Links": [],
+        "Answer": "$$2^{11} = 2048$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A car wash offers the following optional services to the basic wash: clear coat wax, triple foam polish, undercarriage wash, rust inhibitor, wheel brightener, air freshener, and interior shampoo. How many washes are possible if any number of options can be added to the basic wash?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Suni bought 20 plants to arrange along the border of her garden. How many distinct arrangements can she make if the plants are comprised of 6 tulips, 6 roses, and 8 daisies?",
+        "Image Links": [],
+        "Answer": "$$\\frac{20 !}{6 ! 6 ! 8 !} = 116 , 396 , 280$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "How many unique ways can a string of Christmas lights be arranged from 9 red, 10 green, 6 white, and 12 gold color bulbs?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

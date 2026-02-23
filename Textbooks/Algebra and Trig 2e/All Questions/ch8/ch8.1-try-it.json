@@ -1,0 +1,104 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "Determine the period of the function $$g ( x ) = \\cos{} ( \\frac{x}{3} ) .$$",
+        "Image Links": [],
+        "Answer": "$$6 \\pi$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "What is the amplitude of the sinusoidal function $$f ( x ) = \\frac{1}{2} \\sin{} ( x ) ?$$ Is the function stretched or compressed vertically?",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{2}$$ compressed",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "Determine the direction and magnitude of the phase shift for $$f ( x ) = 3 \\cos{} ( x - \\frac{\\pi}{2} ) .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\pi}{2} ;$$ right",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "Determine the direction and magnitude of the vertical shift for $$f ( x ) = 3 \\sin{} ( x ) + 2.$$",
+        "Image Links": [],
+        "Answer": "2 units up",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #5",
+        "Problem Statement": "",
+        "Question": "Determine the midline, amplitude, period, and phase shift of the function $$y = \\frac{1}{2} \\cos{} ( \\frac{x}{3} - \\frac{\\pi}{3} ) .$$",
+        "Image Links": [],
+        "Answer": "midline: $$y = 0 ;$$ amplitude: $$| A | = \\frac{1}{2} ;$$ period: $$P = \\frac{2 \\pi}{| B |} = 6 \\pi ;$$ phase shift: $$\\frac{C}{B} = \\pi$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #6",
+        "Problem Statement": "",
+        "Question": "Determine the formula for the sine function in Figure 16 . Figure 16",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0ab22215a4fdfda2447029a9f774d71ff3f9d997"
+        ],
+        "Answer": "$$f ( x ) = \\sin{} ( x ) + 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #7",
+        "Problem Statement": "",
+        "Question": "Write a formula for the function graphed in Figure 18 . Figure 18",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0a72e61383d20d28157fe7cf55c26a0af832c086"
+        ],
+        "Answer": "two possibilities: $$y = 4 \\sin{} ( \\frac{\\pi}{5} x - \\frac{\\pi}{5} ) + 4$$ or $$y = - 4 \\sin{} ( \\frac{\\pi}{5} x + \\frac{4 \\pi}{5} ) + 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #8",
+        "Problem Statement": "",
+        "Question": "Sketch a graph of $$g ( x ) = - 0.8 \\cos{} ( 2 x ) .$$ Determine the midline, amplitude, period, and phase shift.",
+        "Image Links": [],
+        "Answer": "midline: $$y = 0 ;$$ amplitude: $$| A | = 0.8 ;$$ period: $$P = \\frac{2 \\pi}{| B |} = \\pi ;$$ phase shift: $$\\frac{C}{B} = 0$$ or none",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d432f5a8040ebb4fdfbb73186bf9ff05e849f0c0"
+        ]
+    },
+    {
+        "Topic": "Try It #9",
+        "Problem Statement": "",
+        "Question": "Draw a graph of $$g ( x ) = - 2 \\cos{} ( \\frac{\\pi}{3} x + \\frac{\\pi}{6} ) .$$ Determine the midline, amplitude, period, and phase shift.",
+        "Image Links": [],
+        "Answer": "midline: $$y = 0 ;$$ amplitude: $$| A | = 2 ;$$ period: $$P = \\frac{2 \\pi}{| B |} = 6 ;$$ phase shift: $$\\frac{C}{B} = - \\frac{1}{2}$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/26dd40dfb45e5f2bc7a071bd694250dcba245be7"
+        ]
+    },
+    {
+        "Topic": "Try It #10",
+        "Problem Statement": "",
+        "Question": "What is the amplitude of the function $$f ( x ) = 7 \\cos{} ( x ) ?$$ Sketch a graph of this function.",
+        "Image Links": [],
+        "Answer": "7",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/86fa9e0048d285fece900015363ed3c8cc09e941"
+        ]
+    },
+    {
+        "Topic": "Try It #11",
+        "Problem Statement": "",
+        "Question": "A weight is attached to a spring that is then hung from a board, as shown in Figure 25 . As the spring oscillates up and down, the position $$y$$ of the weight relative to the board ranges from $$-1$$ in. (at time $$x = 0 )$$ to $$-7$$ in. (at time $$x = \\pi )$$ below the board. Assume the position of $$y$$ is given as a sinusoidal function of $$x .$$ Sketch a graph of the function, and then find a cosine function that gives the position $$y$$ in terms of $$x .$$ Figure 25",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5126c5ed7c78c5c5c2434f5bd0429eb69f082d7c"
+        ],
+        "Answer": "$$y = 3 \\cos{} ( x ) - 4$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/73020a0f5f556222edf2367508f3a63c84c69abc"
+        ]
+    }
+]

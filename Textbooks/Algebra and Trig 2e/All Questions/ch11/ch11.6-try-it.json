@@ -1,0 +1,50 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "Write the augmented matrix of the given system of equations. $$\\left .\\begin{matrix}{a}4 x -3 y = 11 \\\\ 3 x + 2 y = 4\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$[ \\left .\\begin{matrix}{aa}4 & -3 \\\\ 3 & 2\\end{matrix}\\right . | \\left .\\begin{matrix}{a}11 \\\\ 4\\end{matrix}\\right . ]$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "Write the system of equations from the augmented matrix. $$[ \\left .\\begin{matrix}{aaa}1 & -1 & 1 \\\\ 2 & -1 & 3 \\\\ 0 & 1 & 1\\end{matrix}\\right . | \\left .\\begin{matrix}{a}5 \\\\ 1 \\\\ -9\\end{matrix}\\right . ]$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{a}x - y + z = 5 \\\\ 2 x - y + 3 z = 1 \\\\ y + z = -9\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "Solve the given system by Gaussian elimination. $$\\left .\\begin{matrix}{a}4 x + 3 y = 11 \\\\ \\text{\u00a0} \\text{} \\text{} x -3 y = -1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( 2 , 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "Write the system of equations in row-echelon form. $$\\left .\\begin{matrix}{a}\\text{\u00a0} x - 2 y + 3 z = 9 \\\\ - x + 3 y = - 4 \\\\ 2 x - 5 y + 5 z = 17\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$[ \\left .\\begin{matrix}{aaa}1 & - \\frac{5}{2} & \\frac{5}{2} \\\\ \\text{\u200b} 0 & 1 & 5 \\\\ 0 & 0 & 1\\end{matrix}\\right . | \\left .\\begin{matrix}{a}\\frac{17}{2} \\\\ 9 \\\\ 2\\end{matrix}\\right . ]$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #5",
+        "Problem Statement": "",
+        "Question": "Solve the system using matrices. $$\\left .\\begin{matrix}{a}x + 4 y - z = 4 \\\\ 2 x + 5 y + 8 z = 15 \\\\ x + 3 y -3 z = 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( 1 , 1 , 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #6",
+        "Problem Statement": "",
+        "Question": "A small shoe company took out a loan of $1,500,000 to expand their inventory. Part of the money was borrowed at 7%, part was borrowed at 8%, and part was borrowed at 10%. The amount borrowed at 10% was four times the amount borrowed at 7%, and the annual interest on all three loans was $130,500. Use matrices to find the amount borrowed at each rate.",
+        "Image Links": [],
+        "Answer": "$150,000 at 7%, $750,000 at 8%, $600,000 at 10%",
+        "Answer Image Links": []
+    }
+]

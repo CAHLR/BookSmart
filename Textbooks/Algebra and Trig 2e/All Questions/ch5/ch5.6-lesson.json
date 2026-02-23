@@ -1,0 +1,742 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What is the fundamental difference in the algebraic representation of a polynomial function and a rational function?",
+        "Image Links": [],
+        "Answer": "The rational function will be represented by a quotient of polynomial functions.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What is the fundamental difference in the graphs of polynomial functions and rational functions?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "If the graph of a rational function has a removable discontinuity, what must be true of the functional rule?",
+        "Image Links": [],
+        "Answer": "The numerator and denominator must have a common factor.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Can a graph of a rational function have no vertical asymptote? If so, how?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Can a graph of a rational function have no x -intercepts? If so, how?",
+        "Image Links": [],
+        "Answer": "Yes. The numerator of the formula of the functions would have only complex roots and/or factors common to both the numerator and denominator.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain of the rational functions.",
+        "Question": "$$f ( x ) = \\frac{x - 1}{x + 2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain of the rational functions.",
+        "Question": "$$f ( x ) = \\frac{x + 1}{x^{2} - 1}$$",
+        "Image Links": [],
+        "Answer": "$$\\text{All\u00a0reals\u00a0} x \\ne - 1 , \\  1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain of the rational functions.",
+        "Question": "$$f ( x ) = \\frac{x^{2} + 4}{x^{2} - 2 x - 8}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain of the rational functions.",
+        "Question": "$$f ( x ) = \\frac{x^{2} + 4 x - 3}{x^{4} - 5 x^{2} + 4}$$",
+        "Image Links": [],
+        "Answer": "$$\\text{All\u00a0reals\u00a0} x \\ne - 1 , \\  - 2 , \\  1 , \\  2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain, vertical asymptotes, and horizontal asymptotes of the functions.",
+        "Question": "$$f ( x ) = \\frac{4}{x - 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain, vertical asymptotes, and horizontal asymptotes of the functions.",
+        "Question": "$$f ( x ) = \\frac{2}{5 x + 2}$$",
+        "Image Links": [],
+        "Answer": "V.A. at $$x = - \\frac{2}{5} ;$$ H.A. at $$y = 0 ;$$ Domain is all reals $$x \\ne - \\frac{2}{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain, vertical asymptotes, and horizontal asymptotes of the functions.",
+        "Question": "$$f ( x ) = \\frac{x}{x^{2} - 9}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain, vertical asymptotes, and horizontal asymptotes of the functions.",
+        "Question": "$$f ( x ) = \\frac{x}{x^{2} + 5 x - 36}$$",
+        "Image Links": [],
+        "Answer": "V.A. at $$x = 4 , \\  - 9 ;$$ H.A. at $$y = 0 ;$$ Domain is all reals $$x \\ne 4 , \\  - 9$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain, vertical asymptotes, and horizontal asymptotes of the functions.",
+        "Question": "$$f ( x ) = \\frac{3 + x}{x^{3} - 27}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain, vertical asymptotes, and horizontal asymptotes of the functions.",
+        "Question": "$$f ( x ) = \\frac{3 x - 4}{x^{3} - 16 x}$$",
+        "Image Links": [],
+        "Answer": "V.A. at $$x = 0 , \\  4 , \\  - 4 ;$$ H.A. at $$y = 0 ;$$ Domain is all reals $$x \\ne 0 , 4 , \\  - 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain, vertical asymptotes, and horizontal asymptotes of the functions.",
+        "Question": "$$f ( x ) = \\frac{x^{2} - 1}{x^{3} + 9 x^{2} + 14 x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain, vertical asymptotes, and horizontal asymptotes of the functions.",
+        "Question": "$$f ( x ) = \\frac{x + 5}{x^{2} - 25}$$",
+        "Image Links": [],
+        "Answer": "V.A. at $$x = 5 ;$$ H.A. at $$y = 0 ;$$ Domain is all reals $$x \\ne 5 , - 5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain, vertical asymptotes, and horizontal asymptotes of the functions.",
+        "Question": "$$f ( x ) = \\frac{x - 4}{x - 6}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain, vertical asymptotes, and horizontal asymptotes of the functions.",
+        "Question": "$$f ( x ) = \\frac{4 - 2 x}{3 x - 1}$$",
+        "Image Links": [],
+        "Answer": "V.A. at $$x = \\frac{1}{3} ;$$ H.A. at $$y = - \\frac{2}{3} ;$$ Domain is all reals $$x \\ne \\frac{1}{3} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the x - and y -intercepts for the functions.",
+        "Question": "$$f ( x ) = \\frac{x + 5}{x^{2} + 4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the x - and y -intercepts for the functions.",
+        "Question": "$$f ( x ) = \\frac{x}{x^{2} - x}$$",
+        "Image Links": [],
+        "Answer": "none",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the x - and y -intercepts for the functions.",
+        "Question": "$$f ( x ) = \\frac{x^{2} + 8 x + 7}{x^{2} + 11 x + 30}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the x - and y -intercepts for the functions.",
+        "Question": "$$f ( x ) = \\frac{x^{2} + x + 6}{x^{2} - 10 x + 24}$$",
+        "Image Links": [],
+        "Answer": "$$x \\text{-intercepts\u00a0none,\u00a0} y \\text{-intercept\u00a0} ( 0 , \\frac{1}{4} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the x - and y -intercepts for the functions.",
+        "Question": "$$f ( x ) = \\frac{94 - 2 x^{2}}{3 x^{2} - 12}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, describe the local and end behavior of the functions.",
+        "Question": "$$f ( x ) = \\frac{x}{2 x + 1}$$",
+        "Image Links": [],
+        "Answer": "Local behavior: $$x \\vec{} - \\frac{1}{2}^{+} , f ( x ) \\vec{} - \\infty , x \\vec{} - \\frac{1}{2}^{-} , f ( x ) \\vec{} \\infty$$ End behavior: $$x \\vec{} \\pm \\infty , f ( x ) \\vec{} \\frac{1}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, describe the local and end behavior of the functions.",
+        "Question": "$$f ( x ) = \\frac{2 x}{x - 6}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, describe the local and end behavior of the functions.",
+        "Question": "$$f ( x ) = \\frac{- 2 x}{x - 6}$$",
+        "Image Links": [],
+        "Answer": "Local behavior: $$x \\vec{} 6^{+} , f ( x ) \\vec{} - \\infty , x \\vec{} 6^{-} , f ( x ) \\vec{} \\infty ,$$ End behavior: $$x \\vec{} \\pm \\infty , f ( x ) \\vec{} - 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, describe the local and end behavior of the functions.",
+        "Question": "$$f ( x ) = \\frac{x^{2} - 4 x + 3}{x^{2} - 4 x - 5}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, describe the local and end behavior of the functions.",
+        "Question": "$$f ( x ) = \\frac{2 x^{2} - 32}{6 x^{2} + 13 x - 5}$$",
+        "Image Links": [],
+        "Answer": "Local behavior: $$x \\vec{} \\frac{1}{3}^{+} , f ( x ) \\vec{} - \\infty , x \\vec{} \\frac{1}{3}^{-} ,$$ $$f ( x ) \\vec{} \\infty , x \\vec{} \\frac{5}{2}^{+} , f ( x ) \\vec{} \\infty , x \\vec{} \\frac{5}{2}^{-} , f ( x ) \\vec{} - \\infty$$ End behavior: $$x \\vec{} \\pm \\infty , f ( x ) \\vec{} \\frac{1}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the slant asymptote of the functions.",
+        "Question": "$$f ( x ) = \\frac{24 x^{2} + 6 x}{2 x + 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the slant asymptote of the functions.",
+        "Question": "$$f ( x ) = \\frac{4 x^{2} - 10}{2 x - 4}$$",
+        "Image Links": [],
+        "Answer": "$$y = 2 x + 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the slant asymptote of the functions.",
+        "Question": "$$f ( x ) = \\frac{81 x^{2} - 18}{3 x - 2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the slant asymptote of the functions.",
+        "Question": "$$f ( x ) = \\frac{6 x^{3} - 5 x}{3 x^{2} + 4}$$",
+        "Image Links": [],
+        "Answer": "$$y = 2 x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the slant asymptote of the functions.",
+        "Question": "$$f ( x ) = \\frac{x^{2} + 5 x + 4}{x - 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the given transformation to graph the function. Note the vertical and horizontal asymptotes.",
+        "Question": "The reciprocal function shifted up two units.",
+        "Image Links": [],
+        "Answer": "$$V . A . \\text{} x = 0 , H . A . \\text{} y = 2$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/898dcf50c71855fdecc6bd56e8fbe5d554977a23"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the given transformation to graph the function. Note the vertical and horizontal asymptotes.",
+        "Question": "The reciprocal function shifted down one unit and left three units.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the given transformation to graph the function. Note the vertical and horizontal asymptotes.",
+        "Question": "The reciprocal squared function shifted to the right 2 units.",
+        "Image Links": [],
+        "Answer": "$$V . A . \\text{} x = 2 , \\text{} H . A . \\text{} y = 0$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6594d3d23b7354aa9a9c6098838dce6e1f7d0b75"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the given transformation to graph the function. Note the vertical and horizontal asymptotes.",
+        "Question": "The reciprocal squared function shifted down 2 units and right 1 unit.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the horizontal intercepts, the vertical intercept, the vertical asymptotes, and the horizontal or slant asymptote of the functions. Use that information to sketch a graph.",
+        "Question": "$$p ( x ) = \\frac{2 x - 3}{x + 4}$$",
+        "Image Links": [],
+        "Answer": "$$V . A . \\text{} x = - 4 , \\text{} H . A . \\text{} y = 2 ; ( \\frac{3}{2} , 0 ) ; ( 0 , - \\frac{3}{4} )$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6e8892035d1f515e78a73fb2f1b20491126bc9da"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the horizontal intercepts, the vertical intercept, the vertical asymptotes, and the horizontal or slant asymptote of the functions. Use that information to sketch a graph.",
+        "Question": "$$q ( x ) = \\frac{x - 5}{3 x - 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the horizontal intercepts, the vertical intercept, the vertical asymptotes, and the horizontal or slant asymptote of the functions. Use that information to sketch a graph.",
+        "Question": "$$s ( x ) = \\frac{4}{( x - 2 )^{2}}$$",
+        "Image Links": [],
+        "Answer": "$$V . A . \\text{} x = 2 , \\text{} H . A . \\text{} y = 0 , \\text{} ( 0 , 1 )$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b2f635caa2e73d7dff8343af20430214bbf4b2ed"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the horizontal intercepts, the vertical intercept, the vertical asymptotes, and the horizontal or slant asymptote of the functions. Use that information to sketch a graph.",
+        "Question": "$$r ( x ) = \\frac{5}{( x + 1 )^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the horizontal intercepts, the vertical intercept, the vertical asymptotes, and the horizontal or slant asymptote of the functions. Use that information to sketch a graph.",
+        "Question": "$$f ( x ) = \\frac{3 x^{2} - 14 x - 5}{3 x^{2} + 8 x - 16}$$",
+        "Image Links": [],
+        "Answer": "$$V . A . \\text{} x = - 4 , \\text{} x = \\frac{4}{3} , \\text{} H . A . \\text{} y = 1 ; ( 5 , 0 ) ; ( - \\frac{1}{3} , 0 ) ; ( 0 , \\frac{5}{16} )$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9c831b026b4b518fb22fda35bd90b54e898fc645"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the horizontal intercepts, the vertical intercept, the vertical asymptotes, and the horizontal or slant asymptote of the functions. Use that information to sketch a graph.",
+        "Question": "$$g ( x ) = \\frac{2 x^{2} + 7 x - 15}{3 x^{2} - 14 x + 15}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the horizontal intercepts, the vertical intercept, the vertical asymptotes, and the horizontal or slant asymptote of the functions. Use that information to sketch a graph.",
+        "Question": "$$a ( x ) = \\frac{x^{2} + 2 x - 3}{x^{2} - 1}$$",
+        "Image Links": [],
+        "Answer": "$$V . A . \\text{} x = - 1 , \\text{} H . A . \\text{} y = 1 ; ( - 3 , 0 ) ; ( 0 , 3 )$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e25f566b43f85e3aa89935e3b99b634055c61fcc"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the horizontal intercepts, the vertical intercept, the vertical asymptotes, and the horizontal or slant asymptote of the functions. Use that information to sketch a graph.",
+        "Question": "$$b ( x ) = \\frac{x^{2} - x - 6}{x^{2} - 4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the horizontal intercepts, the vertical intercept, the vertical asymptotes, and the horizontal or slant asymptote of the functions. Use that information to sketch a graph.",
+        "Question": "$$h ( x ) = \\frac{2 x^{2} + \\  x - 1}{x - 4}$$",
+        "Image Links": [],
+        "Answer": "$$V . A . \\text{} x = 4 , \\text{} S . A . \\text{} y = 2 x + 9 ; ( - 1 , 0 ) ; ( \\frac{1}{2} , 0 ) ; ( 0 , \\frac{1}{4} )$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7d4cac1f198b1d34555ced36d34f5743330a8837"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the horizontal intercepts, the vertical intercept, the vertical asymptotes, and the horizontal or slant asymptote of the functions. Use that information to sketch a graph.",
+        "Question": "$$k ( x ) = \\frac{2 x^{2} - 3 x - 20}{x - 5}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the horizontal intercepts, the vertical intercept, the vertical asymptotes, and the horizontal or slant asymptote of the functions. Use that information to sketch a graph.",
+        "Question": "$$w ( x ) = \\frac{( x - 1 ) ( x + 3 ) ( x - 5 )}{( x + 2 )^{2} ( x - 4 )}$$",
+        "Image Links": [],
+        "Answer": "$$V . A . \\text{} x = - 2 , \\text{} x = 4 , \\text{} H . A . \\text{} y = 1 , ( 1 , 0 ) ; ( 5 , 0 ) ; ( - 3 , 0 ) ; ( 0 , - \\frac{15}{16} )$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9e6232f3755e0cbbd59104e5b1569218d696aca0"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the horizontal intercepts, the vertical intercept, the vertical asymptotes, and the horizontal or slant asymptote of the functions. Use that information to sketch a graph.",
+        "Question": "$$z ( x ) = \\frac{( x + 2 )^{2} ( x - 5 )}{( x - 3 ) ( x + 1 ) ( x + 4 )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, write an equation for a rational function with the given characteristics.",
+        "Question": "Vertical asymptotes at $$x = 5$$ and $$x = -5 ,$$ x -intercepts at $$( 2 , 0 )$$ and $$( -1 , 0 ) ,$$ y -intercept at $$( 0 , 4 )$$",
+        "Image Links": [],
+        "Answer": "$$y = 50 \\frac{x^{2} - x - 2}{x^{2} - 25}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, write an equation for a rational function with the given characteristics.",
+        "Question": "Vertical asymptotes at $$x = -4$$ and $$x = -1 ,$$ x- intercepts at $$( 1 , 0 )$$ and $$( 5 , 0 ) ,$$ y- intercept at $$( 0 , 7 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, write an equation for a rational function with the given characteristics.",
+        "Question": "Vertical asymptotes at $$x = -4$$ and $$x = -5 ,$$ x -intercepts at $$( 4 , 0 )$$ and $$( -6 , 0 ) ,$$ Horizontal asymptote at $$y = 7$$",
+        "Image Links": [],
+        "Answer": "$$y = 7 \\frac{x^{2} + 2 x - 24}{x^{2} + 9 x + 20}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, write an equation for a rational function with the given characteristics.",
+        "Question": "Vertical asymptotes at $$x = -3$$ and $$x = 6 ,$$ x -intercepts at $$( -2 , 0 )$$ and $$( 1 , 0 ) ,$$ Horizontal asymptote at $$y = -2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, write an equation for a rational function with the given characteristics.",
+        "Question": "Vertical asymptote at $$x = -1 ,$$ Double zero at $$x = 2 ,$$ y -intercept at $$( 0 , 2 )$$",
+        "Image Links": [],
+        "Answer": "$$y = \\frac{1}{2} \\frac{x^{2} - 4 x + 4}{x + 1}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, write an equation for a rational function with the given characteristics.",
+        "Question": "Vertical asymptote at $$x = 3 ,$$ Double zero at $$x = 1 ,$$ y -intercept at $$( 0 , 4 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graphs to write an equation for the function.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a61cd8aa12673f2b8f11f5707bc38d562df88f1d"
+        ],
+        "Answer": "$$y = 4 \\frac{x - 3}{x^{2} - x - 12}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graphs to write an equation for the function.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/cf0a69ff96314d09fe08c5a445e40cacb7099e98"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graphs to write an equation for the function.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3533949f2aa521113155f69bff0ab495e0cd6687"
+        ],
+        "Answer": "$$y = \\frac{27 ( x - 2 )}{( x + 3 ) ( x - 3 )^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graphs to write an equation for the function.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/40ee2842549d2c2f462d50ecb5d2e8c8948480ff"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graphs to write an equation for the function.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7cfe5f96970df558906cf60c9ca578feafc49aa1"
+        ],
+        "Answer": "$$y = \\frac{1}{3} \\frac{x^{2} + x - 6}{x - 1}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graphs to write an equation for the function.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/eeac3aa5f237664a04997293c01f5229d032fa53"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graphs to write an equation for the function.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/fae7e1ff7940b51da6c6f8a822c05444dc7b1d86"
+        ],
+        "Answer": "$$y = - 6 \\frac{( x - 1 )^{2}}{( x + 3 ) ( x - 2 )^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graphs to write an equation for the function.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/460f0e208e7b2b3cb9285c8c724a287faebaeee7"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, make tables to show the behavior of the function near the vertical asymptote and reflecting the horizontal asymptote",
+        "Question": "$$f ( x ) = \\frac{1}{x - 2}$$",
+        "Image Links": [],
+        "Answer": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\n$$x$$ & 2.01 & 2.001 & 2.0001 & 1.99 & 1.999 \\\\ \\hline\n$$y$$ & 100 & 1,000 & 10,000 & -100 & -1,000 \\\\ \\hline\n\\end{tabular}\n\\end{table} \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\n$$x$$ & 10 & 100 & 1,000 & 10,000 & 100,000 \\\\ \\hline\n$$y$$ & .125 & .0102 & .001 & .0001 & .00001 \\\\ \\hline\n\\end{tabular}\n\\end{table} Vertical asymptote $$x = 2 ,$$ Horizontal asymptote $$y = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, make tables to show the behavior of the function near the vertical asymptote and reflecting the horizontal asymptote",
+        "Question": "$$f ( x ) = \\frac{x}{x - 3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, make tables to show the behavior of the function near the vertical asymptote and reflecting the horizontal asymptote",
+        "Question": "$$f ( x ) = \\frac{2 x}{x + 4}$$",
+        "Image Links": [],
+        "Answer": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\n$$x$$ & -4.1 & -4.01 & -4.001 & -3.99 & -3.999 \\\\ \\hline\n$$y$$ & 82 & 802 & 8,002 & -798 & -7998 \\\\ \\hline\n\\end{tabular}\n\\end{table} \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\n$$x$$ & 10 & 100 & 1,000 & 10,000 & 100,000 \\\\ \\hline\n$$y$$ & 1.4286 & 1.9331 & 1.992 & 1.9992 & 1.999992 \\\\ \\hline\n\\end{tabular}\n\\end{table} Vertical asymptote $$x = - 4 ,$$ Horizontal asymptote $$y = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, make tables to show the behavior of the function near the vertical asymptote and reflecting the horizontal asymptote",
+        "Question": "$$f ( x ) = \\frac{2 x}{( x - 3 )^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, make tables to show the behavior of the function near the vertical asymptote and reflecting the horizontal asymptote",
+        "Question": "$$f ( x ) = \\frac{x^{2}}{x^{2} + 2 x + 1}$$",
+        "Image Links": [],
+        "Answer": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\n$$x$$ & -.9 & -.99 & -.999 & -1.1 & -1.01 \\\\ \\hline\n$$y$$ & 81 & 9,801 & 998,001 & 121 & 10,201 \\\\ \\hline\n\\end{tabular}\n\\end{table} \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\n$$x$$ & 10 & 100 & 1,000 & 10,000 & 100,000 \\\\ \\hline\n$$y$$ & .82645 & .9803 & .998 & .9998 &  \\\\ \\hline\n\\end{tabular}\n\\end{table} Vertical asymptote $$x = - 1 ,$$ Horizontal asymptote $$y = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to graph $$f ( x ) .$$ Use the graph to solve $$f ( x ) > 0.$$",
+        "Question": "$$f ( x ) = \\frac{2}{x + 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to graph $$f ( x ) .$$ Use the graph to solve $$f ( x ) > 0.$$",
+        "Question": "$$f ( x ) = \\frac{4}{2 x - 3}$$",
+        "Image Links": [],
+        "Answer": "$$( \\frac{3}{2} , \\infty )$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/cb63c91d386bcde28953fc811a5f140523ad41a0"
+        ]
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to graph $$f ( x ) .$$ Use the graph to solve $$f ( x ) > 0.$$",
+        "Question": "$$f ( x ) = \\frac{2}{( x - 1 ) ( x + 2 )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to graph $$f ( x ) .$$ Use the graph to solve $$f ( x ) > 0.$$",
+        "Question": "$$f ( x ) = \\frac{x + 2}{( x - 1 ) ( x - 4 )}$$",
+        "Image Links": [],
+        "Answer": "$$( - 2 , 1 ) \\cup ( 4 , \\infty )$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/222d687beef5e65ba8545db433a33fbd810d06e5"
+        ]
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to graph $$f ( x ) .$$ Use the graph to solve $$f ( x ) > 0.$$",
+        "Question": "$$f ( x ) = \\frac{( x + 3 )^{2}}{( x - 1 )^{2} ( x + 1 )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, identify the removable discontinuity.",
+        "Question": "$$f ( x ) = \\frac{x^{2} - 4}{x - 2}$$",
+        "Image Links": [],
+        "Answer": "$$( 2 , 4 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, identify the removable discontinuity.",
+        "Question": "$$f ( x ) = \\frac{x^{3} + 1}{x + 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, identify the removable discontinuity.",
+        "Question": "$$f ( x ) = \\frac{x^{2} + x - 6}{x - 2}$$",
+        "Image Links": [],
+        "Answer": "$$( 2 , 5 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, identify the removable discontinuity.",
+        "Question": "$$f ( x ) = \\frac{2 x^{2} + 5 x - 3}{x + 3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, identify the removable discontinuity.",
+        "Question": "$$f ( x ) = \\frac{x^{3} + x^{2}}{x + 1}$$",
+        "Image Links": [],
+        "Answer": "$$( - 1 , \\text{1} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, express a rational function that describes the situation.",
+        "Question": "In the refugee camp hospital, a large mixing tank currently contains 200 gallons of water, into which 10 pounds of sugar have been mixed. A tap will open, pouring 10 gallons of water per minute into the tank at the same time sugar is poured into the tank at a rate of 3 pounds per minute. Find the concentration (pounds per gallon) of sugar in the tank after $$t$$ minutes.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, express a rational function that describes the situation.",
+        "Question": "In the refugee camp hospital, a large mixing tank currently contains 300 gallons of water, into which 8 pounds of sugar have been mixed. A tap will open, pouring 20 gallons of water per minute into the tank at the same time sugar is poured into the tank at a rate of 2 pounds per minute. Find the concentration (pounds per gallon) of sugar in the tank after $$t$$ minutes.",
+        "Image Links": [],
+        "Answer": "$$C ( t ) = \\frac{8 + 2 t}{300 + 20 t}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, use the given rational function to answer the question.",
+        "Question": "The concentration $$C$$ of a drug in a patient\u2019s bloodstream $$t$$ hours after injection is given by $$C ( t ) = \\frac{2 t}{3 + t^{2}} .$$ What happens to the concentration of the drug as $$t$$ increases?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, use the given rational function to answer the question.",
+        "Question": "The concentration $$C$$ of a drug in a patient\u2019s bloodstream $$t$$ hours after injection is given by $$C ( t ) = \\frac{100 t}{2 t^{2} + 75} .$$ Use a calculator to approximate the time when the concentration is highest.",
+        "Image Links": [],
+        "Answer": "After about 6.12 hours.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, construct a rational function that will help solve the problem. Then, use a calculator to answer the question.",
+        "Question": "An open box with a square base is to have a volume of 108 cubic inches. Find the dimensions of the box that will have minimum surface area. Let $$x$$ = length of the side of the base.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, construct a rational function that will help solve the problem. Then, use a calculator to answer the question.",
+        "Question": "A rectangular box with a square base is to have a volume of 20 cubic feet. The material for the base costs 30 cents/ square foot. The material for the sides costs 10 cents/square foot. The material for the top costs 20 cents/square foot. Determine the dimensions that will yield minimum cost. Let $$x$$ = length of the side of the base.",
+        "Image Links": [],
+        "Answer": "$$A ( x ) = 50 x^{2} + \\frac{800}{x} .$$ 2 by 2 by 5 feet.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, construct a rational function that will help solve the problem. Then, use a calculator to answer the question.",
+        "Question": "A right circular cylinder has volume of 100 cubic inches. Find the radius and height that will yield minimum surface area. Let $$x$$ = radius.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, construct a rational function that will help solve the problem. Then, use a calculator to answer the question.",
+        "Question": "A right circular cylinder with no top has a volume of 50 cubic meters. Find the radius that will yield minimum surface area. Let $$x$$ = radius.",
+        "Image Links": [],
+        "Answer": "$$A ( x ) = \\pi x^{2} + \\frac{100}{x} .$$ Radius = 2.52 meters.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, construct a rational function that will help solve the problem. Then, use a calculator to answer the question.",
+        "Question": "A right circular cylinder is to have a volume of 40 cubic inches. It costs 4 cents/square inch to construct the top and bottom and 1 cent/square inch to construct the rest of the cylinder. Find the radius to yield minimum cost. Let $$x$$ = radius.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

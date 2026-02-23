@@ -1,0 +1,36 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "Using the data in Table 1 , find the average rate of change between 2005 and 2010.\nTable 1\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|c|c|}\n\\hline\nyy & 2005 & 2006 & 2007 & 2008 & 2009 & 2010 & 2011 & 2012 \\\\ \\hline\nC(y)C(y) & 2.31 & 2.62 & 2.84 & 3.30 & 2.41 & 2.84 & 3.58 & 3.68 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "$$\\frac{$ 2.84 - $ 2.31}{5 \\text{years}} = \\frac{$ 0.53}{5 \\text{years}} = $ 0.106$$ per year.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "Find the average rate of change of $$f ( x ) = x - 2 \\sqrt{x}$$ on the interval $$[ 1 , 9 ] .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "Find the average rate of change of $$f ( x ) = x^{2} + 2 x - 8$$ on the interval $$[ 5 , a ]$$ in simplest forms in terms of $$a .$$",
+        "Image Links": [],
+        "Answer": "$$a + 7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "Graph the function $$f ( x ) = x^{3} - 6 x^{2} - 15 x + 20$$ to estimate the local extrema of the function. Use these to determine the intervals on which the function is increasing and decreasing.",
+        "Image Links": [],
+        "Answer": "The local maximum appears to occur at $$( - 1 , 28 ) ,$$ and the local minimum occurs at $$( 5 , - 80 ) .$$ The function is increasing on $$( - \\infty , - 1 ) \\cup ( 5 , \\infty )$$ and decreasing on $$( - 1 , 5 ) .$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/11c7b4fdf95bfa15af5b8e130c14018e252f69b8"
+        ]
+    }
+]

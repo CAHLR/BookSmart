@@ -1,0 +1,70 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "Use arrow notation to describe the end behavior and local behavior for the reciprocal squared function.",
+        "Image Links": [],
+        "Answer": "End behavior: as $$x \\vec{} \\pm \\infty , \\  f ( x ) \\vec{} 0 ;$$ Local behavior: as $$x \\vec{} 0 , \\  f ( x ) \\vec{} \\infty$$ (there are no x - or y -intercepts)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "Sketch the graph, and find the horizontal and vertical asymptotes of the reciprocal squared function that has been shifted right 3 units and down 4 units.",
+        "Image Links": [],
+        "Answer": "The function and the asymptotes are shifted 3 units right and 4 units down. As $$x \\vec{} 3 , f ( x ) \\vec{} \\infty ,$$ and as $$x \\vec{} \\pm \\infty , f ( x ) \\vec{} - 4.$$ The function is $$f ( x ) = \\frac{1}{( x - 3 )^{2}} - 4.$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1317868d9b395af0e17bcfddcd8a624e65f51478"
+        ]
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "There are 1,200 first-year and 1,500 second-year students at a rally at noon. After 12 p.m., 20 first-year students arrive at the rally every five minutes while 15 second-year students leave the rally. Find the ratio of first-year to second-year students at 1 p.m.",
+        "Image Links": [],
+        "Answer": "$$\\frac{12}{11}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "Find the domain of $$f ( x ) = \\frac{4 x}{5 ( x - 1 ) ( x - 5 )} .$$",
+        "Image Links": [],
+        "Answer": "The domain is all real numbers except $$x = 1$$ and $$x = 5.$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #5",
+        "Problem Statement": "",
+        "Question": "Find the vertical asymptotes and removable discontinuities of the graph of $$f ( x ) = \\frac{x^{2} - 25}{x^{3} - 6 x^{2} + 5 x} .$$",
+        "Image Links": [],
+        "Answer": "Removable discontinuity at $$x = 5.$$ Vertical asymptotes: $$x = 0 , \\text{} x = 1.$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #6",
+        "Problem Statement": "",
+        "Question": "Find the vertical and horizontal asymptotes of the function: $$f ( x ) = \\frac{( 2 x - 1 ) ( 2 x + 1 )}{( x - 2 ) ( x + 3 )}$$",
+        "Image Links": [],
+        "Answer": "Vertical asymptotes at $$x = 2$$ and $$x = - 3 ;$$ horizontal asymptote at $$y = 4.$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #7",
+        "Problem Statement": "",
+        "Question": "Given the reciprocal squared function that is shifted right 3 units and down 4 units, write this as a rational function. Then, find the x - and y -intercepts and the horizontal and vertical asymptotes.",
+        "Image Links": [],
+        "Answer": "For the transformed reciprocal squared function, we find the rational form. $$f ( x ) = \\frac{1}{( x - 3 )^{2}} - 4 = \\frac{1 - 4 ( x - 3 )^{2}}{( x - 3 )^{2}} = \\frac{1 - 4 ( x^{2} - 6 x + 9 )}{( x - 3 ) ( x - 3 )} = \\frac{- 4 x^{2} + 24 x - 35}{x^{2} - 6 x + 9}$$ Because the numerator is the same degree as the denominator we know that as $$x \\vec{} \\pm \\infty , \\  f ( x ) \\vec{} - 4 ; \\  \\text{so} \\  y = - 4$$ is the horizontal asymptote. Next, we set the denominator equal to zero, and find that the vertical asymptote is $$x = 3 ,$$ because as $$x \\vec{} 3 , f ( x ) \\vec{} \\infty .$$ We then set the numerator equal to 0 and find the x -intercepts are at $$( 2.5 , 0 )$$ and $$( 3.5 , 0 ) .$$ Finally, we evaluate the function at 0 and find the y -intercept to be at $$( 0 , \\frac{- 35}{9} ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #8",
+        "Problem Statement": "",
+        "Question": "Given the function $$f ( x ) = \\frac{( x + 2 )^{2} ( x - 2 )}{2 ( x - 1 )^{2} ( x - 3 )} ,$$ use the characteristics of polynomials and rational functions to describe its behavior and sketch the function.",
+        "Image Links": [],
+        "Answer": "Horizontal asymptote at $$y = \\frac{1}{2} .$$ Vertical asymptotes at $$x = 1 \\  \\text{and} \\  x = 3.$$ y -intercept at $$( 0 , \\frac{4}{3} . )$$ x -intercepts at $$( 2 , 0 ) \\  \\text{and\u00a0} ( - 2 , 0 ) .$$ $$( - 2 , 0 )$$ is a zero with multiplicity 2, and the graph bounces off the x -axis at this point. $$( 2 , 0 )$$ is a single zero and the graph crosses the axis at this point.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/50b0bb07db11f3d39f67089979517a5ef040af86"
+        ]
+    }
+]

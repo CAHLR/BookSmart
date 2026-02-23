@@ -1,0 +1,56 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "Identify the vertices and foci of the hyperbola with equation $$\\frac{x^{2}}{9} - \\frac{y^{2}}{25} = 1.$$",
+        "Image Links": [],
+        "Answer": "Vertices: $$( \\pm 3 , 0 ) ;$$ Foci: $$( \\pm \\sqrt{34} , 0 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "What is the standard form equation of the hyperbola that has vertices $$( 0, \\pm 2 )$$ and foci $$( 0, \\pm 2 \\sqrt{5} ) ?$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{y^{2}}{4} - \\frac{x^{2}}{16} = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "What is the standard form equation of the hyperbola that has vertices $$( 1 , -2 )$$ and $$( 1 , \\text{8} )$$ and foci $$( 1 , -10 )$$ and $$( 1 , 16 ) ?$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{( y - 3 )^{2}}{25} - \\frac{( x - 1 )^{2}}{144} = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "Graph the hyperbola given by the equation $$\\frac{x^{2}}{144} - \\frac{y^{2}}{81} = 1.$$ Identify and label the vertices, co-vertices, foci, and asymptotes.",
+        "Image Links": [],
+        "Answer": "vertices: $$( \\pm 12 , 0 ) ;$$ co-vertices: $$( 0 , \\pm 9 ) ;$$ foci: $$( \\pm 15 , 0 ) ;$$ asymptotes: $$y = \\pm \\frac{3}{4} x ;$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c315d2b489a8535d6b6bd7810ded932996bf11f3"
+        ]
+    },
+    {
+        "Topic": "Try It #5",
+        "Problem Statement": "",
+        "Question": "Graph the hyperbola given by the standard form of an equation $$\\frac{( y + 4 )^{2}}{100} - \\frac{( x - 3 )^{2}}{64} = 1.$$ Identify and label the center, vertices, co-vertices, foci, and asymptotes.",
+        "Image Links": [],
+        "Answer": "center: $$( 3 , - 4 ) ;$$ vertices: $$( 3 , - 14 )$$ and $$( 3 , 6 ) ;$$ co-vertices: $$( - 5 , - 4 ) ;$$ and $$( 11 , - 4 ) ;$$ foci: $$( 3 , - 4 - 2 \\sqrt{41} )$$ and $$( 3 , - 4 + 2 \\sqrt{41} ) ;$$ asymptotes: $$y = \\pm \\frac{5}{4} ( x - 3 ) - 4$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f55d78608dc0c90c104e6a49e2caa8a203d3ec03"
+        ]
+    },
+    {
+        "Topic": "Try It #6",
+        "Problem Statement": "",
+        "Question": "A design for a cooling tower project is shown in Figure 12 . Find the equation of the hyperbola that models the sides of the cooling tower. Assume that the center of the hyperbola-indicated by the intersection of dashed perpendicular lines in the figure-is the origin of the coordinate plane. Round final values to four decimal places. Figure 12",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9b034e447665b51ef1f57ed0503a641ba4a6cf71"
+        ],
+        "Answer": "The sides of the tower can be modeled by the hyperbolic equation. $$\\frac{x^{2}}{400} - \\frac{y^{2}}{3600} = 1 \\text{or\u00a0} \\frac{x^{2}}{20^{2}} - \\frac{y^{2}}{60^{2}} = 1.$$",
+        "Answer Image Links": []
+    }
+]

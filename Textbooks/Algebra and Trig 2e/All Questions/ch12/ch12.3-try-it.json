@@ -1,0 +1,58 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "Graph $$y^{2} = -16 x .$$ Identify and label the focus, directrix, and endpoints of the latus rectum.",
+        "Image Links": [],
+        "Answer": "Focus: $$( - 4 , 0 ) ;$$ Directrix: $$x = 4 ;$$ Endpoints of the latus rectum: $$( - 4 , \\pm 8 )$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c6a17af110ab120d3470f7d723226df16a135958"
+        ]
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "Graph $$x^{2} = 8 y .$$ Identify and label the focus, directrix, and endpoints of the latus rectum.",
+        "Image Links": [],
+        "Answer": "Focus: $$( 0 , 2 ) ;$$ Directrix: $$y = -2 ;$$ Endpoints of the latus rectum: $$( \\pm 4 , 2 ) .$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/fb2d5a2609085d48d5efff756bfcbb7212b7c80d"
+        ]
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "What is the equation for the parabola with focus $$( 0 , \\frac{7}{2} )$$ and directrix $$y = - \\frac{7}{2} ?$$",
+        "Image Links": [],
+        "Answer": "$$x^{2} = 14 y .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "Graph $$( y + 1 )^{2} = 4 ( x - 8 ) .$$ Identify and label the vertex, axis of symmetry, focus, directrix, and endpoints of the latus rectum.",
+        "Image Links": [],
+        "Answer": "Vertex: $$( 8 , - 1 ) ;$$ Axis of symmetry: $$y = -1 ;$$ Focus: $$( 9 , - 1 ) ;$$ Directrix: $$x = 7 ;$$ Endpoints of the latus rectum: $$( 9 , - 3 )$$ and $$( 9 , 1 ) .$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d0d0832a050bf9af39866fc8c3100d83390b3f05"
+        ]
+    },
+    {
+        "Topic": "Try It #5",
+        "Problem Statement": "",
+        "Question": "Graph $$( x + 2 )^{2} = -20 ( y - 3 ) .$$ Identify and label the vertex, axis of symmetry, focus, directrix, and endpoints of the latus rectum.",
+        "Image Links": [],
+        "Answer": "Vertex: $$( - 2 , 3 ) ;$$ Axis of symmetry: $$x = -2 ;$$ Focus: $$( - 2 , - 2 ) ;$$ Directrix: $$y = 8 ;$$ Endpoints of the latus rectum: $$( - 12 , - 2 )$$ and $$( 8 , - 2 ) .$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7297ffaacad2091ab1448f047075519325daafef"
+        ]
+    },
+    {
+        "Topic": "Try It #6",
+        "Problem Statement": "",
+        "Question": "Balcony-sized solar cookers have been designed for families living in India. The top of a dish has a diameter of 1600 mm. The sun\u2019s rays reflect off the parabolic mirror toward the \u201ccooker,\u201d which is placed 320 mm from the base. \u24d0 Find an equation that models a cross-section of the solar cooker. Assume that the vertex of the parabolic mirror is the origin of the coordinate plane, and that the parabola opens to the right (i.e., has the x -axis as its axis of symmetry). \u24d1 Use the equation found in part \u24d0 to find the depth of the cooker.",
+        "Image Links": [],
+        "Answer": "\u24d0 $$y^{2} = 1280 x$$ \u24d1 The depth of the cooker is 500 mm",
+        "Answer Image Links": []
+    }
+]

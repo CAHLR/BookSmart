@@ -1,0 +1,50 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "Construct a probability model for tossing a fair coin.",
+        "Image Links": [],
+        "Answer": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nOutcome & Probability \\\\ \\hline\nHeads & $$\\frac{1}{2}$$ \\\\ \\hline\nTails & $$\\frac{1}{2}$$ \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "A number cube is rolled. Find the probability of rolling a number greater than 2.",
+        "Image Links": [],
+        "Answer": "$$\\frac{2}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "A card is drawn from a standard deck. Find the probability of drawing a red card or an ace.",
+        "Image Links": [],
+        "Answer": "$$\\frac{7}{13}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "A card is drawn from a standard deck. Find the probability of drawing an ace or a king.",
+        "Image Links": [],
+        "Answer": "$$\\frac{2}{13}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #5",
+        "Problem Statement": "",
+        "Question": "Two number cubes are rolled. Use the Complement Rule to find the probability that the sum is less than 10.",
+        "Image Links": [],
+        "Answer": "$$\\frac{5}{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #6",
+        "Problem Statement": "",
+        "Question": "A child randomly selects 3 gumballs from a container holding 4 purple gumballs, 8 yellow gumballs, and 2 green gumballs. \u24d0 Find the probability that all 3 gumballs selected are purple. \u24d1 Find the probability that no yellow gumballs are selected. \u24d2 Find the probability that at least 1 yellow gumball is selected.",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{aaa}\\text{a} \\text{.\u00a0} \\frac{1}{91} ; & \\text{b} \\text{.\u00a0} \\frac{\\text{5}}{\\text{91}} ; & \\text{c} \\text{.\u00a0} \\frac{86}{91}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    }
+]

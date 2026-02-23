@@ -1,0 +1,246 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Write the first four terms of the sequence defined by the recursive formula $$a = - 14 ,   a_{n} = \\frac{2 + a_{n - 1}}{2} .$$",
+        "Image Links": [],
+        "Answer": "$$- 14 , - 6 , - 2 , 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Write the first four terms of the sequence defined by the explicit formula $$a_{n} = \\frac{n^{2} - n - 1}{n !} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Is the sequence $$0.3 , \\text{} 1.2 , \\text{} 2.1 , \\text{} 3 , \\ldots$$ arithmetic?  If so find the common difference.",
+        "Image Links": [],
+        "Answer": "The sequence is arithmetic. The common difference is $$d = 0.9.$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "An arithmetic sequence has the first term $$a_{1} = - 4$$ and common difference $$d = - \\frac{4}{3} .$$ What is the 6 th term?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Write a recursive formula for the arithmetic sequence $$- 2 , \\text{} - \\frac{7}{2} , \\text{} - 5 , \\text{} - \\frac{13}{2} , \\ldots$$ and then find the 22 nd term.",
+        "Image Links": [],
+        "Answer": "$$a_{1} = - 2 , \\text{} a_{n} = a_{n - 1} - \\frac{3}{2} ; \\text{} a_{22} = - \\frac{67}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Write an explicit formula for the arithmetic sequence $$15.6 , \\text{} 15 , \\text{} 14.4 , \\text{} 13.8 , \\ldots$$ and then find the 32 nd term.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Is the sequence $$- 2 \\text{,} - 1 \\text{,} - \\frac{1}{2} \\text{,} - \\frac{1}{4} \\text{,} \\ldots$$ geometric? If so find the common ratio. If not, explain why.",
+        "Image Links": [],
+        "Answer": "The sequence is geometric. The common ratio is $$r = \\frac{1}{2} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "What is the 11 th term of the geometric sequence $$- 1.5 , - 3 , - 6 , - 12 , \\ldots ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Write a recursive formula for the geometric sequence $$1 , \\text{} - \\frac{1}{2} , \\text{} \\frac{1}{4} , \\text{} - \\frac{1}{8} , \\ldots$$",
+        "Image Links": [],
+        "Answer": "$$a_{1} = 1 , \\text{} a_{n} = - \\frac{1}{2} \\cdot a_{n} _{- 1}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Write an explicit formula for the geometric sequence $$4 , \\text{} - \\frac{4}{3} , \\text{} \\frac{4}{9} , \\text{} - \\frac{4}{27} , \\ldots$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Use summation notation to write the sum of terms $$3 k^{2} - \\frac{5}{6} k$$ from $$k = - 3$$ to $$k = 15.$$",
+        "Image Links": [],
+        "Answer": "$$\\sum_{k = - 3}^{15} ( 3 k^{2} - \\frac{5}{6} k )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A community baseball stadium has 10 seats in the first row, 13 seats in the second row, 16 seats in the third row, and so on. There are 56 rows in all. What is the seating capacity of the stadium?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Use the formula for the sum of the first $$n$$ terms of a geometric series to find $$\\sum_{k = 1}^{7} - 0.2 \\cdot ( - 5 )^{k - 1} .$$",
+        "Image Links": [],
+        "Answer": "$$S_{7} = - 2604.2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Find the sum of the infinite geometric series $$\\sum_{k = 1}^{\\infty} \\frac{1}{3} \\cdot ( - \\frac{1}{5} )^{k - 1} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Ramla deposits $3,600  into a retirement fund each year. The fund earns 7.5%  annual interest, compounded monthly. If she opened her account when she was 20 years old, how much will she have by the time she\u2019s 55? How much of that amount was interest earned?",
+        "Image Links": [],
+        "Answer": "Total in account: $$\\text{$} 140 , 355.75 ;$$ Interest earned: $$\\text{$} 14 , 355.75$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "In a competition of 50 professional ballroom dancers, 22 compete in the fox-trot competition, 18 compete in the tango competition, and 6 compete in both the fox-trot and tango competitions. How many dancers compete in the fox-trot or tango competitions?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A buyer of a new sedan can custom order the car by choosing from 5 different exterior colors, 3 different interior colors, 2 sound systems, 3 motor designs, and either manual or automatic transmission. How many choices does the buyer have?",
+        "Image Links": [],
+        "Answer": "$$5 \\times 3 \\times 2 \\times 3 \\times 2 = 180$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "To allocate annual bonuses, a manager must choose his top four employees and rank them first to fourth. In how many ways can he create the \u201cTop-Four\u201d list out of the 32 employees?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A music group needs to choose 3 songs to play at the annual Battle of the Bands. How many ways can they choose their set if have 15 songs to pick from?",
+        "Image Links": [],
+        "Answer": "$$C ( 15 , 3 ) = 455$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A self-serve frozen yogurt shop has 8 candy toppings and 4 fruit toppings to choose from. How many ways are there to top a frozen yogurt?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "How many distinct ways can the word EVANESCENCE be arranged if the anagram must end with the letter E?",
+        "Image Links": [],
+        "Answer": "$$\\frac{10 !}{2 ! 3 ! 2 !} = 151 \\text{,} 200$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Use the Binomial Theorem to expand $$( \\frac{3}{2} x - \\frac{1}{2} y )^{5} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Find the seventh term of $$( x^{2} - \\frac{1}{2} )^{13}$$ without fully expanding the binomial.",
+        "Image Links": [],
+        "Answer": "$$\\frac{429 x^{14}}{16}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the spinner in Figure 1 .\nFigure 1",
+        "Question": "Construct a probability model showing each possible outcome and its associated probability. (Use the first letter for colors.)",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/caab2ef3abc5f8f76ce73ffed6608b3d7b45d867"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the spinner in Figure 1 .\nFigure 1",
+        "Question": "What is the probability of landing on an odd number?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/caab2ef3abc5f8f76ce73ffed6608b3d7b45d867"
+        ],
+        "Answer": "$$\\frac{4}{7}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the spinner in Figure 1 .\nFigure 1",
+        "Question": "What is the probability of landing on blue?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/caab2ef3abc5f8f76ce73ffed6608b3d7b45d867"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the spinner in Figure 1 .\nFigure 1",
+        "Question": "What is the probability of landing on blue or an odd number?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/caab2ef3abc5f8f76ce73ffed6608b3d7b45d867"
+        ],
+        "Answer": "$$\\frac{5}{7}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the spinner in Figure 1 .\nFigure 1",
+        "Question": "What is the probability of landing on anything other than blue or an odd number?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/caab2ef3abc5f8f76ce73ffed6608b3d7b45d867"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the spinner in Figure 1 .\nFigure 1",
+        "Question": "A bowl of candy holds 16 peppermint, 14 butterscotch, and 10 strawberry flavored candies. Suppose a person grabs a handful of 7 candies. What is the percent chance that exactly 3 are butterscotch? (Show calculations and round to the nearest tenth of a percent.)",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/caab2ef3abc5f8f76ce73ffed6608b3d7b45d867"
+        ],
+        "Answer": "$$\\frac{C ( 14 , 3 ) C ( 26 , 4 )}{C ( 40 , 7 )} \\approx 29.2 %$$",
+        "Answer Image Links": []
+    }
+]

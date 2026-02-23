@@ -1,0 +1,60 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "A certain angle $$t$$ corresponds to a point on the unit circle at $$( - \\frac{\\sqrt{2}}{2} , \\frac{\\sqrt{2}}{2} )$$ as shown in Figure 5 . Find $$\\cos{t}$$ and $$\\sin{t} .$$ Figure 5",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7321affc699906d4054c49a177b20e0e9c85601e"
+        ],
+        "Answer": "$$\\cos{(} t ) = - \\frac{\\sqrt{2}}{2} , \\sin{} ( t ) = \\frac{\\sqrt{2}}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "Find cosine and sine of the angle $$\\pi .$$",
+        "Image Links": [],
+        "Answer": "$$\\cos{(} \\pi ) = - 1 , \\sin{} ( \\pi ) = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "If $$\\cos{(} t ) = \\frac{24}{25}$$ and $$t$$ is in the fourth quadrant, find $$\\text{sin} ( t ) .$$",
+        "Image Links": [],
+        "Answer": "$$\\sin{(} t ) = - \\frac{7}{25}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "Evaluate $$\\sin{( \\frac{\\pi}{3} )} .$$",
+        "Image Links": [],
+        "Answer": "approximately 0.866025403",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #5",
+        "Problem Statement": "",
+        "Question": "Find the reference angle of $$\\frac{5 \\pi}{3} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\pi}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #6",
+        "Problem Statement": "",
+        "Question": "\u24d0 Use the reference angle of $$315\u00b0$$ to find $$\\cos{(} 315\u00b0 )$$ and $$\\sin{(} 315\u00b0 ) .$$ \u24d1 Use the reference angle of $$- \\frac{\\pi}{6}$$ to find $$\\cos{( - \\frac{\\pi}{6} )}$$ and $$\\sin{( - \\frac{\\pi}{6} )} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\text{cos} ( 315\u00b0 ) = \\frac{\\sqrt{2}}{2} , \\text{sin} ( 315\u00b0 ) = \\frac{- \\sqrt{2}}{2}$$ \u24d1 $$\\text{cos} ( - \\frac{\\pi}{6} ) = \\frac{\\sqrt{3}}{2} , \\sin{} ( - \\frac{\\pi}{6} ) = - \\frac{1}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #7",
+        "Problem Statement": "",
+        "Question": "Find the coordinates of the point on the unit circle at an angle of $$\\frac{5 \\pi}{3} .$$",
+        "Image Links": [],
+        "Answer": "$$( \\frac{1}{2} , - \\frac{\\sqrt{3}}{2} )$$",
+        "Answer Image Links": []
+    }
+]

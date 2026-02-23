@@ -1,0 +1,290 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, simplify the given expression.",
+        "Question": "$$\\cos{( - x )} \\sin{} x \\cot{} x + \\sin{}^{2} x$$",
+        "Image Links": [],
+        "Answer": "1",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, simplify the given expression.",
+        "Question": "$$\\sin{(} - x ) \\cos{} ( - 2 x ) - \\sin{} ( - x ) \\cos{} ( - 2 x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, simplify the given expression.",
+        "Question": "$$\\csc{( \\theta )} \\cot{} ( \\theta ) ( \\sec{}^{2} \\theta - 1 )$$",
+        "Image Links": [],
+        "Answer": "$$\\sec{( \\theta )}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, simplify the given expression.",
+        "Question": "$$\\cos{}^{2} ( \\theta ) \\sin{}^{2} ( \\theta ) ( 1 + \\cot{}^{2} ( \\theta ) ) ( 1 + \\tan{}^{2} ( \\theta ) )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the exact value.",
+        "Question": "$$\\cos{( \\frac{7 \\pi}{12} )}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\sqrt{2} - \\sqrt{6}}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the exact value.",
+        "Question": "$$\\tan{( \\frac{3 \\pi}{8} )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the exact value.",
+        "Question": "$$\\tan{( \\sin{}^{- 1} ( \\frac{\\sqrt{2}}{2} ) + \\tan{}^{- 1} \\sqrt{3} )}$$",
+        "Image Links": [],
+        "Answer": "$$- 2 - \\sqrt{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the exact value.",
+        "Question": "$$2 \\sin{} ( \\frac{\\pi}{4} ) \\sin{} ( \\frac{\\pi}{6} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the exact value.",
+        "Question": "$$\\cos{( \\frac{4 \\pi}{3} + \\theta )}$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{1}{2} \\cos{} \\theta + \\frac{\\sqrt{3}}{2} \\sin{} \\theta$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the exact value.",
+        "Question": "$$\\tan{( - \\frac{\\pi}{4} + \\theta )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, simplify each expression. Do not evaluate.",
+        "Question": "$$\\cos{}^{2} ( 32\u00b0 ) \\tan{}^{2} ( 32\u00b0 )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1 - \\cos{} ( 64^{\\vysmwhtcircle} )}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, simplify each expression. Do not evaluate.",
+        "Question": "$$\\cot{( \\frac{\\theta}{2} )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find all exact solutions to the equation on $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$\\cos{}^{2} x - \\sin{}^{2} x - 1 = 0$$",
+        "Image Links": [],
+        "Answer": "$$0 , \\pi$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find all exact solutions to the equation on $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$\\cos{}^{2} x = \\cos{} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find all exact solutions to the equation on $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$\\cos{( 2 x )} + \\sin{}^{2} x = 0$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\pi}{2} \\text{,} \\frac{3 \\pi}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find all exact solutions to the equation on $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$2 \\sin{}^{2} x - \\sin{} x = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find all exact solutions to the equation on $$[ 0 , 2 \\pi ) .$$",
+        "Question": "Rewrite the expression as a product instead of a sum: $$\\cos{( 2 x )} + \\cos{} ( - 8 x ) .$$",
+        "Image Links": [],
+        "Answer": "$$2 \\text{cos} ( 3 x ) \\text{cos} ( 5 x )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercise, rewrite the product as a sum or difference.",
+        "Question": "$$8 \\cos{} ( 15 x ) \\sin{} ( 3 x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercise, rewrite the sum or difference as a product.",
+        "Question": "$$2 ( \\sin{( 8 \\theta )} - \\sin{} ( 4 \\theta ) )$$",
+        "Image Links": [],
+        "Answer": "$$4 \\sin{} ( 2 \\theta ) \\cos{} ( 6 \\theta )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercise, rewrite the sum or difference as a product.",
+        "Question": "Find all solutions of $$\\tan{(} x ) - \\sqrt{3} = 0.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercise, rewrite the sum or difference as a product.",
+        "Question": "Find the solutions of $$\\sec{}^{2} x - 2 \\sec{} x = 15$$ on the interval $$[ 0 , 2 \\pi )$$ algebraically; then graph both sides of the equation to determine the answer.",
+        "Image Links": [],
+        "Answer": "$$x = \\text{cos}^{-1} ( \\frac{1}{5} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find all solutions exactly on the interval $$0 \\le \\theta \\le \\pi$$",
+        "Question": "$$2 \\text{} \\cos{} ( \\frac{\\theta}{2} ) = 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find all solutions exactly on the interval $$0 \\le \\theta \\le \\pi$$",
+        "Question": "$$\\sqrt{3} \\text{} \\cot{} ( y ) = 1$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\pi}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find all solutions exactly on the interval $$0 \\le \\theta \\le \\pi$$",
+        "Question": "Find $$\\sin{( 2 \\theta )} , \\cos{} ( 2 \\theta ) ,$$ and $$\\tan{( 2 \\theta )}$$ given $$\\cot{\\theta} = - \\frac{3}{4}$$ and $$\\theta$$ is on the interval $$[ \\frac{\\pi}{2} , \\pi ] .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find all solutions exactly on the interval $$0 \\le \\theta \\le \\pi$$",
+        "Question": "Find $$\\sin{( \\frac{\\theta}{2} )} , \\cos{} ( \\frac{\\theta}{2} ) ,$$ and $$\\tan{( \\frac{\\theta}{2} )}$$ given $$\\cos{\\theta} = \\frac{7}{25}$$ and $$\\theta$$ is in quadrant IV.",
+        "Image Links": [],
+        "Answer": "$$\\frac{3}{5} \\text{,} - \\frac{4}{5} \\text{,} - \\frac{3}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find all solutions exactly on the interval $$0 \\le \\theta \\le \\pi$$",
+        "Question": "Rewrite the expression $$\\sin{}^{4} x$$ with no powers greater than 1.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, prove the identity.",
+        "Question": "$$\\tan{}^{3} x - \\tan{} x \\sec{}^{2} x = \\tan{} ( - x )$$",
+        "Image Links": [],
+        "Answer": "$$None$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, prove the identity.",
+        "Question": "$$\\sin{( 3 x )} - \\cos{} x \\sin{} ( 2 x ) = \\cos{}^{2} x \\sin{} x - \\sin{}^{3} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, prove the identity.",
+        "Question": "$$\\frac{\\sin{( 2 x )}}{\\sin{x}} - \\frac{\\cos{( 2 x )}}{\\cos{x}} = \\sec{} x$$",
+        "Image Links": [],
+        "Answer": "$$None$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, prove the identity.",
+        "Question": "Plot the points and find a function of the form $$y = A \\cos{} ( B x + C ) + D$$ that fits the given data. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\hline\n$$x$$ & $$0$$ & $$1$$ & $$2$$ & $$3$$ & $$4$$ & $$5$$ \\\\ \\hline\n$$y$$ & $$-2$$ & $$2$$ & $$-2$$ & $$2$$ & $$-2$$ & $$2$$ \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, prove the identity.",
+        "Question": "The displacement $$h ( t )$$ in centimeters of a mass suspended by a spring is modeled by the function $$h ( t ) = \\frac{1}{4} \\sin{} ( 120 \\pi t ) ,$$ where $$t$$ is measured in seconds. Find the amplitude, period, and frequency of this displacement.",
+        "Image Links": [],
+        "Answer": "Amplitude: $$\\frac{1}{4}$$ , period: $$\\frac{1}{60}$$ , frequency: 60 Hz",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, prove the identity.",
+        "Question": "A woman is standing 300 feet away from a 2000-foot building. If she looks to the top of the building, at what angle above horizontal is she looking? A worker looks down at her from the 15 th floor (1500 feet above her). At what angle is he looking down at her? Round to the nearest tenth of a degree.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, prove the identity.",
+        "Question": "Two frequencies of sound are played on an instrument governed by the equation $$n ( t ) = 8 \\cos{} ( 20 \\pi t ) \\cos{} ( 1000 \\pi t ) .$$ What are the period and frequency of the \u201cfast\u201d and \u201cslow\u201d oscillations? What is the amplitude?",
+        "Image Links": [],
+        "Answer": "Amplitude: 8, fast period: $$\\frac{1}{500}$$ , fast frequency: 500 Hz, slow period: $$\\frac{1}{10}$$ , slow frequency: 10 Hz",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, prove the identity.",
+        "Question": "The average monthly snowfall in a small village in the Himalayas is 6 inches, with the low of 1 inch occurring in July. Construct a function that models this behavior. During what period is there more than 10 inches of snowfall?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, prove the identity.",
+        "Question": "A spring attached to a ceiling is pulled down 20 cm. After 3 seconds, wherein it completes 6 full periods, the amplitude is only 15 cm. Find the function modeling the position of the spring $$t$$ seconds after being released. At what time will the spring come to rest? In this case, use 1 cm amplitude as rest.",
+        "Image Links": [],
+        "Answer": "$$D ( t ) = 20 ( 0.9086 )^{t} \\text{cos} ( 4 \\pi t )$$ , 31 second",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, prove the identity.",
+        "Question": "Water levels near a glacier currently average 9 feet, varying seasonally by 2 inches above and below the average and reaching their highest point in January. Due to global warming, the glacier has begun melting faster than normal. Every year, the water levels rise by a steady 3 inches. Find a function modeling the depth of the water $$t$$ months from now. If the docks are 2 feet above current water levels, at what point will the water first rise above the docks?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

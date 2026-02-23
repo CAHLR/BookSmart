@@ -1,0 +1,396 @@
+[
+    {
+        "Topic": "Quadratic Functions",
+        "Problem Statement": "For the following exercises, write the quadratic function in standard form. Then give the vertex and axes intercepts. Finally, graph the function.",
+        "Question": "$$f ( x ) = x^{2} - 4 x - 5$$",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = ( x - 2 )^{2} - 9 \\text{vertex} \\  ( 2 , -9 ) , \\  \\text{intercepts} \\  ( 5 , 0 ) ; \\  ( -1 , 0 ) ; \\  ( 0 , -5 )$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/aa64c0c5507f70d1697a35a9c5ce60ec4ba29f5f"
+        ]
+    },
+    {
+        "Topic": "Quadratic Functions",
+        "Problem Statement": "For the following exercises, write the quadratic function in standard form. Then give the vertex and axes intercepts. Finally, graph the function.",
+        "Question": "$$f ( x ) = - 2 x^{2} - 4 x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Quadratic Functions",
+        "Problem Statement": "For the following exercises, find the equation of the quadratic function using the given information.",
+        "Question": "The vertex is $$( - 2 , 3 )$$ and a point on the graph is $$( 3 , 6 ) .$$",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = \\frac{3}{25} ( x + 2 )^{2} + 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Quadratic Functions",
+        "Problem Statement": "For the following exercises, find the equation of the quadratic function using the given information.",
+        "Question": "The vertex is $$( - 3 , 6.5 )$$ and a point on the graph is $$( 2 , 6 ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Quadratic Functions",
+        "Problem Statement": "For the following exercises, complete the task.",
+        "Question": "A rectangular plot of land is to be enclosed by fencing. One side is along a river and so needs no fence. If the total fencing available is 600 meters, find the dimensions of the plot to have maximum area.",
+        "Image Links": [],
+        "Answer": "300 meters by 150 meters, the longer side parallel to river.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Quadratic Functions",
+        "Problem Statement": "For the following exercises, complete the task.",
+        "Question": "An object projected from the ground at a 45 degree angle with initial velocity of 120 feet per second has height, $$h ,$$ in terms of horizontal distance traveled, $$x ,$$ given by $$h ( x ) = \\frac{- 32}{( 120 )^{2}} x^{2} + x .$$ Find the maximum height the object attains.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Power Functions and Polynomial Functions",
+        "Problem Statement": "For the following exercises, determine if the function is a polynomial function and, if so, give the degree and leading coefficient.",
+        "Question": "$$f ( x ) = 4 x^{5} - 3 x^{3} + 2 x - 1$$",
+        "Image Links": [],
+        "Answer": "Yes, degree = 5, leading coefficient = 4",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Power Functions and Polynomial Functions",
+        "Problem Statement": "For the following exercises, determine if the function is a polynomial function and, if so, give the degree and leading coefficient.",
+        "Question": "$$f ( x ) = 5^{x + 1} - x^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Power Functions and Polynomial Functions",
+        "Problem Statement": "For the following exercises, determine if the function is a polynomial function and, if so, give the degree and leading coefficient.",
+        "Question": "$$f ( x ) = x^{2} ( 3 - 6 x + x^{2} )$$",
+        "Image Links": [],
+        "Answer": "Yes, degree = 4, leading coefficient = 1",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Power Functions and Polynomial Functions",
+        "Problem Statement": "For the following exercises, determine end behavior of the polynomial function.",
+        "Question": "$$f ( x ) = 2 x^{4} + 3 x^{3} - 5 x^{2} + 7$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Power Functions and Polynomial Functions",
+        "Problem Statement": "For the following exercises, determine end behavior of the polynomial function.",
+        "Question": "$$f ( x ) = 4 x^{3} - 6 x^{2} + 2$$",
+        "Image Links": [],
+        "Answer": "$$\\text{As} x \\vec{} - \\infty , f ( x ) \\vec{} - \\infty , \\text{as} x \\vec{} \\infty , f ( x ) \\vec{} \\infty$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Power Functions and Polynomial Functions",
+        "Problem Statement": "For the following exercises, determine end behavior of the polynomial function.",
+        "Question": "$$f ( x ) = 2 x^{2} ( 1 + 3 x - x^{2} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphs of Polynomial Functions",
+        "Problem Statement": "For the following exercises, find all zeros of the polynomial function, noting multiplicities.",
+        "Question": "$$f ( x ) = ( x + 3 )^{2} ( 2 x - 1 ) ( x + 1 )^{3}$$",
+        "Image Links": [],
+        "Answer": "-3 with multiplicity 2, $$- \\frac{1}{2}$$ with multiplicity 1, -1 with multiplicity 3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphs of Polynomial Functions",
+        "Problem Statement": "For the following exercises, find all zeros of the polynomial function, noting multiplicities.",
+        "Question": "$$f ( x ) = x^{5} + 4 x^{4} + 4 x^{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphs of Polynomial Functions",
+        "Problem Statement": "For the following exercises, find all zeros of the polynomial function, noting multiplicities.",
+        "Question": "$$f ( x ) = x^{3} - 4 x^{2} + x - 4$$",
+        "Image Links": [],
+        "Answer": "4 with multiplicity 1",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphs of Polynomial Functions",
+        "Problem Statement": "For the following exercises, based on the given graph, determine the zeros of the function and note multiplicity.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2bfb5f803ebe608bc71ee1abd0f111c8a6d38ded"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphs of Polynomial Functions",
+        "Problem Statement": "For the following exercises, based on the given graph, determine the zeros of the function and note multiplicity.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/dc5c225da94ba479e35a0d1bee5759184b6f78a5"
+        ],
+        "Answer": "$$\\frac{1}{2}$$ with multiplicity 1, 3 with multiplicity 3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphs of Polynomial Functions",
+        "Problem Statement": "For the following exercises, based on the given graph, determine the zeros of the function and note multiplicity.",
+        "Question": "Use the Intermediate Value Theorem to show that at least one zero lies between 2 and 3 for the function $$f ( x ) = x^{3} - 5 x + 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Dividing Polynomials",
+        "Problem Statement": "For the following exercises, use long division to find the quotient and remainder.",
+        "Question": "$$\\frac{x^{3} - 2 x^{2} + 4 x + 4}{x - 2}$$",
+        "Image Links": [],
+        "Answer": "$$x^{2} + 4$$ with remainder 12",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Dividing Polynomials",
+        "Problem Statement": "For the following exercises, use long division to find the quotient and remainder.",
+        "Question": "$$\\frac{3 x^{4} - 4 x^{2} + 4 x + 8}{x + 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Dividing Polynomials",
+        "Problem Statement": "For the following exercises, use synthetic division to find the quotient. If the divisor is a factor, then write the factored form.",
+        "Question": "$$\\frac{x^{3} - 2 x^{2} + 5 x - 1}{x + 3}$$",
+        "Image Links": [],
+        "Answer": "$$x^{2} - 5 x + 20 - \\frac{61}{x + 3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Dividing Polynomials",
+        "Problem Statement": "For the following exercises, use synthetic division to find the quotient. If the divisor is a factor, then write the factored form.",
+        "Question": "$$\\frac{x^{3} + 4 x + 10}{x - 3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Dividing Polynomials",
+        "Problem Statement": "For the following exercises, use synthetic division to find the quotient. If the divisor is a factor, then write the factored form.",
+        "Question": "$$\\frac{2 x^{3} + 6 x^{2} - 11 x - 12}{x + 4}$$",
+        "Image Links": [],
+        "Answer": "$$2 x^{2} - 2 x - 3$$ , so factored form is $$( x + 4 ) ( 2 x^{2} - 2 x - 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Dividing Polynomials",
+        "Problem Statement": "For the following exercises, use synthetic division to find the quotient. If the divisor is a factor, then write the factored form.",
+        "Question": "$$\\frac{3 x^{4} + 3 x^{3} + 2 x + 2}{x + 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Zeros of Polynomial Functions",
+        "Problem Statement": "For the following exercises, use the Rational Zero Theorem to help you solve the polynomial equation.",
+        "Question": "$$2 x^{3} - 3 x^{2} - 18 x - 8 = 0$$",
+        "Image Links": [],
+        "Answer": "$$\\{ - 2 , \\  4 , \\  - \\frac{1}{2} \\}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Zeros of Polynomial Functions",
+        "Problem Statement": "For the following exercises, use the Rational Zero Theorem to help you solve the polynomial equation.",
+        "Question": "$$3 x^{3} + 11 x^{2} + 8 x - 4 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Zeros of Polynomial Functions",
+        "Problem Statement": "For the following exercises, use the Rational Zero Theorem to help you solve the polynomial equation.",
+        "Question": "$$2 x^{4} - 17 x^{3} + 46 x^{2} - 43 x + 12 = 0$$",
+        "Image Links": [],
+        "Answer": "$$\\{ 1 , \\  3 , \\  4 , \\  \\frac{1}{2} \\}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Zeros of Polynomial Functions",
+        "Problem Statement": "For the following exercises, use the Rational Zero Theorem to help you solve the polynomial equation.",
+        "Question": "$$4 x^{4} + 8 x^{3} + 19 x^{2} + 32 x + 12 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Zeros of Polynomial Functions",
+        "Problem Statement": "For the following exercises, use Descartes\u2019 Rule of Signs to find the possible number of positive and negative solutions.",
+        "Question": "$$x^{3} - 3 x^{2} - 2 x + 4 = 0$$",
+        "Image Links": [],
+        "Answer": "0 or 2 positive, 1 negative",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Zeros of Polynomial Functions",
+        "Problem Statement": "For the following exercises, use Descartes\u2019 Rule of Signs to find the possible number of positive and negative solutions.",
+        "Question": "$$2 x^{4} - x^{3} + 4 x^{2} - 5 x + 1 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Rational Functions",
+        "Problem Statement": "For the following exercises, find the intercepts and the vertical and horizontal asymptotes, and then use them to sketch a graph of the function.",
+        "Question": "$$f ( x ) = \\frac{x + 2}{x - 5}$$",
+        "Image Links": [],
+        "Answer": "Intercepts $$( -2 , 0 ) \\text{and} ( 0 , - \\frac{2}{5} )$$ , Asymptotes $$x = 5$$ and $$y = 1.$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/37cb1aa7a7578e54135f0defd76697c6ec0236cc"
+        ]
+    },
+    {
+        "Topic": "Rational Functions",
+        "Problem Statement": "For the following exercises, find the intercepts and the vertical and horizontal asymptotes, and then use them to sketch a graph of the function.",
+        "Question": "$$f ( x ) = \\frac{x^{2} + 1}{x^{2} - 4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Rational Functions",
+        "Problem Statement": "For the following exercises, find the intercepts and the vertical and horizontal asymptotes, and then use them to sketch a graph of the function.",
+        "Question": "$$f ( x ) = \\frac{3 x^{2} - 27}{x^{2} + x - 2}$$",
+        "Image Links": [],
+        "Answer": "Intercepts (3, 0), (-3, 0), and $$( 0 , \\frac{27}{2} )$$ ,  Asymptotes $$x = 1 , \\  x = - 2 , \\  y = 3.$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1cb79c1497ffbdf7e97bf632533f2d5253e8671c"
+        ]
+    },
+    {
+        "Topic": "Rational Functions",
+        "Problem Statement": "For the following exercises, find the intercepts and the vertical and horizontal asymptotes, and then use them to sketch a graph of the function.",
+        "Question": "$$f ( x ) = \\frac{x + 2}{x^{2} - 9}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Rational Functions",
+        "Problem Statement": "For the following exercises, find the slant asymptote.",
+        "Question": "$$f ( x ) = \\frac{x^{2} - 1}{x + 2}$$",
+        "Image Links": [],
+        "Answer": "$$y = \\text{} x - 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Rational Functions",
+        "Problem Statement": "For the following exercises, find the slant asymptote.",
+        "Question": "$$f ( x ) = \\frac{2 x^{3} - x^{2} + 4}{x^{2} + 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Inverses and Radical Functions",
+        "Problem Statement": "For the following exercises, find the inverse of the function with the domain given.",
+        "Question": "$$f ( x ) = ( x - 2 )^{2} , x \\geq 2$$",
+        "Image Links": [],
+        "Answer": "$$f^{- 1} ( x ) = \\sqrt{x} + 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Inverses and Radical Functions",
+        "Problem Statement": "For the following exercises, find the inverse of the function with the domain given.",
+        "Question": "$$f ( x ) = ( x + 4 )^{2} - 3 , x \\geq - 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Inverses and Radical Functions",
+        "Problem Statement": "For the following exercises, find the inverse of the function with the domain given.",
+        "Question": "$$f ( x ) = x^{2} + 6 x - 2 , x \\geq - 3$$",
+        "Image Links": [],
+        "Answer": "$$f^{- 1} ( x ) = \\sqrt{x + 11} - 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Inverses and Radical Functions",
+        "Problem Statement": "For the following exercises, find the inverse of the function with the domain given.",
+        "Question": "$$f ( x ) = 2 x^{3} - 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Inverses and Radical Functions",
+        "Problem Statement": "For the following exercises, find the inverse of the function with the domain given.",
+        "Question": "$$f ( x ) = \\sqrt{4 x + 5} - 3$$",
+        "Image Links": [],
+        "Answer": "$$f^{- 1} ( x ) = \\frac{( x + 3 )^{2} - 5}{4} , x \\geq - 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Inverses and Radical Functions",
+        "Problem Statement": "For the following exercises, find the inverse of the function with the domain given.",
+        "Question": "$$f ( x ) = \\frac{x - 3}{2 x + 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Modeling Using Variation",
+        "Problem Statement": "For the following exercises, find the unknown value.",
+        "Question": "$$y$$ varies directly as the square of $$x .$$ If when $$x = 3 , \\text{} y = 36 ,$$ find $$y$$ if $$x = 4.$$",
+        "Image Links": [],
+        "Answer": "$$y = 64$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Modeling Using Variation",
+        "Problem Statement": "For the following exercises, find the unknown value.",
+        "Question": "$$y$$ varies inversely as the square root of $$x$$ If when $$x = 25 , \\text{} y = 2 ,$$ find $$y$$ if $$x = 4.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Modeling Using Variation",
+        "Problem Statement": "For the following exercises, find the unknown value.",
+        "Question": "$$y$$ varies jointly as the cube of $$x$$ and as $$z .$$ If when $$x = 1$$ and $$z = 2 ,$$ $$y = 6 ,$$ find $$y$$ if $$x = 2$$ and $$z = 3.$$",
+        "Image Links": [],
+        "Answer": "$$y \\text{} = \\text{} 72$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Modeling Using Variation",
+        "Problem Statement": "For the following exercises, find the unknown value.",
+        "Question": "$$y$$ varies jointly as $$x$$ and the square of $$z$$ and inversely as the cube of $$w .$$ If when $$x = 3 ,$$ $$z = 4 ,$$ and $$w = 2 ,$$ $$y = 48 ,$$ find $$y$$ if $$x = 4 ,$$ $$z = 5 ,$$ and $$w = 3.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Modeling Using Variation",
+        "Problem Statement": "For the following exercises, solve the application problem.",
+        "Question": "The weight of an object above the surface of the earth varies inversely with the square of the distance from the center of the earth. If a person weighs 150 pounds when he is on the surface of the earth (3,960 miles from center), find the weight of the person if he is 20 miles above the surface.",
+        "Image Links": [],
+        "Answer": "148.5 pounds",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Modeling Using Variation",
+        "Problem Statement": "For the following exercises, solve the application problem.",
+        "Question": "The volume $$V$$ of an ideal gas varies directly with the temperature $$T$$ and inversely with the pressure P. A cylinder contains oxygen at a temperature of 310 degrees K and a pressure of 18 atmospheres in a volume of 120 liters. Find the pressure if the volume is decreased to 100 liters and the temperature is increased to 320 degrees K.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

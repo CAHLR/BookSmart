@@ -1,0 +1,66 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "Write the following logarithmic equations in exponential form. \u24d0 $$\\log_{10} ( 1, 000, 000 ) = 6$$ \u24d1 $$\\log_{5} ( 25 ) = 2$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\log_{10} ( 1 , 000 , 000 ) = 6$$ is equivalent to $$10^{6} = 1 , 000 , 000$$ \u24d1 $$\\log_{5} ( 25 ) = 2$$ is equivalent to $$5^{2} = 25$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "Write the following exponential equations in logarithmic form. \u24d0 $$3^{2} = 9$$ \u24d1 $$5^{3} = 125$$ \u24d2 $$2^{- 1} = \\frac{1}{2}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$3^{2} = 9$$ is equivalent to $$\\log_{3} ( 9 ) = 2$$ \u24d1 $$5^{3} = 125$$ is equivalent to $$\\log_{5} ( 125 ) = 3$$ \u24d2 $$2^{- 1} = \\frac{1}{2}$$ is equivalent to $$\\text{log}_{2} ( \\frac{1}{2} ) = - 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "Solve $$y = \\log_{121} ( 11 )$$ without using a calculator.",
+        "Image Links": [],
+        "Answer": "$$\\log_{121} ( 11 ) = \\frac{1}{2}$$ (recalling that $$\\sqrt{121} = ( 121 )^{\\frac{1}{2}} = 11$$ )",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "Evaluate $$y = \\log_{2} ( \\frac{1}{32} )$$ without using a calculator.",
+        "Image Links": [],
+        "Answer": "$$\\log_{2} ( \\frac{1}{32} ) = - 5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #5",
+        "Problem Statement": "",
+        "Question": "Evaluate $$y = \\log ( 1, 000, 000 ) .$$",
+        "Image Links": [],
+        "Answer": "$$\\log ( 1 , 000 , 000 ) = 6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #6",
+        "Problem Statement": "",
+        "Question": "Evaluate $$y = \\log ( 123 )$$ to four decimal places using a calculator.",
+        "Image Links": [],
+        "Answer": "$$\\log ( 123 ) \\approx 2.0899$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #7",
+        "Problem Statement": "",
+        "Question": "The amount of energy released from one earthquake was $$\\text{8,500}$$ times greater than the amount of energy released from another. The equation $$10^{x} = 8500$$ represents this situation, where $$x$$ is the difference in magnitudes on the Richter Scale. To the nearest thousandth, what was the difference in magnitudes?",
+        "Image Links": [],
+        "Answer": "The difference in magnitudes was about $$3.929.$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #8",
+        "Problem Statement": "",
+        "Question": "Evaluate $$\\ln{(} -500 ) .$$",
+        "Image Links": [],
+        "Answer": "It is not possible to take the logarithm of a negative number in the set of real numbers.",
+        "Answer Image Links": []
+    }
+]

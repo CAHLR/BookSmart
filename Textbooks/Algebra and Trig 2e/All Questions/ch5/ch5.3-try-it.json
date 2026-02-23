@@ -1,0 +1,56 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "Find the y - and x -intercepts of the function $$f ( x ) = x^{4} - 19 x^{2} + 30 x .$$",
+        "Image Links": [],
+        "Answer": "y -intercept $$( 0 , 0 ) ;$$ x -intercepts $$( 0 , 0 ) , ( - 5 , 0 ) , ( 2 , 0 ) ,$$ and $$( 3 , 0 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "Use the graph of the function of degree 9 in Figure 10 to identify the zeros of the function and their multiplicities. Figure 10",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d6772d04a32cc95a146af8d68d95739bd835a2a0"
+        ],
+        "Answer": "The graph has a zero of -5 with multiplicity 3, a zero of -1 with multiplicity 2, and a zero of 3 with multiplicity 4.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "Sketch a graph of $$f ( x ) = \\frac{1}{4} x ( x - 1 )^{4} ( x + 3 )^{3} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/745a4445bc98d6fbe96db0d4e136b891dad13e66"
+        ]
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "Show that the function $$f ( x ) = 7 x^{5} - 9 x^{4} - x^{2}$$ has at least one real zero between $$x = 1$$ and $$x = 2.$$",
+        "Image Links": [],
+        "Answer": "Because $$f$$ is a polynomial function and since $$f ( 1 )$$ is negative and $$f ( 2 )$$ is positive, there is at least one real zero between $$x = 1$$ and $$x = 2.$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #5",
+        "Problem Statement": "",
+        "Question": "Given the graph shown in Figure 20 , write a formula for the function shown. Figure 20",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d1ed7252fe52a4e84b4660533434e16b11f3f3ab"
+        ],
+        "Answer": "$$f ( x ) = - \\frac{1}{8} ( x - 2 )^{3} ( x + 1 )^{2} ( x - 4 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #6",
+        "Problem Statement": "",
+        "Question": "Use technology to find the maximum and minimum values on the interval $$[ -1 , 4 ]$$ of the function $$f ( x ) = - 0.2 ( x - 2 )^{3} ( x + 1 )^{2} ( x - 4 ) .$$",
+        "Image Links": [],
+        "Answer": "The minimum occurs at approximately the point $$( 0 , - 6.5 ) ,$$ and the maximum occurs at approximately the point $$( 3.5 , 7 ) .$$",
+        "Answer Image Links": []
+    }
+]

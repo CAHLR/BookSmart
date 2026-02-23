@@ -1,0 +1,714 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "How are polar coordinates different from rectangular coordinates?",
+        "Image Links": [],
+        "Answer": "For polar coordinates, the point in the plane depends on the angle from the positive x- axis and distance from the origin, while in Cartesian coordinates, the point represents the horizontal and vertical distances from the origin. For each point in the coordinate plane, there is one representation, but for each point in the polar plane, there are infinite representations.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "How are the polar axes different from the x - and y -axes of the Cartesian plane?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Explain how polar coordinates are graphed.",
+        "Image Links": [],
+        "Answer": "Determine $$\\theta$$ for the point, then move $$r$$ units from the pole to plot the point. If $$r$$ is negative, move $$r$$ units from the pole in the opposite direction but along the same angle. The point is a distance of $$r$$ away from the origin at an angle of $$\\theta$$ from the polar axis.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "How are the points $$( 3 , \\frac{\\pi}{2} )$$ and $$( - 3 , \\frac{\\pi}{2} )$$ related?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Explain why the points $$( - 3 , \\frac{\\pi}{2} )$$ and $$( 3 , - \\frac{\\pi}{2} )$$ are the same.",
+        "Image Links": [],
+        "Answer": "The point $$( - 3 , \\frac{\\pi}{2} )$$ has a positive angle but a negative radius and is plotted by moving to an angle of $$\\frac{\\pi}{2}$$ and then moving 3 units in the negative direction. This places the point 3 units down the negative y -axis. The point $$( 3 , - \\frac{\\pi}{2} )$$ has a negative angle and a positive radius and is plotted by first moving to an angle of $$- \\frac{\\pi}{2}$$ and then moving 3 units down, which is the positive direction for a negative angle. The point is also 3 units down the negative y -axis.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given polar coordinates to Cartesian coordinates. Remember to consider the quadrant in which the given point is located when determining $$\\theta$$ for the point.",
+        "Question": "$$( 7 , \\frac{7 \\pi}{6} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given polar coordinates to Cartesian coordinates. Remember to consider the quadrant in which the given point is located when determining $$\\theta$$ for the point.",
+        "Question": "$$( 5 , \\pi )$$",
+        "Image Links": [],
+        "Answer": "$$( - 5 , 0 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given polar coordinates to Cartesian coordinates. Remember to consider the quadrant in which the given point is located when determining $$\\theta$$ for the point.",
+        "Question": "$$( 6 , - \\frac{\\pi}{4} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given polar coordinates to Cartesian coordinates. Remember to consider the quadrant in which the given point is located when determining $$\\theta$$ for the point.",
+        "Question": "$$( - 3 , \\frac{\\pi}{6} )$$",
+        "Image Links": [],
+        "Answer": "$$( - \\frac{3 \\sqrt{3}}{2} , - \\frac{3}{2} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given polar coordinates to Cartesian coordinates. Remember to consider the quadrant in which the given point is located when determining $$\\theta$$ for the point.",
+        "Question": "$$( 4 , \\frac{7 \\pi}{4} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given Cartesian coordinates to polar coordinates with $$r > 0 , 0 \\le \\theta < 2 \\pi .$$ Remember to consider the quadrant in which the given point is located.",
+        "Question": "$$( 4 , 2 )$$",
+        "Image Links": [],
+        "Answer": "$$( 2 \\sqrt{5} , 0.464 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given Cartesian coordinates to polar coordinates with $$r > 0 , 0 \\le \\theta < 2 \\pi .$$ Remember to consider the quadrant in which the given point is located.",
+        "Question": "$$( - 4 , 6 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given Cartesian coordinates to polar coordinates with $$r > 0 , 0 \\le \\theta < 2 \\pi .$$ Remember to consider the quadrant in which the given point is located.",
+        "Question": "$$( 3 , -5 )$$",
+        "Image Links": [],
+        "Answer": "$$( \\sqrt{34} , 5.253 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given Cartesian coordinates to polar coordinates with $$r > 0 , 0 \\le \\theta < 2 \\pi .$$ Remember to consider the quadrant in which the given point is located.",
+        "Question": "$$( -10 , -13 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given Cartesian coordinates to polar coordinates with $$r > 0 , 0 \\le \\theta < 2 \\pi .$$ Remember to consider the quadrant in which the given point is located.",
+        "Question": "$$( 8 , 8 )$$",
+        "Image Links": [],
+        "Answer": "$$( 8 \\sqrt{2} , \\frac{\\pi}{4} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given Cartesian equation to a polar equation.",
+        "Question": "$$x = 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given Cartesian equation to a polar equation.",
+        "Question": "$$y = 4$$",
+        "Image Links": [],
+        "Answer": "$$r = 4 \\csc{} \\theta$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given Cartesian equation to a polar equation.",
+        "Question": "$$y = 4 x^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given Cartesian equation to a polar equation.",
+        "Question": "$$y = 2 x^{4}$$",
+        "Image Links": [],
+        "Answer": "$$r = \\sqrt[3]{\\frac{s i n \\theta}{2 c o s^{4} \\theta}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given Cartesian equation to a polar equation.",
+        "Question": "$$x^{2} + y^{2} = 4 y$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given Cartesian equation to a polar equation.",
+        "Question": "$$x^{2} + y^{2} = 3 x$$",
+        "Image Links": [],
+        "Answer": "$$r = 3 \\cos{} \\theta$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given Cartesian equation to a polar equation.",
+        "Question": "$$x^{2} - y^{2} = x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given Cartesian equation to a polar equation.",
+        "Question": "$$x^{2} - y^{2} = 3 y$$",
+        "Image Links": [],
+        "Answer": "$$r = \\frac{3 \\sin{} \\theta}{\\cos{( 2 \\theta )}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given Cartesian equation to a polar equation.",
+        "Question": "$$x^{2} + y^{2} = 9$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given Cartesian equation to a polar equation.",
+        "Question": "$$x^{2} = 9 y$$",
+        "Image Links": [],
+        "Answer": "$$r = \\frac{9 \\sin{} \\theta}{\\cos{}^{2} \\theta}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given Cartesian equation to a polar equation.",
+        "Question": "$$y^{2} = 9 x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given Cartesian equation to a polar equation.",
+        "Question": "$$9 x y = 1$$",
+        "Image Links": [],
+        "Answer": "$$r = \\sqrt{\\frac{1}{9 \\cos{} \\theta \\sin{} \\theta}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given polar equation to a Cartesian equation. Write in the standard form of a conic if possible, and identify the conic section represented.",
+        "Question": "$$r = 3 \\sin{} \\theta$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given polar equation to a Cartesian equation. Write in the standard form of a conic if possible, and identify the conic section represented.",
+        "Question": "$$r = 4 \\cos{} \\theta$$",
+        "Image Links": [],
+        "Answer": "$$x^{2} + y^{2} = 4 x$$ or $$\\frac{( x - 2 )^{2}}{4} + \\frac{y^{2}}{4} = 1 ;$$ circle",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given polar equation to a Cartesian equation. Write in the standard form of a conic if possible, and identify the conic section represented.",
+        "Question": "$$r = \\frac{4}{\\sin{\\theta} + 7 \\cos{} \\theta}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given polar equation to a Cartesian equation. Write in the standard form of a conic if possible, and identify the conic section represented.",
+        "Question": "$$r = \\frac{6}{\\cos{\\theta} + 3 \\sin{} \\theta}$$",
+        "Image Links": [],
+        "Answer": "$$3 y + x = 6 ;$$ line",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given polar equation to a Cartesian equation. Write in the standard form of a conic if possible, and identify the conic section represented.",
+        "Question": "$$r = 2 \\sec{} \\theta$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given polar equation to a Cartesian equation. Write in the standard form of a conic if possible, and identify the conic section represented.",
+        "Question": "$$r = 3 \\csc{} \\theta$$",
+        "Image Links": [],
+        "Answer": "$$y = 3 ;$$ line",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given polar equation to a Cartesian equation. Write in the standard form of a conic if possible, and identify the conic section represented.",
+        "Question": "$$r = \\sqrt{r \\cos{} \\theta + 2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given polar equation to a Cartesian equation. Write in the standard form of a conic if possible, and identify the conic section represented.",
+        "Question": "$$r^{2} = 4 \\sec{} \\theta \\csc{} \\theta$$",
+        "Image Links": [],
+        "Answer": "$$x y = 4 ;$$ hyperbola",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given polar equation to a Cartesian equation. Write in the standard form of a conic if possible, and identify the conic section represented.",
+        "Question": "$$r = 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given polar equation to a Cartesian equation. Write in the standard form of a conic if possible, and identify the conic section represented.",
+        "Question": "$$r^{2} = 4$$",
+        "Image Links": [],
+        "Answer": "$$x^{2} + y^{2} = 4 ;$$ circle",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given polar equation to a Cartesian equation. Write in the standard form of a conic if possible, and identify the conic section represented.",
+        "Question": "$$r = \\frac{1}{4 \\cos{} \\theta - 3 \\sin{} \\theta}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, convert the given polar equation to a Cartesian equation. Write in the standard form of a conic if possible, and identify the conic section represented.",
+        "Question": "$$r = \\frac{3}{\\cos{\\theta} - 5 \\sin{} \\theta}$$",
+        "Image Links": [],
+        "Answer": "$$x - 5 y = 3 ;$$ line",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the polar coordinates of the point.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c8a7f9f0609b4af4f89ba5c84e076f88c0f40701"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the polar coordinates of the point.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ed876a1faf3b1941f880c96d34ff3125aa967950"
+        ],
+        "Answer": "$$( 3 , \\frac{3 \\pi}{4} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the polar coordinates of the point.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8ed30e2d88c04df954bc83bfcf8b5857380c40d2"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the polar coordinates of the point.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/47e0540344b2adaea66944c0b17218cf74ea7c93"
+        ],
+        "Answer": "$$( 5 , \\pi )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the polar coordinates of the point.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/474b36d2f21191cfa0733c06645571a5fd516861"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, plot the points.",
+        "Question": "$$( - 2 , \\frac{\\pi}{3} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a0ad272f99add9ee9619ba34904991f5e3b0c110"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, plot the points.",
+        "Question": "$$( - 1 , - \\frac{\\pi}{2} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, plot the points.",
+        "Question": "$$( 3.5 , \\frac{7 \\pi}{4} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/21f3416b63ccfb8e7aee0e3617a77b0be56d2b02"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, plot the points.",
+        "Question": "$$( - 4 , \\frac{\\pi}{3} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, plot the points.",
+        "Question": "$$( 5 , \\frac{\\pi}{2} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/59727a850af19fce5019f912d8fc48ef1b1aff86"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, plot the points.",
+        "Question": "$$( 4 , \\frac{- 5 \\pi}{4} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, plot the points.",
+        "Question": "$$( 3 , \\frac{5 \\pi}{6} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/99dced03a1c5b7f70c2c3115c0d3aa9fa5bc90c8"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, plot the points.",
+        "Question": "$$( - 1.5 , \\frac{7 \\pi}{6} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, plot the points.",
+        "Question": "$$( - 2 , \\frac{\\pi}{4} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/862ac72b4bd8e32822b032969738e27101ac8aa1"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, plot the points.",
+        "Question": "$$( 1 , \\frac{3 \\pi}{2} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, convert the equation from rectangular to polar form and graph on the polar axis.",
+        "Question": "$$5 x - y = 6$$",
+        "Image Links": [],
+        "Answer": "$$r = \\frac{6}{5 \\cos{} \\theta - \\sin{} \\theta}$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/005e615a3cf02ab1306f219e8c4052a4d0d7ca02"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, convert the equation from rectangular to polar form and graph on the polar axis.",
+        "Question": "$$2 x + 7 y = - 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, convert the equation from rectangular to polar form and graph on the polar axis.",
+        "Question": "$$x^{2} + ( y - 1 )^{2} = 1$$",
+        "Image Links": [],
+        "Answer": "$$r = 2 \\sin{} \\theta$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/00be90fcd9312afa41740c0414b96231ce57dd8e"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, convert the equation from rectangular to polar form and graph on the polar axis.",
+        "Question": "$$( x + 2 )^{2} + ( y + 3 )^{2} = 13$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, convert the equation from rectangular to polar form and graph on the polar axis.",
+        "Question": "$$x = 2$$",
+        "Image Links": [],
+        "Answer": "$$r = \\frac{2}{\\cos{\\theta}}$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a7221763346970f3db417055d9a81ec5dbe43827"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, convert the equation from rectangular to polar form and graph on the polar axis.",
+        "Question": "$$x^{2} + y^{2} = 5 y$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, convert the equation from rectangular to polar form and graph on the polar axis.",
+        "Question": "$$x^{2} + y^{2} = 3 x$$",
+        "Image Links": [],
+        "Answer": "$$r = 3 \\cos{} \\theta$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9e38f4c206e9a93a42c52353a192dd9d90b9e545"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, convert the equation from polar to rectangular form and graph on the rectangular plane.",
+        "Question": "$$r = 6$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, convert the equation from polar to rectangular form and graph on the rectangular plane.",
+        "Question": "$$r = - 4$$",
+        "Image Links": [],
+        "Answer": "$$x^{2} + y^{2} = 16$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/653569d2cff68afb60e41a4cdb281f376ede9e7c"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, convert the equation from polar to rectangular form and graph on the rectangular plane.",
+        "Question": "$$\\theta = - \\frac{2 \\pi}{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, convert the equation from polar to rectangular form and graph on the rectangular plane.",
+        "Question": "$$\\theta = \\frac{\\pi}{4}$$",
+        "Image Links": [],
+        "Answer": "$$y = x$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1f85981a8bc0b2e8490321243d32c412fd611813"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, convert the equation from polar to rectangular form and graph on the rectangular plane.",
+        "Question": "$$r = \\sec{} \\theta$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, convert the equation from polar to rectangular form and graph on the rectangular plane.",
+        "Question": "$$r = -10 \\sin{} \\theta$$",
+        "Image Links": [],
+        "Answer": "$$x^{2} + ( y + 5 )^{2} = 25$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/01a8b8db4f5031e4a48feaa3b7811c07cd0254dc"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, convert the equation from polar to rectangular form and graph on the rectangular plane.",
+        "Question": "$$r = 3 \\cos{} \\theta$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "",
+        "Question": "Use a graphing calculator to find the rectangular coordinates of $$( 2 , - \\frac{\\pi}{5} ) .$$ Round to the nearest thousandth.",
+        "Image Links": [],
+        "Answer": "$$( 1.618 , - 1.176 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "",
+        "Question": "Use a graphing calculator to find the rectangular coordinates of $$( - 3 , \\frac{3 \\pi}{7} ) .$$ Round to the nearest thousandth.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "",
+        "Question": "Use a graphing calculator to find the polar coordinates of $$( - 7 , 8 )$$ in degrees. Round to the nearest thousandth.",
+        "Image Links": [],
+        "Answer": "$$( 10.630 , 131.186\u00b0 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "",
+        "Question": "Use a graphing calculator to find the polar coordinates of $$( 3 , - 4 )$$ in degrees. Round to the nearest hundredth.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "",
+        "Question": "Use a graphing calculator to find the polar coordinates of $$( - 2 , 0 )$$ in radians. Round to the nearest hundredth.",
+        "Image Links": [],
+        "Answer": "$$( 2 , 3.14 ) o r ( 2 , \\pi )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Describe the graph of $$r = a \\sec{} \\theta ; a > 0.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Describe the graph of $$r = a \\sec{} \\theta ; a < 0.$$",
+        "Image Links": [],
+        "Answer": "A vertical line with $$a$$ units left of the y -axis.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Describe the graph of $$r = a \\csc{} \\theta ; a > 0.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Describe the graph of $$r = a \\csc{} \\theta ; a < 0.$$",
+        "Image Links": [],
+        "Answer": "A horizontal line with $$a$$ units below the x -axis.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "What polar equations will give an oblique line?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercise, graph the polar inequality.",
+        "Question": "$$r < 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c4dd49b77016590df48348bb6444db64dd28d0a3"
+        ]
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercise, graph the polar inequality.",
+        "Question": "$$0 \\le \\theta \\le \\frac{\\pi}{4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercise, graph the polar inequality.",
+        "Question": "$$\\theta = \\frac{\\pi}{4} , r \\geq 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/25b7c490066ce5f556bfc35c1e09acec34c64a3c"
+        ]
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercise, graph the polar inequality.",
+        "Question": "$$\\theta = \\frac{\\pi}{4} , r \\geq -3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercise, graph the polar inequality.",
+        "Question": "$$0 \\le \\theta \\le \\frac{\\pi}{3} , r < 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/83354174d7f7c21dcaa8f1a954fd2bcf4ae0b1dc"
+        ]
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercise, graph the polar inequality.",
+        "Question": "$$\\frac{- \\pi}{6} < \\theta \\le \\frac{\\pi}{3} , - 3 < r < 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "Test the equation for symmetry: $$r = - 2 \\cos{} \\theta .$$",
+        "Image Links": [],
+        "Answer": "The equation fails the symmetry test with respect to the line $$\\theta = \\frac{\\pi}{2}$$ and with respect to the pole. It passes the polar axis symmetry test.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "Without converting to Cartesian coordinates, test the given equation for symmetry and find the zeros and maximum values of $$| r | :$$ $$r = 3 \\cos{} \\theta .$$",
+        "Image Links": [],
+        "Answer": "Tests will reveal symmetry about the polar axis. The zero is $$( 0 , \\frac{\\pi}{2} ) ,$$ and the maximum value is $$( 3 , 0 ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "Sketch the graph of $$r = 3 - 2 \\cos{} \\theta .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b246468fe095542273e7334b2a412818ca91e78c"
+        ]
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "Sketch the graph of $$r = 4 \\sin{} ( 2 \\theta ) .$$",
+        "Image Links": [],
+        "Answer": "The graph is a rose curve, $$n$$ even",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/343f086aed749975a5033640926bc0ec1c531d3b"
+        ]
+    },
+    {
+        "Topic": "Try It #5",
+        "Problem Statement": "",
+        "Question": "Sketch the graph of $$r = 3 \\cos{} ( 3 \\theta ).$$",
+        "Image Links": [],
+        "Answer": "Rose curve, $$n$$ odd",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a7e6415f3efd03dbe0c088e543edfc3e5c28c26d"
+        ]
+    },
+    {
+        "Topic": "Try It #6",
+        "Problem Statement": "",
+        "Question": "Sketch the graph of $$r = - \\theta$$ over the interval $$[ 0 , 4 \\pi ] .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/332319af092e1a0f6c3cb6d06848cb5164449fa1"
+        ]
+    }
+]
