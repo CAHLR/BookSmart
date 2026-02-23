@@ -1,0 +1,122 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.1What is the predetermined overhead rate, and when is it typically estimated?",
+        "Image Links": [],
+        "Answer": "The predetermined overhead rate is the amount of manufacturing overhead that is estimated to be applied to each product or department depending on the cost system used (job order costing or process costing). It typically is estimated at the beginning of each period by dividing the estimated manufacturing overhead by an activity base. While it is most commonly a year, the period can be a year, quarter, or month as determined by management. In traditional allocation systems, that base is typically direct labor hours, direct labor dollars, or machine hours. In activity-based costing systems, the activity base is one or more cost drivers.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.1LO6.3When is an activity-based costing system better than a traditional allocation system?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.2What is the advantage of labeling activities as value added or nonvalue added?",
+        "Image Links": [],
+        "Answer": "Non-value-added costs can often be eliminated since they are rarely essential, and identifying them helps managers reduce their costs.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.2What conditions are necessary to designate an activity as a cost driver?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.2For each cost pool, identify an appropriate cost driver. A. order department B. accounts receivable processing C. catering D. raw material inventory",
+        "Image Links": [],
+        "Answer": "Answers may vary but should be similar to the following: A. number of orders; B. number of customers; C. number of meals; D. number of material requisitions received.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.3How is the primary focus of activity-based costing different from that of traditional allocation?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.3What are the primary differences between traditional and activity-based costing?",
+        "Image Links": [],
+        "Answer": "Activity-based costing has multiple cost drivers and focuses on the overhead-related activities performed during manufacturing. Traditional allocation has a single unit-level base for allocating overhead and focuses on the units of production.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.3How are service companies similar or different from manufacturing companies in using ABC costing?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.3How are costs allocated in an ABC system?",
+        "Image Links": [],
+        "Answer": "Estimated overhead costs are first allocated to activity cost pools. Then, an allocation rate is determined based on the estimated usage of the cost driver for that pool. Then the costs are allocated to each product based on that product\u2019s cost driver usage.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.4In production, what has changed to allow ABC costing to become valuable?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.4Why is it important to know the true cost for a product or service?",
+        "Image Links": [],
+        "Answer": "The traditional method of applying overhead does not allocate overhead as precisely as with the ABC method. Management relies on the costing information when setting selling prices and bidding on service jobs. If the costing method is not accurate, some products may be considered profitable under traditional allocation, when those products are actually operating at a loss.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.5What is the primary difference between variable costing and absorption costing?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.5Why would managers prefer variable costing over absorption costing?",
+        "Image Links": [],
+        "Answer": "While variable costing is not acceptable for financial reporting purposes, some managers prefer variable costing because they believe fixed costs are period costs and do not change during the period. Variable costing separates variable and fixed manufacturing overhead, and using only variable costs allows them to make decisions based on the more reliable variations in unit costs.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.5Why is absorption costing the method allowable for GAAP?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.5Can a company gather information for both variable and absorption costing systems?",
+        "Image Links": [],
+        "Answer": "Yes, as long as the system computes the amount of fixed manufacturing overhead per unit. The total amount can be expensed under variable costing and assigned to overhead produced during absorption costing. This will allow a portion to be included in ending inventory for absorption costing and not included for variable costing.",
+        "Answer Image Links": []
+    }
+]

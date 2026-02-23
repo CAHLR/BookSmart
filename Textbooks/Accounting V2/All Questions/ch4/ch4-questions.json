@@ -1,0 +1,110 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO4.1A printing company manufactures notebooks of various sizes. The company manufactures 3,000 notebooks each day. Should the company use process costing or job order costing?",
+        "Image Links": [],
+        "Answer": "The company should use process costing. Since there are many similar items, process costing is a better fit than job order costing.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO4.1Burnham Industries incurs these costs for the month: What is the prime cost?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240910.161227/resources/e45003d416285f6e740bc82970055f7821e39df7"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO4.1Choco\u2019s Chocolates incurs these costs for the month: What is the conversion cost?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240910.161227/resources/a351de5606aa1c4f69ef5784f3cfa76116b26514"
+        ],
+        "Answer": "The conversion cost is $72,000: the sum of direct labor, factory depreciation expense, and utility expense.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO4.1How do job order costing and process costing differ with respect to recording direct materials and direct labor?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO4.1Why are product costs assigned to the product and period costs immediately expensed?",
+        "Image Links": [],
+        "Answer": "The expense recognition principle requires that expenses follow the revenue. Product costs are assigned to the product because they are associated with the revenue from the sale of the product. The cost is transferred from inventory to cost of goods sold when the item is sold. This matches the revenue from the sale with the cost of the item being sold. Period costs are expensed when incurred because they are not related to a specific product but are instead related to the time period in which revenue is earned.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO4.3Is the cost of goods manufactured the same as the cost of goods sold?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO4.3From beginning to end, place these items in the order of the flow of goods. A. cost of goods sold B. raw materials inventory C. finished goods inventory D. work in process inventory",
+        "Image Links": [],
+        "Answer": "B, D, C, A.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO4.4How is the predetermined overhead rate determined?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO4.4How is the predetermined overhead rate applied?",
+        "Image Links": [],
+        "Answer": "Management uses the activity considered to be the cost driver and multiplies that rate by the activity for each specific job. The result is the amount of overhead applied to that specific job.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO4.5Why are the overhead costs first accumulated in the manufacturing overhead account instead of in the work in process inventory account?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO4.6Why is the manufacturing overhead account debited as expenses are recognized and then credited when overhead is applied?",
+        "Image Links": [],
+        "Answer": "Expenses normally have a debit balance, and the manufacturing overhead account is debited when expenses are incurred to recognize the incurrence. When the expenses are allocated to the asset, the work in process inventory, the expense account manufacturing overhead is credited. This is in accordance with the expense recognition principle. The timing of the expense follows the revenue, and when the costs are allocated to inventory, they become a part of the product\u2019s cost and are recognized when the asset is sold.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO4.7Match the concept on the left to its correct description. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nA. job order costing & i. computes the overhead applied to each job \\\\ \\hline\nB. materials requisition sheet & ii. source document indicating the number of hours an employee worked on specific jobs \\\\ \\hline\nC. overapplied overhead & iii. source document indicating the raw materials assigned to a specific production job \\\\ \\hline\nD. predetermined overhead rate & iv. the cost accounting system used by pet food manufacturers \\\\ \\hline\nE. process costing & v. the cost accounting system used by law firms \\\\ \\hline\nF. time ticket & vi. the result when the actual overhead is less than the amount assigned to each specific job \\\\ \\hline\nG. underapplied overhead & vii. the result when the actual overhead is more than the amount assigned to each specific job \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO4.8When compared to manufacturing companies, service industries do not generally use ________ as a component of product cost.",
+        "Image Links": [],
+        "Answer": "direct materials",
+        "Answer Image Links": []
+    }
+]

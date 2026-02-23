@@ -1,0 +1,194 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO11.1What are the steps involved in the process for capital decision-making?",
+        "Image Links": [],
+        "Answer": "The process for capital decision-making involves five steps: 1. Determine capital needs. 2. Explore resource limitations. 3. Establish baseline criteria for alternatives. 4. Evaluate alternatives using screening and preference decisions. 5. Make the decision.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO11.1Why does a company evaluate both the money allocated to a project and the time allocated to the project?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO11.1What is the next thing a company needs to do after it establishes investment criteria?",
+        "Image Links": [],
+        "Answer": "The company then needs to establish alternatives, which are options available for investment, and evaluate the options using common measurement methods, including the payback method, accounting rate of return, net present value, and internal rate of return.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO11.1What is the screening decision?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO11.1Your supervisor is on the company\u2019s capital investment decision team that is to decide on alternatives for the acquisition of a new computer system for the company. The supervisor says, \u201cThe book value of the existing computer system for the firm that we are considering replacing is nothing but an accounting amount and as such is irrelevant in the capital expenditure analysis.\u201d Does this reasoning make sense? Why or why not?",
+        "Image Links": [],
+        "Answer": "From the standpoint of the decision to replace the asset, the book value of an existing asset is irrelevant. Book value is just the historical cost (or value) of the asset less the total depreciation calculated to date. A gain or loss situation often happens when the asset is sold for more or less than its book value, respectively. It is only at that point that the company truly realizes whether they have extra value or not enough value in the assets. This difference can provide either a gain or a loss to the company that will impact the taxes at year-end. Therefore, gains or losses affecting tax payments, plus cash flows, are important, since cash-flow effects are relevant in capital investment decisions.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO11.1Ekon owns a small tow-truck business that responds to state patrol requests to tow cars involved in wrecks, as well as to private business requests from customers at various auto repair shops and individuals with stalled autos. Ekon\u2019s business is open 24/7 for 365 days a year. He is starting to see too many repairs on his three trucks, which either means that he loses business or must divert a truck from another area. He is now trying to consider whether it is best to continue use of the current trucks or whether he needs to invest some money in new trucks. Using the steps for the process of capital decision-making, create an outline with sub-steps that include questions Ekon can use to guide his investigation or considerations of buying new trucks.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO11.2What is the payback method used to determine?",
+        "Image Links": [],
+        "Answer": "It is used to determine the length of time needed for a long-term project to recapture or pay back the initial investment in the project.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO11.2What are one advantage and one disadvantage of the payback method?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO11.2What are one advantage and one disadvantage of the accounting rate of return method?",
+        "Image Links": [],
+        "Answer": "Advantage: The ARR compares income to the initial investment rather than to cash flows; thus, incremental revenues, cost savings, and incremental expenses associated with the investment are reviewed and provide a more complete picture than payback, which uses cash flows. Disadvantage: ARR is limited in that it does not consider the value of a dollar over time.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO11.2What is the equation to calculate the payback period?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO11.2What is the equation to calculate the accounting rate of return?",
+        "Image Links": [],
+        "Answer": "Accounting Rate of Return = (Incremental revenues - Incremental expenses) \u00f7 Initial Investment",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO11.3What is future value and what is one example where it might be used?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO11.3Why do businesses consider time value of money before making an investment decision?",
+        "Image Links": [],
+        "Answer": "They need to know what the future value is of their investment compared to today\u2019s present value, and what potential earnings they could see because of delayed payment.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO11.3What determines the anticipated interest rate payout for an investment?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO11.3To calculate present value of a lump sum, which table would be used?",
+        "Image Links": [],
+        "Answer": "The Present Value of $1 table.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO11.3What is the definition of present value ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO11.4What is the difference between the discount rate used for net present value and the internal rate of return methods?",
+        "Image Links": [],
+        "Answer": "For NPV computations, a minimum required rate of return or discount rate is used as a screening tool to determine whether or not a capital investment decision meets a predetermined set of criteria. If the net present value of an investment is positive, then the capital investment generates an actual return greater than the discount rate and the project will be deemed acceptable. The discount rate, however, is not the actual rate of return earned by the project. The internal rate of return determines the actual rate of return that a project earns.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO11.4Briefly explain how NPV is computed and interpreted.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO11.4What is the basic benefit of using IRR?",
+        "Image Links": [],
+        "Answer": "The internal rate of return (IRR) shows the profitability or growth potential of an investment. All external factors are removed from calculation, such as inflation concerns, and the project with the highest return rate percentage is considered for investment. A company may have several viable alternatives that need a differentiating factor. IRR gives a solid differentiation, presented as a percentage rather than a dollar figure, as seen in NPV. This removes bias from projects with dissimilar NPVs and is a way to compare more than one option.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO11.4How is the IRR determined if there are uneven cash flows?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO11.5A fellow student studying managerial accounting says, \u201cThe net present value (NPV) weighs early receipts of cash much more heavily than more distant receipts of cash.\u201d Do you agree or disagree? Why?",
+        "Image Links": [],
+        "Answer": "Answers will vary but should include something like the following: the NPV weighs the early receipt of cash more heavily because when the receipts come in earlier, the discount is closer to 100%; however, the interest rate also impact the NPV.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO11.5What are the strengths and weaknesses of NPV?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO11.5What are the strengths and weaknesses of IRR?",
+        "Image Links": [],
+        "Answer": "Strengths: It considers the time value of money, removes the dollar bias, and allows for a company to make a decision, unlike non-time value methods. Weaknesses: It has a bias toward return rates instead of higher risk investment consideration, uses a more difficult calculation, and does not consider the time it will take to recoup an investment.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO11.5How does the size of the initial investment affect the internal rate of return on the net present value models?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]
