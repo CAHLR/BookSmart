@@ -1,0 +1,226 @@
+[
+    {
+        "Topic": "Try It 10.159",
+        "Problem Statement": "",
+        "Question": "Find the greatest common factor: $$54 , 36 .$$",
+        "Image Links": [],
+        "Answer": "18",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.160",
+        "Problem Statement": "",
+        "Question": "Find the greatest common factor: $$48 , 80 .$$",
+        "Image Links": [],
+        "Answer": "16",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.161",
+        "Problem Statement": "",
+        "Question": "Find the greatest common factor: $$7 y , 14 .$$",
+        "Image Links": [],
+        "Answer": "7",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.162",
+        "Problem Statement": "",
+        "Question": "Find the greatest common factor: $$22 , 11 m .$$",
+        "Image Links": [],
+        "Answer": "11",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.163",
+        "Problem Statement": "",
+        "Question": "Find the greatest common factor: $$16 x^{2} , 24 x^{3} .$$",
+        "Image Links": [],
+        "Answer": "8 x 2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.164",
+        "Problem Statement": "",
+        "Question": "Find the greatest common factor: $$27 y^{3} , 18 y^{4} .$$",
+        "Image Links": [],
+        "Answer": "9 y 3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.165",
+        "Problem Statement": "",
+        "Question": "Find the greatest common factor: $$21 x^{3} , 9 x^{2} , 15 x .$$",
+        "Image Links": [],
+        "Answer": "3 x",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.166",
+        "Problem Statement": "",
+        "Question": "Find the greatest common factor: $$25 m^{4} , 35 m^{3} , 20 m^{2} .$$",
+        "Image Links": [],
+        "Answer": "5 m 2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.167",
+        "Problem Statement": "",
+        "Question": "Factor: $$4 x + 12 .$$",
+        "Image Links": [],
+        "Answer": "4( x + 3)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.168",
+        "Problem Statement": "",
+        "Question": "Factor: $$6 a + 24 .$$",
+        "Image Links": [],
+        "Answer": "6( a + 4)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.169",
+        "Problem Statement": "",
+        "Question": "Factor: $$9 a + 9 .$$",
+        "Image Links": [],
+        "Answer": "9( a + 1)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.170",
+        "Problem Statement": "",
+        "Question": "Factor: $$11 x + 11 .$$",
+        "Image Links": [],
+        "Answer": "11( x + 1)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.171",
+        "Problem Statement": "",
+        "Question": "Factor: $$11 x - 44 .$$",
+        "Image Links": [],
+        "Answer": "11( x - 4)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.172",
+        "Problem Statement": "",
+        "Question": "Factor: $$13 y - 52 .$$",
+        "Image Links": [],
+        "Answer": "13( y - 4)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.173",
+        "Problem Statement": "",
+        "Question": "Factor: $$4 y^{2} + 8 y + 12 .$$",
+        "Image Links": [],
+        "Answer": "4( y 2 + 2 y + 3)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.174",
+        "Problem Statement": "",
+        "Question": "Factor: $$6 x^{2} + 42 x - 12 .$$",
+        "Image Links": [],
+        "Answer": "6( x 2 + 7 x - 2)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.175",
+        "Problem Statement": "",
+        "Question": "Factor: $$9 x^{2} + 7 x .$$",
+        "Image Links": [],
+        "Answer": "x (9 x + 7)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.176",
+        "Problem Statement": "",
+        "Question": "Factor: $$5 a^{2} - 12 a .$$",
+        "Image Links": [],
+        "Answer": "a (5 a - 12)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.177",
+        "Problem Statement": "",
+        "Question": "Factor: $$2 x^{3} + 12 x^{2} .$$",
+        "Image Links": [],
+        "Answer": "2 x 2 ( x + 6)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.178",
+        "Problem Statement": "",
+        "Question": "Factor: $$6 y^{3} - 15 y^{2} .$$",
+        "Image Links": [],
+        "Answer": "3 y 2 (2 y - 5)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.179",
+        "Problem Statement": "",
+        "Question": "Factor: $$18 y^{2} + 63 y .$$",
+        "Image Links": [],
+        "Answer": "9 y (2 y + 7)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.180",
+        "Problem Statement": "",
+        "Question": "Factor: $$32 k^{2} + 56 k .$$",
+        "Image Links": [],
+        "Answer": "8 k (4 k + 7)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.181",
+        "Problem Statement": "",
+        "Question": "Factor: $$18 y^{3} - 6 y^{2} - 24 y .$$",
+        "Image Links": [],
+        "Answer": "6 y (3 y 2 - y - 4)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.182",
+        "Problem Statement": "",
+        "Question": "Factor: $$16 x^{3} + 8 x^{2} - 12 x .$$",
+        "Image Links": [],
+        "Answer": "4 x (4 x 2 + 2 x - 3)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.183",
+        "Problem Statement": "",
+        "Question": "Factor: $$-5 y - 35 .$$",
+        "Image Links": [],
+        "Answer": "-5( y + 7)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.184",
+        "Problem Statement": "",
+        "Question": "Factor: $$-16 z - 56 .$$",
+        "Image Links": [],
+        "Answer": "-8(2 z + 7)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.185",
+        "Problem Statement": "",
+        "Question": "Factor: $$-7 a^{2} + 21 a .$$",
+        "Image Links": [],
+        "Answer": "-7 a ( a - 3)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.186",
+        "Problem Statement": "",
+        "Question": "Factor: $$-6 x^{2} + x .$$",
+        "Image Links": [],
+        "Answer": "- x (6 x - 1)",
+        "Answer Image Links": []
+    }
+]

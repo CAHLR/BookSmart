@@ -1,0 +1,274 @@
+[
+    {
+        "Topic": "Try It 10.55",
+        "Problem Statement": "",
+        "Question": "Multiply: $$6 ( x + 8 ) .$$",
+        "Image Links": [],
+        "Answer": "6 x + 48",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.56",
+        "Problem Statement": "",
+        "Question": "Multiply: $$2 ( y + 12 ) .$$",
+        "Image Links": [],
+        "Answer": "2 y + 24",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.57",
+        "Problem Statement": "",
+        "Question": "Multiply: $$y ( y - 9 ) .$$",
+        "Image Links": [],
+        "Answer": "y 2 - 9 y",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.58",
+        "Problem Statement": "",
+        "Question": "Multiply: $$p ( p - 13 ) .$$",
+        "Image Links": [],
+        "Answer": "p 2 - 13 p",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.59",
+        "Problem Statement": "",
+        "Question": "Multiply: $$8 x ( x + 3 y ) .$$",
+        "Image Links": [],
+        "Answer": "8 x 2 + 24 xy",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.60",
+        "Problem Statement": "",
+        "Question": "Multiply: $$3 r ( 6 r + s ) .$$",
+        "Image Links": [],
+        "Answer": "18 r 2 + 3 rs",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.61",
+        "Problem Statement": "",
+        "Question": "Multiply: $$-4 y ( 8 y^{2} + 5 y - 9 ) .$$",
+        "Image Links": [],
+        "Answer": "-32 y 3 - 20 y 2 + 36 y",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.62",
+        "Problem Statement": "",
+        "Question": "Multiply: $$-6 x ( 9 x^{2} + x - 1 ) .$$",
+        "Image Links": [],
+        "Answer": "-54 x 3 - 6 x 2 + 6 x",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.63",
+        "Problem Statement": "",
+        "Question": "Multiply: $$3 x^{2} ( 4 x^{2} - 3 x + 9 ) .$$",
+        "Image Links": [],
+        "Answer": "12 x 4 - 9 x 3 + 27 x 2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.64",
+        "Problem Statement": "",
+        "Question": "Multiply: $$8 y^{2} ( 3 y^{2} - 2 y - 4 ) .$$",
+        "Image Links": [],
+        "Answer": "24 y 4 - 16 y 3 - 32 y 2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.65",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( x + 8 ) p .$$",
+        "Image Links": [],
+        "Answer": "xp + 8 p",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.66",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( a + 4 ) p .$$",
+        "Image Links": [],
+        "Answer": "ap + 4 p",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.67",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( x + 8 ) ( x + 9 ) .$$",
+        "Image Links": [],
+        "Answer": "x 2 + 17 x + 72",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.68",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( a + 4 ) ( a + 5 ) .$$",
+        "Image Links": [],
+        "Answer": "a 2 + 9 a + 20",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.69",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( 5 x + 9 ) ( 4 x + 3 ) .$$",
+        "Image Links": [],
+        "Answer": "20 x 2 + 51 x + 27",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.70",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( 10 m + 9 ) ( 8 m + 7 ) .$$",
+        "Image Links": [],
+        "Answer": "80 m 2 + 142 m + 63",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.71",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( 7 y + 1 ) ( 8 y - 3 ) .$$",
+        "Image Links": [],
+        "Answer": "56 y 2 - 13 y - 3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.72",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( 3 x + 2 ) ( 5 x - 8 ) .$$",
+        "Image Links": [],
+        "Answer": "15 x 2 - 14 x - 16",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.73",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( x + 5 ) ( x - y ) .$$",
+        "Image Links": [],
+        "Answer": "x 2 - xy + 5 x - 5 y",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.74",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( x + 2 y ) ( x - 1 ) .$$",
+        "Image Links": [],
+        "Answer": "x 2 - x + 2 xy - 2 y",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.75",
+        "Problem Statement": "",
+        "Question": "Multiply using the FOIL method: $$( x + 7 ) ( x + 8 ) .$$",
+        "Image Links": [],
+        "Answer": "x 2 + 15 x + 56",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.76",
+        "Problem Statement": "",
+        "Question": "Multiply using the FOIL method: $$( y + 14 ) ( y + 2 ) .$$",
+        "Image Links": [],
+        "Answer": "y 2 + 16 y + 28",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.77",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( y - 3 ) ( y + 8 ) .$$",
+        "Image Links": [],
+        "Answer": "y 2 + 5 y - 24",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.78",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( q - 4 ) ( q + 5 ) .$$",
+        "Image Links": [],
+        "Answer": "q 2 + q - 20",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.79",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( 4 a + 9 ) ( 5 a - 2 ) .$$",
+        "Image Links": [],
+        "Answer": "20 a 2 + 37 a - 18",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.80",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( 7 x + 4 ) ( 7 x - 8 ) .$$",
+        "Image Links": [],
+        "Answer": "49 x 2 - 28 x - 32",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.81",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( 12 x - y ) ( x - 5 ) .$$",
+        "Image Links": [],
+        "Answer": "12 x 2 - 60 x - xy + 5 y",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.82",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( 6 a - b ) ( 2 a - 9 ) .$$",
+        "Image Links": [],
+        "Answer": "12 a 2 - 54 a - 2 ab + 9 b",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.83",
+        "Problem Statement": "",
+        "Question": "Multiply using the vertical method: $$( 4 m - 9 ) ( 3 m - 7 ) .$$",
+        "Image Links": [],
+        "Answer": "12 m 2 - 55 m + 63",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.84",
+        "Problem Statement": "",
+        "Question": "Multiply using the vertical method: $$( 6 n - 5 ) ( 7 n - 2 ) .$$",
+        "Image Links": [],
+        "Answer": "42 n 2 - 47 n + 10",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.85",
+        "Problem Statement": "",
+        "Question": "Multiply using the Distributive Property: $$( y - 1 ) ( y^{2} - 7 y + 2 ) .$$",
+        "Image Links": [],
+        "Answer": "y 3 - 8 y 2 + 9 y - 2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.86",
+        "Problem Statement": "",
+        "Question": "Multiply using the Distributive Property: $$( x + 2 ) ( 3 x^{2} - 4 x + 5 ) .$$",
+        "Image Links": [],
+        "Answer": "3 x 3 + 2 x 2 - 3 x + 10",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.87",
+        "Problem Statement": "",
+        "Question": "Multiply using the Vertical Method: $$( y - 1 ) ( y^{2} - 7 y + 2 ) .$$",
+        "Image Links": [],
+        "Answer": "y 3 - 8 y 2 + 9 y - 2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.88",
+        "Problem Statement": "",
+        "Question": "Multiply using the Vertical Method: $$( x + 2 ) ( 3 x^{2} - 4 x + 5 ) .$$",
+        "Image Links": [],
+        "Answer": "3 x 3 + 2 x 2 - 3 x + 10",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,198 @@
+[
+    {
+        "Topic": "Try It 2.1",
+        "Problem Statement": "",
+        "Question": "Translate from algebra to words. \u24d0 $$18 + 11$$ \u24d1 $$( 27 ) ( 9 )$$ \u24d2 $$84 \\div 7$$ \u24d3 $$p - q$$",
+        "Image Links": [],
+        "Answer": "\u24d0 18 plus 11; the sum of eighteen and eleven \u24d1 27 times 9; the product of twenty-seven and nine \u24d2 84 divided by 7; the quotient of eighty-four and seven \u24d3 p minus q ; the difference of p and q",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.2",
+        "Problem Statement": "",
+        "Question": "Translate from algebra to words. \u24d0 $$47 - 19$$ \u24d1 $$72 \\div 9$$ \u24d2 $$m + n$$ \u24d3 $$( 13 ) ( 7 )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 47 minus 19; the difference of forty-seven and nineteen \u24d1 72 divided by 9; the quotient of seventy-two and nine \u24d2 m plus n ; the sum of m and n \u24d3 13 times 7; the product of thirteen and seven",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.3",
+        "Problem Statement": "",
+        "Question": "Translate from algebra to words. \u24d0 $$14 \\le 27$$ \u24d1 $$19 - 2 \\ne 8$$ \u24d2 $$12 > 4 \\div 2$$ \u24d3 $$x - 7 < 1$$",
+        "Image Links": [],
+        "Answer": "\u24d0 fourteen is less than or equal to twenty-seven \u24d1 nineteen minus two is not equal to eight \u24d2 twelve is greater than four divided by two \u24d3 x minus seven is less than one",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.4",
+        "Problem Statement": "",
+        "Question": "Translate from algebra to words. \u24d0 $$19 \\geq 15$$ \u24d1 $$7 = 12 - 5$$ \u24d2 $$15 \\div 3 < 8$$ \u24d3 $$y - 3 > 6$$",
+        "Image Links": [],
+        "Answer": "\u24d0 nineteen is greater than or equal to fifteen \u24d1 seven is equal to twelve minus five \u24d2 fifteen divided by three is less than eight \u24d3 y minus three is greater than six",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.5",
+        "Problem Statement": "",
+        "Question": "Use Figure 2.2 to fill in the appropriate $$\\text{symbol} , \\text{=} , \\text{unicode[:<]} , \\text{or} \\text{unicode[:>]} .$$ \u24d0 MPG of Prius_____MPG of Versa \u24d1 MPG of Mini Cooper_____ MPG of Corolla",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2c324ebceabef905a0167e928ced0e59e3c435b6"
+        ],
+        "Answer": "\u24d0 > \u24d1 <",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.6",
+        "Problem Statement": "",
+        "Question": "Use Figure 2.2 to fill in the appropriate $$\\text{symbol} , \\text{=} , \\text{unicode[:<]} , \\text{or} \\text{unicode[:>]} .$$ \u24d0 MPG of Fit_____ MPG of Prius \u24d1 MPG of Corolla _____ MPG of Fit",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2c324ebceabef905a0167e928ced0e59e3c435b6"
+        ],
+        "Answer": "\u24d0 < \u24d1 >",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.7",
+        "Problem Statement": "",
+        "Question": "Determine if each is an expression or an equation: \u24d0 $$23 + 6 = 29$$ \u24d1 $$7 \\cdotp 3 - 7$$",
+        "Image Links": [],
+        "Answer": "\u24d0 equation \u24d1 expression",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.8",
+        "Problem Statement": "",
+        "Question": "Determine if each is an expression or an equation: $$y \\div 14$$ $$x - 6 = 21$$",
+        "Image Links": [],
+        "Answer": "\u24d0 expression \u24d1 equation",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.9",
+        "Problem Statement": "",
+        "Question": "Write each expression in exponential form: $$41 \\cdotp 41 \\cdotp 41 \\cdotp 41 \\cdotp 41$$",
+        "Image Links": [],
+        "Answer": "41 5",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.10",
+        "Problem Statement": "",
+        "Question": "Write each expression in exponential form: $$7 \\cdotp 7 \\cdotp 7 \\cdotp 7 \\cdotp 7 \\cdotp 7 \\cdotp 7 \\cdotp 7 \\cdotp 7$$",
+        "Image Links": [],
+        "Answer": "7 9",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.11",
+        "Problem Statement": "",
+        "Question": "Write each exponential expression in expanded form: \u24d0 $$4^{8}$$ \u24d1 $$a^{7}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 4 \u00b7 4 \u00b7 4 \u00b7 4 \u00b7 4 \u00b7 4 \u00b7 4 \u00b7 4 \u24d1 a \u00b7 a \u00b7 a \u00b7 a \u00b7 a \u00b7 a \u00b7 a",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.12",
+        "Problem Statement": "",
+        "Question": "Write each exponential expression in expanded form: \u24d0 $$8^{8}$$ \u24d1 $$b^{6}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 8 \u00b7 8 \u00b7 8 \u00b7 8 \u00b7 8 \u00b7 8 \u00b7 8 \u00b7 8 \u24d1 b \u00b7 b \u00b7 b \u00b7 b \u00b7 b \u00b7 b",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.13",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$5^{3}$$ \u24d1 $$1^{7}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 125 \u24d1 1",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.14",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$7^{2}$$ \u24d1 $$0^{5}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 49 \u24d1 0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.15",
+        "Problem Statement": "",
+        "Question": "Simplify the expressions: \u24d0 $$12 - 5 \\cdotp 2$$ \u24d1 $$( 12 - 5 ) \\cdotp 2$$",
+        "Image Links": [],
+        "Answer": "\u24d0 2 \u24d1 14",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.16",
+        "Problem Statement": "",
+        "Question": "Simplify the expressions: \u24d0 $$8 + 3 \\cdotp 9$$ \u24d1 $$( 8 + 3 ) \\cdotp 9$$",
+        "Image Links": [],
+        "Answer": "\u24d0 35 \u24d1 99",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.17",
+        "Problem Statement": "",
+        "Question": "Simplify: $$42 \\div 7 \\cdotp 3$$",
+        "Image Links": [],
+        "Answer": "18",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.18",
+        "Problem Statement": "",
+        "Question": "Simplify: $$12 \\cdotp 3 \\div 4$$",
+        "Image Links": [],
+        "Answer": "9",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.19",
+        "Problem Statement": "",
+        "Question": "Simplify: $$30 \\div 5 + 10 ( 3 - 2 )$$",
+        "Image Links": [],
+        "Answer": "16",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.20",
+        "Problem Statement": "",
+        "Question": "Simplify: $$70 \\div 10 + 4 ( 6 - 2 )$$",
+        "Image Links": [],
+        "Answer": "23",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.21",
+        "Problem Statement": "",
+        "Question": "Simplify: $$9 + 5^{3} - [ 4 ( 9 + 3 ) ]$$",
+        "Image Links": [],
+        "Answer": "86",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.22",
+        "Problem Statement": "",
+        "Question": "Simplify: $$7^{2} - 2 [ 4 ( 5 + 1 ) ]$$",
+        "Image Links": [],
+        "Answer": "1",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.23",
+        "Problem Statement": "",
+        "Question": "Simplify: $$3^{2} + 2^{4} \\div 2 + 4^{3}$$",
+        "Image Links": [],
+        "Answer": "81",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.24",
+        "Problem Statement": "",
+        "Question": "Simplify: $$6^{2} - 5^{3} \\div 5 + 8^{2}$$",
+        "Image Links": [],
+        "Answer": "75",
+        "Answer Image Links": []
+    }
+]
