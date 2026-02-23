@@ -1,0 +1,431 @@
+[
+    {
+        "Topic": "8.1 Valence Bond Theory",
+        "Problem Statement": "",
+        "Question": "Explain how \u03c3 and \u03c0 bonds are similar and how they are different.",
+        "Image Links": [],
+        "Answer": "Similarities: Both types of bonds result from overlap of atomic orbitals on adjacent atoms and contain a maximum of two electrons. Differences: \u03c3 bonds are stronger and result from end-to-end overlap and all single bonds are \u03c3 bonds; \u03c0 bonds between the same two atoms are weaker because they result from side-by-side overlap, and multiple bonds contain one or more \u03c0 bonds (in addition to a \u03c3 bond).",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.1 Valence Bond Theory",
+        "Problem Statement": "",
+        "Question": "Draw a curve that describes the energy of a system with H and Cl atoms at varying distances. Then, find the minimum energy of this curve two ways. (a) Use the bond energy found in Table 8.1 to calculate the energy for one single HCl bond (Hint: How many bonds are in a mole?) (b) Use the enthalpy of reaction and the bond energies for H_2 and Cl_2 to solve for the energy of one mole of HCl bonds. $$\\text{H}_{2} ( g ) + \\text{Cl}_{2} ( g ) \\rightleftharpoons 2 \\text{HCl} ( g ) \\text{Delta} H_{\\text{rxn}}^{__{degree}} = \\text{unicode[:-]184.7 kJ/mol}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.1 Valence Bond Theory",
+        "Problem Statement": "",
+        "Question": "Explain why bonds occur at specific average bond distances instead of the atoms approaching each other infinitely close.",
+        "Image Links": [],
+        "Answer": "The specific average bond distance is the distance with the lowest energy. At distances less than the bond distance, the positive charges on the two nuclei repel each other, and the overall energy increases.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.1 Valence Bond Theory",
+        "Problem Statement": "",
+        "Question": "Use valence bond theory to explain the bonding in F_2, HF, and ClBr. Sketch the overlap of the atomic orbitals involved in the bonds.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.1 Valence Bond Theory",
+        "Problem Statement": "",
+        "Question": "Use valence bond theory to explain the bonding in O_2. Sketch the overlap of the atomic orbitals involved in the bonds in O_2.",
+        "Image Links": [],
+        "Answer": "Bonding: One \u03c3 bond and one \u03c0 bond. The s orbitals are filled and do not overlap. The p orbitals overlap along the axis to form a \u03c3 bond and side-by-side to form the \u03c0 bond.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e61cda57ccda90c1b39ba514d3ba6342526df152"
+        ]
+    },
+    {
+        "Topic": "8.1 Valence Bond Theory",
+        "Problem Statement": "",
+        "Question": "How many \u03c3 and \u03c0 bonds are present in the molecule HCN?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.1 Valence Bond Theory",
+        "Problem Statement": "",
+        "Question": "A friend tells you N_2 has three \u03c0 bonds due to overlap of the three p -orbitals on each N atom. Do you agree?",
+        "Image Links": [],
+        "Answer": "No, two of the p orbitals (one on each N) will be oriented end-to-end and will form a \u03c3 bond.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d3a8e9101fc0fca4da77d8b0440a01f060ea76fd"
+        ]
+    },
+    {
+        "Topic": "8.1 Valence Bond Theory",
+        "Problem Statement": "",
+        "Question": "Draw the Lewis structures for CO_2 and CO, and predict the number of \u03c3 and \u03c0 bonds for each molecule. (a) CO_2 (b) CO",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.2 Hybrid Atomic Orbitals",
+        "Problem Statement": "",
+        "Question": "Why is the concept of hybridization required in valence bond theory?",
+        "Image Links": [],
+        "Answer": "Hybridization is introduced to explain the geometry of bonding orbitals in valence bond theory.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.2 Hybrid Atomic Orbitals",
+        "Problem Statement": "",
+        "Question": "Give the shape that describes each hybrid orbital set: (a) sp ^2 (b) sp ^3 d (c) sp (d) sp ^3 d ^2",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.2 Hybrid Atomic Orbitals",
+        "Problem Statement": "",
+        "Question": "Explain why a carbon atom cannot form five bonds using sp ^3 d hybrid orbitals.",
+        "Image Links": [],
+        "Answer": "There are no d orbitals in the valence shell of carbon.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.2 Hybrid Atomic Orbitals",
+        "Problem Statement": "",
+        "Question": "What is the hybridization of the central atom in each of the following? (a) BeH_2 (b) SF_6 (c) $$\\text{PO}_{4} ^{\\text{3unicode[:-]}}$$ (d) PCl_5",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.2 Hybrid Atomic Orbitals",
+        "Problem Statement": "",
+        "Question": "A molecule with the formula AB_3 could have one of four different shapes. Give the shape and the hybridization of the central A atom for each.",
+        "Image Links": [],
+        "Answer": "trigonal planar, sp ^2; trigonal pyramidal (one lone pair on A) sp ^3; T-shaped (two lone pairs on A sp ^3 d , or (three lone pairs on A) sp ^3 d ^2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.2 Hybrid Atomic Orbitals",
+        "Problem Statement": "",
+        "Question": "Methionine, CH_3SCH_2CH_2CH(NH_2)CO_2H, is an amino acid found in proteins. The Lewis structure of this compound is shown below. What is the hybridization type of each carbon, oxygen, the nitrogen, and the sulfur?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/943bbadb3c1ee9c0d04d98ba778020471992113b"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.2 Hybrid Atomic Orbitals",
+        "Problem Statement": "",
+        "Question": "Sulfuric acid is manufactured by a series of reactions represented by the following equations: $$\\text{S}_{8} ( s ) + 8 \\text{O}_{2} ( g ) \u27f6 8 \\text{SO}_{2} ( g )$$ $$2 \\text{S} \\text{O}_{2} ( g ) + \\text{O}_{2} ( g ) \u27f6 2 \\text{SO}_{3} ( g )$$ $$\\text{SO}_{3} ( g ) + \\text{H}_{2} \\text{O} ( l ) \u27f6 \\text{H}_{2} \\text{SO}_{4} ( l )$$ Draw a Lewis structure, predict the molecular geometry by VSEPR, and determine the hybridization of sulfur for the following: (a) circular S_8 molecule (b) SO_2 molecule (c) SO_3 molecule (d) H_2SO_4 molecule (the hydrogen atoms are bonded to oxygen atoms)",
+        "Image Links": [],
+        "Answer": "(a) Each S has a bent (109\u00b0) geometry, sp ^3 (b) Bent (120\u00b0), sp ^2 (c) Trigonal planar, sp ^2 (d) Tetrahedral, sp ^3",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a6655ef179ec932f49f0693a09e03decc839c2ab",
+            "https://openstax.org/apps/archive/20240812.170248/resources/24272423faabba284c78a0dac2a4cc2be459093c",
+            "https://openstax.org/apps/archive/20240812.170248/resources/3d619757220dc028476acb3538997e28358aa9b8",
+            "https://openstax.org/apps/archive/20240812.170248/resources/2456a95920d869a9c09782937ce43f5f83ea72c2"
+        ]
+    },
+    {
+        "Topic": "8.2 Hybrid Atomic Orbitals",
+        "Problem Statement": "",
+        "Question": "Two important industrial chemicals, ethene, C_2H_4, and propene, C_3H_6, are produced by the steam (or thermal) cracking process: $$2 \\text{C}_{3} \\text{H}_{8} ( g ) \u27f6 \\text{C}_{2} \\text{H}_{4} ( g ) + \\text{C}_{3} \\text{H}_{6} ( g ) + \\text{CH}_{4} ( g ) + \\text{H}_{2} ( g )$$ For each of the four carbon compounds, do the following: (a) Draw a Lewis structure. (b) Predict the geometry about the carbon atom. (c) Determine the hybridization of each type of carbon atom.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.2 Hybrid Atomic Orbitals",
+        "Problem Statement": "",
+        "Question": "Analysis of a compound indicates that it contains 77.55% Xe and 22.45% F by mass. (a) What is the empirical formula for this compound? (Assume this is also the molecular formula in responding to the remaining parts of this exercise) . (b) Write a Lewis structure for the compound. (c) Predict the shape of the molecules of the compound. (d) What hybridization is consistent with the shape you predicted?",
+        "Image Links": [],
+        "Answer": "(a) XeF_2 (b) (c) linear (d) sp ^3 d",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f9737c93ce985152df4e17e415c84bda557fc97b"
+        ]
+    },
+    {
+        "Topic": "8.2 Hybrid Atomic Orbitals",
+        "Problem Statement": "",
+        "Question": "Consider nitrous acid, HNO_2 (HONO). (a) Write a Lewis structure. (b) What are the electron pair and molecular geometries of the internal oxygen and nitrogen atoms in the HNO_2 molecule? (c) What is the hybridization on the internal oxygen and nitrogen atoms in HNO_2?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.2 Hybrid Atomic Orbitals",
+        "Problem Statement": "",
+        "Question": "Strike-anywhere matches contain a layer of KClO_3 and a layer of P_4S_3. The heat produced by the friction of striking the match causes these two compounds to react vigorously, which sets fire to the wooden stem of the match. KClO_3 contains the $$\\text{ClO}_{3} ^{\\text{unicode[:-]}}$$ ion. P_4S_3 is an unusual molecule with the skeletal structure. (a) Write Lewis structures for P_4S_3 and the $$\\text{ClO}_{3} ^{-}$$ ion. (b) Describe the geometry about the P atoms, the S atom, and the Cl atom in these species. (c) Assign a hybridization to the P atoms, the S atom, and the Cl atom in these species. (d) Determine the oxidation states and formal charge of the atoms in P_4S_3 and the $$\\text{ClO}_{3} ^{-}$$ ion.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/209c7e10e33b850272dfd5f4fc198061d5f48143"
+        ],
+        "Answer": "(a) (b) P atoms, trigonal pyramidal; S atoms, bent, with two lone pairs; Cl atoms, trigonal pyramidal; (c) Hybridization about P, S, and Cl is, in all cases, sp ^3; (d) Oxidation states P +1, S $$- 1 \\frac{1}{3} ,$$ Cl +5, O -2. Formal charges: P 0; S 0; Cl +2: O -1",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b46c2b619538b31766aecbddf359a188a903a717"
+        ]
+    },
+    {
+        "Topic": "8.2 Hybrid Atomic Orbitals",
+        "Problem Statement": "",
+        "Question": "Identify the hybridization of each carbon atom in the following molecule. (The arrangement of atoms is given; you need to determine how many bonds connect each pair of atoms.)",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/66a89c33919f1eeef1758dafefc4efbb16871eb1"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.2 Hybrid Atomic Orbitals",
+        "Problem Statement": "",
+        "Question": "Write Lewis structures for NF_3 and PF_5. On the basis of hybrid orbitals, explain the fact that NF_3, PF_3, and PF_5 are stable molecules, but NF_5 does not exist.",
+        "Image Links": [],
+        "Answer": "Phosphorus and nitrogen can form sp ^3 hybrids to form three bonds and hold one lone pair in PF_3 and NF_3, respectively. However, nitrogen has no valence d orbitals, so it cannot form a set of sp ^3 d hybrid orbitals to bind five fluorine atoms in NF_5. Phosphorus has d orbitals and can bind five fluorine atoms with sp ^3 d hybrid orbitals in PF_5.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c9dcd1576a9946c12fe37f53bb870ae4d877213b"
+        ]
+    },
+    {
+        "Topic": "8.2 Hybrid Atomic Orbitals",
+        "Problem Statement": "",
+        "Question": "In addition to NF_3, two other fluoro derivatives of nitrogen are known: N_2F_4 and N_2F_2. What shapes do you predict for these two molecules? What is the hybridization for the nitrogen in each molecule?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.3 Multiple Bonds",
+        "Problem Statement": "",
+        "Question": "The bond energy of a C-C single bond averages 347 kJ mol^-1; that of a $$\\text{C} \\equiv \\text{C}$$ triple bond averages 839 kJ mol^-1. Explain why the triple bond is not three times as strong as a single bond.",
+        "Image Links": [],
+        "Answer": "A triple bond consists of one \u03c3 bond and two \u03c0 bonds. A \u03c3 bond is stronger than a \u03c0 bond due to greater overlap.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.3 Multiple Bonds",
+        "Problem Statement": "",
+        "Question": "For the carbonate ion, $$\\text{CO}_{3} ^{2-} ,$$ draw all of the resonance structures. Identify which orbitals overlap to create each bond.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.3 Multiple Bonds",
+        "Problem Statement": "",
+        "Question": "A useful solvent that will dissolve salts as well as organic compounds is the compound acetonitrile, H_3CCN. It is present in paint strippers. (a) Write the Lewis structure for acetonitrile, and indicate the direction of the dipole moment in the molecule. (b) Identify the hybrid orbitals used by the carbon atoms in the molecule to form \u03c3 bonds. (c) Describe the atomic orbitals that form the \u03c0 bonds in the molecule. Note that it is not necessary to hybridize the nitrogen atom.",
+        "Image Links": [],
+        "Answer": "(a) (b) The terminal carbon atom uses sp ^3 hybrid orbitals, while the central carbon atom is sp hybridized. (c) Each of the two \u03c0 bonds is formed by overlap of a 2 p orbital on carbon and a nitrogen 2 p orbital.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/4d6f8a52e844f4951e0d5888a60b61eaa98a9f13"
+        ]
+    },
+    {
+        "Topic": "8.3 Multiple Bonds",
+        "Problem Statement": "",
+        "Question": "For the molecule allene, $$\\text{H}_{2} \\text{C} = \\text{C} = \\text{CH}_{2} ,$$ give the hybridization of each carbon atom. Will the hydrogen atoms be in the same plane or perpendicular planes?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.3 Multiple Bonds",
+        "Problem Statement": "",
+        "Question": "Identify the hybridization of the central atom in each of the following molecules and ions that contain multiple bonds: (a) ClNO (N is the central atom) (b) CS_2 (c) Cl_2CO (C is the central atom) (d) Cl_2SO (S is the central atom) (e) SO_2F_2 (S is the central atom) (f) XeO_2F_2 (Xe is the central atom) (g) $$\\text{ClOF}_{2} ^{\\text{+}}$$ (Cl is the central atom)",
+        "Image Links": [],
+        "Answer": "(a) sp ^2; (b) sp ; (c) sp ^2; (d) sp ^3; (e) sp ^3; (f) sp ^3 d ; (g) sp ^3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.3 Multiple Bonds",
+        "Problem Statement": "",
+        "Question": "Describe the molecular geometry and hybridization of the N, P, or S atoms in each of the following compounds. (a) H_3PO_4, phosphoric acid, used in cola soft drinks (b) NH_4NO_3, ammonium nitrate, a fertilizer and explosive (c) S_2Cl_2, disulfur dichloride, used in vulcanizing rubber (d) K_4[O_3POPO_3], potassium pyrophosphate, an ingredient in some toothpastes",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.3 Multiple Bonds",
+        "Problem Statement": "",
+        "Question": "For each of the following molecules, indicate the hybridization requested and whether or not the electrons will be delocalized: (a) ozone (O_3) central O hybridization (b) carbon dioxide (CO_2) central C hybridization (c) nitrogen dioxide (NO_2) central N hybridization (d) phosphate ion $$( \\text{PO}_{4} ^{3-} )$$ central P hybridization",
+        "Image Links": [],
+        "Answer": "(a) sp ^2, delocalized; (b) sp , localized; (c) sp ^2, delocalized; (d) sp ^3, delocalized",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.3 Multiple Bonds",
+        "Problem Statement": "",
+        "Question": "For each of the following structures, determine the hybridization requested and whether the electrons will be delocalized: (a) Hybridization of each carbon (b) Hybridization of sulfur (c) All atoms",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9ddadc6863abd4e17a3caffec5d94b4cb58c4483",
+            "https://openstax.org/apps/archive/20240812.170248/resources/c92a7c1910587216b0d64b3bb79951cca23a1da4",
+            "https://openstax.org/apps/archive/20240812.170248/resources/f36cd2613ede1087c4260484d48caa9312ac19cb"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.3 Multiple Bonds",
+        "Problem Statement": "",
+        "Question": "Draw the orbital diagram for carbon in CO_2 showing how many carbon atom electrons are in each orbital.",
+        "Image Links": [],
+        "Answer": "Each of the four electrons is in a separate orbital and overlaps with an electron on an oxygen atom.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2a08ddb830d9dd2f53a2328d7ee050b102383ddb"
+        ]
+    },
+    {
+        "Topic": "8.4 Molecular Orbital Theory",
+        "Problem Statement": "",
+        "Question": "Sketch the distribution of electron density in the bonding and antibonding molecular orbitals formed from two s orbitals and from two p orbitals.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.4 Molecular Orbital Theory",
+        "Problem Statement": "",
+        "Question": "How are the following similar, and how do they differ? (a) \u03c3 molecular orbitals and \u03c0 molecular orbitals (b) \u03c8 for an atomic orbital and \u03c8 for a molecular orbital (c) bonding orbitals and antibonding orbitals",
+        "Image Links": [],
+        "Answer": "(a) Similarities: Both are bonding orbitals that can contain a maximum of two electrons. Differences: \u03c3 orbitals are end-to-end combinations of atomic orbitals, whereas \u03c0 orbitals are formed by side-by-side overlap of orbitals. (b) Similarities: Both are quantum-mechanical constructs that represent the probability of finding the electron about the atom or the molecule. Differences: \u03c8 for an atomic orbital describes the behavior of only one electron at a time based on the atom. For a molecule, \u03c8 represents a mathematical combination of atomic orbitals. (c) Similarities: Both are orbitals that can contain two electrons. Differences: Bonding orbitals result in holding two or more atoms together. Antibonding orbitals have the effect of destabilizing any bonding that has occurred.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.4 Molecular Orbital Theory",
+        "Problem Statement": "",
+        "Question": "If molecular orbitals are created by combining five atomic orbitals from atom A and five atomic orbitals from atom B combine, how many molecular orbitals will result?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.4 Molecular Orbital Theory",
+        "Problem Statement": "",
+        "Question": "Can a molecule with an odd number of electrons ever be diamagnetic? Explain why or why not.",
+        "Image Links": [],
+        "Answer": "An odd number of electrons can never be paired, regardless of the arrangement of the molecular orbitals. It will always be paramagnetic.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.4 Molecular Orbital Theory",
+        "Problem Statement": "",
+        "Question": "Can a molecule with an even number of electrons ever be paramagnetic? Explain why or why not.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.4 Molecular Orbital Theory",
+        "Problem Statement": "",
+        "Question": "Why are bonding molecular orbitals lower in energy than the parent atomic orbitals?",
+        "Image Links": [],
+        "Answer": "Bonding orbitals have electron density in close proximity to more than one nucleus. The interaction between the bonding positively charged nuclei and negatively charged electrons stabilizes the system.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.4 Molecular Orbital Theory",
+        "Problem Statement": "",
+        "Question": "Calculate the bond order for an ion with this configuration: $$( \\text{sigma}_{2 s} )^{2} ( \\text{sigma}_{2 s}^{*} )^{2} ( \\text{sigma}_{2 p x} )^{2} ( \\text{pi}_{2 p y} , \\text{pi}_{2 p z} )^{4} ( \\text{pi}_{2 p y}^{*} , \\text{pi}_{2 p z}^{*} )^{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.4 Molecular Orbital Theory",
+        "Problem Statement": "",
+        "Question": "Explain why an electron in the bonding molecular orbital in the H_2 molecule has a lower energy than an electron in the 1 s atomic orbital of either of the separated hydrogen atoms.",
+        "Image Links": [],
+        "Answer": "The pairing of the two bonding electrons lowers the energy of the system relative to the energy of the nonbonded electrons.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.4 Molecular Orbital Theory",
+        "Problem Statement": "",
+        "Question": "Predict the valence electron molecular orbital configurations for the following, and state whether they will be stable or unstable ions. (a) $$\\text{Na}_{2} ^{\\text{2+}}$$ (b) $$\\text{Mg}_{2} ^{\\text{2+}}$$ (c) $$\\text{Al}_{2} ^{\\text{2+}}$$ (d) $$\\text{Si}_{2} ^{\\text{2+}}$$ (e) $$\\text{P}_{2} ^{\\text{2+}}$$ (f) $$\\text{S}_{2} ^{\\text{2+}}$$ (g) $$\\text{F}_{2} ^{\\text{2+}}$$ (h) $$\\text{Ar}_{2} ^{\\text{2+}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.4 Molecular Orbital Theory",
+        "Problem Statement": "",
+        "Question": "Determine the bond order of each member of the following groups, and determine which member of each group is predicted by the molecular orbital model to have the strongest bond. (a) H_2, $$\\text{H}_{2} ^{\\text{+}} ,$$ $$\\text{H}_{2} ^{\\text{unicode[:-]}}$$ (b) O_2, $$\\text{O}_{2} ^{\\text{2+}} ,$$ $$\\text{O}_{2} ^{\\text{2unicode[:-]}}$$ (c) Li_2, $$\\text{Be}_{2} ^{\\text{+}} ,$$ Be_2 (d) F_2, $$\\text{F}_{2} ^{\\text{+}} ,$$ $$\\text{F}_{2} ^{\\text{unicode[:-]}}$$ (e) N_2, $$\\text{N}_{2} ^{\\text{+}} ,$$ $$\\text{N}_{2} ^{\\text{unicode[:-]}}$$",
+        "Image Links": [],
+        "Answer": "(a) H_2 bond order = 1, $$\\text{H}_{2} ^{\\text{+}}$$ bond order = 0.5, $$\\text{H}_{2} ^{\\text{unicode[:-]}}$$ bond order = 0.5, strongest bond is H_2; (b) O_2 bond order = 2, $$\\text{O}_{2} ^{\\text{2+}}$$ bond order = 3; $$\\text{O}_{2} ^{\\text{2unicode[:-]}}$$ bond order = 1, strongest bond is $$\\text{O}_{2} ^{\\text{2+}} ;$$ (c) Li_2 bond order = 1, $$\\text{Be}_{2} ^{\\text{+}}$$ bond order = 0.5, Be_2 bond order = 0, strongest bond is $$\\text{Li}_{2}$$ ;(d) F_2 bond order = 1, $$\\text{F}_{2} ^{\\text{+}}$$ bond order = 1.5, $$\\text{F}_{2} ^{\\text{unicode[:-]}}$$ bond order = 0.5, strongest bond is $$\\text{F}_{2} ^{\\text{+}} ;$$ (e) N_2 bond order = 3, $$\\text{N}_{2} ^{\\text{+}}$$ bond order = 2.5, $$\\text{N}_{2} ^{\\text{unicode[:-]}}$$ bond order = 2.5, strongest bond is N_2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.4 Molecular Orbital Theory",
+        "Problem Statement": "",
+        "Question": "For the first ionization energy for an N_2 molecule, what molecular orbital is the electron removed from?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.4 Molecular Orbital Theory",
+        "Problem Statement": "",
+        "Question": "Compare the atomic and molecular orbital diagrams to identify the member of each of the following pairs that has the highest first ionization energy (the most tightly bound electron) in the gas phase: (a) H and H_2 (b) N and N_2 (c) O and O_2 (d) C and C_2 (e) B and B_2",
+        "Image Links": [],
+        "Answer": "(a) H_2; (b) N_2; (c) O; (d) C_2; (e) B_2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.4 Molecular Orbital Theory",
+        "Problem Statement": "",
+        "Question": "Which of the period 2 homonuclear diatomic molecules are predicted to be paramagnetic?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.4 Molecular Orbital Theory",
+        "Problem Statement": "",
+        "Question": "A friend tells you that the 2 s orbital for fluorine starts off at a much lower energy than the 2 s orbital for lithium, so the resulting \u03c3_2 s molecular orbital in F_2 is more stable than in Li_2. Do you agree?",
+        "Image Links": [],
+        "Answer": "Yes, fluorine is a smaller atom than Li, so atoms in the 2 s orbital are closer to the nucleus and more stable.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.4 Molecular Orbital Theory",
+        "Problem Statement": "",
+        "Question": "True or false: Boron contains 2 s ^22 p ^1 valence electrons, so only one p orbital is needed to form molecular orbitals.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.4 Molecular Orbital Theory",
+        "Problem Statement": "",
+        "Question": "What charge would be needed on F_2 to generate an ion with a bond order of 2?",
+        "Image Links": [],
+        "Answer": "2+",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.4 Molecular Orbital Theory",
+        "Problem Statement": "",
+        "Question": "Predict whether the MO diagram for S_2 would show s-p mixing or not.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.4 Molecular Orbital Theory",
+        "Problem Statement": "",
+        "Question": "Explain why $$\\text{N}_{2} ^{\\text{2+}}$$ is diamagnetic, while $$\\text{O}_{2} ^{\\text{4+}} ,$$ which has the same number of valence electrons, is paramagnetic.",
+        "Image Links": [],
+        "Answer": "N_2 has s-p mixing, so the \u03c0 orbitals are the last filled in $$\\text{N}_{2} ^{\\text{2+}} .$$ O_2 does not have s-p mixing, so the \u03c3 _p orbital fills before the \u03c0 orbitals.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "8.4 Molecular Orbital Theory",
+        "Problem Statement": "",
+        "Question": "Using the MO diagrams, predict the bond order for the stronger bond in each pair: (a) B_2 or $$\\text{B}_{2} ^{\\text{+}}$$ (b) F_2 or $$\\text{F}_{2} ^{\\text{+}}$$ (c) O_2 or $$\\text{O}_{2} ^{\\text{2+}}$$ (d) $$\\text{C}_{2} ^{\\text{+}}$$ or $$\\text{C}_{2} ^{\\text{unicode[:-]}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]
