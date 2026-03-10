@@ -1,4 +1,4 @@
-# OAT Transcription
+# BookSmart
 
 Pipeline for extracting textbook questions from HTML, filtering to LLM-solvable ones, running multiple LLMs on them, and evaluating answers with o4-mini.
 
