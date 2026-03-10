@@ -2,6 +2,8 @@
 
 Pipeline for extracting textbook questions from HTML, filtering to LLM-solvable ones, running multiple LLMs on them, and evaluating answers with o4-mini.
 
+This benchmark repository contains problems curated from textbooks published by [OpenStax](https://openstax.org/) under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. All copies and derivatives of this content must retain attribution to OpenStax, the original publisher.
+
 **Prerequisites:** You already have the textbook HTMLs (one folder per book under `Textbooks/<book>/HTML/`). The steps below produce question JSONs in **All Questions**, then a filtered set in **Filtered Questions**, then model answers and evaluations.
 
 ---
