@@ -1,0 +1,30 @@
+[
+    {
+        "Topic": "Checkpoint 2.52",
+        "Problem Statement": "",
+        "Question": "Sketch or use a graphing tool to view the graph of the cylindrical surface defined by equation $$z = y^{2} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/eef3d9dd602c781ef39a6bb5b097529a2122ce94"
+        ]
+    },
+    {
+        "Topic": "Checkpoint 2.53",
+        "Problem Statement": "",
+        "Question": "A hyperboloid of one sheet is any surface that can be described with an equation of the form $$\\frac{x^{2}}{a^{2}} + \\frac{y^{2}}{b^{2}} - \\frac{z^{2}}{c^{2}} = 1 .$$ Describe the traces of the hyperboloid of one sheet given by equation $$\\frac{x^{2}}{3^{2}} + \\frac{y^{2}}{2^{2}} - \\frac{z^{2}}{5^{2}} = 1 .$$",
+        "Image Links": [],
+        "Answer": "The traces parallel to the xy -plane are ellipses and the traces parallel to the xz - and yz -planes are hyperbolas. Specifically, the trace in the xy -plane is ellipse $$\\frac{x^{2}}{3^{2}} + \\frac{y^{2}}{2^{2}} = 1 ,$$ the trace in the xz -plane is hyperbola $$\\frac{x^{2}}{3^{2}} - \\frac{z^{2}}{5^{2}} = 1 ,$$ and the trace in the yz -plane is hyperbola $$\\frac{y^{2}}{2^{2}} - \\frac{z^{2}}{5^{2}} = 1$$ (see the following figure).",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c1a27124ab42d8acdb08d3e8f8685208fa08593c"
+        ]
+    },
+    {
+        "Topic": "Checkpoint 2.54",
+        "Problem Statement": "",
+        "Question": "Identify the surface represented by equation $$9 x^{2} + y^{2} - z^{2} + 2 z - 10 = 0 .$$",
+        "Image Links": [],
+        "Answer": "Hyperboloid of one sheet, centered at $$( 0 , 0 , 1 )$$",
+        "Answer Image Links": []
+    }
+]

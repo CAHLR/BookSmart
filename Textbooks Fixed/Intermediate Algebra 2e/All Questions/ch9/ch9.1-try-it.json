@@ -1,0 +1,162 @@
+[
+    {
+        "Topic": "Try It 9.1",
+        "Problem Statement": "",
+        "Question": "Solve: $$x^{2} - 48 = 0 .$$",
+        "Image Links": [],
+        "Answer": "$$x = 4 \\sqrt{3} , x = -4 \\sqrt{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.2",
+        "Problem Statement": "",
+        "Question": "Solve: $$y^{2} - 27 = 0 .$$",
+        "Image Links": [],
+        "Answer": "$$y = 3 \\sqrt{3} , y = -3 \\sqrt{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.3",
+        "Problem Statement": "",
+        "Question": "Solve: $$2 x^{2} = 98 .$$",
+        "Image Links": [],
+        "Answer": "$$x = 7 , x = -7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.4",
+        "Problem Statement": "",
+        "Question": "Solve: $$5 m^{2} = 80 .$$",
+        "Image Links": [],
+        "Answer": "$$m = 4 , m = -4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.5",
+        "Problem Statement": "",
+        "Question": "Solve: $$c^{2} + 12 = 0 .$$",
+        "Image Links": [],
+        "Answer": "$$c = 2 \\sqrt{3} i , \\text{} c = -2 \\sqrt{3} i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.6",
+        "Problem Statement": "",
+        "Question": "Solve: $$q^{2} + 24 = 0 .$$",
+        "Image Links": [],
+        "Answer": "$$c = 2 \\sqrt{6} i , \\text{} c = -2 \\sqrt{6} i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.7",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\frac{1}{2} x^{2} + 4 = 24 .$$",
+        "Image Links": [],
+        "Answer": "$$x = 2 \\sqrt{10} , x = -2 \\sqrt{10}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.8",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\frac{3}{4} y^{2} - 3 = 18 .$$",
+        "Image Links": [],
+        "Answer": "$$y = 2 \\sqrt{7} , y = -2 \\sqrt{7}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.9",
+        "Problem Statement": "",
+        "Question": "Solve: $$5 r^{2} - 2 = 34 .$$",
+        "Image Links": [],
+        "Answer": "$$r = \\frac{6 \\sqrt{5}}{5} , r = - \\frac{6 \\sqrt{5}}{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.10",
+        "Problem Statement": "",
+        "Question": "Solve: $$3 t^{2} + 6 = 70 .$$",
+        "Image Links": [],
+        "Answer": "$$t = \\frac{8 \\sqrt{3}}{3} , t = - \\frac{8 \\sqrt{3}}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.11",
+        "Problem Statement": "",
+        "Question": "Solve: $$3 ( a - 3 )^{2} = 54 .$$",
+        "Image Links": [],
+        "Answer": "$$a = 3 + 3 \\sqrt{2} , a = 3 - 3 \\sqrt{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.12",
+        "Problem Statement": "",
+        "Question": "Solve: $$2 ( b + 2 )^{2} = 80 .$$",
+        "Image Links": [],
+        "Answer": "$$b = -2 + 2 \\sqrt{10} , b = -2 - 2 \\sqrt{10}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.13",
+        "Problem Statement": "",
+        "Question": "Solve: $$( x - \\frac{1}{2} )^{2} = \\frac{5}{4} .$$",
+        "Image Links": [],
+        "Answer": "$$x = \\frac{1}{2} + \\frac{\\sqrt{5}}{2}$$ , $$x = \\frac{1}{2} - \\frac{\\sqrt{5}}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.14",
+        "Problem Statement": "",
+        "Question": "Solve: $$( y + \\frac{3}{4} )^{2} = \\frac{7}{16} .$$",
+        "Image Links": [],
+        "Answer": "$$y = - \\frac{3}{4} + \\frac{\\sqrt{7}}{4} , y = - \\frac{3}{4} - \\frac{\\sqrt{7}}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.15",
+        "Problem Statement": "",
+        "Question": "Solve: $$5 ( a - 5 )^{2} + 4 = 104 .$$",
+        "Image Links": [],
+        "Answer": "$$a = 5 + 2 \\sqrt{5} , a = 5 - 2 \\sqrt{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.16",
+        "Problem Statement": "",
+        "Question": "Solve: $$3 ( b + 3 )^{2} - 8 = 88 .$$",
+        "Image Links": [],
+        "Answer": "$$b = -3 + 4 \\sqrt{2} , b = -3 - 4 \\sqrt{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.17",
+        "Problem Statement": "",
+        "Question": "Solve: $$( 3 r + 4 )^{2} = -8 .$$",
+        "Image Links": [],
+        "Answer": "$$r = - \\frac{4}{3} + \\frac{2 \\sqrt{2} i}{3} , \\text{r} = - \\frac{4}{3} - \\frac{2 \\sqrt{2} i}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.18",
+        "Problem Statement": "",
+        "Question": "Solve: $$( 2 t - 8 )^{2} = -10 .$$",
+        "Image Links": [],
+        "Answer": "$$t = 4 + \\frac{\\sqrt{10} i}{2} , \\text{t} = 4 - \\frac{\\sqrt{10} i}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.19",
+        "Problem Statement": "",
+        "Question": "Solve: $$9 m^{2} - 12 m + 4 = 25 .$$",
+        "Image Links": [],
+        "Answer": "$$m = \\frac{7}{3} , m = -1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.20",
+        "Problem Statement": "",
+        "Question": "Solve: $$16 n^{2} + 40 n + 25 = 4 .$$",
+        "Image Links": [],
+        "Answer": "$$n = - \\frac{3}{4} , n = - \\frac{7}{4}$$",
+        "Answer Image Links": []
+    }
+]

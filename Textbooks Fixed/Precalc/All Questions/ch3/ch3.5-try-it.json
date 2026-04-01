@@ -1,0 +1,26 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "Divide $$16 x^{3} - 12 x^{2} + 20 x - 3$$ by $$4 x + 5.$$",
+        "Image Links": [],
+        "Answer": "$$4 x^{2} - 8 x + 15 - \\frac{78}{4 x + 5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "Use synthetic division to divide $$3 x^{4} + 18 x^{3} - 3 x + 40$$ by $$x + 7.$$",
+        "Image Links": [],
+        "Answer": "$$3 x^{3} - 3 x^{2} + 21 x - 150 + \\frac{1 , 090}{x + 7}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "The area of a rectangle is given by $$3 x^{3} + 14 x^{2} - 23 x + 6.$$ The width of the rectangle is given by $$x + 6.$$ Find an expression for the length of the rectangle.",
+        "Image Links": [],
+        "Answer": "$$3 x^{2} - 4 x + 1$$",
+        "Answer Image Links": []
+    }
+]

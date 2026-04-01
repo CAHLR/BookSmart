@@ -1,0 +1,42 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "Simplify $$\\frac{x - 6}{x^{2} - 36} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{x + 6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "Multiply the rational expressions and show the product in simplest form: $$\\frac{x^{2} + 11 x + 30}{x^{2} + 5 x + 6} \\cdot \\frac{x^{2} + 7 x + 12}{x^{2} + 8 x + 16}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{( x + 5 ) ( x + 6 )}{( x + 2 ) ( x + 4 )}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "Divide the rational expressions and express the quotient in simplest form: $$\\frac{9 x^{2} - 16}{3 x^{2} + 17 x - 28} \\div \\frac{3 x^{2} - 2 x - 8}{x^{2} + 5 x - 14}$$",
+        "Image Links": [],
+        "Answer": "$$1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "Subtract the rational expressions: $$\\frac{3}{x + 5} - \\frac{1}{x -3} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2 ( x -7 )}{( x + 5 ) ( x -3 )}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #5",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\frac{\\frac{x}{y} - \\frac{y}{x}}{y}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{x^{2} - y^{2}}{x y^{2}}$$",
+        "Answer Image Links": []
+    }
+]

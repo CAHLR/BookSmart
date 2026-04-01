@@ -1,0 +1,648 @@
+[
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, plot each point in a rectangular coordinate system and identify the quadrant in which the point is located.",
+        "Question": "\u24d0 $$( -4 , 2 )$$ \u24d1 $$( -1 , -2 )$$ \u24d2 $$( 3 , -5 )$$ \u24d3 $$( -3 , 0 )$$ \u24d4 $$( \\frac{5}{3} , 2 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/01dd77e85937d697423e82586376e6d8a4e6df2a"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, plot each point in a rectangular coordinate system and identify the quadrant in which the point is located.",
+        "Question": "\u24d0 $$( -2 , -3 )$$ \u24d1 $$( 3 , -3 )$$ \u24d2 $$( -4 , 1 )$$ \u24d3 $$( 4 , -1 )$$ \u24d4 $$( \\frac{3}{2} , 1 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, plot each point in a rectangular coordinate system and identify the quadrant in which the point is located.",
+        "Question": "\u24d0 $$( 3 , -1 )$$ \u24d1 $$( -3 , 1 )$$ \u24d2 $$( -2 , \\text{0} )$$ \u24d3 $$( -4 , -3 )$$ \u24d4 $$( 1 , \\frac{14}{5} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ab83493b838ae62f912cf374e915f9e16bb79c50"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, plot each point in a rectangular coordinate system and identify the quadrant in which the point is located.",
+        "Question": "\u24d0 $$( -1 , 1 )$$ \u24d1 $$( -2 , -1 )$$ \u24d2 $$( 2 , 0 )$$ \u24d3 $$( 1 , -4 )$$ \u24d4 $$( 3 , \\frac{7}{2} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "\u24d0 is the ordered pair a solution to the equation? \u24d1 is the point on the line?",
+        "Question": "$$y = x + 2 ;$$ A: $$( 0 , 2 ) ;$$ B: $$( 1 , 2 ) ;$$ C: $$( -1 , 1 ) ;$$ D: $$( -3 , -1 ) .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0aad2792d035b90f7492d3b8cec7ed724d7c3efa"
+        ],
+        "Answer": "\u24d0 A: yes, B: no, C: yes, D: yes \u24d1 A: yes, B: no, C: yes, D: yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "\u24d0 is the ordered pair a solution to the equation? \u24d1 is the point on the line?",
+        "Question": "$$y = x - 4 ;$$ A: $$( 0 , -4 ) ;$$ B: $$( 3 , -1 ) ;$$ C: $$( 2 , 2 ) ;$$ D: $$( 1 , -5 ) .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c2ab226110e0bf83165b292641d79c81c4e00f07"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "\u24d0 is the ordered pair a solution to the equation? \u24d1 is the point on the line?",
+        "Question": "$$y = \\frac{1}{2} x - 3 ;$$ A: $$( 0 , -3 ) ;$$ B: $$( 2 , -2 ) ;$$ C: $$( -2 , -4 ) ;$$ D: $$( 4 , 1 )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/61bdcec928093440d9f02036b53ae38f99a74b94"
+        ],
+        "Answer": "\u24d0 A: yes, B: yes, C: yes, D: no \u24d1 A: yes, B: yes, C: yes, D: no",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "\u24d0 is the ordered pair a solution to the equation? \u24d1 is the point on the line?",
+        "Question": "$$y = \\frac{1}{3} x + 2 ;$$ A: $$( 0 , 2 ) ;$$ B: $$( 3 , 3 ) ;$$ C: $$( -3 , 2 ) ;$$ D: $$( -6 , 0 ) .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8986a85cb821bd1413ea2a074d6cd3f303e7bec6"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph by plotting points.",
+        "Question": "$$y = x + 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/bbc8aa46c476b6b3b3e68a70db4d24d280d142d9"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph by plotting points.",
+        "Question": "$$y = x - 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph by plotting points.",
+        "Question": "$$y = 3 x - 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/380e6094344869eacc7e7307b8a0164c281537f1"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph by plotting points.",
+        "Question": "$$y = -2 x + 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph by plotting points.",
+        "Question": "$$y = \\text{unicode[:-]} x - 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6a7920d51f66d92abbedef87c8177e4aaaf454bc"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph by plotting points.",
+        "Question": "$$y = \\text{unicode[:-]} x - 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph by plotting points.",
+        "Question": "$$y = 2 x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/cc10837546989b2947f513ba81d676dfe79884c8"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph by plotting points.",
+        "Question": "$$y = -2 x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph by plotting points.",
+        "Question": "$$y = \\frac{1}{2} x + 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e728eaa8204b8558f96b6b67523e4aec6d20524c"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph by plotting points.",
+        "Question": "$$y = \\frac{1}{3} x - 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph by plotting points.",
+        "Question": "$$y = \\frac{4}{3} x - 5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6c0dcf8ce81243be499de102cd342969d13fc77c"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph by plotting points.",
+        "Question": "$$y = \\frac{3}{2} x - 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph by plotting points.",
+        "Question": "$$y = - \\frac{2}{5} x + 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0ebbd15d92bd24e16daee8bf5be8da43070ec3b9"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph by plotting points.",
+        "Question": "$$y = - \\frac{4}{5} x - 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph by plotting points.",
+        "Question": "$$y = - \\frac{3}{2} x + 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/650ea2c6a5b871f642a984175a72515615acc276"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph by plotting points.",
+        "Question": "$$y = - \\frac{5}{3} x + 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each equation.",
+        "Question": "\u24d0 $$x = 4$$ \u24d1 $$y = 3$$",
+        "Image Links": [],
+        "Answer": "\u24d0 \u24d1",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7da22431dde654c693483ff8dfca7ca442b47030",
+            "https://openstax.org/apps/archive/20240812.170248/resources/a147d0e3804fb1ee764ad5fca0f2b5cdca5a1daf"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each equation.",
+        "Question": "\u24d0 $$x = 3$$ \u24d1 $$y = 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each equation.",
+        "Question": "\u24d0 $$x = -2$$ \u24d1 $$y = -5$$",
+        "Image Links": [],
+        "Answer": "\u24d0 \u24d1",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/457fcc78224b565f1ec877627d1c72d80103fe77",
+            "https://openstax.org/apps/archive/20240812.170248/resources/5e7c2c60809223e4d4b9bf8d290d444f96215443"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each equation.",
+        "Question": "\u24d0 $$x = -5$$ \u24d1 $$y = -2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each pair of equations in the same rectangular coordinate system.",
+        "Question": "$$y = 2 x$$ and $$y = 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/413075566e0173167a20f51dfffb060b73ed2c17"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each pair of equations in the same rectangular coordinate system.",
+        "Question": "$$y = 5 x$$ and $$y = 5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each pair of equations in the same rectangular coordinate system.",
+        "Question": "$$y = - \\frac{1}{2} x$$ and $$y = - \\frac{1}{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6e001d52e1dec37bc483b47f4ed8e9f262c6c3fb"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each pair of equations in the same rectangular coordinate system.",
+        "Question": "$$y = - \\frac{1}{3} x$$ and $$y = - \\frac{1}{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, find the x - and y -intercepts on each graph.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/fbed74016abc7911e27177bc65cc93f2c190fc31"
+        ],
+        "Answer": "$$( 3 , 0 ) , ( 0 , 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, find the x - and y -intercepts on each graph.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7650ff8a993e4a90ed823eee613f67d03af1cd5b"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, find the x - and y -intercepts on each graph.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f3dda9cd7ac28fc46e837dc282d5a9947a41b6ff"
+        ],
+        "Answer": "$$( 5 , 0 ) , ( 0 , -5 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, find the x - and y -intercepts on each graph.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a040b5218d3ec50cb9231b01732b0be6b97c65f8"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, find the intercepts for each equation.",
+        "Question": "$$x - y = 5$$",
+        "Image Links": [],
+        "Answer": "$$( 5 , 0 ) , ( 0 , -5 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, find the intercepts for each equation.",
+        "Question": "$$x - y = -4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, find the intercepts for each equation.",
+        "Question": "$$3 x + y = 6$$",
+        "Image Links": [],
+        "Answer": "$$( 2 , 0 ) , ( 0 , 6 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, find the intercepts for each equation.",
+        "Question": "$$x - 2 y = 8$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, find the intercepts for each equation.",
+        "Question": "$$4 x - y = 8$$",
+        "Image Links": [],
+        "Answer": "$$( 2 , 0 ) , ( 0 , -8 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, find the intercepts for each equation.",
+        "Question": "$$5 x - y = 5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, find the intercepts for each equation.",
+        "Question": "$$2 x + 5 y = 10$$",
+        "Image Links": [],
+        "Answer": "$$( 5 , 0 ) , ( 0 , 2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, find the intercepts for each equation.",
+        "Question": "$$3 x - 2 y = 12$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph using the intercepts.",
+        "Question": "$$- x + 4 y = 8$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/4dc38ce03bc4c0e69493dac9dacbd18e7aa161fe"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph using the intercepts.",
+        "Question": "$$x + 2 y = 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph using the intercepts.",
+        "Question": "$$x + y = -3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1b102273bfd93340e050ef3d94baadef58209f7d"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph using the intercepts.",
+        "Question": "$$x - y = -4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph using the intercepts.",
+        "Question": "$$4 x + y = 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6400133355c3c3ba57e1c3e0a266c6c88b0d719b"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph using the intercepts.",
+        "Question": "$$3 x + y = 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph using the intercepts.",
+        "Question": "$$3 x - y = -6$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9e3cad4b79a599d04447e84a96ca42aaf988ed4b"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph using the intercepts.",
+        "Question": "$$2 x - y = -8$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph using the intercepts.",
+        "Question": "$$2 x + 4 y = 12$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/64f0a3b4e6d78fa2d8b636a318582218dd88a82b"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph using the intercepts.",
+        "Question": "$$3 x - 2 y = 6$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph using the intercepts.",
+        "Question": "$$2 x - 5 y = -20$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8c829efaabb1fda4e634c7c06ed51336c627b600"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph using the intercepts.",
+        "Question": "$$3 x - 4 y = -12$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph using the intercepts.",
+        "Question": "$$y = -2 x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ccdf5ada64bdaeeca4907c44023874c7545ea628"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph using the intercepts.",
+        "Question": "$$y = 5 x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph using the intercepts.",
+        "Question": "$$y = x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/dbfea1d73c1a2824b9c3848d371e795c30a2f4e3"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph using the intercepts.",
+        "Question": "$$y = \\text{unicode[:-]} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each equation.",
+        "Question": "$$y = \\frac{3}{2} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1891ca9064a49ec5934e6ad879566a771ae15d45"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each equation.",
+        "Question": "$$y = - \\frac{2}{3} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each equation.",
+        "Question": "$$y = - \\frac{1}{2} x + 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b001246adde8d3b6e960e189facfb590df6ceecb"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each equation.",
+        "Question": "$$y = \\frac{1}{4} x - 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each equation.",
+        "Question": "$$4 x + y = 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/025fff8ec450f3c4b245cc406fe72263d70a3df3"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each equation.",
+        "Question": "$$5 x + 2 y = 10$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each equation.",
+        "Question": "$$y = -1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/83febfb1836a0de924ea5d6c3ad61d0704d652a7"
+        ]
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, graph each equation.",
+        "Question": "$$x = 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "Explain how you would choose three x -values to make a table to graph the line $$y = \\frac{1}{5} x - 2 .$$",
+        "Image Links": [],
+        "Answer": "Answers will vary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "What is the difference between the equations of a vertical and a horizontal line?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "Do you prefer to use the method of plotting points or the method using the intercepts to graph the equation $$4 x + y = -4 ?$$ Why?",
+        "Image Links": [],
+        "Answer": "Answers will vary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "Do you prefer to use the method of plotting points or the method using the intercepts to graph the equation $$y = \\frac{2}{3} x - 2 ?$$ Why?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

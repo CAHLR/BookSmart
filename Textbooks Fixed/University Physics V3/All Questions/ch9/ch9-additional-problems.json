@@ -1,0 +1,146 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Potassium fluoride (KF) is a molecule formed by an ionic bond. At equilibrium separation the atoms are $$r_{0} = 0.255 \\text{nm}$$ apart. Determine the electrostatic potential energy of the atoms. The electron affinity of F is 3.40 eV and the ionization energy of K is 4.34 eV. Determine dissociation energy. (Neglect the energy of repulsion.)",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{aaa}U_{\\text{coul}} & = & -5.65 \\text{eV} \\\\ E_{\\text{form}} & = & -4.71 \\text{eV} , E_{\\text{diss}} = 4.71 \\text{eV}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "For the preceding problem, sketch the potential energy versus separation graph for the bonding of $$\\text{K}^{+} \\text{and} \\text{Fl}^{\\text{unicode[:-]}}$$ ions. (a) Label the graph with the energy required to transfer an electron from K ^ to Fl. (b) Label the graph with the dissociation energy.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The separation between hydrogen atoms in a $$\\text{H}_{2}$$ molecule is about 0.075 nm. Determine the characteristic energy of rotation in eV.",
+        "Image Links": [],
+        "Answer": "$$E_{0 r} = 7.43 \\times 10^{-3} \\text{eV}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The characteristic energy of the $$\\text{Cl}_{2}$$ molecule is $$2.95 \\times 10^{-5} \\text{eV}$$ . Determine the separation distance between the nitrogen atoms.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Determine the lowest three rotational energy levels of $$\\text{H}_{2} .$$",
+        "Image Links": [],
+        "Answer": "$$E_{0 r} = 7.43 \\times 10^{-3} \\text{eV}$$ ; $$l = 0 ; E_{r} = 0 \\text{eV}$$ (no rotation); $$l = 1 ; E_{r} = 1.49 \\times 10^{-2} \\text{eV}$$ ; $$l = 2 ; E_{r} = 4.46 \\times 10^{-2} \\text{eV}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A carbon atom can hybridize in the $$s p^{2}$$ configuration. (a) What is the angle between the hybrid orbitals?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "List five main characteristics of ionic crystals that result from their high dissociation energy.",
+        "Image Links": [],
+        "Answer": "A. They are fairly hard and stable. B. They vaporize at relatively high temperatures (1000 to 2000 K). C. They are transparent to visible radiation, because photons in the visible portion of the spectrum are not energetic enough to excite an electron from its ground state to an excited state. D. They are poor electrical conductors because they contain effectively no free electrons. E. They are usually soluble in water, because the water molecule has a large dipole moment whose electric field is strong enough to break the electrostatic bonds between the ions.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Why is bonding in $$\\text{H}_{2} ^{+}$$ favorable? Express your answer in terms of the symmetry of the electron wave function.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Astronomers claim to find evidence of $$\\text{He}_{2}$$ from light spectra of a distant star. Do you believe them?",
+        "Image Links": [],
+        "Answer": "No, He atoms do not contain valence electrons that can be shared in the formation of a chemical bond.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Show that the moment of inertia of a diatomic molecule is $$I = \\mu r_{0}^{2}$$ , where $$\\mu$$ is the reduced mass, and $$r_{0}$$ is the distance between the masses.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Show that the average energy of an electron in a one-dimensional metal is related to the Fermi energy by $$\\overset{-}{E} = \\frac{1}{2} E_{\\text{F}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\sum_{1}^{N \\text{/} 2} n^{2} = \\frac{1}{3} ( \\frac{N}{2} )^{3} ,$$ so $$\\overset{-}{E} = \\frac{1}{3} E_{F}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Measurements of a superconductor\u2019s critical magnetic field (in T ) at various temperatures (in K) are given below. Use a line of best fit to determine $$B_{\\text{c}} ( 0 ) .$$ Assume $$T_{\\text{c}} = 9.3 \\text{K} \\text{.}$$ \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nT (in K) & $$B_{\\text{c}} ( T )$$ \\\\ \\hline\n3.0 & 0.18 \\\\ \\hline\n4.0 & 0.16 \\\\ \\hline\n5.0 & 0.14 \\\\ \\hline\n6.0 & 0.12 \\\\ \\hline\n7.0 & 0.09 \\\\ \\hline\n8.0 & 0.05 \\\\ \\hline\n9.0 & 0.01 \\\\ \\hline\n\\end{tabular}\n\\end{table} Table 9.6",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Estimate the fraction of Si atoms that must be replaced by As atoms in order to form an impurity band.",
+        "Image Links": [],
+        "Answer": "An impurity band will be formed when the density of the donor atoms is high enough that the orbits of the extra electrons overlap. We saw earlier that the orbital radius is about 50 Angstroms, so the maximum distance between the impurities for a band to form is 100 Angstroms. Thus if we use 1 Angstrom as the interatomic distance between the Si atoms, we find that 1 out of 100 atoms along a linear chain must be a donor atom. And in a three-dimensional crystal, roughly 1 out of $$10^{6}$$ atoms must be replaced by a donor atom in order for an impurity band to form.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Transition in the rotation spectrum are observed at ordinary room temperature ( $$T = 300 \\text{K}$$ ). According to your lab partner, a peak in the spectrum corresponds to a transition from the $$l = 4$$ to the $$l = 1$$ state. Is this possible? If so, determine the momentum of inertia of the molecule.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Determine the Fermi energies for (a) Mg, (b) Na, and (c) Zn.",
+        "Image Links": [],
+        "Answer": "a. $$E_{F} = 7.11 \\text{eV}$$ ; b. $$E_{F} = 3.24 \\text{eV}$$ ; c. $$E_{F} = 9.46 \\text{eV}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Find the average energy of an electron in a Zn wire.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "What value of the repulsion constant, n , gives the measured dissociation energy of 158 kcal/mol for CsCl?",
+        "Image Links": [],
+        "Answer": "$$9.15 \\approx 9$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A physical model of a diamond suggests a BCC packing structure. Why is this not possible?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "Sketch a graph of $$f ( x ) = 3 \\tan{} ( \\frac{\\pi}{6} x ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/932dac4794332f5671db2989a9bec2e8bc3731d7"
+        ]
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "How would the graph in Example 2 look different if we made $$A = 2$$ instead of $$-2 ?$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ef5bc515cfef62352689835004d7e15d4a90aa02"
+        ],
+        "Answer": "It would be reflected across the line $$y = - 1 ,$$ becoming an increasing function.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "Find a formula for the function in Figure 5 . Figure 5",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/16f806dc7f400636271ef2c7a5351d2ab4f00e45"
+        ],
+        "Answer": "$$g ( x ) = 4 \\tan{} ( 2 x )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "Graph one period of $$f ( x ) = - 2.5 \\sec{} ( 0.4 x ) .$$",
+        "Image Links": [],
+        "Answer": "This is a vertical reflection of the preceding graph because $$A$$ is negative.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6f3fb5222bb6ceba05bb3b830726d43ed1d791ee"
+        ]
+    },
+    {
+        "Topic": "Try It #5",
+        "Problem Statement": "",
+        "Question": "Graph one period of $$f ( x ) = - 6 \\sec{} ( 4 x + 2 ) - 8.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1fcaddb97cbd68d99e94e4857bc5be012242b6a7"
+        ]
+    },
+    {
+        "Topic": "Try It #6",
+        "Problem Statement": "",
+        "Question": "Graph one period of $$f ( x ) = 0.5 \\csc{} ( 2 x ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f301f82873df01055d6ac155cdd79880d26c66aa"
+        ]
+    },
+    {
+        "Topic": "Try It #7",
+        "Problem Statement": "",
+        "Question": "Given the graph of $$f ( x ) = 2 \\cos{} ( \\frac{\\pi}{2} x ) + 1$$ shown in Figure 12 , sketch the graph of $$g ( x ) = 2 \\sec{} ( \\frac{\\pi}{2} x ) + 1$$ on the same axes. Figure 12",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/29f60bd3935e7391994c7a2abf5c2df844de532a"
+        ],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1e40f8b1eec1887261ecebfa1ca394723f32179d"
+        ]
+    }
+]

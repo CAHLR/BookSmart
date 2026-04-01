@@ -1,0 +1,144 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "You fly $$32.0 \\text{km}$$ in a straight line in still air in the direction $$35.0 \\text{\u00b0}$$ south of west. (a) Find the distances you would have to fly due south and then due west to arrive at the same point. (b) Find the distances you would have to fly first in a direction $$45.0 \\text{\u00b0}$$ south of west and then in a direction $$45.0 \\text{\u00b0}$$ west of north. Note these are the components of the displacement along a different set of axes-namely, the one rotated by $$45 \\text{\u00b0}$$ with respect to the axes in (a).",
+        "Image Links": [],
+        "Answer": "a. 18.4 km and 26.2 km, b. 31.5 km and 5.56 km",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Rectangular coordinates of a point are given by (2, y ) and its polar coordinates are given by $$( r , \\pi \\text{/} 6 )$$ . Find y and r .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "If the polar coordinates of a point are $$( r , \\phi )$$ and its rectangular coordinates are $$( x , y )$$ , determine the polar coordinates of the following points: (a) (- x , y ), (b) (-2 x , -2 y ), and (c) (3 x , -3 y ).",
+        "Image Links": [],
+        "Answer": "a. $$( r , \\pi - \\phi )$$ , b. $$( 2 r \\text{,} \\phi + 2 \\pi )$$ , c. $$( 3 r , \\text{unicode[:-]} \\phi )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Vectors $$\\mathbf{\\vec{A}}$$ and $$\\mathbf{\\vec{B}}$$ have identical magnitudes of 5.0 units. Find the angle between them if $$\\mathbf{\\vec{A}} + \\mathbf{\\vec{B}} = 5 \\sqrt{2} \\mathbf{\\hat{j}}$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Starting at the island of Moi in an unknown archipelago, a fishing boat makes a round trip with two stops at the islands of Noi and Poi. It sails from Moi for 4.76 nautical miles (nmi) in a direction $$37 \\text{\u00b0}$$ north of east to Noi. From Noi, it sails $$69 \\text{\u00b0}$$ west of north to Poi. On its return leg from Poi, it sails $$28 \\text{\u00b0}$$ east of south. What distance does the boat sail between Noi and Poi? What distance does it sail between Moi and Poi? Express your answer both in nautical miles and in kilometers. Note: 1 nmi = 1852 m.",
+        "Image Links": [],
+        "Answer": "$$d_{\\text{PM}} = 6.2 \\text{nmi} = 11.4 \\text{km} , d_{\\text{NP}} = 7.2 \\text{nmi} = 13.3 \\text{km}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "An air traffic controller notices two signals from two planes on the radar monitor. One plane is at altitude 800 m and in a 19.2-km horizontal distance to the tower in a direction $$25 \\text{\u00b0}$$ south of west. The second plane is at altitude 1100 m and its horizontal distance is 17.6 km and $$20 \\text{\u00b0}$$ south of west. What is the distance between these planes?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Show that when $$\\mathbf{\\vec{A}} + \\mathbf{\\vec{B}} = \\mathbf{\\vec{C}}$$ , then $$C^{2} = A^{2} + B^{2} + 2 A B \\text{cos} \\phi$$ , where $$\\phi$$ is the angle between vectors $$\\mathbf{\\vec{A}}$$ and $$\\mathbf{\\vec{B}}$$ .",
+        "Image Links": [],
+        "Answer": "proof",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Four force vectors each have the same magnitude f . What is the largest magnitude the resultant force vector may have when these forces are added? What is the smallest magnitude of the resultant? Make a graph of both situations.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A skater glides along a circular path of radius 5.00 m in clockwise direction. When he coasts around one-half of the circle, starting from the west point, find (a) the magnitude of his displacement vector and (b) how far he actually skated. (c) What is the magnitude of his displacement vector when he skates all the way around the circle and comes back to the west point?",
+        "Image Links": [],
+        "Answer": "a. 10.00 m, b. $$5 \\pi \\text{m}$$ , c. 0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A stubborn dog is being walked on a leash by its owner. At one point, the dog encounters an interesting scent at some spot on the ground and wants to explore it in detail, but the owner gets impatient and pulls on the leash with force $$\\mathbf{\\vec{F}} = ( 98.0 \\mathbf{\\hat{i}} + 132.0 \\mathbf{\\hat{j}} + 32.0 \\mathbf{\\hat{k}} ) \\text{N}$$ along the leash. (a) What is the magnitude of the pulling force? (b) What angle does the leash make with the vertical?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "If the velocity vector of a polar bear is $$\\mathbf{\\vec{u}} = ( -18.0 \\mathbf{\\hat{i}} - 13.0 \\mathbf{\\hat{j}} ) \\text{km} \\text{/} \\text{h}$$ , how fast and in what geographic direction is it heading? Here, $$\\mathbf{\\hat{i}}$$ and $$\\mathbf{\\hat{j}}$$ are directions to geographic east and north, respectively.",
+        "Image Links": [],
+        "Answer": "22.2 km/h, $$35.8 \\text{\u00b0}$$ south of west",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Find the scalar components of three-dimensional vectors $$\\mathbf{\\vec{G}}$$ and $$\\mathbf{\\vec{H}}$$ in the following figure and write the vectors in vector component form in terms of the unit vectors of the axes.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/de424fb7dd2cf7bcc42ffd49ddec08efa7ae9e2d"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A diver explores a shallow reef off the coast of Belize. She initially swims 90.0 m north, makes a turn to the east and continues for 200.0 m, then follows a big grouper for 80.0 m in the direction $$30 \\text{\u00b0}$$ north of east. In the meantime, a local current displaces her by 150.0 m south. Assuming the current is no longer present, in what direction and how far should she now swim to come back to the point where she started?",
+        "Image Links": [],
+        "Answer": "270 m, $$4.2 \\text{\u00b0}$$ north of west",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A force vector $$\\mathbf{\\vec{A}}$$ has x - and y -components, respectively, of -8.80 units of force and 15.00 units of force. The x - and y -components of force vector $$\\mathbf{\\vec{B}}$$ are, respectively, 13.20 units of force and -6.60 units of force. Find the components of force vector $$\\mathbf{\\vec{C}}$$ that satisfies the vector equation $$\\mathbf{\\vec{A}} - \\mathbf{\\vec{B}} + 3 \\mathbf{\\vec{C}} = 0$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Vectors $$\\mathbf{\\vec{A}}$$ and $$\\mathbf{\\vec{B}}$$ are two orthogonal vectors in the xy -plane and they have identical magnitudes. If $$\\mathbf{\\vec{A}} = 3.0 \\mathbf{\\hat{i}} + 4.0 \\mathbf{\\hat{j}}$$ , find $$\\mathbf{\\vec{B}}$$ .",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\vec{B}} = -4.0 \\mathbf{\\hat{i}} + 3.0 \\mathbf{\\hat{j}}$$ or $$\\mathbf{\\vec{B}} = 4.0 \\mathbf{\\hat{i}} - 3.0 \\mathbf{\\hat{j}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "For the three-dimensional vectors in the following figure, find (a) $$\\mathbf{\\vec{G}} \\times \\mathbf{\\vec{H}}$$ , (b) $$| \\mathbf{\\vec{G}} \\times \\mathbf{\\vec{H}} |$$ , and (c) $$\\mathbf{\\vec{G}} \\cdotp \\mathbf{\\vec{H}}$$ .",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/de424fb7dd2cf7bcc42ffd49ddec08efa7ae9e2d"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Show that $$( \\mathbf{\\vec{B}} \\times \\mathbf{\\vec{C}} ) \\cdotp \\mathbf{\\vec{A}}$$ is the volume of the parallelepiped, with edges formed by the three vectors in the following figure.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/fd0f0b14b02900342f50613c80dc340b675738fa"
+        ],
+        "Answer": "proof",
+        "Answer Image Links": []
+    }
+]

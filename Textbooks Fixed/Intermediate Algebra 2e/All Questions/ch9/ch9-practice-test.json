@@ -1,0 +1,166 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Use the Square Root Property to solve the quadratic equation $$3 ( w + 5 )^{2} = 27 .$$",
+        "Image Links": [],
+        "Answer": "$$w = -2 , w = -8$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Use Completing the Square to solve the quadratic equation $$a^{2} - 8 a + 7 = 23 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Use the Quadratic Formula to solve the quadratic equation $$2 m^{2} - 5 m + 3 = 0 .$$",
+        "Image Links": [],
+        "Answer": "$$m = 1 , m = \\frac{3}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the following quadratic equations. Use any method.",
+        "Question": "$$2 x ( 3 x - 2 ) - 1 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the following quadratic equations. Use any method.",
+        "Question": "$$\\frac{9}{4} y^{2} - 3 y + 1 = 0$$",
+        "Image Links": [],
+        "Answer": "$$y = \\frac{2}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the discriminant to determine the number and type of solutions of each quadratic equation.",
+        "Question": "$$6 p^{2} - 13 p + 7 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the discriminant to determine the number and type of solutions of each quadratic equation.",
+        "Question": "$$3 q^{2} - 10 q + 12 = 0$$",
+        "Image Links": [],
+        "Answer": "2 complex",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve each equation.",
+        "Question": "$$4 x^{4} - 17 x^{2} + 4 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve each equation.",
+        "Question": "$$y^{\\frac{2}{3}} + 2 y^{\\frac{1}{3}} - 3 = 0$$",
+        "Image Links": [],
+        "Answer": "$$y = 1 , y = -27$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each parabola, find \u24d0 which direction it opens, \u24d1 the equation of the axis of symmetry, \u24d2 the vertex, \u24d3 the x- and y -intercepts, and e) the maximum or minimum value.",
+        "Question": "$$y = 3 x^{2} + 6 x + 8$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each parabola, find \u24d0 which direction it opens, \u24d1 the equation of the axis of symmetry, \u24d2 the vertex, \u24d3 the x- and y -intercepts, and e) the maximum or minimum value.",
+        "Question": "$$y = - x^{2} - 8 x - 16$$",
+        "Image Links": [],
+        "Answer": "\u24d0 down \u24d1 $$x = -4$$ \u24d2 $$( -4 , 0 )$$ \u24d3 $$y \\text{:} ( 0 , -16 ) \\text{;} x \\text{:} ( -4 , 0 )$$ \u24d4 maximum value of $$0$$ when $$x = -4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Graph each quadratic function using intercepts, the vertex, and the equation of the axis of symmetry.",
+        "Question": "$$f ( x ) = x^{2} + 6 x + 9$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Graph each quadratic function using intercepts, the vertex, and the equation of the axis of symmetry.",
+        "Question": "$$f ( x ) = -2 x^{2} + 8 x + 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0105d1a5558d0b9e95d7d9268689295acec5c0e6"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, graph each function using transformations.",
+        "Question": "$$f ( x ) = ( x + 3 )^{2} + 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, graph each function using transformations.",
+        "Question": "$$f ( x ) = x^{2} - 4 x - 1$$",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = 2 ( x - 1 )^{2} - 6$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/95e7a9acd9d47eaa8637d5748c242fb34ed9ca52"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, solve each inequality algebraically and write any solution in interval notation.",
+        "Question": "$$x^{2} - 6 x - 8 \\le 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, solve each inequality algebraically and write any solution in interval notation.",
+        "Question": "$$2 x^{2} + x - 10 > 0$$",
+        "Image Links": [],
+        "Answer": "$$( \\text{unicode[:-]} \\infty , - \\frac{5}{2} ) \\cup ( 2 , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Model the situation with a quadratic equation and solve by any method.",
+        "Question": "Find two consecutive even numbers whose product is 360.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Model the situation with a quadratic equation and solve by any method.",
+        "Question": "The length of a diagonal of a rectangle is three more than the width. The length of the rectangle is three times the width. Find the length of the diagonal. (Round to the nearest tenth.)",
+        "Image Links": [],
+        "Answer": "The diagonal is 4.4 units long.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Model the situation with a quadratic equation and solve by any method.",
+        "Question": "A water balloon is launched upward at the rate of 86 ft/sec. Using the formula h = -16 t 2 + 86 t find how long it will take the balloon to reach the maximum height, and then find the maximum height. Round to the nearest tenth.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

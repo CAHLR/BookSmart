@@ -1,0 +1,118 @@
+[
+    {
+        "Topic": "Try It 11.53",
+        "Problem Statement": "",
+        "Question": "Graph $$\\frac{x^{2}}{16} - \\frac{y^{2}}{4} = 1 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a10c586e76446bc877b6f9c5d2697381373e4cad"
+        ]
+    },
+    {
+        "Topic": "Try It 11.54",
+        "Problem Statement": "",
+        "Question": "Graph $$\\frac{x^{2}}{9} - \\frac{y^{2}}{16} = 1 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b37c521e4672ae75a887c19ed497a16b158d68c4"
+        ]
+    },
+    {
+        "Topic": "Try It 11.55",
+        "Problem Statement": "",
+        "Question": "Graph $$4 y^{2} - 25 x^{2} = 100 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/29aa54b16d1811085b71369dfff59be4462cd89f"
+        ]
+    },
+    {
+        "Topic": "Try It 11.56",
+        "Problem Statement": "",
+        "Question": "Graph $$25 y^{2} - 9 x^{2} = 225 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/75b35c3a162169297af39c2a046291a89b124ad1"
+        ]
+    },
+    {
+        "Topic": "Try It 11.57",
+        "Problem Statement": "",
+        "Question": "Graph $$\\frac{( x - 3 )^{2}}{25} - \\frac{( y - 1 )^{2}}{9} = 1 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c9e990083c4d3f3f5ef0e6e63c69ded10a12b4b8"
+        ]
+    },
+    {
+        "Topic": "Try It 11.58",
+        "Problem Statement": "",
+        "Question": "Graph $$\\frac{( x - 2 )^{2}}{4} - \\frac{( y - 2 )^{2}}{9} = 1 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8d874887c230e1c31921b3100d75372ba9853598"
+        ]
+    },
+    {
+        "Topic": "Try It 11.59",
+        "Problem Statement": "",
+        "Question": "Graph $$\\frac{( y + 3 )^{2}}{16} - \\frac{( x + 2 )^{2}}{9} = 1 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a29888d7f89753dc8150e51af837a02dccf2e1b9"
+        ]
+    },
+    {
+        "Topic": "Try It 11.60",
+        "Problem Statement": "",
+        "Question": "Graph $$\\frac{( y + 2 )^{2}}{9} - \\frac{( x + 2 )^{2}}{9} = 1 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/86bf5a3248a4809192ac43c498123e2004da2335"
+        ]
+    },
+    {
+        "Topic": "Try It 11.61",
+        "Problem Statement": "",
+        "Question": "\u24d0 Write the equation in standard form and \u24d1 graph $$9 x^{2} - 16 y^{2} + 18 x + 64 y - 199 = 0 .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{( x + 1 )^{2}}{16} - \\frac{( y - 2 )^{2}}{9} = 1$$ \u24d1",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b7412e76289ac469f0a2c90db274cf90f3c92fe2"
+        ]
+    },
+    {
+        "Topic": "Try It 11.62",
+        "Problem Statement": "",
+        "Question": "\u24d0 Write the equation in standard form and \u24d1 graph $$16 x^{2} - 25 y^{2} + 96 x - 50 y - 281 = 0 .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{( x + 3 )^{2}}{25} - \\frac{( y + 1 )^{2}}{16} = 1$$ \u24d1",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8bfe8c326a5aa5fa610413d057b91690e6380d0c"
+        ]
+    },
+    {
+        "Topic": "Try It 11.63",
+        "Problem Statement": "",
+        "Question": "Identify the graph of each equation as a circle, parabola, ellipse, or hyperbola. \u24d0 $$x^{2} + y^{2} - 8 x - 6 y = 0$$ \u24d1 $$4 x^{2} + 25 y^{2} = 100$$ \u24d2 $$y = 6 x^{2} + 2 x - 1$$ \u24d3 $$16 y^{2} - 9 x^{2} = 144$$",
+        "Image Links": [],
+        "Answer": "\u24d0 circle \u24d1 ellipse \u24d2 parabola \u24d3 hyperbola",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 11.64",
+        "Problem Statement": "",
+        "Question": "Identify the graph of each equation as a circle, parabola, ellipse, or hyperbola. \u24d0 $$16 x^{2} + 9 y^{2} = 144$$ \u24d1 $$y = 2 x^{2} + 4 x + 6$$ \u24d2 $$x^{2} + y^{2} + 2 x + 6 y + 9 = 0$$ \u24d3 $$4 x^{2} - 16 y^{2} = 64$$",
+        "Image Links": [],
+        "Answer": "\u24d0 ellipse \u24d1 parabola \u24d2 circle \u24d3 hyperbola",
+        "Answer Image Links": []
+    }
+]

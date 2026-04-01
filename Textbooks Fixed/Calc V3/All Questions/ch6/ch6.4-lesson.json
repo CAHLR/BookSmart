@@ -1,0 +1,496 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the line integrals by applying Green\u2019s theorem.",
+        "Question": "$$\\int_{C}^{} 2 x y d x + ( x + y ) d y ,$$ where C is the path from (0, 0) to (1, 1) along the graph of $$y = x^{3}$$ and from (1, 1) to (0, 0) along the graph of $$y = x$$ oriented in the counterclockwise direction",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the line integrals by applying Green\u2019s theorem.",
+        "Question": "$$\\int_{C}^{} 2 x y d x + ( x + y ) d y ,$$ where C is the boundary of the region lying between the graphs of $$y = 0$$ and $$y = 4 - x^{2}$$ oriented in the counterclockwise direction",
+        "Image Links": [],
+        "Answer": "$$\\int_{C}^{} 2 x y d x + ( x + y ) d y = \\frac{32}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the line integrals by applying Green\u2019s theorem.",
+        "Question": "$$\\int_{C}^{} 2 \\text{arctan} ( \\frac{y}{x} ) d x + \\text{ln} ( x^{2} + y^{2} ) d y ,$$ where C is defined by $$x = 4 + 2 \\text{cos} \\theta , y = 4 \\text{sin} \\theta$$ oriented in the counterclockwise direction",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the line integrals by applying Green\u2019s theorem.",
+        "Question": "$$\\int_{C}^{} \\text{sin} x \\text{cos} y d x + ( x y + \\text{cos} x \\text{sin} y ) d y \\text{,}$$ where C is the boundary of the region lying between the graphs of $$y = x$$ and $$y = \\sqrt{x}$$ oriented in the counterclockwise direction",
+        "Image Links": [],
+        "Answer": "$$\\int_{C}^{} \\text{sin} x \\text{cos} y d x + ( x y + \\text{cos} x \\text{sin} y ) d y = \\frac{1}{12}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the line integrals by applying Green\u2019s theorem.",
+        "Question": "$$\\int_{C}^{} x y d x + ( x + y ) d y ,$$ where C is the boundary of the region lying between the graphs of $$x^{2} + y^{2} = 1$$ and $$x^{2} + y^{2} = 9$$ oriented in the counterclockwise direction",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the line integrals by applying Green\u2019s theorem.",
+        "Question": "$$\\int_{C} ( \\text{unicode[:-]} y d x + x d y ) ,$$ where C consists of line segment C 1 from $$( -1 , 0 )$$ to (1, 0), followed by the semicircular arc C 2 from (1, 0) back to (-1, 0)",
+        "Image Links": [],
+        "Answer": "$$\\int_{C} ( \\text{unicode[:-]} y d x + x d y ) = \\pi$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem.",
+        "Question": "Let C be the curve consisting of line segments from (0, 0) to (1, 1) to (0, 1) and back to (0, 0). Find the value of $$\\int_{C} x y d x + \\sqrt{y^{2} + 1} d y .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem.",
+        "Question": "Evaluate line integral $$\\int_{C} x e^{-2 x} d x + ( x^{4} + 2 x^{2} y^{2} ) d y ,$$ where C is the boundary of the region between circles $$x^{2} + y^{2} = 1$$ and $$x^{2} + y^{2} = 4 ,$$ and is a positively oriented curve.",
+        "Image Links": [],
+        "Answer": "$$\\int_{C} x e^{-2 x} d x + ( x^{4} + 2 x^{2} y^{2} ) d y = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem.",
+        "Question": "Find the counterclockwise circulation of field $$\\mathbf{\\text{F}} ( x , y ) = x y \\mathbf{\\text{i}} + y^{2} \\mathbf{\\text{j}}$$ around and over the boundary of the region enclosed by curves $$y = x^{2}$$ and $$y = x$$ in the first quadrant and oriented in the counterclockwise direction.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7ca2b9f9b8cf84f3e33c9909811261707d02abc0"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem.",
+        "Question": "Evaluate $$\\int_{C} y^{3} d x - x^{3} y^{2} d y ,$$ where C is the positively oriented circle of radius 2 centered at the origin.",
+        "Image Links": [],
+        "Answer": "$$\\int_{C} y^{3} d x - x^{3} y d y = -20 \\pi$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem.",
+        "Question": "Evaluate $$\\int_{C} y^{3} d x - x^{3} d y ,$$ where C includes the two circles of radius 2 and radius 1 centered at the origin, both with positive orientation.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/74563e0c97cea9cb3e201745d53880c84347e323"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem.",
+        "Question": "Calculate $$\\int_{C} \\text{unicode[:-]} x^{2} y d x + x y^{2} d y ,$$ where C is a circle of radius 2 centered at the origin and oriented in the counterclockwise direction.",
+        "Image Links": [],
+        "Answer": "$$\\int_{C} \\text{unicode[:-]} x^{2} y d x + x y^{2} d y = 8 \\pi$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem.",
+        "Question": "Calculate integral $$\\int_{C} 2 [ y + x \\text{sin} ( y ) ] d x + [ x^{2} \\text{cos} ( y ) - 3 y^{2} ] d y$$ along triangle C with vertices (0, 0), (1, 0) and (1, 1), oriented counterclockwise, using Green\u2019s theorem.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem.",
+        "Question": "Evaluate integral $$\\int_{C} ( x^{2} + y^{2} ) d x + 2 x y d y ,$$ where C is the curve that follows parabola $$y = x^{2} \\text{from} ( 0 , 0 ) \\text{ to } ( 2 , 4 ) ,$$ then the line from (2, 4) to (2, 0), and finally the line from (2, 0) to (0, 0).",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c03af4d6da598149e3d4e7887f3af519f7ad052e"
+        ],
+        "Answer": "$$\\int_{C} ( x^{2} + y^{2} ) d x + 2 x y d y = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem.",
+        "Question": "Evaluate line integral $$\\int_{C} ( y - \\text{sin} ( y ) \\text{cos} ( y ) ) d x + 2 x \\text{sin}^{2} ( y ) d y ,$$ where C is oriented in a counterclockwise path around the region bounded by $$x = -1 , x = 2 , y = 4 - x^{2} ,$$ and $$y = x - 2 .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/71b2a1e1f1143a2b1be3c31a8a231a708f32cee6"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to find the area.",
+        "Question": "Find the area between ellipse $$\\frac{x^{2}}{9} + \\frac{y^{2}}{4} = 1$$ and circle $$x^{2} + y^{2} = 25 .$$",
+        "Image Links": [],
+        "Answer": "$$A = 19 \\pi$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to find the area.",
+        "Question": "Find the area of the region enclosed by parametric equation $$p ( \\theta ) = ( \\text{cos} ( \\theta ) - \\text{cos}^{2} ( \\theta ) ) \\mathbf{\\text{i}} + ( \\text{sin} ( \\theta ) - \\text{cos} ( \\theta ) \\text{sin} ( \\theta ) ) \\mathbf{\\text{j}} \\text{for} 0 \\le \\theta \\le 2 \\pi .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7e0a26cb11c8bb75587883f5373fbb28a29c7a4d"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to find the area.",
+        "Question": "Find the area of the region bounded by hypocycloid $$\\mathbf{\\text{r}} ( t ) = \\text{cos}^{3} ( t ) \\mathbf{\\text{i}} + \\text{sin}^{3} ( t ) \\mathbf{\\text{j}} .$$ The curve is parameterized by $$t \\in [ 0 , 2 \\pi ] .$$",
+        "Image Links": [],
+        "Answer": "$$A = \\frac{3}{8 \\pi}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to find the area.",
+        "Question": "Find the area of a pentagon with vertices $$( 0 , 4 ) , ( 4 , 1 ) , ( 3 , 0 ) , ( -1 , -1 ) ,$$ and $$( -2 , 2 ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to find the area.",
+        "Question": "Use Green\u2019s theorem to evaluate $$\\int_{C}^{+} ( y^{2} + x^{3} ) d x + x^{4} d y ,$$ where $$C^{+}$$ is the perimeter of square $$[ 0 , 1 ] \\times [ 0 , 1 ]$$ oriented counterclockwise.",
+        "Image Links": [],
+        "Answer": "$$\\int_{C +} ( y^{2} + x^{3} ) d x + x^{4} d y = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to find the area.",
+        "Question": "Use Green\u2019s theorem to prove the area of a disk with radius $$a$$ is $$A = \\pi a^{2} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to find the area.",
+        "Question": "Use Green\u2019s theorem to find the area of one loop of a four-leaf rose $$r = 3 \\text{sin} 2 \\theta .$$ ( Hint : $$x d y - y d x = r^{2} d \\theta ) .$$",
+        "Image Links": [],
+        "Answer": "$$A = \\frac{9 \\pi}{8}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to find the area.",
+        "Question": "Use Green\u2019s theorem to find the area under one arch of the cycloid given by parametric plane $$x = t - \\text{sin} t , y = 1 - \\text{cos} t , t \\geq 0 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to find the area.",
+        "Question": "Use Green\u2019s theorem to find the area of the region enclosed by curve $$\\mathbf{\\text{r}} ( t ) = t^{2} \\mathbf{\\text{i}} + ( \\frac{t^{3}}{3} - t ) \\mathbf{\\text{j}} \\text{,} - \\sqrt{3} \\le t \\le \\sqrt{3} .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/eb1195ca451a8dc82a31b03f622d9fa6749cf732"
+        ],
+        "Answer": "$$A = \\frac{8 \\sqrt{3}}{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to find the area.",
+        "Question": "[T] Veryfiy Green\u2019s theorem by using a computer algebra system to evaluate the integral $$\\int_{C} x e^{y} d x + e^{x} d y ,$$ where C is the circle given by $$x^{2} + y^{2} = 4$$ and is oriented in the counterclockwise direction.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to find the area.",
+        "Question": "Evaluate $$\\int_{C} ( x^{2} y - 2 x y + y^{2} ) d s ,$$ where C is the boundary of the unit square $$0 \\le x \\le 1 \\text{,} 0 \\le y \\le 1 \\text{,}$$ traversed counterclockwise. Use $$d s \\  = \\  d x \\  + \\  d y$$ for this exercise.",
+        "Image Links": [],
+        "Answer": "$$\\int_{C} ( x^{2} y - 2 x y + y^{2} ) d s = - \\frac{5}{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to find the area.",
+        "Question": "Evaluate $$\\int_{C}^{} \\frac{\\text{unicode[:-]} ( y + 2 ) d x + ( x - 1 ) d y}{( x - 1 )^{2} + ( y + 2 )^{2}} \\text{,}$$ where C is any simple closed curve with an interior that does not contain point $$( 1 , -2 )$$ traversed counterclockwise.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to find the area.",
+        "Question": "Evaluate $$\\int_{C}^{} \\frac{x d x + y d y}{x^{2} + y^{2}} ,$$ where C is any piecewise, smooth simple closed curve enclosing the origin, traversed counterclockwise.",
+        "Image Links": [],
+        "Answer": "$$\\int_{C}^{} \\frac{x d x + y d y}{x^{2} + y^{2}} = 2 \\pi$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "$$\\mathbf{\\text{F}} ( x , y ) = x y \\mathbf{\\text{i}} + ( x + y ) \\mathbf{\\text{j}} ,$$ $$C : x^{2} + y^{2} = 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "$$\\mathbf{\\text{F}} ( x , y ) = ( x^{3 \\text{/} 2} - 3 y ) \\mathbf{\\text{i}} + ( 6 x + 5 \\sqrt{y} ) \\mathbf{\\text{j}} ,$$ C : boundary of a triangle with vertices (0, 0), (5, 0), and (0, 5)",
+        "Image Links": [],
+        "Answer": "$$W = \\frac{225}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "Evaluate $$\\int_{C} ( 2 x^{3} - y^{3} ) d x + ( x^{3} + y^{3} ) d y ,$$ where C is a unit circle oriented in the counterclockwise direction.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "A particle starts at point $$( -2 , 0 ) ,$$ moves along the x -axis to (2, 0), and then travels along semicircle $$y = \\sqrt{4 - x^{2}}$$ to the starting point. Use Green\u2019s theorem to find the work done on this particle by force field $$\\mathbf{\\text{F}} ( x , y ) = x \\mathbf{\\text{i}} + ( x^{3} + 3 x y^{2} ) \\mathbf{\\text{j}} .$$",
+        "Image Links": [],
+        "Answer": "$$W = 12 \\pi$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "David and Sandra are skating on a frictionless pond in the wind. David skates on the inside, going along a circle of radius 2 in a counterclockwise direction. Sandra skates once around a circle of radius 3, also in the counterclockwise direction. Suppose the force of the wind at point $$( x , y )$$ $$( x , y )$$ $$( x , y )$$ is $$\\mathbf{\\text{F}} ( x , y ) = ( x^{2} y + 10 y ) \\mathbf{\\text{i}} + ( x^{3} + 2 x y^{2} ) \\mathbf{\\text{j}} .$$ Use Green\u2019s theorem to determine who does more work.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "Use Green\u2019s theorem to find the work done by force field $$\\mathbf{\\text{F}} ( x , y ) = ( 3 y - 4 x ) \\mathbf{\\text{i}} + ( 4 x - y ) \\mathbf{\\text{j}}$$ when an object moves once counterclockwise around ellipse $$4 x^{2} + y^{2} = 4 .$$",
+        "Image Links": [],
+        "Answer": "$$W = 2 \\pi$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "Use Green\u2019s theorem to evaluate line integral $$\\int_{C} e^{2 x} \\text{sin} 2 y d x + e^{2 x} \\text{cos} 2 y d y ,$$ where C is ellipse $$9 ( x - 1 )^{2} + 4 ( y - 3 )^{2} = 36$$ oriented counterclockwise.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "Evaluate line integral $$\\int_{C} y^{2} d x + x^{2} d y ,$$ where C is the boundary of a triangle with vertices $$( 0 , 0 ) , ( 1 , 1 ) , \\text{and} ( 1 , 0 ) ,$$ with the counterclockwise orientation.",
+        "Image Links": [],
+        "Answer": "$$\\int_{C} y^{2} d x + x^{2} d y = \\frac{1}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "Use Green\u2019s theorem to evaluate line integral $$\\int_{C} \\mathbf{\\text{h}} \\cdotp d \\mathbf{\\text{r}}$$ if $$\\mathbf{\\text{h}} ( x , y ) = e^{y} \\mathbf{\\text{i}} - \\text{sin} \\pi x \\mathbf{\\text{j}} ,$$ where C is a triangle with vertices (1, 0), (0, 1), and (-1, 0) traversed counterclockwise.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "Use Green\u2019s theorem to evaluate line integral $$\\int_{C}^{} \\sqrt{1 + x^{3}} d x + 2 x y d y$$ where C is a triangle with vertices (0, 0), (1, 0), and (1, 3) oriented clockwise.",
+        "Image Links": [],
+        "Answer": "$$\\int_{C}^{} \\sqrt{1 + x^{3}} d x + 2 x y d y = -3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "Use Green\u2019s theorem to evaluate line integral $$\\int_{C}^{} x^{2} y d x - x y^{2} d y$$ where C is a circle $$x^{2} + y^{2} = 4$$ oriented counterclockwise.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "Use Green\u2019s theorem to evaluate line integral $$\\int_{C}^{} ( 3 y - e^{\\text{sin} x} ) d x + ( 7 x + \\sqrt{y^{4} + 1} ) d y$$ where C is circle $$x^{2} + y^{2} = 9$$ oriented in the counterclockwise direction.",
+        "Image Links": [],
+        "Answer": "$$\\int_{C}^{} ( 3 y - e^{\\text{sin} x} ) d x + ( 7 x + \\sqrt{y^{4} + 1} ) d y = 36 \\pi$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "Use Green\u2019s theorem to evaluate line integral $$\\int_{C}^{} ( 3 x - 5 y ) d x + ( x - 6 y ) d y \\text{,}$$ where C is ellipse $$\\frac{x^{2}}{4} + y^{2} = 1$$ and is oriented in the counterclockwise direction.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/bc441ea7903540310419c4a1aed98d3d87e700cf"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "Let C be a triangular closed curve from (0, 0) to (1, 0) to (1, 1) and finally back to (0, 0). Let $$\\mathbf{\\text{F}} ( x , y ) = 4 y \\mathbf{\\text{i}} + 6 x^{2} \\mathbf{\\text{j}} .$$ Use Green\u2019s theorem to evaluate $$\\int_{C} \\mathbf{\\text{F}} \\cdotp d \\mathbf{\\text{s}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\int_{C} \\mathbf{\\text{F}} \\cdotp d \\mathbf{\\text{r}} = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "Use Green\u2019s theorem to evaluate line integral $$\\int_{C} y d x - x d y \\text{,}$$ where C is circle $$x^{2} + y^{2} = a^{2}$$ oriented in the clockwise direction.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "Use Green\u2019s theorem to evaluate line integral $$\\int_{C} ( y + x ) d x + ( x + \\text{sin} y ) d y \\text{,}$$ where C is any smooth simple closed curve joining the origin to itself oriented in the counterclockwise direction.",
+        "Image Links": [],
+        "Answer": "$$\\int_{C} ( y + x ) d x + ( x + \\text{sin} y ) d y = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "Use Green\u2019s theorem to evaluate line integral $$\\int_{C} ( y - \\text{ln} ( x^{2} + y^{2} ) ) d x + ( 2 \\text{arctan} \\frac{y}{x} ) d y ,$$ where C is the positively oriented circle $$( x - 2 )^{2} + ( y - 3 )^{2} = 1 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "Use Green\u2019s theorem to evaluate $$\\int_{C} x y d x + x^{3} y^{3} d y ,$$ where C is a triangle with vertices (0, 0), (1, 0), and (1, 2) with positive orientation.",
+        "Image Links": [],
+        "Answer": "$$\\int_{C} x y d x + x^{3} y^{3} d y = \\frac{22}{21}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "Use Green\u2019s theorem to evaluate line integral $$\\int_{C}^{} \\text{sin} y d x + x \\text{cos} y d y ,$$ where C is ellipse $$x^{2} + x y + y^{2} = 1$$ oriented in the counterclockwise direction.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "Let $$\\mathbf{\\text{F}} ( x , y ) = ( \\text{cos} ( x^{5} ) ) - \\frac{1}{3} y^{3} \\mathbf{\\text{i}} + \\frac{1}{3} x^{3} \\mathbf{\\text{j}} .$$ Find the counterclockwise circulation $$\\int_{C} \\mathbf{\\text{F}} \\cdotp d \\mathbf{\\text{r}} ,$$ where C is a curve consisting of the line segment joining $$( -2 , 0 ) \\text{and} ( -1 , 0 ) \\text{,}$$ half circle $$y = \\sqrt{1 - x^{2}} ,$$ the line segment joining (1, 0) and (2, 0), and half circle $$y = \\sqrt{4 - x^{2}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\int_{C} \\mathbf{\\text{F}} \\cdotp d \\mathbf{\\text{r}} = \\frac{15 \\pi}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "Use Green\u2019s theorem to evaluate line integral $$\\int_{C}^{} \\text{sin} ( x^{3} ) d x + 2 y e^{x^{2}} d y ,$$ where C is a triangular closed curve that connects the points (0, 0), (2, 2), and (0, 2) counterclockwise.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "Let C be the boundary of square $$0 \\le x \\le \\pi \\text{,} 0 \\le y \\le \\pi \\text{,}$$ traversed counterclockwise. Use Green\u2019s theorem to find $$\\int_{C}^{} \\text{sin} ( x + y ) d x + \\text{cos} ( x + y ) d y .$$",
+        "Image Links": [],
+        "Answer": "$$\\int_{C}^{} \\text{sin} ( x + y ) d x + \\text{cos} ( x + y ) d y = 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "Use Green\u2019s theorem to evaluate line integral $$\\int_{C}^{} \\mathbf{\\text{F}} \\cdotp d \\mathbf{\\text{r}} ,$$ where $$\\mathbf{\\text{F}} ( x , y ) = ( y^{2} - x^{2} ) \\mathbf{\\text{i}} + ( x^{2} + y^{2} ) \\mathbf{\\text{j}} ,$$ and C is a triangle bounded by $$y = 0 \\text{,} x = 3 , \\text{and} y = x \\text{,}$$ oriented counterclockwise.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "Use Green\u2019s Theorem to evaluate integral $$\\int_{C}^{} \\mathbf{\\text{F}} \\cdotp d \\mathbf{\\text{r}} ,$$ where $$\\mathbf{\\text{F}} ( x , y ) = ( x y^{2} ) \\mathbf{\\text{i}} + x \\mathbf{\\text{j}} ,$$ and C is a unit circle oriented in the counterclockwise direction.",
+        "Image Links": [],
+        "Answer": "$$\\int_{C}^{} \\mathbf{\\text{F}} \\cdotp d \\mathbf{\\text{r}} = \\pi$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "Use Green\u2019s theorem in a plane to evaluate line integral $$\\int_{C} ( x y + y^{2} ) d x + x^{2} d y ,$$ where C is a closed curve of a region bounded by $$y = x \\text{and} y = x^{2}$$ oriented in the counterclockwise direction.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "Calculate the outward flux of $$\\mathbf{\\text{F}} = \\text{unicode[:-]} x \\mathbf{\\text{i}} + 2 y \\mathbf{\\text{j}}$$ over a square with corners $$( \u00b11 , \u00b11 ) ,$$ where the unit normal is outward pointing and oriented in the counterclockwise direction.",
+        "Image Links": [],
+        "Answer": "$$\\int_{C} \\mathbf{\\text{F}} \\cdotp \\mathbf{\\hat{n}} d s = 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "[T] Let C be circle $$x^{2} + y^{2} = 4$$ oriented in the counterclockwise direction. Evaluate $$\\int_{C} [ ( 3 y - e^{\\text{tan} - 1_{x}} ) d x + ( 7 x + \\sqrt{y^{4} + 1} ) d y ]$$ using a computer algebra system.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "Find the flux of field $$\\mathbf{\\text{F}} = \\text{unicode[:-]} x \\mathbf{\\text{i}} + y \\mathbf{\\text{j}}$$ across $$x^{2} + y^{2} = 16$$ oriented in the counterclockwise direction.",
+        "Image Links": [],
+        "Answer": "$$\\int_{C} \\mathbf{\\text{F}} \\cdotp \\mathbf{\\text{n}} d s = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "Let $$\\mathbf{\\text{F}} = ( y^{2} - x^{2} ) \\mathbf{\\text{i}} + ( x^{2} + y^{2} ) \\mathbf{\\text{j}} ,$$ and let C be a triangle bounded by $$y = 0 , x = 3 ,$$ and $$y = x$$ oriented in the counterclockwise direction. Find the outward flux of F through C .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "[T] Let C be unit circle $$x^{2} + y^{2} = 1$$ traversed once counterclockwise. Evaluate $$\\int_{C} [ \\text{unicode[:-]} y^{3} + \\text{sin} ( x y ) + x y \\text{cos} ( x y ) ] d x + [ x^{3} + x^{2} \\text{cos} ( x y ) ] d y$$ by using a computer algebra system.",
+        "Image Links": [],
+        "Answer": "$$\\int_{C} [ \\text{unicode[:-]} y^{3} + \\text{sin} ( x y ) + x y \\text{cos} ( x y ) ] d x + [ x^{3} + x^{2} \\text{cos} ( x y ) ] d y = 4.7124$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "[T] Find the outward flux of vector field $$\\mathbf{\\text{F}} = x y^{2} \\mathbf{\\text{i}} + x^{2} y \\mathbf{\\text{j}}$$ across the boundary of annulus $$R = \\{ ( x , y ) : 1 \\le x^{2} + y^{2} \\le 4 \\} = \\{ ( r , \\theta ) : 1 \\le r \\le 2 , 0 \\le \\theta \\le 2 \\pi \\}$$ using a computer algebra system.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Green\u2019s theorem to calculate the work done by force F on a particle that is moving counterclockwise around closed path C .",
+        "Question": "Consider region R bounded by parabolas $$y = x^{2} \\text{and} x = y^{2} .$$ Let C be the boundary of R oriented counterclockwise. Use Green\u2019s theorem to evaluate $$\\int_{C} ( y + e^{\\sqrt{x}} ) d x + ( 2 x + \\text{cos} ( y^{2} ) ) d y .$$",
+        "Image Links": [],
+        "Answer": "$$\\int_{C} ( y + e^{\\sqrt{x}} ) d x + ( 2 x + \\text{cos} ( y^{2} ) ) d y = \\frac{1}{3}$$",
+        "Answer Image Links": []
+    }
+]

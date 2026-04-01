@@ -1,0 +1,402 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Describe why the horizontal line test is an effective way to determine whether a function is one-to-one?",
+        "Image Links": [],
+        "Answer": "Each output of a function must have exactly one output for the function to be one-to-one. If any horizontal line crosses the graph of a function more than once, that means that $$y$$ -values repeat and the function is not one-to-one. If no horizontal line crosses the graph of the function more than once, then no $$y$$ -values repeat and the function is one-to-one.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Why do we restrict the domain of the function $$f ( x ) = x^{2}$$ to find the function\u2019s inverse?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Can a function be its own inverse? Explain.",
+        "Image Links": [],
+        "Answer": "Yes. For example, $$f ( x ) = \\frac{1}{x}$$ is its own inverse.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Are one-to-one functions either always increasing or always decreasing? Why or why not?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "How do you find the inverse of a function algebraically?",
+        "Image Links": [],
+        "Answer": "Given a function $$y = f ( x ) ,$$ solve for $$x$$ in terms of $$y .$$ Interchange the $$x$$ and $$y .$$ Solve the new equation for $$y .$$ The expression for $$y$$ is the inverse, $$y = f^{- 1} ( x ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "",
+        "Question": "Show that the function $$f ( x ) = a - x$$ is its own inverse for all real numbers $$a .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find $$f^{- 1} ( x )$$ for each function.",
+        "Question": "$$f ( x ) = x + 3$$",
+        "Image Links": [],
+        "Answer": "$$f^{- 1} ( x ) = x - 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find $$f^{- 1} ( x )$$ for each function.",
+        "Question": "$$f ( x ) = x + 5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find $$f^{- 1} ( x )$$ for each function.",
+        "Question": "$$f ( x ) = 2 - x$$",
+        "Image Links": [],
+        "Answer": "$$f^{- 1} ( x ) = 2 - x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find $$f^{- 1} ( x )$$ for each function.",
+        "Question": "$$f ( x ) = 3 - x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find $$f^{- 1} ( x )$$ for each function.",
+        "Question": "$$f ( x ) = \\frac{x}{x + 2}$$",
+        "Image Links": [],
+        "Answer": "$$f^{- 1} ( x ) = \\frac{- 2 x}{x - 1}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find $$f^{- 1} ( x )$$ for each function.",
+        "Question": "$$f ( x ) = \\frac{2 x + 3}{5 x + 4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find a domain on which each function $$f$$ is one-to-one and non-decreasing. Write the domain in interval notation. Then find the inverse of $$f$$ restricted to that domain.",
+        "Question": "$$f ( x ) = ( x + 7 )^{2}$$",
+        "Image Links": [],
+        "Answer": "domain of $$f ( x ) : [ - 7 , \\infty ) ; f^{- 1} ( x ) = \\sqrt{x} - 7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find a domain on which each function $$f$$ is one-to-one and non-decreasing. Write the domain in interval notation. Then find the inverse of $$f$$ restricted to that domain.",
+        "Question": "$$f ( x ) = ( x - 6 )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find a domain on which each function $$f$$ is one-to-one and non-decreasing. Write the domain in interval notation. Then find the inverse of $$f$$ restricted to that domain.",
+        "Question": "$$f ( x ) = x^{2} - 5$$",
+        "Image Links": [],
+        "Answer": "domain of $$f ( x ) : [ 0 , \\infty ) ; f^{- 1} ( x ) = \\sqrt{x + 5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find a domain on which each function $$f$$ is one-to-one and non-decreasing. Write the domain in interval notation. Then find the inverse of $$f$$ restricted to that domain.",
+        "Question": "Given $$f ( x ) = \\frac{x}{2 + x}$$ and $$g ( x ) = \\frac{2 x}{1 - x} :$$ \u24d0 Find $$f ( g ( x ) )$$ and $$g ( f ( x ) ) .$$ \u24d1 What does the answer tell us about the relationship between $$f ( x )$$ and $$g ( x ) ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use function composition to verify that $$f ( x )$$ and $$g ( x )$$ are inverse functions.",
+        "Question": "$$f ( x ) = \\sqrt[3]{x - 1}$$ and $$g ( x ) = x^{3} + 1$$",
+        "Image Links": [],
+        "Answer": "$$\\  f ( g ( x ) ) = x , g ( f ( x ) ) = x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use function composition to verify that $$f ( x )$$ and $$g ( x )$$ are inverse functions.",
+        "Question": "$$f ( x ) = - 3 x + 5$$ and $$g ( x ) = \\frac{x - 5}{- 3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use a graphing utility to determine whether each function is one-to-one.",
+        "Question": "$$f ( x ) = \\sqrt{x}$$",
+        "Image Links": [],
+        "Answer": "one-to-one",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use a graphing utility to determine whether each function is one-to-one.",
+        "Question": "$$f ( x ) = \\sqrt[3]{3 x + 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use a graphing utility to determine whether each function is one-to-one.",
+        "Question": "$$f ( x ) = -5 x + 1$$",
+        "Image Links": [],
+        "Answer": "one-to-one",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use a graphing utility to determine whether each function is one-to-one.",
+        "Question": "$$f ( x ) = x^{3} - 27$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, determine whether the graph represents a one-to-one function.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/56fab2253bff5efe179ab198174772dbd5197d07"
+        ],
+        "Answer": "not one-to-one",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, determine whether the graph represents a one-to-one function.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e8997181f0141a17bd0c3edddd6cc4efb3f1711e"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graph of $$f$$ shown in Figure 11 .\nFigure 11",
+        "Question": "Find $$f ( 0 ) .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7622ee8a42b041a821d31163f254dd491f83cca5"
+        ],
+        "Answer": "$$3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graph of $$f$$ shown in Figure 11 .\nFigure 11",
+        "Question": "Solve $$f ( x ) = 0.$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7622ee8a42b041a821d31163f254dd491f83cca5"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graph of $$f$$ shown in Figure 11 .\nFigure 11",
+        "Question": "Find $$f^{- 1} ( 0 ) .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7622ee8a42b041a821d31163f254dd491f83cca5"
+        ],
+        "Answer": "$$2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graph of $$f$$ shown in Figure 11 .\nFigure 11",
+        "Question": "Solve $$f^{- 1} ( x ) = 0.$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7622ee8a42b041a821d31163f254dd491f83cca5"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graph of the one-to-one function shown in Figure 12 .\nFigure 12",
+        "Question": "Sketch the graph of $$f^{- 1} .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3b9996cca90247c129cb9c761b8075600de4b7ab"
+        ],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/bd09f73bf5ad51c13056d865ce202368c16fa999"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graph of the one-to-one function shown in Figure 12 .\nFigure 12",
+        "Question": "Find $$f ( 6 ) \\text{and\u00a0} f^{- 1} ( 2 ) .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3b9996cca90247c129cb9c761b8075600de4b7ab"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graph of the one-to-one function shown in Figure 12 .\nFigure 12",
+        "Question": "If the complete graph of $$f$$ is shown, find the domain of $$f .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3b9996cca90247c129cb9c761b8075600de4b7ab"
+        ],
+        "Answer": "$$[ 2 , 10 ]$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graph of the one-to-one function shown in Figure 12 .\nFigure 12",
+        "Question": "If the complete graph of $$f$$ is shown, find the range of $$f .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3b9996cca90247c129cb9c761b8075600de4b7ab"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, evaluate or solve, assuming that the function $$f$$ is one-to-one.",
+        "Question": "If $$f ( 6 ) = 7 ,$$ find $$f^{- 1} ( 7 ) .$$",
+        "Image Links": [],
+        "Answer": "$$6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, evaluate or solve, assuming that the function $$f$$ is one-to-one.",
+        "Question": "If $$f ( 3 ) = 2 ,$$ find $$f^{- 1} ( 2 ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, evaluate or solve, assuming that the function $$f$$ is one-to-one.",
+        "Question": "If $$f^{- 1} ( - 4 ) = - 8 ,$$ find $$f ( - 8 ) .$$",
+        "Image Links": [],
+        "Answer": "$$- 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, evaluate or solve, assuming that the function $$f$$ is one-to-one.",
+        "Question": "If $$f^{- 1} ( - 2 ) = - 1 ,$$ find $$f ( - 1 ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the values listed in Table 6 to evaluate or solve.",
+        "Question": "Find $$f ( 1 ) .$$",
+        "Image Links": [],
+        "Answer": "$$0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the values listed in Table 6 to evaluate or solve.",
+        "Question": "Solve $$f ( x ) = 3.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the values listed in Table 6 to evaluate or solve.",
+        "Question": "Find $$f^{- 1} ( 0 ) .$$",
+        "Image Links": [],
+        "Answer": "$$1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the values listed in Table 6 to evaluate or solve.",
+        "Question": "Solve $$f^{- 1} ( x ) = 7.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the values listed in Table 6 to evaluate or solve.",
+        "Question": "Use the tabular representation of $$f$$ in Table 7 to create a table for $$f^{- 1} ( x ) .$$ \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\n$$x$$ & 3 & 6 & 9 & 13 & 14 \\\\ \\hline\n$$f ( x )$$ & 1 & 4 & 7 & 12 & 16 \\\\ \\hline\n\\end{tabular}\n\\end{table} Table 7",
+        "Image Links": [],
+        "Answer": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\n$$x$$ & 1 & 4 & 7 & 12 & 16 \\\\ \\hline\n$$f^{- 1} ( x )$$ & 3 & 6 & 9 & 13 & 14 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, find the inverse function. Then, graph the function and its inverse.",
+        "Question": "$$f ( x ) = \\frac{3}{x - 2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, find the inverse function. Then, graph the function and its inverse.",
+        "Question": "$$f ( x ) = x^{3} - 1$$",
+        "Image Links": [],
+        "Answer": "$$f^{- 1} ( x ) = ( 1 + x )^{1 / 3}$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9cd1e20cb241071306672be2b4e138e0661e9c13"
+        ]
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, find the inverse function. Then, graph the function and its inverse.",
+        "Question": "Find the inverse function of $$f ( x ) = \\frac{1}{x - 1} .$$ Use a graphing utility to find its domain and range. Write the domain and range in interval notation.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "To convert from $$x$$ degrees Celsius to $$y$$ degrees Fahrenheit, we use the formula $$f ( x ) = \\frac{9}{5} x + 32.$$ Find the inverse function, if it exists, and explain its meaning.",
+        "Image Links": [],
+        "Answer": "$$f^{- 1} ( x ) = \\frac{5}{9} ( x - 32 ) .$$ Given the Fahrenheit temperature, $$x ,$$ this formula allows you to calculate the Celsius temperature.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "The circumference $$C$$ of a circle is a function of its radius given by $$C ( r ) = 2 \\pi r .$$ Express the radius of a circle as a function of its circumference. Call this function $$r ( C ) .$$ Find $$r ( 36 \\pi )$$ and interpret its meaning.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A car travels at a constant speed of 50 miles per hour. The distance the car travels in miles is a function of time, $$t ,$$ in hours given by $$d ( t ) = 50 t .$$ Find the inverse function by expressing the time of travel in terms of the distance traveled. Call this function $$t ( d ) .$$ Find $$t ( 180 )$$ and interpret its meaning.",
+        "Image Links": [],
+        "Answer": "$$t ( d ) = \\frac{d}{50} ,$$ $$t ( 180 ) = \\frac{180}{50} .$$ The time for the car to travel 180 miles is 3.6 hours.",
+        "Answer Image Links": []
+    }
+]

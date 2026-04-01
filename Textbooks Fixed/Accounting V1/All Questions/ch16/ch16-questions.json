@@ -1,0 +1,122 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO16.1What function does the statement of cash flows serve, as one of the four basic financial statements?",
+        "Image Links": [],
+        "Answer": "The statement of cash flow serves as a bridge between the cash basis bank transactions and the accrual basis financial statements (balance sheet, income statement, and retained earnings statement). It reveals where the cash came from, and where it went.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO16.1Is it possible for a company to have significant net income in the same time period that net cash flows are negative? Explain.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO16.2What categories of activities are reported on the statement of cash flows? Does it matter in what order these sections are presented?",
+        "Image Links": [],
+        "Answer": "Operating, Investing, Financing (always in this order).",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO16.2Describe three examples of operating activities, and identify whether each of them represents cash collected or cash spent.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO16.2Describe three examples of investing activities, and identify whether each of them represents cash collected or cash spent.",
+        "Image Links": [],
+        "Answer": "Any transaction that is related to acquiring or disposing of long-term assets like land, buildings, equipment, stocks, bonds, or other investments. Can be cash spent for purchase of long-term assets, or cash collected from sale of long-term assets.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO16.2Describe three examples of financing activities, and identify whether each of them represents cash collected or cash spent.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO16.3Explain the difference between the two methods used to prepare the operating section of the statement of cash flows. How do the results of these two approaches compare?",
+        "Image Links": [],
+        "Answer": "The indirect method begins with net income and adjusts for items that affect cash differently than they affect net income, whereas the direct method requires that each revenue and expense item be converted to reflect the cash impact from that item. The net cash flow result is the same, no matter which of the two methods is used.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO16.3Why is depreciation an addition in the operating section of the statement of cash flows, when prepared by the indirect method?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO16.3When preparing the operating section of the statement of cash flows, using the indirect method, how must gains and losses be handled? Why?",
+        "Image Links": [],
+        "Answer": "Gains and losses must be removed from the operating section. To accomplish this, reverse the effect of gains or losses; if a gain has been added to net income, it should be subtracted in the operating section; if a loss has been deducted to arrive at net income, it should be added back in the operating section. Why? First, gains and losses relate to long-term assets, which fall under investing activities, not operating activities. Second, the gain/(loss) on the sale of long-term assets represents the excess/(deficiency) computed when the asset\u2019s cost basis is subtracted from sales proceeds, so the number does not accurately represent the cash flow relating to the transaction.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO16.3If a company reports a gain/(loss) from the sale of assets, as part of the net income on the income statement, and the net book value of those assets on the date of the sale is known, can the amount of the cash proceeds from the sale be determined? If so, how?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO16.3Note payments reduce cash and are related to long-term debt. Do these facts automatically lead to their inclusion as elements of the financing section of the statement of cash flows? Explain.",
+        "Image Links": [],
+        "Answer": "Not necessarily. Only the principal balance repayment should be included in the financing section; the interest component of the note payment is an operating activity.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO16.4Is there any significance that can be attributed to whether net cash flows are generated from operating activities, versus investing and/or financing activities? Explain.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO16.4Would there ever be activities that relate to operating, investing, or financing activities that would not be reported in their respective sections of the statement of cash flows? Explain. If a company had any such activities, how would they be reported in the financial statements, if at all?",
+        "Image Links": [],
+        "Answer": "Yes. Some investing and/or financing transactions do not have a cash impact initially. Examples include purchases of long-term assets that are paid for with long-term debt financing, acquisitions of long-term assets in exchange for corporate stock, and repayment of long-term debt using noncash assets. These noncash investing/financing activities would be reported in the notes to the financial statements, or as a notation on the bottom of the statement of cash flows, but not considered an integral part of the statement.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO16.5What insight does the calculation of free cash flow provide about the company\u2019s cash flow position?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO16.6Why is using the direct method to prepare the operating section of the statement of cash flows more challenging for accountants than preparing the balance sheet, income statement, and retained earnings statement?",
+        "Image Links": [],
+        "Answer": "Using the direct method to prepare the operating section requires that revenue and expense items be converted to the cash basis of accounting, since these items are recorded in company records using the accrual basis of accounting. The balance sheet, income statement, and retained earnings statement use the accrual basis balances that are maintained in the company accounting records, and thus can be obtained directly from the adjusted trial balance, without modifications.",
+        "Answer Image Links": []
+    }
+]

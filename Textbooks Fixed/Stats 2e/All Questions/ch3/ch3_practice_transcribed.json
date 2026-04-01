@@ -1,0 +1,472 @@
+[
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "",
+        "Question": "In a particular college class, there are men and women students. Some students have long hair and some students have short hair. Write the symbols for the probabilities of the events for parts a through j. (Note that you cannot find numerical answers here. You were not given enough information to find any probability values yet; concentrate on understanding the symbols.) Let W be the event that a student is a woman. Let M be the event that a student is a man. Let S be the event that a student has short hair. Let L be the event that a student has long hair. a) The probability that a student does not have long hair. b) The probability that a student is a man or has short hair. c) The probability that a student is a woman and has long hair. d) The probability that a student is a man, given that the student has long hair. e) The probability that a student has long hair, given that the student is a man. f) Of all the women students, the probability that a student has short hair. g) Of all students with long hair, the probability that a student is a woman. h) The probability that a student is a woman or has long hair. i) The probability that a randomly selected student is a man student with short hair. j) The probability that a student is a woman.",
+        "Image Links": [],
+        "Answer": "a) P ( L\u2032 ) = P ( S ) b) P ( M OR S ) c) P ( F AND L ) d) P ( M | L ) e) P ( L | M ) f) P ( S | F ) g) P ( F | L ) h) P ( F OR L ) i) P ( M AND S ) j) P ( F )",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next four exercises. A box is filled with several party favors. It contains 12 hats, 15 noisemakers, ten finger traps, and five bags of confetti. One party favor is chosen from the box at random. Let H = the event of getting a hat. Let N = the event of getting a noisemaker. Let F = the event of getting a finger trap. Let C = the event of getting a bag of confetti.",
+        "Question": "Find P ( H ).",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next four exercises. A box is filled with several party favors. It contains 12 hats, 15 noisemakers, ten finger traps, and five bags of confetti. One party favor is chosen from the box at random. Let H = the event of getting a hat. Let N = the event of getting a noisemaker. Let F = the event of getting a finger trap. Let C = the event of getting a bag of confetti.",
+        "Question": "Find P ( N ).",
+        "Image Links": [],
+        "Answer": "P ( N ) = $$\\frac{15}{42}$$ = $$\\frac{5}{14}$$ = 0.36",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next four exercises. A box is filled with several party favors. It contains 12 hats, 15 noisemakers, ten finger traps, and five bags of confetti. One party favor is chosen from the box at random. Let H = the event of getting a hat. Let N = the event of getting a noisemaker. Let F = the event of getting a finger trap. Let C = the event of getting a bag of confetti.",
+        "Question": "Find P ( W ).",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next four exercises. A box is filled with several party favors. It contains 12 hats, 15 noisemakers, ten finger traps, and five bags of confetti. One party favor is chosen from the box at random. Let H = the event of getting a hat. Let N = the event of getting a noisemaker. Let F = the event of getting a finger trap. Let C = the event of getting a bag of confetti.",
+        "Question": "Find P ( C ).",
+        "Image Links": [],
+        "Answer": "P ( C ) = $$\\frac{5}{42}$$ = 0.12",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next six exercises. A jar of 150 jelly beans contains 22 red jelly beans, 38 yellow, 20 green, 28 purple, 26 blue, and the rest are orange. One jelly bean is chosen from the box at random. Let B = the event of getting a blue jelly bean Let G = the event of getting a green jelly bean. Let O = the event of getting an orange jelly bean. Let P = the event of getting a purple jelly bean. Let R = the event of getting a red jelly bean. Let Y = the event of getting a yellow jelly bean.",
+        "Question": "Find P ( B ).",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next six exercises. A jar of 150 jelly beans contains 22 red jelly beans, 38 yellow, 20 green, 28 purple, 26 blue, and the rest are orange. One jelly bean is chosen from the box at random. Let B = the event of getting a blue jelly bean Let G = the event of getting a green jelly bean. Let O = the event of getting an orange jelly bean. Let P = the event of getting a purple jelly bean. Let R = the event of getting a red jelly bean. Let Y = the event of getting a yellow jelly bean.",
+        "Question": "Find P ( G ).",
+        "Image Links": [],
+        "Answer": "P ( G ) = $$\\frac{20}{150}$$ = $$\\frac{2}{15}$$ = 0.13",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next six exercises. A jar of 150 jelly beans contains 22 red jelly beans, 38 yellow, 20 green, 28 purple, 26 blue, and the rest are orange. One jelly bean is chosen from the box at random. Let B = the event of getting a blue jelly bean Let G = the event of getting a green jelly bean. Let O = the event of getting an orange jelly bean. Let P = the event of getting a purple jelly bean. Let R = the event of getting a red jelly bean. Let Y = the event of getting a yellow jelly bean.",
+        "Question": "Find P ( P ).",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next six exercises. A jar of 150 jelly beans contains 22 red jelly beans, 38 yellow, 20 green, 28 purple, 26 blue, and the rest are orange. One jelly bean is chosen from the box at random. Let B = the event of getting a blue jelly bean Let G = the event of getting a green jelly bean. Let O = the event of getting an orange jelly bean. Let P = the event of getting a purple jelly bean. Let R = the event of getting a red jelly bean. Let Y = the event of getting a yellow jelly bean.",
+        "Question": "Find P ( R ).",
+        "Image Links": [],
+        "Answer": "P ( R ) = $$\\frac{22}{150}$$ = $$\\frac{11}{75}$$ = 0.15",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next six exercises. A jar of 150 jelly beans contains 22 red jelly beans, 38 yellow, 20 green, 28 purple, 26 blue, and the rest are orange. One jelly bean is chosen from the box at random. Let B = the event of getting a blue jelly bean Let G = the event of getting a green jelly bean. Let O = the event of getting an orange jelly bean. Let P = the event of getting a purple jelly bean. Let R = the event of getting a red jelly bean. Let Y = the event of getting a yellow jelly bean.",
+        "Question": "Find P ( Y ).",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next six exercises. A jar of 150 jelly beans contains 22 red jelly beans, 38 yellow, 20 green, 28 purple, 26 blue, and the rest are orange. One jelly bean is chosen from the box at random. Let B = the event of getting a blue jelly bean Let G = the event of getting a green jelly bean. Let O = the event of getting an orange jelly bean. Let P = the event of getting a purple jelly bean. Let R = the event of getting a red jelly bean. Let Y = the event of getting a yellow jelly bean.",
+        "Question": "Find P ( O ).",
+        "Image Links": [],
+        "Answer": "P ( O ) = $$\\frac{150 - 22 - 38 - 20 - 28 - 26}{150}$$ = $$\\frac{16}{150}$$ = $$\\frac{8}{75}$$ = 0.11",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next six exercises. There are 23 countries in North America, 12 countries in South America, 47 countries in Europe, 44 countries in Asia, 54 countries in Africa, and 14 in Oceania (Pacific Ocean region). Let A = the event that a country is in Asia. Let E = the event that a country is in Europe. Let F = the event that a country is in Africa. Let N = the event that a country is in North America. Let O = the event that a country is in Oceania. Let S = the event that a country is in South America.",
+        "Question": "Find P ( A ).",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next six exercises. There are 23 countries in North America, 12 countries in South America, 47 countries in Europe, 44 countries in Asia, 54 countries in Africa, and 14 in Oceania (Pacific Ocean region). Let A = the event that a country is in Asia. Let E = the event that a country is in Europe. Let F = the event that a country is in Africa. Let N = the event that a country is in North America. Let O = the event that a country is in Oceania. Let S = the event that a country is in South America.",
+        "Question": "Find P ( E ).",
+        "Image Links": [],
+        "Answer": "P ( E ) = $$\\frac{47}{194}$$ = 0.24",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next six exercises. There are 23 countries in North America, 12 countries in South America, 47 countries in Europe, 44 countries in Asia, 54 countries in Africa, and 14 in Oceania (Pacific Ocean region). Let A = the event that a country is in Asia. Let E = the event that a country is in Europe. Let F = the event that a country is in Africa. Let N = the event that a country is in North America. Let O = the event that a country is in Oceania. Let S = the event that a country is in South America.",
+        "Question": "Find P ( F ).",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next six exercises. There are 23 countries in North America, 12 countries in South America, 47 countries in Europe, 44 countries in Asia, 54 countries in Africa, and 14 in Oceania (Pacific Ocean region). Let A = the event that a country is in Asia. Let E = the event that a country is in Europe. Let F = the event that a country is in Africa. Let N = the event that a country is in North America. Let O = the event that a country is in Oceania. Let S = the event that a country is in South America.",
+        "Question": "Find P ( N ).",
+        "Image Links": [],
+        "Answer": "P ( N ) = $$\\frac{23}{194}$$ = 0.12",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next six exercises. There are 23 countries in North America, 12 countries in South America, 47 countries in Europe, 44 countries in Asia, 54 countries in Africa, and 14 in Oceania (Pacific Ocean region). Let A = the event that a country is in Asia. Let E = the event that a country is in Europe. Let F = the event that a country is in Africa. Let N = the event that a country is in North America. Let O = the event that a country is in Oceania. Let S = the event that a country is in South America.",
+        "Question": "Find P ( O ).",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next six exercises. There are 23 countries in North America, 12 countries in South America, 47 countries in Europe, 44 countries in Asia, 54 countries in Africa, and 14 in Oceania (Pacific Ocean region). Let A = the event that a country is in Asia. Let E = the event that a country is in Europe. Let F = the event that a country is in Africa. Let N = the event that a country is in North America. Let O = the event that a country is in Oceania. Let S = the event that a country is in South America.",
+        "Question": "Find P ( S ).",
+        "Image Links": [],
+        "Answer": "P ( S ) = $$\\frac{12}{194}$$ = $$\\frac{6}{97}$$ = 0.06",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next six exercises. There are 23 countries in North America, 12 countries in South America, 47 countries in Europe, 44 countries in Asia, 54 countries in Africa, and 14 in Oceania (Pacific Ocean region). Let A = the event that a country is in Asia. Let E = the event that a country is in Europe. Let F = the event that a country is in Africa. Let N = the event that a country is in North America. Let O = the event that a country is in Oceania. Let S = the event that a country is in South America.",
+        "Question": "What is the probability of drawing a red card in a standard deck of 52 cards?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next six exercises. There are 23 countries in North America, 12 countries in South America, 47 countries in Europe, 44 countries in Asia, 54 countries in Africa, and 14 in Oceania (Pacific Ocean region). Let A = the event that a country is in Asia. Let E = the event that a country is in Europe. Let F = the event that a country is in Africa. Let N = the event that a country is in North America. Let O = the event that a country is in Oceania. Let S = the event that a country is in South America.",
+        "Question": "What is the probability of drawing a club in a standard deck of 52 cards?",
+        "Image Links": [],
+        "Answer": "$$\\frac{13}{52}$$ = $$\\frac{1}{4}$$ = 0.25",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next six exercises. There are 23 countries in North America, 12 countries in South America, 47 countries in Europe, 44 countries in Asia, 54 countries in Africa, and 14 in Oceania (Pacific Ocean region). Let A = the event that a country is in Asia. Let E = the event that a country is in Europe. Let F = the event that a country is in Africa. Let N = the event that a country is in North America. Let O = the event that a country is in Oceania. Let S = the event that a country is in South America.",
+        "Question": "What is the probability of rolling an even number of dots with a fair, six-sided die numbered one through six?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next six exercises. There are 23 countries in North America, 12 countries in South America, 47 countries in Europe, 44 countries in Asia, 54 countries in Africa, and 14 in Oceania (Pacific Ocean region). Let A = the event that a country is in Asia. Let E = the event that a country is in Europe. Let F = the event that a country is in Africa. Let N = the event that a country is in North America. Let O = the event that a country is in Oceania. Let S = the event that a country is in South America.",
+        "Question": "What is the probability of rolling a prime number of dots with a fair, six-sided die numbered one through six?",
+        "Image Links": [],
+        "Answer": "$$\\frac{3}{6}$$ = $$\\frac{1}{2}$$ = 0.5",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next two exercises. You see a game at a local fair. You have to throw a dart at a color wheel. Each section on the color wheel is equal in area. Figure 3.10 Let B = the event of landing on blue. Let R = the event of landing on red. Let G = the event of landing on green. Let Y = the event of landing on yellow.",
+        "Question": "If you land on Y , you get the biggest prize. Find P ( Y ).",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/45f88153cda133962edd322fa5d0e054c77e4579"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next two exercises. You see a game at a local fair. You have to throw a dart at a color wheel. Each section on the color wheel is equal in area. Figure 3.10 Let B = the event of landing on blue. Let R = the event of landing on red. Let G = the event of landing on green. Let Y = the event of landing on yellow.",
+        "Question": "If you land on red, you don\u2019t get a prize. What is P ( R )?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/45f88153cda133962edd322fa5d0e054c77e4579"
+        ],
+        "Answer": "$$P ( R ) = \\frac{4}{8} = 0.5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next ten exercises. On a baseball team, there are infielders and outfielders. Some players are great hitters, and some players are not great hitters. Let I = the event that a player in an infielder. Let O = the event that a player is an outfielder. Let H = the event that a player is a great hitter. Let N = the event that a player is not a great hitter.",
+        "Question": "Write the symbols for the probability that a player is not an outfielder.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next ten exercises. On a baseball team, there are infielders and outfielders. Some players are great hitters, and some players are not great hitters. Let I = the event that a player in an infielder. Let O = the event that a player is an outfielder. Let H = the event that a player is a great hitter. Let N = the event that a player is not a great hitter.",
+        "Question": "Write the symbols for the probability that a player is an outfielder or is a great hitter.",
+        "Image Links": [],
+        "Answer": "P ( O OR H )",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next ten exercises. On a baseball team, there are infielders and outfielders. Some players are great hitters, and some players are not great hitters. Let I = the event that a player in an infielder. Let O = the event that a player is an outfielder. Let H = the event that a player is a great hitter. Let N = the event that a player is not a great hitter.",
+        "Question": "Write the symbols for the probability that a player is an infielder and is not a great hitter.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next ten exercises. On a baseball team, there are infielders and outfielders. Some players are great hitters, and some players are not great hitters. Let I = the event that a player in an infielder. Let O = the event that a player is an outfielder. Let H = the event that a player is a great hitter. Let N = the event that a player is not a great hitter.",
+        "Question": "Write the symbols for the probability that a player is a great hitter, given that the player is an infielder.",
+        "Image Links": [],
+        "Answer": "P ( H | I )",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next ten exercises. On a baseball team, there are infielders and outfielders. Some players are great hitters, and some players are not great hitters. Let I = the event that a player in an infielder. Let O = the event that a player is an outfielder. Let H = the event that a player is a great hitter. Let N = the event that a player is not a great hitter.",
+        "Question": "Write the symbols for the probability that a player is an infielder, given that the player is a great hitter.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next ten exercises. On a baseball team, there are infielders and outfielders. Some players are great hitters, and some players are not great hitters. Let I = the event that a player in an infielder. Let O = the event that a player is an outfielder. Let H = the event that a player is a great hitter. Let N = the event that a player is not a great hitter.",
+        "Question": "Write the symbols for the probability that of all the outfielders, a player is not a great hitter.",
+        "Image Links": [],
+        "Answer": "P ( N | O )",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next ten exercises. On a baseball team, there are infielders and outfielders. Some players are great hitters, and some players are not great hitters. Let I = the event that a player in an infielder. Let O = the event that a player is an outfielder. Let H = the event that a player is a great hitter. Let N = the event that a player is not a great hitter.",
+        "Question": "Write the symbols for the probability that of all the great hitters, a player is an outfielder.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next ten exercises. On a baseball team, there are infielders and outfielders. Some players are great hitters, and some players are not great hitters. Let I = the event that a player in an infielder. Let O = the event that a player is an outfielder. Let H = the event that a player is a great hitter. Let N = the event that a player is not a great hitter.",
+        "Question": "Write the symbols for the probability that a player is an infielder or is not a great hitter.",
+        "Image Links": [],
+        "Answer": "P ( I OR N )",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next ten exercises. On a baseball team, there are infielders and outfielders. Some players are great hitters, and some players are not great hitters. Let I = the event that a player in an infielder. Let O = the event that a player is an outfielder. Let H = the event that a player is a great hitter. Let N = the event that a player is not a great hitter.",
+        "Question": "Write the symbols for the probability that a player is an outfielder and is a great hitter.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next ten exercises. On a baseball team, there are infielders and outfielders. Some players are great hitters, and some players are not great hitters. Let I = the event that a player in an infielder. Let O = the event that a player is an outfielder. Let H = the event that a player is a great hitter. Let N = the event that a player is not a great hitter.",
+        "Question": "Write the symbols for the probability that a player is an infielder.",
+        "Image Links": [],
+        "Answer": "P ( I )",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next ten exercises. On a baseball team, there are infielders and outfielders. Some players are great hitters, and some players are not great hitters. Let I = the event that a player in an infielder. Let O = the event that a player is an outfielder. Let H = the event that a player is a great hitter. Let N = the event that a player is not a great hitter.",
+        "Question": "What is the word for the set of all possible outcomes?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next ten exercises. On a baseball team, there are infielders and outfielders. Some players are great hitters, and some players are not great hitters. Let I = the event that a player in an infielder. Let O = the event that a player is an outfielder. Let H = the event that a player is a great hitter. Let N = the event that a player is not a great hitter.",
+        "Question": "What is conditional probability?",
+        "Image Links": [],
+        "Answer": "The likelihood that an event will occur given that another event has already occurred.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next ten exercises. On a baseball team, there are infielders and outfielders. Some players are great hitters, and some players are not great hitters. Let I = the event that a player in an infielder. Let O = the event that a player is an outfielder. Let H = the event that a player is a great hitter. Let N = the event that a player is not a great hitter.",
+        "Question": "A shelf holds 12 books. Eight are fiction and the rest are nonfiction. Each is a different book with a unique title. The fiction books are numbered one to eight. The nonfiction books are numbered one to four. Randomly select one book Let F = event that book is fiction Let N = event that book is nonfiction What is the sample space?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next ten exercises. On a baseball team, there are infielders and outfielders. Some players are great hitters, and some players are not great hitters. Let I = the event that a player in an infielder. Let O = the event that a player is an outfielder. Let H = the event that a player is a great hitter. Let N = the event that a player is not a great hitter.",
+        "Question": "What is the sum of the probabilities of an event and its complement?",
+        "Image Links": [],
+        "Answer": "1",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next two exercises. You are rolling a fair, six-sided number cube. Let E = the event that it lands on an even number. Let M = the event that it lands on a multiple of three.",
+        "Question": "What does P ( E | M ) mean in words?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Terminology",
+        "Problem Statement": "Use the following information to answer the next two exercises. You are rolling a fair, six-sided number cube. Let E = the event that it lands on an even number. Let M = the event that it lands on a multiple of three.",
+        "Question": "What does P ( E OR M ) mean in words?",
+        "Image Links": [],
+        "Answer": "the probability of landing on an even number or a multiple of three",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.2 Independent and Mutually Exclusive Events",
+        "Problem Statement": "",
+        "Question": "E and F are mutually exclusive events. P ( E ) =  0.4; P ( F ) = 0.5. Find P ( E \u2223 F ).",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.2 Independent and Mutually Exclusive Events",
+        "Problem Statement": "",
+        "Question": "J and K are independent events. P ( J | K ) = 0.3. Find P ( J ).",
+        "Image Links": [],
+        "Answer": "P ( J ) = 0.3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.2 Independent and Mutually Exclusive Events",
+        "Problem Statement": "",
+        "Question": "U and V are mutually exclusive events. P ( U ) = 0.26; P ( V ) = 0.37. Find: a) P ( U AND V ) = b) P ( U | V ) = c) P ( U OR V ) =",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.2 Independent and Mutually Exclusive Events",
+        "Problem Statement": "",
+        "Question": "Q and R are independent events. P ( Q ) = 0.4 and P ( Q AND R ) = 0.1. Find P ( R ).",
+        "Image Links": [],
+        "Answer": "P ( Q AND R ) = P ( Q ) P ( R ) 0.1 = (0.4) P ( R ) P ( R ) = 0.25",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.3 Two Basic Rules of Probability",
+        "Problem Statement": "Use the following information to answer the next ten exercises. A local restaurant knows that the probability that a customer will order a pizza is 87%. The restaurant also knows that the probability that a customer will order a salad is 32%. Of the customers who order pizzas, 55% of them also order a salad. In this problem, let: - Z = event that a customer orders a pizza - S = event that a customer orders a salad Suppose that one customer is randomly selected.",
+        "Question": "Find P ( Z ).",
+        "Image Links": [],
+        "Answer": "Find P ( S ) : P ( S ) = 0.87",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.3 Two Basic Rules of Probability",
+        "Problem Statement": "Use the following information to answer the next ten exercises. A local restaurant knows that the probability that a customer will order a pizza is 87%. The restaurant also knows that the probability that a customer will order a salad is 32%. Of the customers who order pizzas, 55% of them also order a salad. In this problem, let: - Z = event that a customer orders a pizza - S = event that a customer orders a salad Suppose that one customer is randomly selected.",
+        "Question": "Find P ( S ).",
+        "Image Links": [],
+        "Answer": "Find P ( S ) : P ( S ) = 0.32",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.3 Two Basic Rules of Probability",
+        "Problem Statement": "Use the following information to answer the next ten exercises. A local restaurant knows that the probability that a customer will order a pizza is 87%. The restaurant also knows that the probability that a customer will order a salad is 32%. Of the customers who order pizzas, 55% of them also order a salad. In this problem, let: - Z = event that a customer orders a pizza - S = event that a customer orders a salad Suppose that one customer is randomly selected.",
+        "Question": "Find P ( S | Z ).",
+        "Image Links": [],
+        "Answer": "Find P ( S | Z ) : P ( S | Z ) = 0.55",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.3 Two Basic Rules of Probability",
+        "Problem Statement": "Use the following information to answer the next ten exercises. A local restaurant knows that the probability that a customer will order a pizza is 87%. The restaurant also knows that the probability that a customer will order a salad is 32%. Of the customers who order pizzas, 55% of them also order a salad. In this problem, let: - Z = event that a customer orders a pizza - S = event that a customer orders a salad Suppose that one customer is randomly selected.",
+        "Question": "In words, what is S | Z ?",
+        "Image Links": [],
+        "Answer": "In words, what is S | Z ? : S | Z means, given that the customer has ordered pizza, the person also orders a salad.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.3 Two Basic Rules of Probability",
+        "Problem Statement": "Use the following information to answer the next ten exercises. A local restaurant knows that the probability that a customer will order a pizza is 87%. The restaurant also knows that the probability that a customer will order a salad is 32%. Of the customers who order pizzas, 55% of them also order a salad. In this problem, let: - Z = event that a customer orders a pizza - S = event that a customer orders a salad Suppose that one customer is randomly selected.",
+        "Question": "Find $$P ( Z \\  A N D \\  S )$$ .",
+        "Image Links": [],
+        "Answer": "Find $$P ( Z \\  A N D \\  S )$$ : $$P ( Z \\  A N D \\  S )$$ = 0.4785",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.3 Two Basic Rules of Probability",
+        "Problem Statement": "Use the following information to answer the next ten exercises. A local restaurant knows that the probability that a customer will order a pizza is 87%. The restaurant also knows that the probability that a customer will order a salad is 32%. Of the customers who order pizzas, 55% of them also order a salad. In this problem, let: - Z = event that a customer orders a pizza - S = event that a customer orders a salad Suppose that one customer is randomly selected.",
+        "Question": "In words, what is $$Z \\  A N D \\  S$$ ?",
+        "Image Links": [],
+        "Answer": "In words, what is $$Z \\  A N D \\  S$$ ? : $$Z \\  A N D \\  S$$ represents the event that a customer orders a pizza and salad.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.3 Two Basic Rules of Probability",
+        "Problem Statement": "Use the following information to answer the next ten exercises. A local restaurant knows that the probability that a customer will order a pizza is 87%. The restaurant also knows that the probability that a customer will order a salad is 32%. Of the customers who order pizzas, 55% of them also order a salad. In this problem, let: - Z = event that a customer orders a pizza - S = event that a customer orders a salad Suppose that one customer is randomly selected.",
+        "Question": "Are P and S independent events? Show why or why not.",
+        "Image Links": [],
+        "Answer": "Are P and S independent events? Show why or why not. No, because P ( S ) does not equal P ( S | Z ).",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.3 Two Basic Rules of Probability",
+        "Problem Statement": "Use the following information to answer the next ten exercises. A local restaurant knows that the probability that a customer will order a pizza is 87%. The restaurant also knows that the probability that a customer will order a salad is 32%. Of the customers who order pizzas, 55% of them also order a salad. In this problem, let: - Z = event that a customer orders a pizza - S = event that a customer orders a salad Suppose that one customer is randomly selected.",
+        "Question": "Find $$P ( Z \\  O R \\  S )$$ .",
+        "Image Links": [],
+        "Answer": "Find $$P ( Z \\  O R \\  S )$$ : $$P ( Z \\  O R \\  S )$$ = 0.7115",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.3 Two Basic Rules of Probability",
+        "Problem Statement": "Use the following information to answer the next ten exercises. A local restaurant knows that the probability that a customer will order a pizza is 87%. The restaurant also knows that the probability that a customer will order a salad is 32%. Of the customers who order pizzas, 55% of them also order a salad. In this problem, let: - Z = event that a customer orders a pizza - S = event that a customer orders a salad Suppose that one customer is randomly selected.",
+        "Question": "In words, what is $$Z \\  O R \\  S$$ ?",
+        "Image Links": [],
+        "Answer": "In words, what is $$Z \\  O R \\  S$$ ? $$Z \\  O R \\  S$$ represents the event that a customer orders a pizza or salad.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.3 Two Basic Rules of Probability",
+        "Problem Statement": "Use the following information to answer the next ten exercises. A local restaurant knows that the probability that a customer will order a pizza is 87%. The restaurant also knows that the probability that a customer will order a salad is 32%. Of the customers who order pizzas, 55% of them also order a salad. In this problem, let: - Z = event that a customer orders a pizza - S = event that a customer orders a salad Suppose that one customer is randomly selected.",
+        "Question": "Are Z and S mutually exclusive events? Show why or why not.",
+        "Image Links": [],
+        "Answer": "Are Z and S mutually exclusive events? Show why or why not. No, because P ( S and Z ) does not equal 0.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.4 Contingency Tables",
+        "Problem Statement": "Use the following information to answer the next four exercises. Table 3.16 shows a random sample of musicians and how they learned to play their instruments. Gender Self-taught Studied in School Private Instruction Total Woman 12 38 22 72 Man 19 24 15 58 Total 31 62 37 130 Table 3.16",
+        "Question": "Find P (musician is a woman).",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.4 Contingency Tables",
+        "Problem Statement": "Use the following information to answer the next four exercises. Table 3.16 shows a random sample of musicians and how they learned to play their instruments. Gender Self-taught Studied in School Private Instruction Total Woman 12 38 22 72 Man 19 24 15 58 Total 31 62 37 130 Table 3.16",
+        "Question": "Find P (musician is a man AND had private instruction).",
+        "Image Links": [],
+        "Answer": "P (musician is a male AND had private instruction) = $$\\frac{15}{130}$$ = $$\\frac{3}{26}$$ = 0.12",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.4 Contingency Tables",
+        "Problem Statement": "Use the following information to answer the next four exercises. Table 3.16 shows a random sample of musicians and how they learned to play their instruments. Gender Self-taught Studied in School Private Instruction Total Woman 12 38 22 72 Man 19 24 15 58 Total 31 62 37 130 Table 3.16",
+        "Question": "Find P (musician is a woman OR is self taught).",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.4 Contingency Tables",
+        "Problem Statement": "Use the following information to answer the next four exercises. Table 3.16 shows a random sample of musicians and how they learned to play their instruments. Gender Self-taught Studied in School Private Instruction Total Woman 12 38 22 72 Man 19 24 15 58 Total 31 62 37 130 Table 3.16",
+        "Question": "Are the events \u201cbeing a woman musician\u201d and \u201clearning music in school\u201d mutually exclusive events?",
+        "Image Links": [],
+        "Answer": "The events are not mutually exclusive. It is possible to be a woman musician who learned music in school.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.5 Tree and Venn Diagrams",
+        "Problem Statement": "",
+        "Question": "The probability that a man develops some form of cancer in his lifetime is 0.4567. The probability that a man has at least one false positive test result (meaning the test comes back for cancer when the man does not have it) is 0.51. Let: C = a man develops cancer in his lifetime; P = man has at least one false positive. Construct a tree diagram of the situation.",
+        "Image Links": [],
+        "Answer": "Figure 3.15",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9fee7359534f075d6ac9f92bfff482f56795d9ae"
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "Construct a table of values and plot the parametric equations: $$x ( t ) = t - 3 ,$$ $$y ( t ) = 2 t + 4 ; - 1 \\le t \\le 2.$$",
+        "Image Links": [],
+        "Answer": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\n$$t$$ & $$x ( t )$$ & $$y ( t )$$ \\\\ \\hline\n$$- 1$$ & $$- 4$$ & $$2$$ \\\\ \\hline\n$$0$$ & $$- 3$$ & $$4$$ \\\\ \\hline\n$$1$$ & $$- 2$$ & $$6$$ \\\\ \\hline\n$$2$$ & $$- 1$$ & $$8$$ \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7d076e2e41ee124655ea757ed151221ca8490d88"
+        ]
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "Parameterize the curve given by $$x = y^{3} - 2 y .$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{a}x ( t ) = t^{3} - 2 t \\\\ y ( t ) = t\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "Given the equations below, eliminate the parameter and write as a rectangular equation for $$y$$ as a function of $$x .$$ $$\\left .\\begin{matrix}{a}x ( t ) = 2 t^{2} + 6 \\\\ y ( t ) = 5 - t\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$y = 5 - \\sqrt{\\frac{1}{2} x - 3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "Eliminate the parameter and write as a rectangular equation . $$\\left .\\begin{matrix}{a}x ( t ) = t^{2} \\\\ y ( t ) = \\ln{} t t > 0\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$y = \\ln{} \\sqrt{x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #5",
+        "Problem Statement": "",
+        "Question": "Eliminate the parameter from the given pair of parametric equations and write as a Cartesian equation: $$x ( t ) = 2 \\cos{} t$$ and $$y ( t ) = 3 \\sin{} t .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{x^{2}}{4} + \\frac{y^{2}}{9} = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #6",
+        "Problem Statement": "",
+        "Question": "Write the given parametric equations as a Cartesian equation: $$x ( t ) = t^{3}$$ and $$y ( t ) = t^{6} .$$",
+        "Image Links": [],
+        "Answer": "$$y = x^{2}$$",
+        "Answer Image Links": []
+    }
+]

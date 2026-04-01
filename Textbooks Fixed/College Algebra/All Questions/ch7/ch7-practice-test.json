@@ -1,0 +1,244 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "Is the following ordered pair a solution to the system of equations?",
+        "Question": "$$\\left .\\begin{matrix}{a} \\\\ \\left .\\begin{matrix}{a}- 5 x - y = 12 \\\\ x + 4 y = 9\\end{matrix}\\right .\\end{matrix}\\right .$$ with $$( - 3 , 3 )$$",
+        "Image Links": [],
+        "Answer": "Yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the systems of linear and nonlinear equations using substitution or elimination. Indicate if no solution exists.",
+        "Question": "$$\\left .\\begin{matrix}{a}\\frac{1}{2} x - \\frac{1}{3} y = 4 \\\\ \\frac{3}{2} x - y = 0\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the systems of linear and nonlinear equations using substitution or elimination. Indicate if no solution exists.",
+        "Question": "$$\\left .\\begin{matrix}{a} \\\\ - \\frac{1}{2} x - 4 y = 4 \\\\ 2 x + 16 y = 2\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "No solutions exist.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the systems of linear and nonlinear equations using substitution or elimination. Indicate if no solution exists.",
+        "Question": "$$\\left .\\begin{matrix}{a}5 x - y = 1 \\\\ - 10 x + 2 y = - 2\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the systems of linear and nonlinear equations using substitution or elimination. Indicate if no solution exists.",
+        "Question": "$$\\left .\\begin{matrix}{a}4 x - 6 y - 2 z = \\frac{1}{10} \\\\ x - 7 y + 5 z = - \\frac{1}{4} \\\\ 3 x + 6 y - 9 z = \\frac{6}{5}\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{20} ( 10 , 5 , 4 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the systems of linear and nonlinear equations using substitution or elimination. Indicate if no solution exists.",
+        "Question": "$$\\left .\\begin{matrix}{a}x + z = 20 \\\\ x + y + z = 20 \\\\ x + 2 y + z = 10\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the systems of linear and nonlinear equations using substitution or elimination. Indicate if no solution exists.",
+        "Question": "$$\\left .\\begin{matrix}{a}5 x - 4 y - 3 z = 0 \\\\ 2 x + y + 2 z = 0 \\\\ x - 6 y - 7 z = 0\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( x , \\frac{16 x}{5} - \\frac{13 x}{5} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the systems of linear and nonlinear equations using substitution or elimination. Indicate if no solution exists.",
+        "Question": "$$\\left .\\begin{matrix}{a}y = x^{2} + 2 x - 3 \\\\ y = x - 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve the systems of linear and nonlinear equations using substitution or elimination. Indicate if no solution exists.",
+        "Question": "$$\\left .\\begin{matrix}{a}y^{2} + x^{2} = 25 \\\\ y^{2} - 2 x^{2} = 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( - 2 \\sqrt{2} , - \\sqrt{17} ) , ( - 2 \\sqrt{2} , \\sqrt{17} ) , ( 2 \\sqrt{2} , - \\sqrt{17} ) , ( 2 \\sqrt{2} , \\sqrt{17} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, graph the following inequalities.",
+        "Question": "$$y < x^{2} + 9$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, graph the following inequalities.",
+        "Question": "$$\\left .\\begin{matrix}{a}x^{2} + y^{2} > 4 \\\\ y < x^{2} + 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b85b6c2dcd5befe6199e0f1b431effa8029ef635"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the partial fraction decomposition.",
+        "Question": "$$\\frac{- 8 x - 30}{x^{2} + 10 x + 25}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the partial fraction decomposition.",
+        "Question": "$$\\frac{13 x + 2}{( 3 x + 1 )^{2}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{5}{3 x + 1} - \\frac{2 x + 3}{( 3 x + 1 )^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the partial fraction decomposition.",
+        "Question": "$$\\frac{x^{4} - x^{3} + 2 x - 1}{x ( x^{2} + 1 )^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, perform the given matrix operations.",
+        "Question": "$$5 \\left [\\begin{matrix}4 & 9 \\\\ - 2 & 3\\end{matrix}\\right ] + \\frac{1}{2} \\left [\\begin{matrix}- 6 & 12 \\\\ 4 & - 8\\end{matrix}\\right ]$$",
+        "Image Links": [],
+        "Answer": "$$\\left [\\begin{matrix}17 & 51 \\\\ - 8 & 11\\end{matrix}\\right ]$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, perform the given matrix operations.",
+        "Question": "$$\\left [\\begin{matrix}1 & 4 & - 7 \\\\ - 2 & 9 & 5 \\\\ 12 & 0 & - 4\\end{matrix}\\right ] \\left [\\begin{matrix}3 & - 4 \\\\ 1 & 3 \\\\ 5 & 10\\end{matrix}\\right ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, perform the given matrix operations.",
+        "Question": "$$\\left [\\begin{matrix}\\frac{1}{2} & \\frac{1}{3} \\\\ \\frac{1}{4} & \\frac{1}{5}\\end{matrix}\\right ]^{- 1}$$",
+        "Image Links": [],
+        "Answer": "$$\\left [\\begin{matrix}12 & - 20 \\\\ - 15 & 30\\end{matrix}\\right ]$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, perform the given matrix operations.",
+        "Question": "$$\\det{\\left |\\begin{matrix}0 & 0 \\\\ 400 & 4 \\text{,} 000\\end{matrix}\\right |}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, perform the given matrix operations.",
+        "Question": "$$\\det{\\left |\\begin{matrix}\\frac{1}{2} & - \\frac{1}{2} & 0 \\\\ - \\frac{1}{2} & 0 & \\frac{1}{2} \\\\ 0 & \\frac{1}{2} & 0\\end{matrix}\\right |}$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{1}{8}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, perform the given matrix operations.",
+        "Question": "If $$\\det{(} A ) = -6 ,$$ what would be the determinant if you switched rows 1 and 3, multiplied the second row by 12, and took the inverse?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, perform the given matrix operations.",
+        "Question": "Rewrite the system of linear equations as an augmented matrix. $$\\left .\\begin{matrix}{a}14 x - 2 y + 13 z = 140 \\\\ - 2 x + 3 y - 6 z = - 1 \\\\ x - 5 y + 12 z = 11\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$[ \\left .\\begin{matrix}{aaa}14 & - 2 & 13 \\\\ - 2 & 3 & - 6 \\\\ 1 & - 5 & 12\\end{matrix}\\right . | \\left .\\begin{matrix}{a}140 \\\\ - 1 \\\\ 11\\end{matrix}\\right . ]$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, perform the given matrix operations.",
+        "Question": "Rewrite the augmented matrix as a system of linear equations. $$[ \\left .\\begin{matrix}{aaa}1 & 0 & 3 \\\\ - 2 & 4 & 9 \\\\ - 6 & 1 & 2\\end{matrix}\\right . | \\left .\\begin{matrix}{a}12 \\\\ - 5 \\\\ 8\\end{matrix}\\right . ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Gaussian elimination to solve the systems of equations.",
+        "Question": "$$\\left .\\begin{matrix}{a}x - 6 y = 4 \\\\ 2 x - 12 y = 0\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "No solutions exist.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Gaussian elimination to solve the systems of equations.",
+        "Question": "$$\\left .\\begin{matrix}{a}2 x + y + z = - 3 \\\\ x - 2 y + 3 z = 6 \\\\ x - y - z = 6\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the inverse of a matrix to solve the systems of equations.",
+        "Question": "$$\\left .\\begin{matrix}{a}4 x - 5 y = - 50 \\\\ - x + 2 y = 80\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( 100 , 90 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the inverse of a matrix to solve the systems of equations.",
+        "Question": "$$\\left .\\begin{matrix}{a}\\frac{1}{100} x - \\frac{3}{100} y + \\frac{1}{20} z = - 49 \\\\ \\frac{3}{100} x - \\frac{7}{100} y - \\frac{1}{100} z = 13 \\\\ \\frac{9}{100} x - \\frac{9}{100} y - \\frac{9}{100} z = 99\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Cramer\u2019s Rule to solve the systems of equations.",
+        "Question": "$$\\left .\\begin{matrix}{a}200 x - 300 y = 2 \\\\ 400 x + 715 y = 4\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( \\frac{1}{100} , 0 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Cramer\u2019s Rule to solve the systems of equations.",
+        "Question": "$$\\left .\\begin{matrix}{a}0.1 x + 0.1 y - 0.1 z = - 1.2 \\\\ 0.1 x - 0.2 y + 0.4 z = - 1.2 \\\\ 0.5 x - 0.3 y + 0.8 z = - 5.9\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve using a system of linear equations.",
+        "Question": "A factory producing cell phones has the following cost and revenue functions: $$C ( x ) = x^{2} + 75 x + 2 \\text{,} 688$$ and $$R ( x ) = x^{2} + 160 x .$$ What is the range of cell phones they should produce each day so there is profit? Round to the nearest number that generates profit.",
+        "Image Links": [],
+        "Answer": "32 or more cell phones per day",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, solve using a system of linear equations.",
+        "Question": "A small fair charges $1.50 for students, $1 for children, and $2 for adults. In one day, three times as many children as adults attended. A total of 800 tickets were sold for a total revenue of $1,050. How many of each type of ticket was sold?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

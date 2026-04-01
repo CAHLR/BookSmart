@@ -1,0 +1,146 @@
+[
+    {
+        "Topic": "3.1 Thermodynamic Systems",
+        "Problem Statement": "",
+        "Question": "Consider these scenarios and state whether work is done by the system on the environment (SE) or by the environment on the system (ES): (a) opening a carbonated beverage; (b) filling a flat tire; (c) a sealed empty gas can expands on a hot day, bowing out the walls.",
+        "Image Links": [],
+        "Answer": "a. SE; b. ES; c. ES",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.2 Work, Heat, and Internal Energy",
+        "Problem Statement": "",
+        "Question": "Is it possible to determine whether a change in internal energy is caused by heat transferred, by work performed, or by a combination of the two?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.2 Work, Heat, and Internal Energy",
+        "Problem Statement": "",
+        "Question": "When a liquid is vaporized, its change in internal energy is not equal to the heat added. Why?",
+        "Image Links": [],
+        "Answer": "Some of the energy goes into changing the phase of the liquid to gas.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.2 Work, Heat, and Internal Energy",
+        "Problem Statement": "",
+        "Question": "Why does a bicycle pump feel warm as you inflate your tire?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.2 Work, Heat, and Internal Energy",
+        "Problem Statement": "",
+        "Question": "Is it possible for the temperature of a system to remain constant when heat flows into or out of it? If so, give examples.",
+        "Image Links": [],
+        "Answer": "Yes, as long as the work done equals the heat added there will be no change in internal energy and thereby no change in temperature. When water freezes or when ice melts while removing or adding heat, respectively, the temperature remains constant.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.3 First Law of Thermodynamics",
+        "Problem Statement": "",
+        "Question": "What does the first law of thermodynamics tell us about the energy of the universe?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.3 First Law of Thermodynamics",
+        "Problem Statement": "",
+        "Question": "Does adding heat to a system always increase its internal energy?",
+        "Image Links": [],
+        "Answer": "If more work is done on the system than heat added, the internal energy of the system will actually decrease.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.3 First Law of Thermodynamics",
+        "Problem Statement": "",
+        "Question": "A great deal of effort, time, and money has been spent in the quest for a so-called perpetual-motion machine, which is defined as a hypothetical machine that operates or produces useful work indefinitely and/or a hypothetical machine that produces more work or energy than it consumes. Explain, in terms of the first law of thermodynamics, why or why not such a machine is likely to be constructed.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.4 Thermodynamic Processes",
+        "Problem Statement": "",
+        "Question": "When a gas expands isothermally, it does work. What is the source of energy needed to do this work?",
+        "Image Links": [],
+        "Answer": "The system must be in contact with a heat source that allows heat to flow into the system.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.4 Thermodynamic Processes",
+        "Problem Statement": "",
+        "Question": "If the pressure and volume of a system are given, is the temperature always uniquely determined?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.4 Thermodynamic Processes",
+        "Problem Statement": "",
+        "Question": "It is unlikely that a process can be isothermal unless it is a very slow process. Explain why. Is the same true for isobaric and isochoric processes? Explain your answer.",
+        "Image Links": [],
+        "Answer": "Isothermal processes must be slow to make sure that as heat is transferred, the temperature does not change. Even for isobaric and isochoric processes, the system must be in thermal equilibrium with slow changes of thermodynamic variables.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.5 Heat Capacities of an Ideal Gas",
+        "Problem Statement": "",
+        "Question": "How can an object transfer heat if the object does not possess a discrete quantity of heat?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.5 Heat Capacities of an Ideal Gas",
+        "Problem Statement": "",
+        "Question": "Most materials expand when heated. One notable exception is water between $$0 \\text{\u00b0} \\text{C}$$ and $$4 \\text{\u00b0} \\text{C,}$$ which actually decreases in volume with the increase in temperature. Which is greater for water in this temperature region, $$C_{p}$$ or $$C_{V}$$ ?",
+        "Image Links": [],
+        "Answer": "Typically $$C_{p}$$ is greater than $$C_{V}$$ because when expansion occurs under constant pressure, it does work on the surroundings. Therefore, heat can go into internal energy and work. Under constant volume, all heat goes into internal energy. In this example, water contracts upon heating, so if we add heat at constant pressure, work is done on the water by surroundings and therefore, $$C_{p}$$ is less than $$C_{V}$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.5 Heat Capacities of an Ideal Gas",
+        "Problem Statement": "",
+        "Question": "Why are there two specific heats for gases $$C_{p}$$ and $$C_{V}$$ , yet only one given for solid?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.6 Adiabatic Processes for an Ideal Gas",
+        "Problem Statement": "",
+        "Question": "Is it possible for $$\\text{gamma}$$ to be smaller than unity?",
+        "Image Links": [],
+        "Answer": "No, it is always greater than 1.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.6 Adiabatic Processes for an Ideal Gas",
+        "Problem Statement": "",
+        "Question": "Would you expect $$\\text{gamma}$$ to be larger for a gas or a solid? Explain.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.6 Adiabatic Processes for an Ideal Gas",
+        "Problem Statement": "",
+        "Question": "There is no change in the internal energy of an ideal gas undergoing an isothermal process since the internal energy depends only on the temperature. Is it therefore correct to say that an isothermal process is the same as an adiabatic process for an ideal gas? Explain your answer.",
+        "Image Links": [],
+        "Answer": "An adiabatic process has a change in temperature but no heat flow. The isothermal process has no change in temperature but has heat flow.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.6 Adiabatic Processes for an Ideal Gas",
+        "Problem Statement": "",
+        "Question": "Does a gas do any work when it expands adiabatically? If so, what is the source of the energy needed to do this work?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

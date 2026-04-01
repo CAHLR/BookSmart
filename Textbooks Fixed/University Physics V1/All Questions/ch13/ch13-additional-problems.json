@@ -1,0 +1,178 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A neutron star is a cold, collapsed star with nuclear density. A particular neutron star has a mass twice that of our Sun with a radius of 12.0 km. (a) What would be the weight of a 100-kg astronaut on standing on its surface? (b) What does this tell us about landing on a neutron star?",
+        "Image Links": [],
+        "Answer": "a. $$1.85 \\times 10^{14} \\text{N}$$ ; b. Don\u2019t do it!",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "(a) How far from the center of Earth would the net gravitational force of Earth and the Moon on an object be zero? (b) Setting the magnitudes of the forces equal should result in two answers from the quadratic. Do you understand why there are two positions, but only one where the net force is zero?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "How far from the center of the Sun would the net gravitational force of Earth and the Sun on a spaceship be zero?",
+        "Image Links": [],
+        "Answer": "$$1.49 \\times 10^{8} \\text{km}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Calculate the values of g at Earth\u2019s surface for the following changes in Earth\u2019s properties: (a) its mass is doubled and its radius is halved; (b) its mass density is doubled and its radius is unchanged; (c) its mass density is halved and its mass is unchanged.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Suppose you can communicate with the inhabitants of a planet in another solar system. They tell you that on their planet, whose diameter and mass are $$5.0 \\times 10^{3} \\text{km}$$ and $$3.6 \\times 10^{23} \\text{kg}$$ , respectively, the record for the high jump is 2.0 m. Given that this record is close to 2.4 m on Earth, what would you conclude about your extraterrestrial friends\u2019 jumping ability?",
+        "Image Links": [],
+        "Answer": "The value of g for this planet is 3.8 m/s^2, which is about one-fourth that of Earth. So they are weak high jumpers.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "(a) Suppose that your measured weight at the equator is one-half your measured weight at the pole on a planet whose mass and diameter are equal to those of Earth. What is the rotational period of the planet? (b) Would you need to take the shape of this planet into account?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A body of mass 100 kg is weighed at the North Pole and at the equator with a spring scale. What is the scale reading at these two points? Assume that $$g = 9.83 \\text{m/s}^{2}$$ at the pole.",
+        "Image Links": [],
+        "Answer": "At the North Pole, 983 N; at the equator, 980 N",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Find the speed needed to escape from the solar system starting from the surface of Earth. Assume there are no other bodies involved and do not account for the fact that Earth is moving in its orbit. [ Hint: Equation 13.6 does not apply. Use Equation 13.5 and include the potential energy of both Earth and the Sun.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Consider the previous problem and include the fact that Earth has an orbital speed about the Sun of 29.8 km/s. (a) What speed relative to Earth would be needed and in what direction should you leave Earth? (b) What will be the shape of the trajectory?",
+        "Image Links": [],
+        "Answer": "a. The escape velocity is still 43.6 km/s. By launching from Earth in the direction of Earth\u2019s tangential velocity, you need $$43.4 - 29.8 = 13.8 \\text{km/s}$$ relative to Earth. b. The total energy is zero and the trajectory is a parabola.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A comet is observed 1.50 AU from the Sun with a speed of 24.3 km/s. Is this comet in a bound or unbound orbit?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "An asteroid has speed 15.5 km/s when it is located 2.00 AU from the sun. At its closest approach, it is 0.400 AU from the Sun. What is its speed at that point?",
+        "Image Links": [],
+        "Answer": "61.5 km/s",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Space debris left from old satellites and their launchers is becoming a hazard to other satellites. (a) Calculate the speed of a satellite in an orbit 900 km above Earth\u2019s surface. (b) Suppose a loose rivet is in an orbit of the same radius that intersects the satellite\u2019s orbit at an angle of $$90 \\text{\u00b0}$$ . What is the velocity of the rivet relative to the satellite just before striking it? (c) If its mass is 0.500 g, and it comes to rest inside the satellite, how much energy in joules is generated by the collision? (Assume the satellite\u2019s velocity does not change appreciably, because its mass is much greater than the rivet\u2019s.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A satellite of mass 1000 kg is in circular orbit about Earth. The radius of the orbit of the satellite is equal to two times the radius of Earth. (a) How far away is the satellite? (b) Find the kinetic, potential, and total energies of the satellite.",
+        "Image Links": [],
+        "Answer": "a. $$1.3 \\times 10^{7} \\text{m}$$ ; b. $$1.56 \\times 10^{1 0} \\text{J}$$ ; $$\\text{unicode[:-]} 3.12 \\times 10^{1 0} \\text{J}$$ ; $$-1.56 \\times 10^{1 0} \\text{J}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "After Ceres was promoted to a dwarf planet, we now recognize the largest known asteroid to be Vesta, with a mass of $$2.67 \\times 10^{20} \\text{kg}$$ and a diameter ranging from 458 km to 578 km. Assuming that Vesta is spherical with radius 520 km, find the approximate escape velocity from its surface.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "(a) Given the asteroid Vesta which has a diameter of 520 km and mass of $$2.67 \\times 10^{20} \\text{kg}$$ , what would be the orbital period for a space probe in a circular orbit of 10.0 km from its surface? (b) Why is this calculation marginally useful at best?",
+        "Image Links": [],
+        "Answer": "a. $$6.24 \\times 10^{3} \\text{s}$$ or about 1.8 hours. This was using the 520 km average diameter. b. Vesta is clearly not very spherical, so you would need to be above the largest dimension, nearly 580 km. More importantly, the nonspherical nature would disturb the orbit very quickly, so this calculation would not be very accurate even for one orbit.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "What is the orbital velocity of our solar system about the center of the Milky Way? Assume that the mass within a sphere of radius equal to our distance away from the center is about a 100 billion solar masses. Our distance from the center is 27,000 light years.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "(a) Using the information in the previous problem, what velocity do you need to escape the Milky Way galaxy from our present position? (b) Would you need to accelerate a spaceship to this speed relative to Earth?",
+        "Image Links": [],
+        "Answer": "a. 323 km/s; b. No, you need only the difference between the solar system\u2019s orbital speed and escape speed, so about $$323 - 228 = 95 \\text{km/s}$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Circular orbits in Equation 13.10 for conic sections must have eccentricity zero. From this, and using Newton\u2019s second law applied to centripetal acceleration, show that the value of $$\\alpha$$ in Equation 13.10 is given by $$\\alpha = \\frac{L^{2}}{\\text{G} M m^{2}}$$ where L is the angular momentum of the orbiting body. The value of $$\\alpha$$ is constant and given by this expression regardless of the type of orbit.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Show that for eccentricity equal to one in Equation 13.10 for conic sections, the path is a parabola. Do this by substituting Cartesian coordinates, x and y , for the polar coordinates, r and $$\\theta$$ , and showing that it has the general form for a parabola, $$x = a y^{2} + b y + c$$ .",
+        "Image Links": [],
+        "Answer": "Setting $$e = 1$$ , we have $$\\frac{\\alpha}{r} = 1 + \\text{cos} \\theta \\vec{} \\alpha = r + r \\text{cos} \\theta = r + x$$ ; hence, $$r^{2} = x^{2} + y^{2} = ( \\alpha - x )^{2}$$ . Expand and collect to show $$x = \\frac{1}{-2 \\alpha} y^{2} + \\frac{\\alpha}{2}$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Using the technique shown in Satellite Orbits and Energy, show that two masses $$m_{1}$$ and $$m_{2}$$ in circular orbits about their common center of mass, will have total energy $$E = K + E = K_{1} + K_{2} - \\frac{G m_{1} m_{2}}{r^{}} = - \\frac{G m_{1} m_{2}}{2 r^{}}$$ . We have shown the kinetic energy of both masses explicitly. ( Hint: The masses orbit at radii $$r_{1}$$ and $$r_{2}$$ , respectively, where $$r = r_{1} + r_{2}$$ . Be sure not to confuse the radius needed for centripetal acceleration with that for the gravitational force.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Given the perihelion distance, p , and aphelion distance, q , for an elliptical orbit, show that the velocity at perihelion, $$v_{p}$$ , is given by $$v_{p} = \\sqrt{\\frac{2 G M_{\\text{Sun}}}{( q + p )} \\frac{q}{p}}$$ . ( Hint: Use conservation of angular momentum to relate $$v_{p}$$ and $$v_{q}$$ , and then substitute into the conservation of energy equation.)",
+        "Image Links": [],
+        "Answer": "Substitute directly into the energy equation using $$p v_{p} = q v_{q}$$ from conservation of angular momentum, and solve for $$v_{p}$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Comet P/1999 R1 has a perihelion of 0.0570 AU and aphelion of 4.99 AU. Using the results of the previous problem, find its speed at aphelion. ( Hint: The expression is for the perihelion. Use symmetry to rewrite the expression for aphelion.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

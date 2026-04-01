@@ -1,0 +1,552 @@
+[
+    {
+        "Topic": "11.1 Facts About the Chi-Square Distribution",
+        "Problem Statement": "",
+        "Question": "If the number of degrees of freedom for a chi-square distribution is 25, what is the population mean and standard deviation?",
+        "Image Links": [],
+        "Answer": "mean = 25 and standard deviation = 7.0711",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.1 Facts About the Chi-Square Distribution",
+        "Problem Statement": "",
+        "Question": "If df > 90, the distribution is _____________. If df = 15, the distribution is ________________.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.1 Facts About the Chi-Square Distribution",
+        "Problem Statement": "",
+        "Question": "When does the chi-square curve approximate a normal distribution?",
+        "Image Links": [],
+        "Answer": "when the number of degrees of freedom is greater than 90",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.1 Facts About the Chi-Square Distribution",
+        "Problem Statement": "",
+        "Question": "Where is \u03bc located on a chi-square curve?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.1 Facts About the Chi-Square Distribution",
+        "Problem Statement": "",
+        "Question": "Is it more likely the df is 90, 20, or 2 in the graph? Figure 11.13",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/53c1804255e2a4008014a021cf3d7f68f679cf10"
+        ],
+        "Answer": "df = 2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Goodness-of-Fit Test",
+        "Problem Statement": "Determine the appropriate test to be used  in the next three exercises.",
+        "Question": "An archeologist is calculating the distribution of the frequency of the number of artifacts she finds in a dig site. Based on previous digs, the archeologist creates an expected distribution broken down by grid sections in the dig site. Once the site has been fully excavated, she compares the actual number of artifacts found in each grid section to see if her expectation was accurate.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Goodness-of-Fit Test",
+        "Problem Statement": "Determine the appropriate test to be used  in the next three exercises.",
+        "Question": "An economist is deriving a model to predict outcomes on the stock market. He creates a list of expected points on the stock market index for the next two weeks. At the close of each day\u2019s trading, he records the actual points on the index. He wants to see how well his model matched what actually happened.",
+        "Image Links": [],
+        "Answer": "a goodness-of-fit test",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Goodness-of-Fit Test",
+        "Problem Statement": "Determine the appropriate test to be used  in the next three exercises.",
+        "Question": "A personal trainer is putting together a weight-lifting program for her clients. For a 90-day program, she expects each client to lift a specific maximum weight each week. As she goes along, she records the actual maximum weights her clients lifted. She wants to know how well her expectations met with what was observed.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Goodness-of-Fit Test",
+        "Problem Statement": "Use the following information to answer the next five exercises. A teacher predicts the distribution of grades on the final exam. The predictions are shown in Table 11.27 . Grade Proportion A 0.25 B 0.30 C 0.35 D 0.10 Table 11.27 The actual distribution for a class of 20 is in Table 11.28 . Grade Frequency A 7 B 7 C 5 D 1 Table 11.28",
+        "Question": "$$d f =$$ ______",
+        "Image Links": [],
+        "Answer": "3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Goodness-of-Fit Test",
+        "Problem Statement": "Use the following information to answer the next five exercises. A teacher predicts the distribution of grades on the final exam. The predictions are shown in Table 11.27 . Grade Proportion A 0.25 B 0.30 C 0.35 D 0.10 Table 11.27 The actual distribution for a class of 20 is in Table 11.28 . Grade Frequency A 7 B 7 C 5 D 1 Table 11.28",
+        "Question": "State the null and alternative hypotheses.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Goodness-of-Fit Test",
+        "Problem Statement": "Use the following information to answer the next five exercises. A teacher predicts the distribution of grades on the final exam. The predictions are shown in Table 11.27 . Grade Proportion A 0.25 B 0.30 C 0.35 D 0.10 Table 11.27 The actual distribution for a class of 20 is in Table 11.28 . Grade Frequency A 7 B 7 C 5 D 1 Table 11.28",
+        "Question": "\u03c7 2 test statistic = ______",
+        "Image Links": [],
+        "Answer": "2.04",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Goodness-of-Fit Test",
+        "Problem Statement": "Use the following information to answer the next five exercises. A teacher predicts the distribution of grades on the final exam. The predictions are shown in Table 11.27 . Grade Proportion A 0.25 B 0.30 C 0.35 D 0.10 Table 11.27 The actual distribution for a class of 20 is in Table 11.28 . Grade Frequency A 7 B 7 C 5 D 1 Table 11.28",
+        "Question": "p -value = ______",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Goodness-of-Fit Test",
+        "Problem Statement": "Use the following information to answer the next five exercises. A teacher predicts the distribution of grades on the final exam. The predictions are shown in Table 11.27 . Grade Proportion A 0.25 B 0.30 C 0.35 D 0.10 Table 11.27 The actual distribution for a class of 20 is in Table 11.28 . Grade Frequency A 7 B 7 C 5 D 1 Table 11.28",
+        "Question": "At the 5 percent significance level, what can you conclude?",
+        "Image Links": [],
+        "Answer": "We decline to reject the null hypothesis. There is not enough evidence to suggest that the observed test scores are significantly different from the expected test scores.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Goodness-of-Fit Test",
+        "Problem Statement": "Use the following information to answer the next nine exercises. The cumulative number of cases of a chronic disease reported for Santa Clara County is broken down by ethnicity as in Table 11.29 . Ethnicity Number of Cases White 2,229 Hispanic 1,157 Black/African American 457 Asian, Pacific Islander 232 Total = 4,075 Table 11.29 The percentage of each ethnic group in Santa Clara County is as in Table 11.30 . Ethnicity % of Total County Population Number\n              Expected (round to two decimal places) White 42.9% 1,748.18 Hispanic 26.7% Black/African American 2.6% Asian, Pacific Islander 27.8% Total = 100% Table 11.30",
+        "Question": "If the ethnicities of patients followed the ethnicities of the total county population, fill in the expected number of cases per ethnic group. Perform a goodness-of-fit test to determine whether the occurrence of disease cases follows the ethnicities of the general population of Santa Clara County.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Goodness-of-Fit Test",
+        "Problem Statement": "Use the following information to answer the next nine exercises. The cumulative number of cases of a chronic disease reported for Santa Clara County is broken down by ethnicity as in Table 11.29 . Ethnicity Number of Cases White 2,229 Hispanic 1,157 Black/African American 457 Asian, Pacific Islander 232 Total = 4,075 Table 11.29 The percentage of each ethnic group in Santa Clara County is as in Table 11.30 . Ethnicity % of Total County Population Number\n              Expected (round to two decimal places) White 42.9% 1,748.18 Hispanic 26.7% Black/African American 2.6% Asian, Pacific Islander 27.8% Total = 100% Table 11.30",
+        "Question": "H 0 : _______",
+        "Image Links": [],
+        "Answer": "H 0 : the distribution of disease cases follows the ethnicities of the general population of Santa Clara County.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Goodness-of-Fit Test",
+        "Problem Statement": "Use the following information to answer the next nine exercises. The cumulative number of cases of a chronic disease reported for Santa Clara County is broken down by ethnicity as in Table 11.29 . Ethnicity Number of Cases White 2,229 Hispanic 1,157 Black/African American 457 Asian, Pacific Islander 232 Total = 4,075 Table 11.29 The percentage of each ethnic group in Santa Clara County is as in Table 11.30 . Ethnicity % of Total County Population Number\n              Expected (round to two decimal places) White 42.9% 1,748.18 Hispanic 26.7% Black/African American 2.6% Asian, Pacific Islander 27.8% Total = 100% Table 11.30",
+        "Question": "H a : _______",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Goodness-of-Fit Test",
+        "Problem Statement": "Use the following information to answer the next nine exercises. The cumulative number of cases of a chronic disease reported for Santa Clara County is broken down by ethnicity as in Table 11.29 . Ethnicity Number of Cases White 2,229 Hispanic 1,157 Black/African American 457 Asian, Pacific Islander 232 Total = 4,075 Table 11.29 The percentage of each ethnic group in Santa Clara County is as in Table 11.30 . Ethnicity % of Total County Population Number\n              Expected (round to two decimal places) White 42.9% 1,748.18 Hispanic 26.7% Black/African American 2.6% Asian, Pacific Islander 27.8% Total = 100% Table 11.30",
+        "Question": "Is this a right-tailed, left-tailed, or two-tailed test?",
+        "Image Links": [],
+        "Answer": "right-tailed",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Goodness-of-Fit Test",
+        "Problem Statement": "Use the following information to answer the next nine exercises. The cumulative number of cases of a chronic disease reported for Santa Clara County is broken down by ethnicity as in Table 11.29 . Ethnicity Number of Cases White 2,229 Hispanic 1,157 Black/African American 457 Asian, Pacific Islander 232 Total = 4,075 Table 11.29 The percentage of each ethnic group in Santa Clara County is as in Table 11.30 . Ethnicity % of Total County Population Number\n              Expected (round to two decimal places) White 42.9% 1,748.18 Hispanic 26.7% Black/African American 2.6% Asian, Pacific Islander 27.8% Total = 100% Table 11.30",
+        "Question": "degrees of freedom = _______",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Goodness-of-Fit Test",
+        "Problem Statement": "Use the following information to answer the next nine exercises. The cumulative number of cases of a chronic disease reported for Santa Clara County is broken down by ethnicity as in Table 11.29 . Ethnicity Number of Cases White 2,229 Hispanic 1,157 Black/African American 457 Asian, Pacific Islander 232 Total = 4,075 Table 11.29 The percentage of each ethnic group in Santa Clara County is as in Table 11.30 . Ethnicity % of Total County Population Number\n              Expected (round to two decimal places) White 42.9% 1,748.18 Hispanic 26.7% Black/African American 2.6% Asian, Pacific Islander 27.8% Total = 100% Table 11.30",
+        "Question": "\u03c7 2 test statistic = _______",
+        "Image Links": [],
+        "Answer": "2016.136",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Goodness-of-Fit Test",
+        "Problem Statement": "Use the following information to answer the next nine exercises. The cumulative number of cases of a chronic disease reported for Santa Clara County is broken down by ethnicity as in Table 11.29 . Ethnicity Number of Cases White 2,229 Hispanic 1,157 Black/African American 457 Asian, Pacific Islander 232 Total = 4,075 Table 11.29 The percentage of each ethnic group in Santa Clara County is as in Table 11.30 . Ethnicity % of Total County Population Number\n              Expected (round to two decimal places) White 42.9% 1,748.18 Hispanic 26.7% Black/African American 2.6% Asian, Pacific Islander 27.8% Total = 100% Table 11.30",
+        "Question": "p -value = _______",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Goodness-of-Fit Test",
+        "Problem Statement": "Use the following information to answer the next nine exercises. The cumulative number of cases of a chronic disease reported for Santa Clara County is broken down by ethnicity as in Table 11.29 . Ethnicity Number of Cases White 2,229 Hispanic 1,157 Black/African American 457 Asian, Pacific Islander 232 Total = 4,075 Table 11.29 The percentage of each ethnic group in Santa Clara County is as in Table 11.30 . Ethnicity % of Total County Population Number\n              Expected (round to two decimal places) White 42.9% 1,748.18 Hispanic 26.7% Black/African American 2.6% Asian, Pacific Islander 27.8% Total = 100% Table 11.30",
+        "Question": "Graph the situation. Label and scale the horizontal axis. Mark the mean and test statistic. Shade in the region corresponding to the p -value. Figure 11.14 Let \u03b1 = 0.05. Decision: ________________ Reason for the decision: ________________ Conclusion (write out in complete sentences): ________________",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/dcd7acc5fff00f718646058df734591a5b4d8aeb"
+        ],
+        "Answer": "Graph: Check student\u2019s solution. Decision: Reject the null hypothesis. Reason for decision: p -value < alpha Conclusion: The make-up of cases does not fit the ethnicities of the general population of Santa Clara County.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Goodness-of-Fit Test",
+        "Problem Statement": "Use the following information to answer the next nine exercises. The cumulative number of cases of a chronic disease reported for Santa Clara County is broken down by ethnicity as in Table 11.29 . Ethnicity Number of Cases White 2,229 Hispanic 1,157 Black/African American 457 Asian, Pacific Islander 232 Total = 4,075 Table 11.29 The percentage of each ethnic group in Santa Clara County is as in Table 11.30 . Ethnicity % of Total County Population Number\n              Expected (round to two decimal places) White 42.9% 1,748.18 Hispanic 26.7% Black/African American 2.6% Asian, Pacific Islander 27.8% Total = 100% Table 11.30",
+        "Question": "Does it appear that the pattern of disease cases in Santa Clara County corresponds to the distribution of ethnic groups in this county? Why or why not?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Test of Independence",
+        "Problem Statement": "Determine the appropriate test to be used  in the next three exercises.",
+        "Question": "A pharmaceutical company is interested in the relationship between age and presentation of symptoms for a common viral infection. A random sample is taken of 500 people with the infection across different age groups.",
+        "Image Links": [],
+        "Answer": "a test of independence",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Test of Independence",
+        "Problem Statement": "Determine the appropriate test to be used  in the next three exercises.",
+        "Question": "The owner of a baseball team is interested in the relationship between player salaries and team winning percentage. He takes a random sample of 100 players from different organizations.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Test of Independence",
+        "Problem Statement": "Determine the appropriate test to be used  in the next three exercises.",
+        "Question": "A marathon runner is interested in the relationship between the brand of shoes runners wear and their run times. She takes a random sample of 50 runners and records their run times and the brand of shoes they were wearing.",
+        "Image Links": [],
+        "Answer": "a test of independence",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Test of Independence",
+        "Problem Statement": "Use the following information to answer the next seven exercises: Transit Railroads is interested in the relationship between travel distance and the ticket class purchased. A random sample of 200 passengers is taken. Table 11.31 shows the results. The railroad wants to know if a passenger\u2019s choice in ticket class is independent of the distance the passenger must travel. Traveling Distance Third Class Second Class First Class Total 1-100 miles 21 14 6 41 101-200 miles 18 16 8 42 201-300 miles 16 17 15 48 301-400 miles 12 14 21 47 401-500 miles 6 6 10 22 Total 73 67 60 200 Table 11.31",
+        "Question": "State the hypotheses. H 0 : _______ H a : _______",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Test of Independence",
+        "Problem Statement": "Use the following information to answer the next seven exercises: Transit Railroads is interested in the relationship between travel distance and the ticket class purchased. A random sample of 200 passengers is taken. Table 11.31 shows the results. The railroad wants to know if a passenger\u2019s choice in ticket class is independent of the distance the passenger must travel. Traveling Distance Third Class Second Class First Class Total 1-100 miles 21 14 6 41 101-200 miles 18 16 8 42 201-300 miles 16 17 15 48 301-400 miles 12 14 21 47 401-500 miles 6 6 10 22 Total 73 67 60 200 Table 11.31",
+        "Question": "df = _______",
+        "Image Links": [],
+        "Answer": "8",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Test of Independence",
+        "Problem Statement": "Use the following information to answer the next seven exercises: Transit Railroads is interested in the relationship between travel distance and the ticket class purchased. A random sample of 200 passengers is taken. Table 11.31 shows the results. The railroad wants to know if a passenger\u2019s choice in ticket class is independent of the distance the passenger must travel. Traveling Distance Third Class Second Class First Class Total 1-100 miles 21 14 6 41 101-200 miles 18 16 8 42 201-300 miles 16 17 15 48 301-400 miles 12 14 21 47 401-500 miles 6 6 10 22 Total 73 67 60 200 Table 11.31",
+        "Question": "How many passengers are expected to travel between 201 and 300 miles and purchase second-class tickets?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Test of Independence",
+        "Problem Statement": "Use the following information to answer the next seven exercises: Transit Railroads is interested in the relationship between travel distance and the ticket class purchased. A random sample of 200 passengers is taken. Table 11.31 shows the results. The railroad wants to know if a passenger\u2019s choice in ticket class is independent of the distance the passenger must travel. Traveling Distance Third Class Second Class First Class Total 1-100 miles 21 14 6 41 101-200 miles 18 16 8 42 201-300 miles 16 17 15 48 301-400 miles 12 14 21 47 401-500 miles 6 6 10 22 Total 73 67 60 200 Table 11.31",
+        "Question": "How many passengers are expected to travel between 401 and 500 miles and purchase first-class tickets?",
+        "Image Links": [],
+        "Answer": "6.6",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Test of Independence",
+        "Problem Statement": "Use the following information to answer the next seven exercises: Transit Railroads is interested in the relationship between travel distance and the ticket class purchased. A random sample of 200 passengers is taken. Table 11.31 shows the results. The railroad wants to know if a passenger\u2019s choice in ticket class is independent of the distance the passenger must travel. Traveling Distance Third Class Second Class First Class Total 1-100 miles 21 14 6 41 101-200 miles 18 16 8 42 201-300 miles 16 17 15 48 301-400 miles 12 14 21 47 401-500 miles 6 6 10 22 Total 73 67 60 200 Table 11.31",
+        "Question": "What is the test statistic?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Test of Independence",
+        "Problem Statement": "Use the following information to answer the next seven exercises: Transit Railroads is interested in the relationship between travel distance and the ticket class purchased. A random sample of 200 passengers is taken. Table 11.31 shows the results. The railroad wants to know if a passenger\u2019s choice in ticket class is independent of the distance the passenger must travel. Traveling Distance Third Class Second Class First Class Total 1-100 miles 21 14 6 41 101-200 miles 18 16 8 42 201-300 miles 16 17 15 48 301-400 miles 12 14 21 47 401-500 miles 6 6 10 22 Total 73 67 60 200 Table 11.31",
+        "Question": "What is the p -value?",
+        "Image Links": [],
+        "Answer": "0.0435",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Test of Independence",
+        "Problem Statement": "Use the following information to answer the next seven exercises: Transit Railroads is interested in the relationship between travel distance and the ticket class purchased. A random sample of 200 passengers is taken. Table 11.31 shows the results. The railroad wants to know if a passenger\u2019s choice in ticket class is independent of the distance the passenger must travel. Traveling Distance Third Class Second Class First Class Total 1-100 miles 21 14 6 41 101-200 miles 18 16 8 42 201-300 miles 16 17 15 48 301-400 miles 12 14 21 47 401-500 miles 6 6 10 22 Total 73 67 60 200 Table 11.31",
+        "Question": "What can you conclude at the 5 percent level of significance?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Test of Independence",
+        "Problem Statement": "Use the following information to answer the next ten exercises. An article in the New England Journal of Medicine discussed a study on people who used a certain product in California and Hawaii. In one part of the report, the self-reported ethnicity and product-use levels per day were given. Of the people using the product at most 10 times per day, there were 9,886 African Americans, 2,745 Native Hawaiians, 12,831 Latinos, 8,378 Japanese Americans, and 7,650 whites. Of the people using the product 11 to 20 times per day, there were 6,514 African Americans, 3,062 Native Hawaiians, 4,932 Latinos, 10,680 Japanese Americans, and 9,877 whites. Of the people using the product 21 to 30 times per day, there were 1,671 African Americans, 1,419 Native Hawaiians, 1,406 Latinos, 4,715 Japanese Americans, and 6,062 whites. Of the people using the product at least 31 times per day, there were 759 African Americans, 788 Native Hawaiians, 800 Latinos, 2,305 Japanese Americans, and 3,970 whites.",
+        "Question": "Complete the table. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\hline\nProduct use Per Day & African American & Native Hawaiian & Latino & Japanese American & White & TOTALS \\\\ \\hline\n1-10 &  &  &  &  &  &  \\\\ \\hline\n11-20 &  &  &  &  &  &  \\\\ \\hline\n21-30 &  &  &  &  &  &  \\\\ \\hline\n31+ &  &  &  &  &  &  \\\\ \\hline\nTOTALS &  &  &  &  &  &  \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\hline\nProduct-use Per Day & African American & Native Hawaiian & Latino & Japanese Americans & White & Totals \\\\ \\hline\n1-10 & 9,886 & 2,745 & 12,831 & 8,378 & 7,650 & 41,490 \\\\ \\hline\n11-20 & 6,514 & 3,062 & 4,932 & 10,680 & 9,877 & 35,065 \\\\ \\hline\n21-30 & 1,671 & 1,419 & 1,406 & 4,715 & 6,062 & 15,273 \\\\ \\hline\n31+ & 759 & 788 & 800 & 2,305 & 3,970 & 8,622 \\\\ \\hline\nTotals & 18,830 & 8,014 & 19,969 & 26,078 & 27,559 & 10,0450 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Test of Independence",
+        "Problem Statement": "Use the following information to answer the next ten exercises. An article in the New England Journal of Medicine discussed a study on people who used a certain product in California and Hawaii. In one part of the report, the self-reported ethnicity and product-use levels per day were given. Of the people using the product at most 10 times per day, there were 9,886 African Americans, 2,745 Native Hawaiians, 12,831 Latinos, 8,378 Japanese Americans, and 7,650 whites. Of the people using the product 11 to 20 times per day, there were 6,514 African Americans, 3,062 Native Hawaiians, 4,932 Latinos, 10,680 Japanese Americans, and 9,877 whites. Of the people using the product 21 to 30 times per day, there were 1,671 African Americans, 1,419 Native Hawaiians, 1,406 Latinos, 4,715 Japanese Americans, and 6,062 whites. Of the people using the product at least 31 times per day, there were 759 African Americans, 788 Native Hawaiians, 800 Latinos, 2,305 Japanese Americans, and 3,970 whites.",
+        "Question": "State the hypotheses. H 0 : _______ H a : _______",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Test of Independence",
+        "Problem Statement": "Use the following information to answer the next ten exercises. An article in the New England Journal of Medicine discussed a study on people who used a certain product in California and Hawaii. In one part of the report, the self-reported ethnicity and product-use levels per day were given. Of the people using the product at most 10 times per day, there were 9,886 African Americans, 2,745 Native Hawaiians, 12,831 Latinos, 8,378 Japanese Americans, and 7,650 whites. Of the people using the product 11 to 20 times per day, there were 6,514 African Americans, 3,062 Native Hawaiians, 4,932 Latinos, 10,680 Japanese Americans, and 9,877 whites. Of the people using the product 21 to 30 times per day, there were 1,671 African Americans, 1,419 Native Hawaiians, 1,406 Latinos, 4,715 Japanese Americans, and 6,062 whites. Of the people using the product at least 31 times per day, there were 759 African Americans, 788 Native Hawaiians, 800 Latinos, 2,305 Japanese Americans, and 3,970 whites.",
+        "Question": "Enter expected values in Table 11.32 . Round to two decimal places. Calculate the following values.",
+        "Image Links": [],
+        "Answer": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\nProduct Use Per Day & African American & Native Hawaiian & Latino & Japanese Americans & White \\\\ \\hline\n1-10 & 7,777.57 & 3,310.11 & 8,248.02 & 10,771.29 & 11,383.01 \\\\ \\hline\n11-20 & 6,573.16 & 2797.52 & 6970.76 & 9,103.29 & 9,620.27 \\\\ \\hline\n21-30 & 2,863.02 & 1,218.49 & 3,036.20 & 3,965.05 & 4,190.23 \\\\ \\hline\n31+ & 1,616.25 & 687.87 & 1,714.01 & 2,238.37 & 2,365.49 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Test of Independence",
+        "Problem Statement": "Use the following information to answer the next ten exercises. An article in the New England Journal of Medicine discussed a study on people who used a certain product in California and Hawaii. In one part of the report, the self-reported ethnicity and product-use levels per day were given. Of the people using the product at most 10 times per day, there were 9,886 African Americans, 2,745 Native Hawaiians, 12,831 Latinos, 8,378 Japanese Americans, and 7,650 whites. Of the people using the product 11 to 20 times per day, there were 6,514 African Americans, 3,062 Native Hawaiians, 4,932 Latinos, 10,680 Japanese Americans, and 9,877 whites. Of the people using the product 21 to 30 times per day, there were 1,671 African Americans, 1,419 Native Hawaiians, 1,406 Latinos, 4,715 Japanese Americans, and 6,062 whites. Of the people using the product at least 31 times per day, there were 759 African Americans, 788 Native Hawaiians, 800 Latinos, 2,305 Japanese Americans, and 3,970 whites.",
+        "Question": "df = _______",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Test of Independence",
+        "Problem Statement": "Use the following information to answer the next ten exercises. An article in the New England Journal of Medicine discussed a study on people who used a certain product in California and Hawaii. In one part of the report, the self-reported ethnicity and product-use levels per day were given. Of the people using the product at most 10 times per day, there were 9,886 African Americans, 2,745 Native Hawaiians, 12,831 Latinos, 8,378 Japanese Americans, and 7,650 whites. Of the people using the product 11 to 20 times per day, there were 6,514 African Americans, 3,062 Native Hawaiians, 4,932 Latinos, 10,680 Japanese Americans, and 9,877 whites. Of the people using the product 21 to 30 times per day, there were 1,671 African Americans, 1,419 Native Hawaiians, 1,406 Latinos, 4,715 Japanese Americans, and 6,062 whites. Of the people using the product at least 31 times per day, there were 759 African Americans, 788 Native Hawaiians, 800 Latinos, 2,305 Japanese Americans, and 3,970 whites.",
+        "Question": "$$\\chi^{\\text{2}}$$ test statistic = ______",
+        "Image Links": [],
+        "Answer": "10,301.8",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Test of Independence",
+        "Problem Statement": "Use the following information to answer the next ten exercises. An article in the New England Journal of Medicine discussed a study on people who used a certain product in California and Hawaii. In one part of the report, the self-reported ethnicity and product-use levels per day were given. Of the people using the product at most 10 times per day, there were 9,886 African Americans, 2,745 Native Hawaiians, 12,831 Latinos, 8,378 Japanese Americans, and 7,650 whites. Of the people using the product 11 to 20 times per day, there were 6,514 African Americans, 3,062 Native Hawaiians, 4,932 Latinos, 10,680 Japanese Americans, and 9,877 whites. Of the people using the product 21 to 30 times per day, there were 1,671 African Americans, 1,419 Native Hawaiians, 1,406 Latinos, 4,715 Japanese Americans, and 6,062 whites. Of the people using the product at least 31 times per day, there were 759 African Americans, 788 Native Hawaiians, 800 Latinos, 2,305 Japanese Americans, and 3,970 whites.",
+        "Question": "p -value = ______",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Test of Independence",
+        "Problem Statement": "Use the following information to answer the next ten exercises. An article in the New England Journal of Medicine discussed a study on people who used a certain product in California and Hawaii. In one part of the report, the self-reported ethnicity and product-use levels per day were given. Of the people using the product at most 10 times per day, there were 9,886 African Americans, 2,745 Native Hawaiians, 12,831 Latinos, 8,378 Japanese Americans, and 7,650 whites. Of the people using the product 11 to 20 times per day, there were 6,514 African Americans, 3,062 Native Hawaiians, 4,932 Latinos, 10,680 Japanese Americans, and 9,877 whites. Of the people using the product 21 to 30 times per day, there were 1,671 African Americans, 1,419 Native Hawaiians, 1,406 Latinos, 4,715 Japanese Americans, and 6,062 whites. Of the people using the product at least 31 times per day, there were 759 African Americans, 788 Native Hawaiians, 800 Latinos, 2,305 Japanese Americans, and 3,970 whites.",
+        "Question": "Is this a right-tailed, left-tailed, or two-tailed test? Explain why.",
+        "Image Links": [],
+        "Answer": "right-tailed",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Test of Independence",
+        "Problem Statement": "Use the following information to answer the next ten exercises. An article in the New England Journal of Medicine discussed a study on people who used a certain product in California and Hawaii. In one part of the report, the self-reported ethnicity and product-use levels per day were given. Of the people using the product at most 10 times per day, there were 9,886 African Americans, 2,745 Native Hawaiians, 12,831 Latinos, 8,378 Japanese Americans, and 7,650 whites. Of the people using the product 11 to 20 times per day, there were 6,514 African Americans, 3,062 Native Hawaiians, 4,932 Latinos, 10,680 Japanese Americans, and 9,877 whites. Of the people using the product 21 to 30 times per day, there were 1,671 African Americans, 1,419 Native Hawaiians, 1,406 Latinos, 4,715 Japanese Americans, and 6,062 whites. Of the people using the product at least 31 times per day, there were 759 African Americans, 788 Native Hawaiians, 800 Latinos, 2,305 Japanese Americans, and 3,970 whites.",
+        "Question": "Graph the situation. Label and scale the horizontal axis. Mark the mean and test statistic. Shade in the region corresponding to the p -value. Figure 11.15",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1d7d2bbf0ae2678fe6330ca4ed8f91db754e2a11"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Test of Independence",
+        "Problem Statement": "State the decision and conclusion (in a complete sentence) for the following levels of \u03b1 .",
+        "Question": "\u03b1 = 0.05 a) Decision: ___________________ b) Reason for the decision: ___________________ c) Conclusion (write out in a complete sentence): ___________________",
+        "Image Links": [],
+        "Answer": "a) Reject the null hypothesis. b) p -value < alpha c) There is sufficient evidence to conclude that product use is dependent on ethnic group.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Test of Independence",
+        "Problem Statement": "State the decision and conclusion (in a complete sentence) for the following levels of \u03b1 .",
+        "Question": "\u03b1 = 0.01 a) Decision: ___________________ b) Reason for the decision: ___________________ c) Conclusion (write out in a complete sentence): ___________________",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Test for Homogeneity",
+        "Problem Statement": "",
+        "Question": "A math teacher wants to see if two of her classes have the same distribution of test scores. What test should she use?",
+        "Image Links": [],
+        "Answer": "test for homogeneity",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Test for Homogeneity",
+        "Problem Statement": "",
+        "Question": "What are the null and alternative hypotheses for Exercise 11.43 ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Test for Homogeneity",
+        "Problem Statement": "",
+        "Question": "A market researcher wants to see if two different stores have the same distribution of sales throughout the year. What type of test should he use?",
+        "Image Links": [],
+        "Answer": "test for homogeneity",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Test for Homogeneity",
+        "Problem Statement": "",
+        "Question": "A meteorologist wants to know if East and West Australia have the same distribution of storms. What type of test should she use?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Test for Homogeneity",
+        "Problem Statement": "",
+        "Question": "What condition must be met to use the test for homogeneity?",
+        "Image Links": [],
+        "Answer": "All values in the table must be greater than or equal to five.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Test for Homogeneity",
+        "Problem Statement": "Use the following information to answer the next five exercises. Do private practice doctors and hospital doctors have the same distribution of working hours? Suppose that a sample of 100 private practice doctors and 150 hospital doctors are selected at random and asked about the number of hours a week they work. The results are shown in Table 11.33 . 20-30 30-40 40-50 50-60 Private Practice 16 40 38 6 Hospital 8 44 59 39 Table 11.33",
+        "Question": "State the null and alternative hypotheses.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Test for Homogeneity",
+        "Problem Statement": "Use the following information to answer the next five exercises. Do private practice doctors and hospital doctors have the same distribution of working hours? Suppose that a sample of 100 private practice doctors and 150 hospital doctors are selected at random and asked about the number of hours a week they work. The results are shown in Table 11.33 . 20-30 30-40 40-50 50-60 Private Practice 16 40 38 6 Hospital 8 44 59 39 Table 11.33",
+        "Question": "df = _______",
+        "Image Links": [],
+        "Answer": "3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Test for Homogeneity",
+        "Problem Statement": "Use the following information to answer the next five exercises. Do private practice doctors and hospital doctors have the same distribution of working hours? Suppose that a sample of 100 private practice doctors and 150 hospital doctors are selected at random and asked about the number of hours a week they work. The results are shown in Table 11.33 . 20-30 30-40 40-50 50-60 Private Practice 16 40 38 6 Hospital 8 44 59 39 Table 11.33",
+        "Question": "What is the test statistic?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Test for Homogeneity",
+        "Problem Statement": "Use the following information to answer the next five exercises. Do private practice doctors and hospital doctors have the same distribution of working hours? Suppose that a sample of 100 private practice doctors and 150 hospital doctors are selected at random and asked about the number of hours a week they work. The results are shown in Table 11.33 . 20-30 30-40 40-50 50-60 Private Practice 16 40 38 6 Hospital 8 44 59 39 Table 11.33",
+        "Question": "What is the p -value?",
+        "Image Links": [],
+        "Answer": "0.00005",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Test for Homogeneity",
+        "Problem Statement": "Use the following information to answer the next five exercises. Do private practice doctors and hospital doctors have the same distribution of working hours? Suppose that a sample of 100 private practice doctors and 150 hospital doctors are selected at random and asked about the number of hours a week they work. The results are shown in Table 11.33 . 20-30 30-40 40-50 50-60 Private Practice 16 40 38 6 Hospital 8 44 59 39 Table 11.33",
+        "Question": "What can you conclude at the 5 percent significance level?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.5 Comparison of the Chi-Square Tests",
+        "Problem Statement": "",
+        "Question": "Which test do you use to decide whether an observed distribution is the same as an expected distribution?",
+        "Image Links": [],
+        "Answer": "a goodness-of-fit test",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.5 Comparison of the Chi-Square Tests",
+        "Problem Statement": "",
+        "Question": "What is the null hypothesis for the type of test from Exercise 11.53 ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.5 Comparison of the Chi-Square Tests",
+        "Problem Statement": "",
+        "Question": "Which test would you use to decide whether two factors have a relationship?",
+        "Image Links": [],
+        "Answer": "a test for independence",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.5 Comparison of the Chi-Square Tests",
+        "Problem Statement": "",
+        "Question": "Which test would you use to decide if two populations have the same distribution?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.5 Comparison of the Chi-Square Tests",
+        "Problem Statement": "",
+        "Question": "How are tests of independence similar to tests for homogeneity?",
+        "Image Links": [],
+        "Answer": "Answers will vary. Sample answer: Tests of independence and tests for homogeneity both calculate the test statistic the same way $$\\sum_{( i j )} \\frac{( O - E )^{2}}{E}$$ . In addition, all values must be greater than or equal to five.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.5 Comparison of the Chi-Square Tests",
+        "Problem Statement": "",
+        "Question": "How are tests of independence different from tests for homogeneity?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.6 Test of a Single Variance",
+        "Problem Statement": "Use the following information to answer the next three exercises. An archer\u2019s standard deviation for his hits is six, where the data are measured in distance from the center of the target. An observer claims the standard deviation is less than six.",
+        "Question": "What type of test should be used?",
+        "Image Links": [],
+        "Answer": "a test of a single variance",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.6 Test of a Single Variance",
+        "Problem Statement": "Use the following information to answer the next three exercises. An archer\u2019s standard deviation for his hits is six, where the data are measured in distance from the center of the target. An observer claims the standard deviation is less than six.",
+        "Question": "State the null and alternative hypotheses.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.6 Test of a Single Variance",
+        "Problem Statement": "Use the following information to answer the next three exercises. An archer\u2019s standard deviation for his hits is six, where the data are measured in distance from the center of the target. An observer claims the standard deviation is less than six.",
+        "Question": "Is this a right-tailed, left-tailed, or two-tailed test?",
+        "Image Links": [],
+        "Answer": "a left-tailed test",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.6 Test of a Single Variance",
+        "Problem Statement": "Use the following information to answer the next three exercises. The standard deviation of heights for students in a school is 0.81. A random sample of 50 students is taken, and the standard deviation of heights of the sample is 0.96. A researcher in charge of the study believes the standard deviation of heights for the school is greater than 0.81.",
+        "Question": "What type of test should be used?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.6 Test of a Single Variance",
+        "Problem Statement": "Use the following information to answer the next three exercises. The standard deviation of heights for students in a school is 0.81. A random sample of 50 students is taken, and the standard deviation of heights of the sample is 0.96. A researcher in charge of the study believes the standard deviation of heights for the school is greater than 0.81.",
+        "Question": "State the null and alternative hypotheses.",
+        "Image Links": [],
+        "Answer": "H 0 : \u03c3 2 = 0.81 2 ; H a : \u03c3 2 > 0.81 2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.6 Test of a Single Variance",
+        "Problem Statement": "Use the following information to answer the next three exercises. The standard deviation of heights for students in a school is 0.81. A random sample of 50 students is taken, and the standard deviation of heights of the sample is 0.96. A researcher in charge of the study believes the standard deviation of heights for the school is greater than 0.81.",
+        "Question": "df = ________",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.6 Test of a Single Variance",
+        "Problem Statement": "Use the following information to answer the next four exercises: The average waiting time in a doctor\u2019s office varies. The standard deviation of waiting times in a doctor\u2019s office is 3.4 minutes. A random sample of 30 patients in the doctor\u2019s office has a standard deviation of waiting times of 4.1 minutes. One doctor believes the variance of waiting times is greater than originally thought.",
+        "Question": "What type of test should be used?",
+        "Image Links": [],
+        "Answer": "a test of a single variance",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.6 Test of a Single Variance",
+        "Problem Statement": "Use the following information to answer the next four exercises: The average waiting time in a doctor\u2019s office varies. The standard deviation of waiting times in a doctor\u2019s office is 3.4 minutes. A random sample of 30 patients in the doctor\u2019s office has a standard deviation of waiting times of 4.1 minutes. One doctor believes the variance of waiting times is greater than originally thought.",
+        "Question": "What is the test statistic?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.6 Test of a Single Variance",
+        "Problem Statement": "Use the following information to answer the next four exercises: The average waiting time in a doctor\u2019s office varies. The standard deviation of waiting times in a doctor\u2019s office is 3.4 minutes. A random sample of 30 patients in the doctor\u2019s office has a standard deviation of waiting times of 4.1 minutes. One doctor believes the variance of waiting times is greater than originally thought.",
+        "Question": "What is the p -value?",
+        "Image Links": [],
+        "Answer": "0.0542",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.6 Test of a Single Variance",
+        "Problem Statement": "Use the following information to answer the next four exercises: The average waiting time in a doctor\u2019s office varies. The standard deviation of waiting times in a doctor\u2019s office is 3.4 minutes. A random sample of 30 patients in the doctor\u2019s office has a standard deviation of waiting times of 4.1 minutes. One doctor believes the variance of waiting times is greater than originally thought.",
+        "Question": "What can you conclude at the 5 percent significance level?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,370 @@
+[
+    {
+        "Topic": "10.1 Two Population Means with Unknown Standard Deviations",
+        "Problem Statement": "DIRECTIONS: For each of the word problems, use a solution sheet to do the hypothesis test. The solution sheet is found in Appendix E . Please feel free to make copies of the solution sheets. For the online version of the book, it is suggested that you copy the .doc or the .pdf files.",
+        "Question": "The mean number of English courses taken in a two-year period by male and female college students is believed to be about the same. An experiment is conducted and data are collected from 29 males and 16 females. The males took an average of 3 English courses with a standard deviation of 0.8. The females took an average of 4 English courses with a standard deviation of 1.0. Are the means statistically the same?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.1 Two Population Means with Unknown Standard Deviations",
+        "Problem Statement": "DIRECTIONS: For each of the word problems, use a solution sheet to do the hypothesis test. The solution sheet is found in Appendix E . Please feel free to make copies of the solution sheets. For the online version of the book, it is suggested that you copy the .doc or the .pdf files.",
+        "Question": "A student at a four-year college claims that mean enrollment at four-year colleges is higher than at two-year colleges in the United States. Two surveys are conducted. Of the 35 two-year colleges surveyed, the mean enrollment was 5,068 with a standard deviation of 4,777. Of the 35 four-year colleges surveyed, the mean enrollment was 5,466 with a standard deviation of 8,191.",
+        "Image Links": [],
+        "Answer": "Subscripts: 1: two-year colleges, 2: four-year colleges a) H 0 : \u03bc 1 \u2265 \u03bc 2 b) H a : \u03bc 1 < \u03bc 2 c) $$\\overline{X}_{1} - \\overline{X}_{2}$$ is the difference between the mean enrollments of the two-year colleges and the four-year colleges. d) Student\u2019s t e) test statistic: -0.2480 f) p -value: 0.4019 g) Check student\u2019s solution. h) Alpha: 0.05 Decision: Do not reject. Reason for Decision: p -value > alpha Conclusion: At the 5 percent significance level, there is sufficient evidence to conclude that the mean enrollment at four-year colleges is higher than at two-year colleges.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.1 Two Population Means with Unknown Standard Deviations",
+        "Problem Statement": "DIRECTIONS: For each of the word problems, use a solution sheet to do the hypothesis test. The solution sheet is found in Appendix E . Please feel free to make copies of the solution sheets. For the online version of the book, it is suggested that you copy the .doc or the .pdf files.",
+        "Question": "At Rachel\u2019s eleventh birthday party, eight girls were timed to see how long (in seconds) they could sit perfectly still in a relaxed position. After a two-minute rest, they timed themselves while jumping. The girls thought that the mean difference between their jumping and relaxed times would be zero. Test their hypothesis. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nRelaxed time (seconds) & Jumping time (seconds) \\\\ \\hline\n26 & 21 \\\\ \\hline\n47 & 40 \\\\ \\hline\n30 & 28 \\\\ \\hline\n22 & 21 \\\\ \\hline\n23 & 25 \\\\ \\hline\n45 & 43 \\\\ \\hline\n37 & 35 \\\\ \\hline\n29 & 32 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.1 Two Population Means with Unknown Standard Deviations",
+        "Problem Statement": "DIRECTIONS: For each of the word problems, use a solution sheet to do the hypothesis test. The solution sheet is found in Appendix E . Please feel free to make copies of the solution sheets. For the online version of the book, it is suggested that you copy the .doc or the .pdf files.",
+        "Question": "Mean entry-level salaries for college graduates with mechanical engineering degrees and electrical engineering degrees are believed to be approximately the same. A recruiting office thinks that the mean mechanical engineering salary is lower than the mean electrical engineering salary. The recruiting office randomly surveys 50 entry-level mechanical engineers and 60 entry-level electrical engineers. Their mean salaries were $46,100 and $46,700, respectively. Their standard deviations were $3,450 and $4,210, respectively. Conduct a hypothesis test to determine if you agree that the mean entry-level mechanical engineering salary is lower than the mean entry-level electrical engineering salary.",
+        "Image Links": [],
+        "Answer": "Subscripts:  1: mechanical engineering,  2: electrical engineering a) H 0 : \u00b5 1 \u2265 \u00b5 2 b) H a : \u00b5 1 < \u00b5 2 c) $$\\overline{X}_{1} - \\overline{X}_{2}$$ is the difference between the mean entry-level salaries of mechanical engineers and electrical engineers. d) t 108 e) test statistic: t = -0.82 f) p -value: 0.2061 g) Check student\u2019s solution. h) Alpha: 0.05 Decision: Do not reject the null hypothesis. Reason for Decision: p -value > alpha Conclusion: At the 5 percent significance level, there is insufficient evidence to conclude that the mean entry-level salaries of mechanical engineers is lower than that of electrical engineers.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.1 Two Population Means with Unknown Standard Deviations",
+        "Problem Statement": "DIRECTIONS: For each of the word problems, use a solution sheet to do the hypothesis test. The solution sheet is found in Appendix E . Please feel free to make copies of the solution sheets. For the online version of the book, it is suggested that you copy the .doc or the .pdf files.",
+        "Question": "Marketing companies have collected data implying that teenage girls use more ringtones on their smartphones than teenage boys do. In one study of 40 randomly chosen teenage girls and boys (20 of each) with smartphones, the mean number of ringtones for the girls was 3.2 with a standard deviation of 1.5. The mean for the boys was 1.7 with a standard deviation of 0.8. Conduct a hypothesis test to determine if the means are approximately the same or if the girls\u2019 mean is higher than the boys\u2019 mean.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.1 Two Population Means with Unknown Standard Deviations",
+        "Problem Statement": "Use the information from Appendix C to answer the next four exercises.",
+        "Question": "Using the data from Lap 1 only, conduct a hypothesis test to determine if the mean time for completing a lap in races is the same as it is in practices.",
+        "Image Links": [],
+        "Answer": "a) H 0 : \u00b5 1 = \u00b5 2 b) H a : \u00b5 1 \u2260 \u00b5 2 c) $$\\overline{X}_{1} - \\overline{X}_{2}$$ is the difference between the mean times for completing a lap in races and in practices. d) t 20.32 e) test statistic: -4.70 f) p -value: 0.0001 g) Check student\u2019s solution. h) Alpha: 0.05 Decision: Reject the null hypothesis. Reason for Decision: p -value < alpha Conclusion: At the 5 percent significance level, there is sufficient evidence to conclude that the mean time for completing a lap in races is different from that in practices.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.1 Two Population Means with Unknown Standard Deviations",
+        "Problem Statement": "Use the information from Appendix C to answer the next four exercises.",
+        "Question": "Repeat the test in Exercise 10.83 , but use Lap 5 data this time.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.1 Two Population Means with Unknown Standard Deviations",
+        "Problem Statement": "Use the information from Appendix C to answer the next four exercises.",
+        "Question": "Repeat the test in Exercise 10.83 , but this time combine the data from Laps 1 and 5.",
+        "Image Links": [],
+        "Answer": "a) H 0 : \u00b5 1 = \u00b5 2 b) H a : \u00b5 1 \u2260 \u00b5 2 c) is the difference between the mean times for completing a lap in races and in practices. d) t 40.94 e) test statistic: -5.08 f) p -value: zero g) Check student\u2019s solution. h) Alpha: 0.05 Decision: Reject the null hypothesis. Reason for Decision: p -value < alpha Conclusion: At the 5 percent significance level, there is sufficient evidence to conclude that the mean time for completing a lap in races is different from that in practices.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.1 Two Population Means with Unknown Standard Deviations",
+        "Problem Statement": "Use the information from Appendix C to answer the next four exercises.",
+        "Question": "In two to three complete sentences, explain in detail how you might use Terri Vogel\u2019s data to answer the following question: Does Terri Vogel drive faster in races than she does in practices?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.1 Two Population Means with Unknown Standard Deviations",
+        "Problem Statement": "Use the following information to answer the next two exercises. The Eastern and Western Major League Soccer conferences have a new Reserve Division that allows new players to develop their skills. Data for a randomly picked date showed the following annual goals. Western Eastern Los Angeles 9 D United 9 FC Dallas 3 Chicago 8 Chivas USA 4 Columbus 7 Real Salt Lake 3 New England 6 Colorado 4 MetroStars 5 San Jose 4 Kansas City 3 Table 10.25 Conduct a hypothesis test to answer the next two exercises.",
+        "Question": "The exact distribution for the hypothesis test is a) the normal distribution b) the Student\u2019s t -distribution c) the uniform distribution d) the exponential distribution",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.1 Two Population Means with Unknown Standard Deviations",
+        "Problem Statement": "Use the following information to answer the next two exercises. The Eastern and Western Major League Soccer conferences have a new Reserve Division that allows new players to develop their skills. Data for a randomly picked date showed the following annual goals. Western Eastern Los Angeles 9 D United 9 FC Dallas 3 Chicago 8 Chivas USA 4 Columbus 7 Real Salt Lake 3 New England 6 Colorado 4 MetroStars 5 San Jose 4 Kansas City 3 Table 10.25 Conduct a hypothesis test to answer the next two exercises.",
+        "Question": "If the level of significance is 0.05, the conclusion is: a) There is sufficient evidence to conclude that the W Division teams score fewer goals, on average, than the E teams. b) There is insufficient evidence to conclude that the W Division teams score more goals, on average, than the E teams. c) There is insufficient evidence to conclude that the W teams score fewer goals, on average, than the E teams. d) There is not sufficient evidence to determine a conclusion.",
+        "Image Links": [],
+        "Answer": "c",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.1 Two Population Means with Unknown Standard Deviations",
+        "Problem Statement": "Use the following information to answer the next two exercises. The Eastern and Western Major League Soccer conferences have a new Reserve Division that allows new players to develop their skills. Data for a randomly picked date showed the following annual goals. Western Eastern Los Angeles 9 D United 9 FC Dallas 3 Chicago 8 Chivas USA 4 Columbus 7 Real Salt Lake 3 New England 6 Colorado 4 MetroStars 5 San Jose 4 Kansas City 3 Table 10.25 Conduct a hypothesis test to answer the next two exercises.",
+        "Question": "Suppose a statistics instructor believes that there is no significant difference between the mean class scores of statistics day students on Exam 2 and statistics night students on Exam 2. She takes random samples from each of the populations. The mean and standard deviation for 35 statistics day students were 75.86 and 16.91. The mean and standard deviation for 37 statistics night students were 75.41 and 19.73. The day subscript refers to the statistics day students. The night subscript refers to the statistics night students. Which of the following is a concluding statement: a) There is sufficient evidence to conclude that  statistics night students\u2019 mean on Exam 2 is better than the statistics day  students\u2019 mean on Exam 2. b) There is insufficient evidence to conclude that the statistics day  students\u2019 mean on Exam 2 is better than the statistics night students\u2019 mean on Exam 2. c) There is insufficient evidence to conclude that there is a significant difference between the means of the statistics day students and night students on Exam 2. d) There is sufficient evidence to conclude that there is a significant difference between the means of the statistics day students and night students on Exam 2.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.1 Two Population Means with Unknown Standard Deviations",
+        "Problem Statement": "Use the following information to answer the next two exercises. The Eastern and Western Major League Soccer conferences have a new Reserve Division that allows new players to develop their skills. Data for a randomly picked date showed the following annual goals. Western Eastern Los Angeles 9 D United 9 FC Dallas 3 Chicago 8 Chivas USA 4 Columbus 7 Real Salt Lake 3 New England 6 Colorado 4 MetroStars 5 San Jose 4 Kansas City 3 Table 10.25 Conduct a hypothesis test to answer the next two exercises.",
+        "Question": "Elijah wants to know whether textbook costs are different for different courses of study. He selects a random sample of 33 sociology textbooks offered on a popular online site. The mean price of his sample is $74.64 with a standard deviation of $49.36. He then selects a random sample of 33 math and science textbooks from the same site. The mean price of this sample is $111.56 with a standard deviation of $66.90. Is the mean price of a sociology textbook lower than the mean price of a math or science textbook? Test at a 1% significance level.",
+        "Image Links": [],
+        "Answer": "Test: two independent sample means, population standard deviations unknown. \u00b5 1 = the mean price of a sociology text on the selected site \u00b5 2 = the mean price of a math/science text on the selected site Random variable: $$\\overline{X}_{1} - \\overline{X}_{2}$$ = the difference in the sample mean textbook price between sociology texts and math/science texts. Hypotheses: $$H_{0} \\text{:} \\Micro_{1} - \\Micro_{2} = 0$$ , $$H_{a} \\text{:} \\Micro_{1} - \\Micro_{2} < 0$$ , which can be expressed as $$H_{0} \\text{:} \\Micro_{1} = \\Micro_{2}$$ , $$H_{a} \\text{:} \\Micro_{1} < \\Micro_{2}$$ . Distribution for the test: Use t df , because each sample has more than 30 observations, $$d f = n_{1} + n_{2} - 2 = 33 + 33 - 2 = 64$$ . Estimate the critical value on the t -table using the nearest available degrees of freedom, 60. The critical value, 2.660, is found in the .0005 column. Calculate the test statistic: . Using a calculator with t c = -2.55 and df = 64, the left-tailed p -value: 0.0066. Decision: Reject H 0 . Conclusion: At the 1% level of significance, from the sample data, there is sufficient evidence to conclude that the mean price of sociology textbooks is less than the mean price of textbooks for math/science. Distribution: H 0 : \u03bc 1 = \u03bc 2 , H a : \u03bc 1 < \u03bc 2 The mean age of entering the industry in Canada is lower than the mean age in the United States. Figure 10.20 Graph: left-tailed p -value : 0.0151 Decision: Do not reject H 0 . Conclusion: At the 1 percent level of significance, from the sample data, there is not sufficient evidence to conclude that the mean age of entering the industry in Canada is lower than the mean age in the United States.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3b452ed03c9afdb9c651c827292c7464dc6742db"
+        ]
+    },
+    {
+        "Topic": "10.1 Two Population Means with Unknown Standard Deviations",
+        "Problem Statement": "Use the following information to answer the next two exercises. The Eastern and Western Major League Soccer conferences have a new Reserve Division that allows new players to develop their skills. Data for a randomly picked date showed the following annual goals. Western Eastern Los Angeles 9 D United 9 FC Dallas 3 Chicago 8 Chivas USA 4 Columbus 7 Real Salt Lake 3 New England 6 Colorado 4 MetroStars 5 San Jose 4 Kansas City 3 Table 10.25 Conduct a hypothesis test to answer the next two exercises.",
+        "Question": "A powder diet is tested on 49 people, and a liquid diet is tested on 36 different people. Of interest is whether the liquid diet yields a higher mean weight loss than the powder diet. The powder diet group had a mean weight loss of 42 pounds with a standard deviation of 12 pounds. The liquid diet group had a mean weight loss of 45 pounds with a standard deviation of 14 pounds.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.1 Two Population Means with Unknown Standard Deviations",
+        "Problem Statement": "Use the following information to answer the next two exercises. The Eastern and Western Major League Soccer conferences have a new Reserve Division that allows new players to develop their skills. Data for a randomly picked date showed the following annual goals. Western Eastern Los Angeles 9 D United 9 FC Dallas 3 Chicago 8 Chivas USA 4 Columbus 7 Real Salt Lake 3 New England 6 Colorado 4 MetroStars 5 San Jose 4 Kansas City 3 Table 10.25 Conduct a hypothesis test to answer the next two exercises.",
+        "Question": "Suppose a statistics instructor believes that there is no significant difference between the mean class scores of statistics day students on Exam 2 and statistics night students on Exam 2. She takes random samples from each of the populations. The mean and standard deviation for 35 statistics day students were 75.86 and 16.91, respectively. The mean and standard deviation for 37 statistics night students were 75.41 and 19.73. The day subscript refers to the statistics day students. The night subscript refers to the statistics night students. An appropriate alternative hypothesis for the hypothesis test is a) \u03bc day > \u03bc night b) \u03bc day < \u03bc night c) \u03bc day = \u03bc night d) \u03bc day \u2260 \u03bc night",
+        "Image Links": [],
+        "Answer": "d",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.2 Two Population Means with Known Standard Deviations",
+        "Problem Statement": "DIRECTIONS: For each of the word problems, use a solution sheet to do the hypothesis test. The solution sheet is found in Appendix E . Please feel free to make copies of the solution sheets. For the online version of the book, it is suggested that you copy the .doc or the .pdf files.",
+        "Question": "A study is done to determine if students in the California state university system take longer to graduate, on average, than students enrolled in private universities. One hundred students from both the California state university system and private universities are surveyed. Suppose that from years of research, it is known that the population standard deviations are 1.5811 years and 1 year, respectively. The following data are collected. The California state university system students took on average 4.5 years with a standard deviation of 0.8. The private university students took on average 4.1 years with a standard deviation of 0.3.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.2 Two Population Means with Known Standard Deviations",
+        "Problem Statement": "DIRECTIONS: For each of the word problems, use a solution sheet to do the hypothesis test. The solution sheet is found in Appendix E . Please feel free to make copies of the solution sheets. For the online version of the book, it is suggested that you copy the .doc or the .pdf files.",
+        "Question": "Parents of teenage boys often complain that auto insurance costs more, on average, for teenage boys than for teenage girls. A group of concerned parents examines a random sample of insurance bills. The mean annual cost for 36 teenage boys was $679. For 23 teenage girls, it was $559. From past years, it is known that the population standard deviation for each group is $180. Determine whether you believe that the mean cost for auto insurance for teenage boys is greater than that for teenage girls.",
+        "Image Links": [],
+        "Answer": "Subscripts: 1 = boys, 2 = girls a) H 0 : \u00b5 1 \u2264 \u00b5 2 b) H a : \u00b5 1 > \u00b5 2 c) The random variable is the difference in the mean auto insurance costs for boys and girls. d) normal e) test statistic: z = 2.50 f) p value: 0.0062 g) Check student\u2019s solution. h) Alpha: 0.05 Decision: Reject the null hypothesis. Reason for Decision: p value < alpha Conclusion: At the 5 percent significance level, there is sufficient evidence to conclude that the mean cost of auto insurance for teenage boys is greater than that for girls.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.2 Two Population Means with Known Standard Deviations",
+        "Problem Statement": "DIRECTIONS: For each of the word problems, use a solution sheet to do the hypothesis test. The solution sheet is found in Appendix E . Please feel free to make copies of the solution sheets. For the online version of the book, it is suggested that you copy the .doc or the .pdf files.",
+        "Question": "A group of transfer-bound students wondered if they will spend the same mean amount on texts and supplies each year at their four-year university as they have at their community college. They conducted a random survey of 54 students at their community college and 66 students at their local four-year university. The sample means were $947 and $1,011, respectively. The population standard deviations are known to be $254 and $87, respectively. Conduct a hypothesis test to determine if the means are statistically the same.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.2 Two Population Means with Known Standard Deviations",
+        "Problem Statement": "DIRECTIONS: For each of the word problems, use a solution sheet to do the hypothesis test. The solution sheet is found in Appendix E . Please feel free to make copies of the solution sheets. For the online version of the book, it is suggested that you copy the .doc or the .pdf files.",
+        "Question": "Some manufacturers claim that nonhybrid sedan cars have a lower mean miles per gallon (mpg) than hybrid ones. Suppose that consumers test 21 hybrid sedans and get a mean of 31 mpg with a standard deviation of 7 mpg. Thirty-one nonhybrid sedans get a mean of 22 mpg with a standard deviation of 4 mpg. Suppose that the population standard deviations are known to be 6 and 3, respectively. Conduct a hypothesis test to evaluate the manufacturers\u2019 claim.",
+        "Image Links": [],
+        "Answer": "Subscripts: 1 = non-hybrid sedans, 2 = hybrid sedans a) H 0 : \u00b5 1 \u2265 \u00b5 2 b) H a : \u00b5 1 < \u00b5 2 c) The random variable is the difference in the mean miles per gallon of nonhybrid sedans and hybrid sedans. d) normal e) test statistic: 6.36 f) p -value: 0 g) Check student\u2019s solution. h) Alpha: 0.05 Decision: Reject the null hypothesis. Reason for decision: p value < alpha Conclusion: At the 5 percent significance level, there is sufficient evidence to conclude that the mean miles per gallon of non-hybrid sedans is less than that of hybrid sedans.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.2 Two Population Means with Known Standard Deviations",
+        "Problem Statement": "DIRECTIONS: For each of the word problems, use a solution sheet to do the hypothesis test. The solution sheet is found in Appendix E . Please feel free to make copies of the solution sheets. For the online version of the book, it is suggested that you copy the .doc or the .pdf files.",
+        "Question": "A baseball fan wanted to know if there is a difference between the number of games played in a World Series when the American League won the series versus when the National League won the series. From 1922 to 2012, the population standard deviation of games won by the American League was 1.14, and the population standard deviation of games won by the National League was 1.11.  Of 19 randomly selected World Series games won by the American League, the mean number of games won was 5.76.  The mean number of 17 randomly selected games won by the National League was 5.42. Conduct a hypothesis test.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.2 Two Population Means with Known Standard Deviations",
+        "Problem Statement": "DIRECTIONS: For each of the word problems, use a solution sheet to do the hypothesis test. The solution sheet is found in Appendix E . Please feel free to make copies of the solution sheets. For the online version of the book, it is suggested that you copy the .doc or the .pdf files.",
+        "Question": "One of the questions in a study of marital satisfaction of dual-career couples was to rate the statement \u201cI\u2019m pleased with the way we divide the responsibilities for childcare.\u201d The ratings went from 1 (strongly agree) to 5 (strongly disagree). Table 10.26 contains 10 of the paired responses for husbands and wives. Conduct a hypothesis test to see if the mean difference in the husband\u2019s versus the wife\u2019s satisfaction level is negative (meaning that, within the partnership, the husband is happier than the wife). \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}\n\\hline\nWife\u2019s Score & 2 & 2 & 3 & 3 & 4 & 2 & 1 & 1 & 2 & 4 \\\\ \\hline\nHusband\u2019s Score & 2 & 2 & 1 & 3 & 2 & 1 & 1 & 1 & 2 & 4 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "a) H 0 : \u00b5 d = 0 b) H a : \u00b5 d < 0 c) The random variable X d is the average difference between husband\u2019s and wife\u2019s satisfaction level. d) t 9 e) test statistic: t = -1.86 f) p value: 0.0479 g) Check student\u2019s solution h) Alpha: 0.05 Decision: Reject the null hypothesis, but run another test. Reason for Decision: p value < alpha Conclusion: This is a weak test because alpha and the p value are close. However, there is insufficient evidence to conclude that the mean difference is negative.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.3 Comparing Two Independent Population Proportions",
+        "Problem Statement": "DIRECTIONS: For each of the word problems, use a solution sheet to do the hypothesis test.  The solution sheet is found in Appendix E . Please feel free to make copies of the solution sheets. For the online version of the book, it is suggested that you copy the .doc or the .pdf files.",
+        "Question": "A recent drug survey showed an increase in the use of prescription medication among local senior citizens as compared to the national percent. Suppose that a survey of 100 local seniors and 100 national seniors is conducted to see if the proportion of prescription medication use is higher locally or nationally. Locally, 65 senior citizens reported taking prescription medication within the past month, while 60 national seniors reported using them.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.3 Comparing Two Independent Population Proportions",
+        "Problem Statement": "DIRECTIONS: For each of the word problems, use a solution sheet to do the hypothesis test.  The solution sheet is found in Appendix E . Please feel free to make copies of the solution sheets. For the online version of the book, it is suggested that you copy the .doc or the .pdf files.",
+        "Question": "Elizabeth Mjelde, an art history professor, was interested in whether the value from the Golden Ratio formula, $$( \\frac{\\text{larger\u00a0+\u00a0smaller\u00a0dimension}}{\\text{larger\u00a0dimension}} )$$ , was the same in the Whitney Exhibit for works from 1900 to 1919 as for works from 1920 to 1942. Thirty-seven early works were sampled, averaging 1.74 with a standard deviation of 0.11. Sixty-five of the later works were sampled, averaging 1.746 with a standard deviation of 0.1064. Do you think that there is a significant difference in the Golden Ratio calculation?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.3 Comparing Two Independent Population Proportions",
+        "Problem Statement": "DIRECTIONS: For each of the word problems, use a solution sheet to do the hypothesis test.  The solution sheet is found in Appendix E . Please feel free to make copies of the solution sheets. For the online version of the book, it is suggested that you copy the .doc or the .pdf files.",
+        "Question": "A year was randomly picked from 1985 to the present. In that year, there were 2,051 Hispanic students at Cabrillo College out of a total of 12,328 students. At Lake Tahoe College, there were 321 Hispanic students out of a total of 2,441 students. In general, do you think that the percent of Hispanic students at the two colleges is basically the same or different?",
+        "Image Links": [],
+        "Answer": "Subscripts: 1 = Cabrillo College, 2 = Lake Tahoe College a) H 0 : p 1 = p 2 b) H a : p 1 \u2260 p 2 c) The random variable is the difference between the proportions of Hispanic students at Cabrillo College and Lake Tahoe College. d) normal for two proportions e) test statistic: 4.29 f) p -value: 0.00002 g) Check student\u2019s solution. h) Alpha: 0.05 Decision: Reject the null hypothesis. Reason for decision: p -value < alpha Conclusion: There is sufficient evidence to conclude that the proportions of Hispanic students at Cabrillo College and Lake Tahoe College are different.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.3 Comparing Two Independent Population Proportions",
+        "Problem Statement": "Use the following information to answer the next three exercises. Neuroinvasive West Nile virus is a severe disease that affects a person\u2019s nervous system. It is spread by the Culex species of mosquito. In the United States in 2010, there were 629 reported  cases of neuroinvasive West Nile virus out of a total of 1,021 reported cases, and there were 486 neuroinvasive reported cases out of a total of 712 cases reported in 2011.  Is the 2011 proportion of neuroinvasive West Nile virus cases more than the 2010 proportion of neuroinvasive West Nile virus cases? Using a 1 percent level of significance, conduct an appropriate hypothesis test. - 2011 subscript: 2011 group. - 2010 subscript: 2010 group",
+        "Question": "This is a) a test of two proportions b) a test of two independent means c) a test of a single mean d) a test of matched pairs.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.3 Comparing Two Independent Population Proportions",
+        "Problem Statement": "Use the following information to answer the next three exercises. Neuroinvasive West Nile virus is a severe disease that affects a person\u2019s nervous system. It is spread by the Culex species of mosquito. In the United States in 2010, there were 629 reported  cases of neuroinvasive West Nile virus out of a total of 1,021 reported cases, and there were 486 neuroinvasive reported cases out of a total of 712 cases reported in 2011.  Is the 2011 proportion of neuroinvasive West Nile virus cases more than the 2010 proportion of neuroinvasive West Nile virus cases? Using a 1 percent level of significance, conduct an appropriate hypothesis test. - 2011 subscript: 2011 group. - 2010 subscript: 2010 group",
+        "Question": "An appropriate null hypothesis is a) p 2011 \u2264 p 2010 b) p 2011 \u2265 p 2010 c) \u03bc 2011 \u2264 \u03bc 2010 d) p 2011 > p 2010",
+        "Image Links": [],
+        "Answer": "a",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.3 Comparing Two Independent Population Proportions",
+        "Problem Statement": "Use the following information to answer the next three exercises. Neuroinvasive West Nile virus is a severe disease that affects a person\u2019s nervous system. It is spread by the Culex species of mosquito. In the United States in 2010, there were 629 reported  cases of neuroinvasive West Nile virus out of a total of 1,021 reported cases, and there were 486 neuroinvasive reported cases out of a total of 712 cases reported in 2011.  Is the 2011 proportion of neuroinvasive West Nile virus cases more than the 2010 proportion of neuroinvasive West Nile virus cases? Using a 1 percent level of significance, conduct an appropriate hypothesis test. - 2011 subscript: 2011 group. - 2010 subscript: 2010 group",
+        "Question": "The p -value is 0.0022. At a 1 percent level of significance, what is the appropriate conclusion? a) There is sufficient evidence to conclude that the proportion of people in the United States in 2011 who contracted neuroinvasive West Nile virus is less than the proportion of people in the United States in 2010 who contracted neuroinvasive West Nile virus. b) There is insufficient evidence to conclude that the proportion of people in the United States in 2011 who contracted neuroinvasive West Nile virus is more than the proportion of people in the United States in 2010 who contracted neuroinvasive West Nile virus. c) There is insufficient evidence to conclude that the proportion of people in the United States in 2011 who contracted neuroinvasive West Nile virus is less than the proportion of people in the United States in 2010 who contracted neuroinvasive West Nile virus. d) There is sufficient evidence to conclude that the proportion of people in the United States in 2011 who contracted neuroinvasive West Nile virus is more than the proportion of people in the United States in 2010 who contracted neuroinvasive West Nile virus.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.3 Comparing Two Independent Population Proportions",
+        "Problem Statement": "Use the following information to answer the next three exercises. Neuroinvasive West Nile virus is a severe disease that affects a person\u2019s nervous system. It is spread by the Culex species of mosquito. In the United States in 2010, there were 629 reported  cases of neuroinvasive West Nile virus out of a total of 1,021 reported cases, and there were 486 neuroinvasive reported cases out of a total of 712 cases reported in 2011.  Is the 2011 proportion of neuroinvasive West Nile virus cases more than the 2010 proportion of neuroinvasive West Nile virus cases? Using a 1 percent level of significance, conduct an appropriate hypothesis test. - 2011 subscript: 2011 group. - 2010 subscript: 2010 group",
+        "Question": "Researchers conducted a study to find out if there is a difference in the use of e-readers by different age groups.  Randomly selected participants were divided into two age groups.  In the 16- to 29-year-old group, 7 percent of the 628 surveyed use e-readers, while 11 percent of the 2,309 participants 30 years old and older use e-readers.",
+        "Image Links": [],
+        "Answer": "Test: two independent sample proportions. Random variable: p \u2032 1 - p \u2032 2 Distribution: H 0 : p 1 = p 2 H a : p 1 \u2260 p 2 The proportion of e-reader users is different for the 16- to 29-year-old users from that of the 30 and older users. Graph: two-tailed Figure 10.21 p -value : 0.0033 Decision: Reject the null hypothesis. Conclusion: At the 5 percent level of significance, from the sample data, there is sufficient evidence to conclude that the proportion of e-reader users 16 to 29 years old is different from the proportion of e-reader users 30 and older.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1792b2ec8ed3467b94e568c32a9dc2217b86895e"
+        ]
+    },
+    {
+        "Topic": "10.3 Comparing Two Independent Population Proportions",
+        "Problem Statement": "Use the following information to answer the next three exercises. Neuroinvasive West Nile virus is a severe disease that affects a person\u2019s nervous system. It is spread by the Culex species of mosquito. In the United States in 2010, there were 629 reported  cases of neuroinvasive West Nile virus out of a total of 1,021 reported cases, and there were 486 neuroinvasive reported cases out of a total of 712 cases reported in 2011.  Is the 2011 proportion of neuroinvasive West Nile virus cases more than the 2010 proportion of neuroinvasive West Nile virus cases? Using a 1 percent level of significance, conduct an appropriate hypothesis test. - 2011 subscript: 2011 group. - 2010 subscript: 2010 group",
+        "Question": "Adults aged 18 years and older were randomly selected for a survey about a specific disease. The researchers wanted to determine if the proportion of women who have the disease is less than the proportion of southern men who do. The results are shown in Table 10.27 . Test at the 1 percent level of significance. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\n & Number diagnosed with disease & Sample size \\\\ \\hline\nMen & 42,769 & 155,525 \\\\ \\hline\nWomen & 67,169 & 248,775 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.3 Comparing Two Independent Population Proportions",
+        "Problem Statement": "Use the following information to answer the next three exercises. Neuroinvasive West Nile virus is a severe disease that affects a person\u2019s nervous system. It is spread by the Culex species of mosquito. In the United States in 2010, there were 629 reported  cases of neuroinvasive West Nile virus out of a total of 1,021 reported cases, and there were 486 neuroinvasive reported cases out of a total of 712 cases reported in 2011.  Is the 2011 proportion of neuroinvasive West Nile virus cases more than the 2010 proportion of neuroinvasive West Nile virus cases? Using a 1 percent level of significance, conduct an appropriate hypothesis test. - 2011 subscript: 2011 group. - 2010 subscript: 2010 group",
+        "Question": "Two computer users were discussing tablet computers. A higher proportion of people ages 16 to 29 use tablets than of people age 30 and older. Table 10.28 details the number of tablet owners for each age group. Test at the 1 percent level of significance. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\n & 16-29 year olds & 30 years and older \\\\ \\hline\nOwn a Tablet & 69 & 231 \\\\ \\hline\nSample Size & 628 & 2,309 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "Test: two independent sample means, population standard deviations unknown. $$\\mu_{1}$$ = the the mean price of a sociology text on the selected site. $$\\mu_{2}$$ = the mean price of a math/science text on the selected site. Random variable: $$\\overline{X_{1}} - \\overline{X_{1}}$$ = the difference in the sample mean textbook price between sociology texts and math/science texts. Hypotheses: $$H_{0} \\  : \\  \\mu_{1} - \\mu_{2} \\  = \\  0 , \\  H_{a} \\  : \\  \\mu_{1} \\  - \\  \\mu_{2} \\  < \\  \\mu_{2}$$ which can be expressed as $$\\mathrm{H} 0 \\mathrm{s} : \\  \\mathrm{\\mu} 1 - \\mathrm{\\mu} 2 , \\  Ha \\  \\mathrm{\\mu} 1 \\  < \\  \\mathrm{\\mu} 2$$ . Distribution for the test: Use $$t_{d f}$$ ; because each sample has more than 30 observations, $$d f = n_{1} + n_{2} - 2 = 33 + 33 - 2 = 64$$ . Estimate the critical value on the $$t$$ -table using the nearest available degrees of freedom, 60. The critical value, 2.660, is found in the .0005 column. Calculate the test statistic: $$t_{c} = \\frac{( \\overline{X}_{1} - \\overline{X}_{2} ) - 0}{\\sqrt{\\frac{s_{1}^{2}}{n_{2}} + \\frac{s_{2}^{2}}{n_{2}}}} = \\frac{( 74 . 64 - 111 . 56 ) - 0}{\\sqrt{\\frac{49 . 36^{2}}{33} + \\frac{66 . 90^{2}}{33}}} = - 2 . 55$$ . Using a calculator with $$t_{c} = - 2 . 55$$ and $$d f = 64$$ , the left-tailed $$p$$ -value: Decision: Reject $$H_{0}$$ . Conclusion: At the 1% level of significance, from the sample data, there is sufficient evidence to conclude that the mean price of sociology textbooks is less than the mean price of textbooks for math/science.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.3 Comparing Two Independent Population Proportions",
+        "Problem Statement": "Use the following information to answer the next three exercises. Neuroinvasive West Nile virus is a severe disease that affects a person\u2019s nervous system. It is spread by the Culex species of mosquito. In the United States in 2010, there were 629 reported  cases of neuroinvasive West Nile virus out of a total of 1,021 reported cases, and there were 486 neuroinvasive reported cases out of a total of 712 cases reported in 2011.  Is the 2011 proportion of neuroinvasive West Nile virus cases more than the 2010 proportion of neuroinvasive West Nile virus cases? Using a 1 percent level of significance, conduct an appropriate hypothesis test. - 2011 subscript: 2011 group. - 2010 subscript: 2010 group",
+        "Question": "A group of friends debated whether more men use smartphones than women.  They consulted a research study of smartphone use among adults. The results of the survey indicate that of the 973 men randomly sampled, 379 use smartphones.  For women, 404 of the 1,304 who were randomly sampled use smartphones. Test at the 5 percent level of significance.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.3 Comparing Two Independent Population Proportions",
+        "Problem Statement": "Use the following information to answer the next three exercises. Neuroinvasive West Nile virus is a severe disease that affects a person\u2019s nervous system. It is spread by the Culex species of mosquito. In the United States in 2010, there were 629 reported  cases of neuroinvasive West Nile virus out of a total of 1,021 reported cases, and there were 486 neuroinvasive reported cases out of a total of 712 cases reported in 2011.  Is the 2011 proportion of neuroinvasive West Nile virus cases more than the 2010 proportion of neuroinvasive West Nile virus cases? Using a 1 percent level of significance, conduct an appropriate hypothesis test. - 2011 subscript: 2011 group. - 2010 subscript: 2010 group",
+        "Question": "While her husband spent 2.5 hours picking out new speakers, a statistician decided to determine whether the percent of men who enjoy shopping for electronic equipment is higher than the percent of women who do. The population was Saturday afternoon shoppers. Out of 67 men, 24 said they enjoyed the activity. Eight of the 24 women surveyed claimed to enjoy the activity. Interpret the results of the survey.",
+        "Image Links": [],
+        "Answer": "Subscripts: 1: men; 2: women a) H 0 : p 1 \u2264 p 2 b) H a : p 1 > p 2 c) $$P^{\\prime}_{1} - P^{\\prime}_{2}$$ is the difference between the proportions of men and women who enjoy shopping for electronic equipment. d) normal for two proportions e) test statistic: 0.22 f) p -value: 0.4133 g) Check student\u2019s solution. h) Alpha: 0.05 Decision: Do not reject the null hypothesis. Reason for Decision: p -value > alpha Conclusion: At the 5 percent significance level, there is insufficient evidence to conclude that the proportion of men who enjoy shopping for electronic equipment is more than the proportion of women.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.3 Comparing Two Independent Population Proportions",
+        "Problem Statement": "Use the following information to answer the next three exercises. Neuroinvasive West Nile virus is a severe disease that affects a person\u2019s nervous system. It is spread by the Culex species of mosquito. In the United States in 2010, there were 629 reported  cases of neuroinvasive West Nile virus out of a total of 1,021 reported cases, and there were 486 neuroinvasive reported cases out of a total of 712 cases reported in 2011.  Is the 2011 proportion of neuroinvasive West Nile virus cases more than the 2010 proportion of neuroinvasive West Nile virus cases? Using a 1 percent level of significance, conduct an appropriate hypothesis test. - 2011 subscript: 2011 group. - 2010 subscript: 2010 group",
+        "Question": "We are interested in whether children\u2019s educational computer software costs less, on average, than children\u2019s entertainment software. Thirty-six educational software titles were randomly picked from a catalog. The mean cost was $31.14 with a standard deviation of $4.69. Thirty-five entertainment software titles were randomly picked from the same catalog. The mean cost was $33.86 with a standard deviation of $10.87. Decide whether children\u2019s educational software costs less, on average, than children\u2019s entertainment software.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.3 Comparing Two Independent Population Proportions",
+        "Problem Statement": "Use the following information to answer the next three exercises. Neuroinvasive West Nile virus is a severe disease that affects a person\u2019s nervous system. It is spread by the Culex species of mosquito. In the United States in 2010, there were 629 reported  cases of neuroinvasive West Nile virus out of a total of 1,021 reported cases, and there were 486 neuroinvasive reported cases out of a total of 712 cases reported in 2011.  Is the 2011 proportion of neuroinvasive West Nile virus cases more than the 2010 proportion of neuroinvasive West Nile virus cases? Using a 1 percent level of significance, conduct an appropriate hypothesis test. - 2011 subscript: 2011 group. - 2010 subscript: 2010 group",
+        "Question": "A researcher recently claimed that the proportion of college-age males who wear at least one piece of jewelery is as high as the proportion of college-age females. She conducted a survey in her classes. Out of 107 males, 20 wear at least one piece of jewelery. Out of 92 females, 47 wear at least one piece of jewelery. Do you believe that the proportion of males has reached the proportion of females?",
+        "Image Links": [],
+        "Answer": "a) H 0 : p 1 = p 2 b) H a : p 1 \u2260 p 2 c) $$P^{\\prime}_{1} - P^{\\prime}_{2}$$ is the difference between the proportions of men and women that have at least one pierced ear. d) normal for two proportions e) test statistic: -4.82 f) p -value: zero g) Check student\u2019s solution. h) Alpha: 0.05 Decision: Reject the null hypothesis. Reason for Decision: p -value < alpha Conclusion: At the 5 percent significance level, there is sufficient evidence to conclude that the proportions of males and females with at least one pierced ear is different.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.3 Comparing Two Independent Population Proportions",
+        "Problem Statement": "Use the following information to answer the next three exercises. Neuroinvasive West Nile virus is a severe disease that affects a person\u2019s nervous system. It is spread by the Culex species of mosquito. In the United States in 2010, there were 629 reported  cases of neuroinvasive West Nile virus out of a total of 1,021 reported cases, and there were 486 neuroinvasive reported cases out of a total of 712 cases reported in 2011.  Is the 2011 proportion of neuroinvasive West Nile virus cases more than the 2010 proportion of neuroinvasive West Nile virus cases? Using a 1 percent level of significance, conduct an appropriate hypothesis test. - 2011 subscript: 2011 group. - 2010 subscript: 2010 group",
+        "Question": "Use the data sets found in Appendix C to answer this exercise. Is the proportion of race laps Terri completes slower than 130 seconds less than the proportion of practice laps she completes slower than 135 seconds?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.3 Comparing Two Independent Population Proportions",
+        "Problem Statement": "Use the following information to answer the next three exercises. Neuroinvasive West Nile virus is a severe disease that affects a person\u2019s nervous system. It is spread by the Culex species of mosquito. In the United States in 2010, there were 629 reported  cases of neuroinvasive West Nile virus out of a total of 1,021 reported cases, and there were 486 neuroinvasive reported cases out of a total of 712 cases reported in 2011.  Is the 2011 proportion of neuroinvasive West Nile virus cases more than the 2010 proportion of neuroinvasive West Nile virus cases? Using a 1 percent level of significance, conduct an appropriate hypothesis test. - 2011 subscript: 2011 group. - 2010 subscript: 2010 group",
+        "Question": "To Breakfast or Not to Breakfast? by Richard Ayore In the American society, birthdays are one of those days that everyone looks forward to. People of different ages and peer groups gather to mark the 18th, 20th, \u2026, birthdays. During this time, one looks back to see what he or she has achieved for the past year and also focuses ahead for more to come. If, by any chance, I am invited to one of these parties, my experience is always different. Instead of dancing around with my friends while the music is booming, I get carried away by memories of my family back home in Kenya. I remember the good times I had with my brothers and sister while we did our daily routine. Every morning, I remember we went to the shamba (garden) to weed our crops. I remember one day arguing with my brother as to why he always remained behind just to join us an hour later. In his defense, he said that he preferred waiting for breakfast before he came to weed. He said, \u201cThis is why I always work more hours than you guys!\u201d And so, to prove him wrong or right, we decided to give it a try. One day we went to work as usual without breakfast, and recorded the time we could work before getting tired and stopping. On the next day, we all ate breakfast before going to work. We recorded how long we worked again before getting tired and stopping. Of interest was our mean increase in work time. Though not sure, my brother insisted that it was more than two hours. Using the data in Table 10.29 , solve our problem. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nWork hours with breakfast & Work hours without breakfast \\\\ \\hline\n8 & 6 \\\\ \\hline\n7 & 5 \\\\ \\hline\n9 & 5 \\\\ \\hline\n5 & 4 \\\\ \\hline\n9 & 7 \\\\ \\hline\n8 & 7 \\\\ \\hline\n10 & 7 \\\\ \\hline\n7 & 5 \\\\ \\hline\n6 & 6 \\\\ \\hline\n9 & 5 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "a) H 0 : \u00b5 d = 0 b) H a : \u00b5 d > 0 c) The random variable X d is the mean difference in work times on days when eating breakfast and on days when not eating breakfast. d) t 9 e) test statistic: 4.8963 f) p -value: 0.0004 g) Check student\u2019s solution. h) Alpha: 0.05 Decision: Reject the null hypothesis. Reason for Decision: p -value < alpha Conclusion: At the 5 percent level of significance, there is sufficient evidence to conclude that the mean difference in work times on days when eating breakfast and on days when not eating breakfast has increased.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.4 Matched or Paired Samples (Optional)",
+        "Problem Statement": "DIRECTIONS: For each of the word problems, use a solution sheet to do the hypothesis test. The solution sheet is found in Appendix E . Please feel free to make copies of the solution sheets. For the online version of the book, it is suggested that you copy the .doc or the .pdf files.",
+        "Question": "Ten individuals went on a low-fat diet for 12 weeks to lower their cholesterol. The data are recorded in Table 10.30 . Do you think that their cholesterol levels were significantly lowered? \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nStarting cholesterol level & Ending cholesterol level \\\\ \\hline\n140 & 140 \\\\ \\hline\n220 & 230 \\\\ \\hline\n110 & 120 \\\\ \\hline\n240 & 220 \\\\ \\hline\n200 & 190 \\\\ \\hline\n180 & 150 \\\\ \\hline\n190 & 200 \\\\ \\hline\n360 & 300 \\\\ \\hline\n280 & 300 \\\\ \\hline\n260 & 240 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "p -value = 0.1494 At the 5 percent significance level, there is insufficient evidence to conclude that the medication lowered cholesterol levels after 12 weeks.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.4 Matched or Paired Samples (Optional)",
+        "Problem Statement": "Use the following information to answer the next two exercises. A new preventative medication was tried on a group of 224 patients who had the same risk factors for a disease. 45 patients developed the disease after four years. In a control group of 224 patients, 68 developed the disease after four years. We want to test whether the method of treatment reduces the proportion of patients who develop the disease after four years. Let the subscript t = treated patient and ut = untreated patient.",
+        "Question": "The appropriate hypotheses are a) H 0 : p t < p ut and H a : p t \u2265 p ut b) H 0 : p t \u2264 p ut and H a : p t > p ut c) H 0 : p t = p ut and H a : p t \u2260 p ut d) H 0 : p t = p ut and H a : p t < p ut",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.4 Matched or Paired Samples (Optional)",
+        "Problem Statement": "Use the following information to answer the next two exercises. A new preventative medication was tried on a group of 224 patients who had the same risk factors for a disease. 45 patients developed the disease after four years. In a control group of 224 patients, 68 developed the disease after four years. We want to test whether the method of treatment reduces the proportion of patients who develop the disease after four years. Let the subscript t = treated patient and ut = untreated patient.",
+        "Question": "If the p -value is 0.0062, what is the conclusion? Use \u03b1 = 0.05. a) The method has no effect. b) There is sufficient evidence to conclude that the method reduces the proportion of patients who develop the disease after four years. c) There is sufficient evidence to conclude that the method increases the proportion of patients who develop the disease after four years. d) There is insufficient evidence to conclude that the method reduces the proportion of patients who develop the disease after four years.",
+        "Image Links": [],
+        "Answer": "b",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.4 Matched or Paired Samples (Optional)",
+        "Problem Statement": "Use the following information to answer the next two exercises. An experiment is conducted to show that blood pressure can be consciously reduced in people trained in a biofeedback exercise program. Six subjects were randomly selected, and blood pressure measurements were recorded before and after the training. The difference between blood pressures was calculated (after - before), producing the following results: $$\\overline{x}_{d}$$ = -10.2 s d = 8.4. Using the data, test the hypothesis that the blood pressure has decreased after the training.",
+        "Question": "The distribution for the test is a) t 5 b) t 6 c) N (-10.2, 8.4) d) N(-10.2, $$\\frac{8.4}{\\sqrt{6}}$$ )",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.4 Matched or Paired Samples (Optional)",
+        "Problem Statement": "Use the following information to answer the next two exercises. An experiment is conducted to show that blood pressure can be consciously reduced in people trained in a biofeedback exercise program. Six subjects were randomly selected, and blood pressure measurements were recorded before and after the training. The difference between blood pressures was calculated (after - before), producing the following results: $$\\overline{x}_{d}$$ = -10.2 s d = 8.4. Using the data, test the hypothesis that the blood pressure has decreased after the training.",
+        "Question": "If \u03b1 = 0.05, the p -value and the conclusion are a) 0.0014; There is sufficient evidence to conclude that the blood pressure decreased after the training. b) 0.0014; There is sufficient evidence to conclude that the blood pressure increased after the training. c) 0.0155; There is sufficient evidence to conclude that the blood pressure decreased after the training. d) 0.0155; There is sufficient evidence to conclude that the blood pressure increased after the training.",
+        "Image Links": [],
+        "Answer": "c",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.4 Matched or Paired Samples (Optional)",
+        "Problem Statement": "Use the following information to answer the next two exercises. An experiment is conducted to show that blood pressure can be consciously reduced in people trained in a biofeedback exercise program. Six subjects were randomly selected, and blood pressure measurements were recorded before and after the training. The difference between blood pressures was calculated (after - before), producing the following results: $$\\overline{x}_{d}$$ = -10.2 s d = 8.4. Using the data, test the hypothesis that the blood pressure has decreased after the training.",
+        "Question": "A golf instructor is interested in determining if her new technique for improving players\u2019 golf scores is effective. She takes four new students. She records their 18-hole scores before learning the technique and then after having taken her class. She conducts a hypothesis test. The data are as follows. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\n & Player 1 & Player 2 & Player 3 & Player 4 \\\\ \\hline\nMean score before class & 83 & 78 & 93 & 87 \\\\ \\hline\nMean score after class & 80 & 80 & 86 & 86 \\\\ \\hline\n\\end{tabular}\n\\end{table} The correct decision is a) reject H 0 . b) do not reject H 0 .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.4 Matched or Paired Samples (Optional)",
+        "Problem Statement": "Use the following information to answer the next two exercises. An experiment is conducted to show that blood pressure can be consciously reduced in people trained in a biofeedback exercise program. Six subjects were randomly selected, and blood pressure measurements were recorded before and after the training. The difference between blood pressures was calculated (after - before), producing the following results: $$\\overline{x}_{d}$$ = -10.2 s d = 8.4. Using the data, test the hypothesis that the blood pressure has decreased after the training.",
+        "Question": "A local research group is studying a chronic disease. They believe the number of cases of the disease is higher in 2013 than in 2012 in the southern United States. The group compared the estimates of new cases by southern state in 2012 and 2013. The results are in Table 10.32 . \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\nSouthern States & 2012 & 2013 \\\\ \\hline\nAlabama & 3,450 & 3,720 \\\\ \\hline\nArkansas & 2,150 & 2,280 \\\\ \\hline\nFlorida & 15,540 & 15,710 \\\\ \\hline\nGeorgia & 6,970 & 7,310 \\\\ \\hline\nKentucky & 3,160 & 3,300 \\\\ \\hline\nLouisiana & 3,320 & 3,630 \\\\ \\hline\nMississippi & 1,990 & 2,080 \\\\ \\hline\nNorth Carolina & 7,090 & 7,430 \\\\ \\hline\nOklahoma & 2,630 & 2,690 \\\\ \\hline\nSouth Carolina & 3,570 & 3,580 \\\\ \\hline\nTennessee & 4,680 & 5,070 \\\\ \\hline\nTexas & 15,050 & 14,980 \\\\ \\hline\nVirginia & 6,190 & 6,280 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "Test: two matched pairs or paired samples ( t -test) Random variable: $$\\overline{X}_{d}$$ Distribution: t 12 H 0 : \u03bc d = 0 H a : \u03bc d > 0 The mean of the differences of new female breast cancer cases in the south between 2013 and 2012 is greater than zero. The estimate for new female breast cancer cases in the south is higher in 2013 than in 2012. Graph: right-tailed p -value: 0.0004 Figure 10.22 Decision: Reject H 0 . Conclusion: At the 5 percent level of significance, from the sample data, there is sufficient evidence to conclude that there was a higher estimate of new female breast cancer cases in 2013 than in 2012.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/fc06f9e94bbb9672e98cc1af95e819b5d65e96bd"
+        ]
+    },
+    {
+        "Topic": "10.4 Matched or Paired Samples (Optional)",
+        "Problem Statement": "Use the following information to answer the next two exercises. An experiment is conducted to show that blood pressure can be consciously reduced in people trained in a biofeedback exercise program. Six subjects were randomly selected, and blood pressure measurements were recorded before and after the training. The difference between blood pressures was calculated (after - before), producing the following results: $$\\overline{x}_{d}$$ = -10.2 s d = 8.4. Using the data, test the hypothesis that the blood pressure has decreased after the training.",
+        "Question": "A traveler wanted to know if the prices of hotels are different in the 10 cities that he visits the most often. The list of the cities with the corresponding prices for his two favorite hotel chains is in Table 10.33 .  Test at the 1 percent level of significance. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\nCities & Hyatt Regency prices in dollars & Hilton prices in dollars \\\\ \\hline\nAtlanta & 107 & 169 \\\\ \\hline\nBoston & 358 & 289 \\\\ \\hline\nChicago & 209 & 299 \\\\ \\hline\nDallas & 209 & 198 \\\\ \\hline\nDenver & 167 & 169 \\\\ \\hline\nIndianapolis & 179 & 214 \\\\ \\hline\nLos Angeles & 179 & 169 \\\\ \\hline\nNew York City & 625 & 459 \\\\ \\hline\nPhiladelphia & 179 & 159 \\\\ \\hline\nWashington, DC & 245 & 239 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.4 Matched or Paired Samples (Optional)",
+        "Problem Statement": "Use the following information to answer the next two exercises. An experiment is conducted to show that blood pressure can be consciously reduced in people trained in a biofeedback exercise program. Six subjects were randomly selected, and blood pressure measurements were recorded before and after the training. The difference between blood pressures was calculated (after - before), producing the following results: $$\\overline{x}_{d}$$ = -10.2 s d = 8.4. Using the data, test the hypothesis that the blood pressure has decreased after the training.",
+        "Question": "A politician asked his staff to determine whether the underemployment rate in the Northeast decreased from 2011 to 2012.  The results are in Table 10.34 . \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\nNortheastern States & 2011 & 2012 \\\\ \\hline\nConnecticut & 17.3 & 16.4 \\\\ \\hline\nDelaware & 17.4 & 13.7 \\\\ \\hline\nMaine & 19.3 & 16.1 \\\\ \\hline\nMaryland & 16.0 & 15.5 \\\\ \\hline\nMassachusetts & 17.6 & 18.2 \\\\ \\hline\nNew Hampshire & 15.4 & 13.5 \\\\ \\hline\nNew Jersey & 19.2 & 18.7 \\\\ \\hline\nNew York & 18.5 & 18.7 \\\\ \\hline\nOhio & 18.2 & 18.8 \\\\ \\hline\nPennsylvania & 16.5 & 16.9 \\\\ \\hline\nRhode Island & 20.7 & 22.4 \\\\ \\hline\nVermont & 14.7 & 12.3 \\\\ \\hline\nWest Virginia & 15.5 & 17.3 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "Test: matched or paired samples ( t -test) Difference data: {-0.9, -3.7, -3.2, -0.5, 0.6, -1.9, -0.5, 0.2, 0.6, 0.4, 1.7, -2.4, 1.8} Random Variable: $$\\overline{X}_{d}$$ Distribution: H 0 : \u03bc d = 0 H a : \u03bc d < 0 The mean of the differences of the rate of underemployment in the northeastern states between 2012 and 2011 is less than zero.  The underemployment rate went down from 2011 to 2012. Graph: left-tailed. Figure 10.23 p -value: 0.1207 Decision: Do not reject H 0 . Conclusion: At the 5 percent level of significance, from the sample data, there is not sufficient evidence to conclude that there was a decrease in the underemployment rates of the northeastern states from 2011 to 2012.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/076a81777e4744a899578a9115130c4a31447659"
+        ]
+    }
+]

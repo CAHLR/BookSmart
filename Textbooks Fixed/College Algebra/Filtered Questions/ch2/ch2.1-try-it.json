@@ -1,0 +1,38 @@
+[
+  {
+    "Topic": "Try It #3",
+    "Problem Statement": "",
+    "Question": "Find the distance between two points: $$( 1 , 4 )$$ and $$( 11 , 9 ) .$$",
+    "Image Links": [],
+    "Answer": "$$\\sqrt{125} = 5 \\sqrt{5}$$",
+    "Answer Image Links": [],
+    "o3 Answer": "To find the distance d between two points (x₁, y₁) and (x₂, y₂) in the plane, use the distance formula\n\nd = √[(x₂ − x₁)² + (y₂ − y₁)²].\n\nFor (1, 4) and (11, 9):\n\n1. Compute the differences in coordinates.\n   Δx = 11 − 1 = 10  \n   Δy = 9 − 4 = 5  \n\n2. Square and add.\n   (Δx)² + (Δy)² = 10² + 5² = 100 + 25 = 125  \n\n3. Take the square root.\n   d = √125 = √(25 · 5) = 5√5 ≈ 11.18.\n\nDistance ≈ 11.18 units (exact value 5√5).",
+    "o4-mini Answer": "To find the distance between \\(P=(1,4)\\) and \\(Q=(11,9)\\), use the distance formula  \n \\(d = \\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}\\).  \n\nHere  \n \\(\\Delta x = 11 - 1 = 10\\),  \n \\(\\Delta y = 9 - 4 = 5\\).  \n\nSo  \n \\(d = \\sqrt{10^2 + 5^2}  \n       = \\sqrt{100 + 25}  \n       = \\sqrt{125}  \n       = 5\\sqrt{5}  \n       \\approx 11.18\\).",
+    "deepseek-chat Answer": "To find the distance between the two points \\((1, 4)\\) and \\((11, 9)\\), we can use the **distance formula**:\n\n\\[\n\\text{Distance} = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}\n\\]\n\n**Step 1:** Identify the coordinates of the two points.\n\n\\[\n(x_1, y_1) = (1, 4) \\\\\n(x_2, y_2) = (11, 9)\n\\]\n\n**Step 2:** Plug the coordinates into the distance formula.\n\n\\[\n\\text{Distance} = \\sqrt{(11 - 1)^2 + (9 - 4)^2}\n\\]\n\n**Step 3:** Calculate the differences inside the parentheses.\n\n\\[\n11 - 1 = 10 \\\\\n9 - 4 = 5\n\\]\n\n**Step 4:** Square the differences.\n\n\\[\n10^2 = 100 \\\\\n5^2 = 25\n\\]\n\n**Step 5:** Add the squared differences.\n\n\\[\n100 + 25 = 125\n\\]\n\n**Step 6:** Take the square root of the sum.\n\n\\[\n\\sqrt{125} = \\sqrt{25 \\times 5} = 5\\sqrt{5}\n\\]\n\n**Final Answer:**\n\n\\[\n\\boxed{5\\sqrt{5}}\n\\]",
+    "gemini-2.5-pro Answer": "Of course! Let's solve this step-by-step.\n\nTo find the distance between two points, we use the distance formula, which is derived from the Pythagorean theorem.\n\n### The Distance Formula\n\nThe distance `d` between two points $$(x_1, y_1)$$ and $$(x_2, y_2)$$ is given by:\n$$d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$\n\n### Step 1: Identify your points\n\nLet the first point be $$(x_1, y_1) = (1, 4)$$\nLet the second point be $$(x_2, y_2) = (11, 9)$$\n\n### Step 2: Plug the values into the formula\n\n$$d = \\sqrt{(11 - 1)^2 + (9 - 4)^2}$$\n\n### Step 3: Simplify inside the parentheses\n\n$$d = \\sqrt{(10)^2 + (5)^2}$$\n\n### Step 4: Square the numbers\n\n$$d = \\sqrt{100 + 25}$$\n\n### Step 5: Add the numbers inside the square root\n\n$$d = \\sqrt{125}$$\n\n### Step 6: Simplify the radical (optional, but good practice)\n\nTo simplify $$\\sqrt{125}$$, we look for perfect square factors of 125. We know that $$125 = 25 \\times 5$$, and 25 is a perfect square ($$5^2$$).\n\n$$d = \\sqrt{25 \\times 5}$$\n$$d = \\sqrt{25} \\times \\sqrt{5}$$\n$$d = 5\\sqrt{5}$$\n\nThe exact distance between the two points is $$5\\sqrt{5}$$.\n\nIf you need a decimal approximation, $$\\sqrt{5} \\approx 2.236$$, so the distance is approximately $$5 \\times 2.236 \\approx 11.18$$.\n\n### Final Answer\n\nThe distance between the points (1, 4) and (11, 9) is **$$5\\sqrt{5}$$**.",
+    "gpt-5 Answer": "Use the distance formula: d = √[(x₂ − x₁)² + (y₂ − y₁)²].\n\nHere, Δx = 11 − 1 = 10 and Δy = 9 − 4 = 5.\nSo d = √(10² + 5²) = √(100 + 25) = √125 = 5√5 ≈ 11.18 units.",
+    "o3 Eval": true,
+    "o4-mini Eval": true,
+    "deepseek-chat Eval": true,
+    "gemini-2.5-pro Eval": true,
+    "gpt-5 Eval": true
+  },
+  {
+    "Topic": "Try It #4",
+    "Problem Statement": "",
+    "Question": "Find the midpoint of the line segment with endpoints $$( -2 , -1 )$$ and $$( -8 , 6 ) .$$",
+    "Image Links": [],
+    "Answer": "$$( - 5 , \\frac{5}{2} )$$",
+    "Answer Image Links": [],
+    "o3 Answer": "Use the midpoint formula  \nMidpoint = ( (x₁ + x₂)/2 , (y₁ + y₂)/2 ).\n\nFor the points (−2, −1) and (−8, 6):\n\nx–coordinate: (−2 + (−8)) / 2 = (−10)/2 = −5  \ny–coordinate: (−1 + 6) / 2 = 5/2 = 2.5\n\nTherefore the midpoint is  \n(−5, 5⁄2)  or  (−5, 2.5).",
+    "o4-mini Answer": "The midpoint \\((M_x,M_y)\\) of \\((x_1,y_1)\\) and \\((x_2,y_2)\\) is given by  \n\\(M_x=\\frac{x_1+x_2}2,\\quad M_y=\\frac{y_1+y_2}2.\\)  \nHere \\((x_1,y_1)=(-2,-1)\\) and \\((x_2,y_2)=(-8,6)\\), so  \n\\(M_x=\\frac{-2+(-8)}2=\\frac{-10}2=-5,\\)  \n\\(M_y=\\frac{-1+6}2=\\frac{5}2=2.5.\\)  \nTherefore the midpoint is \\(\\displaystyle(-5,\\;\\tfrac{5}{2})\\).",
+    "deepseek-chat Answer": "To find the midpoint of the line segment with endpoints \\((-2, -1)\\) and \\((-8, 6)\\), we can use the **midpoint formula**:\n\n\\[\n\\text{Midpoint} = \\left( \\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2} \\right)\n\\]\n\n**Step 1:** Identify the coordinates of the endpoints.\n\n\\[\n(x_1, y_1) = (-2, -1) \\\\\n(x_2, y_2) = (-8, 6)\n\\]\n\n**Step 2:** Plug the coordinates into the midpoint formula.\n\n\\[\n\\text{Midpoint} = \\left( \\frac{-2 + (-8)}{2}, \\frac{-1 + 6}{2} \\right)\n\\]\n\n**Step 3:** Simplify the expressions.\n\n\\[\n\\text{Midpoint} = \\left( \\frac{-10}{2}, \\frac{5}{2} \\right) = (-5, 2.5)\n\\]\n\n**Final Answer:**\n\n\\[\n\\boxed{(-5,\\ 2.5)}\n\\]\n\nAlternatively, the midpoint can also be expressed as:\n\n\\[\n\\boxed{\\left( -5,\\ \\frac{5}{2} \\right)}\n\\]\n\nBoth forms are correct.",
+    "gemini-2.5-pro Answer": "Of course! Let's solve this step-by-step.\n\n### **Problem**\nFind the midpoint of the line segment with endpoints $$(-2, -1)$$ and $$(-8, 6)$$.\n\n---\n\n### **1. The Midpoint Formula**\n\nTo find the midpoint of a line segment, we use the midpoint formula. This formula finds the average of the x-coordinates and the average of the y-coordinates.\n\nGiven two endpoints, $$(x_1, y_1)$$ and $$(x_2, y_2)$$, the midpoint is:\n$$ \\text{Midpoint} = \\left( \\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2} \\right) $$\n\n---\n\n### **2. Identify Your Coordinates**\n\nLet's identify the coordinates from the given endpoints:\n*   First point: $$(x_1, y_1) = (-2, -1)$$\n*   Second point: $$(x_2, y_2) = (-8, 6)$$\n\nSo we have:\n*   $$x_1 = -2$$\n*   $$y_1 = -1$$\n*   $$x_2 = -8$$\n*   $$y_2 = 6$$\n\n---\n\n### **3. Substitute and Solve**\n\nNow, plug these values into the midpoint formula.\n\n**Find the x-coordinate of the midpoint:**\n$$ \\frac{x_1 + x_2}{2} = \\frac{-2 + (-8)}{2} = \\frac{-2 - 8}{2} = \\frac{-10}{2} = -5 $$\n\n**Find the y-coordinate of the midpoint:**\n$$ \\frac{y_1 + y_2}{2} = \\frac{-1 + 6}{2} = \\frac{5}{2} $$\n\n---\n\n### **4. Final Answer**\n\nCombine the new x and y coordinates to get the midpoint.\n\nThe midpoint of the line segment is $$ \\left(-5, \\frac{5}{2}\\right) $$.\n\n(You can also write this using a decimal: $$(-5, 2.5)$$)",
+    "gpt-5 Answer": "Use the midpoint formula: M = ((x1 + x2)/2, (y1 + y2)/2).\n\nFor (-2, -1) and (-8, 6):\n- x: (-2 + -8)/2 = -10/2 = -5\n- y: (-1 + 6)/2 = 5/2\n\nMidpoint: (-5, 5/2)",
+    "o3 Eval": true,
+    "o4-mini Eval": true,
+    "deepseek-chat Eval": true,
+    "gemini-2.5-pro Eval": true,
+    "gpt-5 Eval": true
+  }
+]

@@ -1,0 +1,496 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the triple integrals over the rectangular solid box $$B .$$",
+        "Question": "$$\\iiint_{B} ( 2 x + 3 y^{2} + 4 z^{3} ) d V ,$$ where $$B = \\{ ( x , y , z ) | 0 \\le x \\le 1 , 0 \\le y \\le 2 , 0 \\le z \\le 3 \\}$$",
+        "Image Links": [],
+        "Answer": "$$192$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the triple integrals over the rectangular solid box $$B .$$",
+        "Question": "$$\\iiint_{B} ( x y + y z + x z ) d V ,$$ where $$B = \\{ ( x , y , z ) | 1 \\le x \\le 2 , 0 \\le y \\le 2 , 1 \\le z \\le 3 \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the triple integrals over the rectangular solid box $$B .$$",
+        "Question": "$$\\iiint_{B} ( x \\text{cos} y + z ) d V ,$$ where $$B = \\{ ( x , y , z ) | 0 \\le x \\le 1 , 0 \\le y \\le \\pi , -1 \\le z \\le 1 \\}$$",
+        "Image Links": [],
+        "Answer": "$$0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the triple integrals over the rectangular solid box $$B .$$",
+        "Question": "$$\\iiint_{B} ( z \\text{sin} x + y^{2} ) d V ,$$ where $$B = \\{ ( x , y , z ) | 0 \\le x \\le \\pi , 0 \\le y \\le 1 , -1 \\le z \\le 2 \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration by integrating first with respect to $$z ,$$ then $$x ,$$ then $$y .$$",
+        "Question": "$$\\int_{0}^{1} \\int_{1}^{2} \\int_{2}^{3} ( x^{2} + \\text{ln} y + z ) d x d y d z$$",
+        "Image Links": [],
+        "Answer": "$$\\int_{1}^{2} \\int_{2}^{3} \\int_{0}^{1} ( x^{2} + \\text{ln} y + z ) d z d x d y = \\frac{35}{6} + 2 \\text{ln} 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration by integrating first with respect to $$z ,$$ then $$x ,$$ then $$y .$$",
+        "Question": "$$\\int_{0}^{1} \\int_{-1}^{1} \\int_{0}^{3} ( z e^{x} + 2 y ) d z d x d y$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration by integrating first with respect to $$z ,$$ then $$x ,$$ then $$y .$$",
+        "Question": "$$\\int_{-1}^{2} \\int_{1}^{3} \\int_{0}^{4} ( x^{2} z + \\frac{1}{y} ) d x d y d z$$",
+        "Image Links": [],
+        "Answer": "$$\\int_{1}^{3} \\int_{0}^{4} \\int_{-1}^{2} ( x^{2} z + \\frac{1}{y} ) d z d x d y = 64 + 12 \\text{ln} 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration by integrating first with respect to $$z ,$$ then $$x ,$$ then $$y .$$",
+        "Question": "$$\\int_{1}^{2} \\int_{-2}^{-1} \\int_{0}^{1} \\frac{x + y}{z} d x d y d z$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration by integrating first with respect to $$z ,$$ then $$x ,$$ then $$y .$$",
+        "Question": "Let $$F , G , \\text{and} H$$ be continuous functions on $$[ a , b ] , [ c , d ] ,$$ and $$[ e , f ] ,$$ respectively, where $$a , b , c , d , e , \\text{and} f$$ are real numbers such that $$a < b , c < d , \\text{and} e < f .$$ Show that $$\\int_{a}^{b} \\int_{c}^{d} \\int_{e}^{f} F ( x ) G ( y ) H ( z ) d z d y d x = ( \\int_{a}^{b} F ( x ) d x ) ( \\int_{c}^{d} G ( y ) d y ) ( \\int_{e}^{f} H ( z ) d z ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, change the order of integration by integrating first with respect to $$z ,$$ then $$x ,$$ then $$y .$$",
+        "Question": "Let $$F , G , \\text{and} H$$ be differential functions on $$[ a , b ] , [ c , d ] ,$$ and $$[ e , f ] ,$$ respectively, where $$a , b , c , d , e , \\text{and} f$$ are real numbers such that $$a < b , c < d , \\text{and} e < f .$$ Show that $$\\int_{a}^{b} \\int_{c}^{d} \\int_{e}^{f} F^{\\prime} ( x ) G^{\\prime} ( y ) H^{\\prime} ( z ) d z d y d x = [ F ( b ) - F ( a ) ] [ G ( d ) - G ( c ) ] [ H ( f ) - H ( e ) ] .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the triple integrals over the bounded region $$E = \\{ ( x , y , z ) | a \\le x \\le b , h_{1} ( x ) \\le y \\le h_{2} ( x ) , e \\le z \\le f \\} .$$",
+        "Question": "$$\\iiint_{E} ( 2 x + 5 y + 7 z ) d V ,$$ where $$E = \\{ ( x , y , z ) | 0 \\le x \\le 1 , 0 \\le y \\le - x + 1 , 1 \\le z \\le 2 \\}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{77}{12}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the triple integrals over the bounded region $$E = \\{ ( x , y , z ) | a \\le x \\le b , h_{1} ( x ) \\le y \\le h_{2} ( x ) , e \\le z \\le f \\} .$$",
+        "Question": "$$\\iiint_{E} ( y \\text{ln} x + z ) d V ,$$ where $$E = \\{ ( x , y , z ) | 1 \\le x \\le e , 0 \\le y \\le \\text{ln} x , 0 \\le z \\le 1 \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the triple integrals over the bounded region $$E = \\{ ( x , y , z ) | a \\le x \\le b , h_{1} ( x ) \\le y \\le h_{2} ( x ) , e \\le z \\le f \\} .$$",
+        "Question": "$$\\iiint_{E} ( \\text{sin} x + \\text{sin} y ) d V ,$$ where $$E = \\{ ( x , y , z ) | 0 \\le x \\le \\frac{\\pi}{2} , \\text{unicode[:-]} \\text{cos} x \\le y \\le \\text{cos} x , -1 \\le z \\le 1 \\}$$",
+        "Image Links": [],
+        "Answer": "$$2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the triple integrals over the bounded region $$E = \\{ ( x , y , z ) | a \\le x \\le b , h_{1} ( x ) \\le y \\le h_{2} ( x ) , e \\le z \\le f \\} .$$",
+        "Question": "$$\\iiint_{E} ( x y + y z + x z ) d V ,$$ where $$E = \\{ ( x , y , z ) | 0 \\le x \\le 1 , \\text{unicode[:-]} x^{2} \\le y \\le x^{2} , 0 \\le z \\le 1 \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the triple integrals over the indicated bounded region $$E .$$",
+        "Question": "$$\\iiint_{E} ( x + 2 y z ) d V ,$$ where $$E = \\{ ( x , y , z ) | 0 \\le x \\le 1 , 0 \\le y \\le x , 0 \\le z \\le 5 - x - y \\}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{439}{120}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the triple integrals over the indicated bounded region $$E .$$",
+        "Question": "$$\\iiint_{E} ( x^{3} + y^{3} + z^{3} ) d V ,$$ where $$E = \\{ ( x , y , z ) | 0 \\le x \\le 2 , 0 \\le y \\le 2 x , 0 \\le z \\le 4 - x - y \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the triple integrals over the indicated bounded region $$E .$$",
+        "Question": "$$\\iiint_{E} y d V ,$$ where $$E = \\{ ( x , y , z ) | - 1 \\le x \\le 1 , \\text{unicode[:-]} \\sqrt{1 - x^{2}} \\le y \\le \\sqrt{1 - x^{2}} , 0 \\le z \\le 1 - x^{2} - y^{2} \\}$$",
+        "Image Links": [],
+        "Answer": "$$0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the triple integrals over the indicated bounded region $$E .$$",
+        "Question": "$$\\iiint_{E} x d V ,$$ where $$E = \\{ ( x , y , z ) | - 2 \\le x \\le 2 , - \\sqrt{4 - x^{2}} \\le y \\le \\sqrt{4 - x^{2}} , 0 \\le z \\le 4 - x^{2} - y^{2} \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the triple integrals over the bounded region $$E$$ of the form $$E = \\{ ( x , y , z ) | g_{1} ( y ) \\le x \\le g_{2} ( y ) , c \\le y \\le d , e \\le z \\le f \\} .$$",
+        "Question": "$$\\iiint_{E} x^{2} d V ,$$ where $$E = \\{ ( x , y , z ) | 1 - y^{2} \\le x \\le y^{2} - 1 , -1 \\le y \\le 1 , 1 \\le z \\le 2 \\}$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{64}{105}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the triple integrals over the bounded region $$E$$ of the form $$E = \\{ ( x , y , z ) | g_{1} ( y ) \\le x \\le g_{2} ( y ) , c \\le y \\le d , e \\le z \\le f \\} .$$",
+        "Question": "$$\\iiint_{E} ( \\text{sin} x + y ) d V ,$$ where $$E = \\{ ( x , y , z ) | - y^{4} \\le x \\le y^{4} , 0 \\le y \\le 2 , 0 \\le z \\le 4 \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the triple integrals over the bounded region $$E$$ of the form $$E = \\{ ( x , y , z ) | g_{1} ( y ) \\le x \\le g_{2} ( y ) , c \\le y \\le d , e \\le z \\le f \\} .$$",
+        "Question": "$$\\iiint_{E} ( x - y z ) d V ,$$ where $$E = \\{ ( x , y , z ) | - y^{6} \\le x \\le \\sqrt{y} , 0 \\le y \\le 1 , -1 \\le z \\le 1 \\}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{11}{26}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the triple integrals over the bounded region $$E$$ of the form $$E = \\{ ( x , y , z ) | g_{1} ( y ) \\le x \\le g_{2} ( y ) , c \\le y \\le d , e \\le z \\le f \\} .$$",
+        "Question": "$$\\iiint_{E} z d V ,$$ where $$E = \\{ ( x , y , z ) | 2 - 2 y \\le x \\le 2 + \\sqrt{y} , 0 \\le y \\le 1 , 2 \\le z \\le 3 \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the triple integrals over the bounded region $$E = \\{ ( x , y , z ) | g_{1} ( y ) \\le x \\le g_{2} ( y ) , c \\le y \\le d , u_{1} ( x , y ) \\le z \\le u_{2} ( x , y ) \\} .$$",
+        "Question": "$$\\iiint_{E} z d V ,$$ where $$E = \\{ ( x , y , z ) | - y \\le x \\le y , 0 \\le y \\le 1 , 0 \\le z \\le 1 - x^{4} - y^{4} \\}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{113}{450}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the triple integrals over the bounded region $$E = \\{ ( x , y , z ) | g_{1} ( y ) \\le x \\le g_{2} ( y ) , c \\le y \\le d , u_{1} ( x , y ) \\le z \\le u_{2} ( x , y ) \\} .$$",
+        "Question": "$$\\iiint_{E} ( x z + 1 ) d V ,$$ where $$E = \\{ ( x , y , z ) | 0 \\le x \\le \\sqrt{y} , 0 \\le y \\le 2 , 0 \\le z \\le 1 - x^{2} - y^{2} \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the triple integrals over the bounded region $$E = \\{ ( x , y , z ) | g_{1} ( y ) \\le x \\le g_{2} ( y ) , c \\le y \\le d , u_{1} ( x , y ) \\le z \\le u_{2} ( x , y ) \\} .$$",
+        "Question": "$$\\iiint_{E} ( x - z ) d V ,$$ where $$E = \\{ ( x , y , z ) | - \\sqrt{1 - y^{2}} \\le x \\le 0 , 0 \\le y \\le \\frac{1}{2} , 0 \\le z \\le 1 - x^{2} - y^{2} \\}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{- 609 - 216 \\sqrt{3} - 80 \\mathrm{\\pi}}{5760} \\approx - 0 . 21431$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the triple integrals over the bounded region $$E = \\{ ( x , y , z ) | g_{1} ( y ) \\le x \\le g_{2} ( y ) , c \\le y \\le d , u_{1} ( x , y ) \\le z \\le u_{2} ( x , y ) \\} .$$",
+        "Question": "$$\\iiint_{E} ( x + y ) d V ,$$ where $$E = \\{ ( x , y , z ) | 0 \\le x \\le \\sqrt{1 - y^{2}} , 0 \\le y \\le 1 , 0 \\le z \\le 1 - x \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "$$E = \\{ ( x , y , z ) | ( x , y ) \\in D , u_{1} ( x , y ) \\le z \\le u_{2} ( x , y ) \\} ,$$ where $$D$$ is the projection of $$E$$ onto the $$x y$$ -plane.",
+        "Question": "$$\\iint_{D} ( \\int_{1}^{2} ( x + z ) d z ) d A ,$$ where $$D = \\{ ( x , y ) | x^{2} + y^{2} \\le 1 \\}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3 \\pi}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "$$E = \\{ ( x , y , z ) | ( x , y ) \\in D , u_{1} ( x , y ) \\le z \\le u_{2} ( x , y ) \\} ,$$ where $$D$$ is the projection of $$E$$ onto the $$x y$$ -plane.",
+        "Question": "$$\\iint_{D} ( \\int_{1}^{3} x ( z + 1 ) d z ) d A ,$$ where $$D = \\{ ( x , y ) | x^{2} - y^{2} \\geq 1 , 1 \\le x \\le \\sqrt{5} \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "$$E = \\{ ( x , y , z ) | ( x , y ) \\in D , u_{1} ( x , y ) \\le z \\le u_{2} ( x , y ) \\} ,$$ where $$D$$ is the projection of $$E$$ onto the $$x y$$ -plane.",
+        "Question": "$$\\iint_{D} ( \\int_{0}^{10 - x - y} ( x + 2 z ) d z ) d A ,$$ where $$D = \\{ ( x , y ) | y \\geq 0 , x \\geq 0 , x + y \\le 10 \\}$$",
+        "Image Links": [],
+        "Answer": "$$1250$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "$$E = \\{ ( x , y , z ) | ( x , y ) \\in D , u_{1} ( x , y ) \\le z \\le u_{2} ( x , y ) \\} ,$$ where $$D$$ is the projection of $$E$$ onto the $$x y$$ -plane.",
+        "Question": "$$\\iint_{D} ( \\int_{0}^{4 x^{2} + 4 y^{2}} y d z ) d A ,$$ where $$D = \\{ ( x , y ) | x^{2} + y^{2} \\le 4 , y \\geq 1 , x \\geq 0 \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "$$E = \\{ ( x , y , z ) | ( x , y ) \\in D , u_{1} ( x , y ) \\le z \\le u_{2} ( x , y ) \\} ,$$ where $$D$$ is the projection of $$E$$ onto the $$x y$$ -plane.",
+        "Question": "The solid $$E$$ bounded by $$y^{2} + z^{2} = 9 , z = 0 , x = 0 ,$$ and $$x = 5$$ is shown in the following figure. Evaluate the integral $$\\iiint_{E} z d V$$ by integrating first with respect to $$z ,$$ then $$y , \\text{and then} x .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1b0c85d61ddc5dbfaa299a918cfce2587a84fdf8"
+        ],
+        "Answer": "$$\\int_{0}^{5} \\int_{-3}^{3} \\int_{0}^{\\sqrt{9 - y^{2}}} z d z d y d x = 90$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "$$E = \\{ ( x , y , z ) | ( x , y ) \\in D , u_{1} ( x , y ) \\le z \\le u_{2} ( x , y ) \\} ,$$ where $$D$$ is the projection of $$E$$ onto the $$x y$$ -plane.",
+        "Question": "The solid $$E$$ bounded by $$y = \\sqrt{x} ,$$ $$x = 4 ,$$ $$y = 0 ,$$ $$z = - 2$$ , and $$z = 1$$ is given in the following figure. Evaluate the integral $$\\iiint_{E} x y z d V$$ by integrating first with respect to $$x ,$$ then $$y ,$$ and then $$z .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2ba276ccf890b204971058805d4d0fe86e1d92f5"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "$$E = \\{ ( x , y , z ) | ( x , y ) \\in D , u_{1} ( x , y ) \\le z \\le u_{2} ( x , y ) \\} ,$$ where $$D$$ is the projection of $$E$$ onto the $$x y$$ -plane.",
+        "Question": "[T] The volume of a solid $$E$$ is given by the integral $$\\int_{-2}^{0} \\int_{x}^{0} \\int_{0}^{x^{2} + y^{2}} d z d y d x .$$ Use a computer algebra system (CAS) to graph $$E$$ and find its volume. Round your answer to two decimal places.",
+        "Image Links": [],
+        "Answer": "$$V = 5.33$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e6bd4310ec5bb01c416854ff9ca58a03bffef40e"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "$$E = \\{ ( x , y , z ) | ( x , y ) \\in D , u_{1} ( x , y ) \\le z \\le u_{2} ( x , y ) \\} ,$$ where $$D$$ is the projection of $$E$$ onto the $$x y$$ -plane.",
+        "Question": "[T] The volume of a solid $$E$$ is given by the integral $$\\int_{-1}^{0} \\int_{\\text{unicode[:-]} x^{2}}^{0} \\int_{0}^{1 + \\sqrt{x^{2} + y^{2}}} d z d y d x .$$ Use a CAS to graph $$E$$ and find its volume $$V .$$ Round your answer to two decimal places.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use two circular permutations of the variables $$x , y , \\text{and} z$$ to write new integrals whose values equal the value of the original integral. A circular permutation of $$x , y , \\text{and} z$$ is the arrangement of the numbers in one of the following orders: $$y , z , \\text{and} x \\text{or} z , x , \\text{and} y .$$",
+        "Question": "$$\\int_{0}^{1} \\int_{1}^{3} \\int_{2}^{4} ( x^{2} z^{2} + 1 ) d x d y d z$$",
+        "Image Links": [],
+        "Answer": "$$\\int_{0}^{1} \\int_{1}^{3} \\int_{2}^{4} ( y^{2} z^{2} + 1 ) d z d x d y ;$$ $$\\int_{0}^{1} \\int_{1}^{3} \\int_{2}^{4} ( x^{2} y^{2} + 1 ) d y d z d x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use two circular permutations of the variables $$x , y , \\text{and} z$$ to write new integrals whose values equal the value of the original integral. A circular permutation of $$x , y , \\text{and} z$$ is the arrangement of the numbers in one of the following orders: $$y , z , \\text{and} x \\text{or} z , x , \\text{and} y .$$",
+        "Question": "$$\\int_{1}^{3} \\int_{0}^{1} \\int_{0}^{\\text{unicode[:-]y} + 1} ( 2 y + 5 z + 7 x ) d z d y d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use two circular permutations of the variables $$x , y , \\text{and} z$$ to write new integrals whose values equal the value of the original integral. A circular permutation of $$x , y , \\text{and} z$$ is the arrangement of the numbers in one of the following orders: $$y , z , \\text{and} x \\text{or} z , x , \\text{and} y .$$",
+        "Question": "$$\\int_{0}^{1} \\int_{\\text{unicode[:-]} y}^{y} \\int_{0}^{1 - x^{4} - y^{4}} e^{x} d z d x d y$$",
+        "Image Links": [],
+        "Answer": "$$\\int_{0}^{1} \\int_{\\text{-z}}^{z} \\int_{0}^{1 - y^{4} - z^{4}} e^{x} d x d y d z ; \\  \\int_{0}^{1} \\int_{\\text{-x}}^{x} \\int_{0}^{1 - z^{4} - x^{4}} \\ln{} \\  z d y d z d x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use two circular permutations of the variables $$x , y , \\text{and} z$$ to write new integrals whose values equal the value of the original integral. A circular permutation of $$x , y , \\text{and} z$$ is the arrangement of the numbers in one of the following orders: $$y , z , \\text{and} x \\text{or} z , x , \\text{and} y .$$",
+        "Question": "$$\\int_{-1}^{1} \\int_{0}^{1} \\int_{\\text{unicode[:-]} y^{6}}^{\\sqrt{y}} ( x + y z ) d x d y d z$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use two circular permutations of the variables $$x , y , \\text{and} z$$ to write new integrals whose values equal the value of the original integral. A circular permutation of $$x , y , \\text{and} z$$ is the arrangement of the numbers in one of the following orders: $$y , z , \\text{and} x \\text{or} z , x , \\text{and} y .$$",
+        "Question": "Set up the integral that gives the volume of the solid $$E$$ bounded by $$y^{2} = x^{2} + z^{2}$$ and $$y = a ,$$ where $$a > 0$$ and $$y \\  \\geq \\  0$$",
+        "Image Links": [],
+        "Answer": "$$V = \\int_{a^{2}}^{- a^{2}} \\int_{- \\sqrt{a^{2} - z^{2}}}^{\\sqrt{a^{2} - z^{2}}} \\int_{\\sqrt{x^{2} + z^{2}}}^{a^{2}} d y d x d z$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use two circular permutations of the variables $$x , y , \\text{and} z$$ to write new integrals whose values equal the value of the original integral. A circular permutation of $$x , y , \\text{and} z$$ is the arrangement of the numbers in one of the following orders: $$y , z , \\text{and} x \\text{or} z , x , \\text{and} y .$$",
+        "Question": "Set up the integral that gives the volume of the solid $$E$$ bounded by $$x = y^{2} + z^{2}$$ and $$x = a^{2} ,$$ where $$a > 0 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use two circular permutations of the variables $$x , y , \\text{and} z$$ to write new integrals whose values equal the value of the original integral. A circular permutation of $$x , y , \\text{and} z$$ is the arrangement of the numbers in one of the following orders: $$y , z , \\text{and} x \\text{or} z , x , \\text{and} y .$$",
+        "Question": "Find the average value of the function $$f ( x , y , z ) = x + y + z$$ over the parallelepiped determined by $$x = 0 , x = 1 , y = 0 , y = 3 , z = 0 ,$$ and $$z = 5 .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{9}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use two circular permutations of the variables $$x , y , \\text{and} z$$ to write new integrals whose values equal the value of the original integral. A circular permutation of $$x , y , \\text{and} z$$ is the arrangement of the numbers in one of the following orders: $$y , z , \\text{and} x \\text{or} z , x , \\text{and} y .$$",
+        "Question": "Find the average value of the function $$f ( x , y , z ) = x y z$$ over the solid $$E = [ 0 , 1 ] \\times [ 0 , 1 ] \\times [ 0 , 1 ]$$ situated in the first octant.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use two circular permutations of the variables $$x , y , \\text{and} z$$ to write new integrals whose values equal the value of the original integral. A circular permutation of $$x , y , \\text{and} z$$ is the arrangement of the numbers in one of the following orders: $$y , z , \\text{and} x \\text{or} z , x , \\text{and} y .$$",
+        "Question": "Find the volume of the solid $$E$$ that lies under the plane $$x + y + z = 9$$ and whose projection onto the $$x y$$ -plane is bounded by $$x = \\sqrt{y - 1} , x = 0 ,$$ and $$x + y = 7 .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{156}{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use two circular permutations of the variables $$x , y , \\text{and} z$$ to write new integrals whose values equal the value of the original integral. A circular permutation of $$x , y , \\text{and} z$$ is the arrangement of the numbers in one of the following orders: $$y , z , \\text{and} x \\text{or} z , x , \\text{and} y .$$",
+        "Question": "Find the volume of the solid E that lies under the plane $$2 x + y + z = 8$$ and whose projection onto the $$x y$$ -plane is bounded by $$x = \\text{sin}^{-1} y , y = 0 ,$$ and $$x = \\frac{\\pi}{2} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use two circular permutations of the variables $$x , y , \\text{and} z$$ to write new integrals whose values equal the value of the original integral. A circular permutation of $$x , y , \\text{and} z$$ is the arrangement of the numbers in one of the following orders: $$y , z , \\text{and} x \\text{or} z , x , \\text{and} y .$$",
+        "Question": "Consider the pyramid with the base in the $$x y$$ -plane of $$[ -2 , 2 ] \\times [ -2 , 2 ]$$ and the vertex at the point $$( 0 , 0 , 8 ) .$$ Show that the equations of the planes of the lateral faces of the pyramid are $$4 y + z = 8 ,$$ $$4 y - z = -8 ,$$ $$4 x + z = 8 ,$$ and $$-4 x + z = 8 .$$ Find the volume of the pyramid.",
+        "Image Links": [],
+        "Answer": "a. Answers may vary; b. $$\\frac{128}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use two circular permutations of the variables $$x , y , \\text{and} z$$ to write new integrals whose values equal the value of the original integral. A circular permutation of $$x , y , \\text{and} z$$ is the arrangement of the numbers in one of the following orders: $$y , z , \\text{and} x \\text{or} z , x , \\text{and} y .$$",
+        "Question": "Consider the pyramid with the base in the $$x y$$ -plane of $$[ -3 , 3 ] \\times [ -3 , 3 ]$$ and the vertex at the point $$( 0 , 0 , 9 ) .$$ Show that the equations of the planes of the side faces of the pyramid are $$3 x + z = 9 , - 3 x + z = 9 , - 3 y + z = 9 , \\text{\u00a0and\u00a0} 3 y + z = 9$$ Find the volume of the pyramid.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use two circular permutations of the variables $$x , y , \\text{and} z$$ to write new integrals whose values equal the value of the original integral. A circular permutation of $$x , y , \\text{and} z$$ is the arrangement of the numbers in one of the following orders: $$y , z , \\text{and} x \\text{or} z , x , \\text{and} y .$$",
+        "Question": "The solid $$E$$ bounded by the sphere of equation $$x^{2} + y^{2} + z^{2} = r^{2}$$ with $$r > 0$$ and located in the first octant is represented in the following figure. Write the triple integral that gives the volume of $$E$$ by integrating first with respect to $$z ,$$ then with $$y ,$$ and then with $$x .$$ Rewrite the integral in part a. as an equivalent integral in five other orders.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1ffdc5ee89a9a7ca3b7e8f11098b99935056acb2"
+        ],
+        "Answer": "a. $$\\int_{0}^{r} \\int_{0}^{\\sqrt{r^{2} - x^{2}}} \\int_{0}^{\\sqrt{r^{2} - x^{2} - y^{2}}} d z d y d x ;$$ b. $$\\int_{0}^{r} \\int_{0}^{\\sqrt{r^{2} - y^{2}}} \\int_{0}^{\\sqrt{r^{2} - x^{2} - y^{2}}} d z d x d y ,$$ $$\\int_{0}^{r} \\int_{0}^{\\sqrt{r^{2} - z^{2}}} \\int_{0}^{\\sqrt{r^{2} - x^{2} - z^{2}}} d y d x d z ,$$ $$\\int_{0}^{r} \\int_{0}^{\\sqrt{r^{2} - x^{2}}} \\int_{0}^{\\sqrt{r^{2} - x^{2} - z^{2}}} d y d z d x ,$$ $$\\int_{0}^{r} \\int_{0}^{\\sqrt{r^{2} - z^{2}}} \\int_{0}^{\\sqrt{r^{2} - y^{2} - z^{2}}} d x d y d z ,$$ $$\\int_{0}^{r} \\int_{0}^{\\sqrt{r^{2} - y^{2}}} \\int_{0}^{\\sqrt{r^{2} - y^{2} - z^{2}}} d x d z d y$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use two circular permutations of the variables $$x , y , \\text{and} z$$ to write new integrals whose values equal the value of the original integral. A circular permutation of $$x , y , \\text{and} z$$ is the arrangement of the numbers in one of the following orders: $$y , z , \\text{and} x \\text{or} z , x , \\text{and} y .$$",
+        "Question": "The solid $$E$$ bounded by the equation $$9 x^{2} + 4 y^{2} + z^{2} = 1$$ and located in the first octant is represented in the following figure. Write the triple integral that gives the volume of $$E$$ by integrating first with respect to $$z ,$$ then with $$y ,$$ and then with $$x .$$ Rewrite the integral in part a. as an equivalent integral in five other orders.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/187d8df8d78cd80b3b1688c195bf5f46abd7bd11"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use two circular permutations of the variables $$x , y , \\text{and} z$$ to write new integrals whose values equal the value of the original integral. A circular permutation of $$x , y , \\text{and} z$$ is the arrangement of the numbers in one of the following orders: $$y , z , \\text{and} x \\text{or} z , x , \\text{and} y .$$",
+        "Question": "Find the volume of the prism with vertices $$( 0 , 0 , 0 ) , ( 2 , 0 , 0 ) , ( 2 , 3 , 0 ) ,$$ $$( 0 , 3 , 0 ) , ( 0 , 0 , 1 ) , \\text{and} ( 2 , 0 , 1 ) .$$",
+        "Image Links": [],
+        "Answer": "$$3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use two circular permutations of the variables $$x , y , \\text{and} z$$ to write new integrals whose values equal the value of the original integral. A circular permutation of $$x , y , \\text{and} z$$ is the arrangement of the numbers in one of the following orders: $$y , z , \\text{and} x \\text{or} z , x , \\text{and} y .$$",
+        "Question": "Find the volume of the prism with vertices $$( 0 , 0 , 0 ) , ( 4 , 0 , 0 ) , ( 4 , 6 , 0 ) ,$$ $$( 0 , 6 , 0 ) , ( 0 , 0 , 1 ) , \\text{and} ( 4 , 0 , 1 ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use two circular permutations of the variables $$x , y , \\text{and} z$$ to write new integrals whose values equal the value of the original integral. A circular permutation of $$x , y , \\text{and} z$$ is the arrangement of the numbers in one of the following orders: $$y , z , \\text{and} x \\text{or} z , x , \\text{and} y .$$",
+        "Question": "The solid $$E$$ bounded by $$z = 10 - 2 x - y$$ and situated in the first octant is given in the following figure. Find the volume of the solid.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/45bcf1a54a7668c6530cc5cb0722af05cab78003"
+        ],
+        "Answer": "$$\\frac{250}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use two circular permutations of the variables $$x , y , \\text{and} z$$ to write new integrals whose values equal the value of the original integral. A circular permutation of $$x , y , \\text{and} z$$ is the arrangement of the numbers in one of the following orders: $$y , z , \\text{and} x \\text{or} z , x , \\text{and} y .$$",
+        "Question": "The solid $$E$$ bounded by $$z = 1 - x^{2}$$ and $$y = 5$$ and situated in the first octant is given in the following figure. Find the volume of the solid.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/78b6e2cd4c8164a35272779ef804d7cb5f3d9a29"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use two circular permutations of the variables $$x , y , \\text{and} z$$ to write new integrals whose values equal the value of the original integral. A circular permutation of $$x , y , \\text{and} z$$ is the arrangement of the numbers in one of the following orders: $$y , z , \\text{and} x \\text{or} z , x , \\text{and} y .$$",
+        "Question": "The midpoint rule for the triple integral $$\\iiint_{B} f ( x , y , z ) d V$$ over the rectangular solid box $$B$$ is a generalization of the midpoint rule for double integrals. The region $$B$$ is divided into subboxes of equal sizes and the integral is approximated by the triple Riemann sum $$\\sum_{i = 1}^{l} \\sum_{j = 1}^{m} \\sum_{k = 1}^{n} f ( \\overset{-}{ \\left ( x_{i} \\right ) } , \\overset{-}{ \\left ( y_{j} \\right ) } , \\overset{-}{ \\left ( z_{k} \\right ) } ) \\text{Delta} V ,$$ where $$( \\overset{-}{ \\left ( x_{i} \\right ) } , \\overset{-}{ \\left ( y_{j} \\right ) } , \\overset{-}{ \\left ( z_{k} \\right ) } )$$ is the center of the box $$B_{i j k}$$ and $$\\text{Delta} V$$ is the volume of each subbox. Apply the midpoint rule to approximate $$\\iiint_{B} x^{2} d V$$ over the solid $$B = \\{ ( x , y , z ) | 0 \\le x \\le 1 , 0 \\le y \\le 1 , 0 \\le z \\le 1 \\}$$ by using a partition of eight cubes of equal size. Round your answer to three decimal places.",
+        "Image Links": [],
+        "Answer": "$$\\frac{5}{16} \\approx 0.313$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use two circular permutations of the variables $$x , y , \\text{and} z$$ to write new integrals whose values equal the value of the original integral. A circular permutation of $$x , y , \\text{and} z$$ is the arrangement of the numbers in one of the following orders: $$y , z , \\text{and} x \\text{or} z , x , \\text{and} y .$$",
+        "Question": "[T] Apply the midpoint rule to approximate $$\\iiint_{B} e^{\\text{unicode[:-]} x^{2}} d V$$ over the solid $$B = \\{ ( x , y , z ) | 0 \\le x \\le 1 , 0 \\le y \\le 1 , 0 \\le z \\le 1 \\}$$ by using a partition of eight cubes of equal size. Round your answer to three decimal places. Use a CAS to improve the above integral approximation in the case of a partition of $$n^{3}$$ cubes of equal size, where $$n = 3 , 4 \\text{,unicode[:ddot.],} 10 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use two circular permutations of the variables $$x , y , \\text{and} z$$ to write new integrals whose values equal the value of the original integral. A circular permutation of $$x , y , \\text{and} z$$ is the arrangement of the numbers in one of the following orders: $$y , z , \\text{and} x \\text{or} z , x , \\text{and} y .$$",
+        "Question": "Suppose that the temperature in degrees Celsius at a point $$( x , y , z )$$ of a solid $$E$$ bounded by the coordinate planes and $$x + y + z = 5$$ is $$T ( x , y , z ) = x z + 5 z + 10 .$$ Find the average temperature over the solid.",
+        "Image Links": [],
+        "Answer": "$$\\frac{35}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use two circular permutations of the variables $$x , y , \\text{and} z$$ to write new integrals whose values equal the value of the original integral. A circular permutation of $$x , y , \\text{and} z$$ is the arrangement of the numbers in one of the following orders: $$y , z , \\text{and} x \\text{or} z , x , \\text{and} y .$$",
+        "Question": "Suppose that the temperature in degrees Fahrenheit at a point $$( x , y , z )$$ of a solid $$E$$ bounded by the coordinate planes and $$x + y + z = 5$$ is $$T ( x , y , z ) = x + y + x y .$$ Find the average temperature over the solid.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use two circular permutations of the variables $$x , y , \\text{and} z$$ to write new integrals whose values equal the value of the original integral. A circular permutation of $$x , y , \\text{and} z$$ is the arrangement of the numbers in one of the following orders: $$y , z , \\text{and} x \\text{or} z , x , \\text{and} y .$$",
+        "Question": "Show that the volume of a right square pyramid of height $$h$$ and side length $$a$$ is $$v = \\frac{h a^{2}}{3}$$ by using triple integrals.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use two circular permutations of the variables $$x , y , \\text{and} z$$ to write new integrals whose values equal the value of the original integral. A circular permutation of $$x , y , \\text{and} z$$ is the arrangement of the numbers in one of the following orders: $$y , z , \\text{and} x \\text{or} z , x , \\text{and} y .$$",
+        "Question": "Show that the volume of a regular right hexagonal prism of edge length $$a$$ is $$\\frac{3 a^{3} \\sqrt{3}}{2}$$ by using triple integrals.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use two circular permutations of the variables $$x , y , \\text{and} z$$ to write new integrals whose values equal the value of the original integral. A circular permutation of $$x , y , \\text{and} z$$ is the arrangement of the numbers in one of the following orders: $$y , z , \\text{and} x \\text{or} z , x , \\text{and} y .$$",
+        "Question": "Show that the volume of a regular right hexagonal pyramid of edge length $$a$$ is $$\\frac{a^{3} \\sqrt{3}}{2}$$ by using triple integrals.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use two circular permutations of the variables $$x , y , \\text{and} z$$ to write new integrals whose values equal the value of the original integral. A circular permutation of $$x , y , \\text{and} z$$ is the arrangement of the numbers in one of the following orders: $$y , z , \\text{and} x \\text{or} z , x , \\text{and} y .$$",
+        "Question": "If the charge density at an arbitrary point $$( x , y , z )$$ of a solid $$E$$ is given by the function $$\\rho ( x , y , z ) ,$$ then the total charge inside the solid is defined as the triple integral $$\\iiint_{E} \\rho ( x , y , z ) d V .$$ Assume that the charge density of the solid $$E$$ enclosed by the paraboloids $$x = 5 - y^{2} - z^{2}$$ and $$x = y^{2} + z^{2} - 5$$ is equal to the distance from an arbitrary point of $$E$$ to the origin. Set up the integral that gives the total charge inside the solid $$E .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

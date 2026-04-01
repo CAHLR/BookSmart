@@ -1,0 +1,26 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "Solve the system of equations in three variables. $$\\left .\\begin{matrix}{a}2 x + y -2 z = -1 \\\\ 3 x -3 y - z = 5 \\\\ x -2 y + 3 z = 6\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( 1 , -1 , 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "Solve the system of three equations in three variables. $$\\left .\\begin{matrix}{a}\\text{} x + y + z = 2 \\\\ \\text{} y -3 z = 1 \\\\ 2 x + y + 5 z = 0\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "No solution.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "Solve the following system. $$\\left .\\begin{matrix}{a}\\text{} x + y + z = 7 \\\\ 3 x - 2 y - z = 4 \\\\ x + 6 y + 5 z = 24\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "Infinite number of solutions of the form $$( x , 4 x -11 , -5 x + 18 ) .$$",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,498 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What term is used to express the likelihood of an event occurring? Are there restrictions on its values? If so, what are they? If not, explain.",
+        "Image Links": [],
+        "Answer": "probability; The probability of an event is restricted to values between $$0$$ and $$1 ,$$ inclusive of $$0$$ and $$1.$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What is a sample space?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What is an experiment?",
+        "Image Links": [],
+        "Answer": "An experiment is an activity with an observable result.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What is the difference between events and outcomes? Give an example of both using the sample space of tossing a coin 50 times.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "The union of two sets is defined as a set of elements that are present in at least one of the sets. How is this similar to the definition used for the union of two events from a probability model? How is it different?",
+        "Image Links": [],
+        "Answer": "The probability of the union of two events occurring is a number that describes the likelihood that at least one of the events from a probability model occurs. In both a union of sets $$A \\text{} \\  \\text{and\u00a0} B$$ and a union of events $$A \\  \\text{and} \\  B ,$$ the union includes either $$A \\  \\text{or} \\  B$$ or both. The difference is that a union of sets results in another set, while the union of events is a probability, so it is always a numerical value between $$0$$ and $$1.$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the spinner shown in Figure 3 to find the probabilities indicated.\nFigure 3",
+        "Question": "Landing on red",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5fa1d916e94196f2511506efa90bc52ca7459325"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the spinner shown in Figure 3 to find the probabilities indicated.\nFigure 3",
+        "Question": "Landing on a vowel",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5fa1d916e94196f2511506efa90bc52ca7459325"
+        ],
+        "Answer": "$$\\frac{1}{2} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the spinner shown in Figure 3 to find the probabilities indicated.\nFigure 3",
+        "Question": "Not landing on blue",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5fa1d916e94196f2511506efa90bc52ca7459325"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the spinner shown in Figure 3 to find the probabilities indicated.\nFigure 3",
+        "Question": "Landing on purple or a vowel",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5fa1d916e94196f2511506efa90bc52ca7459325"
+        ],
+        "Answer": "$$\\frac{5}{8} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the spinner shown in Figure 3 to find the probabilities indicated.\nFigure 3",
+        "Question": "Landing on blue or a vowel",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5fa1d916e94196f2511506efa90bc52ca7459325"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the spinner shown in Figure 3 to find the probabilities indicated.\nFigure 3",
+        "Question": "Landing on green or blue",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5fa1d916e94196f2511506efa90bc52ca7459325"
+        ],
+        "Answer": "$$\\frac{1}{2} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the spinner shown in Figure 3 to find the probabilities indicated.\nFigure 3",
+        "Question": "Landing on yellow or a consonant",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5fa1d916e94196f2511506efa90bc52ca7459325"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the spinner shown in Figure 3 to find the probabilities indicated.\nFigure 3",
+        "Question": "Not landing on yellow or a consonant",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5fa1d916e94196f2511506efa90bc52ca7459325"
+        ],
+        "Answer": "$$\\frac{3}{8} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, two coins are tossed.",
+        "Question": "What is the sample space?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, two coins are tossed.",
+        "Question": "Find the probability of tossing two heads.",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{4} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, two coins are tossed.",
+        "Question": "Find the probability of tossing exactly one tail.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, two coins are tossed.",
+        "Question": "Find the probability of tossing at least one tail.",
+        "Image Links": [],
+        "Answer": "$$\\frac{3}{4} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, four coins are tossed.",
+        "Question": "What is the sample space?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, four coins are tossed.",
+        "Question": "Find the probability of tossing exactly two heads.",
+        "Image Links": [],
+        "Answer": "$$\\frac{3}{8} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, four coins are tossed.",
+        "Question": "Find the probability of tossing exactly three heads.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, four coins are tossed.",
+        "Question": "Find the probability of tossing four heads or four tails.",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{8} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, four coins are tossed.",
+        "Question": "Find the probability of tossing all tails.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, four coins are tossed.",
+        "Question": "Find the probability of tossing not all tails.",
+        "Image Links": [],
+        "Answer": "$$\\frac{15}{16} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, four coins are tossed.",
+        "Question": "Find the probability of tossing exactly two heads or at least two tails.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, four coins are tossed.",
+        "Question": "Find the probability of tossing either two heads or three heads.",
+        "Image Links": [],
+        "Answer": "$$\\frac{5}{8} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, one card is drawn from a standard deck of $$52$$ cards. Find the probability of drawing the following:",
+        "Question": "A club",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, one card is drawn from a standard deck of $$52$$ cards. Find the probability of drawing the following:",
+        "Question": "A two",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{13} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, one card is drawn from a standard deck of $$52$$ cards. Find the probability of drawing the following:",
+        "Question": "Six  or seven",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, one card is drawn from a standard deck of $$52$$ cards. Find the probability of drawing the following:",
+        "Question": "Red six",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{26} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, one card is drawn from a standard deck of $$52$$ cards. Find the probability of drawing the following:",
+        "Question": "An ace or a diamond",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, one card is drawn from a standard deck of $$52$$ cards. Find the probability of drawing the following:",
+        "Question": "A non-ace",
+        "Image Links": [],
+        "Answer": "$$\\frac{12}{13} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, one card is drawn from a standard deck of $$52$$ cards. Find the probability of drawing the following:",
+        "Question": "A heart or a non-jack",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, two dice are rolled, and the results are summed.",
+        "Question": "Construct a table showing the sample space of outcomes and sums.",
+        "Image Links": [],
+        "Answer": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\hline\n & 1 & 2 & 3 & 4 & 5 & 6 \\\\ \\hline\n1 & (1,1)2 & (1,2)3 & (1,3)4 & (1,4)5 & (1,5)6 & (1,6)7 \\\\ \\hline\n2 & (2,1)3 & (2,2)4 & (2,3)5 & (2,4)6 & (2,5)7 & (2,6)8 \\\\ \\hline\n3 & (3,1)4 & (3,2)5 & (3,3)6 & (3,4)7 & (3,5)8 & (3,6)9 \\\\ \\hline\n4 & (4,1)5 & (4,2)6 & (4,3)7 & (4,4)8 & (4,5)9 & (4,6)10 \\\\ \\hline\n5 & (5,1)6 & (5,2)7 & (5,3)8 & (5,4)9 & (5,5)10 & (5,6)11 \\\\ \\hline\n6 & (6,1)7 & (6,2)8 & (6,3)9 & (6,4)10 & (6,5)11 & (6,6)12 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, two dice are rolled, and the results are summed.",
+        "Question": "Find the probability of rolling a sum of $$3.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, two dice are rolled, and the results are summed.",
+        "Question": "Find the probability of rolling at least one four or a sum of $$8.$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{5}{12} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, two dice are rolled, and the results are summed.",
+        "Question": "Find the probability of rolling an odd sum less than $$9.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, two dice are rolled, and the results are summed.",
+        "Question": "Find the probability of rolling a sum greater than or equal to $$15.$$",
+        "Image Links": [],
+        "Answer": "$$0.$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, two dice are rolled, and the results are summed.",
+        "Question": "Find the probability of rolling a sum less than $$15.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, two dice are rolled, and the results are summed.",
+        "Question": "Find the probability of rolling a sum less than $$6$$ or greater than $$9.$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{4}{9} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, two dice are rolled, and the results are summed.",
+        "Question": "Find the probability of rolling a sum between $$6$$ and $$9 \\text{,}$$ inclusive.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, two dice are rolled, and the results are summed.",
+        "Question": "Find the probability of rolling a sum of $$5$$ or $$6.$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{4} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, two dice are rolled, and the results are summed.",
+        "Question": "Find the probability of rolling any sum other than $$5$$ or $$6.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, a coin is tossed, and a card is pulled from a standard deck. Find the probability of the following:",
+        "Question": "A head on the coin or a club",
+        "Image Links": [],
+        "Answer": "$$\\frac{5}{8}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, a coin is tossed, and a card is pulled from a standard deck. Find the probability of the following:",
+        "Question": "A tail on the coin or red ace",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, a coin is tossed, and a card is pulled from a standard deck. Find the probability of the following:",
+        "Question": "A head on the coin or a face card",
+        "Image Links": [],
+        "Answer": "$$\\frac{8}{13}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, a coin is tossed, and a card is pulled from a standard deck. Find the probability of the following:",
+        "Question": "No aces",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use this scenario: a bag of M&Ms contains $$12$$ blue, $$6$$ brown, $$10$$ orange, $$8$$ yellow, $$8$$ red, and $$4$$ green M&Ms. Reaching into the bag, a person grabs 5 M&Ms.",
+        "Question": "What is the probability of getting all blue M&Ms?",
+        "Image Links": [],
+        "Answer": "$$\\frac{C ( 12 , 5 )}{C ( 48 , 5 )} = \\frac{1}{2162}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use this scenario: a bag of M&Ms contains $$12$$ blue, $$6$$ brown, $$10$$ orange, $$8$$ yellow, $$8$$ red, and $$4$$ green M&Ms. Reaching into the bag, a person grabs 5 M&Ms.",
+        "Question": "What is the probability of getting $$4$$ blue M&Ms?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use this scenario: a bag of M&Ms contains $$12$$ blue, $$6$$ brown, $$10$$ orange, $$8$$ yellow, $$8$$ red, and $$4$$ green M&Ms. Reaching into the bag, a person grabs 5 M&Ms.",
+        "Question": "What is the probability of getting $$3$$ blue M&Ms?",
+        "Image Links": [],
+        "Answer": "$$\\frac{C ( 12 , 3 ) C ( 36 , 2 )}{C ( 48 , 5 )} = \\frac{175}{2162}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use this scenario: a bag of M&Ms contains $$12$$ blue, $$6$$ brown, $$10$$ orange, $$8$$ yellow, $$8$$ red, and $$4$$ green M&Ms. Reaching into the bag, a person grabs 5 M&Ms.",
+        "Question": "What is the probability of getting no brown M&Ms?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "Use the following scenario for the exercises that follow: In the game of Keno, a player starts by selecting $$20$$ numbers from the numbers $$1$$ to $$80.$$ After the player makes his selections, $$20$$ winning numbers are randomly selected from numbers $$1$$ to $$80.$$ A win occurs if the player has correctly selected $$3 , 4 ,$$ or $$5$$ of the $$20$$ winning numbers. (Round all answers to the nearest hundredth of a percent.)",
+        "Question": "What is the percent chance that a player selects exactly 3 winning numbers?",
+        "Image Links": [],
+        "Answer": "$$\\frac{C ( 20 , 3 ) C ( 60 , 17 )}{C ( 80 , 20 )} \\approx 12.49 %$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "Use the following scenario for the exercises that follow: In the game of Keno, a player starts by selecting $$20$$ numbers from the numbers $$1$$ to $$80.$$ After the player makes his selections, $$20$$ winning numbers are randomly selected from numbers $$1$$ to $$80.$$ A win occurs if the player has correctly selected $$3 , 4 ,$$ or $$5$$ of the $$20$$ winning numbers. (Round all answers to the nearest hundredth of a percent.)",
+        "Question": "What is the percent chance that a player selects exactly 4 winning numbers?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "Use the following scenario for the exercises that follow: In the game of Keno, a player starts by selecting $$20$$ numbers from the numbers $$1$$ to $$80.$$ After the player makes his selections, $$20$$ winning numbers are randomly selected from numbers $$1$$ to $$80.$$ A win occurs if the player has correctly selected $$3 , 4 ,$$ or $$5$$ of the $$20$$ winning numbers. (Round all answers to the nearest hundredth of a percent.)",
+        "Question": "What is the percent chance that a player selects all 5 winning numbers?",
+        "Image Links": [],
+        "Answer": "$$\\frac{C ( 20 , 5 ) C ( 60 , 15 )}{C ( 80 , 20 )} \\approx 23.33 %$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "Use the following scenario for the exercises that follow: In the game of Keno, a player starts by selecting $$20$$ numbers from the numbers $$1$$ to $$80.$$ After the player makes his selections, $$20$$ winning numbers are randomly selected from numbers $$1$$ to $$80.$$ A win occurs if the player has correctly selected $$3 , 4 ,$$ or $$5$$ of the $$20$$ winning numbers. (Round all answers to the nearest hundredth of a percent.)",
+        "Question": "What is the percent chance of winning?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "Use the following scenario for the exercises that follow: In the game of Keno, a player starts by selecting $$20$$ numbers from the numbers $$1$$ to $$80.$$ After the player makes his selections, $$20$$ winning numbers are randomly selected from numbers $$1$$ to $$80.$$ A win occurs if the player has correctly selected $$3 , 4 ,$$ or $$5$$ of the $$20$$ winning numbers. (Round all answers to the nearest hundredth of a percent.)",
+        "Question": "How much less is a player\u2019s chance of selecting 3 winning numbers than the chance of selecting either 4 or 5 winning numbers?",
+        "Image Links": [],
+        "Answer": "$$20.50 + 23.33 - 12.49 = 31.34 %$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "Use this data for the exercises that follow: In 2013, there were roughly 317 million citizens in the United States, and about 40 million were elderly (aged 65 and over). 2",
+        "Question": "If you meet a U.S. citizen, what is the percent chance that the person is elderly? (Round to the nearest tenth of a percent.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "Use this data for the exercises that follow: In 2013, there were roughly 317 million citizens in the United States, and about 40 million were elderly (aged 65 and over). 2",
+        "Question": "If you meet five U.S. citizens, what is the percent chance that exactly one is elderly? (Round to the nearest tenth of a percent.)",
+        "Image Links": [],
+        "Answer": "$$\\frac{C ( 40000000 , 1 ) C ( 277000000 , 4 )}{C ( 317000000 , 5 )} = 36.78 %$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "Use this data for the exercises that follow: In 2013, there were roughly 317 million citizens in the United States, and about 40 million were elderly (aged 65 and over). 2",
+        "Question": "If you meet five U.S. citizens, what is the percent chance that three are elderly? (Round to the nearest tenth of a percent.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "Use this data for the exercises that follow: In 2013, there were roughly 317 million citizens in the United States, and about 40 million were elderly (aged 65 and over). 2",
+        "Question": "If you meet five U.S. citizens, what is the percent chance that four are elderly? (Round to the nearest thousandth of a percent.)",
+        "Image Links": [],
+        "Answer": "$$\\frac{C ( 40000000 , 4 ) C ( 277000000 , 1 )}{C ( 317000000 , 5 )} = 0.11 %$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "Use this data for the exercises that follow: In 2013, there were roughly 317 million citizens in the United States, and about 40 million were elderly (aged 65 and over). 2",
+        "Question": "It is predicted that by 2030, one in five U.S. citizens will be elderly. How much greater will the chances of meeting an elderly person be at that time? What policy changes do you foresee if these statistics hold true?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,186 @@
+[
+    {
+        "Topic": "Try It 2.55",
+        "Problem Statement": "",
+        "Question": "Use the formula $$A = \\frac{1}{2} b h$$ to solve for b .",
+        "Image Links": [],
+        "Answer": "$$b = \\frac{2 A}{h}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.56",
+        "Problem Statement": "",
+        "Question": "Use the formula $$A = \\frac{1}{2} b h$$ to solve for h .",
+        "Image Links": [],
+        "Answer": "$$h = \\frac{2 A}{b}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.57",
+        "Problem Statement": "",
+        "Question": "Solve the formula $$F = \\frac{9}{5} C + 32$$ for C .",
+        "Image Links": [],
+        "Answer": "$$C = \\frac{5}{9} ( F - 32 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.58",
+        "Problem Statement": "",
+        "Question": "Solve the formula $$A = \\frac{1}{2} h ( b + B )$$ for b .",
+        "Image Links": [],
+        "Answer": "$$b = \\frac{2 A - B h}{h}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.59",
+        "Problem Statement": "",
+        "Question": "Solve the formula $$A = P + P r t$$ for t .",
+        "Image Links": [],
+        "Answer": "$$t = \\frac{A - P}{\\text{P} r}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.60",
+        "Problem Statement": "",
+        "Question": "Solve the formula $$A = P + P r t$$ for r .",
+        "Image Links": [],
+        "Answer": "$$r = \\frac{A - P}{\\text{P} t}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.61",
+        "Problem Statement": "",
+        "Question": "Solve the formula $$4 x + 7 y = 9$$ for y .",
+        "Image Links": [],
+        "Answer": "$$y = \\frac{9 - 4 x}{7}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.62",
+        "Problem Statement": "",
+        "Question": "Solve the formula $$5 x + 8 y = 1$$ for y .",
+        "Image Links": [],
+        "Answer": "$$y = \\frac{1 - 5 x}{8}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.63",
+        "Problem Statement": "",
+        "Question": "The area of a triangular church window is 90 square meters. The base of the window is 15 meters. What is the window\u2019s height?",
+        "Image Links": [],
+        "Answer": "The window\u2019s height is 12 meters.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.64",
+        "Problem Statement": "",
+        "Question": "A triangular tent door has an area of 15 square feet. The height is five feet. What is the length of the base?",
+        "Image Links": [],
+        "Answer": "The length of the base is 6 feet.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.65",
+        "Problem Statement": "",
+        "Question": "The measure of one angle of a right triangle is 50 more than the measure of the smallest angle. Find the measures of all three angles.",
+        "Image Links": [],
+        "Answer": "The measures of the angles are 20\u00b0, 70\u00b0, and 90\u00b0.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.66",
+        "Problem Statement": "",
+        "Question": "The measure of one angle of a right triangle is 30 more than the measure of the smallest angle. Find the measures of all three angles.",
+        "Image Links": [],
+        "Answer": "The measures of the angles are 30\u00b0, 60\u00b0, and 90\u00b0.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.67",
+        "Problem Statement": "",
+        "Question": "Use the Pythagorean Theorem to find the length of the leg in the figure.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/acc5ecdf610143fb15694cb19f0bb85e924106f1"
+        ],
+        "Answer": "The length of the leg is 8.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.68",
+        "Problem Statement": "",
+        "Question": "Use the Pythagorean Theorem to find the length of the leg in the figure.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6e9d932538b0d5e62dcf940a8ff512258219979e"
+        ],
+        "Answer": "The length of the leg is 12.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.69",
+        "Problem Statement": "",
+        "Question": "The length of a rectangle is seven more than twice the width. The perimeter is 110 inches. Find the length and width.",
+        "Image Links": [],
+        "Answer": "The length is 39 inches and the width is 16 inches.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.70",
+        "Problem Statement": "",
+        "Question": "The width of a rectangle is eight yards less than twice the length. The perimeter is 86 yards. Find the length and width.",
+        "Image Links": [],
+        "Answer": "The length is 17 yards and the width is 26 yards.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.71",
+        "Problem Statement": "",
+        "Question": "One side of a triangle is seven inches more than the first side. The third side is four inches less than three times the first. The perimeter is 28 inches. Find the length of the three sides of the triangle.",
+        "Image Links": [],
+        "Answer": "The lengths of the sides of the triangle are 5, 11 and 12 inches.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.72",
+        "Problem Statement": "",
+        "Question": "One side of a triangle is three feet less than the first side. The third side is five feet less than twice the first. The perimeter is 20 feet. Find the length of the three sides of the triangle.",
+        "Image Links": [],
+        "Answer": "The lengths of the sides of the triangle are 4, 7 and 9 feet.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.73",
+        "Problem Statement": "",
+        "Question": "The perimeter of a rectangular swimming pool is 200 feet. The length is 40 feet more than the width. Find the length and width.",
+        "Image Links": [],
+        "Answer": "The length of the swimming pool is 70 feet and the width is 30 feet.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.74",
+        "Problem Statement": "",
+        "Question": "The length of a rectangular garden is 30 yards more than the width. The perimeter is 300 yards. Find the length and width.",
+        "Image Links": [],
+        "Answer": "The length of the garden is 90 yards and the width is 60 yards.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.75",
+        "Problem Statement": "",
+        "Question": "John puts the base of a 13-foot ladder five feet from the wall of his house as shown in the figure. How far up the wall does the ladder reach?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b90af8acaecd53b5ce5f9f31cad1735d5fcbcb11"
+        ],
+        "Answer": "The ladder reaches 12 feet.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 2.76",
+        "Problem Statement": "",
+        "Question": "Randy wants to attach a 17-foot string of lights to the top of the 15 foot mast of his sailboat, as shown in the figure. How far from the base of the mast should he attach the end of the light string?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/dfe2f32a1133686447261842acecfac2f9b033e1"
+        ],
+        "Answer": "He should attach the lights 8 feet from the base of the mast.",
+        "Answer Image Links": []
+    }
+]

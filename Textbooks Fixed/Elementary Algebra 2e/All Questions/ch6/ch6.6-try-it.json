@@ -1,0 +1,194 @@
+[
+    {
+        "Topic": "Try It 6.153",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$\\frac{8 z^{2} + 24}{4} .$$",
+        "Image Links": [],
+        "Answer": "$$2 z^{2} + 6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.154",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$\\frac{18 z^{2} - 27}{9} .$$",
+        "Image Links": [],
+        "Answer": "$$2 z^{2} - 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.155",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$( 27 b^{3} - 33 b^{2} ) \\div 3 b .$$",
+        "Image Links": [],
+        "Answer": "$$9 b^{2} - 11 b$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.156",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$( 25 y^{3} - 55 y^{2} ) \\div 5 y .$$",
+        "Image Links": [],
+        "Answer": "$$5 y^{2} - 11 y$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.157",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$\\frac{25 y^{2} - 15 y}{-5} .$$",
+        "Image Links": [],
+        "Answer": "$$-5 y^{2} + 3 y$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.158",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$\\frac{42 b^{2} - 18 b}{-6} .$$",
+        "Image Links": [],
+        "Answer": "$$-7 b^{2} + 3 b$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.159",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$\\frac{60 d^{7} + 24 d^{5}}{4 d^{3}} .$$",
+        "Image Links": [],
+        "Answer": "$$15 d^{4} + 6 d^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.160",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$\\frac{216 p^{7} - 48 p^{5}}{6 p^{3}} .$$",
+        "Image Links": [],
+        "Answer": "$$36 p^{4} - 8 p^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.161",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$( 32 a^{2} b - 16 a b^{2} ) \\div ( -8 a b ) .$$",
+        "Image Links": [],
+        "Answer": "$$-4 a + 2 b$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.162",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$( -48 a^{8} b^{4} - 36 a^{6} b^{5} ) \\div ( -6 a^{3} b^{3} ) .$$",
+        "Image Links": [],
+        "Answer": "$$8 a^{5} b + 6 a^{3} b^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.163",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$\\frac{40 x^{3} y^{2} + 24 x^{2} y^{2} - 16 x^{2} y^{3}}{8 x^{2} y} .$$",
+        "Image Links": [],
+        "Answer": "$$5 x y + 3 y - 2 y^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.164",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$\\frac{35 a^{4} b^{2} + 14 a^{4} b^{3} - 42 a^{2} b^{4}}{7 a^{2} b^{2}} .$$",
+        "Image Links": [],
+        "Answer": "$$5 a^{2} + 2 a^{2} b - 6 b^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.165",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$\\frac{18 c^{2} + 6 c - 9}{6 c} .$$",
+        "Image Links": [],
+        "Answer": "$$3 c + 1 - \\frac{3}{2 c}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.166",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$\\frac{10 d^{2} - 5 d - 2}{5 d} .$$",
+        "Image Links": [],
+        "Answer": "$$2 d - 1 - \\frac{2}{5 d}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.167",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$( y^{2} + 10 y + 21 ) \\div ( y + 3 ) .$$",
+        "Image Links": [],
+        "Answer": "$$y + 7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.168",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$( m^{2} + 9 m + 20 ) \\div ( m + 4 ) .$$",
+        "Image Links": [],
+        "Answer": "$$m + 5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.169",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$( 2 x^{2} - 3 x - 20 ) \\div ( x - 4 ) .$$",
+        "Image Links": [],
+        "Answer": "$$2 x + 5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.170",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$( 3 x^{2} - 16 x - 12 ) \\div ( x - 6 ) .$$",
+        "Image Links": [],
+        "Answer": "$$3 x + 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.171",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$( x^{3} + 5 x^{2} + 8 x + 6 ) \\div ( x + 2 ) .$$",
+        "Image Links": [],
+        "Answer": "$$x^{2} + 3 x + 2 + \\frac{2}{x + 2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.172",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$( 2 x^{3} + 8 x^{2} + x - 8 ) \\div ( x + 1 ) .$$",
+        "Image Links": [],
+        "Answer": "$$2 x^{2} + 6 x - 5 - \\frac{3}{x + 1}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.173",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$( x^{3} + 3 x + 14 ) \\div ( x + 2 ) .$$",
+        "Image Links": [],
+        "Answer": "$$x^{2} - 2 x + 7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.174",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$( x^{4} - 3 x^{3} - 1000 ) \\div ( x + 5 ) .$$",
+        "Image Links": [],
+        "Answer": "$$x^{3} - 8 x^{2} + 40 x - 200$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.175",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$( x^{3} - 64 ) \\div ( x - 4 ) .$$",
+        "Image Links": [],
+        "Answer": "$$x^{2} + 4 x + 16$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.176",
+        "Problem Statement": "",
+        "Question": "Find the quotient: $$( 125 x^{3} - 8 ) \\div ( 5 x - 2 ) .$$",
+        "Image Links": [],
+        "Answer": "$$25 x^{2} + 10 x + 4$$",
+        "Answer Image Links": []
+    }
+]

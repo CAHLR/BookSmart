@@ -1,0 +1,34 @@
+[
+    {
+        "Topic": "Check Your Understanding 1.6",
+        "Problem Statement": "",
+        "Question": "Name an example from daily life (different from the text) for each mechanism of heat transfer.",
+        "Image Links": [],
+        "Answer": "Conduction: Heat transfers into your hands as you hold a hot cup of coffee. Convection: Heat transfers as the barista \u201csteams\u201d cold milk to make hot cocoa. Radiation: Heat transfers from the Sun to a jar of water with tea leaves in it to make \u201cSun tea.\u201d A great many other answers are possible.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 1.7",
+        "Problem Statement": "",
+        "Question": "How does the rate of heat transfer by conduction change when all spatial dimensions are doubled?",
+        "Image Links": [],
+        "Answer": "Because area is the product of two spatial dimensions, it increases by a factor of four when each dimension is doubled $$( A_{\\text{final}} = ( 2 d )^{2} = 4 d^{2} = 4 A_{\\text{initial}} )$$ . The distance, however, simply doubles. Because the temperature difference and the coefficient of thermal conductivity are independent of the spatial dimensions, the rate of heat transfer by conduction increases by a factor of four divided by two, or two: $$P_{\\text{final}} = \\frac{k A_{\\text{final}} ( T_{\\text{h}} - T_{\\text{c}} )}{d_{\\text{final}}} = \\frac{k ( 4 A_{\\text{final}} ( T_{\\text{h}} - T_{\\text{c}} ) )}{2 d_{\\text{initial}}} = 2 \\frac{k A_{\\text{final}} ( T_{\\text{h}} - T_{\\text{c}} )}{d_{\\text{initial}}} = 2 P_{\\text{initial}}$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 1.8",
+        "Problem Statement": "",
+        "Question": "Explain why using a fan in the summer feels refreshing.",
+        "Image Links": [],
+        "Answer": "Using a fan increases the flow of air: Warm air near your body is replaced by cooler air from elsewhere. Convection increases the rate of heat transfer so that moving air \u201cfeels\u201d cooler than still air.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 1.9",
+        "Problem Statement": "",
+        "Question": "How much greater is the rate of heat radiation when a body is at the temperature $$40 \\text{\u00b0} \\text{C}$$ than when it is at the temperature $$20 \\text{\u00b0} \\text{C}$$ ?",
+        "Image Links": [],
+        "Answer": "The radiated heat is proportional to the fourth power of the absolute temperature . Because $$T_{1} = 293 \\text{K}$$ and $$T_{2} = 313 \\text{K}$$ , the rate of heat transfer increases by about 30% of the original rate.",
+        "Answer Image Links": []
+    }
+]

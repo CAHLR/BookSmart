@@ -1,0 +1,38 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "For the following limit, define $$a , f ( x ) ,$$ and $$L .$$ $$\\underset{ \\left ( x \\vec{} 5 \\right ) }{lim} ( 2 x^{2} - 4 ) = 46$$",
+        "Image Links": [],
+        "Answer": "$$a = 5 ,$$ $$f ( x ) = 2 x^{2} - 4 ,$$ and $$L = 46.$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "Using the graph of the function $$y = f ( x )$$ shown in Figure 8 , estimate the following limits. $$\\underset{x \\rightarrow 0^{-}}{\\text{lim}} f \\left(\\right. x \\left.\\right)$$ $$\\underset{x \\rightarrow 0^{+}}{\\text{lim}} f \\left(\\right. x \\left.\\right)$$ $$\\underset{ \\left ( x \\vec{} 0 \\right ) }{ \\left ( l i m \\right ) } f ( x )$$ $$\\underset{x \\rightarrow 2^{-}}{\\text{lim}} f \\left(\\right. x \\left.\\right)$$ $$\\underset{x \\rightarrow 2^{+}}{\\text{lim}} f \\left(\\right. x \\left.\\right)$$ $$\\underset{ \\left ( x \\vec{} 2 \\right ) }{ \\left ( l i m \\right ) } f ( x )$$ $$\\underset{x \\rightarrow 4^{-}}{\\text{lim}} f \\left(\\right. x \\left.\\right)$$ $$\\underset{x \\rightarrow 4^{+}}{\\text{lim}} f \\left(\\right. x \\left.\\right)$$ $$\\underset{ \\left ( x \\vec{} 4 \\right ) }{ \\left ( l i m \\right ) } f ( x )$$ Figure 8",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8c9e5c7f99060886243f49052ae8b37834abe7ac"
+        ],
+        "Answer": "a. 0; b. 2; c. does not exist; d. $$- 2 ;$$ e. 0; f. does not exist; g. 4; h. 4; i. 4",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "Numerically estimate the limit of the following function by making a table: $$\\underset{ \\left ( x \\vec{} 0 \\right ) }{lim} ( \\frac{20 \\sin{} ( x )}{4 x} )$$",
+        "Image Links": [],
+        "Answer": "$$\\underset{ \\left ( x \\vec{} 0 \\right ) }{lim} ( \\frac{20 \\sin{} ( x )}{4 x} ) = 5$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9505186210d3075748c7ed3acd340198c5a5c09f"
+        ]
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "Numerically estimate the following limit: $$\\underset{ \\left ( x \\vec{} 0 \\right ) }{lim} ( \\sin{( \\frac{2}{x} )} ) .$$",
+        "Image Links": [],
+        "Answer": "does not exist",
+        "Answer Image Links": []
+    }
+]

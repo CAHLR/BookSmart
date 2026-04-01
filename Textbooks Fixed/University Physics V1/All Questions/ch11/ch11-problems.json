@@ -1,0 +1,492 @@
+[
+    {
+        "Topic": "11.1 Rolling Motion",
+        "Problem Statement": "",
+        "Question": "What is the angular velocity of a 75.0-cm-diameter tire on an automobile traveling at 90.0 km/h?",
+        "Image Links": [],
+        "Answer": "$$v_{\\text{CM}} = R \\upomega \\Rightarrow \\upomega = 66.7 \\text{rad/s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.1 Rolling Motion",
+        "Problem Statement": "",
+        "Question": "A boy rides his bicycle 2.00 km. The wheels have radius 30.0 cm. What is the total angle the tires rotate through during his trip?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.1 Rolling Motion",
+        "Problem Statement": "",
+        "Question": "If the boy on the bicycle in the preceding problem accelerates from rest to a speed of 10.0 m/s in 10.0 s, what is the angular acceleration of the tires?",
+        "Image Links": [],
+        "Answer": "$$\\alpha = 3.3 \\text{rad} \\text{/} \\text{s}^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.1 Rolling Motion",
+        "Problem Statement": "",
+        "Question": "Formula One race cars have 66-cm-diameter tires. If a Formula One averages a speed of 300 km/h during a race, what is the angular displacement in revolutions of the wheels if the race car maintains this speed for 1.5 hours?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.1 Rolling Motion",
+        "Problem Statement": "",
+        "Question": "A marble rolls down an incline at $$30 \\text{\u00b0}$$ from rest. (a) What is its acceleration? (b) How far does it go in 3.0 s?",
+        "Image Links": [],
+        "Answer": "$$I_{\\text{CM}} = \\frac{2}{5} m r^{2} , a_{\\text{CM}} = 3.5 \\text{m} \\text{/} \\text{s}^{2} ; x = 15.75 \\text{m}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.1 Rolling Motion",
+        "Problem Statement": "",
+        "Question": "Repeat the preceding problem replacing the marble with a solid cylinder. Explain the new result.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.1 Rolling Motion",
+        "Problem Statement": "",
+        "Question": "A rigid body with a cylindrical cross-section is released from the top of a $$30 \\text{\u00b0}$$ incline. It rolls 10.0 m to the bottom in 2.60 s. Find the moment of inertia of the body in terms of its mass m and radius r.",
+        "Image Links": [],
+        "Answer": "positive is down the incline plane; $$a_{\\text{CM}} = \\frac{m g \\text{sin} \\theta}{m + ( I_{\\text{CM}} \\text{/} r^{2} )} \\Rightarrow I_{\\text{CM}} = r^{2} [ \\frac{m g \\text{sin} 30}{a_{\\text{CM}}} - m ]$$ , $$x - x_{0} = v_{0} t - \\frac{1}{2} a_{\\text{CM}} t^{2} \\Rightarrow a_{\\text{CM}} = 2.96 \\text{m/s}^{2} ,$$ $$I_{\\text{CM}} = 0.66 m r^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.1 Rolling Motion",
+        "Problem Statement": "",
+        "Question": "A yo-yo can be thought of a solid cylinder of mass m and radius r that has a light string wrapped around its circumference (see below). One end of the string is held fixed in space. If the cylinder falls as the string unwinds without slipping, what is the acceleration of the cylinder?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1b8a8a365b4e4e1272ab66b1d4ad2e1ad5bffbf8"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.1 Rolling Motion",
+        "Problem Statement": "",
+        "Question": "A solid cylinder of radius 10.0 cm rolls down an incline with slipping. The angle of the incline is $$30 \\text{\u00b0} .$$ The coefficient of kinetic friction on the surface is 0.400. What is the angular acceleration of the solid cylinder? What is the linear acceleration?",
+        "Image Links": [],
+        "Answer": "$$\\alpha = 67.9 \\text{rad} \\text{/} \\text{s}^{2}$$ , $$( a_{\\text{CM}} )_{x} = 1.5 \\text{m} \\text{/} \\text{s}^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.1 Rolling Motion",
+        "Problem Statement": "",
+        "Question": "A bowling ball rolls up a ramp 0.5 m high without slipping to storage. It has an initial velocity of its center of mass of 3.0 m/s. (a) What is its velocity at the top of the ramp? (b) If the ramp is 1 m high does it make it to the top?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.1 Rolling Motion",
+        "Problem Statement": "",
+        "Question": "A 40.0-kg solid cylinder is rolling across a horizontal surface at a speed of 6.0 m/s. How much work is required to stop it?",
+        "Image Links": [],
+        "Answer": "$$W = -1080.0 \\text{J}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.1 Rolling Motion",
+        "Problem Statement": "",
+        "Question": "A 40.0-kg solid sphere is rolling across a horizontal surface with a speed of 6.0 m/s. How much work is required to stop it? Compare results with the preceding problem.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.1 Rolling Motion",
+        "Problem Statement": "",
+        "Question": "A solid cylinder rolls up an incline at an angle of $$20 \\text{\u00b0} .$$ If it starts at the bottom with a speed of 10 m/s, how far up the incline does it travel?",
+        "Image Links": [],
+        "Answer": "Mechanical energy at the bottom equals mechanical energy at the top; $$\\frac{1}{2} m v_{0}^{2} + \\frac{1}{2} ( \\frac{1}{2} m r^{2} ) ( \\frac{v_{0}}{r} )^{2} = m g h \\Rightarrow h = \\frac{1}{g} ( \\frac{1}{2} + \\frac{1}{4} ) v_{0}^{2}$$ , $$h = 7.7 \\text{m,}$$ so the distance up the incline is $$22.5 \\text{m}$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.1 Rolling Motion",
+        "Problem Statement": "",
+        "Question": "A solid cylindrical wheel of mass M and radius R is pulled by a force $$\\mathbf{\\vec{F}}$$ applied to the center of the wheel at $$37 \\text{\u00b0}$$ to the horizontal (see the following figure). If the wheel is to roll without slipping, what is the maximum value of $$| \\mathbf{\\vec{F}} | ?$$ The coefficients of static and kinetic friction are $$\\mu_{\\text{S}} = 0.40 \\text{and} \\mu_{\\text{k}} = 0.30 .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ee908be3b91ba09a74eacc81dced794e383716ee"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.1 Rolling Motion",
+        "Problem Statement": "",
+        "Question": "A hollow cylinder that is rolling without slipping is given a velocity of 5.0 m/s and rolls up an incline to a vertical height of 1.0 m. If a hollow sphere of the same mass and radius is given the same initial velocity, how high vertically does it roll up the incline?",
+        "Image Links": [],
+        "Answer": "Use energy conservation $$\\frac{1}{2} m v_{0}^{2} + \\frac{1}{2} I_{\\text{Cyl}} \\upomega_{0}^{2} = m g h_{\\text{Cyl}}$$ , $$\\frac{1}{2} m v_{0}^{2} + \\frac{1}{2} I_{\\text{Sph}} \\upomega_{0}^{2} = m g h_{\\text{Sph}}$$ . Subtracting the two equations, eliminating the initial translational energy, we have $$h_{Cyl} = \\frac{v_{0}^{2}}{g}$$ , $$h_{Sph} = \\frac{5 v_{0}^{2}}{6 g}$$ , Therefore the difference in height is $$h_{\\text{Cyl}} - h_{\\text{Sph}} = \\frac{v_{0}^{2}}{6 g} = \\frac{5.0 \\text{m/s}^{2}}{(6) 9.8 \\text{m/s}^{2}} = 0.43 \\text{m.}$$ Thus, the hollow sphere, with the smaller moment of inertia, rolls up to a lower height of $$1.0 - 0.43 = 0.57 \\text{m} \\text{.}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Angular Momentum",
+        "Problem Statement": "",
+        "Question": "A 0.2-kg particle is travelling along the line $$y = 2.0 \\text{m}$$ with a velocity $$5.0 \\text{m} \\text{/} \\text{s}$$ . What is the angular momentum of the particle about the origin?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Angular Momentum",
+        "Problem Statement": "",
+        "Question": "A bird flies overhead from where you stand at an altitude of 300.0 m and at a speed horizontal to the ground of 20.0 m/s. The bird has a mass of 2.0 kg. The radius vector to the bird makes an angle $$\\theta$$ with respect to the ground. The radius vector to the bird and its momentum vector lie in the xy -plane. What is the bird\u2019s angular momentum about the point where you are standing?",
+        "Image Links": [],
+        "Answer": "The magnitude of the cross product of the radius to the bird and its momentum vector yields $$r p \\text{sin} \\theta$$ , which gives $$r \\text{sin} \\theta$$ as the altitude of the bird h . The direction of the angular momentum is perpendicular to the radius and momentum vectors, which we choose arbitrarily as $$\\mathbf{\\hat{k}}$$ , which is in the plane of the ground: $$\\mathbf{\\vec{L}} = \\mathbf{\\vec{r}} \\times \\mathbf{\\vec{p}} = h m v \\mathbf{\\hat{k}} = ( 300.0 \\text{m} ) ( 2.0 \\text{kg} ) ( 20.0 \\text{m} \\text{/} \\text{s} ) \\mathbf{\\hat{k}} = 12,000.0 \\text{kg} \\cdotp \\text{m}^{2} \\text{/} \\text{s} \\mathbf{\\hat{k}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Angular Momentum",
+        "Problem Statement": "",
+        "Question": "A Formula One race car with mass 750.0 kg is speeding through a course in Monaco and enters a circular turn at 220.0 km/h in the counterclockwise direction about the origin of the circle. At another part of the course, the car enters a second circular turn at 180 km/h also in the counterclockwise direction. If the radius of curvature of the first turn is 130.0 m and that of the second is 100.0 m, compare the angular momenta of the race car in each turn taken about the origin of the circular turn.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Angular Momentum",
+        "Problem Statement": "",
+        "Question": "A particle of mass 5.0 kg has position vector $$\\mathbf{\\vec{r}} = ( 2.0 \\mathbf{\\hat{i}} - 3.0 \\mathbf{\\hat{j}} ) \\text{m}$$ at a particular instant of time when its velocity is $$\\mathbf{\\vec{v}} = ( 3.0 \\mathbf{\\hat{i}} ) \\text{m} \\text{/} \\text{s}$$ with respect to the origin. (a) What is the angular momentum of the particle? (b) If a force $$\\mathbf{\\vec{F}} = 5.0 \\mathbf{\\hat{j}} \\text{N}$$ acts on the particle at this instant, what is the torque about the origin?",
+        "Image Links": [],
+        "Answer": "a. $$\\mathbf{\\vec{l}} = 45.0 \\text{kg} \\cdotp \\text{m}^{2} \\text{/} \\text{s} \\mathbf{\\hat{k}}$$ ; b. $$\\mathbf{\\vec{\\tau}} = 10.0 \\text{N} \\cdotp \\text{m} \\mathbf{\\hat{k}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Angular Momentum",
+        "Problem Statement": "",
+        "Question": "Use the right-hand rule to determine the directions of the angular momenta about the origin of the particles as shown below. The z- axis is out of the page.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ffb8496f1e2d2bd1bb47b74a81e3ffdd9abd7834"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Angular Momentum",
+        "Problem Statement": "",
+        "Question": "Suppose the particles in the preceding problem have masses $$m_{1} = 0.10 \\text{kg,} m_{2} = 0.20 \\text{kg,} m_{3} = 0.30 \\text{kg,}$$ $$m_{4} = 0.40 \\text{kg}$$ . The velocities of the particles are $$v_{1} = 2.0 \\mathbf{\\hat{i}} \\text{m} \\text{/} \\text{s}$$ , $$v_{2} = ( 3.0 \\mathbf{\\hat{i}} - 3.0 \\mathbf{\\hat{j}} ) \\text{m} \\text{/} \\text{s}$$ , $$v_{3} = -1.5 \\mathbf{\\hat{j}} \\text{m} \\text{/} \\text{s}$$ , $$v_{4} = -4.0 \\mathbf{\\hat{i}} \\text{m} \\text{/} \\text{s}$$ . (a) Calculate the angular momentum of each particle about the origin. (b) What is the total angular momentum of the four-particle system about the origin?",
+        "Image Links": [],
+        "Answer": "a. $$\\mathbf{\\vec{l}}_{1} = -0.4 \\text{kg} \\cdotp \\text{m}^{2} \\text{/} \\text{s} \\mathbf{\\hat{k}}$$ , $$\\mathbf{\\vec{l}}_{2} = \\mathbf{\\vec{l}}_{4} = 0$$ , $$\\mathbf{\\vec{l}}_{3} = 1.35 \\text{kg} \\cdotp \\text{m}^{2} \\text{/} \\text{s} \\mathbf{\\hat{k}}$$ ; b. $$\\mathbf{\\vec{L}} = 0.95 \\text{kg} \\cdotp \\text{m}^{2} \\text{/} \\text{s} \\mathbf{\\hat{k}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Angular Momentum",
+        "Problem Statement": "",
+        "Question": "Two particles of equal mass travel with the same speed in opposite directions along parallel lines separated by a distance d . Show that the angular momentum of this two-particle system is the same no matter what point is used as the reference for calculating the angular momentum.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Angular Momentum",
+        "Problem Statement": "",
+        "Question": "An airplane of mass $$4.0 \\times 10^{4} \\text{kg}$$ flies horizontally at an altitude of 10 km with a constant speed of 250 m/s relative to Earth. (a) What is the magnitude of the airplane\u2019s angular momentum relative to a ground observer directly below the plane? (b) Does the angular momentum change as the airplane flies along a constant altitude?",
+        "Image Links": [],
+        "Answer": "a. $$L = 1.0 \\times 10^{11} \\text{kg} \\cdotp \\text{m}^{2} \\text{/} \\text{s}$$ ; b. No, the angular momentum stays the same since the cross-product involves only the perpendicular distance from the plane to the ground no matter where it is along its path.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Angular Momentum",
+        "Problem Statement": "",
+        "Question": "At a particular instant, a 1.0-kg particle\u2019s position is $$\\mathbf{\\vec{r}} = ( 2.0 \\mathbf{\\hat{i}} - 4.0 \\mathbf{\\hat{j}} + 6.0 \\mathbf{\\hat{k}} ) \\text{m}$$ , its velocity is $$\\mathbf{\\vec{v}} = ( -1.0 \\mathbf{\\hat{i}} + 4.0 \\mathbf{\\hat{j}} + 1.0 \\mathbf{\\hat{k}} ) \\text{m} \\text{/} \\text{s}$$ , and the force on it is $$\\mathbf{\\vec{F}} = ( 10.0 \\mathbf{\\hat{i}} + 15.0 \\mathbf{\\hat{j}} ) \\text{N}$$ . (a) What is the angular momentum of the particle about the origin? (b) What is the torque on the particle about the origin? (c) What is the time rate of change of the particle\u2019s angular momentum at this instant?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Angular Momentum",
+        "Problem Statement": "",
+        "Question": "A particle of mass m is dropped at the point $$( \\text{unicode[:-]} d , 0 )$$ and falls vertically in Earth\u2019s gravitational field $$\\text{unicode[:-]} g \\mathbf{\\hat{j}} .$$ (a) What is the expression for the angular momentum of the particle around the z -axis, which points directly out of the page as shown below? (b) Calculate the torque on the particle around the z -axis. (c) Is the torque equal to the time rate of change of the angular momentum?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/379a5f1c5aac33137792af3bdbddee2948fa2f02"
+        ],
+        "Answer": "a. $$\\mathbf{\\vec{v}} = \\text{unicode[:-]} g t \\mathbf{\\hat{j}} , \\mathbf{\\vec{r}}_{\\bot} = \\text{unicode[:-]} d \\mathbf{\\hat{i}} , \\mathbf{\\vec{l}} = m d g t \\mathbf{\\hat{k}}$$ ; b. $$\\mathbf{\\vec{F}} = \\text{unicode[:-]} m g \\mathbf{\\hat{j}} , \\sum \\mathbf{\\vec{\\tau}} = d m g \\mathbf{\\hat{k}}$$ ; c. yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Angular Momentum",
+        "Problem Statement": "",
+        "Question": "(a) Calculate the angular momentum of Earth in its orbit around the Sun. (b) Compare this angular momentum with the angular momentum of Earth about its axis.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Angular Momentum",
+        "Problem Statement": "",
+        "Question": "A boulder of mass 20 kg and radius 20 cm rolls down a hill 15 m high from rest. What is its angular momentum when it is half way down the hill? (b) At the bottom?",
+        "Image Links": [],
+        "Answer": "a. $$m g h = \\frac{1}{2} m ( r \\upomega )^{2} + \\frac{1}{2} \\frac{2}{5} m r^{2} \\upomega^{2}$$ ; $$\\upomega = 51.2 \\text{rad} \\text{/} \\text{s}$$ ; $$L = 16.4 \\text{kg} \\cdotp \\text{m}^{2} \\text{/} \\text{s}$$ ; b. $$\\upomega = 72.5 \\text{rad} \\text{/} \\text{s}$$ ; $$L = 23.2 \\text{kg} \\cdotp \\text{m}^{2} \\text{/} \\text{s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Angular Momentum",
+        "Problem Statement": "",
+        "Question": "A satellite is spinning at 6.0 rev/s. The satellite consists of a main body in the shape of a sphere of radius 2.0 m and mass 10,000 kg, and two antennas projecting out from the center of mass of the main body that can be approximated with rods of length 3.0 m each and mass 10 kg. The antenna\u2019s lie in the plane of rotation. What is the angular momentum of the satellite?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Angular Momentum",
+        "Problem Statement": "",
+        "Question": "A propeller consists of two blades each 3.0 m in length and mass 120 kg each. The propeller can be approximated by a single rod rotating about its center of mass. The propeller starts from rest and rotates up to 1200 rpm in 30 seconds at a constant rate. (a) What is the angular momentum of the propeller at $$t = 10 \\text{s;} t = 20 \\text{s?}$$ (b) What is the torque on the propeller?",
+        "Image Links": [],
+        "Answer": "a. $$I = 720.0 \\text{kg} \\cdotp \\text{m}^{2}$$ ; $$\\alpha = 4.20 \\text{rad} \\text{/} \\text{s}^{2}$$ ; $$\\upomega ( 10 \\text{s} ) = 42.0 \\text{rad} \\text{/} \\text{s}$$ ; $$L = 3.02 \\times 10^{4} \\text{kg} \\cdotp \\text{m}^{2} \\text{/} \\text{s}$$ ; $$\\upomega ( 20 \\text{s} ) = 84.0 \\text{rad} \\text{/} \\text{s}$$ ; b. $$\\tau = 3.03 \\times 10^{3} \\text{N} \\cdotp \\text{m}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Angular Momentum",
+        "Problem Statement": "",
+        "Question": "A pulsar is a rapidly rotating neutron star. The Crab nebula pulsar in the constellation Taurus has a period of $$33.5 \\times 10^{-3} \\text{s}$$ , radius 10.0 km, and mass $$2.8 \\times 10^{30} \\text{kg} .$$ The pulsar\u2019s rotational period will increase over time due to the release of electromagnetic radiation, which doesn\u2019t change its radius but reduces its rotational energy. (a) What is the angular momentum of the pulsar? (b) Suppose the angular velocity decreases at a rate of $$10^{-14} \\text{rad} \\text{/} \\text{s}^{2}$$ . What is the torque on the pulsar?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Angular Momentum",
+        "Problem Statement": "",
+        "Question": "The blades of a wind turbine are 30 m in length and rotate at a maximum rotation rate of 20 rev/min. (a) If the blades are 6000 kg each and the rotor assembly has three blades, calculate the angular momentum of the turbine at this rotation rate. (b) What is the torque require to rotate the blades up to the maximum rotation rate in 5 minutes?",
+        "Image Links": [],
+        "Answer": "a. $$L = 1.131 \\times 10^{7} \\text{kg} \\cdotp \\text{m}^{2} \\text{/} \\text{s}$$ ; b. $$\\tau = 3.77 \\times 10^{4} \\text{N} \\cdotp \\text{m}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Angular Momentum",
+        "Problem Statement": "",
+        "Question": "A roller coaster has mass 3000.0 kg and needs to make it safely through a vertical circular loop of radius 50.0 m. What is the minimum angular momentum of the coaster at the bottom of the loop to make it safely through? Neglect friction on the track. Take the coaster to be a point particle.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Angular Momentum",
+        "Problem Statement": "",
+        "Question": "A mountain biker takes a jump in a race and goes airborne. The mountain bike is travelling at 10.0 m/s before it goes airborne. If the mass of the front wheel on the bike is 750 g and has radius 35 cm, what is the angular momentum of the spinning wheel in the air the moment the bike leaves the ground?",
+        "Image Links": [],
+        "Answer": "$$\\upomega = 28.6 \\text{rad} \\text{/} \\text{s} \\Rightarrow L = 2.6 \\text{kg} \\cdotp \\text{m}^{2} \\text{/} \\text{s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Conservation of Angular Momentum",
+        "Problem Statement": "",
+        "Question": "A disk of mass 2.0 kg and radius 60 cm with a small mass of 0.05 kg attached at the edge is rotating at 2.0 rev/s. The small mass, while attached to the disk, slides gradually to the center of the disk. What is the disk\u2019s final rotation rate?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Conservation of Angular Momentum",
+        "Problem Statement": "",
+        "Question": "The Sun\u2019s mass is $$2.0 \\times 10^{30} \\text{kg,}$$ its radius is $$7.0 \\text{xx} 10^{5} \\text{km,}$$ and it has a rotational period of approximately 28 days. If the Sun should collapse into a white dwarf of radius $$3.5 \\text{xx} 10^{3} \\text{km,}$$ what would its period be if no mass were ejected and a sphere of uniform density can model the Sun both before and after?",
+        "Image Links": [],
+        "Answer": "$$L_{f} = \\frac{2}{5} M_{S} ( 3.5 \\text{xx} 10^{3} \\text{km} )^{2} \\frac{2 \\pi}{T_{f}}$$ , $$\\\\ \\left(\\left(\\right. 7.0 \\times \\left(10\\right)^{5} \\text{km} \\left.\\right)\\right)^{2} \\frac{2 \\pi}{28 \\text{days}} = \\left(\\left(\\right. 3.5 \\times \\left(10\\right)^{3} \\text{km} \\left.\\right)\\right)^{2} \\frac{2 \\pi}{T_{f}} \\Rightarrow T_{f} \\\\ \\\\ \\\\ = 28 \\text{days} \\frac{\\left(\\left(\\right. 3.5 \\times \\left(10\\right)^{3} \\text{km} \\left.\\right)\\right)^{2}}{\\left(\\left(\\right. 7.0 \\times \\left(10\\right)^{5} \\text{km} \\left.\\right)\\right)^{2}} = 7.0 \\times \\left(10\\right)^{- 4} \\text{day} = 60.5 \\text{s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Conservation of Angular Momentum",
+        "Problem Statement": "",
+        "Question": "A cylinder with rotational inertia $$I_{1} = 2.0 \\text{kg} \\cdotp \\text{m}^{2}$$ rotates clockwise about a vertical axis through its center with angular speed $$\\upomega_{1} = 5.0 \\text{rad} \\text{/} \\text{s} .$$ A second cylinder with rotational inertia $$I_{2} = 1.0 \\text{kg} \\cdotp \\text{m}^{2}$$ rotates counterclockwise about the same axis with angular speed $$\\upomega_{2} = 8.0 \\text{rad} \\text{/} \\text{s}$$ . If the cylinders couple so they have the same rotational axis what is the angular speed of the combination? What percentage of the original kinetic energy is lost to friction?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Conservation of Angular Momentum",
+        "Problem Statement": "",
+        "Question": "A diver off the high board imparts an initial rotation with their body fully extended before going into a tuck and executing three back somersaults before hitting the water. If their moment of inertia before the tuck is $$16.9 \\text{kg} \\cdotp \\text{m}^{2}$$ and after the tuck during the somersaults is $$4.2 \\text{kg} \\cdotp \\text{m}^{2}$$ , what rotation rate must the diver impart to their body directly off the board and before the tuck if they take 1.4 s to execute the somersaults before hitting the water?",
+        "Image Links": [],
+        "Answer": "$$f_{\\text{f}} = 2.1 \\text{rev} \\text{/} \\text{s} \\Rightarrow f_{0} = 0.5 \\text{rev} \\text{/} \\text{s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Conservation of Angular Momentum",
+        "Problem Statement": "",
+        "Question": "An Earth satellite has its apogee at 2500 km above the surface of Earth and perigee at 500 km above the surface of Earth. At apogee its speed is 6260 m/s. What is its speed at perigee? Earth\u2019s radius is 6370 km (see below).",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/bf0edfe74fb06c40cd4a49a8cef049a4414d3af5"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Conservation of Angular Momentum",
+        "Problem Statement": "",
+        "Question": "A Molniya orbit is a highly eccentric orbit of a communication satellite so as to provide continuous communications coverage for Scandinavian countries and adjacent Russia. The orbit is positioned so that these countries have the satellite in view for extended periods in time (see below). If a satellite in such an orbit has an apogee at 40,000.0 km as measured from the center of Earth and a velocity of 1.68 km/s, what would be its velocity at perigee measured at 200.0 km altitude?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/63ca50a7ad6dca614ba9ec0bd8b267f1d7e929f2"
+        ],
+        "Answer": "$$r_{P} m v_{P} = r_{A} m v_{A} \\Rightarrow v_{P} = 10.2 \\text{km} \\text{/} \\text{s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Conservation of Angular Momentum",
+        "Problem Statement": "",
+        "Question": "Shown below is a small particle of mass 20 g that is moving at a speed of 10.0 m/s when it collides and sticks to the edge of a uniform solid cylinder. The cylinder is free to rotate about its axis through its center and is perpendicular to the page. The cylinder has a mass of 0.5 kg and a radius of 10 cm, and is initially at rest. (a) What is the angular velocity of the system after the collision? (b) How much kinetic energy is lost in the collision?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ed25f42475d1c6e7a71fe08800cd48d1abf1ad84"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Conservation of Angular Momentum",
+        "Problem Statement": "",
+        "Question": "A bug of mass 0.020 kg is at rest on the edge of a solid cylindrical disk $$( M = 0.10 \\text{kg,} R = 0.10 \\text{m} )$$ rotating in a horizontal plane around the vertical axis through its center. The disk is rotating at 10.0 rad/s. The bug crawls to the center of the disk. (a) What is the new angular velocity of the disk? (b) What is the change in the kinetic energy of the system? (c) If the bug crawls back to the outer edge of the disk, what is the angular velocity of the disk then? (d) What is the new kinetic energy of the system? (e) What is the cause of the increase and decrease of kinetic energy?",
+        "Image Links": [],
+        "Answer": "a. $$I_{\\text{disk}} = 5.0 \\times 10^{-4} \\text{kg} \\cdotp \\text{m}^{2}$$ , $$I_{\\text{bug}} = 2.0 \\text{xx} 10^{-4} \\text{kg} \\cdotp \\text{m}^{2}$$ , $$\\left .\\begin{matrix}{} \\\\ ( I_{\\text{disk}} + I_{\\text{bug}} ) \\upomega_{1} = I_{\\text{disk}} \\upomega_{2} , \\\\  \\\\  \\\\ \\upomega_{2} = 14.0 \\text{rad} \\text{/} \\text{s}\\end{matrix}\\right .$$ b. $$\\text{Delta} K = 0.014 \\text{J}$$ ; c. $$\\upomega_{3} = 10.0 \\text{rad} \\text{/} \\text{s}$$ back to the original value; d. $$\\frac{1}{2} ( I_{\\text{disk}} + I_{\\text{bug}} ) \\upomega_{3}^{2} = 0.035 \\text{J}$$ back to the original value; e. work of the bug crawling on the disk",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Conservation of Angular Momentum",
+        "Problem Statement": "",
+        "Question": "A uniform rod of mass 200 g and length 100 cm is free to rotate in a horizontal plane around a fixed vertical axis through its center, perpendicular to its length. Two small beads, each of mass 20 g, are mounted in grooves along the rod. Initially, the two beads are held by catches on opposite sides of the rod\u2019s center, 10 cm from the axis of rotation. With the beads in this position, the rod is rotating with an angular velocity of 10.0 rad/s. When the catches are released, the beads slide outward along the rod. (a) What is the rod\u2019s angular velocity when the beads reach the ends of the rod? (b) What is the rod\u2019s angular velocity if the beads fly off the rod?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Conservation of Angular Momentum",
+        "Problem Statement": "",
+        "Question": "A merry-go-round has a radius of 2.0 m and a moment of inertia $$300 \\text{kg} \\cdotp \\text{m}^{2} .$$ A boy of mass 50 kg runs tangent to the rim at a speed of 4.0 m/s and jumps on. If the merry-go-round is initially at rest, what is the angular velocity after the boy jumps on?",
+        "Image Links": [],
+        "Answer": "$$L_{\\text{i}} = 400.0 \\text{kg} \\cdotp \\text{m}^{2} \\text{/} \\text{s}$$ , $$L_{\\text{f}} = 500.0 \\text{kg} \\cdotp \\text{m}^{2} \\upomega$$ , $$\\upomega = 0.80 \\text{rad} \\text{/} \\text{s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Conservation of Angular Momentum",
+        "Problem Statement": "",
+        "Question": "A playground merry-go-round has a mass of 120 kg and a radius of 1.80 m and it is rotating with an angular velocity of 0.500 rev/s. What is its angular velocity after a 22.0-kg child gets onto it by grabbing its outer edge? The child is initially at rest.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Conservation of Angular Momentum",
+        "Problem Statement": "",
+        "Question": "Three children are riding on the edge of a merry-go-round that is 100 kg, has a 1.60-m radius, and is spinning at 20.0 rpm. The children have masses of 22.0, 28.0, and 33.0 kg. If the child who has a mass of 28.0 kg moves to the center of the merry-go-round, what is the new angular velocity in rpm?",
+        "Image Links": [],
+        "Answer": "$$I_{0} = 340.48 \\text{kg} \\cdotp \\text{m}^{2}$$ , $$I_{\\text{f}} = 268.8 \\text{kg} \\cdotp \\text{m}^{2}$$ , $$\\upomega_{\\text{f}} = 25.33 \\text{rpm}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Conservation of Angular Momentum",
+        "Problem Statement": "",
+        "Question": "(a) Calculate the angular momentum of an ice skater spinning at 6.00 rev/s given his moment of inertia is $$0.400 \\text{kg} \\cdotp \\text{m}^{2}$$ . (b) He reduces his rate of spin (his angular velocity) by extending his arms and increasing his moment of inertia. Find the value of his moment of inertia if his angular velocity decreases to 1.25 rev/s. (c) Suppose instead he keeps his arms in and allows friction of the ice to slow him to 3.00 rev/s. What average torque was exerted if this takes 15.0 s?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Conservation of Angular Momentum",
+        "Problem Statement": "",
+        "Question": "Twin skaters approach one another as shown below and lock hands. (a) Calculate their final angular velocity, given each had an initial speed of 2.50 m/s relative to the ice. Each has a mass of 70.0 kg, and each has a center of mass located 0.800 m from their locked hands. You may approximate their moments of inertia to be that of point masses at this radius. (b) Compare the initial kinetic energy and final kinetic energy.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/13cd6b8769d774638da74249d49c51feda1232e6"
+        ],
+        "Answer": "a. $$L = 280 \\text{kg} \\cdotp \\text{m}^{2} \\text{/} \\text{s}$$ , $$I_{\\text{f}} = 89.6 \\text{kg} \\cdotp \\text{m}^{2}$$ , $$\\upomega_{\\text{f}} = 3.125 \\text{rad} \\text{/} \\text{s}$$ ; b. $$K_{\\text{i}} = 437.5 \\text{J}$$ , $$K_{\\text{f}} = 437.5 \\text{J}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Conservation of Angular Momentum",
+        "Problem Statement": "",
+        "Question": "A baseball catcher extends his arm straight up to catch a fast ball with a speed of 40 m/s. The baseball is 0.145 kg and the catcher\u2019s arm length is 0.5 m and mass 4.0 kg. (a) What is the angular velocity of the arm immediately after catching the ball as measured from the arm socket? (b) What is the torque applied if the catcher stops the rotation of his arm 0.3 s after catching the ball?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Conservation of Angular Momentum",
+        "Problem Statement": "",
+        "Question": "In 2015, in Warsaw, Poland, Olivia Oliver of Nova Scotia broke the world record for being the fastest spinner on ice skates. She achieved a record 342 rev/min, beating the existing Guinness World Record by 34 rotations. If an ice skater extends her arms at that rotation rate, what would be her new rotation rate? Assume she can be approximated by a 45-kg rod that is 1.7 m tall with a radius of 15 cm in the record spin. With her arms stretched take the approximation of a rod of length 130 cm with $$10 %$$ of her body mass aligned perpendicular to the spin axis. Neglect frictional forces.",
+        "Image Links": [],
+        "Answer": "Moment of inertia in the record spin: $$I_{0} = 0.5 \\text{kg} \\cdotp \\text{m}^{2}$$ , $$I_{\\text{f}} = 1.1 \\text{kg} \\cdotp \\text{m}^{2}$$ , $$\\upomega_{\\text{f}} = \\frac{I_{0}}{I_{\\text{f}}} \\upomega_{0} \\Rightarrow f_{\\text{f}} = 155.5 \\text{rev} \\text{/} \\text{min}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Conservation of Angular Momentum",
+        "Problem Statement": "",
+        "Question": "A satellite in a geosynchronous circular orbit is 42,164.0 km from the center of Earth. A small asteroid collides with the satellite sending it into an elliptical orbit of apogee 45,000.0 km. What is the speed of the satellite at apogee? Assume its angular momentum is conserved.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Conservation of Angular Momentum",
+        "Problem Statement": "",
+        "Question": "A gymnast does cartwheels along the floor and then launches herself into the air and executes several flips in a tuck while she is airborne. If her moment of inertia when executing the cartwheels is $$13.5 \\text{kg} \\cdotp \\text{m}^{2}$$ and her spin rate is 0.5 rev/s, how many revolutions does she do in the air if her moment of inertia in the tuck is $$3.4 \\text{kg} \\cdotp \\text{m}^{2}$$ and she has 2.0 s to do the flips in the air?",
+        "Image Links": [],
+        "Answer": "Her spin rate in the air is: $$f_{\\text{f}} = 2.0 \\text{rev} \\text{/} \\text{s}$$ ; She can do four flips in the air.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Conservation of Angular Momentum",
+        "Problem Statement": "",
+        "Question": "The centrifuge at NASA Ames Research Center has a radius of 8.8 m and can produce forces on its payload of 20 g s or 20 times the force of gravity on Earth. (a) What is the angular momentum of a 20-kg payload that experiences 10 g s in the centrifuge? (b) If the driver motor was turned off in (a) and the payload lost 10 kg, what would be its new spin rate, taking into account there are no frictional forces present?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Conservation of Angular Momentum",
+        "Problem Statement": "",
+        "Question": "A ride at a carnival has four spokes to which pods are attached that can hold two people. The spokes are each 15 m long and are attached to a central axis. Each spoke has mass 200.0 kg, and the pods each have mass 100.0 kg. If the ride spins at 0.2 rev/s with each pod containing two 50.0-kg children, what is the new spin rate if all the children jump off the ride?",
+        "Image Links": [],
+        "Answer": "Moment of inertia with all children aboard: $$I_{0} = 2.4 \\text{xx} 10^{5} \\text{kg} \\cdotp \\text{m}^{2}$$ ; $$I_{\\text{f}} = 1.5 \\text{xx} 10^{5} \\text{kg} \\cdotp \\text{m}^{2}$$ ; $$f_{\\text{f}} = 0.3 \\text{rev} \\text{/} \\text{s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Conservation of Angular Momentum",
+        "Problem Statement": "",
+        "Question": "An ice skater is preparing for a jump with turns and has his arms extended. His moment of inertia is $$1.8 \\text{kg} \\cdotp \\text{m}^{2}$$ while his arms are extended, and he is spinning at 0.5 rev/s. If he launches himself into the air at 9.0 m/s at an angle of $$45 \\text{\u00b0}$$ with respect to the ice, how many revolutions can he execute while airborne if his moment of inertia in the air is $$0.5 \\text{kg} \\cdotp \\text{m}^{2}$$ ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Conservation of Angular Momentum",
+        "Problem Statement": "",
+        "Question": "A space station consists of a giant rotating hollow cylinder of mass $$10^{6} \\text{kg}$$ including people on the station and a radius of 100.00 m. It is rotating in space at 3.30 rev/min in order to produce artificial gravity. If 100 people of an average mass of 65.00 kg spacewalk to an awaiting spaceship, what is the new rotation rate when all the people are off the station?",
+        "Image Links": [],
+        "Answer": "$$I_{0} = 1.00 \\text{xx} 10^{10} \\text{kg} \\cdotp \\text{m}^{2}$$ , $$I_{\\text{f}} = 9.94 \\text{xx} 10^{9} \\text{kg} \\cdotp \\text{m}^{2}$$ , $$f_{\\text{f}} = 3.32 \\text{rev} \\text{/} \\text{min}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Conservation of Angular Momentum",
+        "Problem Statement": "",
+        "Question": "Neptune has a mass of $$1.0 \\text{xx} 10^{26} \\text{kg}$$ and is $$4.5 \\text{xx} 10^{9} \\text{km}$$ from the Sun with an orbital period of 165 years. Planetesimals in the outer primordial solar system 4.5 billion years ago coalesced into Neptune over hundreds of millions of years. If the primordial disk that evolved into our present day solar system had a radius of $$10^{11}$$ km and if the matter that made up these planetesimals that later became Neptune was spread out evenly on the edges of it, what was the orbital period of the outer edges of the primordial disk?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Precession of a Gyroscope",
+        "Problem Statement": "",
+        "Question": "A gyroscope has a 0.5-kg disk that spins at 40 rev/s. The center of mass of the disk is 15 cm from a pivot with a radius of the disk of 10 cm. What is the precession angular velocity?",
+        "Image Links": [],
+        "Answer": "$$I = 2.5 \\times 10^{-3} \\text{kg} \\cdotp \\text{m}^{2}$$ , $$\\upomega_{P} = 1.17 \\text{rad} \\text{/} \\text{s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Precession of a Gyroscope",
+        "Problem Statement": "",
+        "Question": "The precession angular velocity of a gyroscope is 1.0 rad/s. If the mass of the rotating disk is 0.4 kg and its radius is 30 cm, and the distance from the center of mass to the pivot is 40 cm, what is the rotation rate in rev/s of the disk?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Precession of a Gyroscope",
+        "Problem Statement": "",
+        "Question": "The axis of Earth makes a $$23.5 \\text{\u00b0}$$ angle with a direction perpendicular to the plane of Earth\u2019s orbit. As shown below, this axis precesses, making one complete rotation in 25,780 y. (a) Calculate the change in angular momentum in half this time. (b) What is the average torque producing this change in angular momentum? (c) If this torque were created by a pair of forces acting at the most effective point on the equator, what would the magnitude of each force be?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b10d2d7414b6c52a136b516b8ee695368343407c"
+        ],
+        "Answer": "a. $$L_{\\text{Earth}} = 7.06 \\text{xx} 10^{33} \\text{kg} \\cdotp \\text{m}^{2} \\text{/} \\text{s}$$ , $$\\text{Delta} L = 5.63 \\text{xx} 10^{33} \\text{kg} \\cdotp \\text{m}^{2} \\text{/} \\text{s}$$ ; b. $$\\tau = 1.4 \\text{xx} 10^{22} \\text{N} \\cdotp \\text{m}$$ ; c. The two forces at the equator would have the same magnitude but different directions, one in the north direction and the other in the south direction on the opposite side of Earth. The angle between the forces and the lever arms to the center of Earth is $$90 \\text{\u00b0}$$ , so a given torque would have magnitude $$\\tau = F R_{\\text{E}} \\text{sin} 90 \\text{\u00b0} = F R_{\\text{E}}$$ . Both would provide a torque in the same direction: $$\\tau = 2 F R_{\\text{E}} \\Rightarrow F = 1.1 \\text{xx} 10^{15} \\text{N}$$",
+        "Answer Image Links": []
+    }
+]

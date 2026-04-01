@@ -1,0 +1,514 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, the region $$R$$ occupied by a lamina is shown in a graph. Find the mass of $$R$$ with the density function $$\\rho .$$",
+        "Question": "$$R$$ is the triangular region with vertices $$( 0 , 0 ) , ( 0 , 3 ) ,$$ and $$( 6 , 0 ) ; \\rho ( x , y ) = x y .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/fa9f4202d223e987b0decea7dd3b9c2c825f482d"
+        ],
+        "Answer": "$$\\frac{27}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, the region $$R$$ occupied by a lamina is shown in a graph. Find the mass of $$R$$ with the density function $$\\rho .$$",
+        "Question": "$$R$$ is the triangular region with vertices $$( 0 , 0 ) , ( 1 , 1 ) ,$$ $$( 0 , 5 ) ; \\rho ( x , y ) = x + y .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ef61fd64194205e6a8aebfb57678260719581f25"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, the region $$R$$ occupied by a lamina is shown in a graph. Find the mass of $$R$$ with the density function $$\\rho .$$",
+        "Question": "$$R$$ is the rectangular region with vertices $$( 0 , 0 ) , ( 0 , 3 ) , ( 6 , 3 ) ,$$ and $$( 6 , 0 ) ;$$ $$\\rho ( x , y ) = \\sqrt{x y} .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/439143b0a2090e9bf1ccf4267eee68012cfa95fd"
+        ],
+        "Answer": "$$24 \\sqrt{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, the region $$R$$ occupied by a lamina is shown in a graph. Find the mass of $$R$$ with the density function $$\\rho .$$",
+        "Question": "$$R$$ is the rectangular region with vertices $$( 0 , 1 ) , ( 0 , 3 ) , ( 3 , 3 ) ,$$ and $$( 3 , 1 ) ;$$ $$\\rho ( x , y ) = x^{2} y .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6a12acd45d6c0a5e4aa767cdea7c444429fd3259"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, the region $$R$$ occupied by a lamina is shown in a graph. Find the mass of $$R$$ with the density function $$\\rho .$$",
+        "Question": "$$R$$ is the trapezoidal region determined by the lines $$y = - \\frac{1}{4} x + \\frac{5}{2} , y = 0 , y = 2 ,$$ and $$x = 0 ;$$ $$\\rho ( x , y ) = 3 x y .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/aff016381cf9f8d24d3b2021dd0c3d272888ddf4"
+        ],
+        "Answer": "$$76$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, the region $$R$$ occupied by a lamina is shown in a graph. Find the mass of $$R$$ with the density function $$\\rho .$$",
+        "Question": "$$R$$ is the trapezoidal region determined by the lines $$y = 0 , y = 1 , y = x ,$$ and $$y = \\text{unicode[:-]} x + 3 ; \\rho ( x , y ) = 2 x + y .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d0991cbe05e4e63d2dbef20a9cbeabcea906a628"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, the region $$R$$ occupied by a lamina is shown in a graph. Find the mass of $$R$$ with the density function $$\\rho .$$",
+        "Question": "$$R$$ is the disk of radius $$2$$ centered at $$( 1 , 2 ) ;$$ $$\\rho ( x , y ) = x^{2} + y^{2} - 2 x - 4 y + 5 .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a278a0c225d4428cfc5525a1c485dabe7be0252e"
+        ],
+        "Answer": "$$8 \\pi$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, the region $$R$$ occupied by a lamina is shown in a graph. Find the mass of $$R$$ with the density function $$\\rho .$$",
+        "Question": "$$R$$ is the unit disk; $$\\rho ( x , y ) = 3 x^{4} + 6 x^{2} y^{2} + 3 y^{4} .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c71abad4596468f0715602d880709d5dfb9f381f"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, the region $$R$$ occupied by a lamina is shown in a graph. Find the mass of $$R$$ with the density function $$\\rho .$$",
+        "Question": "$$R$$ is the region enclosed by the ellipse $$x^{2} + 4 y^{2} = 1 ; \\rho ( x , y ) = 1 .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b271e297d5b5e6d53ff689477af5924fcf794d72"
+        ],
+        "Answer": "$$\\frac{\\pi}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, the region $$R$$ occupied by a lamina is shown in a graph. Find the mass of $$R$$ with the density function $$\\rho .$$",
+        "Question": "$$R = \\{ ( x , y ) | 9 x^{2} + y^{2} \\le 1 , x \\geq 0 , y \\geq 0 \\} ;$$ $$\\rho ( x , y ) = \\sqrt{9 x^{2} + y^{2}} .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2a756e4b030e5104f0c21efbc4735e63a8241ddd"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, the region $$R$$ occupied by a lamina is shown in a graph. Find the mass of $$R$$ with the density function $$\\rho .$$",
+        "Question": "$$R$$ is the region bounded by $$y = x , y = \\text{unicode[:-]} x , y = x + 2 , y = \\text{unicode[:-]} x + 2 ;$$ $$\\rho ( x , y ) = 1 .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d5a8e9d8504bb0aca58980ddeb57f14b7cca26c1"
+        ],
+        "Answer": "$$2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, the region $$R$$ occupied by a lamina is shown in a graph. Find the mass of $$R$$ with the density function $$\\rho .$$",
+        "Question": "$$R$$ is the region bounded by $$y = \\frac{1}{x} , y = \\frac{2}{x} , y = 1 ,$$ and $$y = 2 ; \\rho ( x , y ) = 4 ( x + y ) .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c68aa059a78f0edf6f2c7dbb0e4e111793cb102c"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the preceding group of exercises. Use a computer algebra system (CAS) to answer the following questions. a) Find the moments $$M_{x}$$ and $$M_{y}$$ about the $$x \\text{-axis}$$ and $$y \\text{-axis,}$$ respectively. b) Calculate and plot the center of mass of the lamina. c) [T] Use a CAS to locate the center of mass on the graph of $$R .$$",
+        "Question": "[T] $$R$$ is the triangular region with vertices $$( 0 , 0 ) , ( 0 , 3 ) ,$$ and $$( 6 , 0 ) ; \\rho ( x , y ) = x y .$$",
+        "Image Links": [],
+        "Answer": "a. $$M_{x} = \\frac{81}{5} , M_{y} = \\frac{162}{5} ;$$ b. $$\\overset{-}{x} = \\frac{12}{5} , \\overset{-}{y} = \\frac{6}{5} ;$$ c.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/4558fc74056fadf6def7d5a09fb7951b8d8437a8"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the preceding group of exercises. Use a computer algebra system (CAS) to answer the following questions. a) Find the moments $$M_{x}$$ and $$M_{y}$$ about the $$x \\text{-axis}$$ and $$y \\text{-axis,}$$ respectively. b) Calculate and plot the center of mass of the lamina. c) [T] Use a CAS to locate the center of mass on the graph of $$R .$$",
+        "Question": "[T] $$R$$ is the triangular region with vertices $$( 0 , 0 ) , ( 1 , 1 ) , \\text{and} ( 0 , 5 ) ; \\rho ( x , y ) = x + y .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the preceding group of exercises. Use a computer algebra system (CAS) to answer the following questions. a) Find the moments $$M_{x}$$ and $$M_{y}$$ about the $$x \\text{-axis}$$ and $$y \\text{-axis,}$$ respectively. b) Calculate and plot the center of mass of the lamina. c) [T] Use a CAS to locate the center of mass on the graph of $$R .$$",
+        "Question": "[T] $$R$$ is the rectangular region with vertices $$( 0 , 0 ) , ( 0 , 3 ) , ( 6 , 3 ) , \\text{and} ( 6 , 0 ) ;$$ $$\\rho ( x , y ) = \\sqrt{x y} .$$",
+        "Image Links": [],
+        "Answer": "a. $$M_{x} = \\frac{216 \\sqrt{2}}{5} , M_{y} = \\frac{432 \\sqrt{2}}{5} ;$$ b. $$\\overset{-}{x} = \\frac{18}{5} , \\overset{-}{y} = \\frac{9}{5} ;$$ c.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c46079e435d102060c57a5f9faa1fb039dfd6123"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the preceding group of exercises. Use a computer algebra system (CAS) to answer the following questions. a) Find the moments $$M_{x}$$ and $$M_{y}$$ about the $$x \\text{-axis}$$ and $$y \\text{-axis,}$$ respectively. b) Calculate and plot the center of mass of the lamina. c) [T] Use a CAS to locate the center of mass on the graph of $$R .$$",
+        "Question": "[T] $$R$$ is the rectangular region with vertices $$( 0 , 1 ) , ( 0 , 3 ) , ( 3 , 3 ) , \\text{and} ( 3 , 1 ) ;$$ $$\\rho ( x , y ) = x^{2} y .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the preceding group of exercises. Use a computer algebra system (CAS) to answer the following questions. a) Find the moments $$M_{x}$$ and $$M_{y}$$ about the $$x \\text{-axis}$$ and $$y \\text{-axis,}$$ respectively. b) Calculate and plot the center of mass of the lamina. c) [T] Use a CAS to locate the center of mass on the graph of $$R .$$",
+        "Question": "[T] $$R$$ is the trapezoidal region determined by the lines $$y = - \\frac{1}{4} x + \\frac{5}{2} , y = 0 ,$$ $$y = 2 , \\text{and} x = 0 ;$$ $$\\rho ( x , y ) = 3 x y .$$",
+        "Image Links": [],
+        "Answer": "a. $$M_{x} = \\frac{368}{5} , M_{y} = \\frac{1552}{5} ;$$ b. $$\\overset{-}{x} = \\frac{388}{95} , \\overset{-}{y} = \\frac{92}{95} ;$$ c.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/83d55bce4d11adcd2ae6e8287ab35898b7d39f28"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the preceding group of exercises. Use a computer algebra system (CAS) to answer the following questions. a) Find the moments $$M_{x}$$ and $$M_{y}$$ about the $$x \\text{-axis}$$ and $$y \\text{-axis,}$$ respectively. b) Calculate and plot the center of mass of the lamina. c) [T] Use a CAS to locate the center of mass on the graph of $$R .$$",
+        "Question": "[T] $$R$$ is the trapezoidal region determined by the lines $$y = 0 , y = 1 , y = x ,$$ and $$y = \\text{unicode[:-]} x + 3 ; \\rho ( x , y ) = 2 x + y .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the preceding group of exercises. Use a computer algebra system (CAS) to answer the following questions. a) Find the moments $$M_{x}$$ and $$M_{y}$$ about the $$x \\text{-axis}$$ and $$y \\text{-axis,}$$ respectively. b) Calculate and plot the center of mass of the lamina. c) [T] Use a CAS to locate the center of mass on the graph of $$R .$$",
+        "Question": "[T] $$R$$ is the disk of radius $$2$$ centered at $$( 1 , 2 ) ;$$ $$\\rho ( x , y ) = x^{2} + y^{2} - 2 x - 4 y + 5 .$$",
+        "Image Links": [],
+        "Answer": "a. $$M_{x} = 16 \\pi , M_{y} = 8 \\pi ;$$ b. $$\\overset{-}{x} = 1 , \\overset{-}{y} = 2 ;$$ c.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/796c0f2d8508a23ee03e34a9d1ae3700a10c77de"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the preceding group of exercises. Use a computer algebra system (CAS) to answer the following questions. a) Find the moments $$M_{x}$$ and $$M_{y}$$ about the $$x \\text{-axis}$$ and $$y \\text{-axis,}$$ respectively. b) Calculate and plot the center of mass of the lamina. c) [T] Use a CAS to locate the center of mass on the graph of $$R .$$",
+        "Question": "[T] $$R$$ is the unit disk; $$\\rho ( x , y ) = 3 x^{4} + 6 x^{2} y^{2} + 3 y^{4} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the preceding group of exercises. Use a computer algebra system (CAS) to answer the following questions. a) Find the moments $$M_{x}$$ and $$M_{y}$$ about the $$x \\text{-axis}$$ and $$y \\text{-axis,}$$ respectively. b) Calculate and plot the center of mass of the lamina. c) [T] Use a CAS to locate the center of mass on the graph of $$R .$$",
+        "Question": "[T] $$R$$ is the region enclosed by the ellipse $$x^{2} + 4 y^{2} = 1 ; \\rho ( x , y ) = 1 .$$",
+        "Image Links": [],
+        "Answer": "a. $$M_{x} = 0 , M_{y} = 0 ;$$ b. $$\\overset{-}{x} = 0 , \\overset{-}{y} = 0 ;$$ c.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/256d21909b0228f776761e1cdcef91cbffc9dee1"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the preceding group of exercises. Use a computer algebra system (CAS) to answer the following questions. a) Find the moments $$M_{x}$$ and $$M_{y}$$ about the $$x \\text{-axis}$$ and $$y \\text{-axis,}$$ respectively. b) Calculate and plot the center of mass of the lamina. c) [T] Use a CAS to locate the center of mass on the graph of $$R .$$",
+        "Question": "[T] $$R = \\{ ( x , y ) | 9 x^{2} + y^{2} \\le 1 , x \\geq 0 , y \\geq 0 \\} ;$$ $$\\rho ( x , y ) = \\sqrt{9 x^{2} + y^{2}} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the preceding group of exercises. Use a computer algebra system (CAS) to answer the following questions. a) Find the moments $$M_{x}$$ and $$M_{y}$$ about the $$x \\text{-axis}$$ and $$y \\text{-axis,}$$ respectively. b) Calculate and plot the center of mass of the lamina. c) [T] Use a CAS to locate the center of mass on the graph of $$R .$$",
+        "Question": "[T] $$R$$ is the region bounded by $$y = x , y = \\text{unicode[:-]} x , y = x + 2 ,$$ and $$y = \\text{unicode[:-]} x + 2 ;$$ $$\\rho ( x , y ) = 1 .$$",
+        "Image Links": [],
+        "Answer": "a. $$M_{x} = 2 , M_{y} = 0 ;$$ b. $$\\overset{-}{x} = 0 , \\overset{-}{y} = 1 ;$$ c.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/750af01ef6531ff0bab7f99be9263696fa07b770"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the preceding group of exercises. Use a computer algebra system (CAS) to answer the following questions. a) Find the moments $$M_{x}$$ and $$M_{y}$$ about the $$x \\text{-axis}$$ and $$y \\text{-axis,}$$ respectively. b) Calculate and plot the center of mass of the lamina. c) [T] Use a CAS to locate the center of mass on the graph of $$R .$$",
+        "Question": "[T] $$R$$ is the region bounded by $$y = \\frac{1}{x} ,$$ $$y = \\frac{2}{x} , y = 1 , \\text{and} y = 2 ;$$ $$\\rho ( x , y ) = 4 ( x + y ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "$$R$$ is the triangular region with vertices $$( 0 , 0 ) , ( 0 , 3 ) ,$$ and $$( 6 , 0 ) ; \\rho ( x , y ) = x y .$$",
+        "Image Links": [],
+        "Answer": "a. $$I_{x} = \\frac{243}{10} , I_{y} = \\frac{486}{5} , \\text{and} I_{0} = \\frac{243}{2} ;$$ b. $$R_{x} = \\frac{3 \\sqrt{5}}{5} , R_{y} = \\frac{6 \\sqrt{5}}{5} , \\text{and} R_{0} = 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "$$R$$ is the triangular region with vertices $$( 0 , 0 ) , ( 1 , 1 ) ,$$ and $$( 0 , 5 ) ; \\rho ( x , y ) = x + y .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "$$R$$ is the rectangular region with vertices $$( 0 , 0 ) , ( 0 , 3 ) , ( 6 , 3 ) ,$$ and $$( 6 , 0 ) ; \\rho ( x , y ) = \\sqrt{x y} .$$",
+        "Image Links": [],
+        "Answer": "a. $$I_{x} = \\frac{648 \\sqrt{2}}{7} , I_{y} = \\frac{2592 \\sqrt{2}}{7} , \\text{and} I_{0} = \\frac{3240 \\sqrt{2}}{7} ;$$ b. $$R_{y} = \\frac{3 \\sqrt{21}}{7} , R_{x} = \\frac{6 \\sqrt{21}}{7} , \\text{and} R_{0} = \\frac{3 \\sqrt{105}}{7}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "$$R$$ is the rectangular region with vertices $$( 0 , 1 ) , ( 0 , 3 ) , ( 3 , 3 ) ,$$ and $$( 3 , 1 ) ; \\rho ( x , y ) = x^{2} y .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "$$R$$ is the trapezoidal region determined by the lines $$y = - \\frac{1}{4} x + \\frac{5}{2} , y = 0 , y = 2 ,$$ and $$x = 0 ; \\rho ( x , y ) = 3 x y .$$",
+        "Image Links": [],
+        "Answer": "a. $$I_{x} = 88 , I_{y} = 1560 , \\text{and} I_{0} = 1648 ;$$ b. $$R_{x} = \\frac{\\sqrt{418}}{19} , R_{y} = \\frac{\\sqrt{7410}}{19} ,$$ and $$R_{0} = \\frac{2 \\sqrt{1957}}{19}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "$$R$$ is the trapezoidal region determined by the lines $$y = 0 , y = 1 , y = x ,$$ and $$y = \\text{unicode[:-]} x + 3 ; \\rho ( x , y ) = 2 x + y .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "$$R$$ is the disk of radius $$2$$ centered at $$( 1 , 2 ) ;$$ $$\\rho ( x , y ) = x^{2} + y^{2} - 2 x - 4 y + 5 .$$",
+        "Image Links": [],
+        "Answer": "a. $$I_{x} = \\frac{128 \\pi}{3} , I_{y} = \\frac{56 \\pi}{3} , \\text{and} I_{0} = \\frac{184 \\pi}{3} ;$$ b. $$R_{x} = \\frac{4 \\sqrt{3}}{3} , R_{y} = \\frac{\\sqrt{21}}{3} ,$$ and $$R_{0} = \\frac{\\sqrt{69}}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "$$R$$ is the unit disk; $$\\rho ( x , y ) = 3 x^{4} + 6 x^{2} y^{2} + 3 y^{4} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "$$R$$ is the region enclosed by the ellipse $$x^{2} + 4 y^{2} = 1 ; \\rho ( x , y ) = 1 .$$",
+        "Image Links": [],
+        "Answer": "a. $$I_{x} = \\frac{\\pi}{32} , I_{y} = \\frac{\\pi}{8} , \\text{and} I_{0} = \\frac{5 \\pi}{32} ;$$ b. $$R_{x} = \\frac{1}{4} , R_{y} = \\frac{1}{2} , \\text{and} R_{0} = \\frac{\\sqrt{5}}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "$$R = \\{ ( x , y ) | 9 x^{2} + y^{2} \\le 1 , x \\geq 0 , y \\geq 0 \\} ; \\rho ( x , y ) = \\sqrt{9 x^{2} + y^{2}} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "$$R$$ is the region bounded by $$y = x , y = \\text{unicode[:-]} x , y = x + 2 , \\text{and} y = \\text{unicode[:-]} x + 2 ;$$ $$\\rho ( x , y ) = 1 .$$",
+        "Image Links": [],
+        "Answer": "a. $$I_{x} = \\frac{7}{3} , I_{y} = \\frac{1}{3} , \\text{and} I_{0} = \\frac{8}{3} ;$$ b. $$R_{x} = \\frac{\\sqrt{42}}{6} , R_{y} = \\frac{\\sqrt{6}}{6} , \\text{and} R_{0} = \\frac{2 \\sqrt{3}}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "$$R$$ is the region bounded by $$y = \\frac{1}{x} , y = \\frac{2}{x} , y = 1 , \\text{and} y = 2 ; \\rho ( x , y ) = 4 ( x + y ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "Let $$Q$$ be the solid unit cube. Find the mass of the solid if its density $$\\rho$$ is equal to the square of the distance of an arbitrary point of $$Q$$ to the $$x y \\text{-plane} .$$",
+        "Image Links": [],
+        "Answer": "$$m = \\frac{1}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "Let $$Q$$ be the solid unit hemisphere. Find the mass of the solid if its density $$\\rho$$ is equal to the distance of an arbitrary point of $$Q$$ to the origin.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "The solid $$Q$$ of constant density $$1$$ is situated inside the sphere $$x^{2} + y^{2} + z^{2} = 16$$ and outside the sphere $$x^{2} + y^{2} + z^{2} = 1 .$$ Show that the center of mass of the solid is not located within the solid.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "Find the mass of the solid $$Q = \\{ ( x , y , z ) | 1 \\le x^{2} + z^{2} \\le 25 , y \\le 1 - x^{2} - z^{2} \\}$$ whose density is $$\\rho ( x , y , z ) = k ,$$ where $$k > 0 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "[T] The solid $$Q = \\{ ( x , y , z ) | x^{2} + y^{2} \\le 9 , 0 \\le z \\le 1 , x \\geq 0 , y \\geq 0 \\}$$ has density equal to the distance to the $$x y \\text{-plane} \\text{.}$$ Use a CAS to answer the following questions. Find the mass of $$Q .$$ Find the moments $$M_{x y} , M_{x z} , \\text{and} M_{y z}$$ about the $$x y \\text{-plane,}$$ $$x z \\text{-plane,}$$ and $$y z \\text{-plane,}$$ respectively. Find the center of mass of $$Q .$$ Graph $$Q$$ and locate its center of mass.",
+        "Image Links": [],
+        "Answer": "a. $$m = \\frac{9 \\pi}{8} ;$$ b. $$M_{x y} = \\frac{3 \\pi}{4} , M_{x z} = \\frac{9}{2} , M_{y z} = \\frac{9}{2} ;$$ c. $$\\overset{-}{x} = \\frac{4}{\\pi} , \\overset{-}{y} = \\frac{4}{\\pi} , \\overset{-}{z} = \\frac{2}{3} ;$$ d. the solid $$Q$$ and its center of mass are shown in the following figure.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/29ae871fe826001f9aa701e0737e31574a4ba79f"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "Consider the solid $$Q = \\{ ( x , y , z ) | 0 \\le x \\le 1 , 0 \\le y \\le 2 , 0 \\le z \\le 3 \\}$$ with the density function $$\\rho ( x , y , z ) = x + y + 1 .$$ Find the mass of $$Q .$$ Find the moments $$M_{x y} , M_{x z} , \\text{and} M_{y z}$$ about the $$x y \\text{-plane,}$$ $$x z \\text{-plane,}$$ and $$y z \\text{-plane,}$$ respectively. Find the center of mass of $$Q .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "[T] The solid $$Q$$ has the mass given by the triple integral $$\\int_{-1}^{1} \\int_{0}^{\\frac{\\pi}{4}} \\int_{0}^{1} r^{2} d r d \\theta d z .$$ Use a CAS to answer the following questions. Show that the center of mass of $$Q$$ is located in the $$x y \\text{-plane.}$$ Graph $$Q$$ and locate its center of mass.",
+        "Image Links": [],
+        "Answer": "a. $$\\overset{-}{x} = \\frac{3 \\sqrt{2}}{2 \\pi} , \\overset{-}{y} = \\frac{3 \\left(\\right. 2 - \\sqrt{2} \\left.\\right)}{2 \\pi} , \\overset{-}{z} = 0 ;$$ b. the solid $$Q$$ and its center of mass are shown in the following figure.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/cfef7b0ce559f67f879e9b8f7d89daf50632f903"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "The solid $$Q$$ is bounded by the planes $$x + 4 y + z = 8 , x = 0 , y = 0 , \\text{and} z = 0 .$$ Its density at any point is equal to the distance to the $$x z \\text{-plane} \\text{.}$$ Find the moment of inertia $$I_{y}$$ of the solid about the $$x z \\text{-plane} \\text{.}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "The solid $$Q$$ is bounded by the planes $$x + y + z = 3 ,$$ $$x = 0 , y = 0 ,$$ and $$z = 0 .$$ Its density is $$\\rho ( x , y , z ) = x + a y ,$$ where $$a > 0 .$$ Show that the center of mass of the solid is located in the plane $$z = \\frac{3}{5}$$ for any value of $$a .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "Let $$Q$$ be the solid situated outside the sphere $$x^{2} + y^{2} + z^{2} = z$$ and inside the upper hemisphere $$x^{2} + y^{2} + z^{2} = R^{2} ,$$ where $$R > 1 .$$ If the density of the solid is $$\\rho ( x , y , z ) = \\frac{1}{\\sqrt{x^{2} + y^{2} + z^{2}}} ,$$ find $$R$$ such that the mass of the solid is $$\\frac{7 \\pi}{2} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "The mass of a solid $$Q$$ is given by $$\\int_{0}^{2 \\sqrt{2}} \\int_{0}^{\\sqrt{8 - x^{2}}} \\int_{\\sqrt{x^{2} + y^{2}}}^{\\sqrt{16 - x^{2} - y^{2}}} ( x^{2} + y^{2} + z^{2} )^{n} d z d y d x ,$$ where $$n$$ is an integer. Determine $$n$$ such that the mass of the solid is $$( 2 - \\sqrt{2} ) \\pi .$$",
+        "Image Links": [],
+        "Answer": "$$n = -1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "Let $$Q$$ be the solid above the cone $$x^{2} + y^{2} = z^{2}$$ and below the sphere $$x^{2} + y^{2} + z^{2} - 4 k z = 0 .$$ Its density is a constant $$k > 0 .$$ Find $$k$$ such that the center of mass of the solid is situated $$7$$ units from the origin.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "The solid $$Q = \\{ ( x , y , z ) | 0 \\le x^{2} + y^{2} \\le 16 , x \\geq 0 , y \\geq 0 , 0 \\le z \\le x \\}$$ has the density $$\\rho ( x , y , z ) = k .$$ Show that the moment $$M_{x y}$$ about the $$x y \\text{-plane}$$ is half of the moment $$M_{y z}$$ about the $$y z \\text{-plane} \\text{.}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "The solid $$Q$$ is bounded by the cylinder $$x^{2} + y^{2} = a^{2} ,$$ the paraboloid $$b^{2} - z = x^{2} + y^{2} ,$$ and the $$x y \\text{-plane,}$$ where $$0 < a < b .$$ Find the mass of the solid if its density is given by $$\\rho ( x , y , z ) = \\sqrt{x^{2} + y^{2}} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "Let $$Q$$ be a solid of constant density $$k ,$$ where $$k > 0 ,$$ that is located in the first octant, inside the circular cone $$x^{2} + y^{2} = 9 ( z - 1 )^{2} ,$$ and above the plane $$z = 0 .$$ Show that the moment $$M_{x y}$$ about the $$x y \\text{-plane}$$ is the same as the moment $$M_{y z}$$ about the $$y z \\text{-plane} \\text{.}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "The solid $$Q$$ has the mass given by the triple integral $$\\int_{0}^{1} \\int_{0}^{\\pi \\text{/} 2} \\int_{0}^{r^{2}} ( r^{4} + r ) d z d \\theta d r .$$ Find the density of the solid in rectangular coordinates. Find the moment $$M_{x y}$$ about the $$x y \\text{-plane} \\text{.}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "The solid $$Q$$ has the moment of inertia $$I_{x}$$ about the $$y z \\text{-plane}$$ given by the triple integral $$\\int_{0}^{2} \\int_{\\text{unicode[:-]} \\sqrt{4 - y^{2}}}^{\\sqrt{4 - y^{2}}} \\int_{\\frac{1}{2} ( x^{2} + y^{2} )}^{\\sqrt{x^{2} + y^{2}}} ( y^{2} + z^{2} ) ( x^{2} + y^{2} ) d z d x d y .$$ Find the density of $$Q .$$ Find the moment of inertia $$I_{z}$$ about the $$x y \\text{-plane.}$$",
+        "Image Links": [],
+        "Answer": "a. $$\\rho ( x , y , z ) = x^{2} + y^{2} ;$$ b. $$\\frac{16 \\pi}{7}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "The solid $$Q$$ has the mass given by the triple integral $$\\int_{0}^{\\pi \\text{/} 4} \\int_{0}^{2 \\text{sec} \\theta} \\int_{0}^{1} ( r^{3} \\text{cos} \\theta \\text{sin} \\theta + 2 r ) d z d r d \\theta .$$ Find the density of the solid in rectangular coordinates. Find the moment $$M_{x z}$$ about the $$x z \\text{-plane.}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "Let $$Q$$ be the solid bounded by the $$x y \\text{-plane} ,$$ the cylinder $$x^{2} + y^{2} = a^{2} ,$$ and the plane $$z = 1 ,$$ where $$a > 1$$ is a real number. Find the moment $$M_{x y}$$ of the solid about the $$x y \\text{-plane}$$ if its density given in cylindrical coordinates is $$\\rho ( r , \\theta , z ) = \\frac{d^{2} f}{d r^{2}} ( r ) ,$$ where $$f$$ is a differentiable function with the first and second derivatives continuous and differentiable on $$( 0 , a ) .$$",
+        "Image Links": [],
+        "Answer": "$$M_{x y} = \\pi ( f ( 0 ) - f ( a ) + a f^{\\prime} ( a ) )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "A solid $$Q$$ has a volume given by $$\\iint_{D} \\int_{a}^{b} d z d A ,$$ where $$D$$ is the projection of the solid onto the $$x y \\text{-plane}$$ and $$a < b$$ are real numbers, and its density does not depend on the variable $$z .$$ Show that its center of mass lies in the plane $$z = \\frac{a + b}{2} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "Consider the solid enclosed by the cylinder $$x^{2} + z^{2} = a^{2}$$ and the planes $$y = b$$ and $$y = c ,$$ where $$a > 0$$ and $$b < c$$ are real numbers. The density of $$Q$$ is given by $$\\rho ( x , y , z ) = f \\prime ( y ) ,$$ where $$f$$ is a differential function whose derivative is continuous on $$( b , c ) .$$ Show that if $$f ( b ) = f ( c ) ,$$ then the moment of inertia about the $$x z \\text{-plane}$$ of $$Q$$ is null.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "[T] The average density of a solid $$Q$$ is defined as $$\\rho_{a v e} = \\frac{1}{V ( Q )} \\iiint_{Q} \\rho ( x , y , z ) d V = \\frac{m}{V ( Q )} ,$$ where $$V ( Q )$$ and $$m$$ are the volume and the mass of $$Q ,$$ respectively. If the density of the unit ball centered at the origin is $$\\rho ( x , y , z ) = e^{\\text{unicode[:-]} x^{2} - y^{2} - z^{2}} ,$$ use a CAS to find its average density. Round your answer to three decimal places.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, consider a lamina occupying the region $$R$$ and having the density function $$\\rho$$ given in the first two groups of Exercises. a) Find the moments of inertia $$I_{x} , I_{y} ,$$ and $$I_{0}$$ about the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively. b) Find the radii of gyration with respect to the $$x \\text{-axis} ,$$ $$y \\text{-axis} ,$$ and origin, respectively.",
+        "Question": "Show that the moments of inertia $$I_{x} , I_{y} , \\text{and} I_{z}$$ about the $$y z \\text{-plane,}$$ $$x z \\text{-plane,}$$ and $$x y \\text{-plane,}$$ respectively, of the unit ball centered at the origin whose density is $$\\rho ( x , y , z ) = e^{\\text{unicode[:-]} x^{2} - y^{2} - z^{2}}$$ are the same. Round your answer to two decimal places.",
+        "Image Links": [],
+        "Answer": "$$I_{x} = I_{y} = I_{z} \\simeq 0.84$$",
+        "Answer Image Links": []
+    }
+]

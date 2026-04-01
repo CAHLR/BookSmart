@@ -1,0 +1,26 @@
+[
+    {
+        "Topic": "Checkpoint 3.27",
+        "Problem Statement": "",
+        "Question": "Evaluate $$\\int_{-3}^{+ \\infty} e^{\\text{unicode[:-]} x} d x .$$ State whether the improper integral converges or diverges.",
+        "Image Links": [],
+        "Answer": "$$e^{3} ,$$ converges",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.28",
+        "Problem Statement": "",
+        "Question": "Evaluate $$\\int_{0}^{2} \\frac{1}{x} d x .$$ State whether the integral converges or diverges.",
+        "Image Links": [],
+        "Answer": "$$+ \\infty ,$$ diverges",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.29",
+        "Problem Statement": "",
+        "Question": "Use a comparison to show that $$\\int_{e}^{+ \\infty} \\frac{\\text{ln} x}{x} d x$$ diverges.",
+        "Image Links": [],
+        "Answer": "Since $$\\int_{e}^{+ \\infty} \\frac{1}{x} d x = \\text{+} \\infty ,$$ $$\\int_{e}^{+ \\infty} \\frac{\\text{ln} x}{x} d x$$ diverges.",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "Topic": "Try It 9.59",
+        "Problem Statement": "",
+        "Question": "Solve: $$x^{4} - 6 x^{2} + 8 = 0$$ .",
+        "Image Links": [],
+        "Answer": "$$x = \\sqrt{2} , x = \\text{unicode[:-]} \\sqrt{2} , x = 2 , x = -2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.60",
+        "Problem Statement": "",
+        "Question": "Solve: $$x^{4} - 11 x^{2} + 28 = 0$$ .",
+        "Image Links": [],
+        "Answer": "$$x = \\sqrt{7} , x = \\text{unicode[:-]} \\sqrt{7} , x = 2 , x = -2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.61",
+        "Problem Statement": "",
+        "Question": "Solve: $$( x - 5 )^{2} + 6 ( x - 5 ) + 8 = 0 .$$",
+        "Image Links": [],
+        "Answer": "$$x = 3 , x = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.62",
+        "Problem Statement": "",
+        "Question": "Solve: $$( y - 4 )^{2} + 8 ( y - 4 ) + 15 = 0 .$$",
+        "Image Links": [],
+        "Answer": "$$y = -1 , y = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.63",
+        "Problem Statement": "",
+        "Question": "Solve: $$x - 7 \\sqrt{x} + 12 = 0 .$$",
+        "Image Links": [],
+        "Answer": "$$x = 9 , x = 16$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.64",
+        "Problem Statement": "",
+        "Question": "Solve: $$x - 6 \\sqrt{x} + 8 = 0 .$$",
+        "Image Links": [],
+        "Answer": "$$x = 4 , x = 16$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.65",
+        "Problem Statement": "",
+        "Question": "Solve: $$x^{\\frac{2}{3}} - 5 x^{\\frac{1}{3}} - 14 = 0 .$$",
+        "Image Links": [],
+        "Answer": "$$x = -8 , x = 343$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.66",
+        "Problem Statement": "",
+        "Question": "Solve: $$x^{\\frac{1}{2}} - 8 x^{\\frac{1}{4}} + 15 = 0 .$$",
+        "Image Links": [],
+        "Answer": "$$x = 81 , x = 625$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.67",
+        "Problem Statement": "",
+        "Question": "Solve: $$8 x^{-2} - 10 x^{-1} + 3 = 0 .$$",
+        "Image Links": [],
+        "Answer": "$$x = \\frac{4}{3} x = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.68",
+        "Problem Statement": "",
+        "Question": "Solve: $$6 x^{-2} - 23 x^{-1} + 20 = 0 .$$",
+        "Image Links": [],
+        "Answer": "$$x = \\frac{2}{5} , x = \\frac{3}{4}$$",
+        "Answer Image Links": []
+    }
+]

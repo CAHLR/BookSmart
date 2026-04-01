@@ -1,0 +1,332 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, calculate the center of mass for the collection of masses given.",
+        "Question": "$$m_{1} = 2$$ at $$x_{1} = 1$$ and $$m_{2} = 4$$ at $$x_{2} = 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, calculate the center of mass for the collection of masses given.",
+        "Question": "$$m_{1} = 1$$ at $$x_{1} = -1$$ and $$m_{2} = 3$$ at $$x_{2} = 2$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{5}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, calculate the center of mass for the collection of masses given.",
+        "Question": "$$m = 3$$ at $$x = 0 , 1 , 2 , 6$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, calculate the center of mass for the collection of masses given.",
+        "Question": "Unit masses at $$( x , y ) = ( 1 , 0 ) , ( 0 , 1 ) , ( 1 , 1 )$$",
+        "Image Links": [],
+        "Answer": "$$( \\frac{2}{3} , \\frac{2}{3} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, calculate the center of mass for the collection of masses given.",
+        "Question": "$$m_{1} = 1$$ at $$( 1 , 0 )$$ and $$m_{2} = 4$$ at $$( 0 , 1 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, calculate the center of mass for the collection of masses given.",
+        "Question": "$$m_{1} = 1$$ at $$( 1 , 0 )$$ and $$m_{2} = 3$$ at $$( 2 , 2 )$$",
+        "Image Links": [],
+        "Answer": "$$( \\frac{7}{4} , \\frac{3}{2} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, compute the center of mass $$\\overset{-}{x} .$$",
+        "Question": "$$\\rho = 1$$ for $$x \\in ( -1 , 3 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, compute the center of mass $$\\overset{-}{x} .$$",
+        "Question": "$$\\rho = x^{2}$$ for $$x \\in ( 0 , L )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3 L}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, compute the center of mass $$\\overset{-}{x} .$$",
+        "Question": "$$\\rho = 1$$ for $$x \\in ( 0 , 1 )$$ and $$\\rho = 2$$ for $$x \\in ( 1 , 2 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, compute the center of mass $$\\overset{-}{x} .$$",
+        "Question": "$$\\rho = \\text{sin} x$$ for $$x \\in ( 0 , \\pi )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\pi}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, compute the center of mass $$\\overset{-}{x} .$$",
+        "Question": "$$\\rho = \\text{cos} x$$ for $$x \\in ( 0 , \\frac{\\pi}{2} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, compute the center of mass $$\\overset{-}{x} .$$",
+        "Question": "$$\\rho = e^{x}$$ for $$x \\in ( 0 , 2 )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{e^{2} + 1}{e^{2} - 1}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, compute the center of mass $$\\overset{-}{x} .$$",
+        "Question": "$$\\rho = x^{3} + x e^{\\text{unicode[:-]} x}$$ for $$x \\in ( 0 , 1 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, compute the center of mass $$\\overset{-}{x} .$$",
+        "Question": "$$\\rho = x \\text{sin} x$$ for $$x \\in ( 0 , \\pi )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\pi^{2} - 4}{\\pi}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, compute the center of mass $$\\overset{-}{x} .$$",
+        "Question": "$$\\rho = \\sqrt{x}$$ for $$x \\in ( 1 , 4 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, compute the center of mass $$\\overset{-}{x} .$$",
+        "Question": "$$\\rho = \\text{ln} x$$ for $$x \\in ( 1 , e )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{4} ( 1 + e^{2} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, compute the center of mass $$( \\overset{-}{x} , \\overset{-}{y} ) .$$ Use symmetry to help locate the center of mass whenever possible.",
+        "Question": "$$\\rho = 7$$ in the square $$0 \\le x \\le 1 ,$$ $$0 \\le y \\le 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, compute the center of mass $$( \\overset{-}{x} , \\overset{-}{y} ) .$$ Use symmetry to help locate the center of mass whenever possible.",
+        "Question": "$$\\rho = 3$$ in the triangle with vertices $$( 0 , 0 ) ,$$ $$( a , 0 ) ,$$ and $$( 0 , b )$$",
+        "Image Links": [],
+        "Answer": "$$( \\frac{a}{3} , \\frac{b}{3} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, compute the center of mass $$( \\overset{-}{x} , \\overset{-}{y} ) .$$ Use symmetry to help locate the center of mass whenever possible.",
+        "Question": "$$\\rho = 2$$ for the region bounded by $$y = \\text{cos} ( x ) ,$$ $$y = \\text{unicode[:-]} \\text{cos} ( x ) ,$$ $$x = - \\frac{\\pi}{2} ,$$ and $$x = \\frac{\\pi}{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to draw the region, then compute the center of mass $$( \\overset{-}{x} , \\overset{-}{y} ) .$$ Use symmetry to help locate the center of mass whenever possible.",
+        "Question": "[T] The region bounded by $$y = \\text{cos} ( 2 x ) ,$$ $$x = - \\frac{\\pi}{4} ,$$ and $$x = \\frac{\\pi}{4}$$",
+        "Image Links": [],
+        "Answer": "$$( 0 , \\frac{\\pi}{8} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to draw the region, then compute the center of mass $$( \\overset{-}{x} , \\overset{-}{y} ) .$$ Use symmetry to help locate the center of mass whenever possible.",
+        "Question": "[T] The region between $$y = 2 x^{2} ,$$ $$y = 0 ,$$ $$x = 0 ,$$ and $$x = 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to draw the region, then compute the center of mass $$( \\overset{-}{x} , \\overset{-}{y} ) .$$ Use symmetry to help locate the center of mass whenever possible.",
+        "Question": "[T] The region between $$y = \\frac{5}{4} x^{2}$$ and $$y = 5$$",
+        "Image Links": [],
+        "Answer": "$$( 0 , 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to draw the region, then compute the center of mass $$( \\overset{-}{x} , \\overset{-}{y} ) .$$ Use symmetry to help locate the center of mass whenever possible.",
+        "Question": "[T] Region between $$y = \\sqrt{x} ,$$ $$y = \\text{ln} ( x ) ,$$ $$x = 1 ,$$ and $$x = 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to draw the region, then compute the center of mass $$( \\overset{-}{x} , \\overset{-}{y} ) .$$ Use symmetry to help locate the center of mass whenever possible.",
+        "Question": "[T] The region bounded by $$y = 0 ,$$ $$\\frac{x^{2}}{4} + \\frac{y^{2}}{9} = 1$$",
+        "Image Links": [],
+        "Answer": "$$( 0 , \\frac{4}{\\pi} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to draw the region, then compute the center of mass $$( \\overset{-}{x} , \\overset{-}{y} ) .$$ Use symmetry to help locate the center of mass whenever possible.",
+        "Question": "[T] The region bounded by $$y = 0 ,$$ $$x = 0 ,$$ and $$\\frac{x^{2}}{4} + \\frac{y^{2}}{9} = 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to draw the region, then compute the center of mass $$( \\overset{-}{x} , \\overset{-}{y} ) .$$ Use symmetry to help locate the center of mass whenever possible.",
+        "Question": "[T] The region bounded by $$y = x^{2}$$ and $$y = x^{4}$$ in the first quadrant",
+        "Image Links": [],
+        "Answer": "$$( \\frac{5}{8} , \\frac{1}{3} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the theorem of Pappus to determine the volume of the shape.",
+        "Question": "Rotating $$y = m x$$ around the $$x$$ -axis between $$x = 0$$ and $$x = 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the theorem of Pappus to determine the volume of the shape.",
+        "Question": "Rotating $$y = m x$$ around the $$y$$ -axis between $$x = 0$$ and $$x = 1$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2 m \\pi}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the theorem of Pappus to determine the volume of the shape.",
+        "Question": "A general cone created by rotating a triangle with vertices $$( 0 , 0 ) ,$$ $$( a , 0 ) ,$$ and $$( 0 , b )$$ around the $$y$$ -axis. Does your answer agree with the volume of a cone?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the theorem of Pappus to determine the volume of the shape.",
+        "Question": "A general cylinder created by rotating a rectangle with vertices $$( 0 , 0 ) ,$$ $$( a , 0 ) , ( 0 , b ) ,$$ and $$( a , b )$$ around the $$y$$ -axis. Does your answer agree with the volume of a cylinder?",
+        "Image Links": [],
+        "Answer": "$$\\pi a^{2} b$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the theorem of Pappus to determine the volume of the shape.",
+        "Question": "A sphere created by rotating a semicircle with radius $$a$$ around the $$y$$ -axis. Does your answer agree with the volume of a sphere?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to draw the region enclosed by the curve. Find the area $$M$$ and the centroid $$( \\overset{-}{x} , \\overset{-}{y} )$$ for the given shapes. Use symmetry to help locate the center of mass whenever possible.",
+        "Question": "[T] Quarter-circle: $$y = \\sqrt{1 - x^{2}} ,$$ $$y = 0 ,$$ and $$x = 0$$",
+        "Image Links": [],
+        "Answer": "$$( \\frac{4}{3 \\pi} , \\frac{4}{3 \\pi} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to draw the region enclosed by the curve. Find the area $$M$$ and the centroid $$( \\overset{-}{x} , \\overset{-}{y} )$$ for the given shapes. Use symmetry to help locate the center of mass whenever possible.",
+        "Question": "[T] Triangle: $$y = x ,$$ $$y = 2 - x ,$$ and $$y = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to draw the region enclosed by the curve. Find the area $$M$$ and the centroid $$( \\overset{-}{x} , \\overset{-}{y} )$$ for the given shapes. Use symmetry to help locate the center of mass whenever possible.",
+        "Question": "[T] Lens: $$y = x^{2}$$ and $$y = x$$",
+        "Image Links": [],
+        "Answer": "$$( \\frac{1}{2} , \\frac{2}{5} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to draw the region enclosed by the curve. Find the area $$M$$ and the centroid $$( \\overset{-}{x} , \\overset{-}{y} )$$ for the given shapes. Use symmetry to help locate the center of mass whenever possible.",
+        "Question": "[T] Ring: $$y^{2} + x^{2} = 1$$ and $$y^{2} + x^{2} = 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to draw the region enclosed by the curve. Find the area $$M$$ and the centroid $$( \\overset{-}{x} , \\overset{-}{y} )$$ for the given shapes. Use symmetry to help locate the center of mass whenever possible.",
+        "Question": "[T] Half-ring: $$y^{2} + x^{2} = 1 ,$$ $$y^{2} + x^{2} = 4 ,$$ and $$y = 0$$",
+        "Image Links": [],
+        "Answer": "$$( 0 , \\frac{28}{9 \\pi} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to draw the region enclosed by the curve. Find the area $$M$$ and the centroid $$( \\overset{-}{x} , \\overset{-}{y} )$$ for the given shapes. Use symmetry to help locate the center of mass whenever possible.",
+        "Question": "Find the generalized center of mass in the sliver between $$y = x^{a}$$ and $$y = x^{b}$$ with $$a > b .$$ Then, use the Pappus theorem to find the volume of the solid generated when revolving around the y -axis.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to draw the region enclosed by the curve. Find the area $$M$$ and the centroid $$( \\overset{-}{x} , \\overset{-}{y} )$$ for the given shapes. Use symmetry to help locate the center of mass whenever possible.",
+        "Question": "Find the generalized center of mass between $$y = a^{2} - x^{2} ,$$ $$x = 0 ,$$ and $$y = 0 .$$ Then, use the Pappus theorem to find the volume of the solid generated when revolving around the y -axis.",
+        "Image Links": [],
+        "Answer": "Center of mass: $$( \\frac{a}{6} , \\frac{4 a^{2}}{5} ) ,$$ volume: $$\\frac{2 \\pi a^{4}}{9}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to draw the region enclosed by the curve. Find the area $$M$$ and the centroid $$( \\overset{-}{x} , \\overset{-}{y} )$$ for the given shapes. Use symmetry to help locate the center of mass whenever possible.",
+        "Question": "Find the generalized center of mass between $$y = b \\text{sin} ( a x ) ,$$ $$x = 0 ,$$ and $$x = \\frac{\\pi}{a} .$$ Then, use the Pappus theorem to find the volume of the solid generated when revolving around the y -axis.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to draw the region enclosed by the curve. Find the area $$M$$ and the centroid $$( \\overset{-}{x} , \\overset{-}{y} )$$ for the given shapes. Use symmetry to help locate the center of mass whenever possible.",
+        "Question": "Use the theorem of Pappus to find the volume of a torus (pictured here). Assume that a disk of radius $$a$$ is positioned with the left end of the circle at $$x = b ,$$ $$b > 0 ,$$ and is rotated around the y -axis.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/fc3012557438dff21ec65298f265dc29fcf1af7f"
+        ],
+        "Answer": "Volume: $$2 \\pi^{2} a^{2} ( b + a )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to draw the region enclosed by the curve. Find the area $$M$$ and the centroid $$( \\overset{-}{x} , \\overset{-}{y} )$$ for the given shapes. Use symmetry to help locate the center of mass whenever possible.",
+        "Question": "Find the center of mass $$( \\overset{-}{x} , \\overset{-}{y} )$$ for a thin wire along the semicircle $$y = \\sqrt{1 - x^{2}}$$ with unit mass. ( Hint: Use the theorem of Pappus.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

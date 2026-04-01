@@ -1,0 +1,18 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "Add matrix $$A$$ and matrix $$B .$$ $$A = \\left [\\begin{matrix}2 & 6 \\\\ 1 & 0 \\\\ 1 & -3\\end{matrix}\\right ] \\text{\u00a0andquad} B = \\left [\\begin{matrix}3 & -2 \\\\ 1 & 5 \\\\ -4 & 3\\end{matrix}\\right ]$$",
+        "Image Links": [],
+        "Answer": "$$A + B = [ \\left .\\begin{matrix}{a}2 \\\\ 1 \\\\ 1\\end{matrix}\\right . \\left .\\begin{matrix}{a}6 \\\\ \\text{\u200b} \\text{\u200b} \\text{\u200b} 0 \\\\ -3\\end{matrix}\\right . ] + [ \\left .\\begin{matrix}{a}3 \\\\ 1 \\\\ -4\\end{matrix}\\right . \\left .\\begin{matrix}{a}-2 \\\\ 5 \\\\ 3\\end{matrix}\\right . ]$$ $$= [ \\left .\\begin{matrix}{a}2 + 3 \\\\ 1 + 1 \\\\ 1 + ( -4 )\\end{matrix}\\right . \\left .\\begin{matrix}{a}6 + ( -2 ) \\\\ 0 + 5 \\\\ -3 + 3\\end{matrix}\\right . ] = [ \\left .\\begin{matrix}{a}5 \\\\ 2 \\\\ -3\\end{matrix}\\right . \\left .\\begin{matrix}{a}4 \\\\ 5 \\\\ 0\\end{matrix}\\right . ]$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "Given matrix $$B ,$$ find $$-2 B$$ where $$B = \\left [\\begin{matrix}4 & 1 \\\\ 3 & 2\\end{matrix}\\right ]$$",
+        "Image Links": [],
+        "Answer": "$$-2 B = \\left [\\begin{matrix}-8 & -2 \\\\ -6 & -4\\end{matrix}\\right ]$$",
+        "Answer Image Links": []
+    }
+]

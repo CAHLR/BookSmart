@@ -1,0 +1,18 @@
+[
+    {
+        "Topic": "Check Your Understanding 9.9",
+        "Problem Statement": "",
+        "Question": "Suppose the initial velocities were not at right angles to each other. How would this change both the physical result and the mathematical analysis of the collision?",
+        "Image Links": [],
+        "Answer": "Were the initial velocities not at right angles, then one or both of the velocities would have to be expressed in component form. The mathematical analysis of the problem would be slightly more involved, but the physical result would not change.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 9.10",
+        "Problem Statement": "",
+        "Question": "Notice that the mass of the air in the tank was neglected in the analysis and solution. How would the solution method changed if the air was included? How large a difference do you think it would make in the final answer?",
+        "Image Links": [],
+        "Answer": "The volume of a scuba tank is about 11 L. Assuming air is an ideal gas, the number of gas molecules in the tank is $$\\left .\\begin{matrix}{aaa}P V & = & N R T \\\\ N & = & \\frac{P V}{R T} = \\frac{( 2500 \\text{psi} ) ( 0.011 \\text{m}^{3} )}{( 8.31 \\text{J/mol} \\cdotp \\text{K} ) ( 300 \\text{K} )} ( \\frac{6894.8 \\text{Pa}}{1 \\text{psi}} ) \\\\  & = & 7.59 \\times 10^{1} \\text{mol}\\end{matrix}\\right .$$ The average molecular mass of air is 29 g/mol, so the mass of air contained in the tank is about 2.2 kg. This is about 10 times less than the mass of the tank, so it is safe to neglect it. Also, the initial force of the air pressure is roughly proportional to the surface area of each piece, which is in turn proportional to the mass of each piece (assuming uniform thickness). Thus, the initial acceleration of each piece would change very little if we explicitly consider the air.",
+        "Answer Image Links": []
+    }
+]

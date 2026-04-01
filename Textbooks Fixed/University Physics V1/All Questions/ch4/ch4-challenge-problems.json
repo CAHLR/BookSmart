@@ -1,0 +1,28 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "World\u2019s Longest Par 3. The tee of the world\u2019s longest par 3 sits atop South Africa\u2019s Hanglip Mountain at 400.0 m above the green and can only be reached by helicopter. The horizontal distance to the green is 359.0 m. Neglect air resistance and answer the following questions. (a) If a golfer launches a shot that is $$40 \\text{\u00b0}$$ with respect to the horizontal, what initial velocity must she give the ball? (b) What is the time to reach the green?",
+        "Image Links": [],
+        "Answer": "a. $$\\text{unicode[:-]} 400.0 \\text{m} = v_{0 y} t - 4.9 t^{2} 359.0 \\text{m} = v_{0 x} t t = \\frac{359.0}{v_{0 x}} - 400.0 = 359.0 \\frac{v_{0 y}}{v_{0 x}} - 4.9 ( \\frac{359.0}{v_{0 x}} )^{2}$$ $$-400.0 = 359.0 \\text{tan} 40 - \\frac{631,516.9}{v_{0 x}^{2}} \\Rightarrow v_{0 x}^{2} = 900.6 v_{0 x} = 30.0 \\text{m} \\text{/} \\text{s} v_{0 y} = v_{0 x} \\text{tan} 40 = 25.2 \\text{m} \\text{/} \\text{s}$$ $$v = 39.2 \\text{m} \\text{/} \\text{s}$$ , b. $$t = 12.0 \\text{s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "When a field goal kicker kicks a football as hard as he can at $$45 \\text{\u00b0}$$ to the horizontal, the ball just clears the 3-m-high crossbar of the goalposts 45.7 m away. (a) What is the maximum speed the kicker can impart to the football? (b) In addition to clearing the crossbar, the football must be high enough in the air early during its flight to clear the reach of the onrushing defensive lineman. If the lineman is 4.6 m away and has a vertical reach of 2.5 m, can he block the 45.7-m field goal attempt? (c) What if the lineman is 1.0 m away?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c840218f28d30d632f78d8e842c86ef55e8c0fe4"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A truck is traveling east at 80 km/h. At an intersection 32 km ahead, a car is traveling north at 50 km/h. (a) How long after this moment will the vehicles be closest to each other? (b) How far apart will they be at that point?",
+        "Image Links": [],
+        "Answer": "a. $$\\mathbf{\\vec{r}}_{T C} = ( -32 + 80 t ) \\mathbf{\\hat{i}} + 50 t \\mathbf{\\hat{j}} , | \\mathbf{\\vec{r}}_{T C} |^{2} = ( -32 + 80 t )^{2} + ( 50 t )^{2}$$ $$2 r \\frac{d r}{d t} = 2 ( -32 + 80 t ) ( 80 ) + 5000 t \\frac{d r}{d t} = \\frac{160 ( -32 + 80 t ) + 5000 t}{2 r} = 0$$ $$17800 t = 5184 \\Rightarrow t = \\text{0.29 hr}$$ , b. $$| \\mathbf{\\vec{r}}_{T C} | = 17 \\text{km}$$",
+        "Answer Image Links": []
+    }
+]

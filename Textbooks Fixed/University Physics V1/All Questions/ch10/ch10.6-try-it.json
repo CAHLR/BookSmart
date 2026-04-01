@@ -1,0 +1,12 @@
+[
+    {
+        "Topic": "Check Your Understanding 10.6",
+        "Problem Statement": "",
+        "Question": "A large ocean-going ship runs aground near the coastline, similar to the fate of the Costa Concordia , and lies at an angle as shown below. Salvage crews must apply a torque to right the ship in order to float the vessel for transport. A force of $$5.0 \\times 10^{5} \\text{N}$$ acting at point A must be applied to right the ship. What is the torque about the point of contact of the ship with the ground (Figure 10.36)? Figure 10.36 A ship runs aground and tilts, requiring torque to be applied to return the vessel to an upright position.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/626e3b3cee9e88ff503c6dfaa7c239ccf7236d4f"
+        ],
+        "Answer": "The angle between the lever arm and the force vector is $$80 \\text{\u00b0} ;$$ therefore, $$r_{\\bot} = 100 \\text{m(sin80} \\text{\u00b0} ) = 98.5 \\text{m}$$ . The cross product $$\\mathbf{\\vec{\\tau}} = \\mathbf{\\vec{r}} \\times \\mathbf{\\vec{F}}$$ gives a negative or clockwise torque. The torque is then $$\\tau = \\text{unicode[:-]} r_{\\bot} F = -98.5 \\text{m} ( 5.0 \\times 10^{5} \\text{N} ) = -4.9 \\times 10^{7} \\text{N} \\cdotp \\text{m}$$ .",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,534 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "How do you solve an absolute value equation?",
+        "Image Links": [],
+        "Answer": "Isolate the absolute value term so that the equation is of the form $$| A | = B .$$ Form one equation by setting the expression inside the absolute value symbol, $$A ,$$ equal to the expression on the other side of the equation, $$B .$$ Form a second equation by setting $$A$$ equal to the opposite of the expression on the other side of the equation, $$- B .$$ Solve each equation for the variable.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "How can you tell whether an absolute value function has two x -intercepts without graphing the function?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "When solving an absolute value function, the isolated absolute value term is equal to a negative number. What does that tell you about the graph of the absolute value function?",
+        "Image Links": [],
+        "Answer": "The graph of the absolute value function does not cross the $$x$$ -axis, so the graph is either completely above or completely below the $$x$$ -axis.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "How can you use the graph of an absolute value function to determine the x -values for which the function values are negative?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "How do you solve an absolute value inequality algebraically?",
+        "Image Links": [],
+        "Answer": "First determine the boundary points by finding the solution(s) of the equation. Use the boundary points to form possible solution intervals. Choose a test value in each interval to determine which values satisfy the inequality.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "",
+        "Question": "Describe all numbers $$x$$ that are at a distance of 4 from the number 8. Express this using absolute value notation.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "",
+        "Question": "Describe all numbers $$x$$ that are at a distance of $$\\frac{1}{2}$$ from the number -4. Express this using absolute value notation.",
+        "Image Links": [],
+        "Answer": "$$| x + 4 | = \\frac{1}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "",
+        "Question": "Describe the situation in which the distance that point $$x$$ is from 10 is at least 15 units. Express this using absolute value notation.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "",
+        "Question": "Find all function values $$f ( x )$$ such that the distance from $$f ( x )$$ to the value 8 is less than 0.03 units. Express this using absolute value notation.",
+        "Image Links": [],
+        "Answer": "$$| f ( x ) - 8 | < 0.03$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the equations below and express the answer using set notation.",
+        "Question": "$$| x + 3 | = 9$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the equations below and express the answer using set notation.",
+        "Question": "$$| 6 - x | = 5$$",
+        "Image Links": [],
+        "Answer": "$$\\{ 1 , 11 \\}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the equations below and express the answer using set notation.",
+        "Question": "$$| 5 x - 2 | = 11$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the equations below and express the answer using set notation.",
+        "Question": "$$| 4 x - 2 | = 11$$",
+        "Image Links": [],
+        "Answer": "$$\\{ - \\frac{9}{4} , \\frac{13}{4} \\}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the equations below and express the answer using set notation.",
+        "Question": "$$2 | 4 - x | = 7$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the equations below and express the answer using set notation.",
+        "Question": "$$3 | 5 - x | = 5$$",
+        "Image Links": [],
+        "Answer": "$$\\{ \\frac{10}{3} , \\frac{20}{3} \\}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the equations below and express the answer using set notation.",
+        "Question": "$$3 | x + 1 | - 4 = 5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the equations below and express the answer using set notation.",
+        "Question": "$$5 | x - 4 | - 7 = 2$$",
+        "Image Links": [],
+        "Answer": "$$\\{ \\frac{11}{5} , \\frac{29}{5} \\}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the equations below and express the answer using set notation.",
+        "Question": "$$0 = - | x - 3 | + 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the equations below and express the answer using set notation.",
+        "Question": "$$2 | x - 3 | + 1 = 2$$",
+        "Image Links": [],
+        "Answer": "$$\\{ \\frac{5}{2} , \\frac{7}{2} \\}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the equations below and express the answer using set notation.",
+        "Question": "$$| 3 x - 2 | = 7$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the equations below and express the answer using set notation.",
+        "Question": "$$| 3 x - 2 | = - 7$$",
+        "Image Links": [],
+        "Answer": "No solution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the equations below and express the answer using set notation.",
+        "Question": "$$| \\frac{1}{2} x - 5 | = 11$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the equations below and express the answer using set notation.",
+        "Question": "$$| \\frac{1}{3} x + 5 | = 14$$",
+        "Image Links": [],
+        "Answer": "$$\\{ - 57 , 27 \\}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the equations below and express the answer using set notation.",
+        "Question": "$$- | \\frac{1}{3} x + 5 | + 14 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the x - and y -intercepts of the graphs of each function.",
+        "Question": "$$f ( x ) = 2 | x + 1 | - 10$$",
+        "Image Links": [],
+        "Answer": "$$( 0 , - 8 ) ; ( - 6 , 0 ) , ( 4 , 0 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the x - and y -intercepts of the graphs of each function.",
+        "Question": "$$f ( x ) = 4 | x - 3 | + 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the x - and y -intercepts of the graphs of each function.",
+        "Question": "$$f ( x ) = - 3 | x - 2 | - 1$$",
+        "Image Links": [],
+        "Answer": "$$( 0 , - 7 ) ;$$ no $$x$$ -intercepts",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the x - and y -intercepts of the graphs of each function.",
+        "Question": "$$f ( x ) = - 2 | x + 1 | + 6$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve each inequality and write the solution in interval notation.",
+        "Question": "$$| x - 2 | > 10$$",
+        "Image Links": [],
+        "Answer": "$$( - \\infty , - 8 ) \\cup ( 12 , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve each inequality and write the solution in interval notation.",
+        "Question": "$$2 | v - 7 | - 4 \\geq 42$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve each inequality and write the solution in interval notation.",
+        "Question": "$$| 3 x - 4 | \\le 8$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{- 4}{3} \\le x \\le 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve each inequality and write the solution in interval notation.",
+        "Question": "$$| x - 4 | \\geq 8$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve each inequality and write the solution in interval notation.",
+        "Question": "$$| 3 x - 5 | \\geq 13$$",
+        "Image Links": [],
+        "Answer": "$$( - \\infty , - \\frac{8}{3} ] \\cup [ 6 , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve each inequality and write the solution in interval notation.",
+        "Question": "$$| 3 x - 5 | \\geq - 13$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve each inequality and write the solution in interval notation.",
+        "Question": "$$| \\frac{3}{4} x - 5 | \\geq 7$$",
+        "Image Links": [],
+        "Answer": "$$( - \\infty , - \\frac{8}{3} ] \\cup [ 16 , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve each inequality and write the solution in interval notation.",
+        "Question": "$$| \\frac{3}{4} x - 5 | + 1 \\le 16$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the absolute value function. Plot at least five points by hand for each graph.",
+        "Question": "$$y = | x - 1 |$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e30c7175b197baffa54177211897ba416d2d39e2"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the absolute value function. Plot at least five points by hand for each graph.",
+        "Question": "$$y = | x + 1 |$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the absolute value function. Plot at least five points by hand for each graph.",
+        "Question": "$$y = | x | + 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/88700cc9df1047d63bda24ca2da5ef32c8434c4c"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the given functions by hand.",
+        "Question": "$$y = | x | - 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the given functions by hand.",
+        "Question": "$$y = - | x |$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/138ab90ac372c6fbe8f0ef4f2ea27f8a782be972"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the given functions by hand.",
+        "Question": "$$y = - | x | - 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the given functions by hand.",
+        "Question": "$$y = - | x - 3 | - 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c43875ff624643f601bc7630c17dcc9cab32be30"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the given functions by hand.",
+        "Question": "$$f ( x ) = - | x - 1 | - 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the given functions by hand.",
+        "Question": "$$f ( x ) = - | x + 3 | + 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/fb0c0bc6518b51be8935316cbbedb26b0b7261c4"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the given functions by hand.",
+        "Question": "$$f ( x ) = 2 | x + 3 | + 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the given functions by hand.",
+        "Question": "$$f ( x ) = 3 | x - 2 | + 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b837da4b3a8a3015a3f76f965107df374532f156"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the given functions by hand.",
+        "Question": "$$f ( x ) = | 2 x - 4 | - 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the given functions by hand.",
+        "Question": "$$f ( x ) = | 3 x + 9 | + 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f8d4d75e7d7a168be7f24a3c562c8760aa82282e"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the given functions by hand.",
+        "Question": "$$f ( x ) = - | x - 1 | - 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the given functions by hand.",
+        "Question": "$$f ( x ) = - | x + 4 | - 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/60152fa25b1df8120d635b51b6b803bf40e6546a"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the given functions by hand.",
+        "Question": "$$f ( x ) = \\frac{1}{2} | x + 4 | - 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "",
+        "Question": "Use a graphing utility to graph $$f ( x ) = 10 | x - 2 |$$ on the viewing window $$[ 0 , 4 ] .$$ Identify the corresponding range. Show the graph.",
+        "Image Links": [],
+        "Answer": "range: $$[ 0 , 20 ]$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/945d9ec6107a35d0aef11e7ce4e7ca2a62d33787"
+        ]
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "",
+        "Question": "Use a graphing utility to graph $$f ( x ) = - 100 | x | + 100$$ on the viewing window $$[ - 5 , 5 ] .$$ Identify the corresponding range. Show the graph.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, graph each function using a graphing utility. Specify the viewing window.",
+        "Question": "$$f ( x ) = - 0.1 | 0.1 ( 0.2 - x ) | + 0.3$$",
+        "Image Links": [],
+        "Answer": "$$x \\text{-}$$ intercepts:",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1b26b6fd3bc5902ec28caa6c06954be2fde4a9a1"
+        ]
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, graph each function using a graphing utility. Specify the viewing window.",
+        "Question": "$$f ( x ) = 4 \\times 10^{9} | x - ( 5 \\times 10^{9} ) | + 2 \\times 10^{9}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, solve the inequality.",
+        "Question": "$$| - 2 x - \\frac{2}{3} ( x + 1 ) | + 3 > -1$$",
+        "Image Links": [],
+        "Answer": "$$( - \\infty , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, solve the inequality.",
+        "Question": "If possible, find all values of $$a$$ such that there are no $$x \\text{-}$$ intercepts for $$f ( x ) = 2 | x + 1 | + a .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, solve the inequality.",
+        "Question": "If possible, find all values of $$a$$ such that there are no $$y$$ -intercepts for $$f ( x ) = 2 | x + 1 | + a .$$",
+        "Image Links": [],
+        "Answer": "There is no solution for $$a$$ that will keep the function from having a $$y$$ -intercept. The absolute value function always crosses the $$y$$ -intercept when $$x = 0.$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Cities A and B are on the same east-west line. Assume that city A is located at the origin. If the distance from city A to city B is at least 100 miles and $$x$$ represents the distance from city B to city A, express this using absolute value notation.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "The true proportion $$p$$ of people who give a favorable rating to Congress is 8% with a margin of error of 1.5%. Describe this statement using an absolute value equation.",
+        "Image Links": [],
+        "Answer": "$$| p - 0.08 | \\le 0.015$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Students who score within 18 points of the number 82 will pass a particular test. Write this statement using absolute value notation and use the variable $$x$$ for the score.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A machinist must produce a bearing that is within 0.01 inches of the correct diameter of 5.0 inches. Using $$x$$ as the diameter of the bearing, write this statement using absolute value notation.",
+        "Image Links": [],
+        "Answer": "$$| x - 5.0 | \\le 0.01$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "The tolerance for a ball bearing is 0.01. If the true diameter of the bearing is to be 2.0 inches and the measured value of the diameter is $$x$$ inches, express the tolerance using absolute value notation.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

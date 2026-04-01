@@ -1,0 +1,82 @@
+[
+    {
+        "Topic": "Try It 10.75",
+        "Problem Statement": "",
+        "Question": "The product of two consecutive odd integers is 99. Find the integers.",
+        "Image Links": [],
+        "Answer": "Two consecutive odd numbers whose product is 99 are 9 and 11, and $$-9$$ and $$-11$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.76",
+        "Problem Statement": "",
+        "Question": "The product of two consecutive even integers is 168. Find the integers.",
+        "Image Links": [],
+        "Answer": "Two consecutive even numbers whose product is 168 are 12 and 14,and $$-12$$ and $$-14$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.77",
+        "Problem Statement": "",
+        "Question": "Find the dimensions of a triangle whose width is four more than six times its height and has an area of 208 square inches.",
+        "Image Links": [],
+        "Answer": "The height of the triangle is 8 inches and the width is 52 inches.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.78",
+        "Problem Statement": "",
+        "Question": "If a triangle that has an area of 110 square feet has a height that is two feet less than twice the width, what are its dimensions?",
+        "Image Links": [],
+        "Answer": "The height of the triangle is 20 feet and the width is 11 feet.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.79",
+        "Problem Statement": "",
+        "Question": "The sun casts a shadow from a flag pole. The height of the flag pole is three times the length of its shadow. The distance between the end of the shadow and the top of the flag pole is 20 feet. Find the length of the shadow and the length of the flag pole. Round to the nearest tenth of a foot.",
+        "Image Links": [],
+        "Answer": "The length of the shadow is 6.3 feet and the length of the flag pole is 18.9 ft.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.80",
+        "Problem Statement": "",
+        "Question": "The distance between opposite corners of a rectangular field is four more than the width of the field. The length of the field is twice its width. Find the distance between the opposite corners. Round to the nearest tenth.",
+        "Image Links": [],
+        "Answer": "The distance to the opposite corner is 3.2.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.81",
+        "Problem Statement": "",
+        "Question": "The length of a 200 square foot rectangular vegetable garden is four feet less than twice the width. Find the length and width of the garden. Round to the nearest tenth of a foot.",
+        "Image Links": [],
+        "Answer": "The width of the garden is 11 feet and the length is 18 feet.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.82",
+        "Problem Statement": "",
+        "Question": "A rectangular tablecloth has an area of 80 square feet. The width is 5 feet shorter than the length. What are the length and width of the tablecloth? Round to the nearest tenth of a foot.",
+        "Image Links": [],
+        "Answer": "The width of the tablecloth is 6.8 feet and the length is 11.8 feet.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.83",
+        "Problem Statement": "",
+        "Question": "An arrow is shot from the ground into the air at an initial speed of 108 ft/sec. Use the formula $$h = -16 t^{2} + v_{0} t$$ to determine when the arrow will be 180 feet from the ground. Round the nearest tenth of a second.",
+        "Image Links": [],
+        "Answer": "The arrow will reach 180 on its way up in 3 seconds, and on the way down in 3.8 seconds.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.84",
+        "Problem Statement": "",
+        "Question": "A man throws a ball into the air with a velocity of 96 ft/sec. Use the formula $$h = -16 t^{2} + v_{0} t$$ to determine when the height of the ball will be 48 feet. Round to the nearest tenth of a second.",
+        "Image Links": [],
+        "Answer": "The ball will reach 48 feet on its way up in .6 seconds and on the way down in 5.5 seconds.",
+        "Answer Image Links": []
+    }
+]

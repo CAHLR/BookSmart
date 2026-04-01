@@ -1,0 +1,354 @@
+[
+    {
+        "Topic": "Graphs of the Sine and Cosine Functions",
+        "Problem Statement": "For the following exercises, graph the functions for two periods and determine the amplitude or stretching factor, period, midline equation, and asymptotes.",
+        "Question": "$$f ( x ) = - 3 \\cos{} x + 3$$",
+        "Image Links": [],
+        "Answer": "amplitude: 3; period: $$2 \\pi ;$$ midline: $$y = 3 ;$$ no asymptotes",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e29a287d84cfb9c6aedd85cec75567159cabadb7"
+        ]
+    },
+    {
+        "Topic": "Graphs of the Sine and Cosine Functions",
+        "Problem Statement": "For the following exercises, graph the functions for two periods and determine the amplitude or stretching factor, period, midline equation, and asymptotes.",
+        "Question": "$$f ( x ) = \\frac{1}{4} \\sin{} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphs of the Sine and Cosine Functions",
+        "Problem Statement": "For the following exercises, graph the functions for two periods and determine the amplitude or stretching factor, period, midline equation, and asymptotes.",
+        "Question": "$$f ( x ) = 3 \\cos{} ( x + \\frac{\\pi}{6} )$$",
+        "Image Links": [],
+        "Answer": "amplitude: 3; period: $$2 \\pi ;$$ midline: $$y = 0 ;$$ no asymptotes",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/beda7239741b31ac783dc272f9bdbfa0e43df871"
+        ]
+    },
+    {
+        "Topic": "Graphs of the Sine and Cosine Functions",
+        "Problem Statement": "For the following exercises, graph the functions for two periods and determine the amplitude or stretching factor, period, midline equation, and asymptotes.",
+        "Question": "$$f ( x ) = - 2 \\sin{} ( x - \\frac{2 \\pi}{3} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphs of the Sine and Cosine Functions",
+        "Problem Statement": "For the following exercises, graph the functions for two periods and determine the amplitude or stretching factor, period, midline equation, and asymptotes.",
+        "Question": "$$f ( x ) = 3 \\sin{} ( x - \\frac{\\pi}{4} ) - 4$$",
+        "Image Links": [],
+        "Answer": "amplitude: 3; period: $$2 \\pi ;$$ midline: $$y = - 4 ;$$ no asymptotes",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/32b5d0813a5a57db581cadf60343d2f8d5930a46"
+        ]
+    },
+    {
+        "Topic": "Graphs of the Sine and Cosine Functions",
+        "Problem Statement": "For the following exercises, graph the functions for two periods and determine the amplitude or stretching factor, period, midline equation, and asymptotes.",
+        "Question": "$$f ( x ) = 2 ( \\cos{( x - \\frac{4 \\pi}{3} )} + 1 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphs of the Sine and Cosine Functions",
+        "Problem Statement": "For the following exercises, graph the functions for two periods and determine the amplitude or stretching factor, period, midline equation, and asymptotes.",
+        "Question": "$$f ( x ) = 6 \\sin{} ( 3 x - \\frac{\\pi}{6} ) - 1$$",
+        "Image Links": [],
+        "Answer": "amplitude: 6; period: $$\\frac{2 \\pi}{3} ;$$ midline: $$y = - 1 ;$$ no asymptotes",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a12ab6875439922121449edfce9eb4e59e8eec59"
+        ]
+    },
+    {
+        "Topic": "Graphs of the Sine and Cosine Functions",
+        "Problem Statement": "For the following exercises, graph the functions for two periods and determine the amplitude or stretching factor, period, midline equation, and asymptotes.",
+        "Question": "$$f ( x ) = - 100 \\sin{} ( 50 x - 20 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphs of the Other Trigonometric Functions",
+        "Problem Statement": "For the following exercises, graph the functions for two periods and determine the amplitude or stretching factor, period,\nmidline equation, and asymptotes.",
+        "Question": "$$f ( x ) = \\tan{} x - 4$$",
+        "Image Links": [],
+        "Answer": "stretching factor: none; period: $$\\pi ;$$ midline: $$y = - 4 ;$$ asymptotes: $$x = \\frac{\\pi}{2} + \\pi k ,$$ where $$k$$ is an integer",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a81768e545c84802bb0bf0641eec555c60c7bd76"
+        ]
+    },
+    {
+        "Topic": "Graphs of the Other Trigonometric Functions",
+        "Problem Statement": "For the following exercises, graph the functions for two periods and determine the amplitude or stretching factor, period,\nmidline equation, and asymptotes.",
+        "Question": "$$f ( x ) = 2 \\tan{} ( x - \\frac{\\pi}{6} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphs of the Other Trigonometric Functions",
+        "Problem Statement": "For the following exercises, graph the functions for two periods and determine the amplitude or stretching factor, period,\nmidline equation, and asymptotes.",
+        "Question": "$$f ( x ) = - 3 \\tan{} ( 4 x ) - 2$$",
+        "Image Links": [],
+        "Answer": "stretching factor: 3; period: $$\\frac{\\pi}{4} ;$$ midline: $$y = - 2 ;$$ asymptotes: $$x = \\frac{\\pi}{8} + \\frac{\\pi}{4} k ,$$ where $$k$$ is an integer",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/33586d022f252b5ec4377b8f8443b0131ec040d0"
+        ]
+    },
+    {
+        "Topic": "Graphs of the Other Trigonometric Functions",
+        "Problem Statement": "For the following exercises, graph the functions for two periods and determine the amplitude or stretching factor, period,\nmidline equation, and asymptotes.",
+        "Question": "$$f ( x ) = 0.2 \\cos{} ( 0.1 x ) + 0.3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphs of the Other Trigonometric Functions",
+        "Problem Statement": "For the following exercises, graph two full periods. Identify the period, the phase shift, the amplitude, and asymptotes.",
+        "Question": "$$f ( x ) = \\frac{1}{3} \\sec{} x$$",
+        "Image Links": [],
+        "Answer": "amplitude: none; period: $$2 \\pi ;$$ no phase shift; asymptotes: $$x = \\frac{\\pi}{2} k ,$$ where $$k$$ is an odd integer",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8587018f7af8898e96408fb6858ffd6d7dcfed71"
+        ]
+    },
+    {
+        "Topic": "Graphs of the Other Trigonometric Functions",
+        "Problem Statement": "For the following exercises, graph two full periods. Identify the period, the phase shift, the amplitude, and asymptotes.",
+        "Question": "$$f ( x ) = 3 \\cot{} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphs of the Other Trigonometric Functions",
+        "Problem Statement": "For the following exercises, graph two full periods. Identify the period, the phase shift, the amplitude, and asymptotes.",
+        "Question": "$$f ( x ) = 4 \\csc{} ( 5 x )$$",
+        "Image Links": [],
+        "Answer": "amplitude: none; period: $$\\frac{2 \\pi}{5} ;$$ no phase shift; asymptotes: $$x = \\frac{\\pi}{5} k ,$$ where $$k$$ is an integer",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/cb42cfc2c72da3c426b7d6df9ec80ea366f10900"
+        ]
+    },
+    {
+        "Topic": "Graphs of the Other Trigonometric Functions",
+        "Problem Statement": "For the following exercises, graph two full periods. Identify the period, the phase shift, the amplitude, and asymptotes.",
+        "Question": "$$f ( x ) = 8 \\sec{} ( \\frac{1}{4} x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphs of the Other Trigonometric Functions",
+        "Problem Statement": "For the following exercises, graph two full periods. Identify the period, the phase shift, the amplitude, and asymptotes.",
+        "Question": "$$f ( x ) = \\frac{2}{3} \\csc{} ( \\frac{1}{2} x )$$",
+        "Image Links": [],
+        "Answer": "amplitude: none; period: $$4 \\pi ;$$ no phase shift; asymptotes: $$x = 2 \\pi k ,$$ where $$k$$ is an integer",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/29213c26b31d218f5d9bd2a0635b8a03b5fb2f12"
+        ]
+    },
+    {
+        "Topic": "Graphs of the Other Trigonometric Functions",
+        "Problem Statement": "For the following exercises, graph two full periods. Identify the period, the phase shift, the amplitude, and asymptotes.",
+        "Question": "$$f ( x ) = - \\csc{} ( 2 x + \\pi )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphs of the Other Trigonometric Functions",
+        "Problem Statement": "For the following exercises, use this scenario: The population of a city has risen and fallen over a 20-year interval. Its population may be modeled by the following function: $$y = 12 , 000 + 8 , 000 \\sin{} ( 0.628 x ),$$ where the domain is the years since 1980 and the range is the population of the city.",
+        "Question": "What is the largest and smallest population the city may have?",
+        "Image Links": [],
+        "Answer": "largest: 20,000; smallest: 4,000",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphs of the Other Trigonometric Functions",
+        "Problem Statement": "For the following exercises, use this scenario: The population of a city has risen and fallen over a 20-year interval. Its population may be modeled by the following function: $$y = 12 , 000 + 8 , 000 \\sin{} ( 0.628 x ),$$ where the domain is the years since 1980 and the range is the population of the city.",
+        "Question": "Graph the function on the domain of $$[ 0 , 40 ]$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphs of the Other Trigonometric Functions",
+        "Problem Statement": "For the following exercises, use this scenario: The population of a city has risen and fallen over a 20-year interval. Its population may be modeled by the following function: $$y = 12 , 000 + 8 , 000 \\sin{} ( 0.628 x ),$$ where the domain is the years since 1980 and the range is the population of the city.",
+        "Question": "What are the amplitude, period, and phase shift for the function?",
+        "Image Links": [],
+        "Answer": "amplitude: 8,000; period: 10; phase shift: 0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphs of the Other Trigonometric Functions",
+        "Problem Statement": "For the following exercises, use this scenario: The population of a city has risen and fallen over a 20-year interval. Its population may be modeled by the following function: $$y = 12 , 000 + 8 , 000 \\sin{} ( 0.628 x ),$$ where the domain is the years since 1980 and the range is the population of the city.",
+        "Question": "Over this domain, when does the population reach 18,000? 13,000?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphs of the Other Trigonometric Functions",
+        "Problem Statement": "For the following exercises, use this scenario: The population of a city has risen and fallen over a 20-year interval. Its population may be modeled by the following function: $$y = 12 , 000 + 8 , 000 \\sin{} ( 0.628 x ),$$ where the domain is the years since 1980 and the range is the population of the city.",
+        "Question": "What is the predicted population in 2007? 2010?",
+        "Image Links": [],
+        "Answer": "In 2007, the predicted population is 4,413. In 2010, the population will be 11,924.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphs of the Other Trigonometric Functions",
+        "Problem Statement": "For the following exercises, suppose a weight is attached to a spring and bobs up and down, exhibiting symmetry.",
+        "Question": "Suppose the graph of the displacement function is shown in Figure 1 , where the values on the x -axis represent the time in seconds and the y -axis represents the displacement in inches. Give the equation that models the vertical displacement of the weight on the spring. Figure 1",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/bb2a6abe8df7d8b264d981e8d966faf5cc9c0d5e"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphs of the Other Trigonometric Functions",
+        "Problem Statement": "For the following exercises, suppose a weight is attached to a spring and bobs up and down, exhibiting symmetry.",
+        "Question": "At time = 0, what is the displacement of the weight?",
+        "Image Links": [],
+        "Answer": "5 in.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphs of the Other Trigonometric Functions",
+        "Problem Statement": "For the following exercises, suppose a weight is attached to a spring and bobs up and down, exhibiting symmetry.",
+        "Question": "At what time does the displacement from the equilibrium point equal zero?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphs of the Other Trigonometric Functions",
+        "Problem Statement": "For the following exercises, suppose a weight is attached to a spring and bobs up and down, exhibiting symmetry.",
+        "Question": "What is the time required for the weight to return to its initial height of 5 inches? In other words, what is the period for the displacement function?",
+        "Image Links": [],
+        "Answer": "10 seconds",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Inverse Trigonometric Functions",
+        "Problem Statement": "For the following exercises, find the exact value without the aid of a calculator.",
+        "Question": "$$\\sin{}^{- 1} ( 1 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Inverse Trigonometric Functions",
+        "Problem Statement": "For the following exercises, find the exact value without the aid of a calculator.",
+        "Question": "$$\\cos{}^{- 1} ( \\frac{\\sqrt{3}}{2} )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\pi}{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Inverse Trigonometric Functions",
+        "Problem Statement": "For the following exercises, find the exact value without the aid of a calculator.",
+        "Question": "$$\\tan{}^{-1} ( -1 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Inverse Trigonometric Functions",
+        "Problem Statement": "For the following exercises, find the exact value without the aid of a calculator.",
+        "Question": "$$\\cos{}^{- 1} ( \\frac{1}{\\sqrt{2}} )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\pi}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Inverse Trigonometric Functions",
+        "Problem Statement": "For the following exercises, find the exact value without the aid of a calculator.",
+        "Question": "$$\\sin{}^{- 1} ( \\frac{- \\sqrt{3}}{2} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Inverse Trigonometric Functions",
+        "Problem Statement": "For the following exercises, find the exact value without the aid of a calculator.",
+        "Question": "$$\\sin{}^{- 1} ( \\cos{( \\frac{\\pi}{6} )} )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\pi}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Inverse Trigonometric Functions",
+        "Problem Statement": "For the following exercises, find the exact value without the aid of a calculator.",
+        "Question": "$$\\cos{}^{- 1} ( \\tan{( \\frac{3 \\pi}{4} )} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Inverse Trigonometric Functions",
+        "Problem Statement": "For the following exercises, find the exact value without the aid of a calculator.",
+        "Question": "$$\\sin{( \\sec{}^{- 1} ( \\frac{3}{5} ) )}$$",
+        "Image Links": [],
+        "Answer": "No solution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Inverse Trigonometric Functions",
+        "Problem Statement": "For the following exercises, find the exact value without the aid of a calculator.",
+        "Question": "$$\\cot{( \\sin{}^{- 1} ( \\frac{3}{5} ) )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Inverse Trigonometric Functions",
+        "Problem Statement": "For the following exercises, find the exact value without the aid of a calculator.",
+        "Question": "$$\\tan{( \\cos{}^{- 1} ( \\frac{5}{13} ) )}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{12}{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Inverse Trigonometric Functions",
+        "Problem Statement": "For the following exercises, find the exact value without the aid of a calculator.",
+        "Question": "$$\\sin{( \\cos{}^{- 1} ( \\frac{x}{x + 1} ) )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Inverse Trigonometric Functions",
+        "Problem Statement": "For the following exercises, find the exact value without the aid of a calculator.",
+        "Question": "Graph $$f ( x ) = \\cos{} x$$ and $$f ( x ) = \\sec{} x$$ on the interval $$[ 0 , 2 \\pi )$$ and explain any observations.",
+        "Image Links": [],
+        "Answer": "The graphs are not symmetrical with respect to the line $$y = x .$$ They are symmetrical with respect to the $$y$$ -axis.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7d05cd3cc2d2c66ccdfafc40e59b61778a2e19d0"
+        ]
+    },
+    {
+        "Topic": "Inverse Trigonometric Functions",
+        "Problem Statement": "For the following exercises, find the exact value without the aid of a calculator.",
+        "Question": "Graph $$f ( x ) = \\sin{} x$$ and $$f ( x ) = \\csc{} x$$ and explain any observations.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Inverse Trigonometric Functions",
+        "Problem Statement": "For the following exercises, find the exact value without the aid of a calculator.",
+        "Question": "Graph the function $$f ( x ) = \\frac{x}{1} - \\frac{x^{3}}{3 !} + \\frac{x^{5}}{5 !} - \\frac{x^{7}}{7 !}$$ on the interval $$[ - 1 , 1 ]$$ and compare the graph to the graph of $$f ( x ) = \\sin{} x$$ on the same interval. Describe any observations.",
+        "Image Links": [],
+        "Answer": "The graphs appear to be identical.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/172753f93f3c07629c82541bca0e55fd2c3b8e44"
+        ]
+    }
+]

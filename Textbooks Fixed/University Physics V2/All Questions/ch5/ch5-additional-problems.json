@@ -1,0 +1,182 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Point charges $$q_{1} = 2.0 \\mu \\text{C}$$ and $$q_{1} = 4.0 \\mu \\text{C}$$ are located at $$r_{1} = ( 4.0 \\mathbf{\\hat{\\text{i}}} - 2.0 \\mathbf{\\hat{\\text{j}}} + 2.0 \\mathbf{\\hat{\\text{k}}} ) \\text{m}$$ and $$r_{2} = ( 8.0 \\mathbf{\\hat{\\text{i}}} + 5.0 \\mathbf{\\hat{\\text{j}}} - 9.0 \\mathbf{\\hat{\\text{k}}} ) \\text{m}$$ . What is the force of $$q_{2} \\text{on} q_{1} ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "What is the force on the $$5.0 \\text{-} \\mu \\text{C}$$ charge shown below?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/60fb6d6973cf8e7dbd97b0e544a100c9d1269a77"
+        ],
+        "Answer": "$$\\mathbf{\\vec{\\text{F}}}_{\\text{net}} = [ -8.99 \\times 10^{9} \\frac{3.0 \\times 10^{-6} ( 5.0 \\times 10^{-6} )}{( 3.0 \\text{m} )^{2}} - 8.99 \\times 10^{9} \\frac{9.0 \\times 10^{-6} ( 5.0 \\times 10^{-6} )}{( 3.0 \\text{m} )^{2}} ] \\mathbf{\\hat{\\text{i}}}$$ , $$-8.99 \\times 10^{9} \\frac{6.0 \\times 10^{-6} ( 5.0 \\times 10^{-6} )}{( 3.0 \\text{m} )^{2}} \\mathbf{\\hat{\\text{j}}} = -0.06 \\text{N} \\mathbf{\\hat{\\text{i}}} - 0.03 \\text{N} \\mathbf{\\hat{\\text{j}}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "What is the force on the $$2.0 \\text{-} \\mu \\text{C}$$ charge placed at the center of the square shown below?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a607ffff6d1d1bc00fc67fe20863859ab9c55a59"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Four charged particles are positioned at the corners of a parallelogram as shown below. If $$q = 5.0 \\mu \\text{C}$$ and $$Q = 8.0 \\mu \\text{C} ,$$ what is the net force on q ?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b851472c1fdc137d61c06738a77faee2216ea9af"
+        ],
+        "Answer": "Charges Q and q form a right triangle of sides 1 m and $$3 + \\sqrt{3} \\text{m} .$$ Charges 2 Q and q form a right triangle of sides 1 m and $$\\sqrt{3} \\text{m} .$$ $$\\left .\\begin{matrix}{aa}F_{x} & = 0.049 \\text{N} ,\\end{matrix}\\right .$$ $$F_{y} = 0.093 \\text{N}$$ , $$\\mathbf{\\vec{\\text{F}}}_{\\text{net}} = 0.051 \\text{N} \\mathbf{\\hat{\\text{i}}} + 0.093 \\text{N} \\mathbf{\\hat{\\text{j}}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A charge Q is fixed at the origin and a second charge q moves along the x -axis, as shown below. How much work is done on q by the electric force when q moves from $$x_{1} \\text{to} x_{2} ?$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1b175a6936ec13e6dd0e5852abfc3950111e306a"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A charge $$q = -2.0 \\mu \\text{C}$$ is released from rest when it is 2.0 m from a fixed charge $$Q = 6.0 \\mu \\text{C} .$$ What is the kinetic energy of q when it is 1.0 m from Q ?",
+        "Image Links": [],
+        "Answer": "$$W = 0.054 \\text{J}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "What is the electric field at the midpoint M of the hypotenuse of the triangle shown below?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/83a3c3726919bf976b0e695958ba4999ab2c7cd4"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Find the electric field at P for the charge configurations shown below.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5ff3637734370c3f909ee927fbb61d7b924bf0c3"
+        ],
+        "Answer": "a. $$\\mathbf{\\vec{\\text{E}}} = \\frac{1}{4 \\pi \\varepsilon_{0}} ( \\frac{q}{( 2 a )^{2}} - \\frac{q}{a^{2}} ) \\mathbf{\\hat{\\text{i}}}$$ ; b. $$\\mathbf{\\vec{\\text{E}}} = \\frac{\\sqrt{3}}{4 \\pi \\varepsilon_{0}} \\frac{q}{a^{2}} ( \\text{unicode[:-]} \\mathbf{\\hat{\\text{j}}} )$$ ; c. $$\\mathbf{\\vec{\\text{E}}} = \\frac{2}{\\pi \\varepsilon_{0}} \\frac{q}{a^{2}} \\frac{1}{\\sqrt{2}} ( \\text{unicode[:-]} \\mathbf{\\hat{\\text{j}}} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "(a) What is the electric field at the lower-right-hand corner of the square shown below? (b) What is the force on a charge q placed at that point?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/deecffa22572ae69532ad27d0d51b798e8e7b6cc"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Point charges are placed at the four corners of a rectangle as shown below: $$q_{1} = 2.0 \\times 10^{-6} \\text{C} ,$$ $$q_{2} = -2.0 \\times 10^{-6} \\text{C,}$$ $$q_{3} = 4.0 \\times 10^{-6} \\text{C,}$$ and $$q_{4} = 1.0 \\times 10^{-6} \\text{C} .$$ What is the electric field at P ?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/51d772806fccd4285daf4b1e983a8dd2f65aa026"
+        ],
+        "Answer": "$$\\mathbf{\\vec{\\text{E}}}_{\\text{net}} = \\mathbf{\\vec{\\text{E}}}_{1} + \\mathbf{\\vec{\\text{E}}}_{2} + \\mathbf{\\vec{\\text{E}}}_{3} + \\mathbf{\\vec{\\text{E}}}_{4} = ( 4.65 \\hat{\\mathbf{\\text{i}}} + 1.44 \\hat{\\mathbf{\\text{j}}} ) \\times 10^{7} N/C$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Three charges are positioned at the corners of a parallelogram as shown below. (a) If $$Q = 8.0 \\mu \\text{C} ,$$ what is the electric field at the unoccupied corner? (b) What is the force on a $$5.0 \\text{-} \\mu \\text{C}$$ charge placed at this corner?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5e1a87767dc20ec13696e7938a4b6fecba36cc2b"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A positive charge q is released from rest at the origin of a rectangular coordinate system and moves under the influence of the electric field $$\\mathbf{\\vec{\\text{E}}} = E_{0} ( 1 + x \\text{/} a ) \\mathbf{\\hat{\\text{i}}} .$$ What is the kinetic energy of q when it passes through $$x = 3 a ?$$",
+        "Image Links": [],
+        "Answer": "$$F = q E_{0} ( 1 + x \\text{/} a ) W = \\frac{1}{2} m ( v^{2} - v_{0}^{2} )$$ , $$\\frac{1}{2} m v^{2} = q E_{0} ( \\frac{15 a}{2} ) \\text{J}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A particle of charge $$\\text{unicode[:-]} q$$ and mass m is placed at the center of a uniformaly charged ring of total charge Q and radius R . The particle is displaced a small distance along the axis perpendicular to the plane of the ring and released. Assuming that the particle is constrained to move along the axis, show that the particle oscillates in simple harmonic motion with a frequency $$f = \\frac{1}{2 \\pi} \\sqrt{\\frac{q Q}{4 \\pi \\varepsilon_{0} m R^{3}}} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Charge is distributed uniformly along the entire y -axis with a density $$\\lambda_{y}$$ and along the positive x -axis from $$x = a \\text{to} x = b$$ with a density $$\\lambda_{x} .$$ What is the force between the two distributions?",
+        "Image Links": [],
+        "Answer": "Electric field of wire at x : $$\\mathbf{\\vec{\\text{E}}} ( x ) = \\frac{1}{4 \\pi \\varepsilon_{0}} \\frac{2 \\lambda_{y}}{x} \\mathbf{\\hat{\\text{i}}}$$ , $$d F = \\frac{\\lambda_{y} \\lambda_{x}}{2 \\pi \\varepsilon_{0}} ( \\text{ln} b - \\text{ln} a )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The circular arc shown below carries a charge per unit length $$\\lambda = \\lambda_{0} \\text{cos} \\theta ,$$ where $$\\theta$$ is measured from the x -axis. What is the electric field at the origin?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e40e4a676ff51c9c9785930a509323645b8d2f09"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Calculate the electric field due to a uniformly charged rod of length L , aligned with the x -axis with one end at the origin; at a point P on the z -axis.",
+        "Image Links": [],
+        "Answer": "$$d E_{x} = \\frac{1}{4 \\pi \\varepsilon_{0}} \\frac{\\lambda d x}{( x^{2} + a^{2} )} \\frac{x}{\\sqrt{x^{2} + a^{2}}}$$ , $$\\mathbf{\\vec{\\text{E}}}_{x} = \\frac{\\lambda}{4 \\pi \\varepsilon_{0}} [ \\frac{1}{\\sqrt{L^{2} + a^{2}}} - \\frac{1}{a} ] \\mathbf{\\hat{\\text{i}}}$$ , $$d E_{z} = \\frac{1}{4 \\pi \\varepsilon_{0}} \\frac{\\lambda d x}{( x^{2} + a^{2} )} \\frac{a}{\\sqrt{x^{2} + a^{2}}}$$ , $$\\mathbf{\\vec{\\text{E}}}_{z} = \\frac{\\lambda}{4 \\pi \\varepsilon_{0} a} \\frac{L}{\\sqrt{L^{2} + a^{2}}} \\mathbf{\\hat{\\text{k}}}$$ , Substituting z for a , we have: $$\\mathbf{\\vec{\\text{E}}} ( z ) = \\frac{\\lambda}{4 \\pi \\varepsilon_{0}} [ \\frac{1}{\\sqrt{L^{2} + z^{2}}} - \\frac{1}{z} ] \\mathbf{\\hat{\\text{i}}} + \\frac{\\lambda}{4 \\pi \\varepsilon_{0} z} \\frac{L}{\\sqrt{L^{2} + z^{2}}} \\mathbf{\\hat{\\text{k}}}$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/839ba29764c6a43e67b5c506adecf3d502489937"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The charge per unit length on the thin rod shown below is $$\\lambda .$$ What is the electric force on the point charge q ? Solve this problem by first considering the electric force $$d \\mathbf{\\vec{\\text{F}}}$$ on q due to a small segment $$d x$$ of the rod, which contains charge $$\\lambda d x .$$ Then, find the net force by integrating $$d \\mathbf{\\vec{\\text{F}}}$$ over the length of the rod.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d5c050212d5fbccac9e557141f2222b251c65117"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The charge per unit length on the thin rod shown here is $$\\lambda .$$ What is the electric force on the point charge q ? (See the preceding problem.)",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/77fc0752d3a7c47fef88035481ff635fd0f36d10"
+        ],
+        "Answer": "There is a net force only in the y -direction. Let $$\\theta$$ be the angle the vector from dx to q makes with the x -axis. The components along the x -axis cancel due to symmetry, leaving the y -component of the force. $$d F_{\\text{y}} = \\frac{1}{4 \\pi \\varepsilon_{0}} \\frac{a q \\lambda d x}{( x^{2} + a^{2} )^{3 \\text{/} 2}}$$ , $$F_{y} = \\frac{1}{2 \\pi \\varepsilon_{0}} \\frac{q \\lambda}{a} [ \\frac{l \\text{/} 2}{( ( l \\text{/} 2 )^{2} + a^{2} )^{1 \\text{/} 2}} ]$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The charge per unit length on the thin semicircular wire shown below is $$\\lambda .$$ What is the electric force on the point charge q ? (See the preceding problems.)",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c3390ec280a2a2fa6dd637f20c227e2e8cd09f64"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Topic": "Checkpoint 3.14",
+        "Problem Statement": "",
+        "Question": "A particle moves in a path defined by the vector-valued function $$\\mathbf{\\text{r}} ( t ) = ( t^{2} - 3 t ) \\mathbf{\\text{i}} + ( 2 t - 4 ) \\mathbf{\\text{j}} + ( t + 2 ) \\mathbf{\\text{k}} ,$$ where t measures time in seconds and where distance is measured in feet. Find the velocity, acceleration, and speed as functions of time.",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{a}\\mathbf{\\text{v}} ( t ) = \\mathbf{r^{\\prime}} ( t ) = ( 2 t - 3 ) \\mathbf{\\text{i}} + 2 \\mathbf{\\text{j}} + \\mathbf{\\text{k}} \\\\ \\mathbf{\\text{a}} ( t ) = \\mathbf{v^{\\prime}} ( t ) = 2 \\mathbf{\\text{i}} \\\\ v ( t ) = \\Vert \\mathbf{r^{\\prime}} ( t ) \\Vert = \\sqrt{( 2 t - 3 )^{2} + 2^{2} + 1^{2}} = \\sqrt{4 t^{2} - 12 t + 14}\\end{matrix}\\right .$$ The units for velocity and speed are feet per second, and the units for acceleration are feet per second squared.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.15",
+        "Problem Statement": "",
+        "Question": "An object moves in a path defined by the vector-valued function $$\\mathbf{\\text{r}} ( t ) = 4 t \\mathbf{\\text{i}} + t^{2} \\mathbf{\\text{j}} ,$$ where t measures time in seconds. Find $$a_{\\mathbf{\\text{T}}}$$ and $$a_{\\mathbf{\\text{N}}}$$ as functions of t . Find $$a_{\\mathbf{\\text{T}}}$$ and $$a_{\\mathbf{\\text{N}}}$$ at time $$t = -3 .$$",
+        "Image Links": [],
+        "Answer": "$$\\textbf{v} \\left(\\right. t \\left.\\right) & = & \\left(\\mathbf{r}\\right)^{'} \\left(\\right. t \\left.\\right) = 4 \\textbf{i} + 2 t \\textbf{j} \\\\ \\textbf{a} \\left(\\right. t \\left.\\right) & = & \\left(\\mathbf{v}\\right)^{'} \\left(\\right. t \\left.\\right) = 2 \\textbf{j} \\\\ a_{\\text{T}} & = & \\frac{2 t}{\\sqrt{t^{2} + 4}} , a_{\\text{N}} = \\frac{4}{\\sqrt{4 + t^{2}}}$$ $$a_{\\mathbf{\\text{T}}} ( -3 ) = - \\frac{6 \\sqrt{13}}{13} , a_{\\mathbf{\\text{N}}} ( -3 ) = \\frac{2 \\sqrt{13}}{13}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.16",
+        "Problem Statement": "",
+        "Question": "An archer fires an arrow at an angle of 40\u00b0 above the horizontal with an initial speed of 98 m/sec. The height of the archer is 171.5 cm. Find the horizontal distance the arrow travels before it hits the ground.",
+        "Image Links": [],
+        "Answer": "967.15 m",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.17",
+        "Problem Statement": "",
+        "Question": "Titan is the largest moon of Saturn. The mass of Titan is approximately $$1.35 \\times 10^{23}$$ kg. The mass of Saturn is approximately $$5.68 \\times 10^{26}$$ kg. Titan takes approximately 16 days to orbit Saturn. Use this information, along with the universal gravitation constant $$G = 6.67 \\times 10^{-11} \\text{m}^{3} \\text{/} \\text{kg} \\cdotp \\text{sec}^{2}$$ to estimate the distance from Titan to Saturn.",
+        "Image Links": [],
+        "Answer": "$$a = 1.224 \\times 10^{9} \\text{m} \\approx 1,224,000 \\text{km}$$",
+        "Answer Image Links": []
+    }
+]

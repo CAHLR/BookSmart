@@ -1,0 +1,578 @@
+[
+    {
+        "Topic": "6.1 Blackbody Radiation",
+        "Problem Statement": "",
+        "Question": "A 200-W heater emits a 1.5-\u00b5m radiation. (a) What value of the energy quantum does it emit? (b) Assuming that the specific heat of a 4.0-kg body is $$0.83 \\text{kcal} \\text{/} \\text{kg} \\cdotp \\text{K} ,$$ how many of these photons must be absorbed by the body to increase its temperature by 2 K? (c) How long does the heating process in (b) take, assuming that all radiation emitted by the heater gets absorbed by the body?",
+        "Image Links": [],
+        "Answer": "a. 0.81 eV; b. $$2.1 \\times 10^{23} ;$$ c. 2 min 20 sec",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Blackbody Radiation",
+        "Problem Statement": "",
+        "Question": "A 900-W microwave generator in an oven generates energy quanta of frequency 2560 MHz. (a) How many energy quanta does it emit per second? (b) How many energy quanta must be absorbed by a pasta dish placed in the radiation cavity to increase its temperature by 45.0 K? Assume that the dish has a mass of 0.5 kg and that its specific heat is $$0.9 \\text{kcal} \\text{/} \\text{kg} \\cdotp \\text{K} .$$ (c) Assume that all energy quanta emitted by the generator are absorbed by the pasta dish. How long must we wait until the dish in (b) is ready?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Blackbody Radiation",
+        "Problem Statement": "",
+        "Question": "(a) For what temperature is the peak of blackbody radiation spectrum at 400 nm? (b) If the temperature of a blackbody is 800 K, at what wavelength does it radiate the most energy?",
+        "Image Links": [],
+        "Answer": "a. 7245 K; b. 3.62 \u03bcm",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Blackbody Radiation",
+        "Problem Statement": "",
+        "Question": "The tungsten elements of incandescent light bulbs operate at 3200 K. At what wavelength does the filament radiate maximum energy?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Blackbody Radiation",
+        "Problem Statement": "",
+        "Question": "Interstellar space is filled with radiation of wavelength $$970 \\text{mu} \\text{m.}$$ This radiation is considered to be a remnant of the \u201cbig bang.\u201d What is the corresponding blackbody temperature of this radiation?",
+        "Image Links": [],
+        "Answer": "about 3 K",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.1 Blackbody Radiation",
+        "Problem Statement": "",
+        "Question": "The radiant energy from the sun reaches its maximum at a wavelength of about 500.0 nm. What is the approximate temperature of the sun\u2019s surface?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Photoelectric Effect",
+        "Problem Statement": "",
+        "Question": "A photon has energy 20 keV. What are its frequency and wavelength?",
+        "Image Links": [],
+        "Answer": "$$4.835 \\times 10^{18}$$ Hz; 0.620 \u00c5",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Photoelectric Effect",
+        "Problem Statement": "",
+        "Question": "The wavelengths of visible light range from approximately 400 to 750 nm. What is the corresponding range of photon energies for visible light?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Photoelectric Effect",
+        "Problem Statement": "",
+        "Question": "What is the longest wavelength of radiation that can eject a photoelectron from silver? Is it in the visible range?",
+        "Image Links": [],
+        "Answer": "263 nm; no",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Photoelectric Effect",
+        "Problem Statement": "",
+        "Question": "What is the longest wavelength of radiation that can eject a photoelectron from potassium, given the work function of potassium 2.24 eV? Is it in the visible range?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Photoelectric Effect",
+        "Problem Statement": "",
+        "Question": "Estimate the binding energy of electrons in magnesium, given that the wavelength of 337 nm is the longest wavelength that a photon may have to eject a photoelectron from magnesium photoelectrode.",
+        "Image Links": [],
+        "Answer": "3.68 eV",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Photoelectric Effect",
+        "Problem Statement": "",
+        "Question": "The work function for potassium is 2.24 eV. What is the cutoff frequency when this metal is used as photoelectrode? What is the stopping potential for the emitted electrons when this photoelectrode is exposed to radiation of frequency 1200 THz?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Photoelectric Effect",
+        "Problem Statement": "",
+        "Question": "Estimate the work function of aluminum, given that the wavelength of 304 nm is the longest wavelength that a photon may have to eject a photoelectron from an aluminum photoelectrode.",
+        "Image Links": [],
+        "Answer": "4.09 eV",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Photoelectric Effect",
+        "Problem Statement": "",
+        "Question": "What is the maximum kinetic energy of photoelectrons ejected from sodium by the incident radiation of wavelength 450 nm?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Photoelectric Effect",
+        "Problem Statement": "",
+        "Question": "A 120-nm UV radiation illuminates a silver-plated electrode. What is the maximum kinetic energy of the ejected photoelectrons?",
+        "Image Links": [],
+        "Answer": "5.60 eV",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Photoelectric Effect",
+        "Problem Statement": "",
+        "Question": "A 400-nm violet light ejects photoelectrons with a maximum kinetic energy of 0.860 eV from sodium photoelectrode. What is the work function of sodium?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Photoelectric Effect",
+        "Problem Statement": "",
+        "Question": "A 600-nm light falls on a photoelectric surface and electrons with the maximum kinetic energy of 0.17 eV are emitted. Determine (a) the work function and (b) the cutoff frequency of the surface. (c) What is the stopping potential when the surface is illuminated with light of wavelength 400 nm?",
+        "Image Links": [],
+        "Answer": "a. 1.89 eV; b. 459 THz; c. 1.21 V",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Photoelectric Effect",
+        "Problem Statement": "",
+        "Question": "The cutoff wavelength for the emission of photoelectrons from a particular surface is 500 nm. Find the maximum kinetic energy of the ejected photoelectrons when the surface is illuminated with light of wavelength 600 nm.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Photoelectric Effect",
+        "Problem Statement": "",
+        "Question": "Find the wavelength of radiation that can eject 2.00-eV electrons from calcium electrode. The work function for calcium is 2.71 eV. In what range is this radiation?",
+        "Image Links": [],
+        "Answer": "264 nm; UV",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Photoelectric Effect",
+        "Problem Statement": "",
+        "Question": "Find the wavelength of radiation that can eject 0.10-eV electrons from potassium electrode. The work function for potassium is 2.24 eV. In what range is this radiation?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.2 Photoelectric Effect",
+        "Problem Statement": "",
+        "Question": "Find the maximum velocity of photoelectrons ejected by an 80-nm radiation, if the work function of photoelectrode is 4.73 eV.",
+        "Image Links": [],
+        "Answer": "$$1.95 \\times 10^{6} \\text{m/s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 The Compton Effect",
+        "Problem Statement": "",
+        "Question": "What is the momentum of a 589-nm yellow photon?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 The Compton Effect",
+        "Problem Statement": "",
+        "Question": "What is the momentum of a 4-cm microwave photon?",
+        "Image Links": [],
+        "Answer": "$$1.66 \\times 10^{\\text{unicode[:-]} 32} \\text{kg} \\cdotp \\text{m/s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 The Compton Effect",
+        "Problem Statement": "",
+        "Question": "In a beam of white light (wavelengths from 400 to 750 nm), what range of momentum can the photons have?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 The Compton Effect",
+        "Problem Statement": "",
+        "Question": "What is the energy of a photon whose momentum is $$3.0 \\times 10^{-24} \\text{kg} \\cdotp \\text{m/s}$$ ?",
+        "Image Links": [],
+        "Answer": "56.21 eV",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 The Compton Effect",
+        "Problem Statement": "",
+        "Question": "What is the wavelength of (a) a 12-keV X-ray photon; (b) a 2.0-MeV $$\\text{gamma}$$ -ray photon?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 The Compton Effect",
+        "Problem Statement": "",
+        "Question": "Find the momentum and energy of a 1.0-\u00c5 photon.",
+        "Image Links": [],
+        "Answer": "$$6.63 \\times 10^{\\text{unicode[:-]} 23} \\text{kg} \\cdotp \\text{m/s} ;$$ 124 keV",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 The Compton Effect",
+        "Problem Statement": "",
+        "Question": "Find the wavelength and energy of a photon with momentum $$5.00 \\times 10^{-29} \\text{kg} \\cdotp \\text{m/s} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 The Compton Effect",
+        "Problem Statement": "",
+        "Question": "A $$\\gamma$$ -ray photon has a momentum of $$8.00 \\times 10^{-21} \\text{kg} \\cdotp \\text{m/s} .$$ Find its wavelength and energy.",
+        "Image Links": [],
+        "Answer": "82.9 fm; 15 MeV",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 The Compton Effect",
+        "Problem Statement": "",
+        "Question": "(a) Calculate the momentum of a $$2.5 \\text{-} \\Micro \\text{m}$$ photon. (b) Find the velocity of an electron with the same momentum. (c) What is the kinetic energy of the electron, and how does it compare to that of the photon?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 The Compton Effect",
+        "Problem Statement": "",
+        "Question": "Show that $$p = h \\text{/} \\lambda$$ and $$E_{f} = h f$$ are consistent with the relativistic formula $$E^{2} = p^{2} c^{2} + m_{0}^{2} c^{2} .$$",
+        "Image Links": [],
+        "Answer": "(Proof)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 The Compton Effect",
+        "Problem Statement": "",
+        "Question": "Show that the energy E in eV of a photon is given by $$E = 1.241 \\times 10^{-6} \\text{eV} \\cdotp \\text{m} \\text{/} \\lambda ,$$ where $$\\lambda$$ is its wavelength in meters.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 The Compton Effect",
+        "Problem Statement": "",
+        "Question": "For collisions with free electrons, compare the Compton shift of a photon scattered as an angle of $$30 \\text{\u00b0}$$ to that of a photon scattered at $$45 \\text{\u00b0} .$$",
+        "Image Links": [],
+        "Answer": "$$\\text{Delta} \\lambda_{30} \\text{/} \\text{Delta} \\lambda_{45} = 45.74 %$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.3 The Compton Effect",
+        "Problem Statement": "",
+        "Question": "X-rays of wavelength 12.5 pm are scattered from a block of carbon. What are the wavelengths of photons scattered at (a) $$30 \\text{\u00b0} ;$$ (b) $$90 \\text{\u00b0} ;$$ and, (c) $$180 \\text{\u00b0}$$ ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "Calculate the wavelength of the first line in the Lyman series and show that this line lies in the ultraviolet part of the spectrum.",
+        "Image Links": [],
+        "Answer": "121.5 nm",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "Calculate the wavelength of the fifth line in the Lyman series and show that this line lies in the ultraviolet part of the spectrum.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "Calculate the energy changes corresponding to the transitions of the hydrogen atom: (a) from $$n = 3$$ to $$n = 4 ;$$ (b) from $$n = 2$$ to $$n = 1 ;$$ and (c) from $$n = 3$$ to $$n = \\infty .$$",
+        "Image Links": [],
+        "Answer": "a. 0.661 eV; b. -10.2 eV; c. 1.511 eV",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "Determine the wavelength of the third Balmer line (transition from $$n = 5$$ to $$n = 2$$ ).",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "What is the frequency of the photon absorbed when the hydrogen atom makes the transition from the ground state to the $$n = 4$$ state?",
+        "Image Links": [],
+        "Answer": "3038 THz",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "When a hydrogen atom is in its ground state, what are the shortest and longest wavelengths of the photons it can absorb without being ionized?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "When a hydrogen atom is in its third excided state, what are the shortest and longest wavelengths of the photons it can emit?",
+        "Image Links": [],
+        "Answer": "97.33 nm",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "What is the longest wavelength that light can have if it is to be capable of ionizing the hydrogen atom in its ground state?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "For an electron in a hydrogen atom in the $$n = 2$$ state, compute: (a) the angular momentum; (b) the kinetic energy; (c) the potential energy; and (d) the total energy.",
+        "Image Links": [],
+        "Answer": "a. h/ $$\\pi ;$$ b. 3.4 eV; c. - 6.8 eV; d. - 3.4 eV",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "Find the ionization energy of a hydrogen atom in the fourth energy state.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "It has been measured that it required 0.850 eV to remove an electron from the hydrogen atom. In what state was the atom before the ionization happened?",
+        "Image Links": [],
+        "Answer": "$$n = 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "What is the radius of a hydrogen atom when the electron is in the first excited state?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "Find the shortest wavelength in the Balmer series. In what part of the spectrum does this line lie?",
+        "Image Links": [],
+        "Answer": "365 nm; UV",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "Show that the entire Paschen series lies in the infrared part of the spectrum.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "Do the Balmer series and the Lyman series overlap? Why? Why not? (Hint: calculate the shortest Balmer line and the longest Lyman line.)",
+        "Image Links": [],
+        "Answer": "no",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "(a) Which line in the Balmer series is the first one in the UV part of the spectrum? (b) How many Balmer lines lie in the visible part of the spectrum? (c) How many Balmer lines lie in the UV?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.4 Bohr\u2019s Model of the Hydrogen Atom",
+        "Problem Statement": "",
+        "Question": "A $$4.653 \\text{-mu} \\text{m}$$ emission line of atomic hydrogen corresponds to transition between the states $$n_{f} = 5$$ and $$n_{i} .$$ Find $$n_{i} .$$",
+        "Image Links": [],
+        "Answer": "7",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.5 De Broglie\u2019s Matter Waves",
+        "Problem Statement": "",
+        "Question": "At what velocity will an electron have a wavelength of 1.00 m?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.5 De Broglie\u2019s Matter Waves",
+        "Problem Statement": "",
+        "Question": "What is the de Broglie wavelength of an electron travelling at a speed of $$5.0 \\times 10^{6} \\text{m/s}$$ ?",
+        "Image Links": [],
+        "Answer": "145.5 pm",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.5 De Broglie\u2019s Matter Waves",
+        "Problem Statement": "",
+        "Question": "What is the de Broglie wavelength of an electron that is accelerated from rest through a potential difference of 20 kV?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.5 De Broglie\u2019s Matter Waves",
+        "Problem Statement": "",
+        "Question": "What is the de Broglie wavelength of a proton whose kinetic energy is 2.0 MeV? 10.0 MeV?",
+        "Image Links": [],
+        "Answer": "20 fm; 9 fm",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.5 De Broglie\u2019s Matter Waves",
+        "Problem Statement": "",
+        "Question": "What is the de Broglie wavelength of a young cheetah running at a speed of 8.0 m/s?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.5 De Broglie\u2019s Matter Waves",
+        "Problem Statement": "",
+        "Question": "(a) What is the energy of an electron whose de Broglie wavelength is that of a photon of yellow light with wavelength 590 nm? (b) What is the de Broglie wavelength of an electron whose energy is that of the photon of yellow light?",
+        "Image Links": [],
+        "Answer": "a. 2.103 eV; b. 0.846 nm",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.5 De Broglie\u2019s Matter Waves",
+        "Problem Statement": "",
+        "Question": "The de Broglie wavelength of a neutron is 0.01 nm. What is the speed and energy of this neutron?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.5 De Broglie\u2019s Matter Waves",
+        "Problem Statement": "",
+        "Question": "What is the wavelength of an electron that is moving at a 3% of the speed of light?",
+        "Image Links": [],
+        "Answer": "80.9 pm",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.5 De Broglie\u2019s Matter Waves",
+        "Problem Statement": "",
+        "Question": "At what velocity does a proton have a 6.0-fm wavelength (about the size of a nucleus)? Give your answer in units of c .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.5 De Broglie\u2019s Matter Waves",
+        "Problem Statement": "",
+        "Question": "What is the velocity of a 0.400-kg billiard ball if its wavelength is 7.50 fm?",
+        "Image Links": [],
+        "Answer": "$$2.21 \\times 10^{\\text{unicode[:-]} 19} \\text{m/s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.5 De Broglie\u2019s Matter Waves",
+        "Problem Statement": "",
+        "Question": "Find the wavelength of a proton that is moving at 1.00% of the speed of light (when $$\\beta = 0.01 ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.6 Wave-Particle Duality",
+        "Problem Statement": "",
+        "Question": "An AM radio transmitter radiates 500 kW at a frequency of 760 kHz. How many photons per second does the emitter emit?",
+        "Image Links": [],
+        "Answer": "$$9.929 \\times 10^{32}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.6 Wave-Particle Duality",
+        "Problem Statement": "",
+        "Question": "Find the Lorentz factor $$\\gamma$$ and de Broglie\u2019s wavelength for a 50-GeV electron in a particle accelerator.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.6 Wave-Particle Duality",
+        "Problem Statement": "",
+        "Question": "Find the Lorentz factor $$\\gamma$$ and de Broglie\u2019s wavelength for a 1.0-TeV proton in a particle accelerator.",
+        "Image Links": [],
+        "Answer": "$$\\gamma = 1 060 ;$$ 0.00124 fm",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.6 Wave-Particle Duality",
+        "Problem Statement": "",
+        "Question": "What is the kinetic energy of a 0.01-nm electron in a TEM?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.6 Wave-Particle Duality",
+        "Problem Statement": "",
+        "Question": "If electron is to be diffracted significantly by a crystal, its wavelength must be about equal to the spacing, d , of crystalline planes. Assuming $$d = 0.250 \\text{nm} ,$$ estimate the potential difference through which an electron must be accelerated from rest if it is to be diffracted by these planes.",
+        "Image Links": [],
+        "Answer": "24.11 V",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.6 Wave-Particle Duality",
+        "Problem Statement": "",
+        "Question": "X-rays form ionizing radiation that is dangerous to living tissue and undetectable to the human eye. Suppose that a student researcher working in an X-ray diffraction laboratory is accidentally exposed to a fatal dose of radiation. Calculate the temperature increase of the researcher under the following conditions: the energy of X-ray photons is 200 keV and the researcher absorbs $$4 \\times 10^{13}$$ photons per each kilogram of body weight during the exposure. Assume that the specific heat of the student\u2019s body is $$0.83 \\text{kcal} \\text{/} \\text{kg} \\cdotp \\text{K} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.6 Wave-Particle Duality",
+        "Problem Statement": "",
+        "Question": "Solar wind (radiation) that is incident on the top of Earth\u2019s atmosphere has an average intensity of $$1.3 \\text{kW} \\text{/} \\text{m}^{2} .$$ Suppose that you are building a solar sail that is to propel a small toy spaceship with a mass of 0.1 kg in the space between the International Space Station and the moon. The sail is made from a very light material, which perfectly reflects the incident radiation. To assess whether such a project is feasible, answer the following questions, assuming that radiation photons are incident only in normal direction to the sail reflecting surface. (a) What is the radiation pressure (force per $$\\text{m}^{2}$$ ) of the radiation falling on the mirror-like sail? (b) Given the radiation pressure computed in (a), what will be the acceleration of the spaceship when the sail has of an area of $$10.0 \\text{m}^{2}$$ ? (c) Given the acceleration estimate in (b), how fast will the spaceship be moving after 24 hours when it starts from rest?",
+        "Image Links": [],
+        "Answer": "a. $$P = 2 I \\text{/} c = 8.67 \\times 10^{-6} \\text{N} \\text{/} \\text{m}^{2} ;$$ b. $$a = P A \\text{/} m = 8.67 \\times 10^{- 4} \\text{m} \\text{/} \\text{s}^{2} ;$$ c. 74.91 m/s",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.6 Wave-Particle Duality",
+        "Problem Statement": "",
+        "Question": "Treat the human body as a blackbody and determine the percentage increase in the total power of its radiation when its temperature increases from 98.6 $$\\text{\u00b0}$$ F to 103 $$\\text{\u00b0}$$ F.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.6 Wave-Particle Duality",
+        "Problem Statement": "",
+        "Question": "Show that Wien\u2019s displacement law results from Planck\u2019s radiation law. ( Hint: substitute $$x = h c \\text{/} \\lambda k T$$ and write Planck\u2019s law in the form $$I ( x , T ) = A x^{5} \\text{/} ( e^{x} - 1 ) ,$$ where $$A = 2 \\pi ( k T )^{5} \\text{/} ( h^{4} c^{3} ) .$$ Now, for fixed T , find the position of the maximum in I ( x , T ) by solving for x in the equation $$d I ( x , T ) \\text{/} d x = 0 .$$ )",
+        "Image Links": [],
+        "Answer": "$$x = 4.965$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "6.6 Wave-Particle Duality",
+        "Problem Statement": "",
+        "Question": "Show that Stefan\u2019s law results from Planck\u2019s radiation law. Hint: To compute the total power of blackbody radiation emitted across the entire spectrum of wavelengths at a given temperature, integrate Planck\u2019s law over the entire spectrum $$P ( T ) = \\int_{0}^{\\infty} I ( \\lambda , T ) d \\lambda .$$ Use the substitution $$x = h c \\text{/} \\lambda k T$$ and the tabulated value of the integral $$\\int_{0}^{\\infty} d x x^{3} \\text{/} ( e^{x} - 1 ) = \\pi^{4} \\text{/} 15 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

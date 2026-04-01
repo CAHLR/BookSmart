@@ -1,0 +1,398 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What is a binomial coefficient, and how it is calculated?",
+        "Image Links": [],
+        "Answer": "A binomial coefficient is an alternative way of denoting the combination $$C ( n , r ).$$ It is defined as $$\\left (\\begin{matrix}n \\\\ r\\end{matrix}\\right ) = C ( n , r ) = \\frac{n !}{r ! ( n - r ) !} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What role do binomial coefficients play in a binomial expansion? Are they restricted to any type of number?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What is the Binomial Theorem and what is its use?",
+        "Image Links": [],
+        "Answer": "The Binomial Theorem is defined as $$( x + y )^{n} = \\sum_{k = 0}^{n} \\left (\\begin{matrix}n \\\\ k\\end{matrix}\\right ) x^{n - k} y^{k}$$ and can be used to expand any binomial.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "When is it an advantage to use the Binomial Theorem? Explain.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, evaluate the binomial coefficient.",
+        "Question": "$$\\left (\\begin{matrix}6 \\\\ 2\\end{matrix}\\right )$$",
+        "Image Links": [],
+        "Answer": "15",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, evaluate the binomial coefficient.",
+        "Question": "$$\\left (\\begin{matrix}5 \\\\ 3\\end{matrix}\\right )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, evaluate the binomial coefficient.",
+        "Question": "$$\\left (\\begin{matrix}7 \\\\ 4\\end{matrix}\\right )$$",
+        "Image Links": [],
+        "Answer": "35",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, evaluate the binomial coefficient.",
+        "Question": "$$\\left (\\begin{matrix}9 \\\\ 7\\end{matrix}\\right )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, evaluate the binomial coefficient.",
+        "Question": "$$\\left (\\begin{matrix}10 \\\\ 9\\end{matrix}\\right )$$",
+        "Image Links": [],
+        "Answer": "10",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, evaluate the binomial coefficient.",
+        "Question": "$$\\left (\\begin{matrix}25 \\\\ 11\\end{matrix}\\right )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, evaluate the binomial coefficient.",
+        "Question": "$$\\left (\\begin{matrix}17 \\\\ 6\\end{matrix}\\right )$$",
+        "Image Links": [],
+        "Answer": "12,376",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, evaluate the binomial coefficient.",
+        "Question": "$$\\left (\\begin{matrix}200 \\\\ 199\\end{matrix}\\right )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Binomial Theorem to expand each binomial.",
+        "Question": "$$( 4 a - b )^{3}$$",
+        "Image Links": [],
+        "Answer": "$$64 a^{3} - 48 a^{2} b + 12 a b^{2} - b^{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Binomial Theorem to expand each binomial.",
+        "Question": "$$( 5 a + 2 )^{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Binomial Theorem to expand each binomial.",
+        "Question": "$$( 3 a + 2 b )^{3}$$",
+        "Image Links": [],
+        "Answer": "$$27 a^{3} + 54 a^{2} b + 36 a b^{2} + 8 b^{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Binomial Theorem to expand each binomial.",
+        "Question": "$$( 2 x + 3 y )^{4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Binomial Theorem to expand each binomial.",
+        "Question": "$$( 4 x + 2 y )^{5}$$",
+        "Image Links": [],
+        "Answer": "$$1024 x^{5} + 2560 x^{4} y + 2560 x^{3} y^{2} + 1280 x^{2} y^{3} + 320 x y^{4} + 32 y^{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Binomial Theorem to expand each binomial.",
+        "Question": "$$( 3 x - 2 y )^{4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Binomial Theorem to expand each binomial.",
+        "Question": "$$( 4 x - 3 y )^{5}$$",
+        "Image Links": [],
+        "Answer": "$$1024 x^{5} - 3840 x^{4} y + 5760 x^{3} y^{2} - 4320 x^{2} y^{3} + 1620 x y^{4} - 243 y^{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Binomial Theorem to expand each binomial.",
+        "Question": "$$( \\frac{1}{x} + 3 y )^{5}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Binomial Theorem to expand each binomial.",
+        "Question": "$$( x^{- 1} + 2 y^{- 1} )^{4}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{x^{4}} + \\frac{8}{x^{3} y} + \\frac{24}{x^{2} y^{2}} + \\frac{32}{x y^{3}} + \\frac{16}{y^{4}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Binomial Theorem to expand each binomial.",
+        "Question": "$$( \\sqrt{x} - \\sqrt{y} )^{5}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Binomial Theorem to write the first three terms of each binomial.",
+        "Question": "$$( a + b )^{17}$$",
+        "Image Links": [],
+        "Answer": "$$a^{17} + 17 a^{16} b + 136 a^{15} b^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Binomial Theorem to write the first three terms of each binomial.",
+        "Question": "$$( x - 1 )^{18}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Binomial Theorem to write the first three terms of each binomial.",
+        "Question": "$$( a - 2 b )^{15}$$",
+        "Image Links": [],
+        "Answer": "$$a^{15} - 30 a^{14} b + 420 a^{13} b^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Binomial Theorem to write the first three terms of each binomial.",
+        "Question": "$$( x - 2 y )^{8}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Binomial Theorem to write the first three terms of each binomial.",
+        "Question": "$$( 3 a + b )^{20}$$",
+        "Image Links": [],
+        "Answer": "$$3 , 486 , 784 , 401 a^{20} + 23 , 245 , 229 , 340 a^{19} b + 73 , 609 , 892 , 910 a^{18} b^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Binomial Theorem to write the first three terms of each binomial.",
+        "Question": "$$( 2 a + 4 b )^{7}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Binomial Theorem to write the first three terms of each binomial.",
+        "Question": "$$( x^{3} - \\sqrt{y} )^{8}$$",
+        "Image Links": [],
+        "Answer": "$$x^{24} - 8 x^{21} \\sqrt{y} + 28 x^{18} y$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the indicated term of each binomial without fully expanding the binomial.",
+        "Question": "The fourth term of $$( 2 x - 3 y )^{4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the indicated term of each binomial without fully expanding the binomial.",
+        "Question": "The fourth term of $$( 3 x - 2 y )^{5}$$",
+        "Image Links": [],
+        "Answer": "$$- 720 x^{2} y^{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the indicated term of each binomial without fully expanding the binomial.",
+        "Question": "The third term of $$( 6 x - 3 y )^{7}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the indicated term of each binomial without fully expanding the binomial.",
+        "Question": "The eighth term of $$( 7 + 5 y )^{14}$$",
+        "Image Links": [],
+        "Answer": "$$220 , 812 , 466 , 875 , 000 y^{7}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the indicated term of each binomial without fully expanding the binomial.",
+        "Question": "The seventh term of $$( a + b )^{11}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the indicated term of each binomial without fully expanding the binomial.",
+        "Question": "The fifth term of $$( x - y )^{7}$$",
+        "Image Links": [],
+        "Answer": "$$35 x^{3} y^{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the indicated term of each binomial without fully expanding the binomial.",
+        "Question": "The tenth term of $$( x - 1 )^{12}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the indicated term of each binomial without fully expanding the binomial.",
+        "Question": "The ninth term of $$( a - 3 b^{2} )^{11}$$",
+        "Image Links": [],
+        "Answer": "$$1 , 082 , 565 a^{3} b^{16}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the indicated term of each binomial without fully expanding the binomial.",
+        "Question": "The fourth term of $$( x^{3} - \\frac{1}{2} )^{10}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the indicated term of each binomial without fully expanding the binomial.",
+        "Question": "The eighth term of $$( \\frac{y}{2} + \\frac{2}{x} )^{9}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1152 y^{2}}{x^{7}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the Binomial Theorem to expand the binomial $$f ( x ) = ( x + 3 )^{4} .$$ Then find and graph each indicated sum on one set of axes.",
+        "Question": "Find and graph $$f_{1} ( x ) ,$$ such that $$f_{1} ( x )$$ is the first term of the expansion.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the Binomial Theorem to expand the binomial $$f ( x ) = ( x + 3 )^{4} .$$ Then find and graph each indicated sum on one set of axes.",
+        "Question": "Find and graph $$f_{2} ( x ) ,$$ such that $$f_{2} ( x )$$ is the sum of the first two terms of the expansion.",
+        "Image Links": [],
+        "Answer": "$$f_{2} ( x ) = x^{4} + 12 x^{3}$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/df58bbf7934992d43c8a047876d6f9eab5ab8cc9"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the Binomial Theorem to expand the binomial $$f ( x ) = ( x + 3 )^{4} .$$ Then find and graph each indicated sum on one set of axes.",
+        "Question": "Find and graph $$f_{3} ( x ) ,$$ such that $$f_{3} ( x )$$ is the sum of the first three terms of the expansion.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the Binomial Theorem to expand the binomial $$f ( x ) = ( x + 3 )^{4} .$$ Then find and graph each indicated sum on one set of axes.",
+        "Question": "Find and graph $$f_{4} ( x ) ,$$ such that $$f_{4} ( x )$$ is the sum of the first four terms of the expansion.",
+        "Image Links": [],
+        "Answer": "$$f_{4} ( x ) = x^{4} + 12 x^{3} + 54 x^{2} + 108 x$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b602a99e7d655cf1a1f4a8f16c2c4352393d818d"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the Binomial Theorem to expand the binomial $$f ( x ) = ( x + 3 )^{4} .$$ Then find and graph each indicated sum on one set of axes.",
+        "Question": "Find and graph $$f_{5} ( x ) ,$$ such that $$f_{5} ( x )$$ is the sum of the first five terms of the expansion.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "In the expansion of $$( 5 x + 3 y )^{n} ,$$ each term has the form $$\\left (\\begin{matrix}n \\\\ k\\end{matrix}\\right ) a^{n - k} b^{k}$$ , where $$k$$ successively takes on the value $$0 , 1 , 2 , ... , n .$$ If $$\\left (\\begin{matrix}n \\\\ k\\end{matrix}\\right ) = \\left (\\begin{matrix}7 \\\\ 2\\end{matrix}\\right ) ,$$ what is the corresponding term?",
+        "Image Links": [],
+        "Answer": "$$590 , 625 x^{5} y^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "In the expansion of $$( a + b )^{n} ,$$ the coefficient of $$a^{n - k} b^{k}$$ is the same as the coefficient of which other term?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Consider the expansion of $$( x + b )^{40} .$$ What is the exponent of $$b$$ in the $$k \\text{th}$$ term?",
+        "Image Links": [],
+        "Answer": "$$k - 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Find $$\\left (\\begin{matrix}n \\\\ k - 1\\end{matrix}\\right ) + \\left (\\begin{matrix}n \\\\ k\\end{matrix}\\right )$$ and write the answer as a binomial coefficient in the form $$\\left (\\begin{matrix}n \\\\ k\\end{matrix}\\right ) .$$ Prove it. Hint: Use the fact that, for any integer $$p ,$$ such that $$p \\geq 1 , p ! = p ( p - 1 ) ! \\text{.}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Which expression cannot be expanded using the Binomial Theorem? Explain. $$( x^{2} - 2 x + 1 )$$ $$( \\sqrt{a} + 4 \\sqrt{a} - 5 )^{8}$$ $$( x^{3} + 2 y^{2} - z )^{5}$$ $$( 3 x^{2} - \\sqrt{2 y^{3}} )^{12}$$",
+        "Image Links": [],
+        "Answer": "The expression $$( x^{3} + 2 y^{2} - z )^{5}$$ cannot be expanded using the Binomial Theorem because it cannot be rewritten as a binomial.",
+        "Answer Image Links": []
+    }
+]

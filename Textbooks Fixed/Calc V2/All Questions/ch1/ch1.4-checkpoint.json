@@ -1,0 +1,34 @@
+[
+    {
+        "Topic": "Checkpoint 1.21",
+        "Problem Statement": "",
+        "Question": "Find the definite integral of $$f ( x ) = x^{2} - 3 x$$ over the interval $$[ 1 , 3 ] .$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{10}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 1.22",
+        "Problem Statement": "",
+        "Question": "Find the net displacement and total distance traveled in meters given the velocity function $$f ( t ) = \\frac{1}{2} e^{t} - 2$$ over the interval $$[ 0 , 2 ] .$$",
+        "Image Links": [],
+        "Answer": "Net displacement: $$\\frac{e^{2} - 9}{2} \\approx - 0.8055 \\text{m;}$$ total distance traveled: $$4 \\text{ln} 4 - 7.5 + \\frac{e^{2}}{2} \\approx 1.740$$ m",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 1.23",
+        "Problem Statement": "",
+        "Question": "Suppose that, instead of remaining steady during the second half hour of Andrew\u2019s outing, the wind starts to die down according to the function $$v ( t ) = -10 t + 15 .$$ In other words, the wind speed is given by $$v ( t ) = \\{ \\left .\\begin{matrix}{aaa}20 t + 5 & \\text{for} & 0 \\le t \\le \\frac{1}{2} \\\\ - 10 t + 15 & \\text{for} & \\frac{1}{2} \\le t \\le 1 .\\end{matrix}\\right .$$ Under these conditions, how far from his starting point is Andrew after 1 hour?",
+        "Image Links": [],
+        "Answer": "17.5 mi",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 1.24",
+        "Problem Statement": "",
+        "Question": "Integrate the function $$\\int_{-2}^{2} x^{4} d x .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{64}{5}$$",
+        "Answer Image Links": []
+    }
+]

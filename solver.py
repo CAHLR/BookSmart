@@ -20,8 +20,10 @@ from __future__ import annotations
 
 import argparse
 import json
+import mimetypes
 import os
 import time
+import urllib.request
 from pathlib import Path
 from typing import Any
 
@@ -156,17 +158,47 @@ def _get_gemini_client(api_key: str):
     return genai.Client(api_key=api_key)
 
 
+def _build_gemini_contents(problem_text: str, image_links: list | None) -> list[Any]:
+    from google.genai import types
+
+    prompt = f"Please solve: {problem_text}"
+    contents: list[Any] = [prompt]
+
+    for url in image_links or []:
+        if not isinstance(url, str) or not url.strip():
+            continue
+        try:
+            with urllib.request.urlopen(url, timeout=30) as response:
+                image_bytes = response.read()
+                mime_type = None
+                if hasattr(response, "headers") and response.headers is not None:
+                    mime_type = response.headers.get_content_type()
+
+            if not mime_type or mime_type == "application/octet-stream":
+                guessed_type, _ = mimetypes.guess_type(url)
+                mime_type = guessed_type
+            if not mime_type:
+                mime_type = "image/png"
+
+            contents.append(types.Part.from_bytes(data=image_bytes, mime_type=mime_type))
+        except Exception as e:
+            print(f"⚠️  Failed to load image {url}: {e}")
+
+    return contents
+
+
 def _solve_gemini(
     client: Any,
     problem_text: str,
+    image_links: list | None,
     api_model: str,
 ) -> str | None:
-    prompt = f"Please solve: {problem_text}"
+    contents = _build_gemini_contents(problem_text, image_links)
     for attempt in range(5):
         try:
             response = client.models.generate_content(
                 model=api_model,
-                contents=prompt,
+                contents=contents,
             )
             return (response.text or "").strip() or None
         except Exception as e:
@@ -220,7 +252,7 @@ def process_file(
         elif provider == "deepseek":
             answer = _solve_deepseek(client, text, imgs, api_model)
         elif provider == "gemini":
-            answer = _solve_gemini(client, text, api_model)
+            answer = _solve_gemini(client, text, imgs, api_model)
         if answer:
             q[model_key] = answer
             modified = True

@@ -1,0 +1,178 @@
+[
+    {
+        "Topic": "Try It 9.1",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\text{unicode[:-]} \\sqrt{49}$$ \u24d1 $$\\sqrt{225}$$ .",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-7$$ \u24d1 $$15$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.2",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{64}$$ \u24d1 $$\\text{unicode[:-]} \\sqrt{121}$$ .",
+        "Image Links": [],
+        "Answer": "\u24d0 $$8$$ \u24d1 $$-11$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.3",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{-196}$$ \u24d1 $$\\text{unicode[:-]} \\sqrt{81}$$ .",
+        "Image Links": [],
+        "Answer": "\u24d0 not a real number \u24d1 $$-9$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.4",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\text{unicode[:-]} \\sqrt{49}$$ \u24d1 $$\\sqrt{-121}$$ .",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-7$$ \u24d1 not a real number",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.5",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{9} + \\sqrt{16}$$ \u24d1 $$\\sqrt{9 + 16}$$ .",
+        "Image Links": [],
+        "Answer": "\u24d0 7 \u24d1 5",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.6",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{64 + 225}$$ \u24d1 $$\\sqrt{64} + \\sqrt{225}$$ .",
+        "Image Links": [],
+        "Answer": "\u24d0 17 \u24d1 $$23$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.7",
+        "Problem Statement": "",
+        "Question": "Estimate the square root $$\\sqrt{38}$$ between two consecutive whole numbers.",
+        "Image Links": [],
+        "Answer": "$$6 < \\sqrt{38} < 7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.8",
+        "Problem Statement": "",
+        "Question": "Estimate the square root $$\\sqrt{84}$$ between two consecutive whole numbers.",
+        "Image Links": [],
+        "Answer": "$$9 < \\sqrt{84} < 10$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.9",
+        "Problem Statement": "",
+        "Question": "Round $$\\sqrt{11}$$ to two decimal places.",
+        "Image Links": [],
+        "Answer": "$$\\approx 3.32$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.10",
+        "Problem Statement": "",
+        "Question": "Round $$\\sqrt{13}$$ to two decimal places.",
+        "Image Links": [],
+        "Answer": "$$\\approx 3.61$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.11",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{y^{8}}$$ \u24d1 $$\\sqrt{z^{12}}$$ .",
+        "Image Links": [],
+        "Answer": "\u24d0 $$y^{4}$$ \u24d1 $$z^{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.12",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{m^{4}}$$ \u24d1 $$\\sqrt{b^{10}}$$ .",
+        "Image Links": [],
+        "Answer": "\u24d0 $$m^{2}$$ \u24d1 $$b^{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.13",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\sqrt{64 x^{2}}$$ .",
+        "Image Links": [],
+        "Answer": "$$8 x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.14",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\sqrt{169 y^{2}}$$ .",
+        "Image Links": [],
+        "Answer": "$$13 y$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.15",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\text{unicode[:-]} \\sqrt{121 y^{2}}$$ .",
+        "Image Links": [],
+        "Answer": "$$-11 y$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.16",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\text{unicode[:-]} \\sqrt{100 p^{2}}$$ .",
+        "Image Links": [],
+        "Answer": "$$-10 p$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.17",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\sqrt{100 a^{2} b^{2}}$$ .",
+        "Image Links": [],
+        "Answer": "$$10 a b$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.18",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\sqrt{225 m^{2} n^{2}}$$ .",
+        "Image Links": [],
+        "Answer": "$$15 m n$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.19",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\sqrt{49 x^{30}}$$ .",
+        "Image Links": [],
+        "Answer": "$$7 x^{15}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.20",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\sqrt{81 w^{36}}$$ .",
+        "Image Links": [],
+        "Answer": "$$9 w^{18}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.21",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\sqrt{169 x^{10} y^{14}}$$ .",
+        "Image Links": [],
+        "Answer": "$$13 x^{5} y^{7}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.22",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\sqrt{144 p^{12} q^{20}}$$ .",
+        "Image Links": [],
+        "Answer": "$$12 p^{6} q^{10}$$",
+        "Answer Image Links": []
+    }
+]

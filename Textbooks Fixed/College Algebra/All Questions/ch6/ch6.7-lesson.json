@@ -1,0 +1,436 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "With what kind of exponential model would half-life be associated? What role does half-life play in these models?",
+        "Image Links": [],
+        "Answer": "Half-life is a measure of decay and is thus associated with exponential decay models. The half-life of a substance or quantity is the amount of time it takes for half of the initial amount of that substance or quantity to decay.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What is carbon dating? Why does it work? Give an example in which carbon dating would be useful.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "With what kind of exponential model would doubling time be associated? What role does doubling time play in these models?",
+        "Image Links": [],
+        "Answer": "Doubling time is a measure of growth and is thus associated with exponential growth models. The doubling time of a substance or quantity is the amount of time it takes for the initial amount of that substance or quantity to double in size.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Define Newton\u2019s Law of Cooling. Then name at least three real-world situations where Newton\u2019s Law of Cooling would be applied.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What is an order of magnitude? Why are orders of magnitude useful? Give an example to explain.",
+        "Image Links": [],
+        "Answer": "An order of magnitude is the nearest power of ten by which a quantity exponentially grows. It is also an approximate position on a logarithmic scale; Sample response: Orders of magnitude are useful when making comparisons between numbers that differ by a great amount. For example, the mass of Saturn is 95 times greater than the mass of Earth. This is the same as saying that the mass of Saturn is about $$10^{\\text{2}}$$ times, or 2 orders of magnitude greater, than the mass of Earth.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "",
+        "Question": "The temperature of an object in degrees Fahrenheit after t minutes is represented by the equation $$T ( t ) = 68 e^{- 0.0174 t} + 72.$$ To the nearest degree, what is the temperature of the object after one and a half hours?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the logistic growth model $$f ( x ) = \\frac{150}{1 + 8 e^{- 2 x}} .$$",
+        "Question": "Find and interpret $$f ( 0 ) .$$ Round to the nearest tenth.",
+        "Image Links": [],
+        "Answer": "$$f ( 0 ) \\approx 16.7 ;$$ The amount initially present is about 16.7 units.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the logistic growth model $$f ( x ) = \\frac{150}{1 + 8 e^{- 2 x}} .$$",
+        "Question": "Find and interpret $$f ( 4 ) .$$ Round to the nearest tenth.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the logistic growth model $$f ( x ) = \\frac{150}{1 + 8 e^{- 2 x}} .$$",
+        "Question": "Find the carrying capacity.",
+        "Image Links": [],
+        "Answer": "150",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the logistic growth model $$f ( x ) = \\frac{150}{1 + 8 e^{- 2 x}} .$$",
+        "Question": "Graph the model.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the logistic growth model $$f ( x ) = \\frac{150}{1 + 8 e^{- 2 x}} .$$",
+        "Question": "Determine whether the data from the table could best be represented as a function that is linear, exponential, or logarithmic. Then write a formula for a model that represents the data. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\n$$x$$ & $$f ( x )$$ \\\\ \\hline\n-2 & 0.694 \\\\ \\hline\n-1 & 0.833 \\\\ \\hline\n0 & 1 \\\\ \\hline\n1 & 1.2 \\\\ \\hline\n2 & 1.44 \\\\ \\hline\n3 & 1.728 \\\\ \\hline\n4 & 2.074 \\\\ \\hline\n5 & 2.488 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "exponential; $$f ( x ) = 1.2^{x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use the logistic growth model $$f ( x ) = \\frac{150}{1 + 8 e^{- 2 x}} .$$",
+        "Question": "Rewrite $$f ( x ) = 1.68 ( 0.65 )^{x}$$ as an exponential equation with base $$e$$ to five decimal places.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, enter the data from each table into a graphing calculator and graph the resulting scatter plots. Determine whether the data from the table could represent a function that is linear, exponential, or logarithmic.",
+        "Question": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\n$$x$$ & $$f ( x )$$ \\\\ \\hline\n1 & 2 \\\\ \\hline\n2 & 4.079 \\\\ \\hline\n3 & 5.296 \\\\ \\hline\n4 & 6.159 \\\\ \\hline\n5 & 6.828 \\\\ \\hline\n6 & 7.375 \\\\ \\hline\n7 & 7.838 \\\\ \\hline\n8 & 8.238 \\\\ \\hline\n9 & 8.592 \\\\ \\hline\n10 & 8.908 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "logarithmic",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f2c565eac9430b9a10583283fca6fefedb2e55b9"
+        ]
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, enter the data from each table into a graphing calculator and graph the resulting scatter plots. Determine whether the data from the table could represent a function that is linear, exponential, or logarithmic.",
+        "Question": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\n$$x$$ & $$f ( x )$$ \\\\ \\hline\n1 & 2.4 \\\\ \\hline\n2 & 2.88 \\\\ \\hline\n3 & 3.456 \\\\ \\hline\n4 & 4.147 \\\\ \\hline\n5 & 4.977 \\\\ \\hline\n6 & 5.972 \\\\ \\hline\n7 & 7.166 \\\\ \\hline\n8 & 8.6 \\\\ \\hline\n9 & 10.32 \\\\ \\hline\n10 & 12.383 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, enter the data from each table into a graphing calculator and graph the resulting scatter plots. Determine whether the data from the table could represent a function that is linear, exponential, or logarithmic.",
+        "Question": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\n$$x$$ & $$f ( x )$$ \\\\ \\hline\n4 & 9.429 \\\\ \\hline\n5 & 9.972 \\\\ \\hline\n6 & 10.415 \\\\ \\hline\n7 & 10.79 \\\\ \\hline\n8 & 11.115 \\\\ \\hline\n9 & 11.401 \\\\ \\hline\n10 & 11.657 \\\\ \\hline\n11 & 11.889 \\\\ \\hline\n12 & 12.101 \\\\ \\hline\n13 & 12.295 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "logarithmic",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f56273a501cbf3150c34abca2b51cf4df9734f8c"
+        ]
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, enter the data from each table into a graphing calculator and graph the resulting scatter plots. Determine whether the data from the table could represent a function that is linear, exponential, or logarithmic.",
+        "Question": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\n$$x$$ & $$f ( x )$$ \\\\ \\hline\n1.25 & 5.75 \\\\ \\hline\n2.25 & 8.75 \\\\ \\hline\n3.56 & 12.68 \\\\ \\hline\n4.2 & 14.6 \\\\ \\hline\n5.65 & 18.95 \\\\ \\hline\n6.75 & 22.25 \\\\ \\hline\n7.25 & 23.75 \\\\ \\hline\n8.6 & 27.8 \\\\ \\hline\n9.25 & 29.75 \\\\ \\hline\n10.5 & 33.5 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a graphing calculator and this scenario: the population of a fish farm in $$t$$ years is modeled by the equation $$P ( t ) = \\frac{1000}{1 + 9 e^{- 0.6 t}} .$$",
+        "Question": "Graph the function.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/cc89a2c66cb6479f0f7f65b1229ba96f41b323c1"
+        ]
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a graphing calculator and this scenario: the population of a fish farm in $$t$$ years is modeled by the equation $$P ( t ) = \\frac{1000}{1 + 9 e^{- 0.6 t}} .$$",
+        "Question": "What is the initial population of fish?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a graphing calculator and this scenario: the population of a fish farm in $$t$$ years is modeled by the equation $$P ( t ) = \\frac{1000}{1 + 9 e^{- 0.6 t}} .$$",
+        "Question": "To the nearest tenth, what is the doubling time for the fish population?",
+        "Image Links": [],
+        "Answer": "about $$1.4$$ years",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a graphing calculator and this scenario: the population of a fish farm in $$t$$ years is modeled by the equation $$P ( t ) = \\frac{1000}{1 + 9 e^{- 0.6 t}} .$$",
+        "Question": "To the nearest whole number, what will the fish population be after $$2$$ years?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a graphing calculator and this scenario: the population of a fish farm in $$t$$ years is modeled by the equation $$P ( t ) = \\frac{1000}{1 + 9 e^{- 0.6 t}} .$$",
+        "Question": "To the nearest tenth, how long will it take for the population to reach $$900 ?$$",
+        "Image Links": [],
+        "Answer": "about $$7.3$$ years",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a graphing calculator and this scenario: the population of a fish farm in $$t$$ years is modeled by the equation $$P ( t ) = \\frac{1000}{1 + 9 e^{- 0.6 t}} .$$",
+        "Question": "What is the carrying capacity for the fish population? Justify your answer using the graph of $$P .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "A substance has a half-life of 2.045 minutes. If the initial amount of the substance was 132.8 grams, how many half-lives will have passed before the substance decays to 8.3 grams? What is the total time of decay?",
+        "Image Links": [],
+        "Answer": "$$4$$ half-lives; $$8.18$$ minutes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "The formula for an increasing population is given by $$P ( t ) = P_{0} e^{r t}$$ where $$P_{0}$$ is the initial population and $$r > 0.$$ Derive a general formula for the time t it takes for the population to increase by a factor of M .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Recall the formula for calculating the magnitude of an earthquake, $$M = \\frac{2}{3} \\log ( \\frac{S}{S_{0}} ) .$$ Show each step for solving this equation algebraically for the seismic moment $$S .$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{a}M = \\frac{2}{3} \\log ( \\frac{S}{S_{0}} ) \\\\ \\log ( \\frac{S}{S_{0}} ) = \\frac{3}{2} M \\\\ \\frac{S}{S_{0}} = 10^{\\frac{3 M}{2}} \\\\ S = S_{0} 10^{\\frac{3 M}{2}}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "What is the y -intercept of the logistic growth model $$y = \\frac{c}{1 + a e^{- r x}} ?$$ Show the steps for calculation. What does this point tell us about the population?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Prove that $$b^{x} = e^{x \\ln{} ( b )}$$ for positive $$b \\ne 1.$$",
+        "Image Links": [],
+        "Answer": "Let $$y = b^{x}$$ for some non-negative real number $$b$$ such that $$b \\ne 1.$$ Then, $$\\left .\\begin{matrix}{a}\\ln{(} y ) = \\ln{} ( b^{x} ) \\\\ \\ln{(} y ) = x \\ln{} ( b ) \\\\ e^{\\ln{(} y )} = e^{x \\ln{} ( b )} \\\\ \\  \\  \\  \\  \\  \\  y = e^{x \\ln{} ( b )}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, use this scenario: A doctor prescribes 125 milligrams of a therapeutic drug that decays by about 30% each hour.",
+        "Question": "To the nearest hour, what is the half-life of the drug?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, use this scenario: A doctor prescribes 125 milligrams of a therapeutic drug that decays by about 30% each hour.",
+        "Question": "Write an exponential model representing the amount of the drug remaining in the patient\u2019s system after $$t$$ hours. Then use the formula to find the amount of the drug that would remain in the patient\u2019s system after 3 hours. Round to the nearest milligram.",
+        "Image Links": [],
+        "Answer": "$$A = 125 e^{( - 0.3567 t )} ; A \\approx 43$$ mg",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, use this scenario: A doctor prescribes 125 milligrams of a therapeutic drug that decays by about 30% each hour.",
+        "Question": "Using the model found in the previous exercise, find $$f ( 10 )$$ and interpret the result. Round to the nearest hundredth.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, use this scenario: A tumor is injected with $$0.5$$ grams of Iodine-125, which has a decay rate of $$1.15%$$ per day.",
+        "Question": "To the nearest day, how long will it take for half of the Iodine-125 to decay?",
+        "Image Links": [],
+        "Answer": "about $$60$$ days",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, use this scenario: A tumor is injected with $$0.5$$ grams of Iodine-125, which has a decay rate of $$1.15%$$ per day.",
+        "Question": "Write an exponential model representing the amount of Iodine-125 remaining in the tumor after $$t$$ days. Then use the formula to find the amount of Iodine-125 that would remain in the tumor after 60 days. Round to the nearest tenth of a gram.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, use this scenario: A tumor is injected with $$0.5$$ grams of Iodine-125, which has a decay rate of $$1.15%$$ per day.",
+        "Question": "A scientist begins with $$\\text{250}$$ grams of a radioactive substance. After $$\\text{250}$$ minutes, the sample has decayed to $$\\text{32}$$ grams. Rounding to five decimal places, write an exponential equation representing this situation. To the nearest minute, what is the half-life of this substance?",
+        "Image Links": [],
+        "Answer": "$$A ( t ) = 250 e^{( - 0.00822 t )} ;$$ half-life: about $$\\text{84}$$ minutes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, use this scenario: A tumor is injected with $$0.5$$ grams of Iodine-125, which has a decay rate of $$1.15%$$ per day.",
+        "Question": "The half-life of Radium-226 is $$1590$$ years. What is the annual decay rate? Express the decimal result to four decimal places and the percentage to two decimal places.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, use this scenario: A tumor is injected with $$0.5$$ grams of Iodine-125, which has a decay rate of $$1.15%$$ per day.",
+        "Question": "The half-life of Erbium-165 is $$\\text{10} \\text{.4}$$ hours. What is the hourly decay rate? Express the decimal result to four decimal places and the percentage to two decimal places.",
+        "Image Links": [],
+        "Answer": "$$r \\approx - 0.0667 ,$$ So the hourly decay rate is about $$6.67 %$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, use this scenario: A tumor is injected with $$0.5$$ grams of Iodine-125, which has a decay rate of $$1.15%$$ per day.",
+        "Question": "A wooden artifact from an archeological dig contains 60 percent of the carbon-14 that is present in living trees. To the nearest year, about how many years old is the artifact? (The half-life of carbon-14 is $$\\text{573} 0$$ years.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, use this scenario: A tumor is injected with $$0.5$$ grams of Iodine-125, which has a decay rate of $$1.15%$$ per day.",
+        "Question": "A research student is working with a culture of bacteria that doubles in size every twenty minutes. The initial population count was $$1350$$ bacteria. Rounding to five decimal places, write an exponential equation representing this situation. To the nearest whole number, what is the population size after $$3$$ hours?",
+        "Image Links": [],
+        "Answer": "$$f ( t ) = 1350 e^{( 0.03466 t )} ;$$ after 3 hours: $$P ( 180 ) \\approx 691 , 200$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, use this scenario: A biologist recorded a count of $$360$$ bacteria present in a culture after 5 minutes and 1000 bacteria present after 20 minutes.",
+        "Question": "To the nearest whole number, what was the initial population in the culture?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, use this scenario: A biologist recorded a count of $$360$$ bacteria present in a culture after 5 minutes and 1000 bacteria present after 20 minutes.",
+        "Question": "Rounding to six decimal places, write an exponential equation representing this situation. To the nearest minute, how long did it take the population to double?",
+        "Image Links": [],
+        "Answer": "$$f ( t ) = 256 e^{( 0.068110 t )} ;$$ doubling time: about $$10$$ minutes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, use this scenario: A pot of warm soup with an internal temperature of $$\\text{100\u00b0}$$ Fahrenheit was taken off the stove to cool in a $$\\text{69\u00b0\u00a0F}$$ room. After fifteen minutes, the internal temperature of the soup was $$\\text{95\u00b0\u00a0F} \\text{.}$$",
+        "Question": "Use Newton\u2019s Law of Cooling to write a formula that models this situation.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, use this scenario: A pot of warm soup with an internal temperature of $$\\text{100\u00b0}$$ Fahrenheit was taken off the stove to cool in a $$\\text{69\u00b0\u00a0F}$$ room. After fifteen minutes, the internal temperature of the soup was $$\\text{95\u00b0\u00a0F} \\text{.}$$",
+        "Question": "To the nearest minute, how long will it take the soup to cool to $$\\text{80\u00b0\u00a0F?}$$",
+        "Image Links": [],
+        "Answer": "about $$\\text{88}$$ minutes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, use this scenario: A pot of warm soup with an internal temperature of $$\\text{100\u00b0}$$ Fahrenheit was taken off the stove to cool in a $$\\text{69\u00b0\u00a0F}$$ room. After fifteen minutes, the internal temperature of the soup was $$\\text{95\u00b0\u00a0F} \\text{.}$$",
+        "Question": "To the nearest degree, what will the temperature be after $$2$$ and a half hours?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, use this scenario: A turkey is taken out of the oven with an internal temperature of $$\\text{165\u00b0F}$$ and is allowed to cool in a $$\\text{75\u00b0F}$$ room. After half an hour, the internal temperature of the turkey is $$\\text{145\u00b0F} \\text{.}$$",
+        "Question": "Write a formula that models this situation.",
+        "Image Links": [],
+        "Answer": "$$T ( t ) = 90 e^{( - 0.008377 t )} + 75 ,$$ where $$t$$ is in minutes.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, use this scenario: A turkey is taken out of the oven with an internal temperature of $$\\text{165\u00b0F}$$ and is allowed to cool in a $$\\text{75\u00b0F}$$ room. After half an hour, the internal temperature of the turkey is $$\\text{145\u00b0F} \\text{.}$$",
+        "Question": "To the nearest degree, what will the temperature be after 50 minutes?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, use this scenario: A turkey is taken out of the oven with an internal temperature of $$\\text{165\u00b0F}$$ and is allowed to cool in a $$\\text{75\u00b0F}$$ room. After half an hour, the internal temperature of the turkey is $$\\text{145\u00b0F} \\text{.}$$",
+        "Question": "To the nearest minute, how long will it take the turkey to cool to $$\\text{110\u00b0\u00a0F?}$$",
+        "Image Links": [],
+        "Answer": "about $$\\text{113}$$ minutes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, find the value of the number shown on each logarithmic scale. Round all answers to the nearest thousandth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ae9630901d22ee6d43e24d723e4855df17f9088b"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, find the value of the number shown on each logarithmic scale. Round all answers to the nearest thousandth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/812f362ec5108166e6673f61bb451ef56eb7fb32"
+        ],
+        "Answer": "$$\\log ( x ) = 1.5 ; x \\approx 31.623$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, find the value of the number shown on each logarithmic scale. Round all answers to the nearest thousandth.",
+        "Question": "Plot each set of approximate values of intensity of sounds on a logarithmic scale: Whisper: $$10^{- 10} \\  \\frac{W}{m^{2}} ,$$ Vacuum: $$10^{- 4} \\frac{W}{m^{2}} ,$$ Jet: $$10^{2} \\  \\frac{W}{m^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, find the value of the number shown on each logarithmic scale. Round all answers to the nearest thousandth.",
+        "Question": "Recall the formula for calculating the magnitude of an earthquake, $$M = \\frac{2}{3} \\log ( \\frac{S}{S_{0}} ) .$$ One earthquake has magnitude $$\\text{3} . \\text{9}$$ on the MMS scale. If a second earthquake has $$\\text{75} 0$$ times as much energy as the first, find the magnitude of the second quake. Round to the nearest hundredth.",
+        "Image Links": [],
+        "Answer": "MMS magnitude: $$5.82$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, use this scenario: The equation $$N ( t ) = \\frac{500}{1 + 49 e^{- 0.7 t}}$$ models the number of people in a town who have heard a rumor after t days.",
+        "Question": "How many people started the rumor?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, use this scenario: The equation $$N ( t ) = \\frac{500}{1 + 49 e^{- 0.7 t}}$$ models the number of people in a town who have heard a rumor after t days.",
+        "Question": "To the nearest whole number, how many people will have heard the rumor after 3 days?",
+        "Image Links": [],
+        "Answer": "$$N ( 3 ) \\approx 71$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, use this scenario: The equation $$N ( t ) = \\frac{500}{1 + 49 e^{- 0.7 t}}$$ models the number of people in a town who have heard a rumor after t days.",
+        "Question": "As $$t$$ increases without bound, what value does $$N ( t )$$ approach? Interpret your answer.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercise, choose the correct answer choice.",
+        "Question": "A doctor injects a patient with 13 milligrams of radioactive dye that decays exponentially. After 12 minutes, there are 4.75 milligrams of dye remaining in the patient\u2019s system. Which is an appropriate model for this situation? \u24d0 $$f ( t ) = 13 ( 0.0805 )^{t}$$ \u24d1 $$f ( t ) = 13 e^{0.9195 t}$$ \u24d2 $$f ( t ) = 13 e^{( - 0.0839 t )}$$ \u24d3 $$f ( t ) = \\frac{4.75}{1 + 13 e^{- 0.83925 t}}$$",
+        "Image Links": [],
+        "Answer": "C",
+        "Answer Image Links": []
+    }
+]

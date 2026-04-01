@@ -1,0 +1,114 @@
+[
+    {
+        "Topic": "11.2 Magnetic Fields and Lines",
+        "Problem Statement": "",
+        "Question": "Discuss the similarities and differences between the electrical force on a charge and the magnetic force on a charge.",
+        "Image Links": [],
+        "Answer": "Both are field dependent. Electrical force is dependent on charge, whereas magnetic force is dependent on current or rate of charge flow.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Magnetic Fields and Lines",
+        "Problem Statement": "",
+        "Question": "(a) Is it possible for the magnetic force on a charge moving in a magnetic field to be zero? (b) Is it possible for the electric force on a charge moving in an electric field to be zero? (c) Is it possible for the resultant of the electric and magnetic forces on a charge moving simultaneously through both fields to be zero?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Motion of a Charged Particle in a Magnetic Field",
+        "Problem Statement": "",
+        "Question": "At a given instant, an electron and a proton are moving with the same velocity in a constant magnetic field. Compare the magnetic forces on these particles. Compare their accelerations.",
+        "Image Links": [],
+        "Answer": "The magnitude of the proton and electron magnetic forces are the same since they have the same amount of charge. The direction of these forces however are opposite of each other. The accelerations are opposite in direction and the electron has a larger acceleration than the proton due to its smaller mass.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Motion of a Charged Particle in a Magnetic Field",
+        "Problem Statement": "",
+        "Question": "Does increasing the magnitude of a uniform magnetic field through which a charge is traveling necessarily mean increasing the magnetic force on the charge? Does changing the direction of the field necessarily mean a change in the force on the charge?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Motion of a Charged Particle in a Magnetic Field",
+        "Problem Statement": "",
+        "Question": "An electron passes through a magnetic field without being deflected. What do you conclude about the magnetic field?",
+        "Image Links": [],
+        "Answer": "The magnetic field must point parallel or anti-parallel to the velocity.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Motion of a Charged Particle in a Magnetic Field",
+        "Problem Statement": "",
+        "Question": "If a charged particle moves in a straight line and no non-magnetic force acts on it, can you conclude that there is no magnetic field present?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Motion of a Charged Particle in a Magnetic Field",
+        "Problem Statement": "",
+        "Question": "How could you determine which pole of an electromagnet is north and which pole is south?",
+        "Image Links": [],
+        "Answer": "A compass points toward the north pole of an electromagnet.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Magnetic Force on a Current-Carrying Conductor",
+        "Problem Statement": "",
+        "Question": "Describe the error that results from accidently using your left rather than your right hand when determining the direction of a magnetic force.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Magnetic Force on a Current-Carrying Conductor",
+        "Problem Statement": "",
+        "Question": "Considering the magnetic force law, are the velocity and magnetic field always perpendicular? Are the force and velocity always perpendicular? What about the force and magnetic field?",
+        "Image Links": [],
+        "Answer": "Velocity and magnetic field can be set together in any direction. If there is a force, the velocity is perpendicular to it. The magnetic field is also perpendicular to the force if it exists.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Magnetic Force on a Current-Carrying Conductor",
+        "Problem Statement": "",
+        "Question": "Why can a nearby magnet distort a cathode ray tube television picture?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Magnetic Force on a Current-Carrying Conductor",
+        "Problem Statement": "",
+        "Question": "A magnetic field exerts a force on the moving electrons in a current carrying wire. What exerts the force on a wire?",
+        "Image Links": [],
+        "Answer": "A force on a wire is exerted by an external magnetic field created by a wire or another magnet.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Magnetic Force on a Current-Carrying Conductor",
+        "Problem Statement": "",
+        "Question": "There are regions where the magnetic field of earth is almost perpendicular to the surface of Earth. What difficulty does this cause in the use of a compass?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.6 The Hall Effect",
+        "Problem Statement": "",
+        "Question": "Hall potentials are much larger for poor conductors than for good conductors with the same current. Why?",
+        "Image Links": [],
+        "Answer": "Poor conductors have a lower charge carrier density, n , which, based on the Hall effect formula, relates to a higher Hall potential. Good conductors have a higher charge carrier density, thereby a lower Hall potential.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.7 Applications of Magnetic Forces and Fields",
+        "Problem Statement": "",
+        "Question": "Describe the primary function of the electric field and the magnetic field in a cyclotron.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

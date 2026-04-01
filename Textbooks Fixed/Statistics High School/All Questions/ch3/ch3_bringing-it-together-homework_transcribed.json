@@ -1,0 +1,98 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A previous year, the weights of the members of a California football team and a Texas football team were published in a newspaper The factual data are compiled into Table 3.25 . \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\nShirt# & \u2264 210 & 211-250 & 251-290 & 290\u2264 \\\\ \\hline\n1-33 & 21 & 5 & 0 & 0 \\\\ \\hline\n34-66 & 6 & 18 & 7 & 4 \\\\ \\hline\n66-99 & 6 & 12 & 22 & 5 \\\\ \\hline\n\\end{tabular}\n\\end{table} For the following, suppose that you randomly select one player from the California team or the Texas team. If having a shirt number from one to 33 and weighing at most 210 pounds were independent events, then what should be true about P (Shirt# 1-33|\u2264 210 pounds)?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The probability that a male develops some form of cancer in his lifetime is .4567. The probability that a male has at least one false-positive test result, meaning the test comes back for cancer when the man does not have it, is .51. Some of the following questions do not have enough information for you to answer them. Write not enough information for those answers. Let C = a man develops cancer in his lifetime and P = a man has at least one false-positive. a) P ( C ) = ______ b) P ( P | C ) = ______ c) P ( P | C' ) = ______ d) If a test comes up positive, based upon numerical values, can you assume that man has cancer? Justify numerically and explain why or why not.",
+        "Image Links": [],
+        "Answer": "a) P ( C ) = .4567 b) not enough information c) not enough information d) no, because over half (0.51) of men have at least one false-positive text",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Given events G and H : P ( G ) = .43; P ( H ) = .26; P ( H AND G ) = .14 a) Find P ( H OR G ). b) Find the probability of the complement of event ( H AND G ). c) Find the probability of the complement of event ( H OR G ).",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Given events J and K : P ( J ) = .18; P ( K ) = .37; P ( J OR K ) = .45 a) Find P ( J AND K ). b) Find the probability of the complement of event ( J AND K ). c) Find the probability of the complement of event ( J OR K ).",
+        "Image Links": [],
+        "Answer": "a) P ( J OR K ) = P ( J ) + P ( K ) - P ( J AND K ); .45 = .18 + .37 - P ( J AND K ); solve to find P ( J AND K ) = .10 b) P (NOT ( J AND K )) = 1 - P ( J AND K ) = 1 - 010 = .90 c) P (NOT ( J OR K )) = 1 - P ( J OR K ) = 1 - .45 = .55",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next two exercises. Suppose that you have eight cards. Five are green and three are yellow. The cards are well shuffled.",
+        "Question": "Suppose that you randomly draw two cards, one at a time, with replacement . Let G 1 = first card is green Let G 2 = second card is green a) Draw a tree diagram of the situation. b) Find P ( G 1 AND G 2 ). c) Find P (at least one green). d) Find P ( G 2 | G 1 ). e) Are G 2 and G 1 independent events?  Explain why or why not.",
+        "Image Links": [],
+        "Answer": "a) Figure 3.24 b) P ( GG ) = $$( \\frac{5}{8} ) ( \\frac{5}{8} )$$ = $$\\frac{25}{64}$$ c) P (at least one green) = P ( GG ) + P ( GY ) + P ( YG ) = $$\\frac{25}{64}$$ + $$\\frac{15}{64}$$ + $$\\frac{15}{64}$$ = $$\\frac{55}{64}$$ d) P ( G | G ) = $$\\frac{5}{8}$$ e) Yes, they are independent because the first card is placed back in the bag before the second card is drawn. The composition of cards in the bag remains the same from draw one to draw two.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next two exercises. Suppose that you have eight cards. Five are green and three are yellow. The cards are well shuffled.",
+        "Question": "Suppose that you randomly draw two cards, one at a time, without replacement . G 1 = first card is green G 2 = second card is green a) Draw a tree diagram of the situation. b) Find P ( G 1 AND G 2 ). c) Find P (at least one green). d) Find P ( G 2 | G 1 ). e) Are G 2 and G 1 independent events? Explain why or why not.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next two exercises. The percent of licensed U.S. drivers (from a recent year) who are female is 48.60. Of the females, 5.03 percent are age 19 and under; 81.36 percent are age 20-64; 13.61 percent are age 65 or over. Of the licensed U.S. male drivers, 5.04 percent are age 19 and under; 81.43 percent are age 20-64; 13.53 percent are age 65 or over.",
+        "Question": "Complete the following: a) Construct a table or a tree diagram of the situation. b) Find P (driver is female). c) Find P (driver is age 65 or over|driver is female). d) Find P (driver is age 65 or over AND female). e) In words, explain the difference between the probabilities in Part c and Part d. f) Find P (driver is age 65 or over). g) Are being age 65 or over and being female mutually exclusive events? How do you know?",
+        "Image Links": [],
+        "Answer": "a) \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\n & <20 & 20-64 & >64 & Totals \\\\ \\hline\nFemale & .0244 & .3954 & .0661 & .486 \\\\ \\hline\nMale & .0259 & .4186 & .0695 & .514 \\\\ \\hline\nTotals & .0503 & .8140 & .1356 & 1 \\\\ \\hline\n\\end{tabular}\n\\end{table} b) P ( F ) = .486 c) P (>64| F ) = .1361 d) P (>64 and F ) = P ( F ) P (>64| F ) = (.486)(.1361) = .0661 e) P (>64| F ) is the percentage of female drivers who are 65 or older and P (>64 and F ) is the percentage of drivers who are female and 65 or older. f) P (> 64 ) = P (>64 and F ) + P (>64 and M ) = .1356 g) No, being female and 65 or older are not mutually exclusive because they can occur at the same time  P(>64 and F ) = .0661.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next two exercises. The percent of licensed U.S. drivers (from a recent year) who are female is 48.60. Of the females, 5.03 percent are age 19 and under; 81.36 percent are age 20-64; 13.61 percent are age 65 or over. Of the licensed U.S. male drivers, 5.04 percent are age 19 and under; 81.43 percent are age 20-64; 13.53 percent are age 65 or over.",
+        "Question": "Suppose that 10,000 U.S. licensed drivers are randomly selected. a) How many would you expect to be male? b) Using the table or tree diagram, construct a contingency table of gender versus age group. c) Using the contingency table, find the probability that out of the age 20-64 group, a randomly selected driver is female.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next two exercises. The percent of licensed U.S. drivers (from a recent year) who are female is 48.60. Of the females, 5.03 percent are age 19 and under; 81.36 percent are age 20-64; 13.61 percent are age 65 or over. Of the licensed U.S. male drivers, 5.04 percent are age 19 and under; 81.43 percent are age 20-64; 13.53 percent are age 65 or over.",
+        "Question": "Approximately 86.5 percent of Americans commute to work by car, truck, or van. Out of that group, 84.6 percent drive alone and 15.4 percent drive in a carpool. Approximately 3.9 percent walk to work and approximately 5.3 percent take public transportation. a) Construct a table or a tree diagram of the situation. Include a branch for all other modes of transportation to work. b) Assuming that the walkers walk alone, what percent of all commuters travel alone to work? c) Suppose that 1,000 workers are randomly selected. How many would you expect to travel alone to work? d) Suppose that 1,000 workers are randomly selected. How many would you expect to drive in a carpool?",
+        "Image Links": [],
+        "Answer": "a) \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\n & Car, Truck or Van & Walk & Public Transportation & Other & Totals \\\\ \\hline\nAlone & .7318 &  &  &  &  \\\\ \\hline\nNot Alone & .1332 &  &  &  &  \\\\ \\hline\nTotals & .8650 & .0390 & .0530 & .0430 & 1 \\\\ \\hline\n\\end{tabular}\n\\end{table} b) If we assume that all walkers are alone and that none from the other two groups travel alone (which is a big assumption) we have: P (Alone) = .7318 + .0390 = .7708. c) Make the same assumptions as in (b) we have: (.7708)(1,000) = 771 d) (.1332)(1,000) = 133",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next two exercises. The percent of licensed U.S. drivers (from a recent year) who are female is 48.60. Of the females, 5.03 percent are age 19 and under; 81.36 percent are age 20-64; 13.61 percent are age 65 or over. Of the licensed U.S. male drivers, 5.04 percent are age 19 and under; 81.43 percent are age 20-64; 13.53 percent are age 65 or over.",
+        "Question": "When the euro coin was introduced in 2002, two math professors had their statistics students test whether the Belgian one euro-coin was a fair coin. They spun the coin rather than tossing it and found that out of 250 spins, 140 showed a head (event H ) while 110 showed a tail (event T ). On that basis, they claimed that it is not a fair coin. a) Based on the given data, find P ( H ) and P ( T ). b) Use a tree to find the probabilities of each possible outcome for the experiment of spinning the coin twice. c) Use the tree to find the probability of obtaining exactly one head in two spins of the coin. d) Use the tree to find the probability of obtaining at least one head.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next two exercises. The percent of licensed U.S. drivers (from a recent year) who are female is 48.60. Of the females, 5.03 percent are age 19 and under; 81.36 percent are age 20-64; 13.61 percent are age 65 or over. Of the licensed U.S. male drivers, 5.04 percent are age 19 and under; 81.43 percent are age 20-64; 13.53 percent are age 65 or over.",
+        "Question": "Use the following information to answer the next two exercises. The following are real data from Santa Clara County, California. As of a certain time, there had been a total of 3,059 documented cases of a disease in the county. They were grouped into the following categories, with risk factors of becoming ill with the disease labeled as Methods A, B, and C and Other: \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\n & Method A & Method B & Method C & Other & Totals \\\\ \\hline\nFemale & 0 & 70 & 136 & 49 & ____ \\\\ \\hline\nMale & 2,146 & 463 & 60 & 135 & ____ \\\\ \\hline\nTotals & ____ & ____ & ____ & ____ & ____ \\\\ \\hline\n\\end{tabular}\n\\end{table} Suppose a person with a disease in Santa Clara County is randomly selected. a) Find P (Person is female). b) Find P (Person has a risk factor of method C). c) Find P (Person is female OR has a risk factor of method B). d) Find P (Person is female AND has a risk factor of method A). e) Find P (Person is male AND has a risk factor of method B). f) Find P (Person is female GIVEN person got the disease from method C). g) Construct a Venn diagram. Make one group females and the other group method C.",
+        "Image Links": [],
+        "Answer": "The completed contingency table is as follows: \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\n & Method A & Method B & Method C & Other & Totals \\\\ \\hline\nFemale & 0 & 70 & 136 & 49 & 255 \\\\ \\hline\nMale & 2,146 & 463 & 60 & 135 & 2,804 \\\\ \\hline\nTotals & 2,146 & 533 & 196 & 184 & 3,059 \\\\ \\hline\n\\end{tabular}\n\\end{table} a) $$\\frac{255}{3059}$$ b) $$\\frac{196}{3059}$$ c) $$\\frac{718}{3059}$$ d) 0 e) $$\\frac{463}{3059}$$ f) $$\\frac{136}{196}$$ g) Figure 3.25",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next two exercises. The percent of licensed U.S. drivers (from a recent year) who are female is 48.60. Of the females, 5.03 percent are age 19 and under; 81.36 percent are age 20-64; 13.61 percent are age 65 or over. Of the licensed U.S. male drivers, 5.04 percent are age 19 and under; 81.43 percent are age 20-64; 13.53 percent are age 65 or over.",
+        "Question": "Answer these questions using probability rules. Do NOT use the contingency table. Three thousand fifty-nine cases of a disease had been reported in Santa Clara County, California, through a certain date. Those cases will be our population. Of those cases, 6.4 percent obtained the disease through method C and 7.4 percent are female. Out of the females with the disease, 53.3 percent got the disease from method C. a) Find P (Person is female). b) Find P (Person obtained the disease through method C). c) Find P (Person is female GIVEN person got the disease from method C) d) Construct a Venn diagram representing this situation. Make one group females and the other group method C. Fill in all values as probabilities.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

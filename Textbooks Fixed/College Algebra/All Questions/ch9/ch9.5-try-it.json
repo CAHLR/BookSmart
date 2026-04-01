@@ -1,0 +1,82 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "A student is shopping for a new computer. He is deciding among 3 desktop computers and 4 laptop computers. What is the total number of computer options?",
+        "Image Links": [],
+        "Answer": "7",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "A restaurant offers a breakfast special that includes a breakfast sandwich, a side dish, and a beverage. There are 3 types of breakfast sandwiches, 4 side dish options, and 5 beverage choices. Find the total number of possible breakfast specials.",
+        "Image Links": [],
+        "Answer": "There are 60 possible breakfast specials.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "How many ways can the family line up for the portrait?",
+        "Image Links": [],
+        "Answer": "120",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "How many ways can the photographer line up 3 family members?",
+        "Image Links": [],
+        "Answer": "60",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #5",
+        "Problem Statement": "",
+        "Question": "How many ways can the family line up for the portrait if the parents are required to stand on each end?",
+        "Image Links": [],
+        "Answer": "12",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #6",
+        "Problem Statement": "",
+        "Question": "How many ways can the 7 actors line up?",
+        "Image Links": [],
+        "Answer": "$$P ( 7 , 7 ) = 5 , 040$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #7",
+        "Problem Statement": "",
+        "Question": "How many ways can 5 of the 7 actors be chosen to line up?",
+        "Image Links": [],
+        "Answer": "$$P ( 7 , 5 ) = 2 , 520$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #8",
+        "Problem Statement": "",
+        "Question": "An ice cream shop offers 10 flavors of ice cream. How many ways are there to choose 3 flavors for a banana split?",
+        "Image Links": [],
+        "Answer": "$$C ( 10 , 3 ) = 120$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #9",
+        "Problem Statement": "",
+        "Question": "A sundae bar at a wedding has 6 toppings to choose from. Any number of toppings can be chosen. How many different sundaes are possible?",
+        "Image Links": [],
+        "Answer": "64 sundaes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #10",
+        "Problem Statement": "",
+        "Question": "Find the number of rearrangements of the letters in the word CARRIER.",
+        "Image Links": [],
+        "Answer": "840",
+        "Answer Image Links": []
+    }
+]

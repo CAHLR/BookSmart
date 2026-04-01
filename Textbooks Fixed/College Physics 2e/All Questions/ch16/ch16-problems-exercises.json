@@ -1,0 +1,576 @@
+[
+    {
+        "Topic": "16.1 Hooke\u2019s Law: Stress and Strain Revisited",
+        "Problem Statement": "",
+        "Question": "Fish are hung on a spring scale to determine their mass (most fishermen feel no obligation to truthfully report the mass). (a) What is the force constant of the spring in such a scale if it the spring stretches 8.00 cm for a 10.0 kg load? (b) What is the mass of a fish that stretches the spring 5.50 cm? (c) How far apart are the half-kilogram marks on the scale?",
+        "Image Links": [],
+        "Answer": "(a) $$1 \\text{.} \\text{23} \\times \\text{10}^{3} \\text{N/m}$$ (b) $$6 \\text{.} \\text{88 kg}$$ (c) $$4 \\text{.00 mm}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.1 Hooke\u2019s Law: Stress and Strain Revisited",
+        "Problem Statement": "",
+        "Question": "It is weigh-in time for the local under-85-kg rugby team. The bathroom scale used to assess eligibility can be described by Hooke\u2019s law and is depressed 0.75 cm by its maximum load of 120 kg. (a) What is the spring\u2019s effective spring constant? (b) A player stands on the scales and depresses it by 0.48 cm. Is he eligible to play on this under-85 kg team?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.1 Hooke\u2019s Law: Stress and Strain Revisited",
+        "Problem Statement": "",
+        "Question": "One type of BB gun uses a spring-driven plunger to blow the BB from its barrel. (a) Calculate the force constant of its plunger\u2019s spring if you must compress it 0.150 m to drive the 0.0500-kg plunger to a top speed of 20.0 m/s. (b) What force must be exerted to compress the spring?",
+        "Image Links": [],
+        "Answer": "(a) 889 N/m (b) 133 N",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.1 Hooke\u2019s Law: Stress and Strain Revisited",
+        "Problem Statement": "",
+        "Question": "(a) The springs of a pickup truck act like a single spring with a force constant of $$1 \\text{.} \\text{30} \\times \\text{10}^{5} \\text{N/m}$$ . By how much will the truck be depressed by its maximum load of 1000 kg? (b) If the pickup truck has four identical springs, what is the force constant of each?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.1 Hooke\u2019s Law: Stress and Strain Revisited",
+        "Problem Statement": "",
+        "Question": "When an 80.0-kg man stands on a pogo stick, the spring is compressed 0.120 m. (a) What is the force constant of the spring? (b) Will the spring be compressed more when he hops down the road?",
+        "Image Links": [],
+        "Answer": "(a) $$6 \\text{.} \\text{53} \\times \\text{10}^{3} \\text{N/m}$$ (b) Yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.1 Hooke\u2019s Law: Stress and Strain Revisited",
+        "Problem Statement": "",
+        "Question": "A spring has a length of 0.200 m when a 0.300-kg mass hangs from it, and a length of 0.750 m when a 1.95-kg mass hangs from it. (a) What is the force constant of the spring? (b) What is the unloaded length of the spring?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.2 Period and Frequency in Oscillations",
+        "Problem Statement": "",
+        "Question": "What is the period of $$\\text{60} \\text{.} 0 \\text{Hz}$$ electrical power?",
+        "Image Links": [],
+        "Answer": "16.7 ms",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.2 Period and Frequency in Oscillations",
+        "Problem Statement": "",
+        "Question": "If your heart rate is 150 beats per minute during strenuous exercise, what is the time per beat in units of seconds?",
+        "Image Links": [],
+        "Answer": "$$0.400 s / \\text{beats}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.2 Period and Frequency in Oscillations",
+        "Problem Statement": "",
+        "Question": "Find the frequency of a tuning fork that takes $$2 \\text{.} \\text{50} \\times \\text{10}^{- 3} \\text{s}$$ to complete one oscillation.",
+        "Image Links": [],
+        "Answer": "400 Hz",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.2 Period and Frequency in Oscillations",
+        "Problem Statement": "",
+        "Question": "A stroboscope is set to flash every $$8 \\text{.} \\text{00} \\times \\text{10}^{- 5} \\text{s}$$ . What is the frequency of the flashes?",
+        "Image Links": [],
+        "Answer": "12,500 Hz",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.2 Period and Frequency in Oscillations",
+        "Problem Statement": "",
+        "Question": "A tire has a tread pattern with a crevice every 2.00 cm. Each crevice makes a single vibration as the tire moves. What is the frequency of these vibrations if the car moves at 30.0 m/s?",
+        "Image Links": [],
+        "Answer": "1.50 kHz",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.2 Period and Frequency in Oscillations",
+        "Problem Statement": "",
+        "Question": "Engineering Application Each piston of an engine makes a sharp sound every other revolution of the engine. (a) How fast is a race car going if its eight-cylinder engine emits a sound of frequency 750 Hz, given that the engine makes 2000 revolutions per kilometer? (b) At how many revolutions per minute is the engine rotating?",
+        "Image Links": [],
+        "Answer": "(a) 93.8 m/s (b) $$\\text{\n11\n         } \\text{\n.\n         } \n3\n           \n\u00d7\n           \\text{\n10\n           }^{\n3\n               } \\text{\nrev/min\n         }$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.3 Simple Harmonic Motion: A Special Periodic Motion",
+        "Problem Statement": "",
+        "Question": "A type of cuckoo clock keeps time by having a mass bouncing on a spring, usually something cute like a cherub in a chair. What force constant is needed to produce a period of 0.500 s for a 0.0150-kg mass?",
+        "Image Links": [],
+        "Answer": "$$2 \\text{.} \\text{37} \\text{N/m}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.3 Simple Harmonic Motion: A Special Periodic Motion",
+        "Problem Statement": "",
+        "Question": "If the spring constant of a simple harmonic oscillator is doubled, by what factor will the mass of the system need to change in order for the frequency of the motion to remain the same?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.3 Simple Harmonic Motion: A Special Periodic Motion",
+        "Problem Statement": "",
+        "Question": "A 0.500-kg mass suspended from a spring oscillates with a period of 1.50 s. How much mass must be added to the object to change the period to 2.00 s?",
+        "Image Links": [],
+        "Answer": "0.389 kg",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.3 Simple Harmonic Motion: A Special Periodic Motion",
+        "Problem Statement": "",
+        "Question": "By how much leeway (both percentage and mass) would you have in the selection of the mass of the object in the previous problem if you did not wish the new period to be greater than 2.01 s or less than 1.99 s?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.3 Simple Harmonic Motion: A Special Periodic Motion",
+        "Problem Statement": "",
+        "Question": "Suppose you attach the object with mass $$m$$ to a vertical spring originally at rest, and let it bounce up and down. You release the object from rest at the spring\u2019s original rest length. (a) Show that the spring exerts an upward force of $$2.00 mg$$ on the object at its lowest point. (b) If the spring has a force constant of $$\\text{10} \\text{.} 0 \\text{N/m}$$ and a 0.25-kg-mass object is set in motion as described, find the amplitude of the oscillations. (c) Find the maximum velocity.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.3 Simple Harmonic Motion: A Special Periodic Motion",
+        "Problem Statement": "",
+        "Question": "A diver on a diving board is undergoing simple harmonic motion. Her mass is 55.0 kg and the period of her motion is 0.800 s. The next diver is a male whose period of simple harmonic oscillation is 1.05 s. What is his mass if the mass of the board is negligible?",
+        "Image Links": [],
+        "Answer": "94.7 kg",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.3 Simple Harmonic Motion: A Special Periodic Motion",
+        "Problem Statement": "",
+        "Question": "Suppose a diving board with no one on it bounces up and down in a simple harmonic motion with a frequency of 4.00 Hz. The board has an effective mass of 10.0 kg. What is the frequency of the simple harmonic motion of a 75.0-kg diver on the board?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.3 Simple Harmonic Motion: A Special Periodic Motion",
+        "Problem Statement": "",
+        "Question": "Figure 16.42 This child\u2019s toy relies on springs to keep infants entertained. (credit: By Humboldthead, Flickr) The device pictured in Figure 16.42 entertains infants while keeping them from wandering. The child bounces in a harness suspended from a door frame by a spring. (a) If the spring stretches 0.250 m while supporting an 8.00-kg child, what is its spring constant? (b) What is the time for one complete bounce of this child? (c) What is the child\u2019s maximum velocity if the amplitude of her bounce is 0.200 m?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c529a4493ed3d3f2b4eb4cbeeda2d53640764d64"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.3 Simple Harmonic Motion: A Special Periodic Motion",
+        "Problem Statement": "",
+        "Question": "A 90.0-kg skydiver hanging from a parachute bounces up and down with a period of 1.50 s. What is the new period of oscillation when a second skydiver, whose mass is 60.0 kg, hangs from the legs of the first, as seen in Figure 16.43. Figure 16.43 The oscillations of one skydiver are about to be affected by a second skydiver. (credit: U.S. Army, www.army.mil)",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5556f9eca6440b7c365ff79cef60d3ee8e3ed71d"
+        ],
+        "Answer": "1.94 s",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.4 The Simple Pendulum",
+        "Problem Statement": "As usual, the acceleration due to gravity in these problems is taken to be $$g = 9.80 \\text{m} / \\text{s}^{2}$$ , unless otherwise specified.",
+        "Question": "What is the length of a pendulum that has a period of 0.500 s?",
+        "Image Links": [],
+        "Answer": "6.21 cm",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.4 The Simple Pendulum",
+        "Problem Statement": "As usual, the acceleration due to gravity in these problems is taken to be $$g = 9.80 \\text{m} / \\text{s}^{2}$$ , unless otherwise specified.",
+        "Question": "Some people think a pendulum with a period of 1.00 s can be driven with \u201cmental energy\u201d or psycho kinetically, because its period is the same as an average heartbeat. True or not, what is the length of such a pendulum?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.4 The Simple Pendulum",
+        "Problem Statement": "As usual, the acceleration due to gravity in these problems is taken to be $$g = 9.80 \\text{m} / \\text{s}^{2}$$ , unless otherwise specified.",
+        "Question": "What is the period of a 1.00-m-long pendulum?",
+        "Image Links": [],
+        "Answer": "2.01 s",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.4 The Simple Pendulum",
+        "Problem Statement": "As usual, the acceleration due to gravity in these problems is taken to be $$g = 9.80 \\text{m} / \\text{s}^{2}$$ , unless otherwise specified.",
+        "Question": "How long does it take a child on a swing to complete one swing if her center of gravity is 4.00 m below the pivot?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.4 The Simple Pendulum",
+        "Problem Statement": "As usual, the acceleration due to gravity in these problems is taken to be $$g = 9.80 \\text{m} / \\text{s}^{2}$$ , unless otherwise specified.",
+        "Question": "The pendulum on a cuckoo clock is 5.00 cm long. What is its frequency?",
+        "Image Links": [],
+        "Answer": "2.23 Hz",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.4 The Simple Pendulum",
+        "Problem Statement": "As usual, the acceleration due to gravity in these problems is taken to be $$g = 9.80 \\text{m} / \\text{s}^{2}$$ , unless otherwise specified.",
+        "Question": "Two parakeets sit on a swing with their combined center of mass 10.0 cm below the pivot. At what frequency do they swing?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.4 The Simple Pendulum",
+        "Problem Statement": "As usual, the acceleration due to gravity in these problems is taken to be $$g = 9.80 \\text{m} / \\text{s}^{2}$$ , unless otherwise specified.",
+        "Question": "(a) A pendulum that has a period of 3.00000 s and that is located where the acceleration due to gravity is $$9 \\text{.} \\text{79} \\text{m/s}^{2}$$ is moved to a location where the acceleration due to gravity is $$9 \\text{.} \\text{82} \\text{m/s}^{2}$$ . What is its new period? (b) Explain why so many digits are needed in the value for the period, based on the relation between the period and the acceleration due to gravity.",
+        "Image Links": [],
+        "Answer": "(a) 2.99541 s (b) Since the period is related to the square root of the acceleration of gravity, when the acceleration changes by 1% the period changes by $$( 0 \\text{.} \\text{01} )^{2} = 0 \\text{.} \\text{01%} \\text{}$$ so it is necessary to have at least 4 digits after the decimal to see the changes.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.4 The Simple Pendulum",
+        "Problem Statement": "As usual, the acceleration due to gravity in these problems is taken to be $$g = 9.80 \\text{m} / \\text{s}^{2}$$ , unless otherwise specified.",
+        "Question": "A pendulum with a period of 2.00000 s in one location $$( g = 9 \\text{.} \\text{80} \\text{m/s}^{2} )$$ is moved to a new location where the period is now 1.99796 s. What is the acceleration due to gravity at its new location?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.4 The Simple Pendulum",
+        "Problem Statement": "As usual, the acceleration due to gravity in these problems is taken to be $$g = 9.80 \\text{m} / \\text{s}^{2}$$ , unless otherwise specified.",
+        "Question": "(a) What is the effect on the period of a pendulum if you double its length? (b) What is the effect on the period of a pendulum if you decrease its length by 5.00%?",
+        "Image Links": [],
+        "Answer": "(a) Period increases by a factor of 1.41 ( $$\\sqrt{2}$$ ) (b) Period decreases to 97.5% of old period",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.4 The Simple Pendulum",
+        "Problem Statement": "As usual, the acceleration due to gravity in these problems is taken to be $$g = 9.80 \\text{m} / \\text{s}^{2}$$ , unless otherwise specified.",
+        "Question": "Find the ratio of the new/old periods of a pendulum if the pendulum were transported from Earth to the Moon, where the acceleration due to gravity is $$1 \\text{.} \\text{63} \\text{m/s}^{2}$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.4 The Simple Pendulum",
+        "Problem Statement": "As usual, the acceleration due to gravity in these problems is taken to be $$g = 9.80 \\text{m} / \\text{s}^{2}$$ , unless otherwise specified.",
+        "Question": "At what rate will a pendulum clock run on the Moon, where the acceleration due to gravity is $$1 \\text{.} \\text{63} \\text{m/s}^{2}$$ , if it keeps time accurately on Earth? That is, find the time (in hours) it takes the clock\u2019s minute hand, which on Earth makes one revolution per hour, to make one revolution on the Moon.",
+        "Image Links": [],
+        "Answer": "Slow by a factor of 2.45",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.4 The Simple Pendulum",
+        "Problem Statement": "As usual, the acceleration due to gravity in these problems is taken to be $$g = 9.80 \\text{m} / \\text{s}^{2}$$ , unless otherwise specified.",
+        "Question": "Suppose the length of a clock\u2019s pendulum is changed by 1.000%, exactly at noon one day. What time will it read 24.00 hours later, assuming it the pendulum has kept perfect time before the change? Note that there are two answers, and perform the calculation to four-digit precision.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.4 The Simple Pendulum",
+        "Problem Statement": "As usual, the acceleration due to gravity in these problems is taken to be $$g = 9.80 \\text{m} / \\text{s}^{2}$$ , unless otherwise specified.",
+        "Question": "If a pendulum-driven clock gains 5.00 s/day, what fractional change in pendulum length must be made for it to keep perfect time?",
+        "Image Links": [],
+        "Answer": "length must increase by 0.0116%.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.5 Energy and the Simple Harmonic Oscillator",
+        "Problem Statement": "",
+        "Question": "The length of nylon rope from which a mountain climber is suspended has a force constant of $$1.40 \\times 10^{4} \\text{N/m}$$ (a) What is the frequency at which he bounces, given his mass plus and the mass of his equipment are 90.0 kg? Ignore the change in gravitational potential energy after the cord begins to stretch. (b) How much would this rope stretch to break the climber\u2019s fall if he free-falls 2.00 m before the rope runs out of slack? Hint: Use conservation of energy. (c) Repeat both parts of this problem in the situation where twice this length of nylon rope is used.",
+        "Image Links": [],
+        "Answer": "(a) $$\\text{1.99 Hz}$$ (b) 50.2 cm (c) 1.40 Hz, 71.0 cm",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.5 Energy and the Simple Harmonic Oscillator",
+        "Problem Statement": "",
+        "Question": "Engineering Application Near the top of the Citigroup Center building in New York City, there is an object with mass of $$4 \\text{.} \\text{00} \\times \\text{10}^{5} \\text{kg}$$ on springs that have adjustable force constants. Its function is to dampen wind-driven oscillations of the building by oscillating at the same frequency as the building is being driven-the driving force is transferred to the object, which oscillates instead of the entire building. (a) What effective force constant should the springs have to make the object oscillate with a period of 2.00 s? (b) What energy is stored in the springs for a 2.00-m displacement from equilibrium?",
+        "Image Links": [],
+        "Answer": "(a) $$3 \\text{.} \\text{95} \\times \\text{10}^{6} \\text{N/m}$$ (b) $$7 \\text{.} \\text{90} \\times \\text{10}^{6} \\text{J}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.6 Uniform Circular Motion and Simple Harmonic Motion",
+        "Problem Statement": "",
+        "Question": "(a)What is the maximum velocity of an 85.0-kg person bouncing on a bathroom scale having a force constant of $$1 \\text{.} \\text{50} \\times \\text{10}^{6} \\text{N/m}$$ , if the amplitude of the bounce is 0.200 cm? (b)What is the maximum energy stored in the spring?",
+        "Image Links": [],
+        "Answer": "a). 0.266 m/s b). 3.00 J",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.6 Uniform Circular Motion and Simple Harmonic Motion",
+        "Problem Statement": "",
+        "Question": "A novelty clock has a 0.0100-kg mass object bouncing on a spring that has a force constant of 1.25 N/m. What is the maximum velocity of the object if the object bounces 3.00 cm above and below its equilibrium position? (b) How many joules of kinetic energy does the object have at its maximum velocity?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.6 Uniform Circular Motion and Simple Harmonic Motion",
+        "Problem Statement": "",
+        "Question": "At what positions is the speed of a simple harmonic oscillator half its maximum? That is, what values of $$x / X$$ give $$v = \\pm v_{\\text{max}} / 2$$ , where $$X$$ is the amplitude of the motion?",
+        "Image Links": [],
+        "Answer": "$$\\pm \\frac{\\sqrt{3}}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.6 Uniform Circular Motion and Simple Harmonic Motion",
+        "Problem Statement": "",
+        "Question": "A ladybug sits 12.0 cm from the center of a Beatles music album spinning at 33.33 rpm. What is the maximum velocity of its shadow on the wall behind the turntable, if illuminated parallel to the record by the parallel rays of the setting Sun?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.7 Damped Harmonic Motion",
+        "Problem Statement": "",
+        "Question": "The amplitude of a lightly damped oscillator decreases by $$3 \\text{.} 0% \\text{}$$ during each cycle. What percentage of the mechanical energy of the oscillator is lost in each cycle?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.8 Forced Oscillations and Resonance",
+        "Problem Statement": "",
+        "Question": "How much energy must the shock absorbers of a 1200-kg car dissipate in order to damp a bounce that initially has a velocity of 0.800 m/s at the equilibrium position? Assume the car returns to its original vertical position.",
+        "Image Links": [],
+        "Answer": "384 J",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.8 Forced Oscillations and Resonance",
+        "Problem Statement": "",
+        "Question": "If a car has a suspension system with a force constant of $$5 \\text{.} \\text{00} \\times \\text{10}^{4} \\text{N/m}$$ , how much energy must the car\u2019s shocks remove to dampen an oscillation starting with a maximum displacement of 0.0750 m?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.8 Forced Oscillations and Resonance",
+        "Problem Statement": "",
+        "Question": "(a) How much will a spring that has a force constant of 40.0 N/m be stretched by an object with a mass of 0.500 kg when hung motionless from the spring? (b) Calculate the decrease in gravitational potential energy of the 0.500-kg object when it descends this distance. (c) Part of this gravitational energy goes into the spring. Calculate the energy stored in the spring by this stretch, and compare it with the gravitational potential energy. Explain where the rest of the energy might go.",
+        "Image Links": [],
+        "Answer": "(a). 0.123 m (b). -0.600 J (c). 0.300 J. The rest of the energy may go into heat caused by friction and other damping forces.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.8 Forced Oscillations and Resonance",
+        "Problem Statement": "",
+        "Question": "Suppose you have a 0.750-kg object on a horizontal surface connected to a spring that has a force constant of 150 N/m. There is simple friction between the object and surface with a static coefficient of friction $$\\mu_{\\text{s}} = 0 \\text{.} \\text{100}$$ . (a) How far can the spring be stretched without moving the mass? (b) If the object is set into oscillation with an amplitude twice the distance found in part (a), and the kinetic coefficient of friction is $$\\mu_{\\text{k}} = 0 \\text{.} \\text{0850}$$ , what total distance does it travel before stopping? Assume it starts at the maximum amplitude.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.8 Forced Oscillations and Resonance",
+        "Problem Statement": "",
+        "Question": "Engineering Application: A suspension bridge oscillates with an effective force constant of $$1 \\text{.} \\text{00} \\times \\text{10}^{8} \\text{N/m}$$ . (a) How much energy is needed to make it oscillate with an amplitude of 0.100 m? (b) If soldiers march across the bridge with a cadence equal to the bridge\u2019s natural frequency and impart $$1 \\text{.} \\text{00} \\times \\text{10}^{4} \\text{J}$$ of  energy each second, how long does it take for the bridge\u2019s oscillations to go from 0.100 m to 0.500 m amplitude?",
+        "Image Links": [],
+        "Answer": "(a) $$5 \\text{.} \\text{00} \\times \\text{10}^{5} \\text{ J}$$ (b) $$\\text{1.20} \\text{xx} \\text{10}^{3}$$ s",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.9 Waves",
+        "Problem Statement": "",
+        "Question": "Storms in the South Pacific can create waves that travel all the way to the California coast, which are 12,000 km away. How long does it take them if they travel at 15.0 m/s?",
+        "Image Links": [],
+        "Answer": "$$t = 9 \\text{.} \\text{26 d}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.9 Waves",
+        "Problem Statement": "",
+        "Question": "Waves on a swimming pool propagate at 0.750 m/s. You splash the water at one end of the pool and observe the wave go to the opposite end, reflect, and return in 30.0 s. How far away is the other end of the pool?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.9 Waves",
+        "Problem Statement": "",
+        "Question": "Wind gusts create ripples on the ocean that have a wavelength of 5.00 cm and propagate at 2.00 m/s. What is their frequency?",
+        "Image Links": [],
+        "Answer": "$$f = \\text{40} \\text{.} \\text{0 Hz}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.9 Waves",
+        "Problem Statement": "",
+        "Question": "How many times a minute does a boat bob up and down on ocean waves that have a wavelength of 40.0 m and a propagation speed of 5.00 m/s?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.9 Waves",
+        "Problem Statement": "",
+        "Question": "Scouts at a camp shake the rope bridge they have just crossed and observe the wave crests to be 8.00 m apart. If they shake the bridge twice per second, what is the propagation speed of the waves?",
+        "Image Links": [],
+        "Answer": "$$v_{\\text{w}} = \\text{16} \\text{.} \\text{0 m/s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.9 Waves",
+        "Problem Statement": "",
+        "Question": "What is the wavelength of the waves you create in a swimming pool if you splash your hand at a rate of 2.00 Hz and the waves propagate at 0.800 m/s?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.9 Waves",
+        "Problem Statement": "",
+        "Question": "What is the wavelength of an earthquake that shakes you with a frequency of 10.0 Hz and gets to another city 84.0 km away in 12.0 s?",
+        "Image Links": [],
+        "Answer": "$$\n\u03bb\n           = \\text{700 m\n          }$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.9 Waves",
+        "Problem Statement": "",
+        "Question": "Radio waves transmitted through space at $$3 \\text{.} \\text{00} \\times \\text{10}^{8} \\text{m/s}$$ by the Voyager spacecraft have a wavelength of 0.120 m. What is their frequency?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.9 Waves",
+        "Problem Statement": "",
+        "Question": "Your ear is capable of differentiating sounds that arrive at the ear just 1.00 ms apart. What is the minimum distance between two speakers that produce sounds that arrive at noticeably different times on a day when the speed of sound is 340 m/s?",
+        "Image Links": [],
+        "Answer": "$$d = \\text{34} \\text{.} \\text{0 cm}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.9 Waves",
+        "Problem Statement": "",
+        "Question": "(a) Seismographs measure the arrival times of earthquakes with a precision of 0.100 s. To get the distance to the epicenter of the quake, they compare the arrival times of S- and P-waves, which travel at different speeds. Figure 16.44) If S- and P-waves travel at 4.00 and 7.20 km/s, respectively, in the region considered, how precisely can the distance to the source of the earthquake be determined? (b) Seismic waves from underground detonations of nuclear bombs can be used to locate the test site and detect violations of test bans. Discuss whether your answer to (a) implies a serious limit to such detection. (Note also that the uncertainty is greater if there is an uncertainty in the propagation speeds of the S- and P-waves.) Figure 16.44 A seismograph as described in above problem.(credit: Oleg Alexandrov)",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e2151fb671bfd45f4db2b4c43d6b18725851f8f9"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.10 Superposition and Interference",
+        "Problem Statement": "",
+        "Question": "A car has two horns, one emitting a frequency of 199 Hz and the other emitting a frequency of 203 Hz. What beat frequency do they produce?",
+        "Image Links": [],
+        "Answer": "$$f = \\text{4 Hz}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.10 Superposition and Interference",
+        "Problem Statement": "",
+        "Question": "The middle-C hammer of a piano hits two strings, producing beats of 1.50 Hz. One of the strings is tuned to 260.00 Hz. What frequencies could the other string have?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.10 Superposition and Interference",
+        "Problem Statement": "",
+        "Question": "Two tuning forks having frequencies of 460 and 464 Hz are struck simultaneously. What average frequency will you hear, and what will the beat frequency be?",
+        "Image Links": [],
+        "Answer": "462 Hz, 4 Hz",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.10 Superposition and Interference",
+        "Problem Statement": "",
+        "Question": "Twin jet engines on an airplane are producing an average sound frequency of 4100 Hz with a beat frequency of 0.500 Hz. What are their individual frequencies?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.10 Superposition and Interference",
+        "Problem Statement": "",
+        "Question": "A wave traveling on a Slinky\u00ae that is stretched to 4 m takes 2.4 s to travel the length of the Slinky and back again. (a) What is the speed of the wave? (b) Using the same Slinky stretched to the same length, a standing wave is created which consists of three antinodes and four nodes. At what frequency must the Slinky be oscillating?",
+        "Image Links": [],
+        "Answer": "(a) 3.33 m/s (b) 1.25 Hz",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.10 Superposition and Interference",
+        "Problem Statement": "",
+        "Question": "Three adjacent keys on a piano (F, F-sharp, and G) are struck simultaneously, producing frequencies of 349, 370, and 392 Hz. What beat frequencies are produced by this discordant combination?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.11 Energy in Waves: Intensity",
+        "Problem Statement": "",
+        "Question": "Medical Application Ultrasound of intensity $$1 \\text{.} \\text{50} \\times \\text{10}^{2} \\text{W/m}^{2}$$ is produced by the rectangular head of a medical imaging device measuring 3.00 by 5.00 cm. What is its power output?",
+        "Image Links": [],
+        "Answer": "0.225 W",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.11 Energy in Waves: Intensity",
+        "Problem Statement": "",
+        "Question": "The low-frequency speaker of a stereo set has a surface area of $$\n0\n          \\text{\n.\n         } \\text{\n05\n         } \\text{\nm\n          }^{\n2\n              }$$ and produces 1W of acoustical power. What is the intensity at the speaker? If the speaker projects sound uniformly in all directions, at what distance from the speaker is the intensity $$\n0\n          \\text{\n.\n         } \n1\n          \\text{\nW/m\n          }^{\n2\n              }$$ ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.11 Energy in Waves: Intensity",
+        "Problem Statement": "",
+        "Question": "To increase intensity of a wave by a factor of 50, by what factor should the amplitude be increased?",
+        "Image Links": [],
+        "Answer": "7.07",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.11 Energy in Waves: Intensity",
+        "Problem Statement": "",
+        "Question": "Engineering Application A device called an insolation meter is used to measure the intensity of sunlight has an area of 100 cm^2 and registers 6.50 W. What is the intensity in $$\\text{\nW/m\n          }^{\n2\n              }$$ ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.11 Energy in Waves: Intensity",
+        "Problem Statement": "",
+        "Question": "Astronomy Application Energy from the Sun arrives at the top of the Earth\u2019s atmosphere with an intensity of $$\n1.30\n          \\text{\n kW/m\n          }^{\n2\n              } .$$ How long does it take for $$\n1.8\n          \\times 10^{9} \\text{\nJ\n          }$$ to arrive on an area of $$\n1\n          \\text{\n.\n         } \n00\n          \\text{\nm\n          }^{\n2\n              }$$ ?",
+        "Image Links": [],
+        "Answer": "16.0 d",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.11 Energy in Waves: Intensity",
+        "Problem Statement": "",
+        "Question": "Suppose you have a device that extracts energy from ocean breakers in direct proportion to their intensity. If the device produces 10.0 kW of power on a day when the breakers are 1.20 m high, how much will it produce when they are 0.600 m high?",
+        "Image Links": [],
+        "Answer": "2.50 kW",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.11 Energy in Waves: Intensity",
+        "Problem Statement": "",
+        "Question": "Engineering Application (a) A photovoltaic array of (solar cells) is 10.0% efficient in gathering solar energy and converting it to electricity. If the average intensity of sunlight on one day is $$\n700\n          \\text{\nW/m\n          }^{\n2\n              } ,$$ what area should your array have to gather energy at the rate of 100 W? (b) What is the maximum cost of the array if it must pay for itself in two years of operation averaging 10.0 hours per day? Assume that it earns money at the rate of 9.00 \u00a2 per kilowatt-hour.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.11 Energy in Waves: Intensity",
+        "Problem Statement": "",
+        "Question": "A microphone receiving a pure sound tone feeds an oscilloscope, producing a wave on its screen. If the sound intensity is originally $$\\text{\n2.00\n         } \\times \\text{10}^{\\text{-5}} \\text{\nW/m\n          }^{\n2\n              } ,$$ but is turned up until the amplitude increases by 30.0%, what is the new intensity?",
+        "Image Links": [],
+        "Answer": "$$\\text{3.38} \\times \\text{10}^{\\text{-5}} \\text{W/m}^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "16.11 Energy in Waves: Intensity",
+        "Problem Statement": "",
+        "Question": "Medical Application (a) What is the intensity in $$\\text{\nW/m\n          }^{\n2\n              }$$ of a laser beam used to burn away cancerous tissue that, when 90.0% absorbed, puts 500 J of energy into a circular spot 2.00 mm in diameter in 4.00 s? (b) Discuss how this intensity compares to the average intensity of sunlight (about $$\n700\n          \\text{\n W/m\n          }^{\n2\n              }$$ ) and the implications that would have if the laser beam entered your eye. Note how the amount of damage depends on the time duration of the exposure.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

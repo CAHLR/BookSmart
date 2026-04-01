@@ -1,0 +1,492 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "State whether the given sums are equal or unequal. $$\\sum_{i = 1}^{10} i$$ and $$\\sum_{k = 1}^{10} k$$ $$\\sum_{i = 1}^{10} i$$ and $$\\sum_{i = 6}^{15} ( i - 5 )$$ $$\\sum_{i = 1}^{10} i ( i - 1 )$$ and $$\\sum_{j = 0}^{9} ( j + 1 ) j$$ $$\\sum_{i = 1}^{10} i ( i - 1 )$$ and $$\\sum_{k = 1}^{10} ( k^{2} - k )$$",
+        "Image Links": [],
+        "Answer": "a. They are equal; both represent the sum of the first 10 whole numbers. b. They are equal; both represent the sum of the first 10 whole numbers. c. They are equal by substituting $$j = i - 1 .$$ d. They are equal; the first sum factors the terms of the second.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the rules for sums of powers of integers to compute the sums.",
+        "Question": "$$\\sum_{i = 5}^{10} i$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the rules for sums of powers of integers to compute the sums.",
+        "Question": "$$\\sum_{i = 5}^{10} i^{2}$$",
+        "Image Links": [],
+        "Answer": "$$385 - 30 = 355$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Suppose that $$\\sum_{i = 1}^{100} a_{i} = 15$$ and $$\\sum_{i = 1}^{100} b_{i} = -12 .$$ In the following exercises, compute the sums.",
+        "Question": "$$\\sum_{i = 1}^{100} ( a_{i} + b_{i} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Suppose that $$\\sum_{i = 1}^{100} a_{i} = 15$$ and $$\\sum_{i = 1}^{100} b_{i} = -12 .$$ In the following exercises, compute the sums.",
+        "Question": "$$\\sum_{i = 1}^{100} ( a_{i} - b_{i} )$$",
+        "Image Links": [],
+        "Answer": "$$15 - ( -12 ) = 27$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Suppose that $$\\sum_{i = 1}^{100} a_{i} = 15$$ and $$\\sum_{i = 1}^{100} b_{i} = -12 .$$ In the following exercises, compute the sums.",
+        "Question": "$$\\sum_{i = 1}^{100} ( 3 a_{i} - 4 b_{i} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Suppose that $$\\sum_{i = 1}^{100} a_{i} = 15$$ and $$\\sum_{i = 1}^{100} b_{i} = -12 .$$ In the following exercises, compute the sums.",
+        "Question": "$$\\sum_{i = 1}^{100} ( 5 a_{i} + 4 b_{i} )$$",
+        "Image Links": [],
+        "Answer": "$$5 ( 15 ) + 4 ( -12 ) = 27$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use summation properties and formulas to rewrite and evaluate the sums.",
+        "Question": "$$\\sum_{k = 1}^{20} 100 ( k^{2} - 5 k + 1 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use summation properties and formulas to rewrite and evaluate the sums.",
+        "Question": "$$\\sum_{j = 1}^{50} ( j^{2} - 2 j )$$",
+        "Image Links": [],
+        "Answer": "$$\\sum_{j = 1}^{50} j^{2} - 2 \\sum_{j = 1}^{50} j = \\frac{( 50 ) ( 51 ) ( 101 )}{6} - \\frac{2 ( 50 ) ( 51 )}{2} = 40 , \\text{\u200b} 375$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use summation properties and formulas to rewrite and evaluate the sums.",
+        "Question": "$$\\sum_{j = 11}^{20} ( j^{2} - 10 j )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use summation properties and formulas to rewrite and evaluate the sums.",
+        "Question": "$$\\sum_{k = 1}^{25} [ ( 2 k )^{2} - 100 k ]$$",
+        "Image Links": [],
+        "Answer": "$$4 \\sum_{k = 1}^{25} k^{2} - 100 \\sum_{k = 1}^{25} k = \\frac{4 ( 25 ) ( 26 ) ( 51 )}{6} - 50 ( 25 ) ( 26 ) = -10 , \\text{\u200b} 400$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Let $$L_{n}$$ denote the left-endpoint sum using n subintervals and let $$R_{n}$$ denote the corresponding right-endpoint sum. In the following exercises, compute the indicated left and right sums for the given functions on the indicated interval.",
+        "Question": "L 4 for $$f ( x ) = \\frac{1}{x - 1}$$ on $$[ 2 , 3 ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Let $$L_{n}$$ denote the left-endpoint sum using n subintervals and let $$R_{n}$$ denote the corresponding right-endpoint sum. In the following exercises, compute the indicated left and right sums for the given functions on the indicated interval.",
+        "Question": "R 4 for $$g ( x ) = \\text{cos} ( \\pi x )$$ on $$[ 0 , 1 ]$$",
+        "Image Links": [],
+        "Answer": "$$R_{4} = -0.25$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Let $$L_{n}$$ denote the left-endpoint sum using n subintervals and let $$R_{n}$$ denote the corresponding right-endpoint sum. In the following exercises, compute the indicated left and right sums for the given functions on the indicated interval.",
+        "Question": "L 6 for $$f ( x ) = \\frac{1}{x ( x - 1 )}$$ on $$[ 2 , 5 ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Let $$L_{n}$$ denote the left-endpoint sum using n subintervals and let $$R_{n}$$ denote the corresponding right-endpoint sum. In the following exercises, compute the indicated left and right sums for the given functions on the indicated interval.",
+        "Question": "R 6 for $$f ( x ) = \\frac{1}{x ( x - 1 )}$$ on $$[ 2 , 5 ]$$",
+        "Image Links": [],
+        "Answer": "$$R_{6} = 0.372$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Let $$L_{n}$$ denote the left-endpoint sum using n subintervals and let $$R_{n}$$ denote the corresponding right-endpoint sum. In the following exercises, compute the indicated left and right sums for the given functions on the indicated interval.",
+        "Question": "R 4 for $$\\frac{1}{x^{2} + 1}$$ on $$[ -2 , 2 ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Let $$L_{n}$$ denote the left-endpoint sum using n subintervals and let $$R_{n}$$ denote the corresponding right-endpoint sum. In the following exercises, compute the indicated left and right sums for the given functions on the indicated interval.",
+        "Question": "L 4 for $$\\frac{1}{x^{2} + 1}$$ on $$[ -2 , 2 ]$$",
+        "Image Links": [],
+        "Answer": "$$L_{4} = 2.20$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Let $$L_{n}$$ denote the left-endpoint sum using n subintervals and let $$R_{n}$$ denote the corresponding right-endpoint sum. In the following exercises, compute the indicated left and right sums for the given functions on the indicated interval.",
+        "Question": "R 8 for $$x^{2} - 2 x + 1$$ on $$[ 0 , 2 ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Let $$L_{n}$$ denote the left-endpoint sum using n subintervals and let $$R_{n}$$ denote the corresponding right-endpoint sum. In the following exercises, compute the indicated left and right sums for the given functions on the indicated interval.",
+        "Question": "L 8 for $$x^{2} - 2 x + 1$$ on $$[ 0 , 2 ]$$",
+        "Image Links": [],
+        "Answer": "$$L_{8} = 0.6875$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Let $$L_{n}$$ denote the left-endpoint sum using n subintervals and let $$R_{n}$$ denote the corresponding right-endpoint sum. In the following exercises, compute the indicated left and right sums for the given functions on the indicated interval.",
+        "Question": "Compute the left and right Riemann sums- L 4 and R 4 , respectively-for $$f ( x ) = ( 2 - | x | )$$ on $$[ -2 , 2 ] .$$ Compute their average value and compare it with the area under the graph of f .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Let $$L_{n}$$ denote the left-endpoint sum using n subintervals and let $$R_{n}$$ denote the corresponding right-endpoint sum. In the following exercises, compute the indicated left and right sums for the given functions on the indicated interval.",
+        "Question": "Compute the left and right Riemann sums- L 6 and R 6 , respectively-for $$f ( x ) = ( 3 - | 3 - x | )$$ on $$[ 0 , 6 ] .$$ Compute their average value and compare it with the area under the graph of f .",
+        "Image Links": [],
+        "Answer": "$$L_{6} = 9.000 = R_{6} .$$ The graph of f is a triangle with area 9.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Let $$L_{n}$$ denote the left-endpoint sum using n subintervals and let $$R_{n}$$ denote the corresponding right-endpoint sum. In the following exercises, compute the indicated left and right sums for the given functions on the indicated interval.",
+        "Question": "Compute the left and right Riemann sums- L 4 and R 4 , respectively-for $$f ( x ) = \\sqrt{4 - x^{2}}$$ on $$[ -2 , 2 ]$$ and compare their values.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Let $$L_{n}$$ denote the left-endpoint sum using n subintervals and let $$R_{n}$$ denote the corresponding right-endpoint sum. In the following exercises, compute the indicated left and right sums for the given functions on the indicated interval.",
+        "Question": "Compute the left and right Riemann sums- L 6 and R 6 , respectively-for $$f ( x ) = \\sqrt{9 - ( x - 3 )^{2}}$$ on $$[ 0 , 6 ]$$ and compare their values.",
+        "Image Links": [],
+        "Answer": "$$L_{6} = 13.12899 = R_{6} .$$ They are equal.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Express the following endpoint sums in sigma notation but do not evaluate them.",
+        "Question": "L 30 for $$f ( x ) = x^{2}$$ on $$[ 1 , 2 ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Express the following endpoint sums in sigma notation but do not evaluate them.",
+        "Question": "L 10 for $$f ( x ) = \\sqrt{4 - x^{2}}$$ on $$[ -2 , 2 ]$$",
+        "Image Links": [],
+        "Answer": "$$L_{10} = \\frac{4}{10} \\sum_{i = 1}^{10} \\sqrt{4 - ( -2 + 4 \\frac{( i - 1 )}{10} )^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Express the following endpoint sums in sigma notation but do not evaluate them.",
+        "Question": "R 20 for $$f ( x ) = \\text{sin} x$$ on $$[ 0 , \\pi ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Express the following endpoint sums in sigma notation but do not evaluate them.",
+        "Question": "R 100 for $$\\text{ln} x$$ on $$[ 1 , e ]$$",
+        "Image Links": [],
+        "Answer": "$$R_{100} = \\frac{e - 1}{100} \\sum_{i = 1}^{100} \\text{ln} ( 1 + ( e - 1 ) \\frac{i}{100} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, graph the function then use a calculator or a computer program to evaluate the following left and right endpoint sums. If the two agree, say \"neither.\"",
+        "Question": "[T] L 100 and R 100 for $$y = x^{2} - x + 3$$ on the interval $$[ -1 , 1 ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, graph the function then use a calculator or a computer program to evaluate the following left and right endpoint sums. If the two agree, say \"neither.\"",
+        "Question": "[T] L 100 and R 100 for $$y = x^{2}$$ on the interval $$[ 0 , 1 ]$$",
+        "Image Links": [],
+        "Answer": "$$R_{100} = 0.33835 , L_{100} = 0.32835 .$$ The plot shows that the left Riemann sum is an underestimate because the function is increasing. Similarly, the right Riemann sum is an overestimate. The area lies between the left and right Riemann sums. Ten rectangles are shown for visual clarity. This behavior persists for more rectangles.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/537b217bcbcc5f33dbdae153de4ceb2f84ca005b"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, graph the function then use a calculator or a computer program to evaluate the following left and right endpoint sums. If the two agree, say \"neither.\"",
+        "Question": "[T] L 50 and R 50 for $$y = \\frac{x + 1}{x^{2} - 1}$$ on the interval $$[ 2 , 4 ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, graph the function then use a calculator or a computer program to evaluate the following left and right endpoint sums. If the two agree, say \"neither.\"",
+        "Question": "[T] L 100 and R 100 for $$y = x^{3}$$ on the interval $$[ -1 , 1 ]$$",
+        "Image Links": [],
+        "Answer": "$$L_{100} = 3.980 , R_{100} = 4.020 , R_{100} > L_{100} .$$ The left endpoint sum is an underestimate because the function is increasing. Similarly, a right endpoint approximation is an overestimate. The area lies between the left and right endpoint estimates.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7980eba8505ddfa63db37b3b849e0100f99efb02"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, graph the function then use a calculator or a computer program to evaluate the following left and right endpoint sums. If the two agree, say \"neither.\"",
+        "Question": "[T] L 50 and R 50 for $$y = \\text{tan} ( x )$$ on the interval $$[ 0 , \\frac{\\pi}{4} ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, graph the function then use a calculator or a computer program to evaluate the following left and right endpoint sums. If the two agree, say \"neither.\"",
+        "Question": "[T] L 100 and R 100 for $$y = e^{2 x}$$ on the interval $$[ -1 , 1 ]$$",
+        "Image Links": [],
+        "Answer": "$$L_{100} = 3.555 , R_{100} = 3.670$$ The plot shows that the left Riemann sum is an underestimate because the function is increasing. Ten rectangles are shown for visual clarity. This behavior persists for more rectangles.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e237285ad208b62c5b26b049515ca4b68845d3ba"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, graph the function then use a calculator or a computer program to evaluate the following left and right endpoint sums. If the two agree, say \"neither.\"",
+        "Question": "Let t j denote the time that it took Tejay van Garteren to ride the j th stage of the Tour de France in 2014. If there were a total of 21 stages, interpret $$\\sum_{j = 1}^{21} t_{j} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, graph the function then use a calculator or a computer program to evaluate the following left and right endpoint sums. If the two agree, say \"neither.\"",
+        "Question": "Let $$r_{j}$$ denote the total rainfall in Portland on the j th day of the year in 2009. Interpret $$\\sum_{j = 1}^{31} r_{j} .$$",
+        "Image Links": [],
+        "Answer": "The sum represents the cumulative rainfall in January 2009.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, graph the function then use a calculator or a computer program to evaluate the following left and right endpoint sums. If the two agree, say \"neither.\"",
+        "Question": "Let $$d_{j}$$ denote the hours of daylight and $$\\delta_{j}$$ denote the increase in the hours of daylight from day $$j - 1$$ to day j in Fargo, North Dakota, on the j th day of the year. Interpret $$d_{1} + \\sum_{j = 2}^{365} \\delta_{j} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, graph the function then use a calculator or a computer program to evaluate the following left and right endpoint sums. If the two agree, say \"neither.\"",
+        "Question": "To help get in shape, Joe gets a new pair of running shoes. If Joe runs 1 mi each day in week 1 and adds $$\\frac{1}{10}$$ mi to his daily routine each week, what is the total mileage on Joe\u2019s shoes after 25 weeks?",
+        "Image Links": [],
+        "Answer": "The total mileage is $$7 \\times \\sum_{i = 1}^{25} ( 1 + \\frac{( i - 1 )}{10} ) = 7 \\times 25 + \\frac{7}{10} \\times 12 \\times 25 = 385 \\text{mi} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, graph the function then use a calculator or a computer program to evaluate the following left and right endpoint sums. If the two agree, say \"neither.\"",
+        "Question": "The following table gives approximate values of the average annual atmospheric rate of increase in carbon dioxide (CO 2 ) each decade since 1960, in parts per million (ppm). Estimate the total increase in atmospheric CO 2 between 1964 and 2013. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nDecade & Ppm/y \\\\ \\hline\n1964-1973 & 1.07 \\\\ \\hline\n1974-1983 & 1.34 \\\\ \\hline\n1984-1993 & 1.40 \\\\ \\hline\n1994-2003 & 1.87 \\\\ \\hline\n2004-2013 & 2.07 \\\\ \\hline\n\\end{tabular}\n\\end{table} Table 5.2 Average Annual Atmospheric CO 2 Increase, 1964-2013 Source : http://www.esrl.noaa.gov/gmd/ccgg/trends/.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, graph the function then use a calculator or a computer program to evaluate the following left and right endpoint sums. If the two agree, say \"neither.\"",
+        "Question": "The following table gives the approximate increase in sea level in inches over 20 years starting in the given year. Estimate the net change in mean sea level from 1870 to 2010. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nStarting Year & 20-Year Change \\\\ \\hline\n1870 & 0.3 \\\\ \\hline\n1890 & 1.5 \\\\ \\hline\n1910 & 0.2 \\\\ \\hline\n1930 & 2.8 \\\\ \\hline\n1950 & 0.7 \\\\ \\hline\n1970 & 1.1 \\\\ \\hline\n1990 & 1.5 \\\\ \\hline\n\\end{tabular}\n\\end{table} Table 5.3 Approximate 20-Year Sea Level Increases, 1870-1990 Source : http://link.springer.com/article/10.1007%2Fs10712-011-9119-1",
+        "Image Links": [],
+        "Answer": "Add the numbers to get 8.1-in. net increase.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, graph the function then use a calculator or a computer program to evaluate the following left and right endpoint sums. If the two agree, say \"neither.\"",
+        "Question": "The following table gives the approximate increase in dollars in the average price of a gallon of gas per decade since 1950. If the average price of a gallon of gas in 2010 was $2.60, what was the average price of a gallon of gas in 1950? \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nStarting Year & 10-Year Change \\\\ \\hline\n1950 & 0.03 \\\\ \\hline\n1960 & 0.05 \\\\ \\hline\n1970 & 0.86 \\\\ \\hline\n1980 & -0.03 \\\\ \\hline\n1990 & 0.29 \\\\ \\hline\n2000 & 1.12 \\\\ \\hline\n\\end{tabular}\n\\end{table} Table 5.4 Approximate 10-Year Gas Price Increases, 1950-2000 Source : http://epb.lbl.gov/homepages/Rick_Diamond/docs/lbnl55011-trends.pdf.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, graph the function then use a calculator or a computer program to evaluate the following left and right endpoint sums. If the two agree, say \"neither.\"",
+        "Question": "The following table gives the percent growth of the U.S. population beginning in July of the year indicated. If the U.S. population was 281,421,906 in July 2000, estimate the U.S. population in July 2010. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nYear & % Change/Year \\\\ \\hline\n2000 & 1.12 \\\\ \\hline\n2001 & 0.99 \\\\ \\hline\n2002 & 0.93 \\\\ \\hline\n2003 & 0.86 \\\\ \\hline\n2004 & 0.93 \\\\ \\hline\n2005 & 0.93 \\\\ \\hline\n2006 & 0.97 \\\\ \\hline\n2007 & 0.96 \\\\ \\hline\n2008 & 0.95 \\\\ \\hline\n2009 & 0.88 \\\\ \\hline\n\\end{tabular}\n\\end{table} Table 5.5 Annual Percentage Growth of U.S. Population, 2000-2009 Source : http://www.census.gov/popest/data. ( Hint: To obtain the population in July 2001, multiply the population in July 2000 by 1.0112 to get 284,573,831.)",
+        "Image Links": [],
+        "Answer": "309,389,957",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, estimate the areas under the curves by computing the left Riemann sums, L 8 .",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/336cdd84f217810474621563b285ce2c33472200"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, estimate the areas under the curves by computing the left Riemann sums, L 8 .",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/4481c3ab1f7d4653e517998d7e6263d17dc82873"
+        ],
+        "Answer": "$$L_{8} = 3 + 2 + 1 + 2 + 3 + 4 + 5 + 4 = 24$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, estimate the areas under the curves by computing the left Riemann sums, L 8 .",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0e833c35ddceefe34a4acd01fb28ba7d18b7409c"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, estimate the areas under the curves by computing the left Riemann sums, L 8 .",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b1a7697387f9c81497a7b19b2818c7c2d4aa984e"
+        ],
+        "Answer": "$$L_{8} = 3 + 5 + 7 + 6 + 8 + 6 + 5 + 4 = 44$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, estimate the areas under the curves by computing the left Riemann sums, L 8 .",
+        "Question": "[T] Use a computer algebra system to compute the Riemann sum, $$L_{N} ,$$ for $$N = 10 , 30 , 50$$ for $$f ( x ) = \\sqrt{1 - x^{2}}$$ on $$[ -1 , 1 ] .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, estimate the areas under the curves by computing the left Riemann sums, L 8 .",
+        "Question": "[T] Use a computer algebra system to compute the Riemann sum, L N , for $$N = 10 , 30 , 50$$ for $$f ( x ) = \\frac{1}{\\sqrt{1 + x^{2}}}$$ on $$[ -1 , 1 ] .$$",
+        "Image Links": [],
+        "Answer": "$$L_{10} \\approx 1.7604 , L_{30} \\approx 1.7625 , L_{50} \\approx 1.76265$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, estimate the areas under the curves by computing the left Riemann sums, L 8 .",
+        "Question": "[T] Use a computer algebra system to compute the Riemann sum, L N , for $$N = 10 , 30 , 50$$ for $$f ( x ) = \\text{sin}^{2} x$$ on $$[ 0 , 2 \\pi ] .$$ Compare these estimates with \u03c0 .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use a calculator or a computer program to evaluate the endpoint sums R N and L N for $$N = 1,10,100 .$$ How do these estimates compare with the exact answers, which you can find via geometry?",
+        "Question": "[T] $$y = \\text{cos} ( \\pi x )$$ on the interval $$[ 0 , 1 ]$$",
+        "Image Links": [],
+        "Answer": "$$R_{1} = -1 , L_{1} = 1 , R_{10} = -0.1 , L_{10} = 0.1 , L_{100} = 0.01 ,$$ and $$R_{100} = -0.1 .$$ By symmetry of the graph, the exact area is zero.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use a calculator or a computer program to evaluate the endpoint sums R N and L N for $$N = 1,10,100 .$$ How do these estimates compare with the exact answers, which you can find via geometry?",
+        "Question": "[T] $$y = 3 x + 2$$ on the interval $$[ 3 , 5 ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use a calculator or a computer program to evaluate the endpoint sums R N and L N for $$N = 1,10,100 .$$",
+        "Question": "[T] $$y = x^{4} - 5 x^{2} + 4$$ on the interval $$[ -2 , 2 ] ,$$ which has an exact area of $$\\frac{32}{15}$$",
+        "Image Links": [],
+        "Answer": "$$R_{1} = 0 , L_{1} = 0 , R_{10} = 2.4499 , L_{10} = 2.4499 , R_{100} = 2.1365 , L_{100} = 2.1365$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use a calculator or a computer program to evaluate the endpoint sums R N and L N for $$N = 1,10,100 .$$",
+        "Question": "[T] $$y = \\text{ln} x$$ on the interval $$[ 1 , 2 ] ,$$ which has an exact area of $$2 \\text{ln} ( 2 ) - 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use a calculator or a computer program to evaluate the endpoint sums R N and L N for $$N = 1,10,100 .$$",
+        "Question": "Explain why, if $$f ( a ) \\geq 0$$ and f is increasing on $$[ a , b ] ,$$ that the left endpoint estimate is a lower bound for the area below the graph of f on $$[ a , b ] .$$",
+        "Image Links": [],
+        "Answer": "If $$[ c , d ]$$ is a subinterval of $$[ a , b ]$$ under one of the left-endpoint sum rectangles, then the area of the rectangle contributing to the left-endpoint estimate is $$f ( c ) ( d - c ) .$$ But, $$f ( c ) \\le f ( x )$$ for $$c \\le x \\le d ,$$ so the area under the graph of f between c and d is $$f ( c ) ( d - c )$$ plus the area below the graph of f but above the horizontal line segment at height $$f ( c ) ,$$ which is positive. As this is true for each left-endpoint sum interval, it follows that the left Riemann sum is less than or equal to the area below the graph of f on $$[ a , b ] .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use a calculator or a computer program to evaluate the endpoint sums R N and L N for $$N = 1,10,100 .$$",
+        "Question": "Explain why, if $$f ( b ) \\geq 0$$ and f is decreasing on $$[ a , b ] ,$$ that the left endpoint estimate is an upper bound for the area below the graph of f on $$[ a , b ] .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use a calculator or a computer program to evaluate the endpoint sums R N and L N for $$N = 1,10,100 .$$",
+        "Question": "Show that, in general, $$R_{N} - L_{N} = ( b - a ) \\times \\frac{f ( b ) - f ( a )}{N} .$$",
+        "Image Links": [],
+        "Answer": "$$L_{N} = \\frac{b - a}{N} \\sum_{i = 1}^{N} f ( a + ( b - a ) \\frac{i - 1}{N} ) = \\frac{b - a}{N} \\sum_{i = 0}^{N - 1} f ( a + ( b - a ) \\frac{i}{N} )$$ and $$R_{N} = \\frac{b - a}{N} \\sum_{i = 1}^{N} f ( a + ( b - a ) \\frac{i}{N} ) .$$ The left sum has a term corresponding to $$i = 0$$ and the right sum has a term corresponding to $$i = N .$$ In $$R_{N} - L_{N} ,$$ any term corresponding to $$i = 1 , 2 \\text{,unicode[:ddot.],} N - 1$$ occurs once with a plus sign and once with a minus sign, so each such term cancels and one is left with $$R_{N} - L_{N} = \\frac{b - a}{N} ( f ( a + ( b - a ) ) \\frac{N}{N} ) - ( f ( a ) + ( b - a ) \\frac{0}{N} ) = \\frac{b - a}{N} ( f ( b ) - f ( a ) ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use a calculator or a computer program to evaluate the endpoint sums R N and L N for $$N = 1,10,100 .$$",
+        "Question": "Explain why, if f is increasing on $$[ a , b ] ,$$ the error between either L N or R N and the area A below the graph of f is at most $$( b - a ) \\frac{f ( b ) - f ( a )}{N} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use a calculator or a computer program to evaluate the endpoint sums R N and L N for $$N = 1,10,100 .$$",
+        "Question": "For each of the three graphs: Obtain a lower bound $$L ( A )$$ for the area enclosed by the curve by adding the areas of the squares enclosed completely by the curve. Obtain an upper bound $$U ( A )$$ for the area by adding to $$L ( A )$$ the areas $$B ( A )$$ of the squares enclosed partially by the curve.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e1c750e811125812b974075ec3cae41f86fd1629"
+        ],
+        "Answer": "Graph 1: a. $$L ( A ) = 0 , B ( A ) = 20 ;$$ b. $$U ( A ) = 20 .$$ Graph 2: a. $$L ( A ) = 9 ;$$ b. $$B ( A ) = 11 , U ( A ) = 20 .$$ Graph 3: a. $$L ( A ) = 11.0 ;$$ b. $$B ( A ) = 4.5 , U ( A ) = 15.5 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use a calculator or a computer program to evaluate the endpoint sums R N and L N for $$N = 1,10,100 .$$",
+        "Question": "In the previous exercise, explain why $$L ( A )$$ gets no smaller while $$U ( A )$$ gets no larger as the squares are subdivided into four boxes of equal area.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use a calculator or a computer program to evaluate the endpoint sums R N and L N for $$N = 1,10,100 .$$",
+        "Question": "A unit circle is made up of n wedges equivalent to the inner wedge in the figure. The base of the inner triangle is 1 unit and its height is $$\\text{sin} ( \\frac{2 \\pi}{n} ) .$$ The base of the outer triangle is $$B = \\text{cos} ( \\frac{\\pi}{n} ) + \\text{sin} ( \\frac{\\pi}{n} ) \\text{tan} ( \\frac{\\pi}{n} )$$ and the height is $$H = B \\text{sin} ( \\frac{2 \\pi}{n} ) .$$ Use this information to argue that the area of a unit circle is equal to \u03c0 .",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b2615338e20a993e264430439ebb999b46a80b11"
+        ],
+        "Answer": "Let A be the area of the unit circle. The circle encloses n congruent triangles each of area $$\\frac{\\text{sin} ( \\frac{2 \\pi}{n} )}{2} ,$$ so $$\\frac{n}{2} \\text{sin} ( \\frac{2 \\pi}{n} ) \\le A .$$ Similarly, the circle is contained inside n congruent triangles each of area $$\\frac{B H}{2} = \\frac{1}{2} ( \\cos{( \\frac{\\mathrm{\\pi}}{n} )} + \\sin{} ( \\frac{\\mathrm{\\pi}}{n} ) \\tan{} ( \\frac{\\mathrm{\\pi}}{n} ) )^{2} \\sin{} ( \\frac{2 \\mathrm{\\pi}}{n} ) ,$$ so $$A \\le \\frac{n}{2} \\text{sin} ( \\frac{2 \\pi}{n} ) ( \\text{cos} ( \\frac{\\pi}{n} ) + \\text{sin} ( \\frac{\\pi}{n} ) \\text{tan} ( \\frac{\\pi}{n} ) )^{2} .$$ As $$n \\vec{} \\infty , \\frac{n}{2} \\text{sin} ( \\frac{2 \\pi}{n} ) = \\frac{\\text{sin} ( \\frac{2 \\pi}{n} )}{( \\frac{2}{n} )} \\upAlpha \\vec{} \\pi ,$$ so we conclude $$\\pi \\le A .$$ Also, as $$n \\vec{} \\infty , \\text{cos} ( \\frac{\\pi}{n} ) + \\text{sin} ( \\frac{\\pi}{n} ) \\text{tan} ( \\frac{\\pi}{n} ) \\vec{} 1 ,$$ so we also have $$A \\le \\pi .$$ By the squeeze theorem for limits, we conclude that $$A = \\pi .$$",
+        "Answer Image Links": []
+    }
+]

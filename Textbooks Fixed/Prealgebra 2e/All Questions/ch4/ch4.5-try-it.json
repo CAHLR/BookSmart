@@ -1,0 +1,290 @@
+[
+    {
+        "Topic": "Try It 4.125",
+        "Problem Statement": "",
+        "Question": "Find the least common denominator for the fractions: $$\\frac{7}{12}$$ and $$\\frac{11}{15} .$$",
+        "Image Links": [],
+        "Answer": "60",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.126",
+        "Problem Statement": "",
+        "Question": "Find the least common denominator for the fractions: $$\\frac{13}{15}$$ and $$\\frac{17}{5} .$$",
+        "Image Links": [],
+        "Answer": "15",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.127",
+        "Problem Statement": "",
+        "Question": "Find the least common denominator for the fractions: $$\\frac{13}{24}$$ and $$\\frac{17}{32} .$$",
+        "Image Links": [],
+        "Answer": "96",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.128",
+        "Problem Statement": "",
+        "Question": "Find the least common denominator for the fractions: $$\\frac{9}{28}$$ and $$\\frac{21}{32} .$$",
+        "Image Links": [],
+        "Answer": "224",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.129",
+        "Problem Statement": "",
+        "Question": "Change to equivalent fractions with the LCD: $$\\frac{3}{4}$$ and $$\\frac{5}{6} ,$$ LCD $$= 12$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{9}{12} , \\frac{10}{12}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.130",
+        "Problem Statement": "",
+        "Question": "Change to equivalent fractions with the LCD: $$- \\frac{7}{12}$$ and $$\\frac{11}{15} ,$$ LCD $$= 60$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{35}{60} , \\frac{44}{60}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.131",
+        "Problem Statement": "",
+        "Question": "Change to equivalent fractions with the LCD: $$\\frac{13}{24}$$ and $$\\frac{17}{32} ,$$ LCD $$96$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{52}{96} , \\frac{51}{96}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.132",
+        "Problem Statement": "",
+        "Question": "Change to equivalent fractions with the LCD: $$\\frac{9}{28}$$ and $$\\frac{27}{32} ,$$ LCD $$224$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{72}{224} , \\frac{189}{224}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.133",
+        "Problem Statement": "",
+        "Question": "Add: $$\\frac{1}{4} + \\frac{1}{3} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{7}{12}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.134",
+        "Problem Statement": "",
+        "Question": "Add: $$\\frac{1}{2} + \\frac{1}{5} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{7}{10}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.135",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\frac{1}{2} - ( - \\frac{1}{8} ) .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{5}{8}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.136",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\frac{1}{3} - ( - \\frac{1}{6} ) .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.137",
+        "Problem Statement": "",
+        "Question": "Add: $$\\frac{7}{12} + \\frac{11}{15} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{79}{60}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.138",
+        "Problem Statement": "",
+        "Question": "Add: $$\\frac{13}{15} + \\frac{17}{20} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{103}{60}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.139",
+        "Problem Statement": "",
+        "Question": "Subtract: $$\\frac{13}{24} - \\frac{17}{32} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{96}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.140",
+        "Problem Statement": "",
+        "Question": "Subtract: $$\\frac{21}{32} - \\frac{9}{28} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{75}{224}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.141",
+        "Problem Statement": "",
+        "Question": "Add: $$- \\frac{13}{42} + \\frac{17}{35} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{37}{210}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.142",
+        "Problem Statement": "",
+        "Question": "Add: $$- \\frac{19}{24} + \\frac{17}{32} .$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{25}{96}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.143",
+        "Problem Statement": "",
+        "Question": "Add: $$\\frac{y}{6} + \\frac{7}{9} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3 y + 14}{18}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.144",
+        "Problem Statement": "",
+        "Question": "Add: $$\\frac{x}{6} + \\frac{7}{15} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{5 x + 14}{30}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.145",
+        "Problem Statement": "",
+        "Question": "Simplify each expression: \u24d0 $$- \\frac{3}{4} - \\frac{1}{6}$$ \u24d1 $$- \\frac{3}{4} \\cdotp \\frac{1}{6}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$- \\frac{11}{12}$$ \u24d1 $$- \\frac{1}{8}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.146",
+        "Problem Statement": "",
+        "Question": "Simplify each expression: \u24d0 $$\\frac{5}{6} \\div ( - \\frac{1}{4} )$$ \u24d1 $$\\frac{5}{6} - ( - \\frac{1}{4} )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$- \\frac{10}{3}$$ \u24d1 $$\\frac{13}{12}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.147",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\frac{( 27 a - 32 )}{36}$$ \u24d1 $$\\frac{2 a}{3}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{( 27 a - 32 )}{36}$$ \u24d1 $$\\frac{2 a}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.148",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\frac{( 24 k + 25 )}{30}$$ \u24d1 $$\\frac{24 k}{5}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{( 24 k + 25 )}{30}$$ \u24d1 $$\\frac{24 k}{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.149",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\frac{( \\frac{1}{3} )^{2}}{2^{3} + 2}$$ .",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{90}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.150",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\frac{1 + 4^{2}}{( \\frac{1}{4} )^{2}}$$ .",
+        "Image Links": [],
+        "Answer": "272",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.151",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\frac{\\frac{1}{3} + \\frac{1}{2}}{\\frac{3}{4} - \\frac{1}{3}}$$ .",
+        "Image Links": [],
+        "Answer": "2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.152",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\frac{\\frac{2}{3} - \\frac{1}{2}}{\\frac{1}{4} + \\frac{1}{3}}$$ .",
+        "Image Links": [],
+        "Answer": "$$\\frac{2}{7}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.153",
+        "Problem Statement": "",
+        "Question": "Evaluate: $$x + \\frac{3}{4}$$ when \u24d0 $$x = - \\frac{7}{4}$$ \u24d1 $$x = - \\frac{5}{4}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-1$$ \u24d1 $$- \\frac{1}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.154",
+        "Problem Statement": "",
+        "Question": "Evaluate: $$y + \\frac{1}{2}$$ when \u24d0 $$y = \\frac{2}{3}$$ \u24d1 $$y = - \\frac{3}{4}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{7}{6}$$ \u24d1 $$- \\frac{1}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.155",
+        "Problem Statement": "",
+        "Question": "Evaluate: $$y - \\frac{1}{2}$$ when $$y = - \\frac{1}{4} .$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{3}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.156",
+        "Problem Statement": "",
+        "Question": "Evaluate: $$x - \\frac{3}{8}$$ when $$x = - \\frac{5}{2} .$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{23}{8}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.157",
+        "Problem Statement": "",
+        "Question": "Evaluate. $$3 a b^{2}$$ when $$a = - \\frac{2}{3}$$ and $$b = - \\frac{1}{2} .$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{1}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.158",
+        "Problem Statement": "",
+        "Question": "Evaluate. $$4 c^{3} d$$ when $$c = - \\frac{1}{2}$$ and $$d = - \\frac{4}{3} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.159",
+        "Problem Statement": "",
+        "Question": "Evaluate: $$\\frac{a + b}{c}$$ when $$a = -8 , b = -7 ,$$ and $$c = 6 .$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{5}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.160",
+        "Problem Statement": "",
+        "Question": "Evaluate: $$\\frac{x + y}{z}$$ when $$x = 9 , y = -18 ,$$ and $$z = -6 .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3}{2}$$",
+        "Answer Image Links": []
+    }
+]

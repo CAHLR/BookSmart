@@ -1,0 +1,138 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.1Explain how process costing differs from job order costing.",
+        "Image Links": [],
+        "Answer": "Answers will vary but should include the following: \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\nArea & Process & Job Order \\\\ \\hline\nTypes of jobs & Identical & Custom order \\\\ \\hline\nQuantity within each job & Large volume & Small volume \\\\ \\hline\nCost accumulation & In each department & In each job \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.1Would a pharmaceutical manufacturer use process or job order costing? Why?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.1Which costs are assigned using the weighted-average method?",
+        "Image Links": [],
+        "Answer": "The weighted-average method assigns the beginning inventory and the costs added during the period. The weighted-average method does not differentiate between the beginning inventory and the units started in production. This is different from the FIFO method that accounts for the beginning inventory differently and separately from current period costs.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.1What is the primary purpose of process costing?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.2What is the difference between prime costs and conversion costs?",
+        "Image Links": [],
+        "Answer": "Prime costs and conversion costs both include labor. Prime costs are the direct costs, other than equipment, used in manufacturing and therefore are direct material and direct labor. Conversion costs are the costs involved in converting the direct material into the product and therefore are direct labor and manufacturing overhead.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.2Explain conversion costs using an example.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.2Why are there conversion costs in both job order costing and process costing?",
+        "Image Links": [],
+        "Answer": "Job order costing and process costing are the accounting systems used to record the costs expended to produce a product. Conversion costs are the direct labor and manufacturing overhead involved in the production process and exist regardless of the accounting system used.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.2What are equivalent units of production, and how are they used in process costing?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.2How can there be a different number of equivalent units for materials as compared to conversion costs?",
+        "Image Links": [],
+        "Answer": "While conversion typically occurs evenly throughout the process, materials are not typically added evenly, so the ending work in process can be different. For example, when materials are added at the beginning of the process, materials can be 100% complete and conversion can be 50% complete. Different completion percentages result in different equivalent units.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.2Why is the number of equivalent units for materials only sometimes equal to the equivalent units for conversion?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.3What are the four steps involved in determining the cost of inventory transferred from one department to the next and the cost of work in process inventory?",
+        "Image Links": [],
+        "Answer": "Step 1: Determine the units to which costs are assigned. Step 2: Compute the equivalent units of production. Step 3: Determine the cost per equivalent unit. Step 4: Allocate the costs to the units transferred out and the units partially completed.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.3What is the weighted-average method for computing the equivalent units of production?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.4How does process costing treat the costs transferred in from another department?",
+        "Image Links": [],
+        "Answer": "The costs transferred in are treated in the same way as direct material that is added to production at the beginning of the process.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.4Why does each department have its own work in process inventory?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.5Match each term with its description. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nA. conversion costs & i. total of direct material costs and direct labor costs \\\\ \\hline\nB. cost of goods sold & ii. manufacturing costs of the items sold \\\\ \\hline\nC. cost of production report & iii. number of units produced if each unit was produced sequentially \\\\ \\hline\nD. cost per equivalent unit & iv. total of direct labor costs, indirect labor costs, indirect material costs, and manufacturing overhead \\\\ \\hline\nE. equivalent units of production & v. where costs in a process cost system are reported before being applied to the product \\\\ \\hline\nF. manufacturing department & vi. detailed listing of the total costs of the product including the value of work in process \\\\ \\hline\nG. prime costs & vii. cost of materials or conversion for a specific department during production \\\\ \\hline\nH. transferred out costs & viii. product of the total cost per unit and the number of units completed and transferred during the time period \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "A. iv; B. ii; C. vi; D. vii; E. iii; F. v; G. i; H. viii.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.5How is manufacturing overhead handled in a process cost system?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.5How are predetermined overhead rates used in process costing?",
+        "Image Links": [],
+        "Answer": "Prior to the new year, a company computes the estimates of the annual overhead per department divided by the estimated driver for that department. A driver is the measure that increases the cost of overhead and is commonly direct labor hours, direct labor cost, or machine hours. The result is the predetermined overhead rate. Costs are accumulated in an account called manufacturing overhead . At the end of each period, the overhead is removed from the overhead account and applied to the department.",
+        "Answer Image Links": []
+    }
+]

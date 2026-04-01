@@ -1,0 +1,74 @@
+[
+    {
+        "Topic": "Checkpoint 3.25",
+        "Problem Statement": "",
+        "Question": "Find the derivative of $$f ( x ) = \\text{sin} x \\text{cos} x .$$",
+        "Image Links": [],
+        "Answer": "$$f^{\\prime} ( x ) = \\text{cos}^{2} x - \\text{sin}^{2} x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.26",
+        "Problem Statement": "",
+        "Question": "Find the derivative of $$f ( x ) = \\frac{x}{\\text{cos} x} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\text{cos} x + x \\text{sin} x}{\\text{cos}^{2} x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.27",
+        "Problem Statement": "",
+        "Question": "A particle moves along a coordinate axis. Its position at time $$t$$ is given by $$s ( t ) = \\sqrt{3} t + 2 \\text{cos} t$$ for $$0 \\le t \\le 2 \\pi .$$ At what times is the particle at rest?",
+        "Image Links": [],
+        "Answer": "$$t = \\frac{\\pi}{3} , t = \\frac{2 \\pi}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.28",
+        "Problem Statement": "",
+        "Question": "Find the derivative of $$f ( x ) = \\text{cot} x .$$",
+        "Image Links": [],
+        "Answer": "$$f^{\\prime} ( x ) = \\text{unicode[:-]} \\text{csc}^{2} x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.29",
+        "Problem Statement": "",
+        "Question": "Find the derivative of $$f ( x ) = 2 \\text{tan} x - 3 \\text{cot} x .$$",
+        "Image Links": [],
+        "Answer": "$$f^{\\prime} ( x ) = 2 \\text{sec}^{2} x + 3 \\text{csc}^{2} x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.30",
+        "Problem Statement": "",
+        "Question": "Find the slope of the line tangent to the graph of $$f ( x ) = \\text{tan} x$$ at $$x = \\frac{\\pi}{6} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{4}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.31",
+        "Problem Statement": "",
+        "Question": "For $$y = \\text{cos} x ,$$ find $$\\frac{d^{4} y}{d x^{4}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\text{cos} x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.32",
+        "Problem Statement": "",
+        "Question": "For $$y = \\text{sin} x ,$$ find $$\\frac{d^{59}}{d x^{59}} ( \\text{sin} x ) .$$",
+        "Image Links": [],
+        "Answer": "$$\\text{unicode[:-]} \\text{cos} x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.33",
+        "Problem Statement": "",
+        "Question": "A block attached to a spring is moving vertically. Its position at time $$t$$ is given by $$s ( t ) = 2 \\text{sin} t .$$ Find $$v ( \\frac{5 \\pi}{6} )$$ and $$a ( \\frac{5 \\pi}{6} ) .$$ Compare these values and decide whether the block is speeding up or slowing down.",
+        "Image Links": [],
+        "Answer": "$$v ( \\frac{5 \\pi}{6} ) = \\text{unicode[:-]} \\sqrt{3} < 0$$ and $$a ( \\frac{5 \\pi}{6} ) = -1 < 0 .$$ The block is speeding up.",
+        "Answer Image Links": []
+    }
+]

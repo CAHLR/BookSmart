@@ -1,0 +1,26 @@
+[
+    {
+        "Topic": "Check Your Understanding 1.2",
+        "Problem Statement": "",
+        "Question": "Light travels about 9 Pm in a year. Given that a year is about $$3 \\times 10^{7} \\text{s} ,$$ what is the speed of light in meters per second?",
+        "Image Links": [],
+        "Answer": "$$3 \\times 10^{8} \\text{m/s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 1.3",
+        "Problem Statement": "",
+        "Question": "We know from Figure 1.4 that the diameter of Earth is on the order of 10^7 m, so the order of magnitude of its surface area is 10^14 m^2. What is that in square kilometers (that is, km^2)? (Try doing this both by converting 10^7 m to km and then squaring it and then by converting 10^14 m^2 directly to square kilometers. You should get the same answer both ways.)",
+        "Image Links": [],
+        "Answer": "$$1 0^{8} \\text{km}^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 1.4",
+        "Problem Statement": "",
+        "Question": "Given that 1 lbf (pound-force) is 4.45 N, were the numbers being output by SM_FORCES too big or too small?",
+        "Image Links": [],
+        "Answer": "The numbers were too small, by a factor of 4.45.",
+        "Answer Image Links": []
+    }
+]

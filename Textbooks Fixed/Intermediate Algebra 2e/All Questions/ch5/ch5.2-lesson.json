@@ -1,0 +1,778 @@
+[
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the properties for exponents.",
+        "Question": "\u24d0 $$d^{3} \\cdotp d^{6}$$ \u24d1 $$4^{5 x} \\cdotp 4^{9 x}$$ \u24d2 $$2 y \\cdotp 4 y^{3}$$ \u24d3 $$w \\cdotp w^{2} \\cdotp w^{3}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$d^{9}$$ \u24d1 $$4^{14 x}$$ \u24d2 $$8 y^{4}$$ \u24d3 $$w^{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the properties for exponents.",
+        "Question": "\u24d0 $$x^{4} \\cdotp x^{2}$$ \u24d1 $$8^{9 x} \\cdotp 8^{3}$$ \u24d2 $$3 z^{25} \\cdotp 5 z^{8}$$ \u24d3 $$y \\cdotp y^{3} \\cdotp y^{5}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the properties for exponents.",
+        "Question": "\u24d0 $$n^{19} \\cdotp n^{12}$$ \u24d1 $$3^{x} \\cdotp 3^{6}$$ \u24d2 $$7 w^{5} \\cdotp 8 w^{}$$ \u24d3 $$a^{4} \\cdotp a^{3} \\cdotp a^{9}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$n^{31}$$ \u24d1 $$3^{x + 6}$$ \u24d2 $$56 w^{6}$$ \u24d3 $$a^{16}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the properties for exponents.",
+        "Question": "\u24d0 $$q^{27} \\cdotp q^{15}$$ \u24d1 $$5^{x} \\cdotp 5^{4 x}$$ \u24d2 $$9 u^{41} \\cdotp 7 u^{53}$$ \u24d3 $$c^{5} \\cdotp c^{11} \\cdotp c^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the properties for exponents.",
+        "Question": "$$m^{x} \\cdotp m^{3}$$",
+        "Image Links": [],
+        "Answer": "$$m^{x + 3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the properties for exponents.",
+        "Question": "$$n^{y} \\cdotp n^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the properties for exponents.",
+        "Question": "$$y^{a} \\cdotp y^{b}$$",
+        "Image Links": [],
+        "Answer": "$$y^{a + b}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the properties for exponents.",
+        "Question": "$$x^{p} \\cdotp x^{q}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the properties for exponents.",
+        "Question": "\u24d0 $$\\frac{x^{18}}{x^{3}}$$ \u24d1 $$\\frac{5^{12}}{5^{3}}$$ \u24d2 $$\\frac{q^{18}}{q^{36}}$$ \u24d3 $$\\frac{10^{2}}{10^{3}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$x^{15}$$ \u24d1 $$5^{9}$$ \u24d2 $$\\frac{1}{q^{18}}$$ \u24d3 $$\\frac{1}{10}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the properties for exponents.",
+        "Question": "\u24d0 $$\\frac{y^{20}}{y^{10}}$$ \u24d1 $$\\frac{7^{16}}{7^{2}}$$ \u24d2 $$\\frac{t^{10}}{t^{40}}$$ \u24d3 $$\\frac{8^{3}}{8^{5}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the properties for exponents.",
+        "Question": "\u24d0 $$\\frac{p^{21}}{p^{7}}$$ \u24d1 $$\\frac{4^{16}}{4^{4}}$$ \u24d2 $$\\frac{b}{b^{9}}$$ \u24d3 $$\\frac{4}{4^{6}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$p^{14}$$ \u24d1 $$4^{12}$$ \u24d2 $$\\frac{1}{b^{8}}$$ \u24d3 $$\\frac{1}{4^{5}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the properties for exponents.",
+        "Question": "\u24d0 $$\\frac{u^{24}}{u^{3}}$$ \u24d1 $$\\frac{9^{15}}{9^{5}}$$ \u24d2 $$\\frac{x}{x^{7}}$$ \u24d3 $$\\frac{10}{10^{3}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the properties for exponents.",
+        "Question": "\u24d0 $$20^{0}$$ \u24d1 $$b^{0}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 1 \u24d1 1",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the properties for exponents.",
+        "Question": "\u24d0 $$13^{0}$$ \u24d1 $$k^{0}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the properties for exponents.",
+        "Question": "\u24d0 $$\\text{unicode[:-]} 27^{0}$$ \u24d1 $$\\text{unicode[:-]} ( 27^{0} )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-1$$ \u24d1 $$-1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the properties for exponents.",
+        "Question": "\u24d0 $$\\text{unicode[:-]} 15^{0}$$ \u24d1 $$\\text{unicode[:-]} ( 15^{0} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "\u24d0 $$a^{-2}$$ \u24d1 $$10^{-3}$$ \u24d2 $$\\frac{1}{c^{-5}}$$ \u24d3 $$\\frac{1}{3^{-2}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{1}{a^{2}}$$ \u24d1 $$\\frac{1}{1000}$$ \u24d2 $$c^{5}$$ \u24d3 $$9$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "\u24d0 $$b^{-4}$$ \u24d1 $$10^{-2}$$ \u24d2 $$\\frac{1}{b^{-3}}$$ \u24d3 $$\\frac{1}{5^{-2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "\u24d0 $$r^{-3}$$ \u24d1 $$10^{-5}$$ \u24d2 $$\\frac{1}{q^{-10}}$$ \u24d3 $$\\frac{1}{10^{-3}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{1}{r^{3}}$$ \u24d1 $$\\frac{1}{100,000}$$ \u24d2 $$q^{10}$$ \u24d3 $$1,000$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "\u24d0 $$s^{-8}$$ \u24d1 $$10^{-2}$$ \u24d2 $$\\frac{1}{t^{-9}}$$ \u24d3 $$\\frac{1}{10^{-4}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "\u24d0 $$( \\frac{5}{8} )^{-2}$$ \u24d1 $$( - \\frac{b}{a} )^{-2}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{64}{25}$$ \u24d1 $$\\frac{a^{2}}{b^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "\u24d0 $$( \\frac{3}{10} )^{-2}$$ \u24d1 $$( - \\frac{2}{z} )^{-3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "\u24d0 $$( \\frac{4}{9} )^{-3}$$ \u24d1 $$( - \\frac{u}{v} )^{-5}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{729}{64}$$ \u24d1 $$- \\frac{v^{5}}{u^{5}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "\u24d0 $$( \\frac{7}{2} )^{-3}$$ \u24d1 $$( - \\frac{3}{x} )^{-3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "\u24d0 $$( -5 )^{-2}$$ \u24d1 $$\\text{unicode[:-]} 5^{-2}$$ \u24d2 $$( - \\frac{1}{5} )^{-2}$$ \u24d3 $$\\text{unicode[:-]} ( \\frac{1}{5} )^{-2}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{1}{25}$$ \u24d1 $$- \\frac{1}{25}$$ \u24d2 $$25$$ \u24d3 $$-25$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "\u24d0 $$\\text{unicode[:-]} 5^{-3}$$ \u24d1 $$( - \\frac{1}{5} )^{-3}$$ \u24d2 $$\\text{unicode[:-]} ( \\frac{1}{5} )^{-3}$$ \u24d3 $$( -5 )^{-3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "\u24d0 $$3 \\cdotp 5^{-1}$$ \u24d1 $$( 3 \\cdotp 5 )^{-1}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{3}{5}$$ \u24d1 $$\\frac{1}{15}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "\u24d0 $$3 \\cdotp 4^{-2}$$ \u24d1 $$( 3 \\cdotp 4 )^{-2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the Product Property.",
+        "Question": "\u24d0 $$b^{4} b^{-8}$$ \u24d1 $$( w^{4} x^{-5} ) ( w^{-2} x^{-4} )$$ \u24d2 $$( -6 c^{-3} d^{9} ) ( 2 c^{4} d^{-5} )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{1}{b^{4}}$$ \u24d1 $$\\frac{w^{2}}{x^{9}}$$ \u24d2 $$-12 c d^{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the Product Property.",
+        "Question": "\u24d0 $$s^{3} \\cdotp s^{-7}$$ \u24d1 $$( m^{3} n^{-3} ) ( m^{-5} n^{-1} )$$ \u24d2 $$( -2 j^{-5} k^{8} ) ( 7 j^{2} k^{-3} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the Product Property.",
+        "Question": "\u24d0 $$a^{3} \\cdotp a^{-3}$$ \u24d1 $$( u v^{-2} ) ( u^{-5} v^{-3} )$$ \u24d2 $$( -4 r^{-2} s^{-8} ) ( 9 r^{4} s^{3} )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 1 \u24d1 $$\\frac{1}{u^{4} v^{5}}$$ \u24d2 $$\\frac{- 36 r^{2}}{s^{5}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the Product Property.",
+        "Question": "\u24d0 $$y^{5} \\cdotp y^{-5}$$ \u24d1 $$( p q^{-4} ) ( p^{-6} q^{-3} )$$ \u24d2 $$( -5 m^{4} n^{6} ) ( 8 m^{-5} n^{-3} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the Product Property.",
+        "Question": "$$p^{5} \\cdotp p^{-2} \\cdotp p^{-4}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{p}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the Product Property.",
+        "Question": "$$x^{4} \\cdotp x^{-2} \\cdotp x^{-3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the Power Property.",
+        "Question": "\u24d0 $$( m^{4} )^{2}$$ \u24d1 $$( 10^{3} )^{6}$$ \u24d2 $$( x^{3} )^{-4}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$m^{8}$$ \u24d1 $$10^{18}$$ \u24d2 $$\\frac{1}{x^{12}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the Power Property.",
+        "Question": "\u24d0 $$( b^{2} )^{7}$$ \u24d1 $$( 3^{8} )^{2}$$ \u24d2 $$( k^{2} )^{-5}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the Power Property.",
+        "Question": "\u24d0 $$( y^{3} )^{x}$$ \u24d1 $$( 5^{x} )^{y}$$ \u24d2 $$( q^{6} )^{-8}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$y^{3 x}$$ \u24d1 $$5^{x y}$$ \u24d2 $$\\frac{1}{q^{48}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the Power Property.",
+        "Question": "\u24d0 $$( x^{2} )^{y}$$ \u24d1 $$( 7^{a} )^{b}$$ \u24d2 $$( a^{9} )^{-10}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the Product to a Power Property.",
+        "Question": "\u24d0 $$( -3 x y )^{2}$$ \u24d1 $$( 6 a )^{0}$$ \u24d2 $$( 5 x^{2} )^{-2}$$ \u24d3 $$( -4 y^{-3} )^{2}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$9 x^{2} y^{2}$$ \u24d1 1 \u24d2 $$\\frac{1}{25 x^{4}}$$ \u24d3 $$\\frac{16}{y^{6}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the Product to a Power Property.",
+        "Question": "\u24d0 $$( -4 a b )^{2}$$ \u24d1 $$( 5 x )^{0}$$ \u24d2 $$( 4 y^{3} )^{-3}$$ \u24d3 $$( -7 y^{-3} )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the Product to a Power Property.",
+        "Question": "\u24d0 $$( -5 a b )^{3}$$ \u24d1 $$( -4 p q )^{0}$$ \u24d2 $$( -6 x^{3} )^{-2}$$ \u24d3 $$( 3 y^{-4} )^{2}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-125 a^{3} b^{3}$$ \u24d1 1 \u24d2 $$\\frac{1}{36 x^{6}}$$ \u24d3 $$\\frac{9}{y^{8}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the Product to a Power Property.",
+        "Question": "\u24d0 $$( -3 x y z )^{4}$$ \u24d1 $$( -7 m n )^{0}$$ \u24d2 $$( -3 x^{3} )^{-2}$$ \u24d3 $$( 2 y^{-5} )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the Quotient to a Power Property.",
+        "Question": "\u24d0 $$( \\frac{p}{2} )^{5}$$ \u24d1 $$( \\frac{x}{y} )^{-6}$$ \u24d2 $$( \\frac{2 x y^{2}}{z} )^{3}$$ \u24d3 $$( \\frac{4 p^{-3}}{q^{2}} )^{2}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{p^{5}}{32}$$ \u24d1 $$\\frac{y^{6}}{x^{6}}$$ \u24d2 $$\\frac{8 x^{3} y^{6}}{z^{3}}$$ \u24d3 $$\\frac{16}{p^{6} q^{4}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the Quotient to a Power Property.",
+        "Question": "\u24d0 $$( \\frac{x}{3} )^{4}$$ \u24d1 $$( \\frac{a}{b} )^{-5}$$ \u24d2 $$( \\frac{2 x^{2} y^{3}}{z^{2}} )^{2}$$ \u24d3 $$( \\frac{x^{3} y}{z^{4}} )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the Quotient to a Power Property.",
+        "Question": "\u24d0 $$( \\frac{a}{3 b} )^{4}$$ \u24d1 $$( \\frac{5}{4 m} )^{-2}$$ \u24d2 $$( \\frac{3 a^{-2} b^{3}}{c^{2}} )^{-2}$$ \u24d3 $$( \\frac{p^{-1} q^{4}}{r^{-4}} )^{2}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{a^{4}}{81 b^{4}}$$ \u24d1 $$\\frac{16 m^{2}}{25}$$ \u24d2 $$\\frac{a^{4} c^{4}}{9 b^{6}}$$ \u24d3 $$\\frac{q^{8} r^{8}}{p^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression using the Quotient to a Power Property.",
+        "Question": "\u24d0 $$( \\frac{x}{2 y} )^{3}$$ \u24d1 $$( \\frac{10}{3 q} )^{-4}$$ \u24d2 $$( \\frac{2 x^{3} y^{4}}{3 z^{2}} )^{5}$$ \u24d3 $$( \\frac{5 a^{3} b^{-1}}{2 c^{4}} )^{-3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression by applying several properties.",
+        "Question": "\u24d0 $$( 5 t^{2} )^{3} ( 3 t )^{2}$$ \u24d1 $$\\frac{( t^{2} )^{5} ( t^{-4} )^{2}}{( t^{3} )^{7}}$$ \u24d2 $$( \\frac{2 x y^{2}}{x^{3} y^{-2}} )^{2} ( \\frac{12 x y^{3}}{x^{3} y^{-1}} )^{-1}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$1125 t^{8}$$ \u24d1 $$\\frac{1}{t^{19}}$$ \u24d2 $$\\frac{y^{4}}{3 x^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression by applying several properties.",
+        "Question": "\u24d0 $$( 10 k^{4} )^{3} ( 5 k^{6} )^{2}$$ \u24d1 $$\\frac{( q^{3} )^{6} ( q^{-2} )^{3}}{( q^{4} )^{8}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression by applying several properties.",
+        "Question": "\u24d0 $$( m^{2} n )^{2} ( 2 m n^{5} )^{4}$$ \u24d1 $$\\frac{( -2 p^{-2} )^{4} ( 3 p^{4} )^{2}}{( -6 p^{3} )^{2}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$16 m^{8} n^{22}$$ \u24d1 $$\\frac{4}{p^{6}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression by applying several properties.",
+        "Question": "\u24d0 $$( 3 p q^{4} )^{2} ( 6 p^{6} q )^{2}$$ \u24d1 $$\\frac{( -2 k^{-3} )^{2} ( 6 k^{2} )^{4}}{( 9 k^{4} )^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "\u24d0 $$7 n^{-1}$$ \u24d1 $$( 7 n )^{-1}$$ \u24d2 $$( -7 n )^{-1}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{7}{n}$$ \u24d1 $$\\frac{1}{7 n}$$ \u24d2 $$- \\frac{1}{7 n}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "\u24d0 $$6 r^{-1}$$ \u24d1 $$( 6 r )^{-1}$$ \u24d2 $$( -6 r )^{-1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "\u24d0 $$( 3 p )^{-2}$$ \u24d1 $$3 p^{-2}$$ \u24d2 $$-3 p^{-2}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{1}{9 p^{2}}$$ \u24d1 $$\\frac{3}{p^{2}}$$ \u24d2 $$\\frac{-3}{p^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "\u24d0 $$( 2 q )^{-4}$$ \u24d1 $$2 q^{-4}$$ \u24d2 $$-2 q^{-4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$( x^{2} )^{4} \\cdotp ( x^{3} )^{2}$$",
+        "Image Links": [],
+        "Answer": "$$x^{14}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$( y^{4} )^{3} \\cdotp ( y^{5} )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$( a^{2} )^{6} \\cdotp ( a^{3} )^{8}$$",
+        "Image Links": [],
+        "Answer": "$$a^{36}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$( b^{7} )^{5} \\cdotp ( b^{2} )^{6}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$( 2 m^{6} )^{3}$$",
+        "Image Links": [],
+        "Answer": "$$8 m^{18}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$( 3 y^{2} )^{4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$( 10 x^{2} y )^{3}$$",
+        "Image Links": [],
+        "Answer": "$$1,000 x^{6} y^{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$( 2 m n^{4} )^{5}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$( -2 a^{3} b^{2} )^{4}$$",
+        "Image Links": [],
+        "Answer": "$$16 a^{12} b^{8}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$( -10 u^{2} v^{4} )^{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$( \\frac{2}{3} x^{2} y )^{3}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{8}{27} x^{6} y^{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$( \\frac{7}{9} p q^{4} )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$( 8 a^{3} )^{2} ( 2 a )^{4}$$",
+        "Image Links": [],
+        "Answer": "$$1,024 a^{10}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$( 5 r^{2} )^{3} ( 3 r )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$( 10 p^{4} )^{3} ( 5 p^{6} )^{2}$$",
+        "Image Links": [],
+        "Answer": "$$25,000 p^{24}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$( 4 x^{3} )^{3} ( 2 x^{5} )^{4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$( \\frac{1}{2} x^{2} y^{3} )^{4} ( 4 x^{5} y^{3} )^{2}$$",
+        "Image Links": [],
+        "Answer": "$$x^{18} y^{18}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$( \\frac{1}{3} m^{3} n^{2} )^{4} ( 9 m^{8} n^{3} )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$( 3 m^{2} n )^{2} ( 2 m n^{5} )^{4}$$",
+        "Image Links": [],
+        "Answer": "$$144 m^{8} n^{22}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$( 2 p q^{4} )^{3} ( 5 p^{6} q )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "\u24d0 $$( 3 x )^{2} ( 5 x )$$ \u24d1 $$( 2 y )^{3} ( 6 y )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$45 x^{3}$$ \u24d1 $$48 y^{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "\u24d0 $$( \\frac{1}{2} y^{2} )^{3} ( \\frac{2}{3} y )^{2}$$ \u24d1 $$( \\frac{1}{2} j^{2} )^{5} ( \\frac{2}{5} j^{3} )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "\u24d0 $$( 2 r^{-2} )^{3} ( 4^{-1} r )^{2}$$ \u24d1 $$( 3 x^{-3} )^{3} ( 3^{-1} x^{5} )^{4}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{1}{2 r^{4}}$$ \u24d1 $$\\frac{1}{3} x^{11}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$( \\frac{k^{-2} k^{8}}{k^{3}} )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$( \\frac{j^{-2} j^{5}}{j^{4}} )^{3}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{j^{3}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$\\frac{( -4 m^{-3} )^{2} ( 5 m^{4} )^{3}}{( -10 m^{6} )^{3}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$\\frac{( -10 n^{-2} )^{3} ( 4 n^{5} )^{2}}{( 2 n^{8} )^{2}}$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{4000}{n^{12}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, write each number in scientific notation.",
+        "Question": "\u24d0 57,000 \u24d1 0.026",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, write each number in scientific notation.",
+        "Question": "\u24d0 340,000 \u24d1 0.041",
+        "Image Links": [],
+        "Answer": "\u24d0 $$3.4 \\times 10^{5}$$ \u24d1 $$4.1 \\times 10^{-2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, write each number in scientific notation.",
+        "Question": "\u24d0 8,750,000 \u24d1 0.00000871",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, write each number in scientific notation.",
+        "Question": "\u24d0 1,290,000 \u24d1 0.00000103",
+        "Image Links": [],
+        "Answer": "\u24d0 $$1.29 \\times 10^{6}$$ \u24d1 $$1.03 \\times 10^{-6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, convert each number to decimal form.",
+        "Question": "\u24d0 $$5.2 \\times 10^{2}$$ \u24d1 $$2.5 \\times 10^{-2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, convert each number to decimal form.",
+        "Question": "\u24d0 $$-8.3 \\times 10^{2}$$ \u24d1 $$3.8 \\times 10^{-2}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-830$$ \u24d1 0.038",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, convert each number to decimal form.",
+        "Question": "\u24d0 $$7.5 \\times 10^{6}$$ \u24d1 $$-4.13 \\times 10^{-5}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, convert each number to decimal form.",
+        "Question": "\u24d0 $$1.6 \\times 10^{10}$$ \u24d1 $$8.43 \\times 10^{-6}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 16,000,000,000 \u24d1 0.00000843",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, multiply or divide as indicated. Write your answer in decimal form.",
+        "Question": "\u24d0 $$( 3 \\times 10^{-5} ) ( 3 \\times 10^{9} )$$ \u24d1 $$\\frac{7 \\times 10^{-3}}{1 \\times 10^{-7}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, multiply or divide as indicated. Write your answer in decimal form.",
+        "Question": "\u24d0 $$( 2 \\times 10^{2} ) ( 1 \\times 10^{-4} )$$ \u24d1 $$\\frac{5 \\times 10^{-2}}{1 \\times 10^{-10}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 0.02 \u24d1 500,000,000",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, multiply or divide as indicated. Write your answer in decimal form.",
+        "Question": "\u24d0 $$( 7.1 \\times 10^{-2} ) ( 2.4 \\times 10^{-4} )$$ \u24d1 $$\\frac{6 \\times 10^{4}}{3 \\times 10^{-2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Mixed Practice",
+        "Problem Statement": "In the following exercises, multiply or divide as indicated. Write your answer in decimal form.",
+        "Question": "\u24d0 $$( 3.5 \\times 10^{-4} ) ( 1.6 \\times 10^{-2} )$$ \u24d1 $$\\frac{8 \\times 10^{6}}{4 \\times 10^{-1}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 0.0000056 \u24d1 20,000,000",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "Use the Product Property for Exponents to explain why $$x \\cdotp x = x^{2} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "Jennifer thinks the quotient $$\\frac{a^{24}}{a^{6}}$$ simplifies to $$a^{4} .$$ What is wrong with her reasoning?",
+        "Image Links": [],
+        "Answer": "Answers will vary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "Explain why $$\\text{unicode[:-]} 5^{3} = ( -5 )^{3}$$ but $$\\text{unicode[:-]} 5^{4} \\ne ( -5 )^{4} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "When you convert a number from decimal notation to scientific notation, how do you know if the exponent will be positive or negative?",
+        "Image Links": [],
+        "Answer": "Answers will vary.",
+        "Answer Image Links": []
+    }
+]

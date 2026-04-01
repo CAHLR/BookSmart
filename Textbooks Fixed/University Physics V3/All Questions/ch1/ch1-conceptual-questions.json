@@ -1,0 +1,206 @@
+[
+    {
+        "Topic": "1.1 The Propagation of Light",
+        "Problem Statement": "",
+        "Question": "Under what conditions can light be modeled like a ray? Like a wave?",
+        "Image Links": [],
+        "Answer": "Light can be modeled as a ray when devices are large compared to wavelength, and as a wave when devices are comparable or small compared to wavelength.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.1 The Propagation of Light",
+        "Problem Statement": "",
+        "Question": "Why is the index of refraction always greater than or equal to 1?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.1 The Propagation of Light",
+        "Problem Statement": "",
+        "Question": "Does the fact that the light flash from lightning reaches you before its sound prove that the speed of light is extremely large or simply that it is greater than the speed of sound? Discuss how you could use this effect to get an estimate of the speed of light.",
+        "Image Links": [],
+        "Answer": "This fact simply proves that the speed of light is greater than that of sound. If one knows the distance to the location of the lightning and the speed of sound, one could, in principle, determine the speed of light from the data. In practice, because the speed of light is so great, the data would have to be known to impractically high precision.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.1 The Propagation of Light",
+        "Problem Statement": "",
+        "Question": "Speculate as to what physical process might be responsible for light traveling more slowly in a medium than in a vacuum.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 The Law of Reflection",
+        "Problem Statement": "",
+        "Question": "Using the law of reflection, explain how powder takes the shine off of a person\u2019s nose. What is the name of the optical effect?",
+        "Image Links": [],
+        "Answer": "Powder consists of many small particles with randomly oriented surfaces. This leads to diffuse reflection, reducing shine.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.3 Refraction",
+        "Problem Statement": "",
+        "Question": "Diffusion by reflection from a rough surface is described in this chapter. Light can also be diffused by refraction. Describe how this occurs in a specific situation, such as light interacting with crushed ice.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.3 Refraction",
+        "Problem Statement": "",
+        "Question": "Will light change direction toward or away from the perpendicular when it goes from air to water? Water to glass? Glass to air?",
+        "Image Links": [],
+        "Answer": "\u201ctoward\u201d when increasing n (air to water, water to glass); \u201caway\u201d when decreasing n (glass to air)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.3 Refraction",
+        "Problem Statement": "",
+        "Question": "Explain why an object in water always appears to be at a depth shallower than it actually is?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.3 Refraction",
+        "Problem Statement": "",
+        "Question": "Explain why a person\u2019s legs appear very short when wading in a pool. Justify your explanation with a ray diagram showing the path of rays from the feet to the eye of an observer who is out of the water.",
+        "Image Links": [],
+        "Answer": "A ray from a leg emerges from water after refraction. The observer in air perceives an apparent location for the source, as if a ray traveled in a straight line. See the dashed ray below.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/17433d38f1848671b612181be3ffe78eeafb9222"
+        ]
+    },
+    {
+        "Topic": "1.3 Refraction",
+        "Problem Statement": "",
+        "Question": "Explain why an oar that is partially submerged in water appears bent.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.4 Total Internal Reflection",
+        "Problem Statement": "",
+        "Question": "A ring with a colorless gemstone is dropped into water. The gemstone becomes invisible when submerged. Can it be a diamond? Explain.",
+        "Image Links": [],
+        "Answer": "The gemstone becomes invisible when its index of refraction is the same, or at least similar to, the water surrounding it. Because diamond has a particularly high index of refraction, it can still sparkle as a result of total internal reflection, not invisible.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.4 Total Internal Reflection",
+        "Problem Statement": "",
+        "Question": "The most common type of mirage is an illusion that light from faraway objects is reflected by a pool of water that is not really there. Mirages are generally observed in deserts, when there is a hot layer of air near the ground. Given that the refractive index of air is lower for air at higher temperatures, explain how mirages can be formed.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.4 Total Internal Reflection",
+        "Problem Statement": "",
+        "Question": "How can you use total internal reflection to estimate the index of refraction of a medium?",
+        "Image Links": [],
+        "Answer": "One can measure the critical angle by looking for the onset of total internal reflection as the angle of incidence is varied. Equation 1.5 can then be applied to compute the index of refraction.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.5 Dispersion",
+        "Problem Statement": "",
+        "Question": "Is it possible that total internal reflection plays a role in rainbows? Explain in terms of indices of refraction and angles, perhaps referring to that shown below. Some of us have seen the formation of a double rainbow; is it physically possible to observe a triple rainbow? (credit: \"Chad\"/Flickr)",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d5e75f4e3bc2d714f0590b257fecb67dda9e9cc4"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.5 Dispersion",
+        "Problem Statement": "",
+        "Question": "A high-quality diamond may be quite clear and colorless, transmitting all visible wavelengths with little absorption. Explain how it can sparkle with flashes of brilliant color when illuminated by white light.",
+        "Image Links": [],
+        "Answer": "In addition to total internal reflection, rays that refract into and out of diamond crystals are subject to dispersion due to varying values of n across the spectrum, resulting in a sparkling display of colors.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.6 Huygens\u2019s Principle",
+        "Problem Statement": "",
+        "Question": "How do wave effects depend on the size of the object with which the wave interacts? For example, why does sound bend around the corner of a building while light does not?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.6 Huygens\u2019s Principle",
+        "Problem Statement": "",
+        "Question": "Does Huygens\u2019s principle apply to all types of waves?",
+        "Image Links": [],
+        "Answer": "yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.6 Huygens\u2019s Principle",
+        "Problem Statement": "",
+        "Question": "If diffraction is observed for some phenomenon, it is evidence that the phenomenon is a wave. Does the reverse hold true? That is, if diffraction is not observed, does that mean the phenomenon is not a wave?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.7 Polarization",
+        "Problem Statement": "",
+        "Question": "Can a sound wave in air be polarized? Explain.",
+        "Image Links": [],
+        "Answer": "No. Sound waves are not transverse waves.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.7 Polarization",
+        "Problem Statement": "",
+        "Question": "No light passes through two perfect polarizing filters with perpendicular axes. However, if a third polarizing filter is placed between the original two, some light can pass. Why is this? Under what circumstances does most of the light pass?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.7 Polarization",
+        "Problem Statement": "",
+        "Question": "Explain what happens to the energy carried by light that it is dimmed by passing it through two crossed polarizing filters.",
+        "Image Links": [],
+        "Answer": "Energy is absorbed into the filters.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.7 Polarization",
+        "Problem Statement": "",
+        "Question": "When particles scattering light are much smaller than its wavelength, the amount of scattering is proportional to $$\\frac{1}{\\lambda}$$ . Does this mean there is more scattering for small $$\\lambda$$ than large $$\\lambda$$ ? How does this relate to the fact that the sky is blue?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.7 Polarization",
+        "Problem Statement": "",
+        "Question": "Using the information given in the preceding question, explain why sunsets are red.",
+        "Image Links": [],
+        "Answer": "Sunsets are viewed with light traveling straight from the Sun toward us. When blue light is scattered out of this path, the remaining red light dominates the overall appearance of the setting Sun.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.7 Polarization",
+        "Problem Statement": "",
+        "Question": "When light is reflected at Brewster\u2019s angle from a smooth surface, it is $$100 \\text{%}$$ polarized parallel to the surface. Part of the light will be refracted into the surface. Describe how you would do an experiment to determine the polarization of the refracted light. What direction would you expect the polarization to have and would you expect it to be $$100 \\text{%}$$ ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.7 Polarization",
+        "Problem Statement": "",
+        "Question": "If you lie on a beach looking at the water with your head tipped slightly sideways, your polarized sunglasses do not work very well. Why not?",
+        "Image Links": [],
+        "Answer": "The axis of polarization for the sunglasses has been rotated $$90 \\text{\u00b0}$$ .",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,194 @@
+[
+    {
+        "Topic": "Try It 6.93",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( x + 9 )^{2} .$$",
+        "Image Links": [],
+        "Answer": "$$x^{2} + 18 x + 81$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.94",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( y + 11 )^{2} .$$",
+        "Image Links": [],
+        "Answer": "$$y^{2} + 22 y + 121$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.95",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( x - 9 )^{2} .$$",
+        "Image Links": [],
+        "Answer": "$$x^{2} - 18 x + 81$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.96",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( p - 13 )^{2} .$$",
+        "Image Links": [],
+        "Answer": "$$p^{2} - 26 p + 169$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.97",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( 6 x + 3 )^{2} .$$",
+        "Image Links": [],
+        "Answer": "$$36 x^{2} + 36 x + 9$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.98",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( 4 x + 9 )^{2} .$$",
+        "Image Links": [],
+        "Answer": "$$16 x^{2} + 72 x + 81$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.99",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( 2 c - d )^{2} .$$",
+        "Image Links": [],
+        "Answer": "$$4 c^{2} - 4 c d + d^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.100",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( 4 x - 5 y )^{2} .$$",
+        "Image Links": [],
+        "Answer": "$$16 x^{2} - 40 x y + 25 y^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.101",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( 2 x^{2} + 1 )^{2} .$$",
+        "Image Links": [],
+        "Answer": "$$4 x^{4} + 4 x^{2} + 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.102",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( 3 y^{3} + 2 )^{2} .$$",
+        "Image Links": [],
+        "Answer": "$$9 y^{6} + 12 y^{3} + 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.103",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( x - 5 ) ( x + 5 ) .$$",
+        "Image Links": [],
+        "Answer": "$$x^{2} - 25$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.104",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( w - 3 ) ( w + 3 ) .$$",
+        "Image Links": [],
+        "Answer": "$$w^{2} - 9$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.105",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( 6 x + 5 ) ( 6 x - 5 ) .$$",
+        "Image Links": [],
+        "Answer": "$$36 x^{2} - 25$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.106",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( 2 x + 7 ) ( 2 x - 7 ) .$$",
+        "Image Links": [],
+        "Answer": "$$4 x^{2} - 49$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.107",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( 7 + 4 x ) ( 7 - 4 x ) .$$",
+        "Image Links": [],
+        "Answer": "$$49 - 16 x^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.108",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( 9 - 2 y ) ( 9 + 2 y ) .$$",
+        "Image Links": [],
+        "Answer": "$$81 - 4 y^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.109",
+        "Problem Statement": "",
+        "Question": "Find the product: $$( 4 p - 7 q ) ( 4 p + 7 q ) .$$",
+        "Image Links": [],
+        "Answer": "$$16 p^{2} - 49 q^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.110",
+        "Problem Statement": "",
+        "Question": "Find the product: $$( 3 x - y ) ( 3 x + y ) .$$",
+        "Image Links": [],
+        "Answer": "$$9 x^{2} - y^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.111",
+        "Problem Statement": "",
+        "Question": "Find the product: $$( x y - 6 ) ( x y + 6 ) .$$",
+        "Image Links": [],
+        "Answer": "$$x^{2} y^{2} - 36$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.112",
+        "Problem Statement": "",
+        "Question": "Find the product: $$( a b - 9 ) ( a b + 9 ) .$$",
+        "Image Links": [],
+        "Answer": "$$a^{2} b^{2} - 81$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.113",
+        "Problem Statement": "",
+        "Question": "Find the product: $$( 3 x^{2} - 4 y^{3} ) ( 3 x^{2} + 4 y^{3} ) .$$",
+        "Image Links": [],
+        "Answer": "$$9 x^{4} - 16 y^{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.114",
+        "Problem Statement": "",
+        "Question": "Find the product: $$( 2 m^{2} - 5 n^{3} ) ( 2 m^{2} + 5 n^{3} ) .$$",
+        "Image Links": [],
+        "Answer": "$$4 m^{4} - 25 n^{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.115",
+        "Problem Statement": "",
+        "Question": "Choose the appropriate pattern and use it to find the product: \u24d0 $$( 9 b - 2 ) ( 2 b + 9 )$$ \u24d1 $$( 9 p - 4 )^{2}$$ \u24d2 $$( 7 y + 1 )^{2}$$ \u24d3 $$( 4 r - 3 ) ( 4 r + 3 )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 FOIL; $$18 b^{2} + 77 b - 18$$ \u24d1 Binomial Squares; $$81 p^{2} - 72 p + 16$$ \u24d2 Binomial Squares; $$49 y^{2} + 14 y + 1$$ \u24d3 Product of Conjugates; $$16 r^{2} - 9$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 6.116",
+        "Problem Statement": "",
+        "Question": "Choose the appropriate pattern and use it to find the product: \u24d0 $$( 6 x + 7 )^{2}$$ \u24d1 $$( 3 x - 4 ) ( 3 x + 4 )$$ \u24d2 $$( 2 x - 5 ) ( 5 x - 2 )$$ \u24d3 $$( 6 n - 1 )^{2}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 Binomial Squares; $$36 x^{2} + 84 x + 49$$ \u24d1 Product of Conjugates; $$9 x^{2} - 16$$ \u24d2 FOIL; $$10 x^{2} - 29 x + 10$$ \u24d3 Binomial Squares; $$36 n^{2} - 12 n + 1$$",
+        "Answer Image Links": []
+    }
+]

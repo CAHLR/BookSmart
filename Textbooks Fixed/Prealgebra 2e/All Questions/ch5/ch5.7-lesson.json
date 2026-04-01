@@ -1,0 +1,362 @@
+[
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{36}$$",
+        "Image Links": [],
+        "Answer": "6",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{64}$$",
+        "Image Links": [],
+        "Answer": "8",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{144}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$- \\sqrt{4}$$",
+        "Image Links": [],
+        "Answer": "-2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$- \\sqrt{100}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$- \\sqrt{1}$$",
+        "Image Links": [],
+        "Answer": "-1",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$- \\sqrt{121}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{-121}$$",
+        "Image Links": [],
+        "Answer": "not a real number",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{-36}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{-9}$$",
+        "Image Links": [],
+        "Answer": "not a real number",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{-49}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{9 + 16}$$",
+        "Image Links": [],
+        "Answer": "5",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{25 + 144}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{9} + \\sqrt{16}$$",
+        "Image Links": [],
+        "Answer": "7",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{25} + \\sqrt{144}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, estimate each square root between two consecutive whole numbers.",
+        "Question": "$$\\sqrt{70}$$",
+        "Image Links": [],
+        "Answer": "$$8 < \\sqrt{70} < 9$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, estimate each square root between two consecutive whole numbers.",
+        "Question": "$$\\sqrt{55}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, estimate each square root between two consecutive whole numbers.",
+        "Question": "$$\\sqrt{200}$$",
+        "Image Links": [],
+        "Answer": "$$14 < \\sqrt{200} < 15$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, estimate each square root between two consecutive whole numbers.",
+        "Question": "$$\\sqrt{172}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, use a calculator to approximate each square root and round to two decimal places.",
+        "Question": "$$\\sqrt{19}$$",
+        "Image Links": [],
+        "Answer": "4.36",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, use a calculator to approximate each square root and round to two decimal places.",
+        "Question": "$$\\sqrt{21}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, use a calculator to approximate each square root and round to two decimal places.",
+        "Question": "$$\\sqrt{53}$$",
+        "Image Links": [],
+        "Answer": "7.28",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, use a calculator to approximate each square root and round to two decimal places.",
+        "Question": "$$\\sqrt{47}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify. (Assume all variables are greater than or equal to zero.)",
+        "Question": "$$\\sqrt{y^{2}}$$",
+        "Image Links": [],
+        "Answer": "y",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify. (Assume all variables are greater than or equal to zero.)",
+        "Question": "$$\\sqrt{b^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify. (Assume all variables are greater than or equal to zero.)",
+        "Question": "$$\\sqrt{49 x^{2}}$$",
+        "Image Links": [],
+        "Answer": "7 x",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify. (Assume all variables are greater than or equal to zero.)",
+        "Question": "$$\\sqrt{100 y^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify. (Assume all variables are greater than or equal to zero.)",
+        "Question": "$$- \\sqrt{64 a^{2}}$$",
+        "Image Links": [],
+        "Answer": "-8 a",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify. (Assume all variables are greater than or equal to zero.)",
+        "Question": "$$- \\sqrt{25 x^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify. (Assume all variables are greater than or equal to zero.)",
+        "Question": "$$\\sqrt{144 x^{2} y^{2}}$$",
+        "Image Links": [],
+        "Answer": "12 xy",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify. (Assume all variables are greater than or equal to zero.)",
+        "Question": "$$\\sqrt{196 a^{2} b^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve. Round to one decimal place.",
+        "Question": "Landscaping Reed wants to have a square garden plot in his backyard. He has enough compost to cover an area of $$75$$ square feet. How long can a side of his garden be?",
+        "Image Links": [],
+        "Answer": "8.7 feet",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve. Round to one decimal place.",
+        "Question": "Landscaping Vince wants to make a square patio in his yard. He has enough concrete to pave an area of $$130$$ square feet. How long can a side of his patio be?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve. Round to one decimal place.",
+        "Question": "Gravity An airplane dropped a flare from a height of $$1,024$$ feet above a lake. How many seconds did it take for the flare to reach the water?",
+        "Image Links": [],
+        "Answer": "8 seconds",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve. Round to one decimal place.",
+        "Question": "Gravity A hang glider dropped his cell phone from a height of $$350$$ feet. How many seconds did it take for the cell phone to reach the ground?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve. Round to one decimal place.",
+        "Question": "Gravity A construction worker dropped a hammer while building the Grand Canyon skywalk, $$4,000$$ feet above the Colorado River. How many seconds did it take for the hammer to reach the river?",
+        "Image Links": [],
+        "Answer": "15.8 seconds",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve. Round to one decimal place.",
+        "Question": "Accident investigation The skid marks from a car involved in an accident measured $$54$$ feet. What was the speed of the car before the brakes were applied?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve. Round to one decimal place.",
+        "Question": "Accident investigation The skid marks from a car involved in an accident measured $$216$$ feet. What was the speed of the car before the brakes were applied?",
+        "Image Links": [],
+        "Answer": "72 mph",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve. Round to one decimal place.",
+        "Question": "Accident investigation An accident investigator measured the skid marks of one of the vehicles involved in an accident. The length of the skid marks was $$175$$ feet. What was the speed of the vehicle before the brakes were applied?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve. Round to one decimal place.",
+        "Question": "Accident investigation An accident investigator measured the skid marks of one of the vehicles involved in an accident. The length of the skid marks was $$117$$ feet. What was the speed of the vehicle before the brakes were applied?",
+        "Image Links": [],
+        "Answer": "53.0 mph",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Everyday Math",
+        "Problem Statement": "",
+        "Question": "Decorating Denise wants to install a square accent of designer tiles in her new shower. She can afford to buy $$625$$ square centimeters of the designer tiles. How long can a side of the accent be?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Everyday Math",
+        "Problem Statement": "",
+        "Question": "Decorating Morris wants to have a square mosaic inlaid in his new patio. His budget allows for $$2,025$$ tiles. Each tile is square with an area of one square inch. How long can a side of the mosaic be?",
+        "Image Links": [],
+        "Answer": "45 inches",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "Why is there no real number equal to $$\\sqrt{-64} ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "What is the difference between $$9^{2}$$ and $$\\sqrt{9} ?$$",
+        "Image Links": [],
+        "Answer": "Answers will vary. 9 2 reads: \u201cnine squared\u201d and means nine times itself. The expression $$\\sqrt{9}$$ reads: \u201cthe square root of nine\u201d which gives us the number such that if it were multiplied by itself would give you the number inside of the square root.",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "Topic": "Check Your Understanding 8.7",
+        "Problem Statement": "",
+        "Question": "How high above the bottom of its arc is the particle in the simple pendulum above, when its speed is $$0.81 \\text{m} \\text{/} \\text{s} ?$$",
+        "Image Links": [],
+        "Answer": "$$0.10 \\text{m}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 8.8",
+        "Problem Statement": "",
+        "Question": "You probably recall that, neglecting air resistance, if you throw a projectile straight up, the time it takes to reach its maximum height equals the time it takes to fall from the maximum height back to the starting height. Suppose you cannot neglect air resistance, as in Example 8.8. Is the time the projectile takes to go up (a) greater than, (b) less than, or (c) equal to the time it takes to come back down? Explain.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a011900937d51f442f3cffe060fc15dea8c5deae"
+        ],
+        "Answer": "b. At any given height, the gravitational potential energy is the same going up or down, but the kinetic energy is less going down than going up, since air resistance is dissipative and does negative work. Therefore, at any height, the speed going down is less than the speed going up, so it must take a longer time to go down than to go up.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 8.9",
+        "Problem Statement": "",
+        "Question": "What potential energy $$U ( x )$$ can you substitute in Equation 8.13 that will result in motion with constant velocity of 2 m/s for a particle of mass 1 kg and mechanical energy 1 J?",
+        "Image Links": [],
+        "Answer": "constant $$U ( x ) = -1 \\text{J}$$",
+        "Answer Image Links": []
+    }
+]

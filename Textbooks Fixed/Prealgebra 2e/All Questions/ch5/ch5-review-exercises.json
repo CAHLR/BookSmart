@@ -1,0 +1,1202 @@
+[
+    {
+        "Topic": "Decimals",
+        "Problem Statement": "In the following exercises, name each decimal.",
+        "Question": "$$0.8$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals",
+        "Problem Statement": "In the following exercises, name each decimal.",
+        "Question": "$$0.375$$",
+        "Image Links": [],
+        "Answer": "three hundred seventy-five thousandths",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals",
+        "Problem Statement": "In the following exercises, name each decimal.",
+        "Question": "$$0.007$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals",
+        "Problem Statement": "In the following exercises, name each decimal.",
+        "Question": "$$5.24$$",
+        "Image Links": [],
+        "Answer": "five and twenty-four hundredths",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals",
+        "Problem Statement": "In the following exercises, name each decimal.",
+        "Question": "$$-12.5632$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals",
+        "Problem Statement": "In the following exercises, name each decimal.",
+        "Question": "$$-4.09$$",
+        "Image Links": [],
+        "Answer": "negative four and nine hundredths",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals",
+        "Problem Statement": "In the following exercises, write as a decimal.",
+        "Question": "three tenths",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals",
+        "Problem Statement": "In the following exercises, write as a decimal.",
+        "Question": "nine hundredths",
+        "Image Links": [],
+        "Answer": "0.09",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals",
+        "Problem Statement": "In the following exercises, write as a decimal.",
+        "Question": "twenty-seven hundredths",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals",
+        "Problem Statement": "In the following exercises, write as a decimal.",
+        "Question": "ten and thirty-five thousandths",
+        "Image Links": [],
+        "Answer": "10.035",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals",
+        "Problem Statement": "In the following exercises, write as a decimal.",
+        "Question": "negative twenty and three tenths",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals",
+        "Problem Statement": "In the following exercises, write as a decimal.",
+        "Question": "negative five hundredths",
+        "Image Links": [],
+        "Answer": "-0.05",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals",
+        "Problem Statement": "In the following exercises, convert each decimal to a fraction. Simplify the answer if possible.",
+        "Question": "$$0.43$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals",
+        "Problem Statement": "In the following exercises, convert each decimal to a fraction. Simplify the answer if possible.",
+        "Question": "$$0.825$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{33}{40}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals",
+        "Problem Statement": "In the following exercises, convert each decimal to a fraction. Simplify the answer if possible.",
+        "Question": "$$9.7$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals",
+        "Problem Statement": "In the following exercises, convert each decimal to a fraction. Simplify the answer if possible.",
+        "Question": "$$3.64$$",
+        "Image Links": [],
+        "Answer": "$$3 \\frac{16}{25}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals",
+        "Problem Statement": "Locate Decimals on the Number Line",
+        "Question": "\u24d0 $$0.6$$ \u24d1 $$-0.9$$ \u24d2 $$2.2$$ \u24d3 $$-1.3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals",
+        "Problem Statement": "In the following exercises, order each of the following pairs of numbers, using $$<$$ or $$\\text{unicode[:>].}$$",
+        "Question": "$$0.6 ___ 0.8$$",
+        "Image Links": [],
+        "Answer": "<",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals",
+        "Problem Statement": "In the following exercises, order each of the following pairs of numbers, using $$<$$ or $$\\text{unicode[:>].}$$",
+        "Question": "$$0.2 ___ 0.15$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals",
+        "Problem Statement": "In the following exercises, order each of the following pairs of numbers, using $$<$$ or $$\\text{unicode[:>].}$$",
+        "Question": "$$0.803 ____ 0.83$$",
+        "Image Links": [],
+        "Answer": "<",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals",
+        "Problem Statement": "In the following exercises, order each of the following pairs of numbers, using $$<$$ or $$\\text{unicode[:>].}$$",
+        "Question": "$$-0.56 ____ -0.562$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals",
+        "Problem Statement": "In the following exercises, round each number to the nearest: \u24d0 hundredth \u24d1 tenth \u24d2 whole number.",
+        "Question": "$$12.529$$",
+        "Image Links": [],
+        "Answer": "\u24d0 12.53 \u24d1 12.5 \u24d2 13",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals",
+        "Problem Statement": "In the following exercises, round each number to the nearest: \u24d0 hundredth \u24d1 tenth \u24d2 whole number.",
+        "Question": "$$4.8447$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals",
+        "Problem Statement": "In the following exercises, round each number to the nearest: \u24d0 hundredth \u24d1 tenth \u24d2 whole number.",
+        "Question": "$$5.897$$",
+        "Image Links": [],
+        "Answer": "\u24d0 5.90 \u24d1 5.9 \u24d2 6",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimal Operations",
+        "Problem Statement": "In the following exercises, add or subtract.",
+        "Question": "$$5.75 + 8.46$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimal Operations",
+        "Problem Statement": "In the following exercises, add or subtract.",
+        "Question": "$$32.89 - 8.22$$",
+        "Image Links": [],
+        "Answer": "24.67",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimal Operations",
+        "Problem Statement": "In the following exercises, add or subtract.",
+        "Question": "$$24 - 19.31$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimal Operations",
+        "Problem Statement": "In the following exercises, add or subtract.",
+        "Question": "$$10.2 + 14.631$$",
+        "Image Links": [],
+        "Answer": "24.831",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimal Operations",
+        "Problem Statement": "In the following exercises, add or subtract.",
+        "Question": "$$-6.4 + ( -2.9 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimal Operations",
+        "Problem Statement": "In the following exercises, add or subtract.",
+        "Question": "$$1.83 - 4.2$$",
+        "Image Links": [],
+        "Answer": "-2.37",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimal Operations",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( 0.3 ) ( 0.7 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimal Operations",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( -6.4 ) ( 0.25 )$$",
+        "Image Links": [],
+        "Answer": "-1.6",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimal Operations",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( -3.35 ) ( -12.7 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimal Operations",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( 15.4 ) ( 1000 )$$",
+        "Image Links": [],
+        "Answer": "15,400",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimal Operations",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "$$0.48 \\div 6$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimal Operations",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "$$4.32 \\div 24$$",
+        "Image Links": [],
+        "Answer": "0.18",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimal Operations",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "$$\\text{$6.29} \\div 12$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimal Operations",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "$$( -0.8 ) \\div ( -0.2 )$$",
+        "Image Links": [],
+        "Answer": "4",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimal Operations",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "$$1.65 \\div 0.15$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimal Operations",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "$$9 \\div 0.045$$",
+        "Image Links": [],
+        "Answer": "200",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimal Operations",
+        "Problem Statement": "In the following exercises, use the strategy for applications to solve.",
+        "Question": "Miranda got $$\\text{$40}$$ from her ATM. She spent $$\\text{$9.32}$$ on lunch and $$\\text{$16.99}$$ on a book. How much money did she have left? Round to the nearest cent if necessary.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimal Operations",
+        "Problem Statement": "In the following exercises, use the strategy for applications to solve.",
+        "Question": "Jessie put $$8$$ gallons of gas in her car. One gallon of gas costs $$\\text{$3.528.}$$ How much did Jessie owe for all the gas?",
+        "Image Links": [],
+        "Answer": "$28.22",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimal Operations",
+        "Problem Statement": "In the following exercises, use the strategy for applications to solve.",
+        "Question": "A pack of $$16$$ water bottles cost $$\\text{$6.72.}$$ How much did each bottle cost?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimal Operations",
+        "Problem Statement": "In the following exercises, use the strategy for applications to solve.",
+        "Question": "Alice bought a roll of paper towels that cost $$\\text{$2.49.}$$ She had a coupon for $$\\text{$0.35}$$ off, and the store doubled the coupon. How much did Alice pay for the paper towels?",
+        "Image Links": [],
+        "Answer": "$1.79",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals and Fractions",
+        "Problem Statement": "In the following exercises, convert each fraction to a decimal.",
+        "Question": "$$\\frac{3}{5}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals and Fractions",
+        "Problem Statement": "In the following exercises, convert each fraction to a decimal.",
+        "Question": "$$\\frac{7}{8}$$",
+        "Image Links": [],
+        "Answer": "0.875",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals and Fractions",
+        "Problem Statement": "In the following exercises, convert each fraction to a decimal.",
+        "Question": "$$- \\frac{19}{20}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals and Fractions",
+        "Problem Statement": "In the following exercises, convert each fraction to a decimal.",
+        "Question": "$$- \\frac{21}{4}$$",
+        "Image Links": [],
+        "Answer": "-5.25",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals and Fractions",
+        "Problem Statement": "In the following exercises, convert each fraction to a decimal.",
+        "Question": "$$\\frac{1}{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals and Fractions",
+        "Problem Statement": "In the following exercises, convert each fraction to a decimal.",
+        "Question": "$$\\frac{6}{11}$$",
+        "Image Links": [],
+        "Answer": "$$0 . \\overset{-}{54}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals and Fractions",
+        "Problem Statement": "In the following exercises, order each pair of numbers, using $$<$$ or $$\\text{unicode[:>].}$$",
+        "Question": "$$\\frac{1}{2} ___ 0.2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals and Fractions",
+        "Problem Statement": "In the following exercises, order each pair of numbers, using $$<$$ or $$\\text{unicode[:>].}$$",
+        "Question": "$$\\frac{3}{5} ___ 0 .$$",
+        "Image Links": [],
+        "Answer": ">",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals and Fractions",
+        "Problem Statement": "In the following exercises, order each pair of numbers, using $$<$$ or $$\\text{unicode[:>].}$$",
+        "Question": "$$- \\frac{7}{8} ___ -0.84$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals and Fractions",
+        "Problem Statement": "In the following exercises, order each pair of numbers, using $$<$$ or $$\\text{unicode[:>].}$$",
+        "Question": "$$- \\frac{5}{12} ___ -0.42$$",
+        "Image Links": [],
+        "Answer": ">",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals and Fractions",
+        "Problem Statement": "In the following exercises, order each pair of numbers, using $$<$$ or $$\\text{unicode[:>].}$$",
+        "Question": "$$0.625 ___ \\frac{13}{20}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals and Fractions",
+        "Problem Statement": "In the following exercises, order each pair of numbers, using $$<$$ or $$\\text{unicode[:>].}$$",
+        "Question": "$$0.33 ___ \\frac{5}{16}$$",
+        "Image Links": [],
+        "Answer": ">",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals and Fractions",
+        "Problem Statement": "In the following exercises, write each set of numbers in order from least to greatest.",
+        "Question": "$$\\frac{2}{3} , \\frac{17}{20} , 0.65$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals and Fractions",
+        "Problem Statement": "In the following exercises, write each set of numbers in order from least to greatest.",
+        "Question": "$$\\frac{7}{9} , 0.75 , \\frac{11}{15}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{11}{15} , 0.75 , \\frac{7}{9}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals and Fractions",
+        "Problem Statement": "In the following exercises, simplify",
+        "Question": "$$4 ( 10.3 - 5.8 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals and Fractions",
+        "Problem Statement": "In the following exercises, simplify",
+        "Question": "$$\\frac{3}{4} ( 15.44 - 7.4 )$$",
+        "Image Links": [],
+        "Answer": "6.03",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals and Fractions",
+        "Problem Statement": "In the following exercises, simplify",
+        "Question": "$$30 \\div ( 0.45 + 0.15 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals and Fractions",
+        "Problem Statement": "In the following exercises, simplify",
+        "Question": "$$1.6 + \\frac{3}{8}$$",
+        "Image Links": [],
+        "Answer": "1.975",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals and Fractions",
+        "Problem Statement": "In the following exercises, simplify",
+        "Question": "$$52 ( 0.5 ) + ( 0.4 )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals and Fractions",
+        "Problem Statement": "In the following exercises, simplify",
+        "Question": "$$- \\frac{2}{5} \\cdotp \\frac{9}{10} + 0.14$$",
+        "Image Links": [],
+        "Answer": "-0.22",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals and Fractions",
+        "Problem Statement": "In the following exercises, approximate the \u24d0 circumference and \u24d1 area of each circle.",
+        "Question": "$$\\text{radius} = \\text{6 in.}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals and Fractions",
+        "Problem Statement": "In the following exercises, approximate the \u24d0 circumference and \u24d1 area of each circle.",
+        "Question": "$$\\text{radius} = \\text{3.5 ft.}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 21.98 ft. \u24d1 38.465 sq.ft.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals and Fractions",
+        "Problem Statement": "In the following exercises, approximate the \u24d0 circumference and \u24d1 area of each circle.",
+        "Question": "$$\\text{radius} = \\frac{7}{33} \\text{m}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Decimals and Fractions",
+        "Problem Statement": "In the following exercises, approximate the \u24d0 circumference and \u24d1 area of each circle.",
+        "Question": "$$\\text{diameter} = \\text{11 cm}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 34.54 cm \u24d1 94.985 sq.cm",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Equations with Decimals",
+        "Problem Statement": "In the following exercises, determine whether the each number is a solution of the given equation.",
+        "Question": "$$x - 0.4 = 2.1$$ \u24d0 $$x = 1.7$$ \u24d1 $$x = 2.5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Equations with Decimals",
+        "Problem Statement": "In the following exercises, determine whether the each number is a solution of the given equation.",
+        "Question": "$$y + 3.2 = -1.5$$ \u24d0 $$y = 1.7$$ \u24d1 $$y = -4.7$$",
+        "Image Links": [],
+        "Answer": "\u24d0 no \u24d1 yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Equations with Decimals",
+        "Problem Statement": "In the following exercises, determine whether the each number is a solution of the given equation.",
+        "Question": "$$\\frac{u}{2.5} = -12.5$$ \u24d0 $$u = -5$$ \u24d1 $$u = -31.25$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Equations with Decimals",
+        "Problem Statement": "In the following exercises, determine whether the each number is a solution of the given equation.",
+        "Question": "$$0.45 v = -40.5$$ \u24d0 $$v = -18.225$$ \u24d1 $$v = -90$$",
+        "Image Links": [],
+        "Answer": "\u24d0 no \u24d1 yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Equations with Decimals",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$m + 3.8 = 7.5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Equations with Decimals",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$h + 5.91 = 2.4$$",
+        "Image Links": [],
+        "Answer": "h = -3.51",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Equations with Decimals",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$a + 2.26 = -1.1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Equations with Decimals",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$p - 4.3 = -1.65$$",
+        "Image Links": [],
+        "Answer": "p = 2.65",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Equations with Decimals",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$x - 0.24 = -8.6$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Equations with Decimals",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$j - 7.42 = -3.7$$",
+        "Image Links": [],
+        "Answer": "j = 3.72",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Equations with Decimals",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$0.6 p = 13.2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Equations with Decimals",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$-8.6 x = 34.4$$",
+        "Image Links": [],
+        "Answer": "x = -4",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Equations with Decimals",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$-22.32 = -2.4 z$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Equations with Decimals",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$\\frac{a}{0.3} = -24$$",
+        "Image Links": [],
+        "Answer": "a = -7.2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Equations with Decimals",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$\\frac{p}{-7} = -4.2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Equations with Decimals",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$\\frac{s}{-2.5} = -10$$",
+        "Image Links": [],
+        "Answer": "s = 25",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Equations with Decimals",
+        "Problem Statement": "In the following exercises, translate and solve.",
+        "Question": "The difference of $$n$$ and $$15.2$$ is $$4.4 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Equations with Decimals",
+        "Problem Statement": "In the following exercises, translate and solve.",
+        "Question": "The product of $$-5.9$$ and $$x$$ is $$-3.54 .$$",
+        "Image Links": [],
+        "Answer": "-5.9 x = -3.54; x = 0.6",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Equations with Decimals",
+        "Problem Statement": "In the following exercises, translate and solve.",
+        "Question": "The quotient of $$y$$ and $$-1.8$$ is $$-9 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Equations with Decimals",
+        "Problem Statement": "In the following exercises, translate and solve.",
+        "Question": "The sum of $$m$$ and $$( -4.03 )$$ is $$6.8 .$$",
+        "Image Links": [],
+        "Answer": "m + (-4.03) = 6.8; m = 10.83",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Averages and Probability",
+        "Problem Statement": "In the following exercises, find the mean of the numbers.",
+        "Question": "$$2 , 4 , 1 , 0 , 1 , \\text{and} 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Averages and Probability",
+        "Problem Statement": "In the following exercises, find the mean of the numbers.",
+        "Question": "$$\\text{$270}$$ , $$\\text{$310.50}$$ , $$\\text{$243.75}$$ , and $$\\text{$252.15}$$",
+        "Image Links": [],
+        "Answer": "$269.10",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Averages and Probability",
+        "Problem Statement": "In the following exercises, find the mean of the numbers.",
+        "Question": "Each workday last week, Yoshie kept track of the number of minutes she had to wait for the bus. She waited $$3 , 0 , 8 , 1 , \\text{and} 8$$ minutes. Find the mean.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Averages and Probability",
+        "Problem Statement": "In the following exercises, find the mean of the numbers.",
+        "Question": "In the last three months, Raul\u2019s water bills were $$\\text{$31.45} , \\text{$48.76} , \\text{and} \\text{$42.60} .$$ Find the mean.",
+        "Image Links": [],
+        "Answer": "$40.94",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Averages and Probability",
+        "Problem Statement": "In the following exercises, find the median.",
+        "Question": "$$41$$ , $$45$$ , $$32$$ , $$60$$ , $$58$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Averages and Probability",
+        "Problem Statement": "In the following exercises, find the median.",
+        "Question": "$$25$$ , $$23$$ , $$24$$ , $$26$$ , $$29$$ , $$19$$ , $$18$$ , $$32$$",
+        "Image Links": [],
+        "Answer": "24.5",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Averages and Probability",
+        "Problem Statement": "In the following exercises, find the median.",
+        "Question": "The ages of the eight men in Jerry\u2019s model train club are $$52 , 63 , 45 , 51 , 55 , 75 , 60 , \\text{and} 59 .$$ Find the median age.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Averages and Probability",
+        "Problem Statement": "In the following exercises, find the median.",
+        "Question": "The number of clients at Miranda\u2019s beauty salon each weekday last week were $$18 , 7 , 12 , 16 , \\text{and} 20 .$$ Find the median number of clients.",
+        "Image Links": [],
+        "Answer": "16 clients",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Averages and Probability",
+        "Problem Statement": "In the following exercises, identify the mode of the numbers.",
+        "Question": "$$6$$ , $$4$$ , $$4 , 5$$ , $$6 , 6$$ , $$4$$ , $$4$$ , $$4$$ , $$3$$ , $$5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Averages and Probability",
+        "Problem Statement": "In the following exercises, identify the mode of the numbers.",
+        "Question": "The number of siblings of a group of students: $$2$$ , $$0$$ , $$3$$ , $$2$$ , $$4$$ , $$1$$ , $$6$$ , $$5$$ , $$4$$ , $$1$$ , $$2$$ , $$3$$",
+        "Image Links": [],
+        "Answer": "2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Averages and Probability",
+        "Problem Statement": "In the following exercises, solve. (Round decimals to three places.)",
+        "Question": "The Sustainability Club sells $$200$$ tickets to a raffle, and Albert buys one ticket. One ticket will be selected at random to win the grand prize. Find the probability Albert will win the grand prize. Express your answer as a fraction and as a decimal.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Averages and Probability",
+        "Problem Statement": "In the following exercises, solve. (Round decimals to three places.)",
+        "Question": "Luc has to read $$3$$ novels and $$12$$ short stories for his literature class. The professor will choose one reading at random for the final exam. Find the probability that the professor will choose a novel for the final exam. Express your answer as a fraction and as a decimal.",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{5} ; 0.2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Ratios and Rate",
+        "Problem Statement": "In the following exercises, write each ratio as a fraction. Simplify the answer if possible.",
+        "Question": "$$28$$ to $$40$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Ratios and Rate",
+        "Problem Statement": "In the following exercises, write each ratio as a fraction. Simplify the answer if possible.",
+        "Question": "$$56$$ to $$32$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{7}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Ratios and Rate",
+        "Problem Statement": "In the following exercises, write each ratio as a fraction. Simplify the answer if possible.",
+        "Question": "$$3.5$$ to $$0.5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Ratios and Rate",
+        "Problem Statement": "In the following exercises, write each ratio as a fraction. Simplify the answer if possible.",
+        "Question": "$$1.2$$ to $$1.8$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Ratios and Rate",
+        "Problem Statement": "In the following exercises, write each ratio as a fraction. Simplify the answer if possible.",
+        "Question": "$$1 \\frac{3}{4} \\text{to} 1 \\frac{5}{8}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Ratios and Rate",
+        "Problem Statement": "In the following exercises, write each ratio as a fraction. Simplify the answer if possible.",
+        "Question": "$$2 \\frac{1}{3} \\text{to} 5 \\frac{1}{4}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{4}{9}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Ratios and Rate",
+        "Problem Statement": "In the following exercises, write each ratio as a fraction. Simplify the answer if possible.",
+        "Question": "$$64$$ ounces to $$30$$ ounces",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Ratios and Rate",
+        "Problem Statement": "In the following exercises, write each ratio as a fraction. Simplify the answer if possible.",
+        "Question": "$$28$$ inches to $$3$$ feet",
+        "Image Links": [],
+        "Answer": "$$\\frac{7}{9}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Ratios and Rate",
+        "Problem Statement": "In the following exercises, write each rate as a fraction. Simplify the answer if possible.",
+        "Question": "$$180$$ calories per $$8$$ ounces",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Ratios and Rate",
+        "Problem Statement": "In the following exercises, write each rate as a fraction. Simplify the answer if possible.",
+        "Question": "$$90$$ pounds per $$7.5$$ square inches",
+        "Image Links": [],
+        "Answer": "$$\\frac{12 \\text{pounds}}{1 \\text{square inch}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Ratios and Rate",
+        "Problem Statement": "In the following exercises, write each rate as a fraction. Simplify the answer if possible.",
+        "Question": "$$126$$ miles in $$4$$ hours",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Ratios and Rate",
+        "Problem Statement": "In the following exercises, write each rate as a fraction. Simplify the answer if possible.",
+        "Question": "$$\\text{$612.50}$$ for $$35$$ hours",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\text{$35}}{2 \\text{hours}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Ratios and Rate",
+        "Problem Statement": "In the following exercises, find the unit rate.",
+        "Question": "$$180$$ calories per $$8$$ ounces",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Ratios and Rate",
+        "Problem Statement": "In the following exercises, find the unit rate.",
+        "Question": "$$90$$ pounds per $$7.5$$ square inches",
+        "Image Links": [],
+        "Answer": "12 pounds/sq.in.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Ratios and Rate",
+        "Problem Statement": "In the following exercises, find the unit rate.",
+        "Question": "$$126$$ miles in $$4$$ hours",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Ratios and Rate",
+        "Problem Statement": "In the following exercises, find the unit rate.",
+        "Question": "$$\\text{$612.50}$$ for $$35$$ hours",
+        "Image Links": [],
+        "Answer": "$17.50/hour",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Ratios and Rate",
+        "Problem Statement": "In the following exercises, find the unit price.",
+        "Question": "t-shirts: $$3$$ for $$\\text{$8.97}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Ratios and Rate",
+        "Problem Statement": "In the following exercises, find the unit price.",
+        "Question": "Highlighters: $$6$$ for $$\\text{$2.52}$$",
+        "Image Links": [],
+        "Answer": "$0.42",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Ratios and Rate",
+        "Problem Statement": "In the following exercises, find the unit price.",
+        "Question": "An office supply store sells a box of pens for $$\\text{$11} .$$ The box contains $$12$$ pens. How much does each pen cost?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Ratios and Rate",
+        "Problem Statement": "In the following exercises, find the unit price.",
+        "Question": "Anna bought a pack of $$8$$ kitchen towels for $$\\text{$13.20} .$$ How much did each towel cost? Round to the nearest cent if necessary.",
+        "Image Links": [],
+        "Answer": "$1.65",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Ratios and Rate",
+        "Problem Statement": "In the following exercises, find each unit price and then determine the better buy.",
+        "Question": "Shampoo: $$12$$ ounces for $$\\text{$4.29}$$ or $$22$$ ounces for $$\\text{$7.29} ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Ratios and Rate",
+        "Problem Statement": "In the following exercises, find each unit price and then determine the better buy.",
+        "Question": "Vitamins: $$60$$ tablets for $$\\text{$6.49}$$ or $$100$$ for $$\\text{$11.99} ?$$",
+        "Image Links": [],
+        "Answer": "$0.11, $0.12; 60 tablets for $6.49",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Ratios and Rate",
+        "Problem Statement": "In the following exercises, translate the English phrase into an algebraic expression.",
+        "Question": "$$535$$ miles per $$h \\text{hours}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Ratios and Rate",
+        "Problem Statement": "In the following exercises, translate the English phrase into an algebraic expression.",
+        "Question": "$$a$$ adults to $$45$$ children",
+        "Image Links": [],
+        "Answer": "$$\\frac{a \\text{adults}}{45 \\text{children}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Ratios and Rate",
+        "Problem Statement": "In the following exercises, translate the English phrase into an algebraic expression.",
+        "Question": "the ratio of $$4 y$$ and the difference of $$x$$ and $$10$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Ratios and Rate",
+        "Problem Statement": "In the following exercises, translate the English phrase into an algebraic expression.",
+        "Question": "the ratio of $$19$$ and the sum of $$3$$ and $$n$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{19}{3 + n}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify and Use Square Roots",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{64}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify and Use Square Roots",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{144}$$",
+        "Image Links": [],
+        "Answer": "12",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify and Use Square Roots",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$- \\sqrt{25}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify and Use Square Roots",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$- \\sqrt{81}$$",
+        "Image Links": [],
+        "Answer": "-9",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify and Use Square Roots",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{-9}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify and Use Square Roots",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{-36}$$",
+        "Image Links": [],
+        "Answer": "not a real number",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify and Use Square Roots",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{64} + \\sqrt{225}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify and Use Square Roots",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\sqrt{64 + 225}$$",
+        "Image Links": [],
+        "Answer": "17",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify and Use Square Roots",
+        "Problem Statement": "In the following exercises, estimate each square root between two consecutive whole numbers.",
+        "Question": "$$\\sqrt{28}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify and Use Square Roots",
+        "Problem Statement": "In the following exercises, estimate each square root between two consecutive whole numbers.",
+        "Question": "$$\\sqrt{155}$$",
+        "Image Links": [],
+        "Answer": "$$12 < \\sqrt{155} < 13$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify and Use Square Roots",
+        "Problem Statement": "In the following exercises, approximate each square root and round to two decimal places.",
+        "Question": "$$\\sqrt{15}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify and Use Square Roots",
+        "Problem Statement": "In the following exercises, approximate each square root and round to two decimal places.",
+        "Question": "$$\\sqrt{57}$$",
+        "Image Links": [],
+        "Answer": "7.55",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify and Use Square Roots",
+        "Problem Statement": "In the following exercises, simplify. (Assume all variables are greater than or equal to zero.)",
+        "Question": "$$\\sqrt{q^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify and Use Square Roots",
+        "Problem Statement": "In the following exercises, simplify. (Assume all variables are greater than or equal to zero.)",
+        "Question": "$$\\sqrt{64 b^{2}}$$",
+        "Image Links": [],
+        "Answer": "8 b",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify and Use Square Roots",
+        "Problem Statement": "In the following exercises, simplify. (Assume all variables are greater than or equal to zero.)",
+        "Question": "$$- \\sqrt{121 a^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify and Use Square Roots",
+        "Problem Statement": "In the following exercises, simplify. (Assume all variables are greater than or equal to zero.)",
+        "Question": "$$\\sqrt{225 m^{2} n^{2}}$$",
+        "Image Links": [],
+        "Answer": "15 mn",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify and Use Square Roots",
+        "Problem Statement": "In the following exercises, simplify. (Assume all variables are greater than or equal to zero.)",
+        "Question": "$$- \\sqrt{100 q^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify and Use Square Roots",
+        "Problem Statement": "In the following exercises, simplify. (Assume all variables are greater than or equal to zero.)",
+        "Question": "$$\\sqrt{49 y^{2}}$$",
+        "Image Links": [],
+        "Answer": "7 y",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify and Use Square Roots",
+        "Problem Statement": "In the following exercises, simplify. (Assume all variables are greater than or equal to zero.)",
+        "Question": "$$\\sqrt{4 a^{2} b^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify and Use Square Roots",
+        "Problem Statement": "In the following exercises, simplify. (Assume all variables are greater than or equal to zero.)",
+        "Question": "$$\\sqrt{121 c^{2} d^{2}}$$",
+        "Image Links": [],
+        "Answer": "11 cd",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify and Use Square Roots",
+        "Problem Statement": "In the following exercises, solve. Round to one decimal place.",
+        "Question": "Art Diego has $$225$$ square inch tiles. He wants to use them to make a square mosaic. How long can each side of the mosaic be?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify and Use Square Roots",
+        "Problem Statement": "In the following exercises, solve. Round to one decimal place.",
+        "Question": "Landscaping Janet wants to plant a square flower garden in her yard. She has enough topsoil to cover an area of $$30$$ square feet. How long can a side of the flower garden be?",
+        "Image Links": [],
+        "Answer": "5.5 feet",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify and Use Square Roots",
+        "Problem Statement": "In the following exercises, solve. Round to one decimal place.",
+        "Question": "Gravity A hiker dropped a granola bar from a lookout spot $$576$$ feet above a valley. How long did it take the granola bar to reach the valley floor?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify and Use Square Roots",
+        "Problem Statement": "In the following exercises, solve. Round to one decimal place.",
+        "Question": "Accident investigation The skid marks of a car involved in an accident were $$216$$ feet. How fast had the car been going before applying the brakes?",
+        "Image Links": [],
+        "Answer": "72 mph",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Topic": "Checkpoint 4.16",
+        "Problem Statement": "",
+        "Question": "Use the first derivative test to locate all local extrema for $$f ( x ) = \\text{unicode[:-]} x^{3} + \\frac{3}{2} x^{2} + 18 x .$$",
+        "Image Links": [],
+        "Answer": "$$f$$ has a local minimum at $$-2$$ and a local maximum at $$3 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.17",
+        "Problem Statement": "",
+        "Question": "Use the first derivative test to find all local extrema for $$f ( x ) = \\sqrt[3]{x - 1} .$$",
+        "Image Links": [],
+        "Answer": "$$f$$ has no local extrema because $$f^{\\prime}$$ does not change sign at $$x = 1 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.18",
+        "Problem Statement": "",
+        "Question": "For $$f ( x ) = \\text{unicode[:-]} x^{3} + \\frac{3}{2} x^{2} + 18 x ,$$ find all intervals where $$f$$ is concave up and all intervals where $$f$$ is concave down.",
+        "Image Links": [],
+        "Answer": "$$f$$ is concave up over the interval $$( \\text{unicode[:-]} \\infty , \\frac{1}{2} )$$ and concave down over the interval $$( \\frac{1}{2} , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.19",
+        "Problem Statement": "",
+        "Question": "Consider the function $$f ( x ) = x^{3} - ( \\frac{3}{2} ) x^{2} - 18 x .$$ The points $$c = 3 , -2$$ satisfy $$f^{\\prime} ( c ) = 0 .$$ Use the second derivative test to determine whether $$f$$ has a local maximum or local minimum at those points.",
+        "Image Links": [],
+        "Answer": "$$f$$ has a local maximum at $$-2$$ and a local minimum at $$3 .$$",
+        "Answer Image Links": []
+    }
+]

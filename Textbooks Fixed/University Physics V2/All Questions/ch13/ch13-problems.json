@@ -1,0 +1,346 @@
+[
+    {
+        "Topic": "13.1 Faraday\u2019s Law",
+        "Problem Statement": "",
+        "Question": "A 50-turn coil has a diameter of 15 cm. The coil is placed in a spatially uniform magnetic field of magnitude 0.50 T so that the face of the coil and the magnetic field are perpendicular. Find the magnitude of the emf induced in the coil if the magnetic field is reduced to zero uniformly in (a) 0.10 s, (b) 1.0 s, and (c) 60 s.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.1 Faraday\u2019s Law",
+        "Problem Statement": "",
+        "Question": "Repeat your calculations of the preceding problem\u2019s time of 0.1 s with the plane of the coil making an angle of (a) $$30 \\text{\u00b0} ,$$ (b) $$60 \\text{\u00b0} ,$$ and (c) $$90 \\text{\u00b0}$$ with the magnetic field.",
+        "Image Links": [],
+        "Answer": "a. 3.8 V; b. 2.2 V; c. 0 V",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.1 Faraday\u2019s Law",
+        "Problem Statement": "",
+        "Question": "A square loop whose sides are 6.0-cm long is made with copper wire of radius 1.0 mm. If a magnetic field perpendicular to the loop is changing at a rate of 5.0 mT/s, what is the current in the loop?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.1 Faraday\u2019s Law",
+        "Problem Statement": "",
+        "Question": "The magnetic field through a circular loop of radius 10.0 cm varies with time as shown below. The field is perpendicular to the loop. Plot the magnitude of the induced emf in the loop as a function of time.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5d3e514c49105a1d3b2ae42c82028f1b288765fd"
+        ],
+        "Answer": "$$\\left .\\begin{matrix}{} \\\\  \\\\ B & = & 1.5 t , 0 \\le t < 2.0 \\text{ms} , B = 3.0 \\text{mT} , 2.0 \\text{ms} \\le t \\le 5.0 \\text{ms} , \\\\ B & = & -3.0 t + 18 \\text{mT} , 5.0 \\text{ms} < t \\le 6.0 \\text{ms} , \\\\ \\varepsilon & = & - \\frac{d \\text{Phi}_{\\text{m}}}{d t} = - \\frac{d ( B A )}{d t} = \\text{unicode[:-]} A \\frac{d B}{d t} , \\\\ \\varepsilon & = & \\text{unicode[:-]} \\pi ( 0.100 \\text{m} )^{2} ( 1.5 \\text{T/s} ) \\\\  & = & -47 \\text{mV} ( 0 \\le t < 2.0 \\text{ms} ) , \\\\ \\varepsilon & = & \\pi ( 0.100 \\text{m} )^{2} ( 0 ) = 0 ( 2.0 \\text{ms} \\le t \\le 5.0 \\text{ms} ) , \\\\ \\varepsilon & = & \\text{unicode[:-]} \\pi ( 0.100 \\text{m} )^{2} ( -3.0 \\text{T/s} ) = 94 \\text{mV} ( 5.0 \\text{ms} < t < 6.0 \\text{ms} ) .\\end{matrix}\\right .$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/fa57501feab6ec0bc1dcd961c26f5b59ce15239b"
+        ]
+    },
+    {
+        "Topic": "13.1 Faraday\u2019s Law",
+        "Problem Statement": "",
+        "Question": "The accompanying figure shows a single-turn rectangular coil that has a resistance of $$2.0 \\text{omega} .$$ The magnetic field at all points inside the coil varies according to $$B = B_{0} e^{\\text{unicode[:-]} \\alpha t} ,$$ where $$B_{0} = 0.25 \\text{T}$$ and $$\\alpha = 200 \\text{Hz} .$$ What is the current induced in the coil at (a) $$t = 0.001 \\text{s}$$ , (b) 0.002 s, (c) 2.0 s?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/fcc2469900cb3b3b5c49f1c4897c3bd1389aedfc"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.1 Faraday\u2019s Law",
+        "Problem Statement": "",
+        "Question": "How would the answers to the preceding problem change if the coil consisted of 20 closely spaced turns?",
+        "Image Links": [],
+        "Answer": "Each answer is 20 times the previously given answers.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.1 Faraday\u2019s Law",
+        "Problem Statement": "",
+        "Question": "A long solenoid with $$n = 10$$ turns per centimeter has a cross-sectional area of $$5.0 \\text{cm}^{2}$$ and carries a current of 0.25 A. A coil with five turns encircles the solenoid. When the current through the solenoid is turned off, it decreases to zero in 0.050 s. What is the average emf induced in the coil?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.1 Faraday\u2019s Law",
+        "Problem Statement": "",
+        "Question": "A rectangular wire loop with length a and width b lies in the xy -plane, as shown below. Within the loop there is a time-dependent magnetic field given by $$\\mathbf{\\vec{B}} ( t ) = C ( ( x \\text{cos} \\upomega t ) \\mathbf{\\hat{i}} + ( y \\text{sin} \\upomega t ) \\mathbf{\\hat{k}} )$$ , with $$\\mathbf{\\vec{B}} ( t )$$ in tesla. Determine the emf induced in the loop as a function of time.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/de44ee1b96f0b9009f90ec151ffd0dcaf4f83e50"
+        ],
+        "Answer": "$$\\left .\\begin{matrix}{} \\\\  \\\\ \\mathbf{\\hat{n}} & = & \\hat{k} , d \\text{Phi}_{\\text{m}} = \\text{C} y \\text{sin} ( \\upomega t ) d x d y , \\\\ \\text{Phi}_{\\text{m}} & = & \\frac{C a b^{2} \\text{sin} ( \\upomega t )}{2} , \\\\ \\varepsilon & = & - \\frac{C a b^{2} \\upomega \\text{cos} ( \\upomega t )}{2} .\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.1 Faraday\u2019s Law",
+        "Problem Statement": "",
+        "Question": "The magnetic field perpendicular to a single wire loop of diameter 10.0 cm decreases from 0.50 T to zero. The wire is made of copper and has a diameter of 2.0 mm. How much charge moves through the wire while the field is changing?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.2 Lenz's Law",
+        "Problem Statement": "",
+        "Question": "A single-turn circular loop of wire of radius 50 mm lies in a plane perpendicular to a spatially uniform magnetic field. During a 0.10-s time interval, the magnitude of the field increases uniformly from 200 to 300 mT. (a) Determine the emf induced in the loop. (b) If the magnetic field is directed out of the page, what is the direction of the current induced in the loop?",
+        "Image Links": [],
+        "Answer": "a. $$7.8 \\times 10^{-3} \\text{V}$$ ; b. CCW from the same view as the magnetic field",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.2 Lenz's Law",
+        "Problem Statement": "",
+        "Question": "When a magnetic field is first turned on, the flux through a 20-turn loop varies with time according to $$\\text{Phi}_{\\text{m}} = 5.0 t^{2} - 2.0 t ,$$ where $$\\text{Phi}_{\\text{m}}$$ is in milliwebers, t is in seconds, and the loop is in the plane of the page with the unit normal pointing outward. (a) What is the emf induced in the loop as a function of time? What is the direction of the induced current at (b) t = 0, (c) 0.10, (d) 1.0, and (e) 2.0 s?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.2 Lenz's Law",
+        "Problem Statement": "",
+        "Question": "The magnetic flux through the loop shown in the accompanying figure varies with time according to $$\\text{Phi}_{\\text{m}} = 2.00 e^{-3 t} \\text{sin} ( 120 \\pi t ) ,$$ where $$\\text{Phi}_{\\text{m}}$$ is in webers. What are the direction and magnitude of the current through the $$5.00 \\text{-} \\text{omega}$$ resistor at (a) $$t = 0$$ ; (b) $$t = 2.17 \\times 1 0^{\\text{unicode[:-]} 2} \\text{s} ,$$ and (c) $$t = 3.00 \\text{s?}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6d270d240b2aa9a9d3714e473b3dce695c433db8"
+        ],
+        "Answer": "a. 150 A downward through the resistor; b. 46 A upward through the resistor; c. 0.019 A downward through the resistor",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.2 Lenz's Law",
+        "Problem Statement": "",
+        "Question": "Use Lenz\u2019s law to determine the direction of induced current in each case.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/89a12fb7f62280fe75ddb6254bc14f44496933f8"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.3 Motional Emf",
+        "Problem Statement": "",
+        "Question": "An automobile with a radio antenna 1.0 m long travels at 100.0 km/h in a location where the Earth\u2019s horizontal magnetic field is $$5.5 \\times 10^{\\text{unicode[:-]} 5} \\text{T} .$$ What is the maximum possible emf induced in the antenna due to this motion?",
+        "Image Links": [],
+        "Answer": "0.0015 V",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.3 Motional Emf",
+        "Problem Statement": "",
+        "Question": "The rectangular loop of N turns shown below moves to the right with a constant velocity $$\\mathbf{\\vec{v}}$$ while leaving the poles of a large electromagnet. (a) Assuming that the magnetic field is uniform between the pole faces and negligible elsewhere, determine the induced emf in the loop. (b) What is the source of work that produces this emf?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f840e406e1aa7f5c48872df84e7ec5d12fe4b82f"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.3 Motional Emf",
+        "Problem Statement": "",
+        "Question": "Suppose the magnetic field of the preceding problem oscillates with time according to $$B = B_{0} \\text{sin} \\upomega t .$$ What then is the emf induced in the loop when its trailing side is a distance d from the right edge of the magnetic field region?",
+        "Image Links": [],
+        "Answer": "$$\\varepsilon = \\text{unicode[:-]} B_{0} l d \\upomega \\text{cos} ( \\text{omega} t ) \\text{ld} + B_{0} \\text{sin} ( \\text{omega} t ) \\text{lv}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.3 Motional Emf",
+        "Problem Statement": "",
+        "Question": "A coil of 1000 turns encloses an area of $$25 \\text{cm}^{2}$$ . It is rotated in 0.010 s from a position where its plane is perpendicular to Earth\u2019s magnetic field to one where its plane is parallel to the field. If the strength of the field is $$6.0 \\times 10^{-5} \\text{T} ,$$ what is the average emf induced in the coil?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.3 Motional Emf",
+        "Problem Statement": "",
+        "Question": "In the circuit shown in the accompanying figure, the rod slides along the conducting rails at a constant velocity $$\\mathbf{\\vec{v}} .$$ The velocity is in the same plane as the rails and directed at an angle $$\\theta$$ to them. A uniform magnetic field $$\\mathbf{\\vec{B}}$$ is directed out of the page. What is the emf induced in the rod?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d430a2fe6271e07ffeee15c2f6f7e2d6e67067f6"
+        ],
+        "Answer": "$$\\varepsilon = B l v \\text{cos} \\theta$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.3 Motional Emf",
+        "Problem Statement": "",
+        "Question": "The rod shown in the accompanying figure is moving through a uniform magnetic field of strength $$B = 0.50 \\text{T}$$ with a constant velocity of magnitude $$v = 8.0 \\text{m} \\text{/} \\text{s} .$$ What is the potential difference between the ends of the rod? Which end of the rod is at a higher potential?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3293a1129b5638d8e6d04ef3eb65478fac68e0be"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.3 Motional Emf",
+        "Problem Statement": "",
+        "Question": "A 25-cm rod moves at 5.0 m/s in a plane perpendicular to a magnetic field of strength 0.25 T. The rod, velocity vector, and magnetic field vector are mutually perpendicular, as indicated in the accompanying figure. Calculate (a) the magnetic force on an electron in the rod, (b) the electric field in the rod, and (c) the potential difference between the ends of the rod. (d) What is the speed of the rod if the potential difference is 1.0 V?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2e1cfc429f8b4b453d840dceb7aebb4a7fa79d98"
+        ],
+        "Answer": "a. $$2 \\times 10^{-19} N$$ ; b. 1.25 V/m; c. 0.3125 V; d. 16 m/s",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.3 Motional Emf",
+        "Problem Statement": "",
+        "Question": "In the accompanying figure, the rails, connecting end piece, and rod all have a resistance per unit length of $$2.0 \\text{omega} \\text{/} \\text{cm} .$$ The rod moves to the left at $$v = 3.0 \\text{m} \\text{/} \\text{s} .$$ If $$B = 0.75 \\text{T}$$ everywhere in the region, what is the current in the circuit (a) when $$a = 8.0 \\text{cm} ?$$ (b) when $$a = 5.0 \\text{cm} ?$$ Specify also the sense of the current flow.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6a1a32085ce147c2e25bb26d4c5bc4cd7213b42b"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.3 Motional Emf",
+        "Problem Statement": "",
+        "Question": "The rod shown below moves to the right on essentially zero-resistance rails at a speed of $$v = 3.0 \\text{m/s} \\text{.}$$ If $$B = 0.75 \\text{T}$$ everywhere in the region, what is the current through the $$5.0 \\text{-} \\text{omega}$$ resistor? Does the current circulate clockwise or counterclockwise?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/296441688b311f4ab6c9104417296c676651b1b9"
+        ],
+        "Answer": "0.018 A, CW as seen in the diagram",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.3 Motional Emf",
+        "Problem Statement": "",
+        "Question": "Shown below is a conducting rod that slides along metal rails. The apparatus is in a uniform magnetic field of strength 0.25 T, which is directly into the page. The rod is pulled to the right at a constant speed of 5.0 m/s by a force $$\\mathbf{\\vec{F}} .$$ The only significant resistance in the circuit comes from the $$2.0 \\text{-} \\text{omega}$$ resistor shown. (a) What is the emf induced in the circuit? (b) What is the induced current? Does it circulate clockwise or counter clockwise? (c) What is the magnitude of $$\\mathbf{\\vec{F}}$$ ? (d) What are the power output of $$\\mathbf{\\vec{F}}$$ and the power dissipated in the resistor?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ccd1f06c50cb6e985a954045f9b3ea5cba6ab9dc"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Induced Electric Fields",
+        "Problem Statement": "",
+        "Question": "Calculate the induced electric field in a 50-turn coil with a diameter of 15 cm that is placed in a spatially uniform magnetic field of magnitude 0.50 T so that the face of the coil and the magnetic field are perpendicular. This magnetic field is reduced to zero in 0.10 seconds. Assume that the magnetic field is cylindrically symmetric with respect to the central axis of the coil.",
+        "Image Links": [],
+        "Answer": "0.1875 V/m",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Induced Electric Fields",
+        "Problem Statement": "",
+        "Question": "The magnetic field through a circular loop of radius 10.0 cm varies with time as shown in the accompanying figure. The field is perpendicular to the loop. Assuming cylindrical symmetry with respect to the central axis of the loop, plot the induced electric field in the loop as a function of time.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/08cac5aebf84baa96a4623be8d37b118e984515f"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Induced Electric Fields",
+        "Problem Statement": "",
+        "Question": "The current I through a long solenoid with n turns per meter and radius R is changing with time as given by dI / dt . Calculate the induced electric field as a function of distance r from the central axis of the solenoid.",
+        "Image Links": [],
+        "Answer": "Inside, $$B = \\mu_{0} n I \\text{,} \\oint \\mathbf{\\vec{E}} \\cdotp d \\mathbf{\\vec{l}} = ( \\pi r^{2} ) \\mu_{0} n \\frac{d I}{d t} ,$$ so, $$E = \\frac{\\mu_{0} n r}{2} \\cdotp \\frac{d I}{d t}$$ (inside). Outside, $$E ( 2 \\pi r ) = \\pi R^{2} \\mu_{0} n \\frac{d I}{d t} ,$$ so, $$E = \\frac{\\mu_{0} n R^{2}}{2 r} \\cdotp \\frac{d I}{d t}$$ (outside)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Induced Electric Fields",
+        "Problem Statement": "",
+        "Question": "Calculate the electric field induced both inside and outside the solenoid of the preceding problem if $$I = I_{0} \\text{sin} \\upomega t .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Induced Electric Fields",
+        "Problem Statement": "",
+        "Question": "Over a region of radius R , there is a spatially uniform magnetic field $$\\mathbf{\\vec{B}} .$$ (See below.) At $$t = 0$$ , $$B = 1.0 \\text{T,}$$ after which it decreases at a constant rate to zero in 30 s. (a) What is the electric field in the regions where $$r \\le R$$ and $$r \\geq R$$ during that 30-s interval? (b) Assume that $$R = 10.0 \\text{cm}$$ . How much work is done by the electric field on a proton that is carried once clock wise around a circular path of radius 5.0 cm? (c) How much work is done by the electric field on a proton that is carried once counterclockwise around a circular path of any radius $$r \\geq R$$ ? (d) At the instant when $$B = 0.50 \\text{T}$$ , a proton enters the magnetic field at A , moving a velocity $$\\mathbf{\\vec{v}}$$ $$( v = 5.0 \\times 10^{6} \\text{m} \\text{/} \\text{s} )$$ as shown. What are the electric and magnetic forces on the proton at that instant?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/cff5f780a549fca32486e67d6d45f6095be630d0"
+        ],
+        "Answer": "a. $$E_{\\text{inside}} = - \\frac{r}{2} \\frac{d B}{d t}$$ , $$E_{\\text{outside}} = - \\frac{d B}{d t} \\frac{R^{2}}{2 r}$$ ; b. $$W = 4.19 \\times 10^{-23} \\text{J}$$ ; c. 0 J; d. $$F_{\\text{mag}} = 4 \\times 10^{-13} \\text{N} ,$$ $$F_{\\text{elec}} = 2.7 \\times 10^{-22} \\text{N}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Induced Electric Fields",
+        "Problem Statement": "",
+        "Question": "The magnetic field at all points within the cylindrical region whose cross-section is indicated in the accompanying figure starts at 1.0 T and decreases uniformly to zero in 20 s. What is the electric field (both magnitude and direction) as a function of r , the distance from the geometric center of the region?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ca4d790db0bf23dcf24436ef5968bef470bf9eb9"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Induced Electric Fields",
+        "Problem Statement": "",
+        "Question": "The current in a long solenoid with 20 turns per centimeter of radius 3 cm is varied with time at a rate of 2 A/s. A circular loop of wire of radius 5 cm and resistance $$2 \\text{omega}$$ surrounds the solenoid. Find the electrical current induced in the loop.",
+        "Image Links": [],
+        "Answer": "$$7.1 \\mu \\text{A}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Induced Electric Fields",
+        "Problem Statement": "",
+        "Question": "The current in a long solenoid of radius 3 cm and 20 turns/cm is varied with time at a rate of 2 A/s. Find the electric field at a distance of 4 cm from the center of the solenoid.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.6 Electric Generators and Back Emf",
+        "Problem Statement": "",
+        "Question": "Design a current loop that, when rotated in a uniform magnetic field of strength 0.10 T, will produce an emf $$\\varepsilon = \\varepsilon_{0} \\text{sin} \\upomega t ,$$ where $$\\varepsilon_{0} = 110 \\text{V}$$ and $$\\upomega = 120 \\pi \\text{rad/s} \\text{.}$$",
+        "Image Links": [],
+        "Answer": "three turns with an area of 1 m^2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.6 Electric Generators and Back Emf",
+        "Problem Statement": "",
+        "Question": "A flat, square coil of 20 turns that has sides of length 15.0 cm is rotating in a magnetic field of strength 0.050 T. If the maximum emf produced in the coil is 30.0 mV, what is the angular velocity of the coil?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.6 Electric Generators and Back Emf",
+        "Problem Statement": "",
+        "Question": "A 50-turn rectangular coil with dimensions $$0.15 \\text{m} \\times 0.40 \\text{m}$$ rotates in a uniform magnetic field of magnitude 0.75 T at 3600 rev/min. (a) Determine the emf induced in the coil as a function of time. (b) If the coil is connected to a $$1000 \\text{-} \\text{omega}$$ resistor, what is the power as a function of time required to keep the coil turning at 3600 rpm? (c) Answer part (b) if the coil is connected to a 2000- $$\\text{omega}$$ resistor.",
+        "Image Links": [],
+        "Answer": "a. $$\\left .\\begin{matrix}{} \\\\  \\\\ \\upomega & = & 120 \\pi \\text{rad/s,} \\\\ \\varepsilon & = & 850 \\text{sin} 120 \\pi \\text{t V;}\\end{matrix}\\right .$$ b. $$P = 720 \\text{sin}^{2} 120 \\pi t \\text{W;}$$ c. $$P = 360 \\text{sin}^{2} 120 \\pi t \\text{W}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.6 Electric Generators and Back Emf",
+        "Problem Statement": "",
+        "Question": "The square armature coil of an alternating current generator has 200 turns and is 20.0 cm on side. When it rotates at 3600 rpm, its peak output voltage is 120 V. (a) What is the frequency of the output voltage? (b) What is the strength of the magnetic field in which the coil is turning?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.6 Electric Generators and Back Emf",
+        "Problem Statement": "",
+        "Question": "A flip coil is a relatively simple device used to measure a magnetic field. It consists of a circular coil of N turns wound with fine conducting wire. The coil is attached to a ballistic galvanometer, a device that measures the total charge that passes through it. The coil is placed in a magnetic field $$\\mathbf{\\vec{B}}$$ such that its face is perpendicular to the field. It is then flipped through $$180 \\text{\u00b0} ,$$ and the total charge Q that flows through the galvanometer is measured. (a) If the total resistance of the coil and galvanometer is R , what is the relationship between B and Q ? Because the coil is very small, you can assume that $$\\mathbf{\\vec{B}}$$ is uniform over it. (b) How can you determine whether or not the magnetic field is perpendicular to the face of the coil?",
+        "Image Links": [],
+        "Answer": "a. B is proportional to Q ; b. If the coin turns easily, the magnetic field is perpendicular. If the coin is at an equilibrium position, it is parallel.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.6 Electric Generators and Back Emf",
+        "Problem Statement": "",
+        "Question": "The flip coil of the preceding problem has a radius of 3.0 cm and is wound with 40 turns of copper wire. The total resistance of the coil and ballistic galvanometer is $$0.20 \\text{omega.}$$ When the coil is flipped through $$180 \\text{\u00b0}$$ in a magnetic field $$\\mathbf{\\vec{B}} ,$$ a change of 0.090 C flows through the ballistic galvanometer. (a) Assuming that $$\\mathbf{\\vec{B}}$$ and the face of the coil are initially perpendicular, what is the magnetic field? (b) If the coil is flipped through $$90 \\text{\u00b0} ,$$ what is the reading of the galvanometer?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.6 Electric Generators and Back Emf",
+        "Problem Statement": "",
+        "Question": "A 120-V, series-wound motor has a field resistance of 80 $$\\text{omega}$$ and an armature resistance of 10 $$\\text{omega}$$ . When it is operating at full speed, a back emf of 75 V is generated. (a) What is the initial current drawn by the motor? When the motor is operating at full speed, where are (b) the current drawn by the motor, (c) the power output of the source, (d) the power output of the motor, and (e) the power dissipated in the two resistances?",
+        "Image Links": [],
+        "Answer": "a. 1.33 A; b. 0.50 A; c. 60 W; d. 37.5 W; e. 22.5W",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.6 Electric Generators and Back Emf",
+        "Problem Statement": "",
+        "Question": "A small series-wound dc motor is operated from a 12-V car battery. Under a normal load, the motor draws 4.0 A, and when the armature is clamped so that it cannot turn, the motor draws 24 A. What is the back emf when the motor is operating normally?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

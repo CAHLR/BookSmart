@@ -1,0 +1,444 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Explain the difference between a value at $$x = a$$ and the limit as $$x$$ approaches $$a .$$",
+        "Image Links": [],
+        "Answer": "The value of the function, the output, at $$x = a$$ is $$f ( a ) .$$ When the $$\\underset{ \\left ( x \\vec{} a \\right ) }{lim} f ( x )$$ is taken, the values of $$x$$ get infinitely close to $$a$$ but never equal $$a .$$ As the values of $$x$$ approach $$a$$ from the left and right, the limit is the value that the function is approaching.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Explain why we say a function does not have a limit as $$x$$ approaches $$a$$ if, as $$x$$ approaches $$a ,$$ the left-hand limit is not equal to the right-hand limit.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, estimate the functional values and the limits from the graph of the function $$f$$ provided in Figure 14 .\nFigure 14",
+        "Question": "$$\\underset{ \\left ( x \\vec{} - 2^{-} \\right ) }{lim} f ( x )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/de66f785b5bee30e8aed783d91b6ccf3926e002f"
+        ],
+        "Answer": "-4",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, estimate the functional values and the limits from the graph of the function $$f$$ provided in Figure 14 .\nFigure 14",
+        "Question": "$$\\underset{ \\left ( x \\vec{} - 2^{+} \\right ) }{lim} f ( x )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/de66f785b5bee30e8aed783d91b6ccf3926e002f"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, estimate the functional values and the limits from the graph of the function $$f$$ provided in Figure 14 .\nFigure 14",
+        "Question": "$$\\underset{ \\left ( x \\vec{} - 2 \\right ) }{lim} f ( x )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/de66f785b5bee30e8aed783d91b6ccf3926e002f"
+        ],
+        "Answer": "-4",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, estimate the functional values and the limits from the graph of the function $$f$$ provided in Figure 14 .\nFigure 14",
+        "Question": "$$f ( -2 )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/de66f785b5bee30e8aed783d91b6ccf3926e002f"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, estimate the functional values and the limits from the graph of the function $$f$$ provided in Figure 14 .\nFigure 14",
+        "Question": "$$\\underset{ \\left ( x \\vec{} 1^{-} \\right ) }{lim} f ( x )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/de66f785b5bee30e8aed783d91b6ccf3926e002f"
+        ],
+        "Answer": "2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, estimate the functional values and the limits from the graph of the function $$f$$ provided in Figure 14 .\nFigure 14",
+        "Question": "$$\\underset{ \\left ( x \\vec{} 1^{+} \\right ) }{lim} f ( x )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/de66f785b5bee30e8aed783d91b6ccf3926e002f"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, estimate the functional values and the limits from the graph of the function $$f$$ provided in Figure 14 .\nFigure 14",
+        "Question": "$$\\underset{ \\left ( x \\vec{} 1 \\right ) }{lim} f ( x )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/de66f785b5bee30e8aed783d91b6ccf3926e002f"
+        ],
+        "Answer": "does not exist",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, estimate the functional values and the limits from the graph of the function $$f$$ provided in Figure 14 .\nFigure 14",
+        "Question": "$$f ( 1 )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/de66f785b5bee30e8aed783d91b6ccf3926e002f"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, estimate the functional values and the limits from the graph of the function $$f$$ provided in Figure 14 .\nFigure 14",
+        "Question": "$$\\underset{ \\left ( x \\vec{} 4^{-} \\right ) }{lim} f ( x )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/de66f785b5bee30e8aed783d91b6ccf3926e002f"
+        ],
+        "Answer": "4",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, estimate the functional values and the limits from the graph of the function $$f$$ provided in Figure 14 .\nFigure 14",
+        "Question": "$$\\underset{ \\left ( x \\vec{} 4^{+} \\right ) }{lim} f ( x )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/de66f785b5bee30e8aed783d91b6ccf3926e002f"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, estimate the functional values and the limits from the graph of the function $$f$$ provided in Figure 14 .\nFigure 14",
+        "Question": "$$\\underset{ \\left ( x \\vec{} 4 \\right ) }{lim} f ( x )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/de66f785b5bee30e8aed783d91b6ccf3926e002f"
+        ],
+        "Answer": "does not exist",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, estimate the functional values and the limits from the graph of the function $$f$$ provided in Figure 14 .\nFigure 14",
+        "Question": "$$f ( 4 )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/de66f785b5bee30e8aed783d91b6ccf3926e002f"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, draw the graph of a function from the functional values and limits provided.",
+        "Question": "$$\\underset{ \\left ( x \\vec{} 0^{-} \\right ) }{lim} f ( x ) = 2$$ , $$\\underset{ \\left ( x \\vec{} 0^{+} \\right ) }{lim} f ( x ) = - 3$$ , $$\\underset{ \\left ( x \\vec{} 2 \\right ) }{lim} f ( x ) = 2$$ , $$f ( 0 ) = 4$$ , $$f ( 2 ) = - 1$$ , $$f ( - 3 ) \\text{\u00a0does\u00a0not\u00a0exist} .$$",
+        "Image Links": [],
+        "Answer": "Answers will vary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, draw the graph of a function from the functional values and limits provided.",
+        "Question": "$$\\underset{ \\left ( x \\vec{} 2^{-} \\right ) }{lim} f ( x ) = 0$$ , $$\\underset{ \\left ( x \\vec{} 2^{+} \\right ) }{lim} = - 2$$ , $$\\underset{ \\left ( x \\vec{} 0 \\right ) }{lim} f ( x ) = 3$$ , $$f ( 2 ) = 5$$ , $$f ( 0 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, draw the graph of a function from the functional values and limits provided.",
+        "Question": "$$\\underset{ \\left ( x \\vec{} 2^{-} \\right ) }{lim} f ( x ) = 2$$ , $$\\underset{ \\left ( x \\vec{} 2^{+} \\right ) }{lim} f ( x ) = - 3$$ , $$\\underset{ \\left ( x \\vec{} 0 \\right ) }{lim} f ( x ) = 5$$ , $$f ( 0 ) = 1$$ , $$f ( 1 ) = 0$$",
+        "Image Links": [],
+        "Answer": "Answers will vary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, draw the graph of a function from the functional values and limits provided.",
+        "Question": "$$\\underset{ \\left ( x \\vec{} 3^{-} \\right ) }{lim} f ( x ) = 0$$ , $$\\underset{ \\left ( x \\vec{} 3^{+} \\right ) }{lim} f ( x ) = 5$$ , $$\\underset{ \\left ( x \\vec{} 5 \\right ) }{lim} f ( x ) = 0$$ , $$f ( 5 ) = 4$$ , $$f ( 3 ) \\text{\u00a0does\u00a0not\u00a0exist} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, draw the graph of a function from the functional values and limits provided.",
+        "Question": "$$\\underset{ \\left ( x \\vec{} 4 \\right ) }{lim} f ( x ) = 6$$ , $$\\underset{ \\left ( x \\vec{} 6^{+} \\right ) }{lim} f ( x ) = - 1$$ , $$\\underset{ \\left ( x \\vec{} 0 \\right ) }{lim} f ( x ) = 5$$ , $$f ( 4 ) = 6$$ , $$f ( 2 ) = 6$$",
+        "Image Links": [],
+        "Answer": "Answers will vary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, draw the graph of a function from the functional values and limits provided.",
+        "Question": "$$\\underset{ \\left ( x \\vec{} - 3 \\right ) }{lim} f ( x ) = 2$$ , $$\\underset{ \\left ( x \\vec{} 1^{+} \\right ) }{lim} f ( x ) = - 2$$ , $$\\underset{ \\left ( x \\vec{} 3 \\right ) }{lim} f ( x ) = - 4$$ , $$f ( - 3 ) = 0$$ , $$f ( 0 ) = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, draw the graph of a function from the functional values and limits provided.",
+        "Question": "$$\\underset{ \\left ( x \\vec{} \\pi \\right ) }{lim} f ( x ) = \\pi^{2}$$ , $$\\underset{ \\left ( x \\vec{} - \\pi \\right ) }{lim} f ( x ) = \\frac{\\pi}{2}$$ , $$\\underset{ \\left ( x \\vec{} 1^{-} \\right ) }{lim} f ( x ) = 0$$ , $$f ( \\pi ) = \\sqrt{2}$$ , $$f ( 0 ) \\text{\u00a0does\u00a0not\u00a0exist} .$$",
+        "Image Links": [],
+        "Answer": "Answers will vary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use a graphing calculator to determine the limit to 5 decimal places as $$x$$ approaches 0.",
+        "Question": "$$f ( x ) = ( 1 + x )^{\\frac{1}{x}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use a graphing calculator to determine the limit to 5 decimal places as $$x$$ approaches 0.",
+        "Question": "$$g ( x ) = ( 1 + x )^{\\frac{2}{x}}$$",
+        "Image Links": [],
+        "Answer": "7.38906",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use a graphing calculator to determine the limit to 5 decimal places as $$x$$ approaches 0.",
+        "Question": "$$h ( x ) = ( 1 + x )^{\\frac{3}{x}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use a graphing calculator to determine the limit to 5 decimal places as $$x$$ approaches 0.",
+        "Question": "$$i ( x ) = ( 1 + x )^{\\frac{4}{x}}$$",
+        "Image Links": [],
+        "Answer": "54.59815",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use a graphing calculator to determine the limit to 5 decimal places as $$x$$ approaches 0.",
+        "Question": "$$j ( x ) = ( 1 + x )^{\\frac{5}{x}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use a graphing calculator to determine the limit to 5 decimal places as $$x$$ approaches 0.",
+        "Question": "Based on the pattern you observed in the exercises above, make a conjecture as to the limit of $$f ( x ) = ( 1 + x )^{\\frac{6}{x}} ,$$ $$g ( x ) = ( 1 + x )^{\\frac{7}{x}} ,$$ $$\\text{and\u00a0} h ( x ) = ( 1 + x )^{\\frac{n}{x}} .$$",
+        "Image Links": [],
+        "Answer": "$$e^{6} \\approx 403.428794 ,$$ $$e^{7} \\approx 1096.633158 ,$$ $$e^{n}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use a graphing utility to find graphical evidence to determine the left- and right-hand limits of the function given as $$x$$ approaches $$a .$$ If the function has a limit as $$x$$ approaches $$a ,$$ state it. If not, discuss why there is no limit.",
+        "Question": "$$( x ) = \\{ \\left .\\begin{matrix}{aa}| x | - 1 , & \\text{if\u00a0} x \\ne 1 \\\\ x^{3} , & \\text{if\u00a0} x = 1\\end{matrix}\\right . a = 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use a graphing utility to find graphical evidence to determine the left- and right-hand limits of the function given as $$x$$ approaches $$a .$$ If the function has a limit as $$x$$ approaches $$a ,$$ state it. If not, discuss why there is no limit.",
+        "Question": "$$( x ) = \\{ \\left .\\begin{matrix}{aa}\\frac{1}{x + 1} , & \\text{if\u00a0} x = - 2 \\\\ ( x + 1 )^{2} , & \\text{if\u00a0} x \\ne - 2\\end{matrix}\\right . a = - 2$$",
+        "Image Links": [],
+        "Answer": "$$\\underset{ \\left ( x \\vec{} - 2 \\right ) }{lim} f ( x ) = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use numerical evidence to determine whether the limit exists at $$x = a .$$ If not, describe the behavior of the graph of the function near $$x = a .$$ Round answers to two decimal places.",
+        "Question": "$$f ( x ) = \\frac{x^{2} - 4 x}{16 - x^{2}} ; a = 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use numerical evidence to determine whether the limit exists at $$x = a .$$ If not, describe the behavior of the graph of the function near $$x = a .$$ Round answers to two decimal places.",
+        "Question": "$$f ( x ) = \\frac{x^{2} - x - 6}{x^{2} - 9} ; a = 3$$",
+        "Image Links": [],
+        "Answer": "$$\\underset{ \\left ( x \\vec{} 3 \\right ) }{lim} ( \\frac{x^{2} - x - 6}{x^{2} - 9} ) = \\frac{5}{6} \\approx 0.83$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use numerical evidence to determine whether the limit exists at $$x = a .$$ If not, describe the behavior of the graph of the function near $$x = a .$$ Round answers to two decimal places.",
+        "Question": "$$f ( x ) = \\frac{x^{2} - 6 x - 7}{x^{2} - 7 x} ; a = 7$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use numerical evidence to determine whether the limit exists at $$x = a .$$ If not, describe the behavior of the graph of the function near $$x = a .$$ Round answers to two decimal places.",
+        "Question": "$$f ( x ) = \\frac{x^{2} - 1}{x^{2} - 3 x + 2} ; a = 1$$",
+        "Image Links": [],
+        "Answer": "$$\\underset{ \\left ( x \\vec{} 1 \\right ) }{lim} ( \\frac{x^{2} - 1}{x^{2} - 3 x + 2} ) = - 2.00$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use numerical evidence to determine whether the limit exists at $$x = a .$$ If not, describe the behavior of the graph of the function near $$x = a .$$ Round answers to two decimal places.",
+        "Question": "$$f ( x ) = \\frac{1 - x^{2}}{x^{2} - 3 x + 2} ; a = 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use numerical evidence to determine whether the limit exists at $$x = a .$$ If not, describe the behavior of the graph of the function near $$x = a .$$ Round answers to two decimal places.",
+        "Question": "$$f ( x ) = \\frac{10 - 10 x^{2}}{x^{2} - 3 x + 2} ; a = 1$$",
+        "Image Links": [],
+        "Answer": "$$\\underset{ \\left ( x \\vec{} 1 \\right ) }{lim} ( \\frac{10 - 10 x^{2}}{x^{2} - 3 x + 2} ) = 20.00$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use numerical evidence to determine whether the limit exists at $$x = a .$$ If not, describe the behavior of the graph of the function near $$x = a .$$ Round answers to two decimal places.",
+        "Question": "$$f ( x ) = \\frac{x}{6 x^{2} - 5 x - 6} ; a = \\frac{3}{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use numerical evidence to determine whether the limit exists at $$x = a .$$ If not, describe the behavior of the graph of the function near $$x = a .$$ Round answers to two decimal places.",
+        "Question": "$$f ( x ) = \\frac{x}{4 x^{2} + 4 x + 1} ; a = - \\frac{1}{2}$$",
+        "Image Links": [],
+        "Answer": "$$\\underset{ \\left ( x \\vec{} \\frac{- 1}{2} \\right ) }{lim} ( \\frac{x}{4 x^{2} + 4 x + 1} )$$ does not exist. Function values decrease without bound as $$x$$ approaches -0.5 from either left or right.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use numerical evidence to determine whether the limit exists at $$x = a .$$ If not, describe the behavior of the graph of the function near $$x = a .$$ Round answers to two decimal places.",
+        "Question": "$$f ( x ) = \\frac{2}{x - 4} ; a = 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use a calculator to estimate the limit by preparing a table of values. If there is no limit, describe the behavior of the function as $$x$$ approaches the given value.",
+        "Question": "$$\\underset{ \\left ( x \\vec{} 0 \\right ) }{lim} \\frac{7 \\tan{} x}{3 x}$$",
+        "Image Links": [],
+        "Answer": "$$\\underset{ \\left ( x \\vec{} 0 \\right ) }{lim} \\frac{7 \\tan{} x}{3 x} = \\frac{7}{3}$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/4732f59ddc9078577b26c987332bf83617bb1817"
+        ]
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use a calculator to estimate the limit by preparing a table of values. If there is no limit, describe the behavior of the function as $$x$$ approaches the given value.",
+        "Question": "$$\\underset{ \\left ( x \\vec{} 4 \\right ) }{lim} \\frac{x^{2}}{x - 4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use a calculator to estimate the limit by preparing a table of values. If there is no limit, describe the behavior of the function as $$x$$ approaches the given value.",
+        "Question": "$$\\underset{ \\left ( x \\vec{} 0 \\right ) }{lim} \\frac{2 \\sin{} x}{4 \\tan{} x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use a graphing utility to find numerical or graphical evidence to determine the left and right-hand limits of the function given as $$x$$ approaches $$a .$$ If the function has a limit as $$x$$ approaches $$a ,$$ state it. If not, discuss why there is no limit.",
+        "Question": "$$\\underset{ \\left ( x \\vec{} 0 \\right ) }{lim} e^{e^{\\frac{1}{x}}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use a graphing utility to find numerical or graphical evidence to determine the left and right-hand limits of the function given as $$x$$ approaches $$a .$$ If the function has a limit as $$x$$ approaches $$a ,$$ state it. If not, discuss why there is no limit.",
+        "Question": "$$\\underset{ \\left ( x \\vec{} 0 \\right ) }{lim} e^{e^{- \\frac{1}{x^{2}}}}$$",
+        "Image Links": [],
+        "Answer": "$$\\underset{ \\left ( x \\vec{} 0 \\right ) }{lim} e^{e^{- \\frac{1}{x^{2}}}} = 1.0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use a graphing utility to find numerical or graphical evidence to determine the left and right-hand limits of the function given as $$x$$ approaches $$a .$$ If the function has a limit as $$x$$ approaches $$a ,$$ state it. If not, discuss why there is no limit.",
+        "Question": "$$\\underset{ \\left ( x \\vec{} 0 \\right ) }{lim} \\frac{| x |}{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use a graphing utility to find numerical or graphical evidence to determine the left and right-hand limits of the function given as $$x$$ approaches $$a .$$ If the function has a limit as $$x$$ approaches $$a ,$$ state it. If not, discuss why there is no limit.",
+        "Question": "$$\\underset{ \\left ( x \\vec{} - 1 \\right ) }{lim} \\frac{| x + 1 |}{x + 1}$$",
+        "Image Links": [],
+        "Answer": "$$\\underset{ \\left ( x \\vec{} - 1^{-} \\right ) }{lim} \\frac{| x + 1 |}{x + 1} = \\frac{- ( x + 1 )}{( x + 1 )} = - 1$$ and $$\\underset{ \\left ( x \\vec{} - 1^{+} \\right ) }{lim} \\frac{| x + 1 |}{x + 1} = \\frac{( x + 1 )}{( x + 1 )} = 1 ;$$ since the right-hand limit does not equal the left-hand limit, $$\\underset{ \\left ( x \\vec{} - 1 \\right ) }{lim} \\frac{| x + 1 |}{x + 1}$$ does not exist.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use a graphing utility to find numerical or graphical evidence to determine the left and right-hand limits of the function given as $$x$$ approaches $$a .$$ If the function has a limit as $$x$$ approaches $$a ,$$ state it. If not, discuss why there is no limit.",
+        "Question": "$$\\underset{ \\left ( x \\vec{} 5 \\right ) }{lim} \\frac{| x - 5 |}{5 - x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use a graphing utility to find numerical or graphical evidence to determine the left and right-hand limits of the function given as $$x$$ approaches $$a .$$ If the function has a limit as $$x$$ approaches $$a ,$$ state it. If not, discuss why there is no limit.",
+        "Question": "$$\\underset{ \\left ( x \\vec{} - 1 \\right ) }{lim} \\frac{1}{( x + 1 )^{2}}$$",
+        "Image Links": [],
+        "Answer": "$$\\underset{ \\left ( x \\vec{} - 1 \\right ) }{lim} \\frac{1}{( x + 1 )^{2}}$$ does not exist. The function increases without bound as $$x$$ approaches $$- 1$$ from either side.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use a graphing utility to find numerical or graphical evidence to determine the left and right-hand limits of the function given as $$x$$ approaches $$a .$$ If the function has a limit as $$x$$ approaches $$a ,$$ state it. If not, discuss why there is no limit.",
+        "Question": "$$\\underset{ \\left ( x \\vec{} 1 \\right ) }{lim} \\frac{1}{( x - 1 )^{3}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use a graphing utility to find numerical or graphical evidence to determine the left and right-hand limits of the function given as $$x$$ approaches $$a .$$ If the function has a limit as $$x$$ approaches $$a ,$$ state it. If not, discuss why there is no limit.",
+        "Question": "$$\\underset{ \\left ( x \\vec{} 0 \\right ) }{lim} \\frac{5}{1 - e^{\\frac{2}{x}}}$$",
+        "Image Links": [],
+        "Answer": "$$\\underset{ \\left ( x \\vec{} 0 \\right ) }{lim} \\frac{5}{1 - e^{\\frac{2}{x}}}$$ does not exist. Function values approach 5 from the left and approach 0 from the right.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, use a graphing utility to find numerical or graphical evidence to determine the left and right-hand limits of the function given as $$x$$ approaches $$a .$$ If the function has a limit as $$x$$ approaches $$a ,$$ state it. If not, discuss why there is no limit.",
+        "Question": "Use numerical and graphical evidence to compare and contrast the limits of two functions whose formulas appear similar: $$f ( x ) = | \\frac{1 - x}{x} |$$ and $$g ( x ) = | \\frac{1 + x}{x} |$$ as $$x$$ approaches 0. Use a graphing utility, if possible, to determine the left- and right-hand limits of the functions $$f ( x )$$ and $$g ( x )$$ as $$x$$ approaches 0. If the functions have a limit as $$x$$ approaches 0, state it. If not, discuss why there is no limit.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "According to the Theory of Relativity, the mass $$m$$ of a particle depends on its velocity $$v$$ . That is $$m = \\frac{m_{o}}{\\sqrt{1 - ( v^{2} / c^{2} )}}$$ where $$m_{o}$$ is the mass when the particle is at rest and $$c$$ is the speed of light. Find the limit of the mass, $$m ,$$ as $$v$$ approaches $$c^{-} .$$",
+        "Image Links": [],
+        "Answer": "Through examination of the postulates and an understanding of relativistic physics, as $$v \\vec{} c ,$$ $$m \\vec{} \\infty .$$ Take this one step further to the solution, $$\\underset{ \\left ( v \\vec{} c^{-} \\right ) }{lim} m = \\underset{ \\left ( v \\vec{} c^{-} \\right ) }{lim} \\frac{m_{o}}{\\sqrt{1 - ( v^{2} / c^{2} )}} = \\infty$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Allow the speed of light, $$c ,$$ to be equal to 1.0. If the mass, $$m ,$$ is 1, what occurs to $$m$$ as $$v \\vec{} c ?$$ Using the values listed in Table 1 , make a conjecture as to what the mass is as $$v$$ approaches 1.00. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\n$$v$$ & $$m$$ \\\\ \\hline\n0.5 & 1.15 \\\\ \\hline\n0.9 & 2.29 \\\\ \\hline\n0.95 & 3.20 \\\\ \\hline\n0.99 & 7.09 \\\\ \\hline\n0.999 & 22.36 \\\\ \\hline\n0.99999 & 223.61 \\\\ \\hline\n\\end{tabular}\n\\end{table} Table 1",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

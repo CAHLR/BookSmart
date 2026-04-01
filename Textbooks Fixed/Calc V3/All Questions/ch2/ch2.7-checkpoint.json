@@ -1,0 +1,66 @@
+[
+    {
+        "Topic": "Checkpoint 2.55",
+        "Problem Statement": "",
+        "Question": "Point $$R$$ has cylindrical coordinates $$( 5 , \\frac{\\pi}{6} , 4 )$$ . Plot $$R$$ and describe its location in space using rectangular, or Cartesian, coordinates.",
+        "Image Links": [],
+        "Answer": "The rectangular coordinates of the point are $$( \\frac{5 \\sqrt{3}}{2} , \\frac{5}{2} , 4 ) .$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/24e4a2f06e54d64aadfdb294b950b3d83f2ded79"
+        ]
+    },
+    {
+        "Topic": "Checkpoint 2.56",
+        "Problem Statement": "",
+        "Question": "Convert point $$( -8 , 8 , -7 )$$ from Cartesian coordinates to cylindrical coordinates.",
+        "Image Links": [],
+        "Answer": "$$( 8 \\sqrt{2} , \\frac{3 \\pi}{4} , -7 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 2.57",
+        "Problem Statement": "",
+        "Question": "Describe the surface with cylindrical equation $$r = 6 .$$",
+        "Image Links": [],
+        "Answer": "This surface is a cylinder with radius $$6 .$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0d9389a224d79789c0730e419ed38839ca7c6d07"
+        ]
+    },
+    {
+        "Topic": "Checkpoint 2.58",
+        "Problem Statement": "",
+        "Question": "Plot the point with spherical coordinates $$( 2 , - \\frac{5 \\pi}{6} , \\frac{\\pi}{6} )$$ and describe its location in both rectangular and cylindrical coordinates.",
+        "Image Links": [],
+        "Answer": "Cartesian: $$( - \\frac{\\sqrt{3}}{2} , - \\frac{1}{2} , \\sqrt{3} ) ,$$ cylindrical: $$( 1 , - \\frac{5 \\pi}{6} , \\sqrt{3} )$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/587722761ec1aa22175aba34f53356c5291bcaa2"
+        ]
+    },
+    {
+        "Topic": "Checkpoint 2.59",
+        "Problem Statement": "",
+        "Question": "Describe the surfaces defined by the following equations. $$\\rho = 13$$ $$\\theta = \\frac{2 \\pi}{3}$$ $$\\phi = \\frac{\\pi}{4}$$",
+        "Image Links": [],
+        "Answer": "a. This is the set of all points $$13$$ units from the origin. This set forms a sphere with radius $$13 .$$ b. This set of points forms a half plane. The angle between the half plane and the positive x -axis is $$\\theta = \\frac{2 \\pi}{3} .$$ c. Let $$P$$ be a point on this surface. The position vector of this point forms an angle of $$\\phi = \\frac{\\pi}{4}$$ with the positive z -axis, which means that points closer to the origin are closer to the axis. These points form a half-cone.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 2.60",
+        "Problem Statement": "",
+        "Question": "Sydney, Australia is at $$34 \\text{\u00b0} \\text{S}$$ and $$151 \\text{\u00b0} \\text{E} .$$ Express Sydney\u2019s location in spherical coordinates.",
+        "Image Links": [],
+        "Answer": "$$( 4000 , 151 \\text{\u00b0} , 124 \\text{\u00b0} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 2.61",
+        "Problem Statement": "",
+        "Question": "Which coordinate system is most appropriate for creating a star map, as viewed from Earth (see the following figure)? How should we orient the coordinate axes?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7431e3cd4bfbcacf81d4cb21879cff5b1561d3cf"
+        ],
+        "Answer": "Spherical coordinates with the origin located at the center of the earth, the z -axis aligned with the North Pole, and the x -axis aligned with the prime meridian",
+        "Answer Image Links": []
+    }
+]

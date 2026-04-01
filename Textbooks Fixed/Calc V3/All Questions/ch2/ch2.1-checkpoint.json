@@ -1,0 +1,93 @@
+[
+    {
+        "Topic": "Checkpoint 2.1",
+        "Problem Statement": "",
+        "Question": "Sketch the vector $$\\vec{S T}$$ where $$S$$ is point $$( 3 , -1 )$$ and $$T$$ is point $$( -2 , 3 ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/278500a9711b87e5a87c7ac88f0e00410a7841be"
+        ]
+    },
+    {
+        "Topic": "Checkpoint 2.2",
+        "Problem Statement": "",
+        "Question": "Using vectors $$\\mathbf{\\text{v}}$$ and $$\\mathbf{\\text{w}}$$ from Example 2.2 , sketch the vector $$2 \\mathbf{\\text{w}} - \\mathbf{\\text{v}} .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3e557ecfa69f26443792f8789a612c2f80030ab6",
+            "https://openstax.org/apps/archive/20240812.170248/resources/74393929caeba2e7db6e6d4d92e0d2e3077d6143",
+            "https://openstax.org/apps/archive/20240812.170248/resources/e2bc7e1fbb8ae8bcf0cfde181e813b3aed252a54",
+            "https://openstax.org/apps/archive/20240812.170248/resources/856491ed264d65abd908e07760f1add825285fbf"
+        ],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/cef24ca4dcf68ee56a1e59e10dd8ba8f9d24dc52"
+        ]
+    },
+    {
+        "Topic": "Checkpoint 2.3",
+        "Problem Statement": "",
+        "Question": "Which of the following vectors are equivalent?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/36f702d87617376123723bb05acdb89d3a866137"
+        ],
+        "Answer": "Vectors $$\\mathbf{\\text{a}} ,$$ $$\\mathbf{\\text{b}} ,$$ and $$\\mathbf{\\text{e}}$$ are equivalent.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 2.4",
+        "Problem Statement": "",
+        "Question": "Vector $$\\mathbf{\\text{w}}$$ has initial point $$( -4 , -5 )$$ and terminal point $$( -1 , 2 ) .$$ Express $$\\mathbf{\\text{w}}$$ in component form.",
+        "Image Links": [],
+        "Answer": "$$\\langle 3 , 7 \\rangle$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 2.5",
+        "Problem Statement": "",
+        "Question": "Let $$\\mathbf{\\text{a}} = \\langle 7 , 1 \\rangle$$ and let $$\\mathbf{\\text{b}}$$ be the vector with initial point $$( 3 , 2 )$$ and terminal point $$( -1 , -1 ) .$$ Find $$\\Vert \\mathbf{\\text{a}} \\Vert .$$ Express $$\\mathbf{\\text{b}}$$ in component form. Find $$3 \\mathbf{\\text{a}} - 4 \\mathbf{\\text{b}} .$$",
+        "Image Links": [],
+        "Answer": "a. $$\\Vert \\mathbf{\\text{a}} \\Vert = 5 \\sqrt{2} ,$$ b. $$\\mathbf{\\text{b}} = \\langle -4 , -3 \\rangle ,$$ c. $$3 \\mathbf{\\text{a}} - 4 \\mathbf{\\text{b}} = \\langle 37 , 15 \\rangle$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 2.6",
+        "Problem Statement": "",
+        "Question": "Prove the additive inverse property.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 2.7",
+        "Problem Statement": "",
+        "Question": "Find the component form of vector $$\\mathbf{\\text{v}}$$ with magnitude $$10$$ that forms an angle of $$120 \\text{\u00b0}$$ with the positive x -axis.",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\text{v}} = \\langle -5 , 5 \\sqrt{3} \\rangle$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 2.8",
+        "Problem Statement": "",
+        "Question": "Let $$\\mathbf{\\text{v}} = \\langle 9 , 2 \\rangle .$$ Find a vector with magnitude $$5$$ in the opposite direction as $$\\mathbf{\\text{v}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\langle - \\frac{45}{\\sqrt{85}} , - \\frac{10}{\\sqrt{85}} \\rangle$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 2.9",
+        "Problem Statement": "",
+        "Question": "Let $$\\mathbf{\\text{a}} = \\langle 16 , -11 \\rangle$$ and let $$\\mathbf{\\text{b}}$$ be a unit vector that forms an angle of $$225 \\text{\u00b0}$$ with the positive x -axis. Express $$\\mathbf{\\text{a}}$$ and $$\\mathbf{\\text{b}}$$ in terms of the standard unit vectors.",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\text{a}} = 16 \\mathbf{\\text{i}} - 11 \\mathbf{\\text{j}} ,$$ $$\\mathbf{\\text{b}} = - \\frac{\\sqrt{2}}{2} \\mathbf{\\text{i}} - \\frac{\\sqrt{2}}{2} \\mathbf{\\text{j}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 2.10",
+        "Problem Statement": "",
+        "Question": "An airplane flies due north at an airspeed of $$550$$ mph. The wind is blowing from the northwest at $$50$$ mph. What is the ground speed of the airplane?",
+        "Image Links": [],
+        "Answer": "Approximately $$516$$ mph",
+        "Answer Image Links": []
+    }
+]

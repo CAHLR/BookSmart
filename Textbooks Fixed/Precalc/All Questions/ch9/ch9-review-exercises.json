@@ -1,0 +1,646 @@
+[
+    {
+        "Topic": "Systems of Linear Equations: Two Variables",
+        "Problem Statement": "For the following exercises, determine whether the ordered pair is a solution to the system of equations.",
+        "Question": "$$\\left .\\begin{matrix}{a}3 x - y = 4 \\\\ x + 4 y = - 3\\end{matrix}\\right .$$ and $$( - 1 , 1 )$$",
+        "Image Links": [],
+        "Answer": "No",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Systems of Linear Equations: Two Variables",
+        "Problem Statement": "For the following exercises, determine whether the ordered pair is a solution to the system of equations.",
+        "Question": "$$\\left .\\begin{matrix}{a}6 x - 2 y = 24 \\\\ - 3 x + 3 y = 18\\end{matrix}\\right .$$ and $$( 9 , 15 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Systems of Linear Equations: Two Variables",
+        "Problem Statement": "For the following exercises, use substitution to solve the system of equations.",
+        "Question": "$$\\left .\\begin{matrix}{a}10 x + 5 y = -5 \\\\ 3 x - 2 y = -12\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( - 2 , 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Systems of Linear Equations: Two Variables",
+        "Problem Statement": "For the following exercises, use substitution to solve the system of equations.",
+        "Question": "$$\\left .\\begin{matrix}{a}\\frac{4}{7} x + \\frac{1}{5} y = \\frac{43}{70} \\\\ \\frac{5}{6} x - \\frac{1}{3} y = - \\frac{2}{3}\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Systems of Linear Equations: Two Variables",
+        "Problem Statement": "For the following exercises, use substitution to solve the system of equations.",
+        "Question": "$$\\left .\\begin{matrix}{a}5 x + 6 y = 14 \\\\ 4 x + 8 y = 8\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( 4 , - 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Systems of Linear Equations: Two Variables",
+        "Problem Statement": "For the following exercises, use addition to solve the system of equations.",
+        "Question": "$$\\left .\\begin{matrix}{a}3 x + 2 y = -7 \\\\ 2 x + 4 y = 6\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Systems of Linear Equations: Two Variables",
+        "Problem Statement": "For the following exercises, use addition to solve the system of equations.",
+        "Question": "$$\\left .\\begin{matrix}{a}3 x + 4 y = 2 \\\\ 9 x + 12 y = 3\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "No solutions exist.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Systems of Linear Equations: Two Variables",
+        "Problem Statement": "For the following exercises, use addition to solve the system of equations.",
+        "Question": "$$\\left .\\begin{matrix}{a}8 x + 4 y = 2 \\\\ 6 x - 5 y = 0.7\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Systems of Linear Equations: Two Variables",
+        "Problem Statement": "For the following exercises, write a system of equations to solve each problem. Solve the system of equations.",
+        "Question": "A factory has a cost of production $$C ( x ) = 150 x + 15 \\text{,} 000$$ and a revenue function $$R ( x ) = 200 x .$$ What is the break-even point?",
+        "Image Links": [],
+        "Answer": "$$( 300 , 60 , 000 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Systems of Linear Equations: Two Variables",
+        "Problem Statement": "For the following exercises, write a system of equations to solve each problem. Solve the system of equations.",
+        "Question": "A performer charges $$C ( x ) = 50 x + 10 \\text{,} 000 ,$$ where $$x$$ is the total number of attendees at a show. The venue charges $75 per ticket. After how many people buy tickets does the venue break even, and what is the value of the total tickets sold at that point?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Systems of Linear Equations: Three Variables",
+        "Problem Statement": "For the following exercises, solve the system of three equations using substitution or addition.",
+        "Question": "$$\\left .\\begin{matrix}{a}0.5 x - 0.5 y = 10 \\\\ - 0.2 y + 0.2 x = 4 \\\\ 0.1 x + 0.1 z = 2\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "Infinite solutions",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Systems of Linear Equations: Three Variables",
+        "Problem Statement": "For the following exercises, solve the system of three equations using substitution or addition.",
+        "Question": "$$\\left .\\begin{matrix}{a}5 x + 3 y - z = 5 \\\\ 3 x - 2 y + 4 z = 13 \\\\ 4 x + 3 y + 5 z = 22\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Systems of Linear Equations: Three Variables",
+        "Problem Statement": "For the following exercises, solve the system of three equations using substitution or addition.",
+        "Question": "$$\\left .\\begin{matrix}{a}x + y + z = 1 \\\\ 2 x + 2 y + 2 z = 1 \\\\ 3 x + 3 y = 2\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "No solutions exist.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Systems of Linear Equations: Three Variables",
+        "Problem Statement": "For the following exercises, solve the system of three equations using substitution or addition.",
+        "Question": "$$\\left .\\begin{matrix}{a}2 x - 3 y + z = -1 \\\\ x + y + z = -4 \\\\ 4 x + 2 y - 3 z = 33\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Systems of Linear Equations: Three Variables",
+        "Problem Statement": "For the following exercises, solve the system of three equations using substitution or addition.",
+        "Question": "$$\\left .\\begin{matrix}{a}3 x + 2 y - z = -10 \\\\ x - y + 2 z = 7 \\\\ - x + 3 y + z = -2\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( - 1 , - 2 , 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Systems of Linear Equations: Three Variables",
+        "Problem Statement": "For the following exercises, solve the system of three equations using substitution or addition.",
+        "Question": "$$\\left .\\begin{matrix}{a}3 x + 4 z = -11 \\\\ x - 2 y = 5 \\\\ 4 y - z = -10\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Systems of Linear Equations: Three Variables",
+        "Problem Statement": "For the following exercises, solve the system of three equations using substitution or addition.",
+        "Question": "$$\\left .\\begin{matrix}{a}2 x - 3 y + z = 0 \\\\ 2 x + 4 y - 3 z = 0 \\\\ 6 x - 2 y - z = 0\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( x , \\frac{8 x}{5} , \\frac{14 x}{5} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Systems of Linear Equations: Three Variables",
+        "Problem Statement": "For the following exercises, solve the system of three equations using substitution or addition.",
+        "Question": "$$\\left .\\begin{matrix}{a}6 x - 4 y - 2 z = 2 \\\\ 3 x + 2 y - 5 z = 4 \\\\ 6 y - 7 z = 5\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Systems of Linear Equations: Three Variables",
+        "Problem Statement": "For the following exercises, write a system of equations to solve each problem. Solve the system of equations.",
+        "Question": "Three odd numbers sum up to 61. The smaller is one-third the larger and the middle number is 16 less than the larger. What are the three numbers?",
+        "Image Links": [],
+        "Answer": "11, 17, 33",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Systems of Linear Equations: Three Variables",
+        "Problem Statement": "For the following exercises, write a system of equations to solve each problem. Solve the system of equations.",
+        "Question": "A local theatre sells out for their show. They sell all 500 tickets for a total purse of $8,070.00. The tickets were priced at $15 for students, $12 for children, and $18 for adults. If the band sold three times as many adult tickets as children\u2019s tickets, how many of each type was sold?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Systems of Nonlinear Equations and Inequalities: Two Variables",
+        "Problem Statement": "For the following exercises, solve the system of nonlinear equations.",
+        "Question": "$$\\left .\\begin{matrix}{a}y = x^{2} - 7 \\\\ y = 5 x - 13\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( 2 , - 3 ) , ( 3 , 2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Systems of Nonlinear Equations and Inequalities: Two Variables",
+        "Problem Statement": "For the following exercises, solve the system of nonlinear equations.",
+        "Question": "$$\\left .\\begin{matrix}{a}y = x^{2} - 4 \\\\ y = 5 x + 10\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Systems of Nonlinear Equations and Inequalities: Two Variables",
+        "Problem Statement": "For the following exercises, solve the system of nonlinear equations.",
+        "Question": "$$\\left .\\begin{matrix}{a}x^{2} + y^{2} = 16 \\\\ y = x - 8\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "No solution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Systems of Nonlinear Equations and Inequalities: Two Variables",
+        "Problem Statement": "For the following exercises, solve the system of nonlinear equations.",
+        "Question": "$$\\left .\\begin{matrix}{a}x^{2} + y^{2} = 25 \\\\ y = x^{2} + 5\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Systems of Nonlinear Equations and Inequalities: Two Variables",
+        "Problem Statement": "For the following exercises, solve the system of nonlinear equations.",
+        "Question": "$$\\left .\\begin{matrix}{a}x^{2} + y^{2} = 4 \\\\ y - x^{2} = 3\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "No solution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Systems of Nonlinear Equations and Inequalities: Two Variables",
+        "Problem Statement": "For the following exercises, graph the inequality.",
+        "Question": "$$y > x^{2} - 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Systems of Nonlinear Equations and Inequalities: Two Variables",
+        "Problem Statement": "For the following exercises, graph the inequality.",
+        "Question": "$$\\frac{1}{4} x^{2} + y^{2} < 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2555acc0fdbc3125cc47eee6fd70e443ab1d3d08"
+        ]
+    },
+    {
+        "Topic": "Systems of Nonlinear Equations and Inequalities: Two Variables",
+        "Problem Statement": "For the following exercises, graph the system of inequalities.",
+        "Question": "$$\\left .\\begin{matrix}{a}x^{2} + y^{2} + 2 x < 3 \\\\ y > - x^{2} - 3\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Systems of Nonlinear Equations and Inequalities: Two Variables",
+        "Problem Statement": "For the following exercises, graph the system of inequalities.",
+        "Question": "$$\\left .\\begin{matrix}{a}x^{2} - 2 x + y^{2} - 4 x < 4 \\\\ y < - x + 4\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/70cd167fe0a1e5a890f58b81ec5351df7f7d7f77"
+        ]
+    },
+    {
+        "Topic": "Systems of Nonlinear Equations and Inequalities: Two Variables",
+        "Problem Statement": "For the following exercises, graph the system of inequalities.",
+        "Question": "$$\\left .\\begin{matrix}{a}x^{2} + y^{2} < 1 \\\\ y^{2} < x\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Partial Fractions",
+        "Problem Statement": "For the following exercises, decompose into partial fractions.",
+        "Question": "$$\\frac{- 2 x + 6}{x^{2} + 3 x + 2}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2}{x + 2} , \\frac{- 4}{x + 1}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Partial Fractions",
+        "Problem Statement": "For the following exercises, decompose into partial fractions.",
+        "Question": "$$\\frac{10 x + 2}{4 x^{2} + 4 x + 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Partial Fractions",
+        "Problem Statement": "For the following exercises, decompose into partial fractions.",
+        "Question": "$$\\frac{7 x + 20}{x^{2} + 10 x + 25}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{7}{x + 5} , \\frac{- 15}{( x + 5 )^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Partial Fractions",
+        "Problem Statement": "For the following exercises, decompose into partial fractions.",
+        "Question": "$$\\frac{x - 18}{x^{2} - 12 x + 36}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Partial Fractions",
+        "Problem Statement": "For the following exercises, decompose into partial fractions.",
+        "Question": "$$\\frac{- x^{2} + 36 x + 70}{x^{3} - 125}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3}{x - 5} , \\frac{- 4 x + 1}{x^{2} + 5 x + 25}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Partial Fractions",
+        "Problem Statement": "For the following exercises, decompose into partial fractions.",
+        "Question": "$$\\frac{- 5 x^{2} + 6 x - 2}{x^{3} + 27}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Partial Fractions",
+        "Problem Statement": "For the following exercises, decompose into partial fractions.",
+        "Question": "$$\\frac{x^{3} - 4 x^{2} + 3 x + 11}{( x^{2} - 2 )^{2}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{x - 4}{( x^{2} - 2 )} , \\frac{5 x + 3}{( x^{2} - 2 )^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Partial Fractions",
+        "Problem Statement": "For the following exercises, decompose into partial fractions.",
+        "Question": "$$\\frac{4 x^{4} - 2 x^{3} + 22 x^{2} - 6 x + 48}{x ( x^{2} + 4 )^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Matrices and Matrix Operations",
+        "Problem Statement": "For the following exercises, perform the requested operations on the given matrices.\n$$A = \\left [\\begin{matrix}4 & - 2 \\\\ 1 & 3\\end{matrix}\\right ] , B = \\left [\\begin{matrix}6 & 7 & - 3 \\\\ 11 & - 2 & 4\\end{matrix}\\right ] , C = \\left [\\begin{matrix}\\left .\\begin{matrix}{aa}6 & 7 \\\\ 11 & - 2\\end{matrix}\\right . \\\\ \\left .\\begin{matrix}{aa}14 & 0\\end{matrix}\\right .\\end{matrix}\\right ] , D = \\left [\\begin{matrix}1 & - 4 & 9 \\\\ 10 & 5 & - 7 \\\\ 2 & 8 & 5\\end{matrix}\\right ] , E = \\left [\\begin{matrix}7 & - 14 & 3 \\\\ 2 & - 1 & 3 \\\\ 0 & 1 & 9\\end{matrix}\\right ]$$",
+        "Question": "$$- 4 A$$",
+        "Image Links": [],
+        "Answer": "$$\\left [\\begin{matrix}- 16 & 8 \\\\ - 4 & - 12\\end{matrix}\\right ]$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Matrices and Matrix Operations",
+        "Problem Statement": "For the following exercises, perform the requested operations on the given matrices.\n$$A = \\left [\\begin{matrix}4 & - 2 \\\\ 1 & 3\\end{matrix}\\right ] , B = \\left [\\begin{matrix}6 & 7 & - 3 \\\\ 11 & - 2 & 4\\end{matrix}\\right ] , C = \\left [\\begin{matrix}\\left .\\begin{matrix}{aa}6 & 7 \\\\ 11 & - 2\\end{matrix}\\right . \\\\ \\left .\\begin{matrix}{aa}14 & 0\\end{matrix}\\right .\\end{matrix}\\right ] , D = \\left [\\begin{matrix}1 & - 4 & 9 \\\\ 10 & 5 & - 7 \\\\ 2 & 8 & 5\\end{matrix}\\right ] , E = \\left [\\begin{matrix}7 & - 14 & 3 \\\\ 2 & - 1 & 3 \\\\ 0 & 1 & 9\\end{matrix}\\right ]$$",
+        "Question": "$$10 D - 6 E$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Matrices and Matrix Operations",
+        "Problem Statement": "For the following exercises, perform the requested operations on the given matrices.\n$$A = \\left [\\begin{matrix}4 & - 2 \\\\ 1 & 3\\end{matrix}\\right ] , B = \\left [\\begin{matrix}6 & 7 & - 3 \\\\ 11 & - 2 & 4\\end{matrix}\\right ] , C = \\left [\\begin{matrix}\\left .\\begin{matrix}{aa}6 & 7 \\\\ 11 & - 2\\end{matrix}\\right . \\\\ \\left .\\begin{matrix}{aa}14 & 0\\end{matrix}\\right .\\end{matrix}\\right ] , D = \\left [\\begin{matrix}1 & - 4 & 9 \\\\ 10 & 5 & - 7 \\\\ 2 & 8 & 5\\end{matrix}\\right ] , E = \\left [\\begin{matrix}7 & - 14 & 3 \\\\ 2 & - 1 & 3 \\\\ 0 & 1 & 9\\end{matrix}\\right ]$$",
+        "Question": "$$B + C$$",
+        "Image Links": [],
+        "Answer": "undefined; dimensions do not match",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Matrices and Matrix Operations",
+        "Problem Statement": "For the following exercises, perform the requested operations on the given matrices.\n$$A = \\left [\\begin{matrix}4 & - 2 \\\\ 1 & 3\\end{matrix}\\right ] , B = \\left [\\begin{matrix}6 & 7 & - 3 \\\\ 11 & - 2 & 4\\end{matrix}\\right ] , C = \\left [\\begin{matrix}\\left .\\begin{matrix}{aa}6 & 7 \\\\ 11 & - 2\\end{matrix}\\right . \\\\ \\left .\\begin{matrix}{aa}14 & 0\\end{matrix}\\right .\\end{matrix}\\right ] , D = \\left [\\begin{matrix}1 & - 4 & 9 \\\\ 10 & 5 & - 7 \\\\ 2 & 8 & 5\\end{matrix}\\right ] , E = \\left [\\begin{matrix}7 & - 14 & 3 \\\\ 2 & - 1 & 3 \\\\ 0 & 1 & 9\\end{matrix}\\right ]$$",
+        "Question": "$$A B$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Matrices and Matrix Operations",
+        "Problem Statement": "For the following exercises, perform the requested operations on the given matrices.\n$$A = \\left [\\begin{matrix}4 & - 2 \\\\ 1 & 3\\end{matrix}\\right ] , B = \\left [\\begin{matrix}6 & 7 & - 3 \\\\ 11 & - 2 & 4\\end{matrix}\\right ] , C = \\left [\\begin{matrix}\\left .\\begin{matrix}{aa}6 & 7 \\\\ 11 & - 2\\end{matrix}\\right . \\\\ \\left .\\begin{matrix}{aa}14 & 0\\end{matrix}\\right .\\end{matrix}\\right ] , D = \\left [\\begin{matrix}1 & - 4 & 9 \\\\ 10 & 5 & - 7 \\\\ 2 & 8 & 5\\end{matrix}\\right ] , E = \\left [\\begin{matrix}7 & - 14 & 3 \\\\ 2 & - 1 & 3 \\\\ 0 & 1 & 9\\end{matrix}\\right ]$$",
+        "Question": "$$B A$$",
+        "Image Links": [],
+        "Answer": "undefined; inner dimensions do not match",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Matrices and Matrix Operations",
+        "Problem Statement": "For the following exercises, perform the requested operations on the given matrices.\n$$A = \\left [\\begin{matrix}4 & - 2 \\\\ 1 & 3\\end{matrix}\\right ] , B = \\left [\\begin{matrix}6 & 7 & - 3 \\\\ 11 & - 2 & 4\\end{matrix}\\right ] , C = \\left [\\begin{matrix}\\left .\\begin{matrix}{aa}6 & 7 \\\\ 11 & - 2\\end{matrix}\\right . \\\\ \\left .\\begin{matrix}{aa}14 & 0\\end{matrix}\\right .\\end{matrix}\\right ] , D = \\left [\\begin{matrix}1 & - 4 & 9 \\\\ 10 & 5 & - 7 \\\\ 2 & 8 & 5\\end{matrix}\\right ] , E = \\left [\\begin{matrix}7 & - 14 & 3 \\\\ 2 & - 1 & 3 \\\\ 0 & 1 & 9\\end{matrix}\\right ]$$",
+        "Question": "$$B C$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Matrices and Matrix Operations",
+        "Problem Statement": "For the following exercises, perform the requested operations on the given matrices.\n$$A = \\left [\\begin{matrix}4 & - 2 \\\\ 1 & 3\\end{matrix}\\right ] , B = \\left [\\begin{matrix}6 & 7 & - 3 \\\\ 11 & - 2 & 4\\end{matrix}\\right ] , C = \\left [\\begin{matrix}\\left .\\begin{matrix}{aa}6 & 7 \\\\ 11 & - 2\\end{matrix}\\right . \\\\ \\left .\\begin{matrix}{aa}14 & 0\\end{matrix}\\right .\\end{matrix}\\right ] , D = \\left [\\begin{matrix}1 & - 4 & 9 \\\\ 10 & 5 & - 7 \\\\ 2 & 8 & 5\\end{matrix}\\right ] , E = \\left [\\begin{matrix}7 & - 14 & 3 \\\\ 2 & - 1 & 3 \\\\ 0 & 1 & 9\\end{matrix}\\right ]$$",
+        "Question": "$$C B$$",
+        "Image Links": [],
+        "Answer": "$$\\left [\\begin{matrix}113 & 28 & 10 \\\\ 44 & 81 & - 41 \\\\ 84 & 98 & - 42\\end{matrix}\\right ]$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Matrices and Matrix Operations",
+        "Problem Statement": "For the following exercises, perform the requested operations on the given matrices.\n$$A = \\left [\\begin{matrix}4 & - 2 \\\\ 1 & 3\\end{matrix}\\right ] , B = \\left [\\begin{matrix}6 & 7 & - 3 \\\\ 11 & - 2 & 4\\end{matrix}\\right ] , C = \\left [\\begin{matrix}\\left .\\begin{matrix}{aa}6 & 7 \\\\ 11 & - 2\\end{matrix}\\right . \\\\ \\left .\\begin{matrix}{aa}14 & 0\\end{matrix}\\right .\\end{matrix}\\right ] , D = \\left [\\begin{matrix}1 & - 4 & 9 \\\\ 10 & 5 & - 7 \\\\ 2 & 8 & 5\\end{matrix}\\right ] , E = \\left [\\begin{matrix}7 & - 14 & 3 \\\\ 2 & - 1 & 3 \\\\ 0 & 1 & 9\\end{matrix}\\right ]$$",
+        "Question": "$$D E$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Matrices and Matrix Operations",
+        "Problem Statement": "For the following exercises, perform the requested operations on the given matrices.\n$$A = \\left [\\begin{matrix}4 & - 2 \\\\ 1 & 3\\end{matrix}\\right ] , B = \\left [\\begin{matrix}6 & 7 & - 3 \\\\ 11 & - 2 & 4\\end{matrix}\\right ] , C = \\left [\\begin{matrix}\\left .\\begin{matrix}{aa}6 & 7 \\\\ 11 & - 2\\end{matrix}\\right . \\\\ \\left .\\begin{matrix}{aa}14 & 0\\end{matrix}\\right .\\end{matrix}\\right ] , D = \\left [\\begin{matrix}1 & - 4 & 9 \\\\ 10 & 5 & - 7 \\\\ 2 & 8 & 5\\end{matrix}\\right ] , E = \\left [\\begin{matrix}7 & - 14 & 3 \\\\ 2 & - 1 & 3 \\\\ 0 & 1 & 9\\end{matrix}\\right ]$$",
+        "Question": "$$E D$$",
+        "Image Links": [],
+        "Answer": "$$\\left [\\begin{matrix}- 127 & - 74 & 176 \\\\ - 2 & 11 & 40 \\\\ 28 & 77 & 38\\end{matrix}\\right ]$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Matrices and Matrix Operations",
+        "Problem Statement": "For the following exercises, perform the requested operations on the given matrices.\n$$A = \\left [\\begin{matrix}4 & - 2 \\\\ 1 & 3\\end{matrix}\\right ] , B = \\left [\\begin{matrix}6 & 7 & - 3 \\\\ 11 & - 2 & 4\\end{matrix}\\right ] , C = \\left [\\begin{matrix}\\left .\\begin{matrix}{aa}6 & 7 \\\\ 11 & - 2\\end{matrix}\\right . \\\\ \\left .\\begin{matrix}{aa}14 & 0\\end{matrix}\\right .\\end{matrix}\\right ] , D = \\left [\\begin{matrix}1 & - 4 & 9 \\\\ 10 & 5 & - 7 \\\\ 2 & 8 & 5\\end{matrix}\\right ] , E = \\left [\\begin{matrix}7 & - 14 & 3 \\\\ 2 & - 1 & 3 \\\\ 0 & 1 & 9\\end{matrix}\\right ]$$",
+        "Question": "$$E C$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Matrices and Matrix Operations",
+        "Problem Statement": "For the following exercises, perform the requested operations on the given matrices.\n$$A = \\left [\\begin{matrix}4 & - 2 \\\\ 1 & 3\\end{matrix}\\right ] , B = \\left [\\begin{matrix}6 & 7 & - 3 \\\\ 11 & - 2 & 4\\end{matrix}\\right ] , C = \\left [\\begin{matrix}\\left .\\begin{matrix}{aa}6 & 7 \\\\ 11 & - 2\\end{matrix}\\right . \\\\ \\left .\\begin{matrix}{aa}14 & 0\\end{matrix}\\right .\\end{matrix}\\right ] , D = \\left [\\begin{matrix}1 & - 4 & 9 \\\\ 10 & 5 & - 7 \\\\ 2 & 8 & 5\\end{matrix}\\right ] , E = \\left [\\begin{matrix}7 & - 14 & 3 \\\\ 2 & - 1 & 3 \\\\ 0 & 1 & 9\\end{matrix}\\right ]$$",
+        "Question": "$$C E$$",
+        "Image Links": [],
+        "Answer": "undefined; inner dimensions do not match",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Matrices and Matrix Operations",
+        "Problem Statement": "For the following exercises, perform the requested operations on the given matrices.\n$$A = \\left [\\begin{matrix}4 & - 2 \\\\ 1 & 3\\end{matrix}\\right ] , B = \\left [\\begin{matrix}6 & 7 & - 3 \\\\ 11 & - 2 & 4\\end{matrix}\\right ] , C = \\left [\\begin{matrix}\\left .\\begin{matrix}{aa}6 & 7 \\\\ 11 & - 2\\end{matrix}\\right . \\\\ \\left .\\begin{matrix}{aa}14 & 0\\end{matrix}\\right .\\end{matrix}\\right ] , D = \\left [\\begin{matrix}1 & - 4 & 9 \\\\ 10 & 5 & - 7 \\\\ 2 & 8 & 5\\end{matrix}\\right ] , E = \\left [\\begin{matrix}7 & - 14 & 3 \\\\ 2 & - 1 & 3 \\\\ 0 & 1 & 9\\end{matrix}\\right ]$$",
+        "Question": "$$A^{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solving Systems with Gaussian Elimination",
+        "Problem Statement": "For the following exercises, write the system of linear equations from the augmented matrix. Indicate whether there will be a unique solution.",
+        "Question": "$$[ \\left .\\begin{matrix}{aaa}1 & 0 & -3 \\\\ 0 & 1 & 2 \\\\ 0 & 0 & 0\\end{matrix}\\right . | \\left .\\begin{matrix}{a}7 \\\\ -5 \\\\ 0\\end{matrix}\\right . ]$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{a}x - 3 z = 7 \\\\ y + 2 z = - 5\\end{matrix}\\right .$$ with infinite solutions",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solving Systems with Gaussian Elimination",
+        "Problem Statement": "For the following exercises, write the system of linear equations from the augmented matrix. Indicate whether there will be a unique solution.",
+        "Question": "$$[ \\left .\\begin{matrix}{aaa}1 & 0 & 5 \\\\ 0 & 1 & -2 \\\\ 0 & 0 & 0\\end{matrix}\\right . | \\left .\\begin{matrix}{a}-9 \\\\ 4 \\\\ 3\\end{matrix}\\right . ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solving Systems with Gaussian Elimination",
+        "Problem Statement": "For the following exercises, write the augmented matrix from the system of linear equations.",
+        "Question": "$$\\left .\\begin{matrix}{a}- 2 x + 2 y + z = 7 \\\\ 2 x - 8 y + 5 z = 0 \\\\ 19 x - 10 y + 22 z = 3\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$[ \\left .\\begin{matrix}{aaa}- 2 & 2 & 1 \\\\ 2 & - 8 & 5 \\\\ 19 & - 10 & 22\\end{matrix}\\right . | \\left .\\begin{matrix}{a}7 \\\\ 0 \\\\ 3\\end{matrix}\\right . ]$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solving Systems with Gaussian Elimination",
+        "Problem Statement": "For the following exercises, write the augmented matrix from the system of linear equations.",
+        "Question": "$$\\left .\\begin{matrix}{a}4 x + 2 y - 3 z = 14 \\\\ - 12 x + 3 y + z = 100 \\\\ 9 x - 6 y + 2 z = 31\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solving Systems with Gaussian Elimination",
+        "Problem Statement": "For the following exercises, write the augmented matrix from the system of linear equations.",
+        "Question": "$$\\left .\\begin{matrix}{a}x + 3 z = 12 \\\\ - x + 4 y = 0 \\\\ y + 2 z = - 7\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$[ \\left .\\begin{matrix}{aaa}1 & 0 & 3 \\\\ -1 & 4 & 0 \\\\ 0 & 1 & 2\\end{matrix}\\right . | \\left .\\begin{matrix}{a}12 \\\\ 0 \\\\ -7\\end{matrix}\\right . ]$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solving Systems with Gaussian Elimination",
+        "Problem Statement": "For the following exercises, solve the system of linear equations using Gaussian elimination.",
+        "Question": "$$\\left .\\begin{matrix}{a}3 x - 4 y = - 7 \\\\ - 6 x + 8 y = 14\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solving Systems with Gaussian Elimination",
+        "Problem Statement": "For the following exercises, solve the system of linear equations using Gaussian elimination.",
+        "Question": "$$\\left .\\begin{matrix}{a}3 x - 4 y = 1 \\\\ - 6 x + 8 y = 6\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "No solutions exist.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solving Systems with Gaussian Elimination",
+        "Problem Statement": "For the following exercises, solve the system of linear equations using Gaussian elimination.",
+        "Question": "$$\\left .\\begin{matrix}{a}- 1.1 x - 2.3 y = 6.2 \\\\ - 5.2 x - 4.1 y = 4.3\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solving Systems with Gaussian Elimination",
+        "Problem Statement": "For the following exercises, solve the system of linear equations using Gaussian elimination.",
+        "Question": "$$\\left .\\begin{matrix}{a}2 x + 3 y + 2 z = 1 \\\\ - 4 x - 6 y - 4 z = - 2 \\\\ 10 x + 15 y + 10 z = 0\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "No solutions exist.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solving Systems with Gaussian Elimination",
+        "Problem Statement": "For the following exercises, solve the system of linear equations using Gaussian elimination.",
+        "Question": "$$\\left .\\begin{matrix}{a}- x + 2 y - 4 z = 8 \\\\ 3 y + 8 z = - 4 \\\\ - 7 x + y + 2 z = 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solving Systems with Inverses",
+        "Problem Statement": "For the following exercises, find the inverse of the matrix.",
+        "Question": "$$\\left [\\begin{matrix}- 0.2 & 1.4 \\\\ 1.2 & - 0.4\\end{matrix}\\right ]$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{8} \\left [\\begin{matrix}2 & 7 \\\\ 6 & 1\\end{matrix}\\right ]$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solving Systems with Inverses",
+        "Problem Statement": "For the following exercises, find the inverse of the matrix.",
+        "Question": "$$\\left [\\begin{matrix}\\frac{1}{2} & - \\frac{1}{2} \\\\ - \\frac{1}{4} & \\frac{3}{4}\\end{matrix}\\right ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solving Systems with Inverses",
+        "Problem Statement": "For the following exercises, find the inverse of the matrix.",
+        "Question": "$$\\left [\\begin{matrix}12 & 9 & - 6 \\\\ - 1 & 3 & 2 \\\\ - 4 & - 3 & 2\\end{matrix}\\right ]$$",
+        "Image Links": [],
+        "Answer": "No inverse exists.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solving Systems with Inverses",
+        "Problem Statement": "For the following exercises, find the inverse of the matrix.",
+        "Question": "$$\\left [\\begin{matrix}2 & 1 & 3 \\\\ 1 & 2 & 3 \\\\ 3 & 2 & 1\\end{matrix}\\right ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solving Systems with Inverses",
+        "Problem Statement": "For the following exercises, find the solutions by computing the inverse of the matrix.",
+        "Question": "$$\\left .\\begin{matrix}{a}0.3 x - 0.1 y = - 10 \\\\ - 0.1 x + 0.3 y = 14\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( - 20 , 40 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solving Systems with Inverses",
+        "Problem Statement": "For the following exercises, find the solutions by computing the inverse of the matrix.",
+        "Question": "$$\\left .\\begin{matrix}{a}0.4 x - 0.2 y = - 0.6 \\\\ - 0.1 x + 0.05 y = 0.3\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solving Systems with Inverses",
+        "Problem Statement": "For the following exercises, find the solutions by computing the inverse of the matrix.",
+        "Question": "$$\\left .\\begin{matrix}{a}4 x + 3 y - 3 z = - 4.3 \\\\ 5 x - 4 y - z = - 6.1 \\\\ x + z = - 0.7\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( - 1 , 0.2 , 0.3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solving Systems with Inverses",
+        "Problem Statement": "For the following exercises, find the solutions by computing the inverse of the matrix.",
+        "Question": "$$\\left .\\begin{matrix}{a}\\left .\\begin{matrix}{a} \\\\ - 2 x - 3 y + 2 z = 3\\end{matrix}\\right . \\\\ - x + 2 y + 4 z = - 5 \\\\ - 2 y + 5 z = - 3\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solving Systems with Inverses",
+        "Problem Statement": "For the following exercises, write a system of equations to solve each problem. Solve the system of equations.",
+        "Question": "Students were asked to bring their favorite fruit to class. 90% of the fruits consisted of banana, apple, and oranges. If oranges were half as popular as bananas and apples were 5% more popular than bananas, what are the percentages of each individual fruit?",
+        "Image Links": [],
+        "Answer": "17% oranges, 34% bananas, 39% apples",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solving Systems with Inverses",
+        "Problem Statement": "For the following exercises, write a system of equations to solve each problem. Solve the system of equations.",
+        "Question": "A school club held a bake sale to raise money and sold brownies and chocolate chip cookies. They priced the brownies at $2 and the chocolate chip cookies at $1. They raised $250 and sold 175 items. How many brownies and how many cookies were sold?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solving Systems with Cramer's Rule",
+        "Problem Statement": "For the following exercises, find the determinant.",
+        "Question": "$$\\left |\\begin{matrix}100 & 0 \\\\ 0 & 0\\end{matrix}\\right |$$",
+        "Image Links": [],
+        "Answer": "0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solving Systems with Cramer's Rule",
+        "Problem Statement": "For the following exercises, find the determinant.",
+        "Question": "$$\\left |\\begin{matrix}0.2 & - 0.6 \\\\ 0.7 & - 1.1\\end{matrix}\\right |$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solving Systems with Cramer's Rule",
+        "Problem Statement": "For the following exercises, find the determinant.",
+        "Question": "$$\\left |\\begin{matrix}- 1 & 4 & 3 \\\\ 0 & 2 & 3 \\\\ 0 & 0 & - 3\\end{matrix}\\right |$$",
+        "Image Links": [],
+        "Answer": "6",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solving Systems with Cramer's Rule",
+        "Problem Statement": "For the following exercises, find the determinant.",
+        "Question": "$$\\left |\\begin{matrix}\\sqrt{2} & 0 & 0 \\\\ 0 & \\sqrt{2} & 0 \\\\ 0 & 0 & \\sqrt{2}\\end{matrix}\\right |$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solving Systems with Cramer's Rule",
+        "Problem Statement": "For the following exercises, use Cramer\u2019s Rule to solve the linear systems of equations.",
+        "Question": "$$\\left .\\begin{matrix}{a}4 x - 2 y = 23 \\\\ - 5 x - 10 y = - 35\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( 6 , \\frac{1}{2} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solving Systems with Cramer's Rule",
+        "Problem Statement": "For the following exercises, use Cramer\u2019s Rule to solve the linear systems of equations.",
+        "Question": "$$\\left .\\begin{matrix}{a}0.2 x - 0.1 y = 0 \\\\ - 0.3 x + 0.3 y = 2.5\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solving Systems with Cramer's Rule",
+        "Problem Statement": "For the following exercises, use Cramer\u2019s Rule to solve the linear systems of equations.",
+        "Question": "$$\\left .\\begin{matrix}{a}- 0.5 x + 0.1 y = 0.3 \\\\ - 0.25 x + 0.05 y = 0.15\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "( x , 5 x + 3)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solving Systems with Cramer's Rule",
+        "Problem Statement": "For the following exercises, use Cramer\u2019s Rule to solve the linear systems of equations.",
+        "Question": "$$\\left .\\begin{matrix}{a}x + 6 y + 3 z = 4 \\\\ 2 x + y + 2 z = 3 \\\\ 3 x - 2 y + z = 0\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solving Systems with Cramer's Rule",
+        "Problem Statement": "For the following exercises, use Cramer\u2019s Rule to solve the linear systems of equations.",
+        "Question": "$$\\left .\\begin{matrix}{a}4 x - 3 y + 5 z = - \\frac{5}{2} \\\\ 7 x - 9 y - 3 z = \\frac{3}{2} \\\\ x - 5 y - 5 z = \\frac{5}{2}\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( 0 , 0 , - \\frac{1}{2} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solving Systems with Cramer's Rule",
+        "Problem Statement": "For the following exercises, use Cramer\u2019s Rule to solve the linear systems of equations.",
+        "Question": "$$\\left .\\begin{matrix}{a}\\frac{3}{10} x - \\frac{1}{5} y - \\frac{3}{10} z = - \\frac{1}{50} \\\\ \\frac{1}{10} x - \\frac{1}{10} y - \\frac{1}{2} z = - \\frac{9}{50} \\\\ \\frac{2}{5} x - \\frac{1}{2} y - \\frac{3}{5} z = - \\frac{1}{5}\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

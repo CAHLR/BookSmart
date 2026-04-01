@@ -1,0 +1,130 @@
+[
+    {
+        "Topic": "Try It 4.89",
+        "Problem Statement": "",
+        "Question": "Evaluate the determinant of \u24d0 $$\\left [\\begin{matrix}5 -3 \\\\ 2 -4\\end{matrix}\\right ]$$ \u24d1 $$\\left [\\begin{matrix}-4 &  &  & -6 \\\\ 0 &  &  & 7\\end{matrix}\\right ] .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-14 ;$$ \u24d1 $$-28$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.90",
+        "Problem Statement": "",
+        "Question": "Evaluate the determinant of \u24d0 $$\\left [\\begin{matrix}-1 3 \\\\ -2 4\\end{matrix}\\right ]$$ \u24d1 $$\\left [\\begin{matrix}-7 &  &  & -3 \\\\ -5 &  &  & 0\\end{matrix}\\right ] .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 2 \u24d1 $$-15$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.91",
+        "Problem Statement": "",
+        "Question": "For the determinant $$\\left |\\begin{matrix}1 &  &  & -1 &  &  & 4 \\\\ 0 &  &  & 2 &  &  & -1 \\\\ -2 &  &  & -3 &  &  & 3\\end{matrix}\\right | ,$$ find and then evaluate the minor of \u24d0 $$a_{1}$$ \u24d1 $$b_{2}$$ \u24d2 $$c_{3} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 3 \u24d1 11 \u24d2 2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.92",
+        "Problem Statement": "",
+        "Question": "For the determinant $$\\left |\\begin{matrix}-2 &  &  & -1 &  &  & 0 \\\\ 3 &  &  & 0 &  &  & -1 \\\\ -1 &  &  & -2 &  &  & 3\\end{matrix}\\right | ,$$ find and then evaluate the minor of \u24d0 $$a_{2}$$ \u24d1 $$b_{3}$$ \u24d2 $$c_{2} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-3$$ \u24d1 2 \u24d2 3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.93",
+        "Problem Statement": "",
+        "Question": "Evaluate the determinant $$\\left |\\begin{matrix}3 &  &  & -2 &  &  & 4 \\\\ 0 &  &  & -1 &  &  & -2 \\\\ 2 &  &  & 3 &  &  & -1\\end{matrix}\\right | ,$$ by expanding by minors along the first row.",
+        "Image Links": [],
+        "Answer": "37",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.94",
+        "Problem Statement": "",
+        "Question": "Evaluate the determinant $$\\left |\\begin{matrix}3 &  &  & -2 &  &  & -2 \\\\ 2 &  &  & -1 &  &  & 4 \\\\ -1 &  &  & 0 &  &  & -3\\end{matrix}\\right | ,$$ by expanding by minors along the first row.",
+        "Image Links": [],
+        "Answer": "7",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.95",
+        "Problem Statement": "",
+        "Question": "Evaluate the determinant $$\\left |\\begin{matrix}2 &  &  & -1 &  &  & -3 \\\\ 0 &  &  & 3 &  &  & -4 \\\\ 3 &  &  & -4 &  &  & -3\\end{matrix}\\right |$$ by expanding by minors.",
+        "Image Links": [],
+        "Answer": "$$-11$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.96",
+        "Problem Statement": "",
+        "Question": "Evaluate the determinant $$\\left |\\begin{matrix}-2 &  &  & -1 &  &  & -3 \\\\ -1 &  &  & 2 &  &  & 2 \\\\ 4 &  &  & -4 &  &  & 0\\end{matrix}\\right |$$ by expanding by minors.",
+        "Image Links": [],
+        "Answer": "$$-12$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.97",
+        "Problem Statement": "",
+        "Question": "Solve using Cramer\u2019s rule: $$\\{ \\left .\\begin{matrix}{a}3 x + y = -3 \\\\ 2 x + 3 y = 6\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "$$( - \\frac{15}{7} , \\frac{24}{7} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.98",
+        "Problem Statement": "",
+        "Question": "Solve using Cramer\u2019s rule: $$\\{ \\left .\\begin{matrix}{a}\\text{unicode[:-]} x + y = 2 \\\\ 2 x + y = -4\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "$$( -2 , 0 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.99",
+        "Problem Statement": "",
+        "Question": "Solve the system of equations using Cramer\u2019s Rule: $$\\{ \\left .\\begin{matrix}{a}3 x + 8 y + 2 z = -5 \\\\ 2 x + 5 y - 3 z = 0 \\\\ x + 2 y - 2 z = -1\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "$$( -9 , 3 , -1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.100",
+        "Problem Statement": "",
+        "Question": "Solve the system of equations using Cramer\u2019s Rule: $$\\{ \\left .\\begin{matrix}{a}3 x + y - 6 z = -3 \\\\ 2 x + 6 y + 3 z = 0 \\\\ 3 x + 2 y - 3 z = -6\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "$$( -6 , 3 , -2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.101",
+        "Problem Statement": "",
+        "Question": "Solve the system of equations using Cramer\u2019s rule: $$\\{ \\left .\\begin{matrix}{a}4 x - 3 y = 8 \\\\ 8 x - 6 y = 14\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "no solution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.102",
+        "Problem Statement": "",
+        "Question": "Solve the system of equations using Cramer\u2019s rule: $$\\{ \\left .\\begin{matrix}{a}x = -3 y + 4 \\\\ 2 x + 6 y = 8\\end{matrix}\\right . .$$",
+        "Image Links": [],
+        "Answer": "infinite solutions",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.103",
+        "Problem Statement": "",
+        "Question": "Determine whether the points $$( 3 , -2 ) ,$$ $$( 5 , -3 ) ,$$ and $$( 1 , -1 )$$ are collinear.",
+        "Image Links": [],
+        "Answer": "yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 4.104",
+        "Problem Statement": "",
+        "Question": "Determine whether the points $$( -4 , -1 ) ,$$ $$( -6 , 2 ) ,$$ and $$( -2 , -4 )$$ are collinear.",
+        "Image Links": [],
+        "Answer": "yes",
+        "Answer Image Links": []
+    }
+]

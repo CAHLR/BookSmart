@@ -1,0 +1,854 @@
+[
+    {
+        "Topic": "Simplify, Multiply, and Divide Rational Expressions",
+        "Problem Statement": "In the following exercises, determine the values for which the rational expression is undefined.",
+        "Question": "$$\\frac{5 a + 3}{3 a - 2}$$",
+        "Image Links": [],
+        "Answer": "$$a \\ne \\frac{2}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify, Multiply, and Divide Rational Expressions",
+        "Problem Statement": "In the following exercises, determine the values for which the rational expression is undefined.",
+        "Question": "$$\\frac{b - 7}{b^{2} - 25}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify, Multiply, and Divide Rational Expressions",
+        "Problem Statement": "In the following exercises, determine the values for which the rational expression is undefined.",
+        "Question": "$$\\frac{5 x^{2} y^{2}}{8 y}$$",
+        "Image Links": [],
+        "Answer": "$$y \\ne 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify, Multiply, and Divide Rational Expressions",
+        "Problem Statement": "In the following exercises, determine the values for which the rational expression is undefined.",
+        "Question": "$$\\frac{x - 3}{x^{2} - x - 30}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify, Multiply, and Divide Rational Expressions",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\frac{18}{24}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify, Multiply, and Divide Rational Expressions",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\frac{9 m^{4}}{18 m n^{3}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify, Multiply, and Divide Rational Expressions",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\frac{x^{2} + 7 x + 12}{x^{2} + 8 x + 16}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{x + 3}{x + 4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify, Multiply, and Divide Rational Expressions",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\frac{7 v - 35}{25 - v^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify, Multiply, and Divide Rational Expressions",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$\\frac{5}{8} \\cdotp \\frac{4}{15}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify, Multiply, and Divide Rational Expressions",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$\\frac{3 x y^{2}}{8 y^{3}} \\cdotp \\frac{16 y^{2}}{24 x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify, Multiply, and Divide Rational Expressions",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$\\frac{72 x - 12 x^{2}}{8 x + 32} \\cdotp \\frac{x^{2} + 10 x + 24}{x^{2} - 36}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{-3 x}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify, Multiply, and Divide Rational Expressions",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$\\frac{2 y^{2} + y - 3}{4 - y^{2}} \\cdotp \\frac{y^{2} - 4 y + 4}{2 y^{2} + 11 y + 12}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify, Multiply, and Divide Rational Expressions",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "$$\\frac{x^{2} - 4 x - 12}{x^{2} + 8 x + 12} \\div \\frac{x^{2} - 36}{3 x}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3 x}{( x + 6 ) ( x + 6 )}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify, Multiply, and Divide Rational Expressions",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "$$\\frac{y^{2} - 16}{4} \\div \\frac{y^{3} - 64}{2 y^{2} + 8 y + 32}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify, Multiply, and Divide Rational Expressions",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "$$\\frac{11 + w}{w - 9} \\div \\frac{121 - w^{2}}{9 - w}$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{1}{11 - w}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify, Multiply, and Divide Rational Expressions",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "$$\\frac{3 y^{2} - 12 y - 63}{4 y + 3} \\div ( 6 y^{2} - 42 y )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify, Multiply, and Divide Rational Expressions",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "$$\\frac{\\frac{c^{2} - 64}{3 c^{2} + 26 c + 16}}{\\frac{c^{2} - 4 c - 32}{15 c + 10}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{5}{c + 4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify, Multiply, and Divide Rational Expressions",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "$$\\frac{8 a^{2} + 16 a}{a - 4} \\cdotp \\frac{a^{2} + 2 a - 24}{a^{2} + 7 a + 10} \\div \\frac{2 a^{2} - 6 a}{a + 5}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify, Multiply, and Divide Rational Expressions",
+        "Problem Statement": "Multiply and Divide Rational Functions",
+        "Question": "Find $$R ( x ) = f ( x ) \\cdotp g ( x )$$ where $$f ( x ) = \\frac{9 x^{2} + 9 x}{x^{2} - 3 x - 4}$$ and $$g ( x ) = \\frac{x^{2} - 16}{3 x^{2} + 12 x} .$$",
+        "Image Links": [],
+        "Answer": "$$R ( x ) = 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify, Multiply, and Divide Rational Expressions",
+        "Problem Statement": "Multiply and Divide Rational Functions",
+        "Question": "Find $$R ( x ) = \\frac{f ( x )}{g ( x )}$$ where $$f ( x ) = \\frac{27 x^{2}}{3 x - 21}$$ and $$g ( x ) = \\frac{9 x^{2} + 54 x}{x^{2} - x - 42} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add and Subtract Rational Expressions",
+        "Problem Statement": "In the following exercises, perform the indicated operations.",
+        "Question": "$$\\frac{7}{15} + \\frac{8}{15}$$",
+        "Image Links": [],
+        "Answer": "$$1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add and Subtract Rational Expressions",
+        "Problem Statement": "In the following exercises, perform the indicated operations.",
+        "Question": "$$\\frac{4 a^{2}}{2 a - 1} - \\frac{1}{2 a - 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add and Subtract Rational Expressions",
+        "Problem Statement": "In the following exercises, perform the indicated operations.",
+        "Question": "$$\\frac{y^{2} + 10 y}{y + 5} + \\frac{25}{y + 5}$$",
+        "Image Links": [],
+        "Answer": "$$y + 5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add and Subtract Rational Expressions",
+        "Problem Statement": "In the following exercises, perform the indicated operations.",
+        "Question": "$$\\frac{7 x^{2}}{x^{2} - 9} + \\frac{21 x}{x^{2} - 9}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add and Subtract Rational Expressions",
+        "Problem Statement": "In the following exercises, perform the indicated operations.",
+        "Question": "$$\\frac{x^{2}}{x - 7} - \\frac{3 x + 28}{x - 7}$$",
+        "Image Links": [],
+        "Answer": "$$x + 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add and Subtract Rational Expressions",
+        "Problem Statement": "In the following exercises, perform the indicated operations.",
+        "Question": "$$\\frac{y^{2}}{y + 11} - \\frac{121}{y + 11}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add and Subtract Rational Expressions",
+        "Problem Statement": "In the following exercises, perform the indicated operations.",
+        "Question": "$$\\frac{4 q^{2} - q + 3}{q^{2} + 6 q + 5} - \\frac{3 q^{2} + q + 6}{q^{2} + 6 q + 5}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{q - 3}{q - 5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add and Subtract Rational Expressions",
+        "Problem Statement": "In the following exercises, perform the indicated operations.",
+        "Question": "$$\\frac{5 t^{2} + 4 t + 3}{t^{2} - 25} - \\frac{4 t^{2} - 8 t - 32}{t^{2} - 25}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add and Subtract Rational Expressions",
+        "Problem Statement": "In the following exercises, add and subtract.",
+        "Question": "$$\\frac{18 w}{6 w - 1} + \\frac{3 w - 2}{1 - 6 w}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{15 w + 2}{6 w - 1}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add and Subtract Rational Expressions",
+        "Problem Statement": "In the following exercises, add and subtract.",
+        "Question": "$$\\frac{a^{2} + 3 a}{a^{2} - 4} - \\frac{3 a + 8}{4 - a^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add and Subtract Rational Expressions",
+        "Problem Statement": "In the following exercises, add and subtract.",
+        "Question": "$$\\frac{2 b^{2} + 3 b - 15}{b^{2} - 49} - \\frac{b^{2} + 16 b - 1}{49 - b^{2}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3 b^{2} + 19 b - 16}{b^{2} - 49}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add and Subtract Rational Expressions",
+        "Problem Statement": "In the following exercises, add and subtract.",
+        "Question": "$$\\frac{8 y^{2} - 10 y + 7}{2 y - 5} + \\frac{2 y^{2} + 7 y + 2}{5 - 2 y}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add and Subtract Rational Expressions",
+        "Problem Statement": "In the following exercises, find the LCD.",
+        "Question": "$$\\frac{7}{a^{2} - 3 a - 10} , \\frac{3 a}{a^{2} - a - 20}$$",
+        "Image Links": [],
+        "Answer": "$$( a + 2 ) ( a - 5 ) ( a + 4 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add and Subtract Rational Expressions",
+        "Problem Statement": "In the following exercises, find the LCD.",
+        "Question": "$$\\frac{6}{n^{2} - 4} , \\frac{2 n}{n^{2} - 4 n + 4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add and Subtract Rational Expressions",
+        "Problem Statement": "In the following exercises, find the LCD.",
+        "Question": "$$\\frac{5}{3 p^{2} + 17 p - 6} , \\frac{2 m}{3 p^{2} + 23 p - 8}$$",
+        "Image Links": [],
+        "Answer": "$$( 3 p - 1 ) ( p + 6 ) ( p + 8 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add and Subtract Rational Expressions",
+        "Problem Statement": "In the following exercises, perform the indicated operations.",
+        "Question": "$$\\frac{7}{5 a} + \\frac{3}{2 b}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add and Subtract Rational Expressions",
+        "Problem Statement": "In the following exercises, perform the indicated operations.",
+        "Question": "$$\\frac{2}{c - 2} + \\frac{9}{c + 3}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{11 c - 12}{( c - 2 ) ( c + 3 )}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add and Subtract Rational Expressions",
+        "Problem Statement": "In the following exercises, perform the indicated operations.",
+        "Question": "$$\\frac{3 x}{x^{2} - 9} + \\frac{5}{x^{2} + 6 x + 9}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add and Subtract Rational Expressions",
+        "Problem Statement": "In the following exercises, perform the indicated operations.",
+        "Question": "$$\\frac{2 x}{x^{2} + 10 x + 24} + \\frac{3 x}{x^{2} + 8 x + 16}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{5 x^{2} + 26 x}{( x + 4 ) ( x + 4 ) ( x + 6 )}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add and Subtract Rational Expressions",
+        "Problem Statement": "In the following exercises, perform the indicated operations.",
+        "Question": "$$\\frac{5 q}{p^{2} q - p^{2}} + \\frac{4 q}{q^{2} - 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add and Subtract Rational Expressions",
+        "Problem Statement": "In the following exercises, perform the indicated operations.",
+        "Question": "$$\\frac{3 y}{y + 2} - \\frac{y + 2}{y + 8}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2 ( y^{2} + 10 y - 2 )}{( y + 2 ) ( y + 8 )}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add and Subtract Rational Expressions",
+        "Problem Statement": "In the following exercises, perform the indicated operations.",
+        "Question": "$$\\frac{-3 w - 15}{w^{2} + w - 20} - \\frac{w + 2}{4 - w}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add and Subtract Rational Expressions",
+        "Problem Statement": "In the following exercises, perform the indicated operations.",
+        "Question": "$$\\frac{7 m + 3}{m + 2} - 5$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2 m - 7}{m + 2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add and Subtract Rational Expressions",
+        "Problem Statement": "In the following exercises, perform the indicated operations.",
+        "Question": "$$\\frac{n}{n + 3} + \\frac{2}{n - 3} - \\frac{n + 9}{n^{2} - 9}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add and Subtract Rational Expressions",
+        "Problem Statement": "In the following exercises, perform the indicated operations.",
+        "Question": "$$\\frac{8 a}{a^{2} - 64} - \\frac{4}{a + 8}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{4}{a - 8}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add and Subtract Rational Expressions",
+        "Problem Statement": "In the following exercises, perform the indicated operations.",
+        "Question": "$$\\frac{5}{12 x^{2} y} + \\frac{7}{20 x y^{3}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add and Subtract Rational Expressions",
+        "Problem Statement": "In the following exercises, find $$R ( x ) = f ( x ) + g ( x )$$ where $$f ( x )$$ and $$g ( x )$$ are given.",
+        "Question": "$$f ( x ) = \\frac{2 x^{2} + 12 x - 11}{x^{2} + 3 x - 10} ,$$ $$g ( x ) = \\frac{x + 1}{2 - x}$$",
+        "Image Links": [],
+        "Answer": "$$R ( x ) = \\frac{x + 8}{x + 5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add and Subtract Rational Expressions",
+        "Problem Statement": "In the following exercises, find $$R ( x ) = f ( x ) + g ( x )$$ where $$f ( x )$$ and $$g ( x )$$ are given.",
+        "Question": "$$f ( x ) = \\frac{-4 x + 31}{x^{2} + x - 30} ,$$ $$g ( x ) = \\frac{5}{x + 6}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add and Subtract Rational Expressions",
+        "Problem Statement": "In the following exercises, find $$R ( x ) = f ( x ) - g ( x )$$ where $$f ( x )$$ and $$g ( x )$$ are given.",
+        "Question": "$$f ( x ) = \\frac{4 x}{x^{2} - 121} ,$$ $$g ( x ) = \\frac{2}{x - 11}$$",
+        "Image Links": [],
+        "Answer": "$$R ( x ) = \\frac{2}{x + 11}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Add and Subtract Rational Expressions",
+        "Problem Statement": "In the following exercises, find $$R ( x ) = f ( x ) - g ( x )$$ where $$f ( x )$$ and $$g ( x )$$ are given.",
+        "Question": "$$f ( x ) = \\frac{7}{x + 6} ,$$ $$g ( x ) = \\frac{14 x}{x^{2} - 36}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Complex Rational Expressions",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\frac{\\frac{7 x}{x + 2}}{\\frac{14 x^{2}}{x^{2} - 4}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{x - 2}{2 x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Complex Rational Expressions",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\frac{\\frac{2}{5} + \\frac{5}{6}}{\\frac{1}{3} + \\frac{1}{4}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Complex Rational Expressions",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\frac{x - \\frac{3 x}{x + 5}}{\\frac{1}{x + 5} + \\frac{1}{x - 5}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{( x + 2 ) ( x - 5 )}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Complex Rational Expressions",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\frac{\\frac{2}{m} + \\frac{m}{n}}{\\frac{n}{m} - \\frac{1}{n}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Complex Rational Expressions",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\frac{\\frac{1}{3} + \\frac{1}{8}}{\\frac{1}{4} + \\frac{1}{12}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{11}{8}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Complex Rational Expressions",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\frac{\\frac{3}{a^{2}} - \\frac{1}{b}}{\\frac{1}{a} + \\frac{1}{b^{2}}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Complex Rational Expressions",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\frac{\\frac{2}{z^{2} - 49} + \\frac{1}{z + 7}}{\\frac{9}{z + 7} + \\frac{12}{z - 7}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{z - 5}{21 z + 21}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Simplify Complex Rational Expressions",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$\\frac{\\frac{3}{y^{2} - 4 y - 32}}{\\frac{2}{y - 8} + \\frac{1}{y + 4}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.4 Solve Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$\\frac{1}{2} + \\frac{2}{3} = \\frac{1}{x}$$",
+        "Image Links": [],
+        "Answer": "$$x = \\frac{6}{7}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.4 Solve Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$1 - \\frac{2}{m} = \\frac{8}{m^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.4 Solve Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$\\frac{1}{b - 2} + \\frac{1}{b + 2} = \\frac{3}{b^{2} - 4}$$",
+        "Image Links": [],
+        "Answer": "$$b = \\frac{3}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.4 Solve Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$\\frac{3}{q + 8} - \\frac{2}{q - 2} = 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.4 Solve Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$\\frac{v - 15}{v^{2} - 9 v + 18} = \\frac{4}{v - 3} + \\frac{2}{v - 6}$$",
+        "Image Links": [],
+        "Answer": "no solution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.4 Solve Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$\\frac{z}{12} + \\frac{z + 3}{3 z} = \\frac{1}{z}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.4 Solve Rational Equations",
+        "Problem Statement": "Solve Rational Equations that Involve Functions",
+        "Question": "For rational function, $$f ( x ) = \\frac{x + 2}{x^{2} - 6 x + 8} ,$$ \u24d0 find the domain of the function \u24d1 solve $$f ( x ) = 1$$ \u24d2 find the points on the graph at this function value.",
+        "Image Links": [],
+        "Answer": "\u24d0 The domain is all real numbers except $$x \\ne 2$$ and $$x \\ne 4 .$$ \u24d1 $$x = 1 , x = 6$$ \u24d2 $$( 1 , 1 ) , ( 6 , 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.4 Solve Rational Equations",
+        "Problem Statement": "Solve Rational Equations that Involve Functions",
+        "Question": "For rational function, $$f ( x ) = \\frac{2 - x}{x^{2} + 7 x + 10} ,$$ \u24d0 find the domain of the function \u24d1 solve $$f ( x ) = 2$$ \u24d2 find the points on the graph at this function value.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.4 Solve Rational Equations",
+        "Problem Statement": "In the following exercises, solve for the indicated variable.",
+        "Question": "$$\\frac{V}{l} = h w$$ for $$l .$$",
+        "Image Links": [],
+        "Answer": "$$l = \\frac{V}{h w}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.4 Solve Rational Equations",
+        "Problem Statement": "In the following exercises, solve for the indicated variable.",
+        "Question": "$$\\frac{1}{x} - \\frac{2}{y} = 5$$ for $$y .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.4 Solve Rational Equations",
+        "Problem Statement": "In the following exercises, solve for the indicated variable.",
+        "Question": "$$x = \\frac{y + 5}{z - 7}$$ for $$z .$$",
+        "Image Links": [],
+        "Answer": "$$z = \\frac{y + 5 + 7 x}{x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "7.4 Solve Rational Equations",
+        "Problem Statement": "In the following exercises, solve for the indicated variable.",
+        "Question": "$$P = \\frac{k}{V}$$ for $$V .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Applications with Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$\\frac{x}{4} = \\frac{3}{5}$$",
+        "Image Links": [],
+        "Answer": "$$x = \\frac{12}{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Applications with Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$\\frac{3}{y} = \\frac{9}{5}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Applications with Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$\\frac{s}{s + 20} = \\frac{3}{7}$$",
+        "Image Links": [],
+        "Answer": "$$s = 15$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Applications with Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$\\frac{t - 3}{5} = \\frac{t + 2}{9}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Applications with Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "Rachael had a 21-ounce strawberry shake that has 739 calories. How many calories are there in a 32-ounce shake?",
+        "Image Links": [],
+        "Answer": "$$1126$$ calories",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Applications with Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "Leo went to Mexico over Christmas break and changed $525 dollars into Mexican pesos. At that time, the exchange rate had $1 US is equal to 16.25 Mexican pesos. How many Mexican pesos did he get for his trip?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Applications with Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "$$\\text{Delta} A B C$$ is similar to $$\\text{Delta} X Y Z .$$ The lengths of two sides of each triangle are given in the figure. Find the lengths of the third sides.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/4fb461ffb22fccb71c8f65608fc1349c27239cf3"
+        ],
+        "Answer": "$$b = 9 ; x = 2 \\frac{1}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Applications with Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "On a map of Europe, Paris, Rome, and Vienna form a triangle whose sides are shown in the figure below. If the actual distance from Rome to Vienna is 700 miles, find the distance from \u24d0 Paris to Rome \u24d1 Paris to Vienna",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/00e585849fdbdb06acbbaee8fd71e198debbd897"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Applications with Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "Francesca is 5.75 feet tall. Late one afternoon, her shadow was 8 feet long. At the same time, the shadow of a nearby tree was 32 feet long. Find the height of the tree.",
+        "Image Links": [],
+        "Answer": "23 feet",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Applications with Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "The height of a lighthouse in Pensacola, Florida is 150 feet. Standing next to the statue, 5.5-foot-tall Natasha cast a 1.1-foot shadow. How long would the shadow of the lighthouse be?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Applications with Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "When making the 5-hour drive home from visiting her parents, Lolo ran into bad weather. She was able to drive 176 miles while the weather was good, but then driving 10 mph slower, went 81 miles when it turned bad. How fast did she drive when the weather was bad?",
+        "Image Links": [],
+        "Answer": "$$45$$ mph",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Applications with Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "Mark is riding on a plane that can fly 490 miles with a tailwind of 20 mph in the same time that it can fly 350 miles against a tailwind of 20 mph. What is the speed of the plane?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Applications with Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "Josue can ride his bicycle 8 mph faster than Arjun can ride his bike. It takes Arjun 3 hours longer than Josue to ride 48 miles. How fast can Josue ride his bike?",
+        "Image Links": [],
+        "Answer": "$$16$$ mph",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Applications with Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "Curtis was training for a triathlon. He ran 8 kilometers and biked 32 kilometers in a total of 3 hours. His running speed was 8 kilometers per hour less than his biking speed. What was his running speed?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Applications with Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "Brandy can frame a room in 1 hour, while Jake takes 4 hours. How long could they frame a room working together?",
+        "Image Links": [],
+        "Answer": "$$48$$ minutes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Applications with Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "Prem takes 3 hours to mow the lawn while her cousin, Barb, takes 2 hours. How long will it take them working together?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Applications with Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "Jeffrey can paint a house in 6 days, but if he gets a helper he can do it in 4 days. How long would it take the helper to paint the house alone?",
+        "Image Links": [],
+        "Answer": "$$12$$ days",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Applications with Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "Marta and Deb work together writing a book that takes them 90 days. If Marta worked alone it would take her 120 days. How long would it take Deb to write the book alone?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Applications with Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "If $$y$$ varies directly as $$x$$ when $$y = 9$$ and $$x = 3 ,$$ find $$x$$ when $$y = 21 .$$",
+        "Image Links": [],
+        "Answer": "$$x = 7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Applications with Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "If $$y$$ varies inversely as $$x$$ when $$y = 20$$ and $$x = 2 ,$$ find $$y$$ when $$x = 4 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Applications with Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "Vanessa is traveling to see her fianc\u00e9. The distance, $$d ,$$ varies directly with the speed, $$v ,$$ she drives. If she travels 258 miles driving 60 mph, how far would she travel going 70 mph?",
+        "Image Links": [],
+        "Answer": "$$301$$ mph",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Applications with Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "If the cost of a pizza varies directly with its diameter, and if an 8\u201d diameter pizza costs $12, how much would a 6\u201d diameter pizza cost?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Applications with Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "The distance to stop a car varies directly with the square of its speed. It takes 200 feet to stop a car going 50 mph. How many feet would it take to stop a car going 60 mph?",
+        "Image Links": [],
+        "Answer": "$$288$$ feet",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Applications with Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "If $$m$$ varies inversely with the square of $$n ,$$ when $$m = 4$$ and $$n = 6$$ find $$m$$ when $$n = 2 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Applications with Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "The number of tickets for a music fundraiser varies inversely with the price of the tickets. If Madelyn has just enough money to purchase 12 tickets for $6, how many tickets can Madelyn afford to buy if the price increased to $8?",
+        "Image Links": [],
+        "Answer": "$$9$$ tickets",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Applications with Rational Equations",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "On a string instrument, the length of a string varies inversely with the frequency of its vibrations. If an 11-inch string on a violin has a frequency of 360 cycles per second, what frequency does a 12-inch string have?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Rational Inequalities",
+        "Problem Statement": "In the following exercises, solve each rational inequality and write the solution in interval notation.",
+        "Question": "$$\\frac{x - 3}{x + 4} \\le 0$$",
+        "Image Links": [],
+        "Answer": "$$( -4 , 3 ]$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Rational Inequalities",
+        "Problem Statement": "In the following exercises, solve each rational inequality and write the solution in interval notation.",
+        "Question": "$$\\frac{5 x}{x - 2} > 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Rational Inequalities",
+        "Problem Statement": "In the following exercises, solve each rational inequality and write the solution in interval notation.",
+        "Question": "$$\\frac{3 x - 2}{x - 4} \\le 2$$",
+        "Image Links": [],
+        "Answer": "$$[ -6 , 4 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Rational Inequalities",
+        "Problem Statement": "In the following exercises, solve each rational inequality and write the solution in interval notation.",
+        "Question": "$$\\frac{1}{x^{2} - 4 x - 12} < 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Rational Inequalities",
+        "Problem Statement": "In the following exercises, solve each rational inequality and write the solution in interval notation.",
+        "Question": "$$\\frac{1}{2} - \\frac{4}{x^{2}} \\geq \\frac{1}{x}$$",
+        "Image Links": [],
+        "Answer": "$$( \\text{unicode[:-]} \\infty , -2 ] \\cup [ 4 , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Rational Inequalities",
+        "Problem Statement": "In the following exercises, solve each rational inequality and write the solution in interval notation.",
+        "Question": "$$\\frac{4}{x - 2} < \\frac{3}{x + 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Rational Inequalities",
+        "Problem Statement": "In the following exercises, solve each rational function inequality and write the solution in interval notation",
+        "Question": "Given the function, $$R ( x ) = \\frac{x - 5}{x - 2} ,$$ find the values of $$x$$ that make the function greater than or equal to 0.",
+        "Image Links": [],
+        "Answer": "$$( \\text{unicode[:-]} \\infty , 2 ) \\cup [ 5 , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Rational Inequalities",
+        "Problem Statement": "In the following exercises, solve each rational function inequality and write the solution in interval notation",
+        "Question": "Given the function, $$R ( x ) = \\frac{x + 1}{x + 3} ,$$ find the values of $$x$$ that make the function less than or equal to 0.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Rational Inequalities",
+        "Problem Statement": "In the following exercises, solve each rational function inequality and write the solution in interval notation",
+        "Question": "The function $$C ( x ) = 150 x + 100,000$$ represents the cost to produce $$x ,$$ number of items. Find \u24d0 the average cost function, $$c ( x )$$ \u24d1 how many items should be produced so that the average cost is less than $160.",
+        "Image Links": [],
+        "Answer": "\u24d0 $$c ( x ) = \\frac{150 x + 100000}{x}$$ \u24d1 More than 10,000 items must be produced to keep the average cost below $$\\text{$} 160$$ per item.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Rational Inequalities",
+        "Problem Statement": "In the following exercises, solve each rational function inequality and write the solution in interval notation",
+        "Question": "Tillman is starting his own business by selling tacos at the beach. Accounting for the cost of his food truck and ingredients for the tacos, the function $$C ( x ) = 2 x + 6,000$$ represents the cost for Tillman to produce $$x ,$$ tacos. Find \u24d0 the average cost function, $$c ( x )$$ for Tillman\u2019s Tacos \u24d1 how many tacos should Tillman produce so that the average cost is less than $4.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

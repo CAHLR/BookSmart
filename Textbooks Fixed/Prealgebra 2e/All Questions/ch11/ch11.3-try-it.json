@@ -1,0 +1,130 @@
+[
+    {
+        "Topic": "Try It 11.44",
+        "Problem Statement": "",
+        "Question": "Find the $$x \\text{-}$$ and $$y \\text{-intercepts}$$ of the graph: $$x - y = 2 .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/50fa297d842d79a34e453992c50e2d33810e8510"
+        ],
+        "Answer": "x -intercept (2,0): y -intercept (0,-2)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 11.45",
+        "Problem Statement": "",
+        "Question": "Find the $$x \\text{-}$$ and $$y \\text{-intercepts}$$ of the graph: $$2 x + 3 y = 6 .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b4ea54eb3dfbae128cea6e4a9d34fbfe67169244"
+        ],
+        "Answer": "x -intercept (3,0); y -intercept (0,2)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 11.46",
+        "Problem Statement": "",
+        "Question": "Find the intercepts: $$3 x + y = 12$$",
+        "Image Links": [],
+        "Answer": "$$( 4 , 0 )$$ and $$( 0 , 12 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 11.47",
+        "Problem Statement": "",
+        "Question": "Find the intercepts: $$x + 4 y = 8$$",
+        "Image Links": [],
+        "Answer": "$$( 8 , 0 )$$ and $$( 0 , 2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 11.48",
+        "Problem Statement": "",
+        "Question": "Find the intercepts of the line: $$3 x -4 y = 12 .$$",
+        "Image Links": [],
+        "Answer": "x -intercept (4,0); y -intercept: (0,-3)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 11.49",
+        "Problem Statement": "",
+        "Question": "Find the intercepts of the line: $$2 x -4 y = 8 .$$",
+        "Image Links": [],
+        "Answer": "x -intercept (4,0); y -intercept: (0,-2)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 11.50",
+        "Problem Statement": "",
+        "Question": "Graph the line using the intercepts: $$x -2 y = 4 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3332f6788d185a221770ce665d3fad53f53b791a"
+        ]
+    },
+    {
+        "Topic": "Try It 11.51",
+        "Problem Statement": "",
+        "Question": "Graph the line using the intercepts: $$- x + 3 y = 6 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f7ec8d66b54fffcdb04f98272d7d952ed90d4aa9"
+        ]
+    },
+    {
+        "Topic": "Try It 11.52",
+        "Problem Statement": "",
+        "Question": "Graph the line using the intercepts: $$5 x -2 y = 10 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2a973af9cd4f952b8468c31a80a9b0a4b14d31c8"
+        ]
+    },
+    {
+        "Topic": "Try It 11.53",
+        "Problem Statement": "",
+        "Question": "Graph the line using the intercepts: $$3 x -4 y = 12 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9b319b468d8d5665c5b845a5fb9f3b55311930c2"
+        ]
+    },
+    {
+        "Topic": "Try It 11.54",
+        "Problem Statement": "",
+        "Question": "Graph using the intercepts: $$y = 4 x .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/848b77c777703cdc34fa62cce27855eebeff8c47"
+        ]
+    },
+    {
+        "Topic": "Try It 11.55",
+        "Problem Statement": "",
+        "Question": "Graph using the intercepts: $$y = - x .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3f0f5cc1e2168cfd966fb3dbbf39d59851d63887"
+        ]
+    },
+    {
+        "Topic": "Try It 11.56",
+        "Problem Statement": "",
+        "Question": "Identify the most convenient method to graph each line: \u24d0 $$3 x + 2 y = 12$$ \u24d1 $$y = 4$$ \u24d2 $$y = \\frac{1}{5} x -4$$ \u24d3 $$x = -7$$",
+        "Image Links": [],
+        "Answer": "\u24d0 intercepts \u24d1 horizontal line \u24d2 plotting points \u24d3 vertical line",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 11.57",
+        "Problem Statement": "",
+        "Question": "Identify the most convenient method to graph each line: \u24d0 $$x = 6$$ \u24d1 $$y = - \\frac{3}{4} x + 1$$ \u24d2 $$y = -8$$ \u24d3 $$4 x -3 y = -1$$",
+        "Image Links": [],
+        "Answer": "\u24d0 vertical line \u24d1 plotting points \u24d2 horizontal line \u24d3 intercepts",
+        "Answer Image Links": []
+    }
+]

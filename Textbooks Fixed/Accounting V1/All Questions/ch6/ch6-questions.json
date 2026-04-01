@@ -1,0 +1,202 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.1What are some benefits to a retailer for offering a discount to a customer?",
+        "Image Links": [],
+        "Answer": "It helps solidify a long-term relationship with the customer, encourages the customer to purchase more, and decreases the time it takes for the company to see a liquid asset (cash). Cash can be used for other purposes immediately, such as reinvesting the business, paying down loans quicker, and distributing dividends to shareholders.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.1What do credit terms of 4/10, n/30 mean in regard to a purchase?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.1What is the difference between a sales return and a sales allowance?",
+        "Image Links": [],
+        "Answer": "A sales return occurs when a customer returns merchandise for a full refund. A sales allowance occurs when a customer keeps the merchandise and is issued a partial refund.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.1If a retailer made a purchase in the amount of $350 with credit terms of 2/15, n/60. What would the retailer pay in cash if they received the discount?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.2What are two advantages and disadvantages of the perpetual inventory system?",
+        "Image Links": [],
+        "Answer": "Advantages could include real-time data and more robust information. Disadvantages could include fewer inventory counts with opportunity for mismanagement of inventory. It is also costly, and time consuming.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.2What are two advantages and disadvantages of the periodic inventory system?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.2Sunrise Flowers sells flowers to a customer on credit for $130 on October 18, with a cost of sale to Sunrise of $50. What entry to recognize this sale is required if Sunrise Flowers uses a periodic inventory system?",
+        "Image Links": [],
+        "Answer": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|}\n\\hline\nOct\u00a018 & Accounts Receivable & 130 &  \\\\ \\hline\n & Sales &  & 130 \\\\ \\hline\n & To recognize sale under periodic inventory system &  &  \\\\ \\hline\nNote: No cost of sale entry is required currently, only at the end of the period under periodic. \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.2Sunrise Flowers sells flowers to a customer on credit for $130 on October 18, with a cost of sale to Sunrise of $50. What entry to recognize this sale is required if Sunrise Flowers uses a perpetual inventory system?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.3Name two situations where cash would be remitted to a retailer from a manufacturer after purchase.",
+        "Image Links": [],
+        "Answer": "Cash would be remitted to a retainer if the retailer returns merchandise to a manufacturer after payment, or if the retailer receives an allowance for damaged merchandise after payment.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.3If a retailer purchased inventory in the amount of $750, terms 2/10, n/60, returned $30 of the inventory for a full refund, and received an allowance for $95, how much would the discount be if the retailer remitted payment within the discount window?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.3A retailer discovers that 50% of the total inventory items delivered from the manufacturer are damaged. The original purchase for all inventory was $1,100. The retailer decides to return 20% of the damaged inventory for a full refund and keep the remaining 80% of damaged inventory. What is the value of the merchandise returned?",
+        "Image Links": [],
+        "Answer": "$110; $1,100 \u00d7 50% = $550, $550 \u00d7 20% = $110",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.4Name two situations where cash would be remitted to a customer from a retailer after purchase.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.4If a customer purchased merchandise in the amount of $340, terms 3/10, n/30, returned $70 of the inventory for a full refund, and received an allowance for $65, how much discount would be applied if the customer remitted payment within the discount window?",
+        "Image Links": [],
+        "Answer": "$6.15; $205 \u00d7 3%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.4A customer discovers 60% of the total merchandise delivered from a retailer is damaged. The original purchase for all merchandise was $3,600. The customer decides to return 35% of the damaged merchandise for a full refund and keep the remaining 65%. What is the value of the merchandise returned?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.5What are the main differences between FOB Destination and FOB Shipping Point?",
+        "Image Links": [],
+        "Answer": "With FOB Destination, the seller is responsible for goods in transit, the seller pays for shipping, and the point of transfer is when the goods reach the buyer\u2019s place of business. With FOB Shipping Point, the buyer is responsible for goods in transit, the buyer pays for shipping, and the point of transfer is when the goods leave the seller\u2019s place of business.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.5A buyer purchases $250 worth of goods on credit from a seller. Shipping charges are $50. The terms of the purchase are 2/10, n/30, FOB Destination. What, if any, journal entry or entries will the buyer record for these transactions?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.5A seller sells $800 worth of goods on credit to a customer, with a cost to the seller of $300. Shipping charges are $100. The terms of the sale are 2/10, n/30, FOB Destination. What, if any, journal entry or entries will the seller record for these transactions?",
+        "Image Links": [],
+        "Answer": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\nAccounts Receivable & 800 &  \\\\ \\hline\nSales &  & 800 \\\\ \\hline\nTo recognize sale on credit, 2/10, n/30, FOB Destination &  &  \\\\ \\hline\nCOGS & 300 &  \\\\ \\hline\nMerchandise Inventory &  & 300 \\\\ \\hline\nTo recognize cost of sale &  &  \\\\ \\hline\nDelivery Expense & 100 &  \\\\ \\hline\nCash &  & 100 \\\\ \\hline\nTo recognize shipping charge, FOB Destination &  &  \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.5Which statement and where on the statement is freight-out recorded? Why is it recorded there?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.6The following is select account information for Sunrise Motors. Sales: $256,400; Sales Returns and Allowances: $34,890; COGS: $120,470; Sales Discounts: $44,760. Given this information, what is the Gross Profit Margin Ratio for Sunrise Motors? (Round to the nearest whole percentage.)",
+        "Image Links": [],
+        "Answer": "32% or $.32; ($176,750 - 120,470) / $176,750",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.6What is the difference between a multi-step and simple income statement?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.6How can an investor or lender use the Gross Profit Margin Ratio to make financial contribution decisions?",
+        "Image Links": [],
+        "Answer": "The gross profit margin ratio shows the company\u2019s margin over costs of sales to cover operating expenses and profit. If margin continue to increase over time, an investor or lender might consider the financial contribution less risky. If the ratio decreases, the stakeholder may perceive an increased risk that the company may not have enough revenue to service debt.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.6The following is select account information for August Sundries. Sales: $850,360; Sales Returns and Allowances: $148,550; COGS: $300,840; Operating Expenses: $45,770; Sales Discounts: $231,820. If August Sundries uses a multi-step income statement format, what is their gross margin?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.7If a retailer purchased inventory in the amount of $680, terms 3/10, n/60, returned $120 of the inventory for a full refund, and received an allowance for $70, how much would the discount be if the retailer remitted payment within the discount window?",
+        "Image Links": [],
+        "Answer": "$14.70; $490 \u00d7 3%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.7A customer discovers 50% of the total merchandise delivered from the retailer is damaged. The original purchase for all merchandise was $5,950. The customer decides to return 40% of the damaged merchandise for a full refund and keep the remaining 60%. What is the value of the merchandise returned?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO6.7What is the difference in reporting requirements for customer-returned merchandise in sellable condition under a perpetual inventory system versus a periodic inventory system?",
+        "Image Links": [],
+        "Answer": "Recognizing the return of merchandise to inventory occurs under the perpetual inventory system but not under the periodic inventory system.",
+        "Answer Image Links": []
+    }
+]

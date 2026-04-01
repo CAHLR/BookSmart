@@ -1,0 +1,20 @@
+[
+    {
+        "Topic": "Check Your Understanding 13.4",
+        "Problem Statement": "",
+        "Question": "Shown below is a rod of length l that is rotated counterclockwise around the axis through O by the torque due to $$m \\mathbf{\\vec{g}} .$$ Assuming that the rod is in a uniform magnetic field $$\\mathbf{\\vec{B}}$$ , what is the emf induced between the ends of the rod when its angular velocity is $$\\upomega$$ ? Which end of the rod is at a higher potential?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1bfeca85918ae466c7f961a9f518fb4dcf24e3c7"
+        ],
+        "Answer": "$$\\varepsilon = B l^{2} \\upomega \\text{/} 2 ,$$ with O at a higher potential than S",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 13.5",
+        "Problem Statement": "",
+        "Question": "A rod of length 10 cm moves at a speed of 10 m/s perpendicularly through a 1.5-T magnetic field. What is the potential difference between the ends of the rod?",
+        "Image Links": [],
+        "Answer": "1.5 V",
+        "Answer Image Links": []
+    }
+]

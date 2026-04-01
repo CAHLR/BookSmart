@@ -1,0 +1,98 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Show that if the uncertainty in the position of a particle is on the order of its de Broglie\u2019s wavelength, then the uncertainty in its momentum is on the order of the value of its momentum.",
+        "Image Links": [],
+        "Answer": "proof",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The mass of a $$\\rho$$ -meson is measured to be $$770 \\text{MeV} \\text{/} c^{2}$$ with an uncertainty of $$100 \\text{MeV} \\text{/} c^{2}$$ . Estimate the lifetime of this meson.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A particle of mass m is confined to a box of width L . If the particle is in the first excited state, what are the probabilities of finding the particle in a region of width 0.020 L around the given point x : (a) $$x = 0.25 L$$ ; (b) $$x = 0.40 L$$ ; (c) $$x = 0.75 L$$ ; and (d) $$x = 0.90 L$$ .",
+        "Image Links": [],
+        "Answer": "a. 4.0 %; b. 1.4 %; c. 4.0%; d. 1.4%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A particle in a box [0; L ] is in the third excited state. What are its most probable positions?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A 0.20-kg billiard ball bounces back and forth without losing its energy between the cushions of a 1.5 m long table. (a) If the ball is in its ground state, how many years does it need to get from one cushion to the other? You may compare this time interval to the age of the universe. (b) How much energy is required to make the ball go from its ground state to its first excited state? Compare it with the kinetic energy of the ball moving at 2.0 m/s.",
+        "Image Links": [],
+        "Answer": "a. $$t = m L^{2} \\text{/} h = 2.15 \\times 10^{26} \\text{years}$$ ; b. $$E_{1} = 1.46 \\times 10^{-66} \\text{J,} K = 0.4 \\text{J}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Find the expectation value of the position squared when the particle in the box is in its third excited state and the length of the box is L .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Consider an infinite square well with wall boundaries $$x = 0$$ and $$x = L .$$ Show that the function $$\\psi ( x ) = A \\text{sin} k x$$ is the solution to the stationary Schr\u04e7dinger equation for the particle in a box only if $$k = \\sqrt{2 m E} \\text{/} \\hslash .$$ Explain why this is an acceptable wave function only if k is an integer multiple of $$\\pi \\text{/} L .$$",
+        "Image Links": [],
+        "Answer": "proof",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Consider an infinite square well with wall boundaries $$x = 0$$ and $$x = L .$$ Explain why the function $$\\psi ( x ) = A \\text{cos} k x$$ is not a solution to the stationary Schr\u04e7dinger equation for the particle in a box.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Atoms in a crystal lattice vibrate in simple harmonic motion. Assuming a lattice atom has a mass of $$9.4 \\times 10^{-26} \\text{kg}$$ , what is the force constant of the lattice if a lattice atom makes a transition from the ground state to first excited state when it absorbs a $$\\text{525-} \\Micro \\text{m}$$ photon?",
+        "Image Links": [],
+        "Answer": "1.2 N/m",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A diatomic molecule behaves like a quantum harmonic oscillator with the force constant 12.0 N/m and mass $$5.60 \\times 10^{-26} \\text{kg}$$ . (a) What is the wavelength of the emitted photon when the molecule makes the transition from the third excited state to the second excited state? (b) Find the ground state energy of vibrations for this diatomic molecule.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "An electron with kinetic energy 2.0 MeV encounters a potential energy barrier of height 16.0 MeV and width 2.00 nm. What is the probability that the electron emerges on the other side of the barrier?",
+        "Image Links": [],
+        "Answer": "0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A beam of mono-energetic protons with energy 2.0 MeV falls on a potential energy barrier of height 20.0 MeV and of width 1.5 fm. What percentage of the beam is transmitted through the barrier?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

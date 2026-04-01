@@ -1,0 +1,474 @@
+[
+    {
+        "Topic": "1.2 Thermometers and Temperature Scales",
+        "Problem Statement": "",
+        "Question": "While traveling outside the United States, you feel sick. A companion gets you a thermometer, which says your temperature is 39. What scale is that on? What is your Fahrenheit temperature? Should you seek medical help?",
+        "Image Links": [],
+        "Answer": "That must be Celsius. Your Fahrenheit temperature is $$102 \\text{\u00b0} \\text{F} \\text{.}$$ Yes, it is time to get treatment.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Thermometers and Temperature Scales",
+        "Problem Statement": "",
+        "Question": "What are the following temperatures on the Kelvin scale? (a) $$68.0 \\text{\u00b0} \\text{F,}$$ an indoor temperature sometimes recommended for energy conservation in winter (b) $$134 \\text{\u00b0} \\text{F,}$$ one of the highest atmospheric temperatures ever recorded on Earth (Death Valley, California, 1913) (c) $$9890 \\text{\u00b0} \\text{F,}$$ the temperature of the surface of the Sun",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Thermometers and Temperature Scales",
+        "Problem Statement": "",
+        "Question": "(a) Suppose a cold front blows into your locale and drops the temperature by 40.0 Fahrenheit degrees. How many degrees Celsius does the temperature decrease when it decreases by $$40.0 \\text{\u00b0} \\text{F}$$ ? (b) Show that any change in temperature in Fahrenheit degrees is nine-fifths the change in Celsius degrees",
+        "Image Links": [],
+        "Answer": "a. $$\\text{Delta} T_{\\text{C}} = 22.2 \\text{\u00b0} \\text{C}$$ ; b. We know that $$\\text{Delta} T_{\\text{F}} = T_{\\text{F2}} - T_{\\text{F1}}$$ . We also know that $$T_{\\text{F2}} = \\frac{9}{5} T_{\\text{C2}} + 32$$ and $$T_{\\text{F1}} = \\frac{9}{5} T_{\\text{C1}} + 32 .$$ So, substituting, we have $$\\text{Delta} T_{\\text{F}} = ( \\frac{9}{5} T_{\\text{C2}} + 32 ) - ( \\frac{9}{5} T_{\\text{C1}} + 32 )$$ . Partially solving and rearranging the equation, we have $$\\text{Delta} T_{\\text{F}} = \\frac{9}{5} ( T_{\\text{C2}} - T_{\\text{C1}} )$$ . Therefore, $$\\text{Delta} T_{\\text{F}} = \\frac{9}{5} \\text{Delta} T_{\\text{C}}$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Thermometers and Temperature Scales",
+        "Problem Statement": "",
+        "Question": "An Associated Press article on climate change said, \u201cSome of the ice shelf\u2019s disappearance was probably during times when the planet was 36 degrees Fahrenheit (2 degrees Celsius) to 37 degrees Fahrenheit (3 degrees Celsius) warmer than it is today.\u201d What mistake did the reporter make?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Thermometers and Temperature Scales",
+        "Problem Statement": "",
+        "Question": "(a) At what temperature do the Fahrenheit and Celsius scales have the same numerical value? (b) At what temperature do the Fahrenheit and Kelvin scales have the same numerical value?",
+        "Image Links": [],
+        "Answer": "a. $$-40 \\text{\u00b0}$$ ; b. 575 K",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.2 Thermometers and Temperature Scales",
+        "Problem Statement": "",
+        "Question": "A person taking a reading of the temperature in a freezer in Celsius makes two mistakes: first omitting the negative sign and then thinking the temperature is Fahrenheit. That is, the person reads $$- x \\text{\u00b0} \\text{C}$$ as $$x \\text{\u00b0} \\text{F}$$ . Oddly enough, the result is the correct Fahrenheit temperature. What is the original Celsius reading? Round your answer to three significant figures.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.3 Thermal Expansion",
+        "Problem Statement": "",
+        "Question": "The height of the Washington Monument is measured to be 170.00 m on a day when the temperature is $$35.0 \\text{\u00b0} \\text{C.}$$ What will its height be on a day when the temperature falls to $$-10.0 \\text{\u00b0} \\text{C}$$ ? Although the monument is made of limestone, assume that its coefficient of thermal expansion is the same as that of marble. Give your answer to five significant figures.",
+        "Image Links": [],
+        "Answer": "Using Table 1.2 to find the coefficient of thermal expansion of marble: $$L = L_{0} + \\text{Delta} L = L_{0} ( 1 + \\alpha \\text{Delta} T ) = 170 \\text{m} [ 1 + ( 2.5 \\times 10^{-6} \\text{/} \\text{\u00b0} \\text{C} ) ( -45.0 \\text{\u00b0} \\text{C} ) ] = 169.98 \\text{m}$$ . (Answer rounded to five significant figures to show the slight difference in height.)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.3 Thermal Expansion",
+        "Problem Statement": "",
+        "Question": "How much taller does the Eiffel Tower become at the end of a day when the temperature has increased by $$15 \\text{\u00b0} \\text{C?}$$ Its original height is 321 m and you can assume it is made of steel.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.3 Thermal Expansion",
+        "Problem Statement": "",
+        "Question": "What is the change in length of a 3.00-cm-long column of mercury if its temperature changes from $$37.0 \\text{\u00b0} \\text{C}$$ to $$40.0 \\text{\u00b0} \\text{C}$$ , assuming the mercury is constrained to a cylinder but unconstrained in length? Your answer will show why thermometers contain bulbs at the bottom instead of simple columns of liquid.",
+        "Image Links": [],
+        "Answer": "We use $$\\beta$$ instead of $$\\alpha$$ since this is a volume expansion with constant surface area. Therefore: $$\\text{Delta} L = \\alpha L \\text{Delta} T = ( 6.0 \\times 10^{-5} \\text{/} \\text{\u00b0} \\text{C} ) ( 0.0300 \\text{m} ) ( 3.00 \\text{\u00b0} \\text{C} ) = 5.4 \\times 10^{-6} \\text{m}$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.3 Thermal Expansion",
+        "Problem Statement": "",
+        "Question": "How large an expansion gap should be left between steel railroad rails if they may reach a maximum temperature $$35.0 \\text{\u00b0} \\text{C}$$ greater than when they were laid? Their original length is 10.0 m.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.3 Thermal Expansion",
+        "Problem Statement": "",
+        "Question": "You are looking to buy a small piece of land in Hong Kong. The price is \u201conly\u201d $60,000 per square meter. The land title says the dimensions are $$20 \\text{m} \\times 30 \\text{m}$$ . By how much would the total price change if you measured the parcel with a steel tape measure on a day when the temperature was $$20 \\text{\u00b0} \\text{C}$$ above the temperature that the tape measure was designed for? The dimensions of the land do not change.",
+        "Image Links": [],
+        "Answer": "On the warmer day, our tape measure will expand linearly. Therefore, each measured dimension will be smaller than the actual dimension of the land. Calling these measured dimensions $$l \\prime$$ and $$w \\prime$$ , we will find a new area, A . Let\u2019s calculate these measured dimensions: $$l \\prime = l_{0} - \\text{Delta} l = ( 20 \\text{m} ) - ( 20 \\text{\u00b0} \\text{C} ) ( 20 \\text{m} ) ( \\frac{1.2 \\times 10^{-5}}{\\text{\u00b0} \\text{C}} ) = 19.9952 \\text{m}$$ ; $$A \\prime = l \\times w \\prime = ( 29.9928 \\text{m} ) ( 19.9952 \\text{m} ) = 599.71 \\text{m}^{2}$$ ; Cost change $$= ( A - A \\prime ) ( \\frac{$ 60,000}{\\text{m}^{2}} ) = ( ( 600 - 599.71 ) \\text{m}^{2} ) ( \\frac{$ 60,000}{\\text{m}^{2}} ) = $ 17,000$$ . Because the area gets smaller, the price of the land decreases by about $17,000.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.3 Thermal Expansion",
+        "Problem Statement": "",
+        "Question": "Global warming will produce rising sea levels partly due to melting ice caps and partly due to the expansion of water as average ocean temperatures rise. To get some idea of the size of this effect, calculate the change in length of a column of water 1.00 km high for a temperature increase of $$1.00 \\text{\u00b0} \\text{C}$$ . Assume the column is not free to expand sideways. As a model of the ocean, that is a reasonable approximation, as only parts of the ocean very close to the surface can expand sideways onto land, and only to a limited degree. As another approximation, neglect the fact that ocean warming is not uniform with depth.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.3 Thermal Expansion",
+        "Problem Statement": "",
+        "Question": "(a) Suppose a meter stick made of steel and one made of aluminum are the same length at $$0^{} \\text{\u00b0} \\text{C}$$ . What is their difference in length at $$22.0 \\text{\u00b0} \\text{C}$$ ? (b) Repeat the calculation for two 30.0-m-long surveyor\u2019s tapes.",
+        "Image Links": [],
+        "Answer": "a. Use Table 1.2 to find the coefficients of thermal expansion of steel and aluminum. Then $$\\text{Delta} L_{\\text{Al}} - \\text{Delta} L_{\\text{steel}} = ( \\alpha_{\\text{Al}} - \\alpha_{\\text{steel}} ) L_{0} \\text{Delta} T = ( \\frac{2.5 \\times 10^{-5}}{\\text{\u00b0} \\text{C}} - \\frac{1.2 \\times 10^{-5}}{\\text{\u00b0} \\text{C}} ) ( 1.00 \\text{m} ) ( 22 \\text{\u00b0} \\text{C} ) = 2.9 \\times 10^{-4} \\text{m}$$ . b. By the same method with $$L_{0} = 30.0 \\text{m}$$ , we have $$\\text{Delta} L = 8.6 \\times 10^{-3} \\text{m}$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.3 Thermal Expansion",
+        "Problem Statement": "",
+        "Question": "(a) If a 500-mL glass beaker is filled to the brim with ethyl alcohol at a temperature of $$5.00 \\text{\u00b0} \\text{C}$$ , how much will overflow when the alcohol\u2019s temperature reaches the room temperature of $$22.0 \\text{\u00b0} \\text{C}$$ ? (b) How much less water would overflow under the same conditions?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.3 Thermal Expansion",
+        "Problem Statement": "",
+        "Question": "Most cars have a coolant reservoir to catch radiator fluid that may overflow when the engine is hot. A radiator is made of copper and is filled to its 16.0-L capacity when at $$10.0 \\text{\u00b0} \\text{C}$$ . What volume of radiator fluid will overflow when the radiator and fluid reach a temperature of $$95.0 \\text{\u00b0} \\text{C,}$$ given that the fluid\u2019s volume coefficient of expansion is $$\\beta = 400 \\times 10^{-6} \\text{/} \\text{\u00b0} \\text{C}$$ ? (Your answer will be a conservative estimate, as most car radiators have operating temperatures greater than $$95.0 \\text{\u00b0} \\text{C}$$ ).",
+        "Image Links": [],
+        "Answer": "$$\\text{Delta} V = 0.475 \\text{L}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.3 Thermal Expansion",
+        "Problem Statement": "",
+        "Question": "A physicist makes a cup of instant coffee and notices that, as the coffee cools, its level drops 3.00 mm in the glass cup. Show that this decrease cannot be due to thermal contraction by calculating the decrease in level if the $$350 \\text{cm}^{3}$$ of coffee is in a 7.00-cm-diameter cup and decreases in temperature from $$95.0 \\text{\u00b0} \\text{C}$$ to $$45.0 \\text{\u00b0} \\text{C}$$ . (Most of the drop in level is actually due to escaping bubbles of air.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.3 Thermal Expansion",
+        "Problem Statement": "",
+        "Question": "The density of water at $$0 \\text{\u00b0} \\text{C}$$ is very nearly $$1000 \\text{kg/m}^{3}$$ (it is actually $$999.84 \\text{kg/m}^{3}$$ ), whereas the density of ice at $$0 \\text{\u00b0} \\text{C}$$ is $$917 \\text{kg/m}^{3} .$$ Calculate the pressure necessary to keep ice from expanding when it freezes, neglecting the effect such a large pressure would have on the freezing temperature. (This problem gives you only an indication of how large the forces associated with freezing water might be.)",
+        "Image Links": [],
+        "Answer": "If we start with the freezing of water, then it would expand to $$( 1 \\text{m}^{3} ) ( \\frac{1000 \\text{kg/m}^{3}}{917 \\text{kg/m}^{3}} ) = 1.09 \\text{m}^{3} = 1.98 \\times 10^{8} \\text{N/m}^{2}$$ of ice.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.3 Thermal Expansion",
+        "Problem Statement": "",
+        "Question": "Show that $$\\beta = 3 \\alpha ,$$ by calculating the infinitesimal change in volume dV of a cube with sides of length L when the temperature changes by dT .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.4 Heat Transfer, Specific Heat, and Calorimetry",
+        "Problem Statement": "",
+        "Question": "On a hot day, the temperature of an 80,000-L swimming pool increases by $$1.50 \\text{\u00b0} \\text{C}$$ . What is the net heat transfer during this heating? Ignore any complications, such as loss of water by evaporation.",
+        "Image Links": [],
+        "Answer": "$$m = 5.02 \\times 10^{8} \\text{J}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.4 Heat Transfer, Specific Heat, and Calorimetry",
+        "Problem Statement": "",
+        "Question": "To sterilize a 50.0-g glass baby bottle, we must raise its temperature from $$22.0 \\text{\u00b0} \\text{C}$$ to $$95.0 \\text{\u00b0} \\text{C}$$ . How much heat transfer is required?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.4 Heat Transfer, Specific Heat, and Calorimetry",
+        "Problem Statement": "",
+        "Question": "The same heat transfer into identical masses of different substances produces different temperature changes. Calculate the final temperature when 1.00 kcal of heat transfers into 1.00 kg of the following, originally at $$20.0 \\text{\u00b0} \\text{C}$$ : (a) water; (b) concrete; (c) steel; and (d) mercury.",
+        "Image Links": [],
+        "Answer": "$$Q = m c \\text{Delta} T \\Rightarrow \\text{Delta} T = \\frac{Q}{m c}$$ ; a. $$21.0 \\text{\u00b0} \\text{C}$$ ; b. $$25.0 \\text{\u00b0} \\text{C}$$ ; c. $$29.3 \\text{\u00b0} \\text{C}$$ ; d. $$50.0 \\text{\u00b0} \\text{C}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.4 Heat Transfer, Specific Heat, and Calorimetry",
+        "Problem Statement": "",
+        "Question": "Rubbing your hands together warms them by converting work into thermal energy. If a woman rubs her hands back and forth for a total of 20 rubs, at a distance of 7.50 cm per rub, and with an average frictional force of 40.0 N, what is the temperature increase? The mass of tissues warmed is only 0.100 kg, mostly in the palms and fingers.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.4 Heat Transfer, Specific Heat, and Calorimetry",
+        "Problem Statement": "",
+        "Question": "A $$0.250 \\text{-kg}$$ block of a pure material is heated from $$20.0 \\text{\u00b0} \\text{C}$$ to $$65.0 \\text{\u00b0} \\text{C}$$ by the addition of 4.35 kJ of energy. Calculate its specific heat and identify the substance of which it is most likely composed.",
+        "Image Links": [],
+        "Answer": "$$Q = m c \\text{Delta} T \\Rightarrow c = \\frac{Q}{m \\text{Delta} T} = \\frac{1.04 \\text{kcal}}{( 0.250 \\text{kg} ) ( 45.0 \\text{\u00b0} \\text{C} )} = 0.0924 \\text{kcal/kg} \\cdotp \\text{\u00b0} \\text{C}$$ . It is copper.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.4 Heat Transfer, Specific Heat, and Calorimetry",
+        "Problem Statement": "",
+        "Question": "Suppose identical amounts of heat transfer into different masses of copper and water, causing identical changes in temperature. What is the ratio of the mass of copper to water?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.4 Heat Transfer, Specific Heat, and Calorimetry",
+        "Problem Statement": "",
+        "Question": "(a) The number of kilocalories in food is determined by calorimetry techniques in which the food is burned and the amount of heat transfer is measured. How many kilocalories per gram are there in a 5.00-g peanut if the energy from burning it is transferred to 0.500 kg of water held in a 0.100-kg aluminum cup, causing a $$54.9 \\text{-} \\text{\u00b0} \\text{C}$$ temperature increase? Assume the process takes place in an ideal calorimeter, in other words a perfectly insulated container. (b) Compare your answer to the following labeling information found on a package of dry roasted peanuts: a serving of 33 g contains 200 calories. Comment on whether the values are consistent.",
+        "Image Links": [],
+        "Answer": "a. $$Q = m_{\\text{w}} c_{\\text{w}} \\text{Delta} T + m_{\\text{A1}} c_{\\text{A1}} \\text{Delta} T = ( m_{\\text{w}} c_{\\text{w}} + m_{\\text{A1}} c_{\\text{A1}} ) \\text{Delta} T$$ ; $$Q = \\left [\\begin{matrix}( 0.500 \\text{kg} ) ( 1.00 \\text{kcal/kg} \\cdotp \\text{\u00b0} \\text{C} ) + \\\\ ( 0.100 \\text{kg} ) ( 0.215 \\text{kcal/kg} \\cdotp \\text{\u00b0} \\text{C} )\\end{matrix}\\right ] ( 54.9 \\text{\u00b0} \\text{C} ) = 28.63 \\text{kcal}$$ ; $$\\frac{Q}{m_{p}} = \\frac{28.63 \\text{kcal}}{5.00 \\text{g}} = 5.73 \\text{kcal/g}$$ ; b. $$\\frac{Q}{m_{p}} = \\frac{200 \\text{kcal}}{33 \\text{g}} = 6 \\text{kcal/g} ,$$ which is consistent with our results to part (a), to one significant figure.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.4 Heat Transfer, Specific Heat, and Calorimetry",
+        "Problem Statement": "",
+        "Question": "Following vigorous exercise, the body temperature of an 80.0 kg person is $$40.0 \\text{\u00b0} \\text{C}$$ . At what rate in watts must the person transfer thermal energy to reduce the body temperature to $$37.0 \\text{\u00b0} \\text{C}$$ in 30.0 min, assuming the body continues to produce energy at the rate of 150 W? $$( 1 \\text{watt} = 1 \\text{joule/second} \\text{or} 1 \\text{W} = 1 \\text{J/s} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.4 Heat Transfer, Specific Heat, and Calorimetry",
+        "Problem Statement": "",
+        "Question": "In a study of healthy young men 1 , doing 20 push-ups in 1 minute burned an amount of energy per kg that for a 70.0-kg man corresponds to 8.06 calories (kcal). How much would a 70.0-kg man\u2019s temperature rise if he did not lose any heat during that time?",
+        "Image Links": [],
+        "Answer": "$$0.139 \\text{\u00b0} \\text{C}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.4 Heat Transfer, Specific Heat, and Calorimetry",
+        "Problem Statement": "",
+        "Question": "A 1.28-kg sample of water at $$10.0 \\text{\u00b0} \\text{C}$$ is in a calorimeter. You drop a piece of steel with a mass of 0.385 kg at $$215 \\text{\u00b0} \\text{C}$$ into it. After the sizzling subsides, what is the final equilibrium temperature? (Make the reasonable assumptions that any steam produced condenses into liquid water during the process of equilibration and that the evaporation and condensation don\u2019t affect the outcome, as we\u2019ll see in the next section.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.4 Heat Transfer, Specific Heat, and Calorimetry",
+        "Problem Statement": "",
+        "Question": "Repeat the preceding problem, assuming the water is in a glass beaker with a mass of 0.200 kg, which in turn is in a calorimeter. The beaker is initially at the same temperature as the water. Before doing the problem, should the answer be higher or lower than the preceding answer? Comparing the mass and specific heat of the beaker to those of the water, do you think the beaker will make much difference?",
+        "Image Links": [],
+        "Answer": "It should be lower. The beaker will not make much difference: $$16.3 \\text{\u00b0} \\text{C}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.5 Phase Changes",
+        "Problem Statement": "",
+        "Question": "How much heat transfer (in kilocalories) is required to thaw a 0.450-kg package of frozen vegetables originally at $$0 \\text{\u00b0} \\text{C}$$ if their heat of fusion is the same as that of water?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.5 Phase Changes",
+        "Problem Statement": "",
+        "Question": "A bag containing $$0 \\text{\u00b0} \\text{C}$$ ice is much more effective in absorbing energy than one containing the same amount of $$0 \\text{\u00b0} \\text{C}$$ water. (a) How much heat transfer is necessary to raise the temperature of 0.800 kg of water from $$0 \\text{\u00b0} \\text{C}$$ to $$30.0 \\text{\u00b0} \\text{C}$$ ? (b) How much heat transfer is required to first melt 0.800 kg of $$0 \\text{\u00b0} \\text{C}$$ ice and then raise its temperature to $$30.0 \\text{\u00b0} \\text{C}$$ ? (c) Explain how your answer supports the contention that the ice is more effective.",
+        "Image Links": [],
+        "Answer": "a. $$1.00 \\times 10^{5} \\text{J}$$ ; b. $$3.68 \\times 10^{5} \\text{J}$$ ; c. The ice is much more effective in absorbing heat because it first must be melted, which requires a lot of energy, and then it gains the same amount of heat as the bag that started with water. The first $$2.67 \\times 10^{5} \\text{J}$$ of heat is used to melt the ice, then it absorbs the $$1.00 \\times 10^{5} \\text{J}$$ of heat as water.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.5 Phase Changes",
+        "Problem Statement": "",
+        "Question": "(a) How much heat transfer is required to raise the temperature of a 0.750-kg aluminum pot containing 2.50 kg of water from $$30.0 \\text{\u00b0} \\text{C}$$ to the boiling point and then boil away 0.750 kg of water? (b) How long does this take if the rate of heat transfer is 500 W?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.5 Phase Changes",
+        "Problem Statement": "",
+        "Question": "Condensation on a glass of ice water causes the ice to melt faster than it would otherwise. If 8.00 g of vapor condense on a glass containing both water and 200 g of ice, how many grams of the ice will melt as a result? Assume no other heat transfer occurs. Use $$L_{v}$$ for water at $$37 \\text{\u00b0} \\text{C}$$ as a better approximation than $$L_{v}$$ for water at $$100 \\text{\u00b0} \\text{C}$$ .)",
+        "Image Links": [],
+        "Answer": "58.1 g",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.5 Phase Changes",
+        "Problem Statement": "",
+        "Question": "On a trip, you notice that a 3.50-kg bag of ice lasts an average of one day in your cooler. What is the average power in watts entering the ice if it starts at $$0 \\text{\u00b0} \\text{C}$$ and completely melts to $$0 \\text{\u00b0} \\text{C}$$ water in exactly one day?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.5 Phase Changes",
+        "Problem Statement": "",
+        "Question": "On a certain dry sunny day, a swimming pool\u2019s temperature would rise by $$1.50 \\text{\u00b0} \\text{C}$$ if not for evaporation. What fraction of the water must evaporate to carry away precisely enough energy to keep the temperature constant?",
+        "Image Links": [],
+        "Answer": "Let M be the mass of pool water and m be the mass of pool water that evaporates. $$M c \\text{Delta} T = m L_{\\text{V} ( 37 \\text{\u00b0} \\text{C} )} \\Rightarrow \\frac{m}{M} = \\frac{c \\text{Delta} T}{L_{\\text{V} ( 37 \\text{\u00b0} \\text{C} )}} = \\frac{( 1.00 \\text{kcal/kg} \\cdotp \\text{\u00b0} \\text{C} ) ( 1.50 \\text{\u00b0} \\text{C} )}{580 \\text{kcal/kg}} = 2.59 \\times 10^{-3}$$ ; (Note that $$L_{\\text{V}}$$ for water at $$37 \\text{\u00b0} \\text{C}$$ is used here as a better approximation than $$L_{\\text{V}}$$ for $$100 \\text{\u00b0} \\text{C}$$ water.)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.5 Phase Changes",
+        "Problem Statement": "",
+        "Question": "(a) How much heat transfer is necessary to raise the temperature of a 0.200-kg piece of ice from $$-20.0 \\text{\u00b0} \\text{C}$$ to $$130.0 \\text{\u00b0} \\text{C}$$ , including the energy needed for phase changes? (b) How much time is required for each stage, assuming a constant 20.0 kJ/s rate of heat transfer? (c) Make a graph of temperature versus time for this process.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.5 Phase Changes",
+        "Problem Statement": "",
+        "Question": "In 1986, an enormous iceberg broke away from the Ross Ice Shelf in Antarctica. It was an approximately rectangular prism 160 km long, 40.0 km wide, and 250 m thick. (a) What is the mass of this iceberg, given that the density of ice is $$917 \\text{kg/m}^{3}$$ ? (b) How much heat transfer (in joules) is needed to melt it? (c) How many years would it take sunlight alone to melt ice this thick, if the ice absorbs an average of $$100 \\text{W/m}^{2}$$ , 12.00 h per day?",
+        "Image Links": [],
+        "Answer": "a. $$1.47 \\times 10^{15} \\text{kg}$$ ; b. $$4.90 \\times 10^{20} \\text{J}$$ ; c. 48.5 y",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.5 Phase Changes",
+        "Problem Statement": "",
+        "Question": "How many grams of coffee must evaporate from 350 g of coffee in a 100-g glass cup to cool the coffee and the cup from $$95.0 \\text{\u00b0} \\text{C}$$ to $$45.0 \\text{\u00b0} \\text{C}$$ ? Assume the coffee has the same thermal properties as water and that the average heat of vaporization is 2340 kJ/kg (560 kcal/g). Neglect heat losses through processes other than evaporation, as well as the change in mass of the coffee as it cools. Do the latter two assumptions cause your answer to be higher or lower than the true answer?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.5 Phase Changes",
+        "Problem Statement": "",
+        "Question": "(a) It is difficult to extinguish a fire on a crude oil tanker, because each liter of crude oil releases $$2.80 \\times 10^{7} \\text{J}$$ of energy when burned. To illustrate this difficulty, calculate the number of liters of water that must be expended to absorb the energy released by burning 1.00 L of crude oil, if the water\u2019s temperature rises from $$20.0 \\text{\u00b0} \\text{C}$$ to $$100 \\text{\u00b0} \\text{C}$$ , it boils, and the resulting steam\u2019s temperature rises to $$300 \\text{\u00b0} \\text{C}$$ at constant pressure. (b) Discuss additional complications caused by the fact that crude oil is less dense than water.",
+        "Image Links": [],
+        "Answer": "a. 9.35 L; b. Crude oil is less dense than water, so it floats on top of the water, thereby exposing it to the oxygen in the air, which it uses to burn. Also, if the water is under the oil, it is less able to absorb the heat generated by the oil.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.5 Phase Changes",
+        "Problem Statement": "",
+        "Question": "The energy released from condensation in thunderstorms can be very large. Calculate the energy released into the atmosphere for a small storm of radius 1 km, assuming that 1.0 cm of rain is precipitated uniformly over this area.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.5 Phase Changes",
+        "Problem Statement": "",
+        "Question": "To help prevent frost damage, 4.00 kg of water at $$0 \\text{\u00b0} \\text{C}$$ is sprayed onto a fruit tree. (a) How much heat transfer occurs as the water freezes? (b) How much would the temperature of the 200-kg tree decrease if this amount of heat transferred from the tree? Take the specific heat to be $$3.35 \\text{kJ/kg} \\cdotp \\text{\u00b0} \\text{C}$$ , and assume that no phase change occurs in the tree.",
+        "Image Links": [],
+        "Answer": "a. 319 kcal; b. $$2.00 \\text{\u00b0} \\text{C}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.5 Phase Changes",
+        "Problem Statement": "",
+        "Question": "A 0.250-kg aluminum bowl holding $$0.800 \\text{kg}$$ of soup at $$25.0 \\text{\u00b0} \\text{C}$$ is placed in a freezer. What is the final temperature if 388 kJ of energy is transferred from the bowl and soup, assuming the soup\u2019s thermal properties are the same as that of water?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.5 Phase Changes",
+        "Problem Statement": "",
+        "Question": "A 0.0500-kg ice cube at $$-30.0 \\text{\u00b0} \\text{C}$$ is placed in 0.400 kg of $$35.0 \\text{-} \\text{\u00b0} \\text{C}$$ water in a very well-insulated container. What is the final temperature?",
+        "Image Links": [],
+        "Answer": "First bring the ice up to $$0 \\text{\u00b0} \\text{C}$$ and melt it with heat $$Q_{1} :$$ 4.74 kcal. This lowers the temperature of water by $$\\text{Delta} T_{2} :$$ $$23.15 \\text{\u00b0} \\text{C}$$ . Now, the heat lost by the hot water equals that gained by the cold water ( $$T_{\\text{f}}$$ is the final temperature): $$20.6 \\text{\u00b0} \\text{C}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.5 Phase Changes",
+        "Problem Statement": "",
+        "Question": "If you pour 0.0100 kg of $$20.0 \\text{\u00b0} \\text{C}$$ water onto a 1.20-kg block of ice (which is initially at $$-15.0 \\text{\u00b0} \\text{C}$$ ), what is the final temperature? You may assume that the water cools so rapidly that effects of the surroundings are negligible.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.5 Phase Changes",
+        "Problem Statement": "",
+        "Question": "Indigenous people sometimes cook in watertight baskets by placing hot rocks into water to bring it to a boil. What mass of $$500 \\text{-} \\text{\u00b0} \\text{C}$$ granite must be placed in 4.00 kg of $$15.0 \\text{-} \\text{\u00b0} \\text{C}$$ water to bring its temperature to $$100 \\text{\u00b0} \\text{C}$$ , if 0.0250 kg of water escapes as vapor from the initial sizzle? You may neglect the effects of the surroundings.",
+        "Image Links": [],
+        "Answer": "Let the subscripts r, e, v, and w represent rock, equilibrium, vapor, and water, respectively. $$m_{\\text{r}} c_{\\text{r}} ( T_{1} - T_{\\text{e}} ) = m_{\\text{V}} L_{\\text{V}} + m_{\\text{W}} c_{\\text{W}} ( T_{\\text{e}} - T_{2} )$$ ; $$\\left .\\begin{matrix}{} \\\\  \\\\ m_{\\text{r}} & = \\frac{m_{\\text{V}} L_{\\text{V}} + m_{\\text{W}} c_{\\text{W}} ( T_{\\text{e}} - T_{2} )}{c_{\\text{r}} ( T_{1} - T_{\\text{e}} )} \\\\  & = \\frac{( 0.0250 \\text{kg} ) ( 2256 \\times 10^{3} \\text{J/kg} ) + ( 3.975 \\text{kg} ) ( 4186 \\times 10^{3} \\text{J/kg} \\cdotp \\text{\u00b0} \\text{C} ) ( 100 \\text{\u00b0} \\text{C} - 15 \\text{\u00b0} \\text{C} )}{( 840 \\text{J/kg} \\cdotp \\text{\u00b0} \\text{C} ) ( 500 \\text{\u00b0} \\text{C} - 100 \\text{\u00b0} \\text{C} )} \\\\  & = 4.38 \\text{kg}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.5 Phase Changes",
+        "Problem Statement": "",
+        "Question": "What would the final temperature of the pan and water be in Example 1.7 if 0.260 kg of water were placed in the pan and 0.0100 kg of the water evaporated immediately, leaving the remainder to come to a common temperature with the pan?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.6 Mechanisms of Heat Transfer",
+        "Problem Statement": "",
+        "Question": "(a) Calculate the rate of heat conduction through house walls that are 13.0 cm thick and have an average thermal conductivity twice that of glass wool. Assume there are no windows or doors. The walls\u2019 surface area is $$120 \\text{m}^{2}$$ and their inside surface is at $$18.0 \\text{\u00b0} \\text{C}$$ , while their outside surface is at $$5.00 \\text{\u00b0} \\text{C}$$ . (b) How many 1-kW room heaters would be needed to balance the heat transfer due to conduction?",
+        "Image Links": [],
+        "Answer": "a. $$1.01 \\times 10^{3} \\text{W}$$ ; b. One 1-kilowatt room heater is needed.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.6 Mechanisms of Heat Transfer",
+        "Problem Statement": "",
+        "Question": "The rate of heat conduction out of a window on a winter day is rapid enough to chill the air next to it. To see just how rapidly the windows transfer heat by conduction, calculate the rate of conduction in watts through a $$3.00 \\text{-m}^{2}$$ window that is 0.634 cm thick (1/4 in.) if the temperatures of the inner and outer surfaces are $$5.00 \\text{\u00b0} \\text{C}$$ and $$-10.0 \\text{\u00b0} \\text{C}$$ , respectively. (This rapid rate will not be maintained-the inner surface will cool, even to the point of frost formation.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.6 Mechanisms of Heat Transfer",
+        "Problem Statement": "",
+        "Question": "Calculate the rate of heat conduction out of the human body, assuming that the core internal temperature is $$37.0 \\text{\u00b0} \\text{C}$$ , the skin temperature is $$34.0 \\text{\u00b0} \\text{C}$$ , the thickness of the fatty tissues between the core and the skin averages 1.00 cm, and the surface area is $$1.40 \\text{m}^{2}$$ .",
+        "Image Links": [],
+        "Answer": "84.0 W",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.6 Mechanisms of Heat Transfer",
+        "Problem Statement": "",
+        "Question": "Suppose you stand with one foot on ceramic flooring and one foot on a wool carpet, making contact over an area of $$80.0 \\text{cm}^{2}$$ with each foot. Both the ceramic and the carpet are 2.00 cm thick and are $$10.0 \\text{\u00b0} \\text{C}$$ on their bottom sides. At what rate must heat transfer occur from each foot to keep the top of the ceramic and carpet at $$33.0 \\text{\u00b0} \\text{C}$$ ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.6 Mechanisms of Heat Transfer",
+        "Problem Statement": "",
+        "Question": "A man consumes 3000 kcal of food in one day, converting most of it to thermal energy to maintain body temperature. If he loses half this energy by evaporating water (through breathing and sweating), how many kilograms of water evaporate?",
+        "Image Links": [],
+        "Answer": "2.59 kg",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.6 Mechanisms of Heat Transfer",
+        "Problem Statement": "",
+        "Question": "A firewalker runs across a bed of hot coals without sustaining burns. Calculate the heat transferred by conduction into the sole of one foot of a firewalker given that the bottom of the foot is a 3.00-mm-thick callus with a conductivity at the low end of the range for wood and its density is $$300 \\text{kg/m}^{3}$$ . The area of contact is $$25.0 \\text{cm}^{2} ,$$ the temperature of the coals is $$700 \\text{\u00b0} \\text{C}$$ , and the time in contact is 1.00 s. Ignore the evaporative cooling of sweat.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.6 Mechanisms of Heat Transfer",
+        "Problem Statement": "",
+        "Question": "(a) What is the rate of heat conduction through the 3.00-cm-thick fur of a large animal having a $$1.40 \\text{-m}^{2}$$ surface area? Assume that the animal\u2019s skin temperature is $$32.0 \\text{\u00b0} \\text{C}$$ , that the air temperature is $$-5.00 \\text{\u00b0} \\text{C}$$ , and that fur has the same thermal conductivity as air. (b) What food intake will the animal need in one day to replace this heat transfer?",
+        "Image Links": [],
+        "Answer": "a. 39.7 W; b. 820 kcal",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.6 Mechanisms of Heat Transfer",
+        "Problem Statement": "",
+        "Question": "A walrus transfers energy by conduction through its blubber at the rate of 150 W when immersed in $$-1.00 \\text{\u00b0} \\text{C}$$ water. The walrus\u2019s internal core temperature is $$37.0 \\text{\u00b0} \\text{C}$$ , and it has a surface area of $$2.00 \\text{m}^{2}$$ . What is the average thickness of its blubber, which has the conductivity of fatty tissues without blood?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.6 Mechanisms of Heat Transfer",
+        "Problem Statement": "",
+        "Question": "Compare the rate of heat conduction through a 13.0-cm-thick wall that has an area of $$10.0 \\text{m}^{2}$$ and a thermal conductivity twice that of glass wool with the rate of heat conduction through a 0.750-cm-thick window that has an area of $$2.00 \\text{m}^{2}$$ , assuming the same temperature difference across each.",
+        "Image Links": [],
+        "Answer": "$$\\frac{Q}{t} = \\frac{k A ( T_{2} - T_{1} )}{d}$$ , so that $$\\frac{( Q \\text{/} t )_{\\text{wall}}}{( Q \\text{/} t )_{\\text{window}}} = \\frac{k_{\\text{wall}} A_{\\text{wall}} d_{\\text{window}}}{k_{\\text{window}} A_{\\text{window}} d_{\\text{wall}}} = \\frac{( 2 \\times 0.042 \\text{J/s} \\cdotp \\text{m} \\cdotp \\text{\u00b0} \\text{C} ) ( 10.0 \\text{m}^{2} ) ( 0.750 \\times 10^{-2} \\text{m} )}{( 0.84 \\text{J/s} \\cdotp \\text{m} \\cdotp \\text{\u00b0} \\text{C} ) ( 2.00 \\text{m}^{2} ) ( 13.0 \\times 10^{-2} \\text{m} )}$$ This gives 0.0288 wall: window, or 35:1 window: wall",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.6 Mechanisms of Heat Transfer",
+        "Problem Statement": "",
+        "Question": "Suppose a person is covered head to foot by wool clothing with average thickness of 2.00 cm and is transferring energy by conduction through the clothing at the rate of 50.0 W. What is the temperature difference across the clothing, given the surface area is $$1.40 \\text{m}^{2}$$ ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.6 Mechanisms of Heat Transfer",
+        "Problem Statement": "",
+        "Question": "Some stove tops are smooth ceramic for easy cleaning. If the ceramic is 0.600 cm thick and heat conduction occurs through a 14 cm radius and at a rate of 2256 W, what is the temperature difference across it? Ceramic has the same thermal conductivity as glass and brick.",
+        "Image Links": [],
+        "Answer": "$$\\frac{Q}{t} = \\frac{k A ( T_{2} - T_{1} )}{d} = \\frac{k A \\text{Delta} T}{d} \\Rightarrow$$ $$\\text{Delta} T = \\frac{d ( Q \\text{/} t )}{k A} = \\frac{( 6.00 \\times 10^{-3} \\text{m} ) ( 2256 \\text{W} )}{( 0.84 \\text{J/s} \\cdotp \\text{m} \\cdotp \\text{\u00b0} \\text{C} ) ( 1.54 \\times 10^{-2} \\text{m}^{2} )} = 1046 \\text{\u00b0} \\text{C} = 1.05 \\times 10^{3} \\text{K}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.6 Mechanisms of Heat Transfer",
+        "Problem Statement": "",
+        "Question": "One easy way to reduce heating (and cooling) costs is to add extra insulation in the attic of a house. Suppose a single-story cubical house already had 15 cm of fiberglass insulation in the attic and in all the exterior surfaces. If you added an extra 8.0 cm of fiberglass to the attic, by what percentage would the heating cost of the house drop? Take the house to have dimensions 10 m by 15 m by 3.0 m. Ignore air infiltration and heat loss through windows and doors, and assume that the interior is uniformly at one temperature and the exterior is uniformly at another.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "1.6 Mechanisms of Heat Transfer",
+        "Problem Statement": "",
+        "Question": "Many decisions are made on the basis of the payback period: the time it will take through savings to equal the capital cost of an investment. Acceptable payback times depend upon the business or philosophy one has. (For some industries, a payback period is as small as 2 years.) Suppose you wish to install the extra insulation in the preceding problem. If energy cost $$\\text{$} 1.00$$ per million joules and the insulation was $4.00 per square meter, then calculate the simple payback time. Take the average $$\\text{Delta} T$$ for the 120-day heating season to be $$15.0 \\text{\u00b0} \\text{C} .$$",
+        "Image Links": [],
+        "Answer": "We found in the preceding problem that $$P = 126 \\text{Delta} T \\text{W} \\cdotp \\text{\u00b0} \\text{C}$$ as baseline energy use. So the total heat loss during this period is $$Q = ( 126 \\text{J/s} \\cdotp \\text{\u00b0} \\text{C} ) ( 15.0 \\text{\u00b0} \\text{C} ) ( 120 \\text{days} ) ( 86.4 \\times 10^{3} \\text{s/day} ) = 1960 \\times 10^{6} \\text{J}$$ . At the cost of $1/MJ, the cost is $1960. From an earlier problem, the savings is 12% or $235/y. We need $$150 \\text{m}^{2}$$ of insulation in the attic. At $$$ 4 \\text{/} \\text{m}^{2}$$ , this is a $500 cost. So the payback period is $$$ 600 \\text{/} ( $ 235 \\text{/} \\text{y} ) = 2.6 \\text{years}$$ (excluding labor costs).",
+        "Answer Image Links": []
+    }
+]

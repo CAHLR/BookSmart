@@ -1,0 +1,162 @@
+[
+    {
+        "Topic": "Try It 10.1",
+        "Problem Statement": "",
+        "Question": "Determine whether each polynomial is a monomial, binomial, trinomial, or other polynomial. \u24d0 $$z$$ \u24d1 $$2 x^{3} - 4 x^{2} - x - 8$$ \u24d2 $$6 x^{2} - 4 x + 1$$ \u24d3 $$9 - 4 y^{2}$$ \u24d4 $$3 x^{7}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 monomial \u24d1 polynomial \u24d2 trinomial \u24d3 binomial \u24d4 monomial",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.2",
+        "Problem Statement": "",
+        "Question": "Determine whether each polynomial is a monomial, binomial, trinomial, or other polynomial. \u24d0 $$y^{3} - 8$$ \u24d1 $$9 x^{3} - 5 x^{2} - x$$ \u24d2 $$x^{4} - 3 x^{2} - 4 x - 7$$ \u24d3 $$\\text{unicode[:-]} y^{4}$$ \u24d4 $$w$$",
+        "Image Links": [],
+        "Answer": "\u24d0 binomial \u24d1 trinomial \u24d2 polynomial \u24d3 monomial \u24d2 monomial",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.3",
+        "Problem Statement": "",
+        "Question": "Find the degree of the following polynomials: \u24d0 $$-6 y$$ \u24d1 $$4 x - 1$$ \u24d2 $$3 x^{4} + 4 x^{2} - 8$$ \u24d3 $$2 y^{2} + 3 y + 9$$ \u24d4 $$-18$$",
+        "Image Links": [],
+        "Answer": "\u24d0 1 \u24d1 1 \u24d2 4 \u24d3 2 \u24d4 0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.4",
+        "Problem Statement": "",
+        "Question": "Find the degree of the following polynomials: \u24d0 $$47$$ \u24d1 $$2 x^{2} - 8 x + 2$$ \u24d2 $$x^{4} - 16$$ \u24d3 $$y^{5} - 5 y^{3} + y$$ \u24d4 $$9 a^{3}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 0 \u24d1 2 \u24d2 4 \u24d3 5 \u24d4 3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.5",
+        "Problem Statement": "",
+        "Question": "Add: $$12 x^{2} + 5 x^{2} .$$",
+        "Image Links": [],
+        "Answer": "17 x 2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.6",
+        "Problem Statement": "",
+        "Question": "Add: $$-11 y^{2} + 8 y^{2} .$$",
+        "Image Links": [],
+        "Answer": "-3 y 2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.7",
+        "Problem Statement": "",
+        "Question": "Subtract: $$9 n - ( -5 n ) .$$",
+        "Image Links": [],
+        "Answer": "14 n",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.8",
+        "Problem Statement": "",
+        "Question": "Subtract: $$-7 a^{3} - ( -5 a^{3} ) .$$",
+        "Image Links": [],
+        "Answer": "-2 a 3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.9",
+        "Problem Statement": "",
+        "Question": "Add: $$3 x^{2} + 3 y^{2} - 5 x^{2} .$$",
+        "Image Links": [],
+        "Answer": "-2 x 2 + 3 y 2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.10",
+        "Problem Statement": "",
+        "Question": "Add: $$2 a^{2} + b^{2} - 4 a^{2} .$$",
+        "Image Links": [],
+        "Answer": "-2 a 2 + b 2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.11",
+        "Problem Statement": "",
+        "Question": "Find the sum: $$( 3 x^{2} - 2 x + 8 ) + ( x^{2} - 6 x + 2 ) .$$",
+        "Image Links": [],
+        "Answer": "4 x 2 - 8 x + 10",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.12",
+        "Problem Statement": "",
+        "Question": "Find the sum: $$( 7 y^{2} + 4 y - 6 ) + ( 4 y^{2} + 5 y + 1 ) .$$",
+        "Image Links": [],
+        "Answer": "11 y 2 + 9 y - 5",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.13",
+        "Problem Statement": "",
+        "Question": "Find the difference: $$( 6 y^{2} + 3 y - 1 ) - ( 3 y^{2} - 4 ) .$$",
+        "Image Links": [],
+        "Answer": "3 y 2 + 3 y + 3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.14",
+        "Problem Statement": "",
+        "Question": "Find the difference: $$( 8 u^{2} - 7 u - 2 ) - ( 5 u^{2} - 6 u - 4 ) .$$",
+        "Image Links": [],
+        "Answer": "3 u 2 - u + 2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.15",
+        "Problem Statement": "",
+        "Question": "Subtract: $$( 4 n^{2} - 7 n - 3 )$$ from $$( 8 n^{2} + 5 n - 3 ) .$$",
+        "Image Links": [],
+        "Answer": "4 n 2 + 12 n",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.16",
+        "Problem Statement": "",
+        "Question": "Subtract: $$( a^{2} - 4 a - 9 )$$ from $$( 6 a^{2} + 4 a - 1 ) .$$",
+        "Image Links": [],
+        "Answer": "5 a 2 + 8 a + 8",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.17",
+        "Problem Statement": "",
+        "Question": "Evaluate: $$2 x^{2} + 4 x - 3$$ when \u24d0 $$x = 2$$ \u24d1 $$x = -3$$",
+        "Image Links": [],
+        "Answer": "\u24d0 13 \u24d1 3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.18",
+        "Problem Statement": "",
+        "Question": "Evaluate: $$7 y^{2} - y - 2$$ when \u24d0 $$y = -4$$ \u24d1 $$y = 0$$",
+        "Image Links": [],
+        "Answer": "\u24d0 114 \u24d1 -2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.19",
+        "Problem Statement": "",
+        "Question": "The polynomial $$-8 t^{2} + 24 t + 4$$ gives the height, in feet, of a ball $$t$$ seconds after it is tossed into the air, from an initial height of $$4$$ feet. Find the height after $$t = 3$$ seconds.",
+        "Image Links": [],
+        "Answer": "4 feet",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.20",
+        "Problem Statement": "",
+        "Question": "The polynomial $$-8 t^{2} + 24 t + 4$$ gives the height, in feet, of a ball $$x$$ seconds after it is tossed into the air, from an initial height of $$4$$ feet. Find the height after $$t = 2$$ seconds.",
+        "Image Links": [],
+        "Answer": "20 feet",
+        "Answer Image Links": []
+    }
+]

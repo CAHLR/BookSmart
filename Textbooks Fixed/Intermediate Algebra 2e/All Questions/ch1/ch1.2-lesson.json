@@ -1,0 +1,674 @@
+[
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, fill in $$< , > ,$$ or $$=$$ for each of the following pairs of numbers.",
+        "Question": "\u24d0 $$| -7 | ___ - | -7 |$$ \u24d1 $$6 ___ - | -6 |$$ \u24d2 $$| -11 | ___ - 11$$ \u24d3 $$\\text{unicode[:-]} ( -13 ) ___ - | -13 |$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$>$$ \u24d1 $$>$$ \u24d2 $$>$$ \u24d3 $$>$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, fill in $$< , > ,$$ or $$=$$ for each of the following pairs of numbers.",
+        "Question": "\u24d0 $$\\text{unicode[:-]} | -9 | ___ | -9 |$$ \u24d1 $$-8 ___ | -8 |$$ \u24d2 $$| -1 | ___ - 1$$ \u24d3 $$\\text{unicode[:-]} ( -14 ) ___ - | -14 |$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, fill in $$< , > ,$$ or $$=$$ for each of the following pairs of numbers.",
+        "Question": "\u24d0 $$\\text{unicode[:-]} | 2 | ___ - | -2 |$$ \u24d1 $$-12 ___ - | -12 |$$ \u24d2 $$| -3 | ___ - 3$$ \u24d3 $$| -19 | ___ - ( -19 )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$=$$ \u24d1 $$=$$ \u24d2 $$>$$ \u24d3 $$=$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, fill in $$< , > ,$$ or $$=$$ for each of the following pairs of numbers.",
+        "Question": "\u24d0 $$\\text{unicode[:-]} | -4 | ___ - | 4 |$$ \u24d1 $$5 ___ - | -5 |$$ \u24d2 $$\\text{unicode[:-]} | -10 | ___ - 10$$ \u24d3 $$\\text{unicode[:-]} | -0 | ___ - ( -0 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$| 15 - 7 | - | 14 - 6 |$$",
+        "Image Links": [],
+        "Answer": "0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$| 17 - 8 | - | 13 - 4 |$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$18 - | 2 ( 8 - 3 ) |$$",
+        "Image Links": [],
+        "Answer": "8",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$15 - | 3 ( 8 - 5 ) |$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$18 - | 12 - 4 ( 4 - 1 ) + 3 |$$",
+        "Image Links": [],
+        "Answer": "15",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$27 - | 19 + 4 ( 3 - 1 ) - 7 |$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$10 - 3 | 9 - 3 ( 3 - 1 ) |$$",
+        "Image Links": [],
+        "Answer": "1",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$13 - 2 | 11 - 2 ( 5 - 2 ) |$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "\u24d0 $$-7 + ( -4 )$$ \u24d1 $$-7 + 4$$ \u24d2 $$7 + ( -4 ) .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-11$$ \u24d1 $$-3$$ \u24d2 $$3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "\u24d0 $$-5 + ( -9 )$$ \u24d1 $$-5 + 9$$ \u24d2 $$5 + ( -9 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$48 + ( -16 )$$",
+        "Image Links": [],
+        "Answer": "32",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$34 + ( -19 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$-14 + ( -12 ) + 4$$",
+        "Image Links": [],
+        "Answer": "$$-22$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$-17 + ( -18 ) + 6$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$19 + 2 ( -3 + 8 )$$",
+        "Image Links": [],
+        "Answer": "$$29$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$24 + 3 ( -5 + 9 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "\u24d0 $$13 - 7$$ \u24d1 $$-13 - ( -7 )$$ \u24d2 $$-13 - 7$$ \u24d3 $$13 - ( -7 )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 6 \u24d1 $$-6$$ \u24d2 $$-20$$ \u24d3 $$20$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "\u24d0 $$15 - 8$$ \u24d1 $$-15 - ( -8 )$$ \u24d2 $$-15 - 8$$ \u24d3 $$15 - ( -8 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$-17 - 42$$",
+        "Image Links": [],
+        "Answer": "$$-59$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$-58 - ( -67 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$-14 - ( -27 ) + 9$$",
+        "Image Links": [],
+        "Answer": "22",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$64 + ( -17 ) - 9$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "\u24d0 $$44 - 28$$ \u24d1 $$44 + ( -28 )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 16 \u24d1 16",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "\u24d0 $$35 - 16$$ \u24d1 $$35 + ( -16 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "\u24d0 $$27 - ( -18 )$$ \u24d1 $$27 + 18$$",
+        "Image Links": [],
+        "Answer": "\u24d0 45 \u24d1 45",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "\u24d0 $$46 - ( -37 )$$ \u24d1 $$46 + 37$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$( 2 - 7 ) - ( 3 - 8 )$$",
+        "Image Links": [],
+        "Answer": "0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$( 1 - 8 ) - ( 2 - 9 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$\\text{unicode[:-]} ( 6 - 8 ) - ( 2 - 4 )$$",
+        "Image Links": [],
+        "Answer": "4",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$\\text{unicode[:-]} ( 4 - 5 ) - ( 7 - 8 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$25 - [ 10 - ( 3 - 12 ) ]$$",
+        "Image Links": [],
+        "Answer": "6",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$32 - [ 5 - ( 15 - 20 ) ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply or divide.",
+        "Question": "\u24d0 $$-4 \\cdotp 8$$ \u24d1 $$13 ( -5 )$$ \u24d2 $$-24 \\div 6$$ \u24d3 $$-52 \\div ( -4 )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-32$$ \u24d1 $$-65$$ \u24d2 $$-4$$ \u24d3 $$13$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply or divide.",
+        "Question": "\u24d0 $$-3 \\cdotp 9$$ \u24d1 $$9 ( -7 )$$ \u24d2 $$35 \\div ( -7 )$$ \u24d3 $$-84 \\div ( -6 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply or divide.",
+        "Question": "\u24d0 $$-28 \\div 7$$ \u24d1 $$-180 \\div 15$$ \u24d2 $$3 ( -13 )$$ \u24d3 $$-1 ( -14 )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-4$$ \u24d1 $$-12$$ \u24d2 $$-39$$ \u24d3 $$14$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply or divide.",
+        "Question": "\u24d0 $$-36 \\div 4$$ \u24d1 $$-192 \\div 12$$ \u24d2 $$9 ( -7 )$$ \u24d3 $$-1 ( -19 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "\u24d0 $$( -2 )^{6}$$ \u24d1 $$\\text{unicode[:-]} 2^{6}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$64$$ \u24d1 $$-64$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "\u24d0 $$( -3 )^{5}$$ \u24d1 $$\\text{unicode[:-]} 3^{5}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$5 ( -6 ) + 7 ( -2 ) - 3$$",
+        "Image Links": [],
+        "Answer": "$$-47$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$8 ( -4 ) + 5 ( -4 ) - 6$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$-3 ( -5 ) ( 6 )$$",
+        "Image Links": [],
+        "Answer": "$$90$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$-4 ( -6 ) ( 3 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$( 8 - 11 ) ( 9 - 12 )$$",
+        "Image Links": [],
+        "Answer": "$$9$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$( 6 - 11 ) ( 8 - 13 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$26 - 3 ( 2 - 7 )$$",
+        "Image Links": [],
+        "Answer": "$$41$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$23 - 2 ( 4 - 6 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$65 \\div ( -5 ) + ( -28 ) \\div ( -7 )$$",
+        "Image Links": [],
+        "Answer": "$$-9$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$52 \\div ( -4 ) + ( -32 ) \\div ( -8 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$9 - 2 [ 3 - 8 ( -2 ) ]$$",
+        "Image Links": [],
+        "Answer": "$$-29$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$11 - 3 [ 7 - 4 ( -2 ) ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$8 - | 2 - 4 ( 4 - 1 ) + 3 |$$",
+        "Image Links": [],
+        "Answer": "$$1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$7 - | 5 - 3 ( 4 - 1 ) - 6 |$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$9 - 3 | 2 ( 2 - 6 ) - ( 3 - 7 ) |$$",
+        "Image Links": [],
+        "Answer": "$$-3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$5 - 2 | 2 ( 1 - 4 ) - ( 2 - 5 ) |$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$( -3 )^{2} - 24 \\div ( 8 - 2 )$$",
+        "Image Links": [],
+        "Answer": "$$5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify each expression.",
+        "Question": "$$( -4 )^{2} - 32 \\div ( 12 - 4 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, evaluate each expression.",
+        "Question": "$$y + ( -14 )$$ when \u24d0 $$y = -33$$ \u24d1 $$y = 30$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-47$$ \u24d1 $$16$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, evaluate each expression.",
+        "Question": "$$x + ( -21 )$$ when \u24d0 $$x = -27$$ \u24d1 $$x = 44$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, evaluate each expression.",
+        "Question": "$$( x + y )^{2}$$ when $$x = -3 , y = 14$$",
+        "Image Links": [],
+        "Answer": "$$121$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, evaluate each expression.",
+        "Question": "$$( y + z )^{2}$$ when $$y = -3 , z = 15$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, evaluate each expression.",
+        "Question": "$$9 a - 2 b - 8$$ when $$a = -6$$ and $$b = -3$$",
+        "Image Links": [],
+        "Answer": "$$-56$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, evaluate each expression.",
+        "Question": "$$7 m - 4 n - 2$$ when $$m = -4$$ and $$n = -9$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, evaluate each expression.",
+        "Question": "$$3 x^{2} - 4 x y + 2 y^{2}$$ when $$x = -2 , y = -3$$",
+        "Image Links": [],
+        "Answer": "$$6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, evaluate each expression.",
+        "Question": "$$4 x^{2} - x y + 3 y^{2}$$ when $$x = -3 , y = -2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, translate to an algebraic expression and simplify if possible.",
+        "Question": "the sum of 3 and $$-15 ,$$ increased by 7",
+        "Image Links": [],
+        "Answer": "$$( 3 + ( -15 ) ) + 7 ; - 5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, translate to an algebraic expression and simplify if possible.",
+        "Question": "the sum of $$-8$$ and $$-9 ,$$ increased by $$23$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, translate to an algebraic expression and simplify if possible.",
+        "Question": "\u24d0 the difference of $$10$$ and $$-18$$ \u24d1 subtract $$11$$ from $$-25$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$10 - ( -18 ) ; 28$$ \u24d1 $$-25 - 11 ; - 36$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, translate to an algebraic expression and simplify if possible.",
+        "Question": "\u24d0 the difference of $$-5$$ and $$-30$$ \u24d1 subtract $$-6$$ from $$-13$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, translate to an algebraic expression and simplify if possible.",
+        "Question": "the quotient of $$-6$$ and the sum of $$a$$ and $$b$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{-6}{a + b}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, translate to an algebraic expression and simplify if possible.",
+        "Question": "the product of $$-13$$ and the difference of $$c$$ and $$d$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "Temperature On January 15, the high temperature in Anaheim, California, was 84\u00b0. That same day, the high temperature in Embarrass, Minnesota, was $$\\text{unicode[:-]} 12 \\text{\u00b0} .$$ What was the difference between the temperature in Anaheim and the temperature in Embarrass?",
+        "Image Links": [],
+        "Answer": "$$96 \\text{\u00b0}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "Temperature On January 21, the high temperature in Palm Springs, California, was $$89 \\text{\u00b0} ,$$ and the high temperature in Whitefield, New Hampshire, was $$\\text{unicode[:-]} 31 \\text{\u00b0} .$$ What was the difference between the temperature in Palm Springs and the temperature in Whitefield?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "Football On the first down, the Chargers had the ball on their 25-yard line. They lost 6 yards on the first-down play, gained 10 yards on the second-down play, and lost 8 yards on the third-down play. What was the yard line at the end of the third-down play?",
+        "Image Links": [],
+        "Answer": "21 yards",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "Football On first down, the Steelers had the ball on their 30-yard line. They gained 9 yards on the first-down play, lost 14 yards on the second-down play, and lost 2 yards on the third-down play. What was the yard line at the end of the third-down play?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "Checking Account Mayra has $124 in her checking account. She writes a check for $152. What is the new balance in her checking account?",
+        "Image Links": [],
+        "Answer": "$$\\text{unicode[:-]} \\text{$} 28$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "Checking Account Reymonte has a balance of $$\\text{unicode[:-]} \\text{$} 49$$ in his checking account. He deposits $281 to the account. What is the new balance?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "Explain why the sum of $$-8$$ and 2 is negative, but the sum of 8 and $$-2$$ is positive.",
+        "Image Links": [],
+        "Answer": "Answers will vary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "Give an example from your life experience of adding two negative numbers.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "In your own words, state the rules for multiplying and dividing integers.",
+        "Image Links": [],
+        "Answer": "Answers will vary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "Why is $$\\text{unicode[:-]} 4^{3} = ( -4 )^{3} ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

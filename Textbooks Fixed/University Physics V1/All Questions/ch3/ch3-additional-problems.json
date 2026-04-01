@@ -1,0 +1,246 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Professional baseball player Nolan Ryan could pitch a baseball at approximately 160.0 km/h. At that average velocity, how long did it take a ball thrown by Ryan to reach home plate, which is 18.4 m from the pitcher\u2019s mound? Compare this with the average reaction time of a human to a visual stimulus, which is 0.25 s.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "An airplane leaves Chicago and makes the 3000-km trip to Los Angeles in 5.0 h. A second plane leaves Chicago one-half hour later and arrives in Los Angeles at the same time. Compare the average velocities of the two planes. Ignore the curvature of Earth and the difference in altitude between the two cities.",
+        "Image Links": [],
+        "Answer": "Take west to be the positive direction. 1st plane: $$\\overset{-}{\\nu} = 600 \\text{km}/\\text{h}$$ 2nd plane $$\\overset{-}{\\nu} = 667.0 \\text{km}/\\text{h}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Unreasonable Results A cyclist rides 16.0 km east, then 8.0 km west, then 8.0 km east, then 32.0 km west, and finally 11.2 km east. If his average velocity is 24 km/h, how long did it take him to complete the trip? Is this a reasonable time?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "An object has an acceleration of $$+ 1.2 \\text{cm/s}^{2}$$ . At $$t = 4.0 \\text{s}$$ , its velocity is $$- 3.4 \\text{cm/s}$$ . Determine the object\u2019s velocities at $$t = 1.0 \\text{s}$$ and $$t = 6.0 \\text{s}$$ .",
+        "Image Links": [],
+        "Answer": "$$a = \\frac{v - v_{0}}{t - t_{0}}$$ , $$t = 0 , a = \\frac{- 3.4 \\text{cm/s} - v_{0}}{4 \\text{s}} = 1.2 \\text{cm/s}^{2} \\Rightarrow v_{0} = - 8.2 \\text{cm/s}$$ $$v = v_{0} + a t = - 8.2 + 1.2 t$$ ; $$v = -7.0 \\text{cm/s} v = -1.0 \\text{cm/s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A particle moves along the x -axis according to the equation $$x ( t ) = 2.0 - 4.0 t^{2}$$ m. What are the velocity and acceleration at $$t = 2.0$$ s and $$t = 5.0$$ s?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A particle moving at constant acceleration has velocities of $$2.0 \\text{m/s}$$ at $$t = 2.0$$ s and $$- 7.6 \\text{m/s}$$ at $$t = 5.2$$ s. What is the acceleration of the particle?",
+        "Image Links": [],
+        "Answer": "$$a = -3 \\text{m/s}^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A train is moving up a steep grade at constant velocity (see following figure) when its caboose breaks loose and starts rolling freely along the track. After 5.0 s, the caboose is 30 m behind the train. What is the acceleration of the caboose?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/447afc915df646f8f88b50408aefc478ce1e1c1a"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "An electron is moving in a straight line with a velocity of $$4.0 \\times 10^{5}$$ m/s. It enters a region 5.0 cm long where it undergoes an acceleration of $$6.0 \\times 10^{12} \\text{m/s}^{2}$$ along the same straight line. (a) What is the electron\u2019s velocity when it emerges from this region? b) How long does the electron take to cross the region?",
+        "Image Links": [],
+        "Answer": "a. $$v = 8.7 \\times 10^{5} \\text{m/s}$$ ; b. $$t = 7.8 \\times 10^{- 8} \\text{s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "An ambulance driver is rushing a patient to the hospital. While traveling at 72 km/h, she notices the traffic light at the upcoming intersections has turned amber. To reach the intersection before the light turns red, she must travel 50 m in 2.0 s. (a) What minimum acceleration must the ambulance have to reach the intersection before the light turns red? (b) What is the speed of the ambulance when it reaches the intersection?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A motorcycle that is slowing down uniformly covers 2.0 successive km in 80 s and 120 s, respectively. Calculate (a) the acceleration of the motorcycle and (b) its velocity at the beginning and end of the 2-km trip.",
+        "Image Links": [],
+        "Answer": "$$1 \\text{km} = v_{0} ( 80.0 \\text{s} ) + \\frac{1}{2} a ( 80.0 )^{2}$$ ; $$2 \\text{km} = v_{0} ( 200.0 ) + \\frac{1}{2} a ( 200.0 )^{2}$$ solve simultaneously to get $$a = - \\frac{0.1}{2400.0} \\text{km/s}^{2}$$ and $$v_{0} = 0.014167 \\text{km/s}$$ , which is $$51.0 \\text{km/h}$$ . Velocity at the end of the trip is $$v = 21.0 \\text{km/h}$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A cyclist travels from point A to point B in 10 min. During the first 2.0 min of her trip, she maintains a uniform acceleration of $$0.090 \\text{m/s}^{2}$$ . She then travels at constant velocity for the next 5.0 min. Next, she accelerates opposite to the motion at a constant rate so that she comes to a rest at point B 3.0 min later. (a) Sketch the velocity-versus-time graph for the trip. (b) What is the acceleration during the last 3 min? (c) How far does the cyclist travel?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Two trains are moving at 30 m/s in opposite directions on the same track. The engineers see simultaneously that they are on a collision course and apply the brakes when they are 1000 m apart. Assuming both trains have the same acceleration, what must this acceleration be if the trains are to stop just short of colliding?",
+        "Image Links": [],
+        "Answer": "$$a = -0.9 \\text{m/s}^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A 10.0-m-long truck moving with a constant velocity of 97.0 km/h passes a 3.0-m-long car moving with a constant velocity of 80.0 km/h. How much time elapses between the moment the front of the truck is even with the back of the car and the moment the back of the truck is even with the front of the car?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5108e4cb8663ec7a62f2b81bbccc3b9877ce8ed7"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A police car waits in hiding slightly off the highway. A speeding car is spotted by the police car doing 40 m/s. At the instant the speeding car passes the police car, the police car accelerates from rest at 4 m/s^2 to catch the speeding car. How long does it take the police car to catch the speeding car?",
+        "Image Links": [],
+        "Answer": "Equation for the speeding car: This car has a constant velocity, which is the average velocity, and is not accelerating, so use the equation for displacement with $$x_{0} = 0$$ : $$x = x_{0} + \\overset{-}{v} t = \\overset{-}{v} t$$ ; Equation for the police car: This car is accelerating, so use the equation for displacement with $$x_{0} = 0$$ and $$v_{0} = 0$$ , since the police car starts from rest: $$x = x_{0} + v_{0} t + \\frac{1}{2} a t^{2} = \\frac{1}{2} a t^{2}$$ ; Now we have an equation of motion for each car with a common parameter, which can be eliminated to find the solution. In this case, we solve for $$t$$ . Step 1, eliminating $$x$$ : $$x = \\overset{-}{v} t = \\frac{1}{2} a t^{2}$$ ; Step 2, solving for $$t$$ : $$t = \\frac{2 \\overset{-}{v}}{a}$$ . The speeding car has a constant velocity of 40 m/s, which is its average velocity. The acceleration of the police car is 4 m/s^2. Evaluating t , the time for the police car to reach the speeding car, we have $$t = \\frac{2 \\overset{-}{v}}{a} = \\frac{2 \\left(\\right. 40 \\left.\\right)}{4} = 20 \\text{s}$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Pablo is running in a half marathon at a velocity of 3 m/s. Another runner, Jacob, is 50 meters behind Pablo with the same velocity. Jacob begins to accelerate at 0.05 m/s^2. (a) How long does it take Jacob to catch Pablo? (b) What is the distance covered by Jacob? (c) What is the final velocity of Jacob?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Unreasonable results A runner approaches the finish line and is 75 m away; her speed at this position is 8 m/s. She accelerates opposite to the motion at this point at 0.5 m/s^2. How long does it take her to cross the finish line from 75 m away? Is this reasonable?",
+        "Image Links": [],
+        "Answer": "At this acceleration she comes to a full stop in $$t = \\frac{- v_{0}}{a} = \\frac{8}{0.5} = 16 \\text{s}$$ , but the distance covered is $$x = 8 \\text{m/s(16} \\text{s)} - \\frac{1}{2} ( 0.5 ) ( 16 \\text{s} )^{2} = 64 \\text{m}$$ , which is less than the distance she is away from the finish line, so she never finishes the race.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "An airplane accelerates at 5.00 m/s^2 for 30.0 s. During this time, it covers a distance of 10.0 km. What are the initial and final velocities of the airplane?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Compare the distance traveled of an object that undergoes a change in velocity that is twice its initial velocity with an object that changes its velocity by four times its initial velocity over the same time period. The accelerations of both objects are constant.",
+        "Image Links": [],
+        "Answer": "$$x_{1} = \\frac{3}{2} v_{0} t$$ $$x_{2} = \\frac{5}{3} x_{1}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "An object is moving east with a constant velocity and is at position $$x_{0} \\text{at} \\text{time} t_{0} = 0$$ . (a) With what acceleration must the object have for its total displacement to be zero at a later time t ? (b) What is the physical interpretation of the solution in the case for $$t \\vec{} \\infty$$ ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A ball is thrown straight up. It passes a 2.00-m-high window 7.50 m off the ground on its path up and takes 1.30 s to go past the window. What was the ball\u2019s initial velocity?",
+        "Image Links": [],
+        "Answer": "$$v_{0} = 7.9 \\text{m/s}$$ velocity at the bottom of the window. $$v = 7.9 \\text{m/s}$$ $$v_{0} = 14.5 \\text{m/s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A coin is dropped from a hot-air balloon that is 300 m above the ground and rising at 10.0 m/s upward. For the coin, find (a) the maximum height reached, (b) its position and velocity 4.00 s after being released, and (c) the time before it hits the ground.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A soft tennis ball is dropped onto a hard floor from a height of 1.50 m and rebounds to a height of 1.10 m. (a) Calculate its velocity just before it strikes the floor. (b) Calculate its velocity just after it leaves the floor on its way back up. (c) Calculate its acceleration during contact with the floor if that contact lasts 3.50 ms $$( 3.50 \\times 10^{- 3} \\text{s} )$$ (d) How much did the ball compress during its collision with the floor, assuming the floor is absolutely rigid?",
+        "Image Links": [],
+        "Answer": "a. $$v = 5.42 \\text{m/s}$$ ; b. $$v = 4.64 \\text{m/s}$$ ; c. $$a = 2874.28 \\text{m/s}^{2}$$ ; d. $$( x - x_{0} ) = 5.11 \\times 10^{- 3} \\text{m}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Unreasonable results . A raindrop falls from a cloud 100 m above the ground. Neglect air resistance. What is the speed of the raindrop when it hits the ground? Is this a reasonable number?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Compare the time in the air of a basketball player who jumps 1.0 m vertically off the floor with that of a player who jumps 0.3 m vertically.",
+        "Image Links": [],
+        "Answer": "Consider the players fall from rest at the height 1.0 m and 0.3 m. 0.9 s 0.5 s",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Suppose that a person takes 0.5 s to react and move his hand to catch an object he has dropped. (a) How far does the object fall on Earth, where $$g = 9.8 \\text{m/s}^{2} ?$$ (b) How far does the object fall on the Moon, where the acceleration due to gravity is 1/6 of that on Earth?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A hot-air balloon rises from ground level at a constant velocity of 3.0 m/s. One minute after liftoff, a sandbag is dropped accidentally from the balloon. Calculate (a) the time it takes for the sandbag to reach the ground and (b) the velocity of the sandbag when it hits the ground.",
+        "Image Links": [],
+        "Answer": "a. $$t = 6.37 \\text{s}$$ taking the positive root; b. $$v = 59.5 \\text{m/s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "(a) A world record was set for the men\u2019s 100-m dash in the 2008 Olympic Games in Beijing by Usain Bolt of Jamaica. Bolt \u201ccoasted\u201d across the finish line with a time of 9.69 s. If we assume that Bolt accelerated for 3.00 s to reach his maximum speed, and maintained that speed for the rest of the race, calculate his maximum speed and his acceleration. (b) During the same Olympics, Bolt also set the world record in the 200-m dash with a time of 19.30 s. Using the same assumptions as for the 100-m dash, what was his maximum speed for this race?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "An object is dropped from a height of 75.0 m above ground level. (a) Determine the distance traveled during the first second. (b) Determine the final velocity at which the object hits the ground. (c) Determine the distance traveled during the last second of motion before hitting the ground.",
+        "Image Links": [],
+        "Answer": "a. $$y = 4.9 \\text{m}$$ ; b. $$v = 38.3 \\text{m/s}$$ ; c. $$-33.3 \\text{m}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A steel ball is dropped onto a hard floor from a height of 1.50 m and rebounds to a height of 1.45 m. (a) Calculate its velocity just before it strikes the floor. (b) Calculate its velocity just after it leaves the floor on its way back up. (c) Calculate its acceleration during contact with the floor if that contact lasts 0.0800 ms $$( 8.00 \\times 10^{- 5} \\text{s} )$$ (d) How much did the ball compress during its collision with the floor, assuming the floor is absolutely rigid?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "An object is dropped from a roof of a building of height h . During the last second of its descent, it drops a distance h /3. Calculate the height of the building.",
+        "Image Links": [],
+        "Answer": "$$h = \\frac{1}{2} g t^{2}$$ , h = total height and time to drop to ground $$\\frac{2}{3} h = \\frac{1}{2} g ( t - 1 )^{2}$$ in t - 1 seconds it drops 2/3 h $$\\frac{2}{3} ( \\frac{1}{2} g t^{2} ) = \\frac{1}{2} g ( t - 1 )^{2}$$ or $$\\frac{t^{2}}{3} = \\frac{1}{2} ( t - 1 )^{2}$$ $$0 = t^{2} - 6 t + 3$$ $$t = \\frac{6 \\pm \\sqrt{6^{2} - 4 \\cdotp 3}}{2} = 3 \\pm \\frac{\\sqrt{24}}{2}$$ t = 5.45 s and h = 145.5 m. Other root is less than 1 s. Check for t = 4.45 s $$h = \\frac{1}{2} g t^{2} = 97.0$$ m $$= \\frac{2}{3} ( 145.5 )$$",
+        "Answer Image Links": []
+    }
+]

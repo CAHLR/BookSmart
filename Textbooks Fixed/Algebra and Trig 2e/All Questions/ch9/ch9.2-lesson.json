@@ -1,0 +1,458 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Explain the basis for the cofunction identities and when they apply.",
+        "Image Links": [],
+        "Answer": "The cofunction identities apply to complementary angles. Viewing the two acute angles of a right triangle, if one of those angles measures $$x ,$$ the second angle measures $$\\frac{\\pi}{2} - x .$$ Then $$\\sin{x} = \\cos{} ( \\frac{\\pi}{2} - x ) .$$ The same holds for the other cofunction identities. The key is that the angles are complementary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Is there only one way to evaluate $$\\cos{( \\frac{5 \\pi}{4} )} ?$$ Explain how to set up the solution in two different ways, and then compute to make sure they give the same answer.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Explain to someone who has forgotten the even-odd properties of sinusoidal functions how the addition and subtraction formulas can determine this characteristic for $$f ( x ) = \\sin{} ( x )$$ and $$g ( x ) = \\cos{} ( x ) .$$ (Hint: $$0 - x = - x$$ )",
+        "Image Links": [],
+        "Answer": "$$\\sin{( - x )} = - \\sin{} x ,$$ so $$\\sin{x}$$ is odd. $$\\cos{( - x )} = \\cos{} ( 0 - x ) = \\cos{} x ,$$ so $$\\cos{x}$$ is even.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the exact value.",
+        "Question": "$$\\cos{( \\frac{7 \\pi}{12} )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the exact value.",
+        "Question": "$$\\cos{( \\frac{\\pi}{12} )}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\sqrt{2} + \\sqrt{6}}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the exact value.",
+        "Question": "$$\\sin{( \\frac{5 \\pi}{12} )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the exact value.",
+        "Question": "$$\\sin{( \\frac{11 \\pi}{12} )}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\sqrt{6} - \\sqrt{2}}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the exact value.",
+        "Question": "$$\\tan{( - \\frac{\\pi}{12} )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the exact value.",
+        "Question": "$$\\tan{( \\frac{19 \\pi}{12} )}$$",
+        "Image Links": [],
+        "Answer": "$$- 2 - \\sqrt{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite in terms of $$\\sin{x}$$ and $$\\cos{x} .$$",
+        "Question": "$$\\sin{( x + \\frac{11 \\pi}{6} )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite in terms of $$\\sin{x}$$ and $$\\cos{x} .$$",
+        "Question": "$$\\sin{( x - \\frac{3 \\pi}{4} )}$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{\\sqrt{2}}{2} \\sin{} x - \\frac{\\sqrt{2}}{2} \\cos{} x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite in terms of $$\\sin{x}$$ and $$\\cos{x} .$$",
+        "Question": "$$\\cos{( x - \\frac{5 \\pi}{6} )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite in terms of $$\\sin{x}$$ and $$\\cos{x} .$$",
+        "Question": "$$\\cos{( x + \\frac{2 \\pi}{3} )}$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{1}{2} \\cos{} x - \\frac{\\sqrt{3}}{2} \\sin{} x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the given expression.",
+        "Question": "$$\\csc{( \\frac{\\pi}{2} - t )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the given expression.",
+        "Question": "$$\\sec{( \\frac{\\pi}{2} - \\theta )}$$",
+        "Image Links": [],
+        "Answer": "$$\\csc{\\theta}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the given expression.",
+        "Question": "$$\\cot{( \\frac{\\pi}{2} - x )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the given expression.",
+        "Question": "$$\\tan{( \\frac{\\pi}{2} - x )}$$",
+        "Image Links": [],
+        "Answer": "$$\\cot{x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the given expression.",
+        "Question": "$$\\sin{(} 2 x ) \\cos{} ( 5 x ) - \\sin{} ( 5 x ) \\cos{} ( 2 x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the given expression.",
+        "Question": "$$\\frac{\\tan{( \\frac{3}{2} x )} - \\tan{} ( \\frac{7}{5} x )}{1 + \\tan{} ( \\frac{3}{2} x ) \\tan{} ( \\frac{7}{5} x )}$$",
+        "Image Links": [],
+        "Answer": "$$\\tan{( \\frac{x}{10} )}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the requested information.",
+        "Question": "Given that $$\\sin{a} = \\frac{2}{3}$$ and $$\\cos{b} = - \\frac{1}{4} ,$$ with $$a$$ and $$b$$ both in the interval $$[ \\frac{\\pi}{2} , \\pi ) ,$$ find $$\\sin{(} a + b )$$ and $$\\cos{(} a - b ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the requested information.",
+        "Question": "Given that $$\\sin{a} = \\frac{4}{5} ,$$ and $$\\cos{b} = \\frac{1}{3} ,$$ with $$a$$ and $$b$$ both in the interval $$[ 0 , \\frac{\\pi}{2} ) ,$$ find $$\\sin{(} a - b )$$ and $$\\cos{(} a + b ) .$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{aaaaa}\\sin{(} a - b ) & = & ( \\frac{4}{5} ) ( \\frac{1}{3} ) - ( \\frac{3}{5} ) ( \\frac{2 \\sqrt{2}}{3} ) & = & \\frac{4 - 6 \\sqrt{2}}{15} \\\\ \\cos{(} a + b ) & = & ( \\frac{3}{5} ) ( \\frac{1}{3} ) - ( \\frac{4}{5} ) ( \\frac{2 \\sqrt{2}}{3} ) & = & \\frac{3 - 8 \\sqrt{2}}{15}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the exact value of each expression.",
+        "Question": "$$\\sin{( \\cos{}^{- 1} ( 0 ) - \\cos{}^{- 1} ( \\frac{1}{2} ) )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the exact value of each expression.",
+        "Question": "$$\\cos{( \\cos{}^{- 1} ( \\frac{\\sqrt{2}}{2} ) + \\sin{}^{- 1} ( \\frac{\\sqrt{3}}{2} ) )}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\sqrt{2} - \\sqrt{6}}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the exact value of each expression.",
+        "Question": "$$\\tan{( \\sin{}^{- 1} ( \\frac{1}{2} ) - \\cos{}^{- 1} ( \\frac{1}{2} ) )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, simplify the expression, and then graph both expressions as functions to verify the graphs are identical. Confirm your answer using a graphing calculator.",
+        "Question": "$$\\cos{( \\frac{\\pi}{2} - x )}$$",
+        "Image Links": [],
+        "Answer": "$$\\sin{x}$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/65e894b0b6140145f2a632cf00e39daefe18dfc4"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, simplify the expression, and then graph both expressions as functions to verify the graphs are identical. Confirm your answer using a graphing calculator.",
+        "Question": "$$\\sin{(} \\pi - x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, simplify the expression, and then graph both expressions as functions to verify the graphs are identical. Confirm your answer using a graphing calculator.",
+        "Question": "$$\\tan{( \\frac{\\pi}{3} + x )}$$",
+        "Image Links": [],
+        "Answer": "$$\\cot{( \\frac{\\pi}{6} - x )}$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d60a8b1b7033227fe861ad4765299c02232be11f"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, simplify the expression, and then graph both expressions as functions to verify the graphs are identical. Confirm your answer using a graphing calculator.",
+        "Question": "$$\\sin{( \\frac{\\pi}{3} + x )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, simplify the expression, and then graph both expressions as functions to verify the graphs are identical. Confirm your answer using a graphing calculator.",
+        "Question": "$$\\tan{( \\frac{\\pi}{4} - x )}$$",
+        "Image Links": [],
+        "Answer": "$$\\cot{( \\frac{\\pi}{4} + x )}$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7b696ec376d2d622353780f6f686f9fcf991e8c2"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, simplify the expression, and then graph both expressions as functions to verify the graphs are identical. Confirm your answer using a graphing calculator.",
+        "Question": "$$\\cos{( \\frac{7 \\pi}{6} + x )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, simplify the expression, and then graph both expressions as functions to verify the graphs are identical. Confirm your answer using a graphing calculator.",
+        "Question": "$$\\sin{( \\frac{\\pi}{4} + x )}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\sin{x}}{\\sqrt{2}} + \\frac{\\cos{x}}{\\sqrt{2}}$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/89a197138571e443739b59115fc9907c0d5eb1f8"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, simplify the expression, and then graph both expressions as functions to verify the graphs are identical. Confirm your answer using a graphing calculator.",
+        "Question": "$$\\cos{( \\frac{5 \\pi}{4} + x )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use a graph to determine whether the functions are the same or different. If they are the same, show why. If they are different, replace the second function with one that is identical to the first. (Hint: think $$2 x = x + x .$$ )",
+        "Question": "$$f ( x ) = \\sin{} ( 4 x ) - \\sin{} ( 3 x ) \\cos{} x , g ( x ) = \\sin{} x \\cos{} ( 3 x )$$",
+        "Image Links": [],
+        "Answer": "They are the same.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use a graph to determine whether the functions are the same or different. If they are the same, show why. If they are different, replace the second function with one that is identical to the first. (Hint: think $$2 x = x + x .$$ )",
+        "Question": "$$f ( x ) = \\cos{} ( 4 x ) + \\sin{} x \\sin{} ( 3 x ) , g ( x ) = - \\cos{} x \\cos{} ( 3 x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use a graph to determine whether the functions are the same or different. If they are the same, show why. If they are different, replace the second function with one that is identical to the first. (Hint: think $$2 x = x + x .$$ )",
+        "Question": "$$f ( x ) = \\sin{} ( 3 x ) \\cos{} ( 6 x ) , g ( x ) = - \\sin{} ( 3 x ) \\cos{} ( 6 x )$$",
+        "Image Links": [],
+        "Answer": "They are the different, try $$g ( x ) = \\sin{} ( 9 x ) - \\cos{} ( 3 x ) \\sin{} ( 6 x ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use a graph to determine whether the functions are the same or different. If they are the same, show why. If they are different, replace the second function with one that is identical to the first. (Hint: think $$2 x = x + x .$$ )",
+        "Question": "$$f ( x ) = \\sin{} ( 4 x ) , g ( x ) = \\sin{} ( 5 x ) \\cos{} x - \\cos{} ( 5 x ) \\sin{} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use a graph to determine whether the functions are the same or different. If they are the same, show why. If they are different, replace the second function with one that is identical to the first. (Hint: think $$2 x = x + x .$$ )",
+        "Question": "$$f ( x ) = \\sin{} ( 2 x ) , g ( x ) = 2 \\sin{} x \\cos{} x$$",
+        "Image Links": [],
+        "Answer": "They are the same.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use a graph to determine whether the functions are the same or different. If they are the same, show why. If they are different, replace the second function with one that is identical to the first. (Hint: think $$2 x = x + x .$$ )",
+        "Question": "$$f ( \\theta ) = \\cos{} ( 2 \\theta ) , g ( \\theta ) = \\cos{}^{2} \\theta - \\sin{}^{2} \\theta$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use a graph to determine whether the functions are the same or different. If they are the same, show why. If they are different, replace the second function with one that is identical to the first. (Hint: think $$2 x = x + x .$$ )",
+        "Question": "$$f ( \\theta ) = \\tan{} ( 2 \\theta ) , g ( \\theta ) = \\frac{\\tan{\\theta}}{1 + \\tan{}^{2} \\theta}$$",
+        "Image Links": [],
+        "Answer": "They are the different, try $$g ( \\theta ) = \\frac{2 \\tan{} \\theta}{1 - \\tan{}^{2} \\theta} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use a graph to determine whether the functions are the same or different. If they are the same, show why. If they are different, replace the second function with one that is identical to the first. (Hint: think $$2 x = x + x .$$ )",
+        "Question": "$$f ( x ) = \\sin{} ( 3 x ) \\sin{} x , g ( x ) = \\sin{}^{2} ( 2 x ) \\cos{}^{2} x - \\cos{}^{2} ( 2 x ) \\sin{}^{2} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use a graph to determine whether the functions are the same or different. If they are the same, show why. If they are different, replace the second function with one that is identical to the first. (Hint: think $$2 x = x + x .$$ )",
+        "Question": "$$f ( x ) = \\tan{} ( - x ) , g ( x ) = \\frac{\\tan{x} - \\tan{} ( 2 x )}{1 - \\tan{} x \\tan{} ( 2 x )}$$",
+        "Image Links": [],
+        "Answer": "They are different, try $$g ( x ) = \\frac{\\tan{x} - \\tan{} ( 2 x )}{1 + \\tan{} x \\tan{} ( 2 x )} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, find the exact value algebraically, and then confirm the answer with a calculator to the fourth decimal point.",
+        "Question": "$$\\sin{(} 75\u00b0 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, find the exact value algebraically, and then confirm the answer with a calculator to the fourth decimal point.",
+        "Question": "$$\\sin{(} 195\u00b0 )$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{\\sqrt{3} - 1}{2 \\sqrt{2}} , \\text{or\u00a0} - 0.2588$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, find the exact value algebraically, and then confirm the answer with a calculator to the fourth decimal point.",
+        "Question": "$$\\cos{(} 165\u00b0 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, find the exact value algebraically, and then confirm the answer with a calculator to the fourth decimal point.",
+        "Question": "$$\\cos{(} 345\u00b0 )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1 + \\sqrt{3}}{2 \\sqrt{2}} ,$$ or 0.9659",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, find the exact value algebraically, and then confirm the answer with a calculator to the fourth decimal point.",
+        "Question": "$$\\tan{(} -15\u00b0 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, prove the identities provided.",
+        "Question": "$$\\tan{(} x + \\frac{\\pi}{4} ) = \\frac{\\tan{x} + 1}{1 - \\tan{} x}$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{aaa}\\tan{( x + \\frac{\\pi}{4} )} & = &  \\\\ \\frac{\\tan{x} + \\tan{} ( \\frac{\\pi}{4} )}{1 - \\tan{} x \\tan{} ( \\frac{\\pi}{4} )} & = &  \\\\ \\frac{\\tan{x} + 1}{1 - \\tan{} x ( 1 )} & = & \\frac{\\tan{x} + 1}{1 - \\tan{} x}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, prove the identities provided.",
+        "Question": "$$\\frac{\\tan{(} a + b )}{\\tan{(} a - b )} = \\frac{\\sin{a} \\cos{} a + \\sin{} b \\cos{} b}{\\sin{a} \\cos{} a - \\sin{} b \\cos{} b}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, prove the identities provided.",
+        "Question": "$$\\frac{\\cos{(} a + b )}{\\cos{a} \\cos{} b} = 1 - \\tan{} a \\tan{} b$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{aaa}\\frac{\\cos{(} a + b )}{\\cos{a} \\cos{} b} & = &  \\\\ \\frac{\\cos{a} \\cos{} b}{\\cos{a} \\cos{} b} - \\frac{\\sin{a} \\sin{} b}{\\cos{a} \\cos{} b} & = & 1 - \\tan{} a \\tan{} b\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, prove the identities provided.",
+        "Question": "$$\\cos{( x + y )} \\cos{} ( x - y ) = \\cos{}^{2} x - \\sin{}^{2} y$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, prove the identities provided.",
+        "Question": "$$\\frac{\\cos{(} x + h ) - \\cos{} x}{h} = \\cos{} x \\frac{\\cos{h} - 1}{h} - \\sin{} x \\frac{\\sin{h}}{h}$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{aaa}\\frac{\\cos{(} x + h ) - \\cos{} x}{h} & = &  \\\\ \\frac{\\cos{x} \\cosh{} - \\sin{} x \\sinh{} - \\cos{} x}{h} & = &  \\\\ \\frac{\\cos{x} ( \\cosh{} - 1 ) - \\sin{} x \\sinh{}}{h} & = & \\cos{x} \\frac{\\cos{h} - 1}{h} - \\sin{} x \\frac{\\sin{h}}{h}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, prove or disprove the statements.",
+        "Question": "$$\\tan{(} u + v ) = \\frac{\\tan{u} + \\tan{} v}{1 - \\tan{} u \\tan{} v}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, prove or disprove the statements.",
+        "Question": "$$\\tan{(} u - v ) = \\frac{\\tan{u} - \\tan{} v}{1 + \\tan{} u \\tan{} v}$$",
+        "Image Links": [],
+        "Answer": "True",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, prove or disprove the statements.",
+        "Question": "$$\\frac{\\tan{( x + y )}}{1 + \\tan{} x \\tan{} x} = \\frac{\\tan{x} + \\tan{} y}{1 - \\tan{}^{2} x \\tan{}^{2} y}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, prove or disprove the statements.",
+        "Question": "If $$\\alpha , \\beta ,$$ and $$\\gamma$$ are angles in the same triangle, then prove or disprove $$\\sin{( \\alpha + \\beta )} = \\sin{} \\gamma .$$",
+        "Image Links": [],
+        "Answer": "True. Note that $$\\text{ \u2009} \\sin{} ( \\alpha + \\beta ) = \\sin{} ( \\pi - \\gamma ) \\text{ \u2009}$$ and expand the right hand side.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, prove or disprove the statements.",
+        "Question": "If $$\\alpha , \\beta ,$$ and $$y$$ are angles in the same triangle, then prove or disprove $$\\tan{\\alpha} + \\tan{} \\beta + \\tan{} \\gamma = \\tan{} \\alpha \\tan{} \\beta \\tan{} \\gamma$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

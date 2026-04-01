@@ -1,0 +1,664 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What is the difference between an $$x \\text{-}$$ intercept and a zero of a polynomial function $$f ?$$",
+        "Image Links": [],
+        "Answer": "The $$x \\text{-}$$ intercept is where the graph of the function crosses the $$x \\text{-}$$ axis, and the zero of the function is the input value for which $$f ( x ) = 0.$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "If a polynomial function of degree $$n$$ has $$n$$ distinct zeros, what do you know about the graph of the function?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Explain how the Intermediate Value Theorem can assist us in finding a zero of a function.",
+        "Image Links": [],
+        "Answer": "If we evaluate the function at $$a$$ and at $$b$$ and the sign of the function value changes, then we know a zero exists between $$a$$ and $$b .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Explain how the factored form of the polynomial helps us in graphing it.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "If the graph of a polynomial just touches the $$x \\text{-}$$ axis and then changes direction, what can we conclude about the factored form of the polynomial?",
+        "Image Links": [],
+        "Answer": "There will be a factor raised to an even power.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the $$x \\text{-}$$ or t -intercepts of the polynomial functions.",
+        "Question": "$$C ( t ) = 2 ( t - 4 ) ( t + 1 ) ( t - 6 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the $$x \\text{-}$$ or t -intercepts of the polynomial functions.",
+        "Question": "$$C ( t ) = 3 ( t + 2 ) ( t - 3 ) ( t + 5 )$$",
+        "Image Links": [],
+        "Answer": "$$( - 2 , 0 ) , ( 3 , 0 ) , ( - 5 , 0 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the $$x \\text{-}$$ or t -intercepts of the polynomial functions.",
+        "Question": "$$C ( t ) = 4 t ( t - 2 )^{2} ( t + 1 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the $$x \\text{-}$$ or t -intercepts of the polynomial functions.",
+        "Question": "$$C ( t ) = 2 t ( t - 3 ) ( t + 1 )^{2}$$",
+        "Image Links": [],
+        "Answer": "$$( 3 , 0 ) , ( - 1 , 0 ) , ( 0 , 0 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the $$x \\text{-}$$ or t -intercepts of the polynomial functions.",
+        "Question": "$$C ( t ) = 2 t^{4} - 8 t^{3} + 6 t^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the $$x \\text{-}$$ or t -intercepts of the polynomial functions.",
+        "Question": "$$C ( t ) = 4 t^{4} + 12 t^{3} - 40 t^{2}$$",
+        "Image Links": [],
+        "Answer": "$$( 0 , 0 ) , ( - 5 , 0 ) , ( 2 , 0 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the $$x \\text{-}$$ or t -intercepts of the polynomial functions.",
+        "Question": "$$f ( x ) = x^{4} - x^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the $$x \\text{-}$$ or t -intercepts of the polynomial functions.",
+        "Question": "$$f ( x ) = x^{3} + x^{2} - 20 x$$",
+        "Image Links": [],
+        "Answer": "$$( 0 , 0 ) , ( - 5 , 0 ) , ( 4 , 0 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the $$x \\text{-}$$ or t -intercepts of the polynomial functions.",
+        "Question": "$$f ( x ) = x^{3} + 6 x^{2} - 7 x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the $$x \\text{-}$$ or t -intercepts of the polynomial functions.",
+        "Question": "$$f ( x ) = x^{3} + x^{2} - 4 x - 4$$",
+        "Image Links": [],
+        "Answer": "$$( 2 , 0 ) , ( - 2 , 0 ) , ( - 1 , 0 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the $$x \\text{-}$$ or t -intercepts of the polynomial functions.",
+        "Question": "$$f ( x ) = x^{3} + 2 x^{2} - 9 x - 18$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the $$x \\text{-}$$ or t -intercepts of the polynomial functions.",
+        "Question": "$$f ( x ) = 2 x^{3} - x^{2} - 8 x + 4$$",
+        "Image Links": [],
+        "Answer": "$$( - 2 , 0 ) , ( 2 , 0 ) , ( \\frac{1}{2} , 0 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the $$x \\text{-}$$ or t -intercepts of the polynomial functions.",
+        "Question": "$$f ( x ) = x^{6} - 7 x^{3} - 8$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the $$x \\text{-}$$ or t -intercepts of the polynomial functions.",
+        "Question": "$$f ( x ) = 2 x^{4} + 6 x^{2} - 8$$",
+        "Image Links": [],
+        "Answer": "$$( 1 , 0 ) , ( - 1 , 0 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the $$x \\text{-}$$ or t -intercepts of the polynomial functions.",
+        "Question": "$$f ( x ) = x^{3} - 3 x^{2} - x + 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the $$x \\text{-}$$ or t -intercepts of the polynomial functions.",
+        "Question": "$$f ( x ) = x^{6} - 2 x^{4} - 3 x^{2}$$",
+        "Image Links": [],
+        "Answer": "$$( 0 , 0 ) , ( \\sqrt{3} , 0 ) , ( - \\sqrt{3} , 0 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the $$x \\text{-}$$ or t -intercepts of the polynomial functions.",
+        "Question": "$$f ( x ) = x^{6} - 3 x^{4} - 4 x^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the $$x \\text{-}$$ or t -intercepts of the polynomial functions.",
+        "Question": "$$f ( x ) = x^{5} - 5 x^{3} + 4 x$$",
+        "Image Links": [],
+        "Answer": "$$( 0 , 0 )$$ , $$( 1 , 0 )$$ , $$( - 1 , 0 )$$ , $$( 2 , 0 )$$ , $$( - 2 , 0 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Intermediate Value Theorem to confirm that the given polynomial has at least one zero within the given interval.",
+        "Question": "$$f ( x ) = x^{3} - 9 x ,$$ between $$x = - 4$$ and $$x = - 2.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Intermediate Value Theorem to confirm that the given polynomial has at least one zero within the given interval.",
+        "Question": "$$f ( x ) = x^{3} - 9 x ,$$ between $$x = 2$$ and $$x = 4.$$",
+        "Image Links": [],
+        "Answer": "$$f ( 2 ) = - 10$$ and $$f ( 4 ) = 28.$$ Sign change confirms.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Intermediate Value Theorem to confirm that the given polynomial has at least one zero within the given interval.",
+        "Question": "$$f ( x ) = x^{5} - 2 x ,$$ between $$x = 1$$ and $$x = 2.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Intermediate Value Theorem to confirm that the given polynomial has at least one zero within the given interval.",
+        "Question": "$$f ( x ) = - x^{4} + 4 ,$$ between $$x = 1$$ and $$x = 3$$ .",
+        "Image Links": [],
+        "Answer": "$$f ( 1 ) = 3$$ and $$f ( 3 ) = - 77.$$ Sign change confirms.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Intermediate Value Theorem to confirm that the given polynomial has at least one zero within the given interval.",
+        "Question": "$$f ( x ) = - 2 x^{3} - x ,$$ between $$x = - 1$$ and $$x = 1.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Intermediate Value Theorem to confirm that the given polynomial has at least one zero within the given interval.",
+        "Question": "$$f ( x ) = x^{3} - 100 x + 2 ,$$ between $$x = 0.01$$ and $$x = 0.1$$",
+        "Image Links": [],
+        "Answer": "$$f ( 0.01 ) = 1.000001$$ and $$f ( 0.1 ) = - 7.999.$$ Sign change confirms.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the zeros and give the multiplicity of each.",
+        "Question": "$$f ( x ) = ( x + 2 )^{3} ( x - 3 )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the zeros and give the multiplicity of each.",
+        "Question": "$$f ( x ) = x^{2} ( 2 x + 3 )^{5} ( x - 4 )^{2}$$",
+        "Image Links": [],
+        "Answer": "0 with multiplicity 2, $$- \\frac{3}{2}$$ with multiplicity 5, 4 with multiplicity 2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the zeros and give the multiplicity of each.",
+        "Question": "$$f ( x ) = x^{3} ( x - 1 )^{3} ( x + 2 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the zeros and give the multiplicity of each.",
+        "Question": "$$f ( x ) = x^{2} ( x^{2} + 4 x + 4 )$$",
+        "Image Links": [],
+        "Answer": "0 with multiplicity 2, -2 with multiplicity 2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the zeros and give the multiplicity of each.",
+        "Question": "$$f ( x ) = ( 2 x + 1 )^{3} ( 9 x^{2} - 6 x + 1 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the zeros and give the multiplicity of each.",
+        "Question": "$$f ( x ) = ( 3 x + 2 )^{5} ( x^{2} - 10 x + 25 )$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{2}{3}$$ with multiplicity $$5 \\text{,} 5$$ with multiplicity $$2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the zeros and give the multiplicity of each.",
+        "Question": "$$f ( x ) = x ( 4 x^{2} - 12 x + 9 ) ( x^{2} + 8 x + 16 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the zeros and give the multiplicity of each.",
+        "Question": "$$f ( x ) = x^{6} - x^{5} - 2 x^{4}$$",
+        "Image Links": [],
+        "Answer": "$$0$$ with multiplicity $$4 \\text{,} 2$$ with multiplicity $$1 \\text{,} - 1$$ with multiplicity $$1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the zeros and give the multiplicity of each.",
+        "Question": "$$f ( x ) = 3 x^{4} + 6 x^{3} + 3 x^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the zeros and give the multiplicity of each.",
+        "Question": "$$f ( x ) = 4 x^{5} - 12 x^{4} + 9 x^{3}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3}{2}$$ with multiplicity 2, 0 with multiplicity 3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the zeros and give the multiplicity of each.",
+        "Question": "$$f ( x ) = 2 x^{4} ( x^{3} - 4 x^{2} + 4 x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the zeros and give the multiplicity of each.",
+        "Question": "$$f ( x ) = 4 x^{4} ( 9 x^{4} - 12 x^{3} + 4 x^{2} )$$",
+        "Image Links": [],
+        "Answer": "$$0$$ with multiplicity $$6 \\text{,} \\frac{2}{3}$$ with multiplicity $$2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the polynomial functions. Note $$x \\text{-}$$ and $$y \\text{-}$$ intercepts, multiplicity, and end behavior.",
+        "Question": "$$f ( x ) = ( x + 3 )^{2} ( x - 2 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the polynomial functions. Note $$x \\text{-}$$ and $$y \\text{-}$$ intercepts, multiplicity, and end behavior.",
+        "Question": "$$g ( x ) = ( x + 4 ) ( x - 1 )^{2}$$",
+        "Image Links": [],
+        "Answer": "x -intercepts, $$( 1, 0 )$$ with multiplicity 2, $$( - 4, 0 )$$ with multiplicity 1, $$y \\text{-}$$ intercept $$( 0, 4 )$$ . As $$x \\vec{} - \\infty$$ , $$g ( x ) \\vec{} - \\infty$$ , as $$x \\vec{} \\infty$$ , $$g ( x ) \\vec{} \\infty$$ .",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/777520270b64f7da2174f405e2c197bbcba23d2a"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the polynomial functions. Note $$x \\text{-}$$ and $$y \\text{-}$$ intercepts, multiplicity, and end behavior.",
+        "Question": "$$h ( x ) = ( x - 1 )^{3} ( x + 3 )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the polynomial functions. Note $$x \\text{-}$$ and $$y \\text{-}$$ intercepts, multiplicity, and end behavior.",
+        "Question": "$$k ( x ) = ( x - 3 )^{3} ( x - 2 )^{2}$$",
+        "Image Links": [],
+        "Answer": "x -intercepts $$( 3 , 0 )$$ with multiplicity 3, $$( 2 , 0 )$$ with multiplicity 2, $$y \\text{-}$$ intercept $$( 0 , - 108 )$$ . As $$x \\vec{} - \\infty$$ , $$k ( x ) \\vec{} - \\infty$$ , as $$x \\vec{} \\infty$$ , $$k ( x ) \\vec{} \\infty .$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5356a9599474cb1f090a76ef8a43df69414ec231"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the polynomial functions. Note $$x \\text{-}$$ and $$y \\text{-}$$ intercepts, multiplicity, and end behavior.",
+        "Question": "$$m ( x ) = - 2 x ( x - 1 ) ( x + 3 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the polynomial functions. Note $$x \\text{-}$$ and $$y \\text{-}$$ intercepts, multiplicity, and end behavior.",
+        "Question": "$$n ( x ) = - 3 x ( x + 2 ) ( x - 4 )$$",
+        "Image Links": [],
+        "Answer": "x -intercepts $$( 0, 0 ) , ( - 2, 0 ) , ( 4, 0 )$$ with multiplicity 1, $$y$$ -intercept $$( 0, 0 ) .$$ As $$x \\vec{} - \\infty$$ , $$n ( x ) \\vec{} \\infty$$ , as $$x \\vec{} \\infty$$ , $$n ( x ) \\vec{} - \\infty .$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0cdac9534d8b624147b1f40bbbd7b59656bb16d7"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graphs to write the formula for a polynomial function of least degree.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6d35101abf136d3b2bd9c5343758e18f328c8293"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graphs to write the formula for a polynomial function of least degree.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/430a35901210322268bed021d50f9455fda61041"
+        ],
+        "Answer": "$$f ( x ) = - \\frac{2}{9} ( x - 3 ) ( x + 1 ) ( x + 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graphs to write the formula for a polynomial function of least degree.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3f52bd904e33273b827881b334c2584318788a79"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graphs to write the formula for a polynomial function of least degree.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c1d36636f5704a56eedad95516fff134daacdd4c"
+        ],
+        "Answer": "$$f ( x ) = \\frac{1}{4} ( x + 2 )^{2} ( x - 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graphs to write the formula for a polynomial function of least degree.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9949eb9c7e9b3c5728ff137d826d46d9b08b717a"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graph to identify zeros and multiplicity.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b60d243cb3d4a185ad3ac8cbbcab425d6cde208d"
+        ],
+        "Answer": "-4, -2, 1, 3 with multiplicity 1",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graph to identify zeros and multiplicity.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d96eddc99c20efb04bae355770a04a3dbcfd2ce3"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graph to identify zeros and multiplicity.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8f7ea6c6b054f7e1719e3729e8afc077b22ee65c"
+        ],
+        "Answer": "-2, 3 each with multiplicity 2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graph to identify zeros and multiplicity.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6a047809d9e54a614a2d3a285dcacc8b96ae03e6"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the given information about the polynomial graph to write the equation.",
+        "Question": "Degree 3. Zeros at $$x = -2,$$ $$x = 1,$$ and $$x = 3.$$ y -intercept at $$( 0 , - 4 ) .$$",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = - \\frac{2}{3} ( x + 2 ) ( x - 1 ) ( x - 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the given information about the polynomial graph to write the equation.",
+        "Question": "Degree 3.  Zeros at $$x = \\text{-5,}$$ $$x = -2 ,$$ and $$x = 1.$$ y -intercept at $$( 0 , 6 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the given information about the polynomial graph to write the equation.",
+        "Question": "Degree 5.  Roots of multiplicity 2 at $$x = 3$$ and $$x = 1$$ , and a root of multiplicity 1 at $$x = -3.$$ y -intercept at $$( 0 , 9 )$$",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = \\frac{1}{3} ( x - 3 )^{2} ( x - 1 )^{2} ( x + 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the given information about the polynomial graph to write the equation.",
+        "Question": "Degree 4.  Root of multiplicity 2 at $$x = 4,$$ and a roots of multiplicity 1 at $$x = 1$$ and $$x = -2.$$ y -intercept at $$( 0 , \\text{-} 3 ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the given information about the polynomial graph to write the equation.",
+        "Question": "Degree 5.  Double zero at $$x = 1 ,$$ and triple zero at $$x = 3.$$ Passes through the point $$( 2 , 15 ) .$$",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = -15 ( x - 1 )^{2} ( x - 3 )^{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the given information about the polynomial graph to write the equation.",
+        "Question": "Degree 3. Zeros at $$x = 4 ,$$ $$x = 3 ,$$ and $$x = 2.$$ y -intercept at $$( 0 , -24 ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the given information about the polynomial graph to write the equation.",
+        "Question": "Degree 3. Zeros at $$x = -3 ,$$ $$x = -2$$ and $$x = 1.$$ y -intercept at $$( 0 , 12 ) .$$",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = - 2 ( x + 3 ) ( x + 2 ) ( x - 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the given information about the polynomial graph to write the equation.",
+        "Question": "Degree 5. Roots of multiplicity 2 at $$x = -3$$ and $$x = 2$$ and a root of multiplicity 1 at $$x = -2.$$ y -intercept at $$( 0 , 4 ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the given information about the polynomial graph to write the equation.",
+        "Question": "Degree 4. Roots of multiplicity 2 at $$x = \\frac{1}{2}$$ and roots of multiplicity 1 at $$x = 6$$ and $$x = -2.$$ y -intercept at $$( 0, 18 ) .$$",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = - \\frac{3}{2} ( 2 x - 1 )^{2} ( x - 6 ) ( x + 2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the given information about the polynomial graph to write the equation.",
+        "Question": "Double zero at $$x = -3$$ and triple zero at $$x = 0.$$ Passes through the point $$( 1 , 32 ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to approximate local minima and maxima or the global minimum and maximum.",
+        "Question": "$$f ( x ) = x^{3} - x - 1$$",
+        "Image Links": [],
+        "Answer": "local max $$( - \\text{.58,\u00a0-} .62 ) ,$$ local min $$( \\text{.58,\u00a0-1} \\text{.38} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to approximate local minima and maxima or the global minimum and maximum.",
+        "Question": "$$f ( x ) = 2 x^{3} - 3 x - 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to approximate local minima and maxima or the global minimum and maximum.",
+        "Question": "$$f ( x ) = x^{4} + x$$",
+        "Image Links": [],
+        "Answer": "global min $$( - \\text{.63,\u00a0-} \\text{.47} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to approximate local minima and maxima or the global minimum and maximum.",
+        "Question": "$$f ( x ) = - x^{4} + 3 x - 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to approximate local minima and maxima or the global minimum and maximum.",
+        "Question": "$$f ( x ) = x^{4} - x^{3} + 1$$",
+        "Image Links": [],
+        "Answer": "global min $$\\text{(} \\text{.75,\u00a0} \\text{.89)}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, use the graphs to write a polynomial function of least degree.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/111deb036487e32f39e33c574d66149d62151e02"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, use the graphs to write a polynomial function of least degree.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/66ee2295211e97e6c0f4c8332a77ea5d0d0b961a"
+        ],
+        "Answer": "$$f ( x ) = ( x - 500 )^{2} ( x + 200 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, use the graphs to write a polynomial function of least degree.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7b5678a0d6080c69ed91f23d6cdd403c1c960b4f"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, write the polynomial function that models the given situation.",
+        "Question": "A rectangle has a length of 10 units and a width of 8 units. Squares of $$x$$ by $$x$$ units are cut out of each corner, and then the sides are folded up to create an open box. Express the volume of the box as a polynomial function in terms of $$x .$$",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = 4 x^{3} - 36 x^{2} + 80 x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, write the polynomial function that models the given situation.",
+        "Question": "Consider the same rectangle of the preceding problem. Squares of $$2 x$$ by $$2 x$$ units are cut out of each corner. Express the volume of the box as a polynomial in terms of $$x .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, write the polynomial function that models the given situation.",
+        "Question": "A square has sides of 12 units. Squares $$x + 1$$ by $$x + 1$$ units are cut out of each corner, and then the sides are folded up to create an open box. Express the volume of the box as a function in terms of $$x .$$",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = 4 x^{3} - 36 x^{2} + 60 x + 100$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, write the polynomial function that models the given situation.",
+        "Question": "A cylinder has a radius of $$x + 2$$ units and a height of 3 units greater. Express the volume of the cylinder as a polynomial function.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, write the polynomial function that models the given situation.",
+        "Question": "A right circular cone has a radius of $$3 x + 6$$ and a height 3 units less. Express the volume of the cone as a polynomial function. The volume of a cone is $$V = \\frac{1}{3} \\pi r^{2} h$$ for radius $$r$$ and height $$h .$$",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = 9 \\pi ( x^{3} + 5 x^{2} + 8 x + 4 )$$",
+        "Answer Image Links": []
+    }
+]

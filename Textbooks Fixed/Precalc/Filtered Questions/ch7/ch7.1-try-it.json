@@ -1,0 +1,20 @@
+[
+  {
+    "Topic": "Try It #4",
+    "Problem Statement": "",
+    "Question": "Rewrite the trigonometric expression: $$25 - 9 \\sin{}^{2} \\theta .$$",
+    "Image Links": [],
+    "Answer": "This is a difference of squares formula: $$25 - 9 \\sin{}^{2} \\theta = ( 5 - 3 \\sin{} \\theta ) ( 5 + 3 \\sin{} \\theta ) .$$",
+    "Answer Image Links": [],
+    "o3 Answer": "Starting expression  25 − 9 sin²θ\n\n1.  Use the Pythagorean identity sin²θ = 1 − cos²θ.\n\n 25 − 9 sin²θ\n = 25 − 9(1 − cos²θ)\n = 25 − 9 + 9 cos²θ\n = 16 + 9 cos²θ\n\nHence, rewritten in terms of cosine: 25 − 9 sin²θ = 16 + 9 cos²θ.\n\n(If desired, you can also show the difference-of-squares factorization:\n25 − 9 sin²θ = (5 − 3 sinθ)(5 + 3 sinθ).)",
+    "o4-mini Answer": "You can use either the Pythagorean identity or recognize it as a difference of squares:\n\n1.  Pythagorean identity  \n   sin²θ = 1 – cos²θ  \n   ⇒ 25 – 9 sin²θ = 25 – 9(1 – cos²θ)  \n                   = 25 – 9 + 9 cos²θ  \n                   = 16 + 9 cos²θ  \n\n2.  Difference of squares  \n   25 – 9 sin²θ = (5)² – (3 sinθ)²  \n                = (5 – 3 sinθ)(5 + 3 sinθ)",
+    "deepseek-chat Answer": "To rewrite the trigonometric expression \\( 25 - 9 \\sin^{2} \\theta \\), we can follow these steps:\n\n1. **Factor the Expression:**\n   \n   Notice that both terms are perfect squares:\n   \\[\n   25 = 5^2 \\quad \\text{and} \\quad 9 \\sin^{2} \\theta = (3 \\sin \\theta)^2\n   \\]\n   \n   So, the expression can be written as:\n   \\[\n   25 - 9 \\sin^{2} \\theta = 5^2 - (3 \\sin \\theta)^2\n   \\]\n\n2. **Apply the Difference of Squares Formula:**\n   \n   Recall the algebraic identity:\n   \\[\n   a^2 - b^2 = (a + b)(a - b)\n   \\]\n   \n   Applying this to our expression:\n   \\[\n   5^2 - (3 \\sin \\theta)^2 = (5 + 3 \\sin \\theta)(5 - 3 \\sin \\theta)\n   \\]\n\n3. **Final Expression:**\n   \n   Therefore, the rewritten form of the original expression is:\n   \\[\n   25 - 9 \\sin^{2} \\theta = (5 + 3 \\sin \\theta)(5 - 3 \\sin \\theta)\n   \\]\n\nAlternatively, if you're looking to express it in terms of another trigonometric function (like cosine), you could use the Pythagorean identity:\n\\[\n\\sin^{2} \\theta + \\cos^{2} \\theta = 1 \\quad \\Rightarrow \\quad \\sin^{2} \\theta = 1 - \\cos^{2} \\theta\n\\]\nSubstituting this into the original expression:\n\\[\n25 - 9 \\sin^{2} \\theta = 25 - 9(1 - \\cos^{2} \\theta) = 25 - 9 + 9 \\cos^{2} \\theta = 16 + 9 \\cos^{2} \\theta\n\\]\nHowever, based on the original instruction to simply rewrite the expression, the factored form is the most straightforward.\n\n**Final Answer:**\n\\[\n\\boxed{(5 + 3 \\sin \\theta)(5 - 3 \\sin \\theta)}\n\\]",
+    "gemini-2.5-pro Answer": "Of course! Here is the step-by-step solution to rewrite the trigonometric expression.\n\n### Problem:\nRewrite the trigonometric expression: $$25 - 9 \\sin{}^{2} \\theta$$\n\n### Solution:\n\nThe key to rewriting this expression is to recognize that it fits the algebraic pattern of a **difference of squares**.\n\nThe difference of squares formula is:\n$$a^2 - b^2 = (a - b)(a + b)$$\n\n**Step 1: Identify the 'a' and 'b' terms in the expression.**\n\n*   Look at the first term: `25`. This is a perfect square, so $$a^2 = 25 \\implies a = 5$$\n*   Look at the second term: `9 sin²θ`. This is also a perfect square, so $$b^2 = 9 \\sin^2\\theta \\implies b = \\sqrt{9 \\sin^2\\theta} = 3 \\sin\\theta$$\n\n**Step 2: Apply the difference of squares formula.**\n\nNow, substitute `a = 5` and `b = 3 sinθ` into the formula `(a - b)(a + b)`:\n\n$$(5 - 3 \\sin\\theta)(5 + 3 \\sin\\theta)$$\n\n### Final Answer:\n\nThe rewritten expression is:\n$$ (5 - 3 \\sin\\theta)(5 + 3 \\sin\\theta) $$",
+    "gpt-5 Answer": "Using sin^2θ = 1 − cos^2θ:\n25 − 9 sin^2θ = 25 − 9(1 − cos^2θ) = 16 + 9 cos^2θ.\n\n(Alternatively, it factors as (5 − 3 sinθ)(5 + 3 sinθ).)",
+    "o3 Eval": true,
+    "o4-mini Eval": true,
+    "deepseek-chat Eval": true,
+    "gemini-2.5-pro Eval": true,
+    "gpt-5 Eval": true
+  }
+]

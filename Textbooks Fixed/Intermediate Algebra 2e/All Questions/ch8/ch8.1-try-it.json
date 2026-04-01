@@ -1,0 +1,194 @@
+[
+    {
+        "Topic": "Try It 8.1",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\text{unicode[:-]} \\sqrt{64}$$ \u24d1 $$\\sqrt{225} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-8$$ \u24d1 15",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.2",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{100}$$ \u24d1 $$\\text{unicode[:-]} \\sqrt{121} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 10 \u24d1 $$-11$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.3",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{-169}$$ \u24d1 $$\\text{unicode[:-]} \\sqrt{81} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 not a real number \u24d1 $$-9$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.4",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\text{unicode[:-]} \\sqrt{49}$$ \u24d1 $$\\sqrt{-121} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-7$$ \u24d1 not a real number",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.5",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt[3]{27}$$ \u24d1 $$\\sqrt[4]{256}$$ \u24d2 $$\\sqrt[5]{243} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 3 \u24d1 4 \u24d2 3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.6",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt[3]{1000}$$ \u24d1 $$\\sqrt[4]{16}$$ \u24d2 $$\\sqrt[5]{1024} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 10 \u24d1 2 \u24d2 4",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.7",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt[3]{-27}$$ \u24d1 $$\\sqrt[4]{-256}$$ \u24d2 $$\\sqrt[5]{-32} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-3$$ \u24d1 not real \u24d2 $$-2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.8",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt[3]{-216}$$ \u24d1 $$\\sqrt[4]{-81}$$ \u24d2 $$\\sqrt[5]{-1024} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-6$$ \u24d1 not real \u24d2 $$-4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.9",
+        "Problem Statement": "",
+        "Question": "Estimate each root between two consecutive whole numbers: \u24d0 $$\\sqrt{38}$$ \u24d1 $$\\sqrt[3]{93}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$6 < \\sqrt{38} < 7$$ \u24d1 $$4 < \\sqrt[3]{93} < 5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.10",
+        "Problem Statement": "",
+        "Question": "Estimate each root between two consecutive whole numbers: \u24d0 $$\\sqrt{84}$$ \u24d1 $$\\sqrt[3]{152}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$9 < \\sqrt{84} < 10$$ \u24d1 $$5 < \\sqrt[3]{152} < 6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.11",
+        "Problem Statement": "",
+        "Question": "Round to two decimal places: \u24d0 $$\\sqrt{11}$$ \u24d1 $$\\sqrt[3]{71}$$ \u24d2 $$\\sqrt[4]{127} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\approx 3.32$$ \u24d1 $$\\approx 4.14$$ \u24d2 $$\\approx 3.36$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.12",
+        "Problem Statement": "",
+        "Question": "Round to two decimal places: \u24d0 $$\\sqrt{13}$$ \u24d1 $$\\sqrt[3]{84}$$ \u24d2 $$\\sqrt[4]{98} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\approx 3.61$$ \u24d1 $$\\approx 4.38$$ \u24d2 $$\\approx 3.15$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.13",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{b^{2}}$$ \u24d1 $$\\sqrt[3]{w^{3}}$$ \u24d2 $$\\sqrt[4]{m^{4}}$$ \u24d3 $$\\sqrt[5]{q^{5}} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$| b |$$ \u24d1 w \u24d2 $$| m |$$ \u24d3 q",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.14",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{y^{2}}$$ \u24d1 $$\\sqrt[3]{p^{3}}$$ \u24d2 $$\\sqrt[4]{z^{4}}$$ \u24d3 $$\\sqrt[5]{q^{5}} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$| y |$$ \u24d1 p \u24d2 $$| z |$$ \u24d3 q",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.15",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{y^{18}}$$ \u24d1 $$\\sqrt{z^{12}} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$| y^{9} |$$ \u24d1 $$z^{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.16",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{m^{4}}$$ \u24d1 $$\\sqrt{b^{10}} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$m^{2}$$ \u24d1 $$| b^{5} |$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.17",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt[4]{u^{12}}$$ \u24d1 $$\\sqrt[3]{v^{15}} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$| u^{3} |$$ \u24d1 $$v^{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.18",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt[5]{c^{20}}$$ \u24d1 $$\\sqrt[6]{d^{24}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$c^{4}$$ \u24d1 $$d^{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.19",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{64 x^{2}}$$ \u24d1 $$\\text{unicode[:-]} \\sqrt{100 p^{2}} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$8 | x |$$ \u24d1 $$-10 | p |$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.20",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{169 y^{2}}$$ \u24d1 $$\\text{unicode[:-]} \\sqrt{121 y^{2}} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$13 | y |$$ \u24d1 $$-11 | y |$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.21",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt[3]{27 x^{27}}$$ \u24d1 $$\\sqrt[4]{81 q^{28}} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$3 x^{9}$$ \u24d1 $$3 | q^{7} |$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.22",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt[3]{125 q^{9}}$$ \u24d1 $$\\sqrt[5]{243 q^{25}} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$5 q^{3}$$ \u24d1 $$3 q^{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.23",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{100 a^{2} b^{2}}$$ \u24d1 $$\\sqrt{144 p^{12} q^{20}}$$ \u24d2 $$\\sqrt[3]{8 x^{30} y^{12}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$10 | a b |$$ \u24d1 $$12 p^{6} q^{10}$$ \u24d2 $$2 x^{10} y^{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.24",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{225 m^{2} n^{2}}$$ \u24d1 $$\\sqrt{169 x^{10} y^{14}}$$ \u24d2 $$\\sqrt[3]{27 w^{36} z^{15}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$15 | m n |$$ \u24d1 $$13 | x^{5} y^{7} |$$ \u24d2 $$3 w^{12} z^{5}$$",
+        "Answer Image Links": []
+    }
+]

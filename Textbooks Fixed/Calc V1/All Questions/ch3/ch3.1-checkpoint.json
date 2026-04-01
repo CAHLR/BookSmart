@@ -1,0 +1,42 @@
+[
+    {
+        "Topic": "Checkpoint 3.1",
+        "Problem Statement": "",
+        "Question": "Find the slope of the line tangent to the graph of $$f ( x ) = \\sqrt{x}$$ at $$x = 4 .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.2",
+        "Problem Statement": "",
+        "Question": "For $$f ( x ) = x^{2} ,$$ use a table to estimate $$f^{\\prime} ( 3 )$$ using Equation 3.6 .",
+        "Image Links": [],
+        "Answer": "$$6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.3",
+        "Problem Statement": "",
+        "Question": "For $$f ( x ) = x^{2} + 3 x + 2 ,$$ find $$f^{\\prime} ( 1 ) .$$",
+        "Image Links": [],
+        "Answer": "$$f^{\\prime} ( 1 ) = 5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.4",
+        "Problem Statement": "",
+        "Question": "A rock is dropped from a height of $$64$$ feet. Its height above ground at time $$t$$ seconds later is given by $$s ( t ) = -16 t^{2} + 64 , 0 \\le t \\le 2 .$$ Find its instantaneous velocity $$1$$ second after it is dropped, using Equation 3.5 .",
+        "Image Links": [],
+        "Answer": "$$-32$$ ft/s",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.5",
+        "Problem Statement": "",
+        "Question": "A coffee shop determines that the daily profit on scones obtained by charging $$s$$ dollars per scone is $$P ( s ) = -20 s^{2} + 150 s - 10 .$$ The coffee shop currently charges $$\\text{$} 3.25$$ per scone. Find $$P^{\\prime} ( 3.25 ) ,$$ the rate of change of profit when the price is $$\\text{$} 3.25$$ and decide whether or not the coffee shop should consider raising or lowering its prices on scones.",
+        "Image Links": [],
+        "Answer": "$$P^{\\prime} ( 3.25 ) = 20 > 0 ;$$ raise prices",
+        "Answer Image Links": []
+    }
+]

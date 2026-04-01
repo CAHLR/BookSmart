@@ -1,0 +1,106 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next seven exercises. An article in the New England Journal of Medicine , reported about a study of smokers in California and Hawaii. In one part of the report, the self-reported ethnicity and smoking levels per day were given. Of the people smoking at most ten cigarettes per day, there were 9,886 Black people, 2,745 Native Hawaiian people, 12,831 Latino people, 8,378 Japanese American people, and 7,650 White people. Of the people smoking 11 to 20 cigarettes per day, there were 6,514 Black people, 3,062 Native Hawaiian people, 4,932 Latino people, 10,680 Japanese American people, and 9,877 White people. Of the people smoking 21 to 30 cigarettes per day, there were 1,671 Black people, 1,419 Native Hawaiian people, 1,406 Latino people, 4,715 Japanese American people, and 6,062 White people. Of the people smoking at least 31 cigarettes per day, there were 759 Black people, 788 Native Hawaiian people, 800 Latino people, 2,305 Japanese American people, and 3,970 White people.",
+        "Question": "Complete the table using the data provided. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\hline\nSmoking level & Black people & Native Hawaiian & Latino & Japanese American & White people & TOTALS \\\\ \\hline\n1-10 &  &  &  &  &  &  \\\\ \\hline\n11-20 &  &  &  &  &  &  \\\\ \\hline\n21-30 &  &  &  &  &  &  \\\\ \\hline\n31+ &  &  &  &  &  &  \\\\ \\hline\nTOTALS &  &  &  &  &  &  \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next seven exercises. An article in the New England Journal of Medicine , reported about a study of smokers in California and Hawaii. In one part of the report, the self-reported ethnicity and smoking levels per day were given. Of the people smoking at most ten cigarettes per day, there were 9,886 Black people, 2,745 Native Hawaiian people, 12,831 Latino people, 8,378 Japanese American people, and 7,650 White people. Of the people smoking 11 to 20 cigarettes per day, there were 6,514 Black people, 3,062 Native Hawaiian people, 4,932 Latino people, 10,680 Japanese American people, and 9,877 White people. Of the people smoking 21 to 30 cigarettes per day, there were 1,671 Black people, 1,419 Native Hawaiian people, 1,406 Latino people, 4,715 Japanese American people, and 6,062 White people. Of the people smoking at least 31 cigarettes per day, there were 759 Black people, 788 Native Hawaiian people, 800 Latino people, 2,305 Japanese American people, and 3,970 White people.",
+        "Question": "Suppose that one person from the study is randomly selected. Find the probability that person smoked 11 to 20 cigarettes per day.",
+        "Image Links": [],
+        "Answer": "$$\\frac{35,065}{100,450}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next seven exercises. An article in the New England Journal of Medicine , reported about a study of smokers in California and Hawaii. In one part of the report, the self-reported ethnicity and smoking levels per day were given. Of the people smoking at most ten cigarettes per day, there were 9,886 Black people, 2,745 Native Hawaiian people, 12,831 Latino people, 8,378 Japanese American people, and 7,650 White people. Of the people smoking 11 to 20 cigarettes per day, there were 6,514 Black people, 3,062 Native Hawaiian people, 4,932 Latino people, 10,680 Japanese American people, and 9,877 White people. Of the people smoking 21 to 30 cigarettes per day, there were 1,671 Black people, 1,419 Native Hawaiian people, 1,406 Latino people, 4,715 Japanese American people, and 6,062 White people. Of the people smoking at least 31 cigarettes per day, there were 759 Black people, 788 Native Hawaiian people, 800 Latino people, 2,305 Japanese American people, and 3,970 White people.",
+        "Question": "Find the probability that the person was Latino.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next seven exercises. An article in the New England Journal of Medicine , reported about a study of smokers in California and Hawaii. In one part of the report, the self-reported ethnicity and smoking levels per day were given. Of the people smoking at most ten cigarettes per day, there were 9,886 Black people, 2,745 Native Hawaiian people, 12,831 Latino people, 8,378 Japanese American people, and 7,650 White people. Of the people smoking 11 to 20 cigarettes per day, there were 6,514 Black people, 3,062 Native Hawaiian people, 4,932 Latino people, 10,680 Japanese American people, and 9,877 White people. Of the people smoking 21 to 30 cigarettes per day, there were 1,671 Black people, 1,419 Native Hawaiian people, 1,406 Latino people, 4,715 Japanese American people, and 6,062 White people. Of the people smoking at least 31 cigarettes per day, there were 759 Black people, 788 Native Hawaiian people, 800 Latino people, 2,305 Japanese American people, and 3,970 White people.",
+        "Question": "In words, explain what it means to pick one person from the study who is \u201cJapanese American AND smokes 21 to 30 cigarettes per day.\u201d Also, find the probability.",
+        "Image Links": [],
+        "Answer": "To pick one person from the study who is Japanese American AND smokes 21 to 30 cigarettes per day means that the person has to meet both criteria: both Japanese American and smokes 21 to 30 cigarettes. The sample space should include everyone in the study. The probability is $$\\frac{4,715}{100,450}$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next seven exercises. An article in the New England Journal of Medicine , reported about a study of smokers in California and Hawaii. In one part of the report, the self-reported ethnicity and smoking levels per day were given. Of the people smoking at most ten cigarettes per day, there were 9,886 Black people, 2,745 Native Hawaiian people, 12,831 Latino people, 8,378 Japanese American people, and 7,650 White people. Of the people smoking 11 to 20 cigarettes per day, there were 6,514 Black people, 3,062 Native Hawaiian people, 4,932 Latino people, 10,680 Japanese American people, and 9,877 White people. Of the people smoking 21 to 30 cigarettes per day, there were 1,671 Black people, 1,419 Native Hawaiian people, 1,406 Latino people, 4,715 Japanese American people, and 6,062 White people. Of the people smoking at least 31 cigarettes per day, there were 759 Black people, 788 Native Hawaiian people, 800 Latino people, 2,305 Japanese American people, and 3,970 White people.",
+        "Question": "In words, explain what it means to pick one person from the study who is \u201cJapanese American $$\\cup$$ smokes 21 to 30 cigarettes per day.\u201d Also, find the probability.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next seven exercises. An article in the New England Journal of Medicine , reported about a study of smokers in California and Hawaii. In one part of the report, the self-reported ethnicity and smoking levels per day were given. Of the people smoking at most ten cigarettes per day, there were 9,886 Black people, 2,745 Native Hawaiian people, 12,831 Latino people, 8,378 Japanese American people, and 7,650 White people. Of the people smoking 11 to 20 cigarettes per day, there were 6,514 Black people, 3,062 Native Hawaiian people, 4,932 Latino people, 10,680 Japanese American people, and 9,877 White people. Of the people smoking 21 to 30 cigarettes per day, there were 1,671 Black people, 1,419 Native Hawaiian people, 1,406 Latino people, 4,715 Japanese American people, and 6,062 White people. Of the people smoking at least 31 cigarettes per day, there were 759 Black people, 788 Native Hawaiian people, 800 Latino people, 2,305 Japanese American people, and 3,970 White people.",
+        "Question": "In words, explain what it means to pick one person from the study who is \u201cJapanese American $$|$$ that person smokes 21 to 30 cigarettes per day.\u201d Also, find the probability.",
+        "Image Links": [],
+        "Answer": "To pick one person from the study who is Japanese American given that person smokes 21-30 cigarettes per day, means that the person must fulfill both criteria and the sample space is reduced to those who smoke 21-30 cigarettes per day. The probability is $$\\frac{4715}{15,273}$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next seven exercises. An article in the New England Journal of Medicine , reported about a study of smokers in California and Hawaii. In one part of the report, the self-reported ethnicity and smoking levels per day were given. Of the people smoking at most ten cigarettes per day, there were 9,886 Black people, 2,745 Native Hawaiian people, 12,831 Latino people, 8,378 Japanese American people, and 7,650 White people. Of the people smoking 11 to 20 cigarettes per day, there were 6,514 Black people, 3,062 Native Hawaiian people, 4,932 Latino people, 10,680 Japanese American people, and 9,877 White people. Of the people smoking 21 to 30 cigarettes per day, there were 1,671 Black people, 1,419 Native Hawaiian people, 1,406 Latino people, 4,715 Japanese American people, and 6,062 White people. Of the people smoking at least 31 cigarettes per day, there were 759 Black people, 788 Native Hawaiian people, 800 Latino people, 2,305 Japanese American people, and 3,970 White people.",
+        "Question": "Prove that smoking level/day and ethnicity are dependent events.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next two exercises. Suppose that you have eight cards. Five are green and three are yellow. The cards are well shuffled.",
+        "Question": "Suppose that you randomly draw two cards, one at a time, with replacement . Let G 1 = first card is green Let G 2 = second card is green a) Draw a tree diagram of the situation. b) Find P ( G 1 $$\\cap$$ G 2 ). c) Find P (at least one green). d) Find P ( G 2 $$|$$ G 1 ). e) Are G 2 and G 1 independent events?  Explain why or why not.",
+        "Image Links": [],
+        "Answer": "a) Figure 3.22 b) P ( GG ) = $$( \\frac{5}{8} ) ( \\frac{5}{8} )$$ = $$\\frac{25}{64}$$ c) P (at least one green) = P ( GG ) + P ( GY ) + P ( YG ) = $$\\frac{25}{64}$$ + $$\\frac{15}{64}$$ + $$\\frac{15}{64}$$ = $$\\frac{55}{64}$$ d) P ( G $$|$$ G ) = $$\\frac{5}{8}$$ e) Yes, they are independent because the first card is placed back in the bag before the second card is drawn; the composition of cards in the bag remains the same from draw one to draw two.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next two exercises. Suppose that you have eight cards. Five are green and three are yellow. The cards are well shuffled.",
+        "Question": "Suppose that you randomly draw two cards, one at a time, without replacement . G 1 = first card is green G 2 = second card is green a) Draw a tree diagram of the situation. b) Find P ( G 1 $$\\cap$$ G 2 ). c) Find P (at least one green). d) Find P ( G 2 $$|$$ G 1 ). e) Are G 2 and G 1 independent events? Explain why or why not.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next two exercises. The percent of licensed U.S. drivers (from a recent year) that are women is 48.60. Of the women, 5.03% are age 19 and under; 81.36% are age 20-64; 13.61% are age 65 or over. Of the licensed U.S. men drivers, 5.04% are age 19 and under; 81.43% are age 20-64; 13.53% are age 65 or over.",
+        "Question": "Complete the following. a) Construct a table or a tree diagram of the situation. b) Find P (driver is a woman). c) Find P (driver is age 65 or over $$|$$ driver is a woman). d) Find P (driver is age 65 or over $$\\cap$$ a woman). e) In words, explain the difference between the probabilities in part c and part d. f) Find P (driver is age 65 or over). g) Are being age 65 or over and being a woman mutually exclusive events? How do you know?",
+        "Image Links": [],
+        "Answer": "a) \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\n & <20 & 20-64 & >64 & Totals \\\\ \\hline\nFemale & 0.0244 & 0.3954 & 0.0661 & 0.486 \\\\ \\hline\nMale & 0.0259 & 0.4186 & 0.0695 & 0.514 \\\\ \\hline\nTotals & 0.0503 & 0.8140 & 0.1356 & 1 \\\\ \\hline\n\\end{tabular}\n\\end{table} b) P ( F ) = 0.486 c) P (>64 $$|$$ F ) = 0.1361 d) P (>64 and F ) = P ( F ) P (>64| F ) = (0.486)(0.1361) = 0.0661 e) P (>64 $$|$$ F ) is the percentage of female drivers who are 65 or older and P (>64 $$\\cap$$ F ) is the percentage of drivers who are female and 65 or older. f) P (> 64 ) = P (>64 $$\\cap$$ F ) + P (>64 $$\\cap$$ M ) = 0.1356 g) No, being female and 65 or older are not mutually exclusive because they can occur at the same time  P(>64 $$\\cap$$ F ) = 0.0661.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next two exercises. The percent of licensed U.S. drivers (from a recent year) that are women is 48.60. Of the women, 5.03% are age 19 and under; 81.36% are age 20-64; 13.61% are age 65 or over. Of the licensed U.S. men drivers, 5.04% are age 19 and under; 81.43% are age 20-64; 13.53% are age 65 or over.",
+        "Question": "Suppose that 10,000 U.S. licensed drivers are randomly selected. a) How many would you expect to be men? b) Using the table or tree diagram, construct a contingency table of gender versus age group. c) Using the contingency table, find the probability that out of the age 20-64 group, a randomly selected driver is a woman.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next two exercises. The percent of licensed U.S. drivers (from a recent year) that are women is 48.60. Of the women, 5.03% are age 19 and under; 81.36% are age 20-64; 13.61% are age 65 or over. Of the licensed U.S. men drivers, 5.04% are age 19 and under; 81.43% are age 20-64; 13.53% are age 65 or over.",
+        "Question": "Approximately 86.5% of Americans commute to work by car, truck, or van. Out of that group, 84.6% drive alone and 15.4% drive in a carpool. Approximately 3.9% walk to work and approximately 5.3% take public transportation. a) Construct a table or a tree diagram of the situation. Include a branch for all other modes of transportation to work. b) Assuming that the walkers walk alone, what percent of all commuters travel alone to work? c) Suppose that 1,000 workers are randomly selected. How many would you expect to travel alone to work? d) Suppose that 1,000 workers are randomly selected. How many would you expect to drive in a carpool?",
+        "Image Links": [],
+        "Answer": "a) \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\n & Car, truck or van & Walk & Public transportation & Other & Totals \\\\ \\hline\nAlone & 0.7318 &  &  &  &  \\\\ \\hline\nNot alone & 0.1332 &  &  &  &  \\\\ \\hline\nTotals & 0.8650 & 0.0390 & 0.0530 & 0.0430 & 1 \\\\ \\hline\n\\end{tabular}\n\\end{table} b) If we assume that all walkers are alone and that none from the other two groups travel alone (which is a big assumption) we have: P (Alone) = 0.7318 + 0.0390 = 0.7708. c) Make the same assumptions as in (b) we have: (0.7708)(1,000) = 771 d) (0.1332)(1,000) = 133",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next two exercises. The percent of licensed U.S. drivers (from a recent year) that are women is 48.60. Of the women, 5.03% are age 19 and under; 81.36% are age 20-64; 13.61% are age 65 or over. Of the licensed U.S. men drivers, 5.04% are age 19 and under; 81.43% are age 20-64; 13.53% are age 65 or over.",
+        "Question": "When the Euro coin was introduced in 2002, two math professors had their statistics students test whether the Belgian one Euro coin was a fair coin. They spun the coin rather than tossing it and found that out of 250 spins, 140 showed a head (event H ) while 110 showed a tail (event T ). On that basis, they claimed that it is not a fair coin. a) Based on the given data, find P ( H ) and P ( T ). b) Use a tree to find the probabilities of each possible outcome for the experiment of tossing the coin twice. c) Use the tree to find the probability of obtaining exactly one head in two tosses of the coin. d) Use the tree to find the probability of obtaining at least one head.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

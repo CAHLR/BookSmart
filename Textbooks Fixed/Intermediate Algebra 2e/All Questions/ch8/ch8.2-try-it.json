@@ -1,0 +1,210 @@
+[
+    {
+        "Topic": "Try It 8.25",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\sqrt{48} .$$",
+        "Image Links": [],
+        "Answer": "$$4 \\sqrt{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.26",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\sqrt{45} .$$",
+        "Image Links": [],
+        "Answer": "$$3 \\sqrt{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.27",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{288}$$ \u24d1 $$\\sqrt[3]{81}$$ \u24d2 $$\\sqrt[4]{64} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$12 \\sqrt{2}$$ \u24d1 $$3 \\sqrt[3]{3}$$ \u24d2 $$2 \\sqrt[4]{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.28",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{432}$$ \u24d1 $$\\sqrt[3]{625}$$ \u24d2 $$\\sqrt[4]{729} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$12 \\sqrt{3}$$ \u24d1 $$5 \\sqrt[3]{5}$$ \u24d2 $$3 \\sqrt[4]{9}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.29",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{b^{5}}$$ \u24d1 $$\\sqrt[4]{y^{6}}$$ \u24d2 $$\\sqrt[3]{z^{5}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$b^{2} \\sqrt{b}$$ \u24d1 $$| y | \\sqrt[4]{y^{2}}$$ \u24d2 $$z \\sqrt[3]{z^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.30",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{p^{9}}$$ \u24d1 $$\\sqrt[5]{y^{8}}$$ \u24d2 $$\\sqrt[6]{q^{13}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$p^{4} \\sqrt{p}$$ \u24d1 $$y \\sqrt[5]{y^{3}}$$ \u24d2 $$q^{2} \\sqrt[6]{q}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.31",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{32 y^{5}}$$ \u24d1 $$\\sqrt[3]{54 p^{10}}$$ \u24d2 $$\\sqrt[4]{64 q^{10}} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$4 y^{2} \\sqrt{2 y}$$ \u24d1 $$3 p^{3} \\sqrt[3]{2 p}$$ \u24d2 $$2 q^{2} \\sqrt[4]{4 q^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.32",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{75 a^{9}}$$ \u24d1 $$\\sqrt[3]{128 m^{11}}$$ \u24d2 $$\\sqrt[4]{162 n^{7}} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$5 a^{4} \\sqrt{3 a}$$ \u24d1 $$4 m^{3} \\sqrt[3]{2 m^{2}}$$ \u24d2 $$3 | n | \\sqrt[4]{2 n^{3}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.33",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{98 a^{7} b^{5}}$$ \u24d1 $$\\sqrt[3]{56 x^{5} y^{4}}$$ \u24d2 $$\\sqrt[4]{32 x^{5} y^{8}} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$7 | a^{3} | b^{2} \\sqrt{2 a b}^{}$$ \u24d1 $$2 x y \\sqrt[3]{7 x^{2} y}$$ \u24d2 $$2 | x | y^{2} \\sqrt[4]{2 x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.34",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{180 m^{9} n^{11}}$$ \u24d1 $$\\sqrt[3]{72 x^{6} y^{5}}$$ \u24d2 $$\\sqrt[4]{80 x^{7} y^{4}} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$6 m^{4} | n^{5} | \\sqrt{5 m n}$$ \u24d1 $$2 x^{2} y \\sqrt[3]{9 y^{2}}$$ \u24d2 $$2 | x y | \\sqrt[4]{5 x^{3}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.35",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt[3]{-64}$$ \u24d1 $$\\sqrt[4]{-81} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-4$$ \u24d1 $$\\text{no real number}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.36",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt[3]{-625}$$ \u24d1 $$\\sqrt[4]{-324} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-5 \\sqrt[3]{5}$$ \u24d1 no real number",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.37",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$5 + \\sqrt{75}$$ \u24d1 $$\\frac{10 - \\sqrt{75}}{5}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$5 + 5 \\sqrt{3}$$ \u24d1 $$2 - \\sqrt{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.38",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$2 + \\sqrt{98}$$ \u24d1 $$\\frac{6 - \\sqrt{45}}{3}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$2 + 7 \\sqrt{2}$$ \u24d1 $$2 - \\sqrt{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.39",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{\\frac{75}{48}}$$ \u24d1 $$\\sqrt[3]{\\frac{54}{250}}$$ \u24d2 $$\\sqrt[4]{\\frac{32}{162}} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{5}{4}$$ \u24d1 $$\\frac{3}{5}$$ \u24d2 $$\\frac{2}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.40",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{\\frac{98}{162}}$$ \u24d1 $$\\sqrt[3]{\\frac{24}{375}}$$ \u24d2 $$\\sqrt[4]{\\frac{4}{324}} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{7}{9}$$ \u24d1 $$\\frac{2}{5}$$ \u24d2 $$\\frac{1}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.41",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{\\frac{a^{8}}{a^{6}}}$$ \u24d1 $$\\sqrt[4]{\\frac{x^{7}}{x^{3}}}$$ \u24d2 $$\\sqrt[4]{\\frac{y^{17}}{y^{5}}} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$| a |$$ \u24d1 $$| x |$$ \u24d2 $$y^{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.42",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{\\frac{x^{14}}{x^{10}}}$$ \u24d1 $$\\sqrt[3]{\\frac{m^{13}}{m^{7}}}$$ \u24d2 $$\\sqrt[5]{\\frac{n^{12}}{n^{2}}} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$x^{2}$$ \u24d1 $$m^{2}$$ \u24d2 $$n^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.43",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\sqrt{\\frac{24 p^{3}}{49}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2 | p | \\sqrt{6 p}}{7}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.44",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\sqrt{\\frac{48 x^{5}}{100}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2 x^{2} \\sqrt{3 x}}{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.45",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{\\frac{80 m^{3}}{n^{6}}}$$ \u24d1 $$\\sqrt[3]{\\frac{108 c^{10}}{d^{6}}}$$ \u24d2 $$\\sqrt[4]{\\frac{80 x^{10}}{y^{4}}} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{4 | m | \\sqrt{5 m}}{| n^{3} |}$$ \u24d1 $$\\frac{3 c^{3} \\sqrt[3]{4 c}}{d^{2}}$$ \u24d2 $$\\frac{2 x^{2} \\sqrt[4]{5 x^{2}}}{| y |}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.46",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{\\frac{54 u^{7}}{v^{8}}}$$ \u24d1 $$\\sqrt[3]{\\frac{40 r^{3}}{s^{6}}}$$ \u24d2 $$\\sqrt[4]{\\frac{162 m^{14}}{n^{12}}} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{3 u^{3} \\sqrt{6 u}}{v^{4}}$$ \u24d1 $$\\frac{2 r \\sqrt[3]{5}}{s^{2}}$$ \u24d2 $$\\frac{3 | m^{3} | \\sqrt[4]{2 m^{2}}}{| n^{3} |}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.47",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{\\frac{50 x^{5} y^{3}}{72 x^{4} y}}$$ \u24d1 $$\\sqrt[3]{\\frac{16 x^{5} y^{7}}{54 x^{2} y^{2}}}$$ \u24d2 $$\\sqrt[4]{\\frac{5 a^{8} b^{6}}{80 a^{3} b^{2}}} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{5 | y | \\sqrt{x}}{6}$$ \u24d1 $$\\frac{2 x y \\sqrt[3]{y^{2}}}{3}$$ \u24d2 $$\\frac{| a b | \\sqrt[4]{a}}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.48",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{\\frac{48 m^{7} n^{2}}{100 m^{5} n^{8}}}$$ \u24d1 $$\\sqrt[3]{\\frac{54 x^{7} y^{5}}{250 x^{2} y^{2}}}$$ \u24d2 $$\\sqrt[4]{\\frac{32 a^{9} b^{7}}{162 a^{3} b^{3}}} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{2 | m | \\sqrt{3}}{5 | n^{3} |}$$ \u24d1 $$\\frac{3 x y \\sqrt[3]{x^{2}}}{5}$$ \u24d2 $$\\frac{2 | a b | \\sqrt[4]{a^{2}}}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.49",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\frac{\\sqrt{98 z^{5}}}{\\sqrt{2 z}}$$ \u24d1 $$\\frac{\\sqrt[3]{-500}}{\\sqrt[3]{2}}$$ \u24d2 $$\\frac{\\sqrt[4]{486 m^{11}}}{\\sqrt[4]{3 m^{5}}} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$7 z^{2}$$ \u24d1 $$-5 \\sqrt[3]{2}$$ \u24d2 $$3 | m | \\sqrt[4]{2 m^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.50",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\frac{\\sqrt{128 m^{9}}}{\\sqrt{2 m}}$$ \u24d1 $$\\frac{\\sqrt[3]{-192}}{\\sqrt[3]{3}}$$ \u24d2 $$\\frac{\\sqrt[4]{324 n^{7}}}{\\sqrt[4]{2 n^{3}}} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$8 m^{4}$$ \u24d1 $$-4$$ \u24d2 $$3 | n | \\sqrt[4]{2}$$",
+        "Answer Image Links": []
+    }
+]

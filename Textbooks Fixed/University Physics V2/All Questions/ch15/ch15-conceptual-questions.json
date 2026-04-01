@@ -1,0 +1,106 @@
+[
+    {
+        "Topic": "15.1 AC Sources",
+        "Problem Statement": "",
+        "Question": "What is the relationship between frequency and angular frequency?",
+        "Image Links": [],
+        "Answer": "Angular frequency is $$2 \\pi$$ times frequency.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 Simple AC Circuits",
+        "Problem Statement": "",
+        "Question": "Explain why at high frequencies a capacitor acts as an ac short, whereas an inductor acts as an open circuit.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 RLC Series Circuits with AC",
+        "Problem Statement": "",
+        "Question": "In an RLC series circuit, can the voltage measured across the capacitor be greater than the voltage of the source? Answer the same question for the voltage across the inductor.",
+        "Image Links": [],
+        "Answer": "yes for both",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.4 Power in an AC Circuit",
+        "Problem Statement": "",
+        "Question": "For what value of the phase angle $$\\upphi$$ between the voltage output of an ac source and the current is the average power output of the source a maximum?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.4 Power in an AC Circuit",
+        "Problem Statement": "",
+        "Question": "Discuss the differences between average power and instantaneous power.",
+        "Image Links": [],
+        "Answer": "The instantaneous power is the power at a given instant. The average power is the power averaged over a cycle or number of cycles.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.4 Power in an AC Circuit",
+        "Problem Statement": "",
+        "Question": "The average ac current delivered to a circuit is zero. Despite this, power is dissipated in the circuit. Explain.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.4 Power in an AC Circuit",
+        "Problem Statement": "",
+        "Question": "Can the instantaneous power output of an ac source ever be negative? Can the average power output be negative?",
+        "Image Links": [],
+        "Answer": "The instantaneous power can be negative, but the power output can\u2019t be negative.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.4 Power in an AC Circuit",
+        "Problem Statement": "",
+        "Question": "The power rating of a resistor used in ac circuits refers to the maximum average power dissipated in the resistor. How does this compare with the maximum instantaneous power dissipated in the resistor?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.6 Transformers",
+        "Problem Statement": "",
+        "Question": "Why do transmission lines operate at very high voltages while household circuits operate at fairly small voltages?",
+        "Image Links": [],
+        "Answer": "There is less thermal loss if the transmission lines operate at low currents and high voltages.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.6 Transformers",
+        "Problem Statement": "",
+        "Question": "How can you distinguish the primary winding from the secondary winding in a step-up transformer?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.6 Transformers",
+        "Problem Statement": "",
+        "Question": "Battery packs in some electronic devices are charged using an adapter connected to a wall socket. Speculate as to the purpose of the adapter.",
+        "Image Links": [],
+        "Answer": "The adapter has a step-down transformer to have a lower voltage and possibly higher current at which the device can operate.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.6 Transformers",
+        "Problem Statement": "",
+        "Question": "Will a transformer work if the input is a dc voltage?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.6 Transformers",
+        "Problem Statement": "",
+        "Question": "Why are the primary and secondary coils of a transformer wrapped around the same closed loop of iron?",
+        "Image Links": [],
+        "Answer": "so each loop can experience the same changing magnetic flux",
+        "Answer Image Links": []
+    }
+]

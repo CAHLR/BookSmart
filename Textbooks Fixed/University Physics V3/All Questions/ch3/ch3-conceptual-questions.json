@@ -1,0 +1,122 @@
+[
+    {
+        "Topic": "3.1 Young's Double-Slit Interference",
+        "Problem Statement": "",
+        "Question": "Young\u2019s double-slit experiment breaks a single light beam into two sources. Would the same pattern be obtained for two independent sources of light, such as the headlights of a distant car? Explain.",
+        "Image Links": [],
+        "Answer": "No. Two independent light sources do not have coherent phase.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Young's Double-Slit Interference",
+        "Problem Statement": "",
+        "Question": "Is it possible to create a experimental setup in which there is only destructive interference? Explain.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.1 Young's Double-Slit Interference",
+        "Problem Statement": "",
+        "Question": "Why won\u2019t two small sodium lamps, held close together, produce an interference pattern on a distant screen? What if the sodium lamps were replaced by two laser pointers held close together?",
+        "Image Links": [],
+        "Answer": "Because both the sodium lamps are not coherent pairs of light sources. Two lasers operating independently are also not coherent so no interference pattern results.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.2 Mathematics of Interference",
+        "Problem Statement": "",
+        "Question": "Suppose you use the same double slit to perform Young\u2019s double-slit experiment in air and then repeat the experiment in water. Do the angles to the same parts of the interference pattern get larger or smaller? Does the color of the light change? Explain.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.2 Mathematics of Interference",
+        "Problem Statement": "",
+        "Question": "Why is monochromatic light used in the double slit experiment? What would happen if white light were used?",
+        "Image Links": [],
+        "Answer": "Monochromatic sources produce fringes at angles according to $$d \\text{sin} \\theta = m \\lambda$$ . With white light, each constituent wavelength will produce fringes at its own set of angles, blending into the fringes of adjacent wavelengths. This results in rainbow patterns.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.4 Interference in Thin Films",
+        "Problem Statement": "",
+        "Question": "What effect does increasing the wedge angle have on the spacing of interference fringes? If the wedge angle is too large, fringes are not observed. Why?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.4 Interference in Thin Films",
+        "Problem Statement": "",
+        "Question": "How is the difference in paths taken by two originally in-phase light waves related to whether they interfere constructively or destructively? How can this be affected by reflection? By refraction?",
+        "Image Links": [],
+        "Answer": "Differing path lengths result in different phases at destination resulting in constructive or destructive interference accordingly. Reflection can cause a $$180 \\text{\u00b0}$$ phase change, which also affects how waves interfere. Refraction into another medium changes the wavelength inside that medium such that a wave can emerge from the medium with a different phase compared to another wave that travelled the same distance in a different medium.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.4 Interference in Thin Films",
+        "Problem Statement": "",
+        "Question": "Is there a phase change in the light reflected from either surface of a contact lens floating on a person\u2019s tear layer? The index of refraction of the lens is about 1.5, and its top surface is dry.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.4 Interference in Thin Films",
+        "Problem Statement": "",
+        "Question": "In placing a sample on a microscope slide, a glass cover is placed over a water drop on the glass slide. Light incident from above can reflect from the top and bottom of the glass cover and from the glass slide below the water drop. At which surfaces will there be a phase change in the reflected light?",
+        "Image Links": [],
+        "Answer": "Phase changes occur upon reflection at the top of glass cover and the top of glass slide only.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.4 Interference in Thin Films",
+        "Problem Statement": "",
+        "Question": "Answer the above question if the fluid between the two pieces of crown glass is carbon disulfide.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.4 Interference in Thin Films",
+        "Problem Statement": "",
+        "Question": "While contemplating the food value of a slice of ham, you notice a rainbow of color reflected from its moist surface. Explain its origin.",
+        "Image Links": [],
+        "Answer": "The surface of the ham being moist means there is a thin layer of fluid, resulting in thin-film interference. Because the exact thickness of the film varies across the piece of ham, which is illuminated by white light, different wavelengths produce bright fringes at different locations, resulting in rainbow colors.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.4 Interference in Thin Films",
+        "Problem Statement": "",
+        "Question": "An inventor notices that a soap bubble is dark at its thinnest and realizes that destructive interference is taking place for all wavelengths. How could she use this knowledge to make a nonreflective coating for lenses that is effective at all wavelengths? That is, what limits would there be on the index of refraction and thickness of the coating? How might this be impractical?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.4 Interference in Thin Films",
+        "Problem Statement": "",
+        "Question": "A nonreflective coating like the one described in Example 3.3 works ideally for a single wavelength and for perpendicular incidence. What happens for other wavelengths and other incident directions? Be specific.",
+        "Image Links": [],
+        "Answer": "Other wavelengths will not generally satisfy $$t = \\frac{\\lambda \\text{/} n}{4}$$ for the same value of t so reflections will result in completely destructive interference. For an incidence angle $$\\theta$$ , the path length inside the coating will be increased by a factor $$1 \\text{/} \\text{cos} \\theta$$ so the new condition for destructive interference becomes $$\\frac{t}{\\text{cos} \\theta} = \\frac{\\lambda \\text{/} n}{4}$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.4 Interference in Thin Films",
+        "Problem Statement": "",
+        "Question": "Why is it much more difficult to see interference fringes for light reflected from a thick piece of glass than from a thin film? Would it be easier if monochromatic light were used?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "3.5 The Michelson Interferometer",
+        "Problem Statement": "",
+        "Question": "Describe how a Michelson interferometer can be used to measure the index of refraction of a gas (including air).",
+        "Image Links": [],
+        "Answer": "In one arm, place a transparent chamber to be filled with the gas. See Example 3.6.",
+        "Answer Image Links": []
+    }
+]

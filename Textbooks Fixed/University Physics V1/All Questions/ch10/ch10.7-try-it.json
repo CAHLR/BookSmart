@@ -1,0 +1,10 @@
+[
+    {
+        "Topic": "Check Your Understanding 10.7",
+        "Problem Statement": "",
+        "Question": "The fan blades on a jet engine have a moment of inertia $$30.0 \\text{kg-m}^{2}$$ . In 10 s, they rotate counterclockwise from rest up to a rotation rate of 20 rev/s. (a) What torque must be applied to the blades to achieve this angular acceleration? (b) What is the torque required to bring the fan blades rotating at 20 rev/s to a rest in 20 s?",
+        "Image Links": [],
+        "Answer": "a. The angular acceleration is $$\\alpha = \\frac{20.0 ( 2 \\pi ) \\text{rad} \\text{/} \\text{s} - 0}{10.0 \\text{s}} = 12.56 \\text{rad} \\text{/} \\text{s}^{2}$$ . Solving for the torque, we have $$\\sum_{i} \\tau_{i} = I \\alpha = ( 30.0 \\text{kg} \\cdotp \\text{m}^{2} ) ( 12.56 \\text{rad} \\text{/} \\text{s}^{2} ) = 376.80 \\text{N} \\cdotp \\text{m}$$ ; b. The angular acceleration is $$\\alpha = \\frac{0 - 20.0 ( 2 \\pi ) \\text{rad} \\text{/} \\text{s}}{20.0 \\text{s}} = -6.28 \\text{rad} \\text{/} \\text{s}^{2}$$ . Solving for the torque, we have $$\\sum_{i} \\tau_{i} = I \\alpha = ( 30.0 \\text{kg-m}^{2} ) ( -6.28 \\text{rad} \\text{/} \\text{s}^{2} ) = -188.50 \\text{N} \\cdotp \\text{m}$$",
+        "Answer Image Links": []
+    }
+]

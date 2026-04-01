@@ -1,0 +1,502 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the cylindrical coordinates $$( r , \\theta , z )$$ of a point are given. Find the rectangular coordinates $$( x , y , z )$$ of the point.",
+        "Question": "$$( 4 , \\frac{\\pi}{6} , 3 )$$",
+        "Image Links": [],
+        "Answer": "$$( 2 \\sqrt{3} , 2 , 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the cylindrical coordinates $$( r , \\theta , z )$$ of a point are given. Find the rectangular coordinates $$( x , y , z )$$ of the point.",
+        "Question": "$$( 3 , \\frac{\\pi}{3} , 5 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the cylindrical coordinates $$( r , \\theta , z )$$ of a point are given. Find the rectangular coordinates $$( x , y , z )$$ of the point.",
+        "Question": "$$( 4 , \\frac{7 \\pi}{6} , 3 )$$",
+        "Image Links": [],
+        "Answer": "$$( -2 \\sqrt{3} , -2 , 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the cylindrical coordinates $$( r , \\theta , z )$$ of a point are given. Find the rectangular coordinates $$( x , y , z )$$ of the point.",
+        "Question": "$$( 2 , \\pi , -4 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the rectangular coordinates $$( x , y , z )$$ of a point are given. Find the cylindrical coordinates $$( r , \\theta , z )$$ of the point.",
+        "Question": "$$( 1 , \\sqrt{3} , 2 )$$",
+        "Image Links": [],
+        "Answer": "$$( 2 , \\frac{\\pi}{3} , 2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the rectangular coordinates $$( x , y , z )$$ of a point are given. Find the cylindrical coordinates $$( r , \\theta , z )$$ of the point.",
+        "Question": "$$( 1 , 1 , 5 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the rectangular coordinates $$( x , y , z )$$ of a point are given. Find the cylindrical coordinates $$( r , \\theta , z )$$ of the point.",
+        "Question": "$$( 3 , -3 , 7 )$$",
+        "Image Links": [],
+        "Answer": "$$( 3 \\sqrt{2} , - \\frac{\\pi}{4} , 7 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the rectangular coordinates $$( x , y , z )$$ of a point are given. Find the cylindrical coordinates $$( r , \\theta , z )$$ of the point.",
+        "Question": "$$( -2 \\sqrt{2} , 2 \\sqrt{2} , 4 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the equation of the surface in rectangular coordinates. Identify and graph the surface.",
+        "Question": "[T] $$r = 4$$",
+        "Image Links": [],
+        "Answer": "A cylinder of equation $$x^{2} + y^{2} = 16 ,$$ with its center at the origin and rulings parallel to the z -axis,",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/643faf333b2d016be8a333d9d47a53f536d3df8c"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the equation of the surface in rectangular coordinates. Identify and graph the surface.",
+        "Question": "[T] $$z = r^{2} \\text{cos}^{2} \\theta$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the equation of the surface in rectangular coordinates. Identify and graph the surface.",
+        "Question": "[T] $$r^{2} \\text{cos} ( 2 \\theta ) + z^{2} + 1 = 0$$",
+        "Image Links": [],
+        "Answer": "Hyperboloid of two sheets of equation $$\\text{unicode[:-]} x^{2} + y^{2} - z^{2} = 1 ,$$ with the y -axis as the axis of symmetry,",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/acb608e0523ee9e1e3409c1e5eff9e1475cdca2b"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the equation of the surface in rectangular coordinates. Identify and graph the surface.",
+        "Question": "[T] $$r = 3 \\text{sin} \\theta$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the equation of the surface in rectangular coordinates. Identify and graph the surface.",
+        "Question": "[T] $$r = 2 \\text{cos} \\theta$$",
+        "Image Links": [],
+        "Answer": "Cylinder of equation $$x^{2} - 2 x + y^{2} = 0 ,$$ with a center at $$( 1 , 0 , 0 )$$ and radius $$1 ,$$ with rulings parallel to the z -axis,",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/81ef1ee8811adcd1ab160a6563b3d003a8decc54"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the equation of the surface in rectangular coordinates. Identify and graph the surface.",
+        "Question": "[T] $$r^{2} + z^{2} = 5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the equation of the surface in rectangular coordinates. Identify and graph the surface.",
+        "Question": "[T] $$r = 2 \\text{sec} \\theta$$",
+        "Image Links": [],
+        "Answer": "Plane of equation $$x = 2 ,$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/54571a90ce1ea3e5c975ff1b0b6bea5334bfeab7"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the equation of the surface in rectangular coordinates. Identify and graph the surface.",
+        "Question": "[T] $$r = 3 \\text{csc} \\theta$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equation of a surface in rectangular coordinates is given. Find the equation of the surface in cylindrical coordinates.",
+        "Question": "$$z = 3$$",
+        "Image Links": [],
+        "Answer": "$$z = 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equation of a surface in rectangular coordinates is given. Find the equation of the surface in cylindrical coordinates.",
+        "Question": "$$x = 6$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equation of a surface in rectangular coordinates is given. Find the equation of the surface in cylindrical coordinates.",
+        "Question": "$$x^{2} + y^{2} + z^{2} = 9$$",
+        "Image Links": [],
+        "Answer": "$$r^{2} + z^{2} = 9$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equation of a surface in rectangular coordinates is given. Find the equation of the surface in cylindrical coordinates.",
+        "Question": "$$y = 2 x^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equation of a surface in rectangular coordinates is given. Find the equation of the surface in cylindrical coordinates.",
+        "Question": "$$x^{2} + y^{2} - 16 x = 0$$",
+        "Image Links": [],
+        "Answer": "$$r = 16 \\text{cos} \\theta , r = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equation of a surface in rectangular coordinates is given. Find the equation of the surface in cylindrical coordinates.",
+        "Question": "$$x^{2} + y^{2} - 3 \\sqrt{x^{2} + y^{2}} + 2 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the spherical coordinates $$( \\rho , \\theta , \\phi )$$ of a point are given. Find the rectangular coordinates $$( x , y , z )$$ of the point.",
+        "Question": "$$( 3 , 0 , \\pi )$$",
+        "Image Links": [],
+        "Answer": "$$( 0 , 0 , -3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the spherical coordinates $$( \\rho , \\theta , \\phi )$$ of a point are given. Find the rectangular coordinates $$( x , y , z )$$ of the point.",
+        "Question": "$$( 1 , \\frac{\\pi}{6} , \\frac{\\pi}{6} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the spherical coordinates $$( \\rho , \\theta , \\phi )$$ of a point are given. Find the rectangular coordinates $$( x , y , z )$$ of the point.",
+        "Question": "$$( 12 , - \\frac{\\pi}{4} , \\frac{\\pi}{4} )$$",
+        "Image Links": [],
+        "Answer": "$$( 6 , -6 , 6 \\sqrt{2} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the spherical coordinates $$( \\rho , \\theta , \\phi )$$ of a point are given. Find the rectangular coordinates $$( x , y , z )$$ of the point.",
+        "Question": "$$( 3 , \\frac{\\pi}{4} , \\frac{\\pi}{6} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the rectangular coordinates $$( x , y , z )$$ of a point are given. Find the spherical coordinates $$( \\rho , \\theta , \\phi )$$ of the point. Express the measure of the angles in degrees rounded to the nearest integer.",
+        "Question": "$$( 4 , 0 , 0 )$$",
+        "Image Links": [],
+        "Answer": "$$( 4 , 0 , 90 \\text{\u00b0} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the rectangular coordinates $$( x , y , z )$$ of a point are given. Find the spherical coordinates $$( \\rho , \\theta , \\phi )$$ of the point. Express the measure of the angles in degrees rounded to the nearest integer.",
+        "Question": "$$( -1 , 2 , 1 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the rectangular coordinates $$( x , y , z )$$ of a point are given. Find the spherical coordinates $$( \\rho , \\theta , \\phi )$$ of the point. Express the measure of the angles in degrees rounded to the nearest integer.",
+        "Question": "$$( 0 , 3 , 0 )$$",
+        "Image Links": [],
+        "Answer": "$$( 3 , 90 \\text{\u00b0} , 90 \\text{\u00b0} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the rectangular coordinates $$( x , y , z )$$ of a point are given. Find the spherical coordinates $$( \\rho , \\theta , \\phi )$$ of the point. Express the measure of the angles in degrees rounded to the nearest integer.",
+        "Question": "$$( -2 , 2 \\sqrt{3} , 4 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equation of a surface in spherical coordinates is given. Find the equation of the surface in rectangular coordinates. Identify and graph the surface.",
+        "Question": "[T] $$\\rho = 3$$",
+        "Image Links": [],
+        "Answer": "Sphere of equation $$x^{2} + y^{2} + z^{2} = 9$$ centered at the origin with radius $$3 ,$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/40d98fb520d309f72e4a7d0b799de5b1922267eb"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equation of a surface in spherical coordinates is given. Find the equation of the surface in rectangular coordinates. Identify and graph the surface.",
+        "Question": "[T] $$\\phi = \\frac{\\pi}{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equation of a surface in spherical coordinates is given. Find the equation of the surface in rectangular coordinates. Identify and graph the surface.",
+        "Question": "[T] $$\\rho = 2 \\text{cos} \\phi$$",
+        "Image Links": [],
+        "Answer": "Sphere of equation $$x^{2} + y^{2} + ( z - 1 )^{2} = 1$$ centered at $$( 0 , 0 , 1 )$$ with radius $$1 ,$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0301fbc02b9ac74c28591a39d82907fafc29001d"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equation of a surface in spherical coordinates is given. Find the equation of the surface in rectangular coordinates. Identify and graph the surface.",
+        "Question": "[T] $$\\rho = 4 \\text{csc} \\phi$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equation of a surface in spherical coordinates is given. Find the equation of the surface in rectangular coordinates. Identify and graph the surface.",
+        "Question": "[T] $$\\phi = \\frac{\\pi}{2}$$",
+        "Image Links": [],
+        "Answer": "The xy -plane of equation $$z = 0 ,$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7267586104212deae32d840ec00aa170fe3452b2"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equation of a surface in spherical coordinates is given. Find the equation of the surface in rectangular coordinates. Identify and graph the surface.",
+        "Question": "[T] $$\\rho = 6 \\text{csc} \\phi \\text{sec} \\theta$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equation of a surface in rectangular coordinates is given. Find the equation of the surface in spherical coordinates. Identify the surface.",
+        "Question": "$$x^{2} + y^{2} - 3 z^{2} = 0 ,$$ $$z \\ne 0$$",
+        "Image Links": [],
+        "Answer": "$$\\phi = \\frac{\\pi}{3}$$ or $$\\phi = \\frac{2 \\pi}{3} ;$$ Elliptic cone",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equation of a surface in rectangular coordinates is given. Find the equation of the surface in spherical coordinates. Identify the surface.",
+        "Question": "$$x^{2} + y^{2} + z^{2} - 4 z = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equation of a surface in rectangular coordinates is given. Find the equation of the surface in spherical coordinates. Identify the surface.",
+        "Question": "$$z = 6$$",
+        "Image Links": [],
+        "Answer": "$$\\rho \\text{cos} \\phi = 6 ;$$ Plane at $$z = 6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equation of a surface in rectangular coordinates is given. Find the equation of the surface in spherical coordinates. Identify the surface.",
+        "Question": "$$x^{2} + y^{2} = 9$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the cylindrical coordinates of a point are given. Find its associated spherical coordinates, with the measure of the angle $$\\phi$$ in radians rounded to four decimal places.",
+        "Question": "[T] $$( 1 , \\frac{\\pi}{4} , 3 )$$",
+        "Image Links": [],
+        "Answer": "$$( \\sqrt{10} , \\frac{\\pi}{4} , 0.3218 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the cylindrical coordinates of a point are given. Find its associated spherical coordinates, with the measure of the angle $$\\phi$$ in radians rounded to four decimal places.",
+        "Question": "[T] $$( 5 , \\pi , 12 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the cylindrical coordinates of a point are given. Find its associated spherical coordinates, with the measure of the angle $$\\phi$$ in radians rounded to four decimal places.",
+        "Question": "$$( 3 , \\frac{\\pi}{2} , 3 )$$",
+        "Image Links": [],
+        "Answer": "$$( 3 \\sqrt{2} , \\frac{\\pi}{2} , \\frac{\\pi}{4} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the cylindrical coordinates of a point are given. Find its associated spherical coordinates, with the measure of the angle $$\\phi$$ in radians rounded to four decimal places.",
+        "Question": "$$( 3 , - \\frac{\\pi}{6} , 3 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the spherical coordinates of a point are given. Find its associated cylindrical coordinates.",
+        "Question": "$$( 2 , - \\frac{\\pi}{4} , \\frac{\\pi}{2} )$$",
+        "Image Links": [],
+        "Answer": "$$( 2 , - \\frac{\\pi}{4} , 0 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the spherical coordinates of a point are given. Find its associated cylindrical coordinates.",
+        "Question": "$$( 4 , \\frac{\\pi}{4} , \\frac{\\pi}{6} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the spherical coordinates of a point are given. Find its associated cylindrical coordinates.",
+        "Question": "$$( 8 , \\frac{\\pi}{3} , \\frac{\\pi}{2} )$$",
+        "Image Links": [],
+        "Answer": "$$( 8 , \\frac{\\pi}{3} , 0 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the spherical coordinates of a point are given. Find its associated cylindrical coordinates.",
+        "Question": "$$( 9 , - \\frac{\\pi}{6} , \\frac{\\pi}{3} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the most suitable system of coordinates to describe the solids.",
+        "Question": "The solid situated in the first octant with a vertex at the origin and enclosed by a cube of edge length $$a ,$$ where $$a > 0$$",
+        "Image Links": [],
+        "Answer": "Cartesian system, $$\\{ ( x , y , z ) | 0 \\le x \\le a , 0 \\le y \\le a , 0 \\le z \\le a \\}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the most suitable system of coordinates to describe the solids.",
+        "Question": "A spherical shell determined by the region between two concentric spheres centered at the origin, of radii of $$a$$ and $$b ,$$ respectively, where $$b > a > 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the most suitable system of coordinates to describe the solids.",
+        "Question": "A solid inside sphere $$x^{2} + y^{2} + z^{2} = 9$$ and outside cylinder $$( x - \\frac{3}{2} )^{2} + y^{2} = \\frac{9}{4}$$",
+        "Image Links": [],
+        "Answer": "Cylindrical system, $$\\left \\{\\begin{matrix}( r , \\theta , z ) | r^{2} + z^{2} \\le 9 , r \\geq 0 , \\frac{\\pi}{2} \\le \\theta \\le \\frac{3 \\pi}{2} \\\\ , ( r \\geq 3 \\cos{} __{funcapply} \\theta , - \\frac{\\pi}{2} \\le \\theta \\le \\frac{\\pi}{2} )\\end{matrix}\\right \\}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the most suitable system of coordinates to describe the solids.",
+        "Question": "A cylindrical shell of height $$10$$ determined by the region between two cylinders with the same center, parallel rulings, and radii of $$2$$ and $$5 ,$$ respectively",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the most suitable system of coordinates to describe the solids.",
+        "Question": "[T] Use a CAS to graph the region between elliptic paraboloid $$z = x^{2} + y^{2}$$ and cone $$x^{2} + y^{2} - z^{2} = 0 .$$ Then describe the region in cylindrical coordinates.",
+        "Image Links": [],
+        "Answer": "The region is described by the set of points $$\\{ ( r , \\theta , z ) | 0 \\le r \\le 1 , 0 \\le \\theta \\le 2 \\pi , r^{2} \\le z \\le r \\} .$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1c876f28da7a8422095a9bda8b7505fd6de7212c"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the most suitable system of coordinates to describe the solids.",
+        "Question": "[T] Use a CAS to graph in spherical coordinates the \u201cice cream-cone region\u201d situated above the xy -plane between sphere $$x^{2} + y^{2} + z^{2} = 4$$ and elliptical cone $$x^{2} + y^{2} - z^{2} = 0 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the most suitable system of coordinates to describe the solids.",
+        "Question": "Washington, DC, is located at $$39 \\text{\u00b0}$$ N and $$77 \\text{\u00b0}$$ W (see the following figure). Assume the radius of Earth is $$4000$$ mi. Express the location of Washington, DC, in spherical coordinates.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f9b78f856973f9a53fd31d13544149a54b0e36a1"
+        ],
+        "Answer": "$$( 4000 , \\text{unicode[:-]} 77 \\text{\u00b0} , 51 \\text{\u00b0} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the most suitable system of coordinates to describe the solids.",
+        "Question": "San Francisco is located at $$37.78 \\text{\u00b0} \\text{N}$$ and $$122.42 \\text{\u00b0} \\text{W} .$$ Assume the radius of Earth is $$4000$$ mi. Express the location of San Francisco in spherical coordinates.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the most suitable system of coordinates to describe the solids.",
+        "Question": "Find the latitude and longitude of Rio de Janeiro if its spherical coordinates are $$( 4000 , \\text{unicode[:-]} 43.17 \\text{\u00b0} , 102.91 \\text{\u00b0} ) .$$",
+        "Image Links": [],
+        "Answer": "$$43.17 \\text{\u00b0} \\text{W} ,$$ $$22.91 \\text{\u00b0} \\text{S}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the most suitable system of coordinates to describe the solids.",
+        "Question": "Find the latitude and longitude of Berlin if its spherical coordinates are $$( 4000 , 13.38 \\text{\u00b0} , 37.48 \\text{\u00b0} ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the most suitable system of coordinates to describe the solids.",
+        "Question": "[T] Consider the torus of equation $$( x^{2} + y^{2} + z^{2} + R^{2} - r^{2} )^{2} = 4 R^{2} ( x^{2} + y^{2} ) ,$$ where $$R \\geq r > 0 .$$ Write the equation of the torus in spherical coordinates. If $$R = r ,$$ the surface is called a horn torus . Show that the equation of a horn torus in spherical coordinates is $$\\rho = 2 R \\text{sin} \\phi .$$ Use a CAS to graph the horn torus with $$R = r = 2$$ in spherical coordinates.",
+        "Image Links": [],
+        "Answer": "a. $$\\rho^{2} = 0 ,$$ $$\\rho + R^{2} - r^{2} - 2 R \\text{sin} \\phi = 0 ;$$ c.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/98400fb69f71c56829f6878b52755b86afe4b1b2"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the most suitable system of coordinates to describe the solids.",
+        "Question": "[T] The \u201cbumpy sphere\u201d with an equation in spherical coordinates is $$\\rho = a + b \\text{cos} ( m \\theta ) \\text{sin} ( n \\phi ) ,$$ with $$\\theta \\in [ 0 , 2 \\pi ]$$ and $$\\phi \\in [ 0 , \\pi ] ,$$ where $$a$$ and $$b$$ are positive numbers and $$m$$ and $$n$$ are positive integers, may be used in applied mathematics to model tumor growth. Show that the \u201cbumpy sphere\u201d is contained inside a sphere of equation $$\\rho = a + b .$$ Find the values of $$\\theta$$ and $$\\phi$$ at which the two surfaces intersect. Use a CAS to graph the surface for $$a = 14 ,$$ $$b = 2 ,$$ $$m = 4 ,$$ and $$n = 6$$ along with sphere $$\\rho = a + b .$$ Find the equation of the intersection curve of the surface at b. with the cone $$\\phi = \\frac{\\pi}{12} .$$ Graph the intersection curve in the plane of intersection.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

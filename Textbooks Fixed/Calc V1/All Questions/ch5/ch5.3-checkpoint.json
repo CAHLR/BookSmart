@@ -1,0 +1,58 @@
+[
+    {
+        "Topic": "Checkpoint 5.14",
+        "Problem Statement": "",
+        "Question": "Find the average value of the function $$f ( x ) = \\frac{x}{2}$$ over the interval $$[ 0 , 6 ]$$ and find c such that $$f ( c )$$ equals the average value of the function over $$[ 0 , 6 ] .$$",
+        "Image Links": [],
+        "Answer": "$$\\text{Average value} = 1.5 ; c = 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.15",
+        "Problem Statement": "",
+        "Question": "Given $$\\int_{0}^{3} ( 2 x^{2} - 1 ) d x = 15 ,$$ find c such that $$f ( c )$$ equals the average value of $$f ( x ) = 2 x^{2} - 1$$ over $$[ 0 , 3 ] .$$",
+        "Image Links": [],
+        "Answer": "$$c = \\sqrt{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.16",
+        "Problem Statement": "",
+        "Question": "Use the Fundamental Theorem of Calculus, Part 1 to find the derivative of $$g ( r ) = \\int_{0}^{r} \\sqrt{x^{2} + 4} d x .$$",
+        "Image Links": [],
+        "Answer": "$$g^{\\prime} \\text{(} r ) = \\sqrt{r^{2} + 4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.17",
+        "Problem Statement": "",
+        "Question": "Let $$F ( x ) = \\int_{1}^{x^{3}} \\text{cos} t d t .$$ Find $$F^{\\prime} \\text{(} x ) .$$",
+        "Image Links": [],
+        "Answer": "$$F^{\\prime} \\text{(} x ) = 3 x^{2} \\text{cos} x^{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.18",
+        "Problem Statement": "",
+        "Question": "Let $$F ( x ) = \\int_{x}^{x^{2}} \\text{cos} t d t .$$ Find $$F^{\\prime} \\text{(} x ) .$$",
+        "Image Links": [],
+        "Answer": "$$F^{\\prime} \\text{(} x ) = 2 x \\text{cos} x^{2} - \\text{cos} x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.19",
+        "Problem Statement": "",
+        "Question": "Use The Fundamental Theorem of Calculus, Part 2 to evaluate $$\\int_{1}^{2} x^{-4} d x .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{7}{24}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.20",
+        "Problem Statement": "",
+        "Question": "Suppose James and Kathy have a rematch, but this time the official stops the contest after only 3 sec. Does this change the outcome?",
+        "Image Links": [],
+        "Answer": "Kathy still wins, but by a much larger margin: James skates 24 ft in 3 sec, but Kathy skates 29.3634 ft in 3 sec.",
+        "Answer Image Links": []
+    }
+]

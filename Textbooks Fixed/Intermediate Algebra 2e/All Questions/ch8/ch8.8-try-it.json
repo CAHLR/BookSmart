@@ -1,0 +1,226 @@
+[
+    {
+        "Topic": "Try It 8.151",
+        "Problem Statement": "",
+        "Question": "Write each expression in terms of i and simplify if possible: \u24d0 $$\\sqrt{-81}$$ \u24d1 $$\\sqrt{-5}$$ \u24d2 $$\\sqrt{-18} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$9 i$$ \u24d1 $$\\sqrt{5} i$$ \u24d2 $$3 \\sqrt{2} i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.152",
+        "Problem Statement": "",
+        "Question": "Write each expression in terms of i and simplify if possible: \u24d0 $$\\sqrt{-36}$$ \u24d1 $$\\sqrt{-3}$$ \u24d2 $$\\sqrt{-27} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$6 i$$ \u24d1 $$\\sqrt{3} i$$ \u24d2 $$3 \\sqrt{3} i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.153",
+        "Problem Statement": "",
+        "Question": "Add: $$\\sqrt{-8} + \\sqrt{-32} .$$",
+        "Image Links": [],
+        "Answer": "$$6 \\sqrt{2} i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.154",
+        "Problem Statement": "",
+        "Question": "Add: $$\\sqrt{-27} + \\sqrt{-48} .$$",
+        "Image Links": [],
+        "Answer": "$$7 \\sqrt{3} i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.155",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$( 2 + 7 i ) + ( 4 - 2 i )$$ \u24d1 $$( 8 - 4 i ) - ( 2 - i ) .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$6 + 5 i$$ \u24d1 $$6 - 3 i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.156",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$( 3 - 2 i ) + ( -5 - 4 i )$$ \u24d1 $$( 4 + 3 i ) - ( 2 - 6 i ) .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-2 - 6 i$$ \u24d1 $$2 + 9 i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.157",
+        "Problem Statement": "",
+        "Question": "Multiply: $$4 i ( 5 - 3 i ) .$$",
+        "Image Links": [],
+        "Answer": "$$12 + 20 i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.158",
+        "Problem Statement": "",
+        "Question": "Multiply: $$-3 i ( 2 + 4 i ) .$$",
+        "Image Links": [],
+        "Answer": "$$12 - 6 i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.159",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( 5 - 3 i ) ( -1 - 2 i ) .$$",
+        "Image Links": [],
+        "Answer": "$$-11 - 7 i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.160",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( -4 - 3 i ) ( 2 + i ) .$$",
+        "Image Links": [],
+        "Answer": "$$-5 - 10 i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.161",
+        "Problem Statement": "",
+        "Question": "Multiply using the Binomial Squares pattern: $$( -2 - 5 i )^{2} .$$",
+        "Image Links": [],
+        "Answer": "$$-21 + 21 i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.162",
+        "Problem Statement": "",
+        "Question": "Multiply using the Binomial Squares pattern: $$( -5 + 4 i )^{2} .$$",
+        "Image Links": [],
+        "Answer": "$$9 - 40 i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.163",
+        "Problem Statement": "",
+        "Question": "Multiply: $$\\sqrt{-49} \\cdotp \\sqrt{-4} .$$",
+        "Image Links": [],
+        "Answer": "$$-14$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.164",
+        "Problem Statement": "",
+        "Question": "Multiply: $$\\sqrt{-36} \\cdotp \\sqrt{-81} .$$",
+        "Image Links": [],
+        "Answer": "$$-54$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.165",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( 4 - \\sqrt{-12} ) ( 3 - \\sqrt{-48} ) .$$",
+        "Image Links": [],
+        "Answer": "$$-12 - 22 \\sqrt{3} i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.166",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( -2 + \\sqrt{-8} ) ( 3 - \\sqrt{-18} ) .$$",
+        "Image Links": [],
+        "Answer": "$$6 + 12 \\sqrt{2} i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.167",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( 4 - 3 i ) \\cdotp ( 4 + 3 i ) .$$",
+        "Image Links": [],
+        "Answer": "25",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.168",
+        "Problem Statement": "",
+        "Question": "Multiply: $$( -2 + 5 i ) \\cdotp ( -2 - 5 i ) .$$",
+        "Image Links": [],
+        "Answer": "29",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.169",
+        "Problem Statement": "",
+        "Question": "Multiply using the Product of Complex Conjugates Pattern: $$( 3 - 10 i ) ( 3 + 10 i ) .$$",
+        "Image Links": [],
+        "Answer": "109",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.170",
+        "Problem Statement": "",
+        "Question": "Multiply using the Product of Complex Conjugates Pattern: $$( -5 + 4 i ) ( -5 - 4 i ) .$$",
+        "Image Links": [],
+        "Answer": "41",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.171",
+        "Problem Statement": "",
+        "Question": "Divide: $$\\frac{2 + 5 i}{5 - 2 i} .$$",
+        "Image Links": [],
+        "Answer": "i",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.172",
+        "Problem Statement": "",
+        "Question": "Divide: $$\\frac{1 + 6 i}{6 - i} .$$",
+        "Image Links": [],
+        "Answer": "i",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.173",
+        "Problem Statement": "",
+        "Question": "Divide, writing the answer in standard form: $$\\frac{4}{1 - 4 i} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{4}{17} + \\frac{16}{17} i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.174",
+        "Problem Statement": "",
+        "Question": "Divide, writing the answer in standard form: $$\\frac{-2}{-1 + 2 i} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2}{5} + \\frac{4}{5} i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.175",
+        "Problem Statement": "",
+        "Question": "Divide: $$\\frac{3 + 3 i}{2 i} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3}{2} - \\frac{3}{2} i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.176",
+        "Problem Statement": "",
+        "Question": "Divide: $$\\frac{2 + 4 i}{5 i} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{4}{5} - \\frac{2}{5} i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.177",
+        "Problem Statement": "",
+        "Question": "Simplify: $$i^{75} .$$",
+        "Image Links": [],
+        "Answer": "$$\\text{unicode[:-]} i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 8.178",
+        "Problem Statement": "",
+        "Question": "Simplify: $$i^{92} .$$",
+        "Image Links": [],
+        "Answer": "$$1$$",
+        "Answer Image Links": []
+    }
+]

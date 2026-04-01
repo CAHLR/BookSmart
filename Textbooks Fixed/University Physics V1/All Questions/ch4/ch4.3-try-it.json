@@ -1,0 +1,20 @@
+[
+    {
+        "Topic": "Check Your Understanding 4.3",
+        "Problem Statement": "",
+        "Question": "A rock is thrown horizontally off a cliff $$100.0 \\text{m}$$ high with a velocity of 15.0 m/s. (a) Define the origin of the coordinate system. (b) Which equation describes the horizontal motion? (c) Which equations describe the vertical motion? (d) What is the rock\u2019s velocity at the point of impact?",
+        "Image Links": [],
+        "Answer": "(a) Choose the top of the cliff where the rock is thrown from the origin of the coordinate system. Although it is arbitrary, we typically choose time t = 0 to correspond to the origin. (b) The equation that describes the horizontal motion is $$x = x_{0} + v_{x} t .$$ With $$x_{0} = 0 ,$$ this equation becomes $$x = v_{x} t .$$ (c) Equation 4.16 through Equation 4.18 and Equation 4.19 describe the vertical motion, but since $$y_{0} = 0 \\text{and} v_{0 y} = 0 ,$$ these equations simplify greatly to become $$y = \\frac{1}{2} ( v_{0 y} + v_{y} ) t = \\frac{1}{2} v_{y} t ,$$ $$v_{y} = \\text{unicode[:-]} g t ,$$ $$y = - \\frac{1}{2} g t^{2} ,$$ and $$v_{y}^{2} = -2 g y .$$ (d) We use the kinematic equations to find the x and y components of the velocity at the point of impact. Using $$v_{y}^{2} = -2 g y$$ and noting the point of impact is -100.0 m, we find the y component of the velocity at impact is $$v_{y} = 44.3 \\text{m} \\text{/} \\text{s} .$$ We are given the x component, $$v_{x} = 15.0 \\text{m} \\text{/} \\text{s} ,$$ so we can calculate the total velocity at impact: v = 46.8 m/s and $$\\theta = 71.3 \\text{\u00b0}$$ below the horizontal.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 4.4",
+        "Problem Statement": "",
+        "Question": "If the two golf shots in Example 4.9 were launched at the same speed, which shot would have the greatest range?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c4be70e5eb02901fe21cf35043b704f31f45f751"
+        ],
+        "Answer": "The golf shot at $$30 \\text{\u00b0} .$$",
+        "Answer Image Links": []
+    }
+]

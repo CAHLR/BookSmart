@@ -1,0 +1,114 @@
+[
+    {
+        "Topic": "Checkpoint 6.47",
+        "Problem Statement": "",
+        "Question": "Describe the surface with parameterization $$\\mathbf{\\text{r}} ( u , v ) = \\langle 2 \\text{cos} u , 2 \\text{sin} u , v \\rangle , 0 \\le u < 2 \\pi , \\text{unicode[:-]} \\infty < v < \\infty .$$",
+        "Image Links": [],
+        "Answer": "Cylinder $$x^{2} + y^{2} = 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.48",
+        "Problem Statement": "",
+        "Question": "Describe the surface parameterized by $$\\mathbf{\\text{r}} ( u , v ) = \\langle u \\text{cos} v , u \\text{sin} v , u \\rangle , \\text{unicode[:-]} \\infty < u < \\infty , 0 \\le v < 2 \\pi .$$",
+        "Image Links": [],
+        "Answer": "Cone $$x^{2} + y^{2} = z^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.49",
+        "Problem Statement": "",
+        "Question": "Give a parameterization for the portion of cone $$x^{2} + y^{2} = z^{2}$$ lying in the first octant.",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\text{r}} ( u , v ) = \\langle u \\text{cos} v , u \\text{sin} v , u \\rangle ,$$ $$0 < u < \\infty , 0 \\le v < \\frac{\\pi}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.50",
+        "Problem Statement": "",
+        "Question": "Is the surface parameterization $$\\mathbf{\\text{r}} ( u , v ) = \\langle u^{2 v} , v + 1 , \\text{sin} u \\rangle , 0 \\le u \\le 2 , 0 \\le v \\le 3$$ smooth?",
+        "Image Links": [],
+        "Answer": "Yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.51",
+        "Problem Statement": "",
+        "Question": "Find the surface area of the surface with parameterization $$\\mathbf{\\text{r}} ( u , v ) = \\langle u + v , u^{2} , 2 v \\rangle , 0 \\le u \\le 3 , 0 \\le v \\le 2 .$$",
+        "Image Links": [],
+        "Answer": "$$\\approx 43.02$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.52",
+        "Problem Statement": "",
+        "Question": "Show that the surface area of cylinder $$x^{2} + y^{2} = r^{2} , 0 \\le z \\le h$$ is $$2 \\pi r h .$$ Notice that this cylinder does not include the top and bottom circles.",
+        "Image Links": [],
+        "Answer": "With the standard parameterization of a cylinder, Equation 6.18 shows that the surface area is $$2 \\pi r h .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.53",
+        "Problem Statement": "",
+        "Question": "Use Equation 6.18 to find the area of the surface of revolution obtained by rotating curve $$y = \\text{sin} x , 0 \\le x \\le \\pi$$ about the x -axis.",
+        "Image Links": [],
+        "Answer": "$$2 \\pi ( \\sqrt{2} + \\text{sinh}^{-1} ( 1 ) )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.54",
+        "Problem Statement": "",
+        "Question": "Calculate $$\\iint_{S} ( x^{2} - z ) d S ,$$ where S is the surface with parameterization $$\\mathbf{\\text{r}} ( u , v ) = \\langle v , u^{2} + v^{2} , 1 \\rangle , 0 \\le u \\le 2 , 0 \\le v \\le 3 .$$",
+        "Image Links": [],
+        "Answer": "24",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.55",
+        "Problem Statement": "",
+        "Question": "Calculate surface integral $$\\iint_{S} ( x - y ) d S ,$$ where S is cylinder $$x^{2} + y^{2} = 1 , 0 \\le z \\le 2 ,$$ including the circular top and bottom.",
+        "Image Links": [],
+        "Answer": "0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.56",
+        "Problem Statement": "",
+        "Question": "A piece of metal has a shape that is modeled by paraboloid $$z = x^{2} + y^{2} , 0 \\le z \\le 4 ,$$ and the density of the metal is given by $$\\rho ( x , y , z ) = z + 1 .$$ Find the mass of the piece of metal.",
+        "Image Links": [],
+        "Answer": "$$38.401 \\pi \\approx 120.640$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.57",
+        "Problem Statement": "",
+        "Question": "Give the \u201cupward\u201d orientation of the graph of $$f ( x , y ) = x y .$$",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\text{N}} ( x , y ) = \\langle \\frac{\\text{unicode[:-]} y}{\\sqrt{1 + x^{2} + y^{2}}} , \\frac{\\text{unicode[:-]} x}{\\sqrt{1 + x^{2} + y^{2}}} , \\frac{1}{\\sqrt{1 + x^{2} + y^{2}}} \\rangle$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.58",
+        "Problem Statement": "",
+        "Question": "Calculate surface integral $$\\iint_{S} \\mathbf{\\text{F}} \\cdotp d \\mathbf{\\text{S}} ,$$ where $$\\mathbf{\\text{F}} = \\langle 0 , \\text{unicode[:-]} z , y \\rangle$$ and S is the portion of the unit sphere in the first octant with outward orientation.",
+        "Image Links": [],
+        "Answer": "0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.59",
+        "Problem Statement": "",
+        "Question": "Let $$\\mathbf{\\text{v}} ( x , y , z ) = \\langle x^{2} + y^{2} , z , 4 y \\rangle$$ m/sec represent a velocity field of a fluid with constant density 100 kg/m 3 . Let S be the half-cylinder $$\\mathbf{\\text{r}} ( u , v ) = \\langle \\text{cos} u , \\text{sin} u , v \\rangle , 0 \\le u \\le \\pi , 0 \\le v \\le 2$$ oriented outward. Calculate the mass flux of the fluid across S .",
+        "Image Links": [],
+        "Answer": "400 kg/sec/m",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 6.60",
+        "Problem Statement": "",
+        "Question": "A cast-iron solid ball is given by inequality $$x^{2} + y^{2} + z^{2} \\le 1 .$$ The temperature at a point in a region containing the ball is $$T ( x , y , z ) = \\frac{1}{3} ( x^{2} + y^{2} + z^{2} ) .$$ Find the heat flow across the boundary of the solid if this boundary is oriented outward.",
+        "Image Links": [],
+        "Answer": "$$- \\frac{440 \\pi}{3}$$",
+        "Answer Image Links": []
+    }
+]

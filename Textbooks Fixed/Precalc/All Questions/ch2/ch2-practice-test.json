@@ -1,0 +1,285 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Determine whether the following algebraic equation can be written as a linear function. $$2 x + 3 y = 7$$",
+        "Image Links": [],
+        "Answer": "Yes.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Determine whether the following function is increasing or decreasing. $$f ( x ) = - 2 x + 5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Determine whether the following function is increasing or decreasing. $$f ( x ) = 7 x + 9$$",
+        "Image Links": [],
+        "Answer": "Increasing",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Given the following set of information, find a linear equation satisfying the conditions, if possible. Passes through (5, 1) and (3, -9)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Given the following set of information, find a linear equation satisfying the conditions, if possible. x intercept at (-4, 0) and y -intercept at (0, -6)",
+        "Image Links": [],
+        "Answer": "$$y = -1.5 x - 6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Find the slope of the line in Figure 1 . Figure 1",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/fc271acb8043fd3cd92dd84074cf8130d4647346"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Write an equation for line in Figure 2 . Figure 2",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d96851beb581886e7da2cde500ea34b59e048b3c"
+        ],
+        "Answer": "$$y = - 2 x - 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Does Table 1 represent a linear function? If so, find a linear equation that models the data. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\n$$x$$ & -6 & 0 & 2 & 4 \\\\ \\hline\n$$g ( x )$$ & 14 & 32 & 38 & 44 \\\\ \\hline\n\\end{tabular}\n\\end{table} Table 1",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Does Table 2 represent a linear function? If so, find a linear equation that models the data. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\n$$x$$ & 1 & 3 & 7 & 11 \\\\ \\hline\n$$g ( x )$$ & 4 & 9 & 19 & 12 \\\\ \\hline\n\\end{tabular}\n\\end{table} Table 2",
+        "Image Links": [],
+        "Answer": "No.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "At 6 am, an online company has sold 120 items that day. If the company sells an average of 30 items per hour for the remainder of the day, write an expression to represent the number of items that were sold $$n$$ after 6 am.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the lines given by the equations below are parallel, perpendicular, or neither parallel nor perpendicular:",
+        "Question": "$$\\left .\\begin{matrix}{a}\\left .\\begin{matrix}{a} \\\\ y = \\frac{3}{4} x - 9\\end{matrix}\\right . \\\\ - 4 x - 3 y = 8\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "Perpendicular",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the lines given by the equations below are parallel, perpendicular, or neither parallel nor perpendicular:",
+        "Question": "$$\\left .\\begin{matrix}{a}\\left .\\begin{matrix}{a} \\\\ - 2 x + y = 3\\end{matrix}\\right . \\\\ 3 x + \\frac{3}{2} y = 5\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the lines given by the equations below are parallel, perpendicular, or neither parallel nor perpendicular:",
+        "Question": "Find the x - and y -intercepts of the equation $$2 x + 7 y = - 14.$$",
+        "Image Links": [],
+        "Answer": "$$( - \\text{7} , 0 )$$ ; $$( 0 , - \\text{2} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the lines given by the equations below are parallel, perpendicular, or neither parallel nor perpendicular:",
+        "Question": "Given below are descriptions of two lines. Find the slopes of Line 1 and Line 2. Is the pair of lines parallel, perpendicular, or neither? Line 1: Passes through $$( -2 , -6 )$$ and $$( 3 , 14 )$$ Line 2: Passes through $$( 2 , 6 )$$ and $$( 4 , 14 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the lines given by the equations below are parallel, perpendicular, or neither parallel nor perpendicular:",
+        "Question": "Write an equation for a line perpendicular to $$f ( x ) = 4 x + 3$$ and passing through the point $$( 8 , 10 ) .$$",
+        "Image Links": [],
+        "Answer": "$$y = - 0.25 x + 12$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the lines given by the equations below are parallel, perpendicular, or neither parallel nor perpendicular:",
+        "Question": "Sketch a line with a y -intercept of $$( 0 , \\text{5} )$$ and slope $$- \\frac{5}{2}$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the lines given by the equations below are parallel, perpendicular, or neither parallel nor perpendicular:",
+        "Question": "Graph of the linear function $$f ( x ) = -x + 6$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/966bcb933e3477ba02be3f6ef48eeea647d12a76"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the lines given by the equations below are parallel, perpendicular, or neither parallel nor perpendicular:",
+        "Question": "For the two linear functions, find the point of intersection: $$\\left .\\begin{matrix}{a}x = y + 2 \\\\ 2 x - 3 y = -1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the lines given by the equations below are parallel, perpendicular, or neither parallel nor perpendicular:",
+        "Question": "A car rental company offers two plans for renting a car. Plan A: $25 per day and $0.10 per mile Plan B: $40 per day with free unlimited mileage How many miles would you need to drive for plan B to save you money?",
+        "Image Links": [],
+        "Answer": "150",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the lines given by the equations below are parallel, perpendicular, or neither parallel nor perpendicular:",
+        "Question": "Find the area of a triangle bounded by the y axis, the line $$f ( x ) = 12 - 4 x$$ , and the line perpendicular to $$f$$ that passes through the origin.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the lines given by the equations below are parallel, perpendicular, or neither parallel nor perpendicular:",
+        "Question": "A town\u2019s population increases at a constant rate. In 2010 the population was 65,000. By 2012 the population had increased to 90,000. Assuming this trend continues, predict the population in 2018.",
+        "Image Links": [],
+        "Answer": "165,000",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the lines given by the equations below are parallel, perpendicular, or neither parallel nor perpendicular:",
+        "Question": "The number of people afflicted with the common cold in the winter months dropped steadily by 25 each year since 2002 until 2012. In 2002, 8,040 people were inflicted. Find the linear function that models the number of people afflicted with the common cold $$C$$ as a function of the year, $$t .$$ When will less than 6,000 people be afflicted?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the graph in Figure 3 , showing the profit, $$y$$ , in thousands of dollars, of a company in a given year, $$x$$ , where $$x$$ represents years since 1980.\nFigure 3",
+        "Question": "Find the linear function $$y$$ , where $$y$$ depends on $$x$$ , the number of years since 1980.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/bb29c461e3cdf022bfd0e468c15d2745a5280fb8"
+        ],
+        "Answer": "$$y = 875 x + 10 , 675$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the graph in Figure 3 , showing the profit, $$y$$ , in thousands of dollars, of a company in a given year, $$x$$ , where $$x$$ represents years since 1980.\nFigure 3",
+        "Question": "Find and interpret the y -intercept.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/bb29c461e3cdf022bfd0e468c15d2745a5280fb8"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the graph in Figure 3 , showing the profit, $$y$$ , in thousands of dollars, of a company in a given year, $$x$$ , where $$x$$ represents years since 1980.\nFigure 3",
+        "Question": "In 2004, a school population was 1250. By 2012 the population had dropped to 875. Assume the population is changing linearly. \u24d0 How much did the population drop between the year 2004 and 2012? \u24d1 What is the average population decline per year? \u24d2 Find an equation for the population, P , of the school t years after 2004.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/bb29c461e3cdf022bfd0e468c15d2745a5280fb8"
+        ],
+        "Answer": "a) 375 ; b) dropped an average of 46.875, or about 47 people per year ; c) $$y = - 46.875 t + 1250$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the graph in Figure 3 , showing the profit, $$y$$ , in thousands of dollars, of a company in a given year, $$x$$ , where $$x$$ represents years since 1980.\nFigure 3",
+        "Question": "Draw a scatter plot for the data provided in Table 3 . Then determine whether the data appears to be linearly related. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\n0 & 2 & 4 & 6 & 8 & 10 \\\\ \\hline\n-450 & -200 & 10 & 265 & 500 & 755 \\\\ \\hline\n\\end{tabular}\n\\end{table} Table 3",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/bb29c461e3cdf022bfd0e468c15d2745a5280fb8"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the graph in Figure 3 , showing the profit, $$y$$ , in thousands of dollars, of a company in a given year, $$x$$ , where $$x$$ represents years since 1980.\nFigure 3",
+        "Question": "Draw a best-fit line for the plotted data.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9cf59d69cd7c32d0cd7612f75bcd0f2ed9f0b685",
+            "https://openstax.org/apps/archive/20240812.170248/resources/bb29c461e3cdf022bfd0e468c15d2745a5280fb8"
+        ],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0bbdc170ab786b641a5f08bcbf62e42d62d57ebd"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Table 4 , which shows the percent of unemployed persons 25 years or older who are college graduates in a particular city, by year.\nTable 4\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\nYear & 2000 & 2002 & 2005 & 2007 & 2010 \\\\ \\hline\nPercent Graduates & 8.5 & 8.0 & 7.2 & 6.7 & 6.4 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "Determine whether the trend appears linear. If so, and assuming the trend continues, find a linear regression model to predict the percent of unemployed in a given year to three decimal places.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Table 4 , which shows the percent of unemployed persons 25 years or older who are college graduates in a particular city, by year.\nTable 4\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\nYear & 2000 & 2002 & 2005 & 2007 & 2010 \\\\ \\hline\nPercent Graduates & 8.5 & 8.0 & 7.2 & 6.7 & 6.4 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "In what year will the percentage drop below 4%?",
+        "Image Links": [],
+        "Answer": "Early in 2018",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use Table 4 , which shows the percent of unemployed persons 25 years or older who are college graduates in a particular city, by year.\nTable 4\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\nYear & 2000 & 2002 & 2005 & 2007 & 2010 \\\\ \\hline\nPercent Graduates & 8.5 & 8.0 & 7.2 & 6.7 & 6.4 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "Based on the set of data given in Table 5 , calculate the regression line using a calculator or other technology tool, and determine the correlation coefficient. Round to three decimal places of accuracy. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline\n$$x$$ & 16 & 18 & 20 & 24 & 26 \\\\ \\hline\n$$y$$ & 106 & 110 & 115 & 120 & 125 \\\\ \\hline\n\\end{tabular}\n\\end{table} Table 5",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "$$\\text{(4,500,\u00a02000);\u00a0(4,700,\u00a02001);\u00a0(5,200,\u00a02003);\u00a0(5,800,\u00a02006)}$$",
+        "Question": "Use linear regression to determine a function y , where the year depends on the population. Round to three decimal places of accuracy.",
+        "Image Links": [],
+        "Answer": "$$y = 0.00455 x + 1979.5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "$$\\text{(4,500,\u00a02000);\u00a0(4,700,\u00a02001);\u00a0(5,200,\u00a02003);\u00a0(5,800,\u00a02006)}$$",
+        "Question": "Predict when the population will hit 20,000.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "$$\\text{(4,500,\u00a02000);\u00a0(4,700,\u00a02001);\u00a0(5,200,\u00a02003);\u00a0(5,800,\u00a02006)}$$",
+        "Question": "What is the correlation coefficient for this model?",
+        "Image Links": [],
+        "Answer": "$$r = 0.999$$",
+        "Answer Image Links": []
+    }
+]

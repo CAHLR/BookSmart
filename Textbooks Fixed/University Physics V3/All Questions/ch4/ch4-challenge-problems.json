@@ -1,0 +1,60 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Blue light of wavelength 450 nm falls on a slit of width 0.25 mm. A converging lens of focal length 20 cm is placed behind the slit and focuses the diffraction pattern on a screen. (a) How far is the screen from the lens? (b) What is the distance between the first and the third minima of the diffraction pattern?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "(a) Assume that the maxima are halfway between the minima of a single-slit diffraction pattern. The use the diameter and circumference of the phasor diagram, as described in Intensity in Single-Slit Diffraction, to determine the intensities of the third and fourth maxima in terms of the intensity of the central maximum. (b) Do the same calculation, using Equation 4.4.",
+        "Image Links": [],
+        "Answer": "a. $$\\text{I} = 0.00500 \\text{I}_{0} , 0.00335 \\text{I}_{0}$$ ; b. $$\\text{I} = 0.00500 \\text{I}_{0} , 0.00335 \\text{I}_{0}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "(a) By differentiating Equation 4.4, show that the higher-order maxima of the single-slit diffraction pattern occur at values of $$\\beta$$ that satisfy $$\\text{tan} \\beta = \\beta$$ . (b) Plot $$y = \\text{tan} \\beta$$ and $$y = \\beta$$ versus $$\\beta$$ and find the intersections of these two curves. What information do they give you about the locations of the maxima? (c) Convince yourself that these points do not appear exactly at $$\\beta = ( n + \\frac{1}{2} ) \u03c0,$$ where $$n = 0 , 1 , 2 , \\text{unicode[:ddot.]} ,$$ but are quite close to these values.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "What is the maximum number of lines per centimeter a diffraction grating can have and produce a complete first-order spectrum for visible light?",
+        "Image Links": [],
+        "Answer": "12,800",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Show that a diffraction grating cannot produce a second-order maximum for a given wavelength of light unless the first-order maximum is at an angle less than $$30.0 \\text{\u00b0}$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A He-Ne laser beam is reflected from the surface of a CD onto a wall. The brightest spot is the reflected beam at an angle equal to the angle of incidence. However, fringes are also observed. If the wall is 1.50 m from the CD, and the first fringe is 0.600 m from the central maximum, what is the spacing of grooves on the CD?",
+        "Image Links": [],
+        "Answer": "$$1.58 \\times 10^{-6} \\text{m}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Objects viewed through a microscope are placed very close to the focal point of the objective lens. Show that the minimum separation x of two objects resolvable through the microscope is given by $$x = \\frac{1.22 \\lambda f_{0}}{D} ,$$ 4.7 where $$f_{0}$$ is the focal length and D is the diameter of the objective lens as shown below.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ed072ac9a493ac949e863e023795e29fc882c1a9"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

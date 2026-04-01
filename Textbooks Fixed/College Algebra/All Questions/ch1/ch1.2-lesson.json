@@ -1,0 +1,474 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Is $$2^{3}$$ the same as $$3^{2} ?$$ Explain.",
+        "Image Links": [],
+        "Answer": "No, the two expressions are not the same. An exponent tells how many times you multiply the base. So $$2^{3}$$ is the same as $$2 \\times 2 \\times 2 ,$$ which is 8. $$3^{2}$$ is the same as $$3 \\times 3 ,$$ which is 9.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "When can you add two exponents?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What is the purpose of scientific notation?",
+        "Image Links": [],
+        "Answer": "It is a method of writing very small and very large numbers.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Explain what a negative exponent does.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$9^{2}$$",
+        "Image Links": [],
+        "Answer": "81",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$15^{-2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$3^{2} \\times 3^{3}$$",
+        "Image Links": [],
+        "Answer": "243",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$4^{4} \\div 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$( 2^{2} )^{-2}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{16}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$( 5 - 8 )^{0}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$11^{3} \\div 11^{4}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{11}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$6^{5} \\times 6^{-7}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$( 8^{0} )^{2}$$",
+        "Image Links": [],
+        "Answer": "1",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$5^{-2} \\div 5^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, write each expression with a single base. Do not simplify further. Write answers with positive exponents.",
+        "Question": "$$4^{2} \\times 4^{3} \\div 4^{-4}$$",
+        "Image Links": [],
+        "Answer": "$$4^{9}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, write each expression with a single base. Do not simplify further. Write answers with positive exponents.",
+        "Question": "$$\\frac{6^{12}}{6^{9}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, write each expression with a single base. Do not simplify further. Write answers with positive exponents.",
+        "Question": "$$( 12^{3} \\times 12 )^{10}$$",
+        "Image Links": [],
+        "Answer": "$$12^{40}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, write each expression with a single base. Do not simplify further. Write answers with positive exponents.",
+        "Question": "$$10^{6} \\div ( 10^{10} )^{-2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, write each expression with a single base. Do not simplify further. Write answers with positive exponents.",
+        "Question": "$$7^{-6} \\times 7^{-3}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{7^{9}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, write each expression with a single base. Do not simplify further. Write answers with positive exponents.",
+        "Question": "$$( 3^{3} \\div 3^{4} )^{5}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, express the decimal in scientific notation.",
+        "Question": "0.0000314",
+        "Image Links": [],
+        "Answer": "$$3.14 \\times 10^{- 5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, express the decimal in scientific notation.",
+        "Question": "148,000,000",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, convert each number in scientific notation to standard notation.",
+        "Question": "$$1.6 \\times 10^{10}$$",
+        "Image Links": [],
+        "Answer": "16,000,000,000",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, convert each number in scientific notation to standard notation.",
+        "Question": "$$9.8 \\times 10^{-9}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$\\frac{a^{3} a^{2}}{a}$$",
+        "Image Links": [],
+        "Answer": "$$a^{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$\\frac{m n^{2}}{m^{-2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$( b^{3} c^{4} )^{2}$$",
+        "Image Links": [],
+        "Answer": "$$b^{6} c^{8}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$( \\frac{x^{-3}}{y^{2}} )^{-5}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$a b^{2} \\div d^{-3}$$",
+        "Image Links": [],
+        "Answer": "$$a b^{2} d^{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$( w^{0} x^{5} )^{-1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$\\frac{m^{4}}{n^{0}}$$",
+        "Image Links": [],
+        "Answer": "$$m^{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$y^{-4} ( y^{2} )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$\\frac{p^{-4} q^{2}}{p^{2} q^{-3}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{q^{5}}{p^{6}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$( l \\times w )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$( y^{7} )^{3} \\div x^{14}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{y^{21}}{x^{14}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$( \\frac{a}{2^{3}} )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$( 25 m ) \\div ( 5^{0} m )$$",
+        "Image Links": [],
+        "Answer": "$$25$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$\\frac{( 16 \\sqrt{x} )^{2}}{y^{-1}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$\\frac{2^{3}}{( 3 a )^{-2}}$$",
+        "Image Links": [],
+        "Answer": "$$72 a^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$( m a^{6} )^{2} \\frac{1}{m^{3} a^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$( b^{-3} c )^{3}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{c^{3}}{b^{9}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$( x^{2} y^{13} \\div y^{0} )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$( 9 z^{3} )^{-2} y$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{y}{81 z^{6}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "To reach escape velocity, a rocket must travel at the rate of $$2.2 \\times 10^{6}$$ ft/min. Rewrite the rate in standard notation.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A dime is the thinnest coin in U.S. currency. A dime\u2019s thickness measures $$1.35 \\times 10^{-3}$$ m. Rewrite the number in standard notation.",
+        "Image Links": [],
+        "Answer": "0.00135 m",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "The average distance between Earth and the Sun is 92,960,000 mi. Rewrite the distance using scientific notation.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A terabyte is made of approximately 1,099,500,000,000 bytes. Rewrite in scientific notation.",
+        "Image Links": [],
+        "Answer": "$$1.0995 \\times 10^{12}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "The Gross Domestic Product (GDP) for the United States in the first quarter of 2014 was $$\\text{$} 1.71496 \\times 10^{13} .$$ Rewrite the GDP in standard notation.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "One picometer is approximately $$3.397 \\times 10^{-11}$$ in. Rewrite this length using standard notation.",
+        "Image Links": [],
+        "Answer": "0.00000000003397 in.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "The value of the services sector of the U.S. economy in the first quarter of 2012 was $10,633.6 billion. Rewrite this amount in scientific notation.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a graphing calculator to simplify. Round the answers to the nearest hundredth.",
+        "Question": "$$( \\frac{12^{3} m^{33}}{4^{-3}} )^{2}$$",
+        "Image Links": [],
+        "Answer": "12,230,590,464 $$m^{66}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a graphing calculator to simplify. Round the answers to the nearest hundredth.",
+        "Question": "$$17^{3} \\div 15^{2} x^{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$( \\frac{3^{2}}{a^{3}} )^{-2} ( \\frac{a^{4}}{2^{2}} )^{2}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{a^{14}}{1296}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$( 6^{2} -24 )^{2} \\div ( \\frac{x}{y} )^{-5}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$\\frac{m^{2} n^{3}}{a^{2} c^{-3}} \\cdot \\frac{a^{-7} n^{-2}}{m^{2} c^{4}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{n}{a^{9} c}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$( \\frac{x^{6} y^{3}}{x^{3} y^{-3}} \\cdot \\frac{y^{-7}}{x^{-3}} )^{10}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "$$( \\frac{( a b^{2} c )^{-3}}{b^{-3}} )^{2}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{a^{6} b^{6} c^{6}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "Avogadro\u2019s constant is used to calculate the number of particles in a mole. A mole is a basic unit in chemistry to measure the amount of a substance. The constant is $$6.0221413 \\times 10^{23} .$$ Write Avogadro\u2019s constant in standard notation.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, simplify the given expression. Write answers with positive exponents.",
+        "Question": "Planck\u2019s constant is an important unit of measure in quantum physics. It describes the relationship between energy and frequency. The constant is written as $$6.62606957 \\times 10^{-34} .$$ Write Planck\u2019s constant in standard notation.",
+        "Image Links": [],
+        "Answer": "0.000000000000000000000000000000000662606957",
+        "Answer Image Links": []
+    }
+]

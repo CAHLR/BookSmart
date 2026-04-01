@@ -1,0 +1,688 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "If you are looking for a missing side of a triangle, what do you need to know when using the Law of Cosines?",
+        "Image Links": [],
+        "Answer": "two sides and the angle opposite the missing side.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "If you are looking for a missing angle of a triangle, what do you need to know when using the Law of Cosines?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Explain what $$s$$ represents in Heron\u2019s formula.",
+        "Image Links": [],
+        "Answer": "$$s$$ is the semi-perimeter, which is half the perimeter of the triangle.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Explain the relationship between the Pythagorean Theorem and the Law of Cosines.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "When must you use the Law of Cosines instead of the Pythagorean Theorem?",
+        "Image Links": [],
+        "Answer": "The Law of Cosines must be used for any oblique (non-right) triangle.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, assume $$\\alpha$$ is opposite side $$a , \\beta$$ is opposite side $$b ,$$ and $$\\gamma$$ is opposite side $$c .$$ If possible, solve each triangle for the unknown side. Round to the nearest tenth.",
+        "Question": "$$\\gamma = 41.2\u00b0 , a = 2.49 , b = 3.13$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, assume $$\\alpha$$ is opposite side $$a , \\beta$$ is opposite side $$b ,$$ and $$\\gamma$$ is opposite side $$c .$$ If possible, solve each triangle for the unknown side. Round to the nearest tenth.",
+        "Question": "$$\\alpha = 120\u00b0 , b = 6 , c = 7$$",
+        "Image Links": [],
+        "Answer": "11.3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, assume $$\\alpha$$ is opposite side $$a , \\beta$$ is opposite side $$b ,$$ and $$\\gamma$$ is opposite side $$c .$$ If possible, solve each triangle for the unknown side. Round to the nearest tenth.",
+        "Question": "$$\\beta = 58.7\u00b0 , a = 10.6 , c = 15.7$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, assume $$\\alpha$$ is opposite side $$a , \\beta$$ is opposite side $$b ,$$ and $$\\gamma$$ is opposite side $$c .$$ If possible, solve each triangle for the unknown side. Round to the nearest tenth.",
+        "Question": "$$\\gamma = 115\u00b0 , a = 18 , b = 23$$",
+        "Image Links": [],
+        "Answer": "34.7",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, assume $$\\alpha$$ is opposite side $$a , \\beta$$ is opposite side $$b ,$$ and $$\\gamma$$ is opposite side $$c .$$ If possible, solve each triangle for the unknown side. Round to the nearest tenth.",
+        "Question": "$$\\alpha = 119\u00b0 , a = 26 , b = 14$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, assume $$\\alpha$$ is opposite side $$a , \\beta$$ is opposite side $$b ,$$ and $$\\gamma$$ is opposite side $$c .$$ If possible, solve each triangle for the unknown side. Round to the nearest tenth.",
+        "Question": "$$\\gamma = 113\u00b0 , b = 10 , c = 32$$",
+        "Image Links": [],
+        "Answer": "26.7",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, assume $$\\alpha$$ is opposite side $$a , \\beta$$ is opposite side $$b ,$$ and $$\\gamma$$ is opposite side $$c .$$ If possible, solve each triangle for the unknown side. Round to the nearest tenth.",
+        "Question": "$$\\beta = 67\u00b0 , a = 49 , b = 38$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, assume $$\\alpha$$ is opposite side $$a , \\beta$$ is opposite side $$b ,$$ and $$\\gamma$$ is opposite side $$c .$$ If possible, solve each triangle for the unknown side. Round to the nearest tenth.",
+        "Question": "$$\\alpha = 43.1\u00b0 , a = 184.2 , b = 242.8$$",
+        "Image Links": [],
+        "Answer": "$$c = 257.3 , 96.7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, assume $$\\alpha$$ is opposite side $$a , \\beta$$ is opposite side $$b ,$$ and $$\\gamma$$ is opposite side $$c .$$ If possible, solve each triangle for the unknown side. Round to the nearest tenth.",
+        "Question": "$$\\alpha = 36.6\u00b0 , a = 186.2 , b = 242.2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, assume $$\\alpha$$ is opposite side $$a , \\beta$$ is opposite side $$b ,$$ and $$\\gamma$$ is opposite side $$c .$$ If possible, solve each triangle for the unknown side. Round to the nearest tenth.",
+        "Question": "$$\\beta = 50\u00b0 , a = 105 , b = 45 {}_{}^{}_{}^{}$$",
+        "Image Links": [],
+        "Answer": "not possible",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Law of Cosines to solve for the missing angle of the oblique triangle. Round to the nearest tenth.",
+        "Question": "$$a = 42 , b = 19 , c = 30 ;$$ find angle $$A .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Law of Cosines to solve for the missing angle of the oblique triangle. Round to the nearest tenth.",
+        "Question": "$$a = 14 , b = 13 , c = 20 ;$$ find angle $$C .$$",
+        "Image Links": [],
+        "Answer": "95.5\u00b0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Law of Cosines to solve for the missing angle of the oblique triangle. Round to the nearest tenth.",
+        "Question": "$$a = 16 , b = 31 , c = 20 ;$$ find angle $$B .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Law of Cosines to solve for the missing angle of the oblique triangle. Round to the nearest tenth.",
+        "Question": "$$a = 13 , b = 22 , c = 28 ;$$ find angle $$A .$$",
+        "Image Links": [],
+        "Answer": "26.9\u00b0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Law of Cosines to solve for the missing angle of the oblique triangle. Round to the nearest tenth.",
+        "Question": "$$a = 108 , b = 132 , c = 160 ;$$ find angle $$C .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the triangle. Round to the nearest tenth.",
+        "Question": "$$A = 35\u00b0 , b = 8 , c = 11$$",
+        "Image Links": [],
+        "Answer": "$$B \\approx 45.9\u00b0 , C \\approx 99.1\u00b0 , a \\approx 6.4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the triangle. Round to the nearest tenth.",
+        "Question": "$$B = 88\u00b0 , a = 4.4 , c = 5.2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the triangle. Round to the nearest tenth.",
+        "Question": "$$C = 121\u00b0 , a = 21 , b = 37$$",
+        "Image Links": [],
+        "Answer": "$$A \\approx 20.6\u00b0 , B \\approx 38.4\u00b0 , c \\approx 51.1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the triangle. Round to the nearest tenth.",
+        "Question": "$$a = 13 , b = 11 , c = 15$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the triangle. Round to the nearest tenth.",
+        "Question": "$$a = 3.1 , b = 3.5 , c = 5$$",
+        "Image Links": [],
+        "Answer": "$$A \\approx 37.8\u00b0 , B \\approx 43.8 , C \\approx 98.4\u00b0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve the triangle. Round to the nearest tenth.",
+        "Question": "$$a = 51 , b = 25 , c = 29$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use Heron\u2019s formula to find the area of the triangle. Round to the nearest hundredth.",
+        "Question": "Find the area of a triangle with sides of length 18 in, 21 in, and 32 in. Round to the nearest tenth.",
+        "Image Links": [],
+        "Answer": "177.56 in 2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use Heron\u2019s formula to find the area of the triangle. Round to the nearest hundredth.",
+        "Question": "Find the area of a triangle with sides of length 20 cm, 26 cm, and 37 cm. Round to the nearest tenth.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use Heron\u2019s formula to find the area of the triangle. Round to the nearest hundredth.",
+        "Question": "$$a = \\frac{1}{2} \\text{m} , b = \\frac{1}{3} \\text{m} , c = \\frac{1}{4} \\text{m}$$",
+        "Image Links": [],
+        "Answer": "0.04 m 2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use Heron\u2019s formula to find the area of the triangle. Round to the nearest hundredth.",
+        "Question": "$$a = 12.4 \\text{\u00a0ft} , b = 13.7 \\text{\u00a0ft} , c = 20.2 \\text{\u00a0ft}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use Heron\u2019s formula to find the area of the triangle. Round to the nearest hundredth.",
+        "Question": "$$a = 1.6 \\text{\u00a0yd} , b = 2.6 \\text{\u00a0yd} , c = 4.1 \\text{\u00a0yd}$$",
+        "Image Links": [],
+        "Answer": "0.91 yd 2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the length of side $$x .$$ Round to the nearest tenth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6a347845465808c3ca0a189023106c08a0e595f3"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the length of side $$x .$$ Round to the nearest tenth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/47d29e2654fa8b9e09cfb360a4aab31a5fedbae0"
+        ],
+        "Answer": "3.0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the length of side $$x .$$ Round to the nearest tenth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ddcbe86568aac9912f4544b432975415a78b42ce"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the length of side $$x .$$ Round to the nearest tenth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8faea6838f68393d28638cbe3b396c4bdbe6f1ca"
+        ],
+        "Answer": "29.1",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the length of side $$x .$$ Round to the nearest tenth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ae7d1ffd098d977c75b78f0896199e71fda74fae"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the length of side $$x .$$ Round to the nearest tenth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/bf2eb61c08473e1b7adc403383e2ffe1f0dd5d0b"
+        ],
+        "Answer": "0.5",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the measurement of angle $$A .$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b4ccc5c9cec4873aa522c0eb44f3770c2afa93cf"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the measurement of angle $$A .$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/412f451c0a00cc5b38fd4f2bc253e2bd155b43ea"
+        ],
+        "Answer": "70.7\u00b0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the measurement of angle $$A .$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/11830cd9a2c4f6ca6367ab697343077a820f7782"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the measurement of angle $$A .$$",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9fade0618643b7905e2322d083b9251fa7c33a1c"
+        ],
+        "Answer": "77.4\u00b0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the measurement of angle $$A .$$",
+        "Question": "Find the measure of each angle in the triangle shown in Figure 11 . Round to the nearest tenth. Figure 11",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8c8789b10f09a50161afadb22a016ee437750eb8"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, solve for the unknown side. Round to the nearest tenth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/28426b316f8010d2276c24cd262e7f787529e141"
+        ],
+        "Answer": "25.0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, solve for the unknown side. Round to the nearest tenth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/70594441b2e82b2f37e4a6eb4f0f3ab7d4d273f6"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, solve for the unknown side. Round to the nearest tenth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9c5ba08512bacc7163bdbe89db969d1fd44444db"
+        ],
+        "Answer": "9.3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, solve for the unknown side. Round to the nearest tenth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/79762ce0a2a4802b49554bc40b73d507bd02bac9"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the area of the triangle. Round to the nearest hundredth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/237ac80683dfec0a99ef16f11491cc88df14f0dd"
+        ],
+        "Answer": "43.52",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the area of the triangle. Round to the nearest hundredth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/93dbdbaa5afb681a73be869674c253915af68b6f"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the area of the triangle. Round to the nearest hundredth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7892611e3fe6814a91e7126420d7b3a69051cf40"
+        ],
+        "Answer": "1.41",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the area of the triangle. Round to the nearest hundredth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8727da08f6f9e67da9351118693fb5da8a839897"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the area of the triangle. Round to the nearest hundredth.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/fb01d3e73cce0d71fa0898eb24ce10e9ff9aaaec"
+        ],
+        "Answer": "0.14",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "A parallelogram has sides of length 16 units and 10 units. The shorter diagonal is 12 units. Find the measure of the longer diagonal.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "The sides of a parallelogram are 11 feet and 17 feet. The longer diagonal is 22 feet. Find the length of the shorter diagonal.",
+        "Image Links": [],
+        "Answer": "18.3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "The sides of a parallelogram are 28 centimeters and 40 centimeters. The measure of the larger angle is 100\u00b0. Find the length of the shorter diagonal.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "A regular octagon is inscribed in a circle with a radius of 8 inches. (See Figure 12 .) Find the perimeter of the octagon. Figure 12",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/90fc7dad6e16fe9b8296e1cafca5f1e832e99edb"
+        ],
+        "Answer": "48.98",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "A regular pentagon is inscribed in a circle of radius 12 cm. (See Figure 13 .) Find the perimeter of the pentagon.  Round to the nearest tenth of a centimeter. Figure 13",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/52c43503298fd8dd66234d5814444f18bb5c9e56"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, suppose that $$x^{2} = 25 + 36 - 60 \\cos{} ( 52 )$$ represents the relationship of three sides of a triangle and the cosine of an angle.",
+        "Question": "Draw the triangle.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/895b0020bf96e27a04ead145f45b42cbc20ad113"
+        ]
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, suppose that $$x^{2} = 25 + 36 - 60 \\cos{} ( 52 )$$ represents the relationship of three sides of a triangle and the cosine of an angle.",
+        "Question": "Find the length of the third side.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, find the area of the triangle.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/46defb3cedb4052b4b655f8940cda2476ea1f401"
+        ],
+        "Answer": "7.62",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, find the area of the triangle.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9ed014a0c40c1635d837dcf56038ccdc63001f22"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, find the area of the triangle.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/270412607b35cba9530a322e7620c534af18d938"
+        ],
+        "Answer": "85.1",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A surveyor has taken the measurements shown in Figure 14 . Find the distance across the lake. Round answers to the nearest tenth. Figure 14",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6de23ee9ef8cde1f5701a8dcec5df3818cb425f6"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A satellite calculates the distances and angle shown in Figure 15 (not to scale). Find the distance between the two cities. Round answers to the nearest tenth. Figure 15",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9ef8198474b337a5f0f267ccce350c9c2cdf126e"
+        ],
+        "Answer": "24.0 km",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "An airplane flies 220 miles with a heading of 40\u00b0, and then flies 180 miles with a heading of 170\u00b0. How far is the plane from its starting point, and at what heading? Round answers to the nearest tenth.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A 113-foot tower is located on a hill that is inclined 34\u00b0 to the horizontal, as shown in Figure 16 . A guy-wire is to be attached to the top of the tower and anchored at a point 98 feet uphill from the base of the tower.  Find the length of wire needed. Figure 16",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/714239b861c174efd77e12518f61f8ad094165f3"
+        ],
+        "Answer": "99.9 ft",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Two ships left a port at the same time. One ship traveled at a speed of 18 miles per hour at a heading of 320\u00b0. The other ship traveled at a speed of 22 miles per hour at a heading of 194\u00b0. Find the distance between the two ships after 10 hours of travel.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "The graph in Figure 17 represents two boats departing at the same time from the same dock. The first boat is traveling at 18 miles per hour at a heading of 327\u00b0 and the second boat is traveling at 4 miles per hour at a heading of 60\u00b0. Find the distance between the two boats after 2 hours. Figure 17",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/357853e9f241ff4c77e61f4f9cf5c334a05de8c3"
+        ],
+        "Answer": "37.3 miles",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A triangular swimming pool measures 40 feet on one side and 65 feet on another side. These sides form an angle that measures 50\u00b0. How long is the third side (to the nearest tenth)?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A pilot flies in a straight path for 1 hour 30 min. She then makes a course correction, heading 10\u00b0 to the right of her original course, and flies 2 hours in the new direction. If she maintains a constant speed of 680 miles per hour, how far is she from her starting position?",
+        "Image Links": [],
+        "Answer": "2371 miles",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Los Angeles is 1,744 miles from Chicago, Chicago is 714 miles from New York, and New York is 2,451 miles from Los Angeles.  Draw a triangle connecting these three cities, and find the angles in the triangle.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Philadelphia is 140 miles from Washington, D.C., Washington, D.C. is 442 miles from Boston, and Boston is 315 miles from Philadelphia. Draw a triangle connecting these three cities and find the angles in the triangle.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a72d77ef2ef6edfbfbf36da0697300afedc257c5"
+        ]
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Two planes leave the same airport at the same time. One flies at 20\u00b0 east of north at 500 miles per hour. The second flies at 30\u00b0 east of south at 600 miles per hour. How far apart are the planes after 2 hours?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Two airplanes take off in different directions. One travels 300 mph due west and the other travels 25\u00b0 north of west at 420 mph. After 90 minutes, how far apart are they, assuming they are flying at the same altitude?",
+        "Image Links": [],
+        "Answer": "292.4 miles",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A parallelogram has sides of length 15.4 units and 9.8 units. Its area is 72.9 square units. Find the measure of the longer diagonal.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "The four sequential sides of a quadrilateral have lengths 4.5 cm, 7.9 cm, 9.4 cm, and 12.9 cm.  The angle between the two smallest sides is 117\u00b0. What is the area of this quadrilateral?",
+        "Image Links": [],
+        "Answer": "65.4 cm 2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "The four sequential sides of a quadrilateral have lengths 5.7 cm, 7.2 cm, 9.4 cm, and 12.8 cm.  The angle between the two smallest sides is 106\u00b0. What is the area of this quadrilateral?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Find the area of a triangular piece of land that measures 30 feet on one side and 42 feet on another; the included angle measures 132\u00b0. Round to the nearest whole square foot.",
+        "Image Links": [],
+        "Answer": "468 ft 2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Find the area of a triangular piece of land that measures 110 feet on one side and 250 feet on another; the included angle measures 85\u00b0. Round to the nearest whole square foot.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

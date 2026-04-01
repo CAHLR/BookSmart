@@ -1,0 +1,20 @@
+[
+  {
+    "Topic": "Check Your Understanding 10.4",
+    "Problem Statement": "",
+    "Question": "In radioactive beta decay, does the atomic mass number, A , increase or decrease?",
+    "Image Links": [],
+    "Answer": "Neither; it stays the same.",
+    "Answer Image Links": [],
+    "o3 Answer": "Neither.  \nIn β-decay a neutron inside the nucleus turns into a proton (β– decay) or a proton turns into a neutron (β+ decay). In either case the total number of nucleons (protons + neutrons) in the nucleus does not change, so the atomic mass number A remains the same. Only the atomic number Z changes by ±1.",
+    "o4-mini Answer": "In both β– and β+ decay a neutron is simply converted to a proton (or vice‐versa), so the total number of nucleons (A) stays the same.  Therefore A neither increases nor decreases in β decay.",
+    "deepseek-chat Answer": "In radioactive beta decay, the atomic mass number \\( A \\) remains **unchanged**. \n\nHere's why:\n\n1. **Beta-minus decay (β⁻)**:\n   - A neutron is converted into a proton, an electron (β⁻ particle), and an electron antineutrino.\n   - The number of protons increases by 1, and the number of neutrons decreases by 1.\n   - Since the mass number \\( A \\) is the sum of protons and neutrons, it stays the same.\n\n2. **Beta-plus decay (β⁺)**:\n   - A proton is converted into a neutron, a positron (β⁺ particle), and an electron neutrino.\n   - The number of protons decreases by 1, and the number of neutrons increases by 1.\n   - Again, the total number of nucleons (protons + neutrons) remains constant, so \\( A \\) does not change.\n\nThus, in both types of beta decay, the **atomic mass number \\( A \\) neither increases nor decreases**. Only the atomic number \\( Z \\) (number of protons) changes.",
+    "gemini-2.5-pro Answer": "Excellent question. Let's break down what happens during beta decay.\n\n### Solution\n\nIn radioactive beta decay, the atomic mass number, **A**, **neither increases nor decreases; it remains the same**.\n\n### Explanation\n\n1.  **What is the Atomic Mass Number (A)?** The atomic mass number, A, represents the total number of nucleons (protons and neutrons) in an atom's nucleus.\n    *   A = (Number of Protons) + (Number of Neutrons)\n\n2.  **What happens in Beta Decay?** Beta decay involves the transformation of one type of nucleon into another *within the nucleus*.\n    *   **In beta-minus (β⁻) decay:** A neutron turns into a proton, and an electron (the beta particle) is emitted.\n    *   **In beta-plus (β⁺) decay:** A proton turns into a neutron, and a positron (the beta particle) is emitted.\n\n3.  **Putting it together:** In both cases, a nucleon is simply converted from one type to another. The *total number* of nucleons does not change.\n\n    *   For β⁻ decay: (Neutrons - 1), (Protons + 1) -> Total (A) is unchanged.\n    *   For β⁺ decay: (Protons - 1), (Neutrons + 1) -> Total (A) is unchanged.\n\nTherefore, while the atomic number (Z, the number of protons) changes, the atomic mass number (A) stays constant.",
+    "gpt-5 Answer": "Neither—A stays the same. In beta decay (β− or β+), a neutron converts to a proton or vice versa, so Z changes by ±1, but the total number of nucleons (A = Z + N) is unchanged.",
+    "o3 Eval": true,
+    "o4-mini Eval": true,
+    "deepseek-chat Eval": true,
+    "gemini-2.5-pro Eval": true,
+    "gpt-5 Eval": true
+  }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "Determine whether the ordered pair $$( 8 , 5 )$$ is a solution to the following system. $$\\left .\\begin{matrix}{a}5 x -4 y = 20 \\\\ 2 x + 1 = 3 y\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "Not a solution.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "Solve the following system of equations by graphing. $$\\left .\\begin{matrix}{a}2 x - 5 y = -25 \\\\ - 4 x + 5 y = 35\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "The solution to the system is the ordered pair $$( -5 , 3 ) .$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5b7a7cb6c6469c2b48ae39ba3ba7b010e4f9056f"
+        ]
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "Solve the following system of equations by substitution. $$\\left .\\begin{matrix}{a}x = y + 3 \\\\ 4 = 3 x -2 y\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( -2 , -5 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "Solve the system of equations by addition. $$\\left .\\begin{matrix}{a}2 x -7 y = 2 \\\\ 3 x + y = -20\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( -6 , -2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #5",
+        "Problem Statement": "",
+        "Question": "Solve the system of equations by addition. $$\\left .\\begin{matrix}{aaa}2 x + 3 y & = & 8 \\\\ 3 x + 5 y & = & 10\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( 10 , -4 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #6",
+        "Problem Statement": "",
+        "Question": "Solve the following system of equations in two variables. $$\\left .\\begin{matrix}{a}2 y -2 x = 2 \\\\ 2 y -2 x = 6\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "No solution. It is an inconsistent system.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #7",
+        "Problem Statement": "",
+        "Question": "Solve the following system of equations in two variables. $$None$$",
+        "Image Links": [],
+        "Answer": "The system is dependent so there are infinite solutions of the form $$( x , 2 x + 5 ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #8",
+        "Problem Statement": "",
+        "Question": "Meal tickets at the circus cost $$\\text{$} 4.00$$ for children and $$\\text{$} 12.00$$ for adults. If $$1,650$$ meal tickets were bought for a total of $$\\text{$} 14,200 ,$$ how many children and how many adults bought meal tickets?",
+        "Image Links": [],
+        "Answer": "700 children, 950 adults",
+        "Answer Image Links": []
+    }
+]

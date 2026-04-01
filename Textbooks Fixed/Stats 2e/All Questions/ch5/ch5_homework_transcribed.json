@@ -1,0 +1,242 @@
+[
+    {
+        "Topic": "5.1 Continuous Probability Functions",
+        "Problem Statement": "For each probability and percentile problem, draw the picture.",
+        "Question": "Consider the following experiment. You are one of 100 people enlisted to take part in a study to determine the percent of nurses in America with an R.N. (registered nurse) degree. \u00a0You ask nurses if they have an R.N. degree. \u00a0The nurses answer \u201cyes\u201d or \u201cno.\u201d \u00a0You then calculate the percentage of nurses with an R.N. degree. \u00a0You give that percentage to your supervisor. a) What part of the experiment will yield discrete data? b) What part of the experiment will yield continuous data?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.1 Continuous Probability Functions",
+        "Problem Statement": "For each probability and percentile problem, draw the picture.",
+        "Question": "When age is rounded to the nearest year, do the data stay continuous, or do they become discrete? \u00a0Why?",
+        "Image Links": [],
+        "Answer": "Age is a measurement, regardless of the accuracy used.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "For each probability and percentile problem, draw the picture.",
+        "Question": "Births are approximately uniformly distributed throughout the year. They can be said to follow a uniform distribution from 0 to 2 (spread of 52 weeks). a) X ~ _________ b) Graph the probability distribution. c) f ( x ) = _________ d) \u03bc = _________ e) \u03c3 = _________ f) Find the probability that a person is born at the exact moment week 19 ends.  That is, find P ( x = 19) = _________ g) P (2 < x < 31) = _________ h) Find the probability that a person is born after week 40. i) P (12 < x | x < 28) = _________ j) Find the 70 th percentile. k) Find the minimum for the upper quarter.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "For each probability and percentile problem, draw the picture.",
+        "Question": "A random number generator picks a number from one to nine in a uniform manner. a) X ~ _________ b) Graph the probability distribution. c) f ( x ) = _________ d) \u03bc = _________ e) \u03c3 = _________ f) P (3.5 < x < 7.25) = _________ g) P ( x > 5.67) h) P ( x > 5| x > 3) = _________ i) Find the 90 th percentile.",
+        "Image Links": [],
+        "Answer": "a) X ~ U (1, 9) b) Answers may vary. c) $$f ( x ) = \\frac{1}{8}$$ where $$1 \\le x \\le 9$$ d) five e) 2.3 f) $$\\frac{15}{32}$$ g) $$\\frac{333}{800}$$ h) $$\\frac{2}{3}$$ i) 8.2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "For each probability and percentile problem, draw the picture.",
+        "Question": "According to a study by Dr. John McDougall of his live-in weight loss program, the people who follow his program lose between six and 15 pounds a month until they approach trim body weight. Let\u2019s suppose that the weight loss is uniformly distributed. We are interested in the weight loss of a randomly selected individual following the program for one month. a) Define the random variable. X = _________ b) X ~ _________ c) Graph the probability distribution. d) f ( x ) = _________ e) \u03bc = _________ f) \u03c3 = _________ g) Find the probability that the individual lost more than ten pounds in a month. h) Suppose it is known that the individual lost more than ten pounds in a month. Find the probability that he lost less than 12 pounds in the month. i) P (7 < x < 13| x > 9) = __________. State this in a probability question, similarly to parts g and h, draw the picture, and find the probability.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "For each probability and percentile problem, draw the picture.",
+        "Question": "A subway train arrives every eight minutes during rush hour. We are interested in the length of time a commuter must wait for a train to arrive. The time follows a uniform distribution. a) Define the random variable. X = _______ b) X ~ _______ c) Graph the probability distribution. d) f ( x ) = _______ e) \u03bc = _______ f) \u03c3 = _______ g) Find the probability that the commuter waits less than one minute. h) Find the probability that the commuter waits between three and four minutes. i) Sixty percent of commuters wait more than how long for the train? State this in a probability question, similarly to parts g and h, draw the picture, and find the probability.",
+        "Image Links": [],
+        "Answer": "a) X represents the length of time a commuter must wait for a train to arrive on the Red Line. b) X ~ U (0, 8) c) Graph the probability distribution. d) $$f ( x ) = \\frac{1}{8}$$ where $$0 \\le  x  \\le 8$$ e) four f) 2.31 g) $$\\frac{1}{8}$$ h) $$\\frac{1}{8}$$ i) 3.2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "For each probability and percentile problem, draw the picture.",
+        "Question": "The age of a first grader on September 1 at Garden Elementary School is uniformly distributed from 5.8 to 6.8 years.  We randomly select one first grader from the class. a) Define the random variable. X = _________ b) X ~ _________ c) Graph the probability distribution. d) f ( x ) = _________ e) \u03bc = _________ f) \u03c3 = _________ g) Find the probability that she is over 6.5 years old. h) Find the probability that she is between four and six years old. i) Find the 70 th percentile for the age of first graders on September 1 at Garden Elementary School.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises. The Sky Train from the terminal to the rental-car and long-term parking center is supposed to arrive every eight minutes. The waiting times for the train are known to follow a uniform distribution.",
+        "Question": "What is the average waiting time (in minutes)? a) zero b) two c) three d) four",
+        "Image Links": [],
+        "Answer": "d",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises. The Sky Train from the terminal to the rental-car and long-term parking center is supposed to arrive every eight minutes. The waiting times for the train are known to follow a uniform distribution.",
+        "Question": "Find the 30 th percentile for the waiting times (in minutes). a) two b) 2.4 c) 2.75 d) three",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises. The Sky Train from the terminal to the rental-car and long-term parking center is supposed to arrive every eight minutes. The waiting times for the train are known to follow a uniform distribution.",
+        "Question": "The probability of waiting more than seven minutes given a person has waited more than four minutes is? a) 0.125 b) 0.25 c) 0.5 d) 0.75",
+        "Image Links": [],
+        "Answer": "b",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises. The Sky Train from the terminal to the rental-car and long-term parking center is supposed to arrive every eight minutes. The waiting times for the train are known to follow a uniform distribution.",
+        "Question": "The time (in minutes) until the next bus departs a major bus depot follows a distribution with f ( x ) = $$\\frac{1}{20}$$ where x goes from 25 to 45 minutes. a) Define the random variable. X = ________ b) X ~ ________ c) Graph the probability distribution. d) The distribution is ______________ (name of distribution). It is _____________ (discrete or continuous). e) \u03bc = ________ f) \u03c3 = ________ g) Find the probability that the time is at most 30 minutes. Sketch and label a graph of the distribution. Shade the area of interest.  Write the answer in a probability statement. h) Find the probability that the time is between 30 and 40 minutes. Sketch and label a graph of the distribution. Shade the area of interest. Write the answer in a probability statement. i) P (25 < x < 55) = _________. State this in a probability statement, similarly to parts g and h, draw the picture, and find the probability. j) Find the 90 th percentile. This means that 90% of the time, the time is less than _____ minutes. k) Find the 75 th percentile. In a complete sentence, state what this means. (See part j.) l) Find the probability that the time is more than 40 minutes given (or knowing that) it is at least 30 minutes.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises. The Sky Train from the terminal to the rental-car and long-term parking center is supposed to arrive every eight minutes. The waiting times for the train are known to follow a uniform distribution.",
+        "Question": "Suppose that the value of a stock varies each day from $16 to $25 with a uniform distribution. a) Find the probability that the value of the stock is more than $19. b) Find the probability that the value of the stock is between $19 and $22. c) Find the upper quartile - 25% of all days the stock is above what value? Draw the graph. d) Given that the stock is greater than $18, find the probability that the stock is more than $21.",
+        "Image Links": [],
+        "Answer": "a) The probability density function of X is $$\\frac{1}{25 - 16} = \\frac{1}{9}$$ . P ( X > 19) = (25 - 19) $$( \\frac{1}{9} )$$ = $$\\frac{6}{9}$$ = $$\\frac{2}{3}$$ . Figure 5.54 b) P (19 < X < 22) = (22 - 19) $$( \\frac{1}{9} )$$ = $$\\frac{3}{9}$$ = $$\\frac{1}{3}$$ . Figure 5.55 c) The area must be 0.25, and 0.25 = (width) $$( \\frac{1}{9} )$$ , so width = (0.25)(9) = 2.25. Thus, the value is 25 - 2.25 = 22.75. d) This is a conditional probability question.  P(x > 21| x > 18).  You can do this two ways: Draw the graph where a is now 18 and b is still 25.  The height is $$\\frac{1}{( 25 - 18 )}$$ = $$\\frac{1}{7}$$ So, P ( x > 21| x > 18) = (25 - 21) $$( \\frac{1}{7} )$$ = 4/7. Use the formula: P ( x > 21| x > 18) = $$\\frac{P ( x > 21 \\text{\u00a0AND\u00a0} x > 18 )}{P ( x > 18 )}$$ = $$\\frac{P ( x > 21 )}{P ( x > 18 )}$$ = $$\\frac{( 25 - 21 )}{( 25 - 18 )}$$ = $$\\frac{4}{7}$$ .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises. The Sky Train from the terminal to the rental-car and long-term parking center is supposed to arrive every eight minutes. The waiting times for the train are known to follow a uniform distribution.",
+        "Question": "A fireworks show is designed so that the time between fireworks is between one and five seconds, and follows a uniform distribution. a) Find the average time between fireworks. b) Find probability that the time between fireworks is greater than four seconds.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.2 The Uniform Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises. The Sky Train from the terminal to the rental-car and long-term parking center is supposed to arrive every eight minutes. The waiting times for the train are known to follow a uniform distribution.",
+        "Question": "The number of miles driven by a truck driver falls between 300 and 700, and follows a uniform distribution. a) Find the probability that the truck driver goes more than 650 miles in a day. b) Find the probability that the truck drivers goes between 400 and 650 miles in a day. c) At least how many miles does the truck driver travel on the furthest 10% of days?",
+        "Image Links": [],
+        "Answer": "a) P ( X > 650) = $$\\frac{700 - 650}{700 - 300} = \\frac{50}{400} = \\frac{1}{8}$$ = 0.125 b) P (400 < X < 650) = $$\\frac{650 - 400}{700 - 300} = \\frac{250}{400}$$ = 0.625 c) 0.10 = $$\\frac{\\text{width}}{\\text{700} - \\text{300}}$$ , so width = 400(0.10) = 40. Since 700 - 40 = 660, the drivers travel at least 660 miles on the furthest 10% of days.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "",
+        "Question": "Suppose that the length of phone calls, measured in minutes, is known to have an exponential distribution with the average length of a call equal to eight minutes. a) Define the random variable. X = ________________. b) Is X continuous or discrete? c) X ~ ________ d) \u03bc = ________ e) \u03c3 = ________ f) Draw a graph of the probability distribution. Label the axes. g) Find the probability that a phone call lasts less than nine minutes. h) Find the probability that a phone call lasts more than nine minutes. i) Find the probability that a phone call lasts between seven and nine minutes. j) If 25 phone calls are made one after another, on average, what would you expect the total to be? Why?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "",
+        "Question": "Suppose that the useful life of a particular car battery, measured in months, decays with parameter 0.025. We are interested in the life of the battery. a) Define the random variable. X = _________________________________. b) Is X continuous or discrete? c) X ~ ________ d) On average, how long would you expect one car battery to last? e) On average, how long would you expect nine car batteries to last, if they are used one after another? f) Find the probability that a car battery lasts more than 36 months. g) Seventy percent of the batteries last at least how long?",
+        "Image Links": [],
+        "Answer": "a) X = the useful life of a particular car battery, measured in months. b) X is continuous. c) X ~ Exp (0.025) d) 40 months e) 360 months f) 0.4066 g) 14.27",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "",
+        "Question": "At one point in time, the percent of persons (ages five and older) in each state who speak a language at home other than English is approximately exponentially distributed with a mean of 9.848. Suppose we randomly pick a state. a) Define the random variable. X = _________________________________. b) Is X continuous or discrete? c) X ~ ________ d) \u03bc = ________ e) \u03c3 = ________ f) Draw a graph of the probability distribution. Label the axes. g) Find the probability that the percent is less than 12. h) Find the probability that the percent is between eight and 14. i) The percent of all individuals living in the United States who speak a language at home other than English is 13.8. Why is this number different from 9.848%? What would make this number higher than 9.848%?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "",
+        "Question": "The time (in years) after reaching age 60 that it takes an individual to retire is approximately exponentially distributed with a mean of about five years. Suppose we randomly pick one retired individual. We are interested in the time after age 60 to retirement. a) Define the random variable. X = _________________________________. b) Is X continuous or discrete? c) X ~ = ________ d) \u03bc = ________ e) \u03c3 = ________ f) Draw a graph of the probability distribution. Label the axes. g) Find the probability that the person retired after age 70. h) Do more people retire before age 65 or after age 65? i) In a room of 1,000 people over age 80, how many do you expect will NOT have retired yet?",
+        "Image Links": [],
+        "Answer": "a) X = the time (in years) after reaching age 60 that it takes an individual to retire b) X is continuous. c) X ~ Exp $$( \\frac{1}{5} )$$ d) five e) five f) Answers may vary. g) 0.1353 h) before i) 18.3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "",
+        "Question": "The cost of all maintenance for a car during its first year is approximately exponentially distributed with a mean of $150. a) Define the random variable. X = _________________________________. b) X ~ = ________ c) \u03bc = ________ d) \u03c3 = ________ e) Draw a graph of the probability distribution. Label the axes. f) Find the probability that a car required over $300 for maintenance during its first year.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises. The average lifetime of a certain new smartphone is three years. The manufacturer will replace any smartphone failing within two years of the date of purchase. The lifetime of these smartphones is known to follow an exponential distribution.",
+        "Question": "The decay rate is: a) 0.3333 b) 0.5000 c) 2 d) 3",
+        "Image Links": [],
+        "Answer": "a",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises. The average lifetime of a certain new smartphone is three years. The manufacturer will replace any smartphone failing within two years of the date of purchase. The lifetime of these smartphones is known to follow an exponential distribution.",
+        "Question": "What is the probability that a smartphone will fail within two years of the date of purchase? a) 0.8647 b) 0.4866 c) 0.2212 d) 0.9997",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises. The average lifetime of a certain new smartphone is three years. The manufacturer will replace any smartphone failing within two years of the date of purchase. The lifetime of these smartphones is known to follow an exponential distribution.",
+        "Question": "What is the median lifetime of these phones (in years)? a) 0.1941 b) 1.3863 c) 2.0794 d) 5.5452",
+        "Image Links": [],
+        "Answer": "c",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises. The average lifetime of a certain new smartphone is three years. The manufacturer will replace any smartphone failing within two years of the date of purchase. The lifetime of these smartphones is known to follow an exponential distribution.",
+        "Question": "Let X ~ Exp (0.1). a) decay rate = ________ b) \u03bc = ________ c) Graph the probability distribution function. d) On the graph, shade the area corresponding to P ( x < 6) and find the probability. e) Sketch a new graph, shade the area corresponding to P (3 < x < 6) and find the probability. f) Sketch a new graph, shade the area corresponding to P ( x < 7) and find the probability. g) Sketch a new graph, shade the area corresponding to the 40 th percentile and find the value. h) Find the average value of x .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises. The average lifetime of a certain new smartphone is three years. The manufacturer will replace any smartphone failing within two years of the date of purchase. The lifetime of these smartphones is known to follow an exponential distribution.",
+        "Question": "Suppose that the longevity of a light bulb is exponential with a mean lifetime of eight years. a) Find the probability that a light bulb lasts less than one year. b) Find the probability that a light bulb lasts between six and ten years. c) Seventy percent of all light bulbs last at least how long? d) A company decides to offer a warranty to give refunds to light bulbs whose lifetime is among the lowest two percent of all bulbs. To the nearest month, what should be the cutoff lifetime for the warranty to take place? e) If a light bulb has lasted seven years, what is the probability that it fails within the 8 th year.",
+        "Image Links": [],
+        "Answer": "Let T = the life time of a light bulb. The decay parameter is m = 1/8, and T \u223c Exp(1/8). The cumulative distribution function is $$P ( T < t ) = 1 - e^{- \\frac{t}{8}}$$ a) Therefore, P ( T < 1) = 1 - e $$- \\frac{1}{8}$$ \u2248 0.1175. b) We want to find P (6 < t < 10). To do this, P (6 < t < 10) - P ( t < 6) $$= ( 1 - e^{- \\frac{1}{8} * 10} ) - ( 1 - e^{- \\frac{1}{8} * 6} )$$ \u2248 0.7135 - 0.5276 = 0.1859 Figure 5.56 c) We want to find 0.70 $$= P ( T > t ) = 1 - ( 1 - e^{- \\frac{t}{8}} ) = e^{- \\frac{t}{8}} .$$ Solving for t , e $$- \\frac{t}{8}$$ = 0.70, so $$- \\frac{t}{8}$$ = ln (0.70), and t = -8 ln (0.70) \u2248 2.85 years. Or use t = $$\\frac{l n \\text{(areaultoultheulright)}}{( - m )} = \\frac{l n \\text{(0} \\text{.70)}}{- \\frac{1}{8}} \\approx 2. \\text{85\u00a0years}$$ . Figure 5.57 d) We want to find 0.02 = P ( T < t ) = 1 - e $$- \\frac{t}{8}$$ . Solving for t , e $$- \\frac{t}{8}$$ = 0.98, so $$- \\frac{t}{8}$$ = ln (0.98), and t = -8 ln (0.98) \u2248 0.1616 years, or roughly two months. The warranty should cover light bulbs that last less than 2 months. Or use $$\\frac{\\ln{\\text{(areaultoultheulright)}}}{\\text{(} - \\text{m)}} = \\frac{\\ln{\\text{(1}} - 0.2 )}{- \\frac{1}{8}}$$ = 0.1616. e) We must find P ( T < 8| T > 7). Notice that by the rule of complement events, P ( T < 8| T > 7) = 1 - P ( T > 8| T > 7). By the memoryless property ( P ( X > r + t | X > r ) = P ( X > t )). So P ( T > 8| T > 7) = P ( T > 1) = $$1 - ( 1 - e^{- \\frac{1}{8}} ) = e^{- \\frac{1}{8}} \\approx 0.8825$$ Therefore, P ( T < 8| T > 7) = 1 - 0.8825 = 0.1175.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises. The average lifetime of a certain new smartphone is three years. The manufacturer will replace any smartphone failing within two years of the date of purchase. The lifetime of these smartphones is known to follow an exponential distribution.",
+        "Question": "At a 911 call center, calls come in at an average rate of one call every two minutes. Assume that the time that elapses from one call to the next has the exponential distribution. a) On average, how much time occurs between five consecutive calls? b) Find the probability that after a call is received, it takes more than three minutes for the next call to occur. c) Ninety-percent of all calls occur within how many minutes of the previous call? d) Suppose that two minutes have elapsed since the last call. Find the probability that the next call will occur within the next minute. e) Find the probability that less than 20 calls occur within an hour.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises. The average lifetime of a certain new smartphone is three years. The manufacturer will replace any smartphone failing within two years of the date of purchase. The lifetime of these smartphones is known to follow an exponential distribution.",
+        "Question": "In major league baseball, a no-hitter is a game in which a pitcher, or pitchers, doesn't give up any hits throughout the game. No-hitters occur at a rate of about three per season. Assume that the duration of time between no-hitters is exponential. a) What is the probability that an entire season elapses with a single no-hitter? b) If an entire season elapses without any no-hitters, what is the probability that there are no no-hitters in the following season? c) What is the probability that there are more than 3 no-hitters in a single season?",
+        "Image Links": [],
+        "Answer": "Let X = the number of no-hitters throughout a season. Since the duration of time between no-hitters is exponential, the number of no-hitters per season is Poisson with mean \u03bb = 3. Therefore, ( X = 0) = $$\\frac{3^{0} e^{- 3}}{0 \\text{!}}$$ = e -3 \u2248 0.0498 NOTE You could let T = duration of time between no-hitters. Since the time is exponential and there are 3 no-hitters per season, then the time between no-hitters is $$\\frac{1}{3}$$ season. For the exponential, \u00b5 = $$\\frac{1}{3}$$ . Therefore, m = $$\\frac{1}{\\mu}$$ = 3 and T \u223c Exp (3). a) The desired probability is P ( T > 1) = 1 - P ( T < 1) = 1 - (1 - e -3 ) = e -3 \u2248 0.0498. b) Let T = duration of time between no-hitters. We find P ( T > 2| T > 1), and by the memoryless property this is simply P ( T > 1), which we found to be 0.0498 in part a. c) Let X = the number of no-hitters is a season. Assume that X is Poisson with mean \u03bb = 3. Then P ( X > 3) = 1 - P ( X \u2264 3) = 0.3528.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises. The average lifetime of a certain new smartphone is three years. The manufacturer will replace any smartphone failing within two years of the date of purchase. The lifetime of these smartphones is known to follow an exponential distribution.",
+        "Question": "During the years 1998-2012, a total of 29 earthquakes of magnitude greater than 6.5 have occurred in Papua New Guinea. Assume that the time spent waiting between earthquakes is exponential. a) What is the probability that the next earthquake occurs within the next three months? b) Given that six months has passed without an earthquake in Papua New Guinea, what is the probability that the next three months will be free of earthquakes? c) What is the probability of zero earthquakes occurring in 2014? d) What is the probability that at least two earthquakes will occur in 2014?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises. The average lifetime of a certain new smartphone is three years. The manufacturer will replace any smartphone failing within two years of the date of purchase. The lifetime of these smartphones is known to follow an exponential distribution.",
+        "Question": "According to the American Red Cross, about one out of nine people in the U.S. have Type B positive blood. Suppose the blood types of people arriving at a blood drive are independent. In this case, the number of Type B positive blood types that arrive roughly follows the Poisson distribution. a) If 100 people arrive, how many on average would be expected to have Type B positive blood? b) What is the probability that over 10 people out of these 100 have type B positive blood? c) What is the probability that more than 20 people arrive before a person with type B positive blood is found?",
+        "Image Links": [],
+        "Answer": "a) $$\\frac{100}{9}$$ = 11.11 b) P ( X > 10) = 1 - P ( X \u2264 10) = 1 - Poissoncdf(11.11, 10) \u2248 0.5532. c) The number of people with Type B positive blood encountered roughly follows the Poisson distribution, so the number of people X who arrive between successive Type B positive arrivals is roughly exponential with mean \u03bc = 9 and m = $$\\frac{1}{9}$$ . The cumulative distribution function of X is $$P ( X < x ) = 1 - e^{- \\frac{x}{9}}$$ . Thus, P ( X > 20) = 1 - P ( X \u2264 20) = $$1 - ( 1 - e^{- \\frac{20}{9}} ) \\approx 0.1084.$$ NOTE We could also deduce that each person arriving has a 8/9 chance of not having Type B positive blood. So the probability that none of the first 20 people arrive have Type B positive blood is $$( \\frac{8}{9} )^{20} \\approx 0.0948$$ . (The geometric distribution is more appropriate than the exponential because the number of people between Type B positive people is discrete instead of continuous.)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises. The average lifetime of a certain new smartphone is three years. The manufacturer will replace any smartphone failing within two years of the date of purchase. The lifetime of these smartphones is known to follow an exponential distribution.",
+        "Question": "A web site experiences traffic during normal working hours at a rate of 12 visits per hour. Assume that the duration between visits has the exponential distribution. a) Find the probability that the duration between two successive visits to the web site is more than ten minutes. b) The top 25% of durations between visits are at least how long? c) Suppose that 20 minutes have passed since the last visit to the web site. What is the probability that the next visit will occur within the next 5 minutes? d) Find the probability that less than 7 visits occur within a one-hour period.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "5.3 The Exponential Distribution",
+        "Problem Statement": "Use the following information to answer the next three exercises. The average lifetime of a certain new smartphone is three years. The manufacturer will replace any smartphone failing within two years of the date of purchase. The lifetime of these smartphones is known to follow an exponential distribution.",
+        "Question": "At an urgent care facility, patients arrive at an average rate of one patient every seven minutes. Assume that the duration between arrivals is exponentially distributed. a) Find the probability that the time between two successive visits to the urgent care facility is less than 2 minutes. b) Find the probability that the time between two successive visits to the urgent care facility is more than 15 minutes. c) If 10 minutes have passed since the last arrival, what is the probability that the next person will arrive within the next five minutes? d) Find the probability that more than eight patients arrive during a half-hour period.",
+        "Image Links": [],
+        "Answer": "Let T = duration (in minutes) between successive visits. Since patients arrive at a rate of one patient every seven minutes, \u03bc = 7 and the decay constant is m = $$\\frac{1}{7}$$ . The cdf is P ( T < t ) = $$1 - e^{\\frac{t}{7}}$$ a) P ( T < 2) = 1 - $$1 - e^{- \\frac{2}{7}}$$ \u2248 0.2485. b) P ( T > 15) = $$1 - P ( T < 15 ) = 1 - ( 1 - e^{- \\frac{15}{7}} ) \\approx e^{- \\frac{15}{7}} \\approx 0.1173$$ . c) P ( T > 15| T > 10) = P ( T > 5) = $$1 - ( 1 - e^{- \\frac{5}{7}} ) = e^{- \\frac{5}{7}} \\approx 0.4895$$ . d) Let X = # of patients arriving during a half-hour period. Then X has the Poisson distribution with a mean of $$\\frac{30}{7}$$ , X \u223c Poisson $$( \\frac{30}{7} )$$ . Find P ( X > 8) = 1 - P ( X \u2264 8) \u2248 0.0311.",
+        "Answer Image Links": []
+    }
+]

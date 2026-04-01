@@ -1,0 +1,22 @@
+[
+    {
+        "Topic": "Check Your Understanding 10.6",
+        "Problem Statement": "",
+        "Question": "In considering the following schematic and the power supplied and consumed by a circuit, will a voltage source always provide power to the circuit, or can a voltage source consume power?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0335e8673e62e26e8244d13ef9ba5ae49aef46bc"
+        ],
+        "Answer": "The circuit can be analyzed using Kirchhoff\u2019s loop rule. The first voltage source supplies power: $$P_{\\text{in}} = I V_{1} = 7.20 \\text{mW.}$$ The second voltage source consumes power: $$P_{\\text{out}} = I V_{2} + I^{2} R_{1} + I^{2} R_{2} = 7.2 \\text{mW} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 10.7",
+        "Problem Statement": "",
+        "Question": "When using Kirchhoff\u2019s laws, you need to decide which loops to use and the direction of current flow through each loop. In analyzing the circuit in Example 10.7, the direction of current flow was chosen to be clockwise, from point a to point b . How would the results change if the direction of the current was chosen to be counterclockwise, from point b to point a ?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/109cd52d55fd45955c9be1ce241c263819133ce2"
+        ],
+        "Answer": "The current calculated would be equal to $$I = -0.20 \\text{A}$$ instead of $$I = 0.20 \\text{A} .$$ The sum of the power dissipated and the power consumed would still equal the power supplied.",
+        "Answer Image Links": []
+    }
+]

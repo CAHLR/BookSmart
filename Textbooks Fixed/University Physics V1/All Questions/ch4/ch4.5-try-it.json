@@ -1,0 +1,12 @@
+[
+    {
+        "Topic": "Check Your Understanding 4.6",
+        "Problem Statement": "",
+        "Question": "A boat heads due north, moving at 4.5 m/s relative to the water of a river that is running east at 3.0 m/s. What is the velocity of the boat with respect to Earth?",
+        "Image Links": [],
+        "Answer": "Labeling subscripts for the vector equation, we have B = boat, R = river, and E = Earth. The vector equation becomes $$\\mathbf{\\vec{v}}_{\\text{BE}} = \\mathbf{\\vec{v}}_{\\text{BR}} + \\mathbf{\\vec{v}}_{\\text{RE}} .$$ We have right triangle geometry shown in Figure 04_05_BoatRiv_img. Solving for $$\\mathbf{\\vec{v}}_{\\text{BE}}$$ , we have $$v_{\\text{BE}} = \\sqrt{v_{\\text{BR}}^{2} + v_{\\text{RE}}^{2}} = \\sqrt{4.5^{2} + 3.0^{2}}$$ $$v_{\\text{BE}} = 5.4 \\text{m} \\text{/} \\text{s,} \\text{\u2003} \\theta = \\text{tan}^{-1} ( \\frac{3.0}{4.5} ) = 33.7 \\text{\u00b0} .$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/20fe96d6ba3edb32d6f37803cf25dcccaf542c39"
+        ]
+    }
+]

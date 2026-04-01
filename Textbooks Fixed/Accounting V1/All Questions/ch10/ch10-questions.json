@@ -1,0 +1,122 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO10.1What is meant by the term gross margin ?",
+        "Image Links": [],
+        "Answer": "Gross margin refers to the net profit from sale of goods. It is calculated by subtracting cost of goods sold from sales revenue.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO10.1Can a business change from one inventory costing method to another any time they wish? Explain.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO10.1Why do consignment arrangements present a challenge in inventory management? Explain.",
+        "Image Links": [],
+        "Answer": "Consigned goods are owned by the consignor, but the goods are physically present in the business of the consignee. Care must be taken not to count goods held on consignment in the company\u2019s physical inventory tally.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO10.1Explain the difference between the terms FOB destination and FOB shipping point .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO10.1When would a company use the specific identification method of inventory cost allocation?",
+        "Image Links": [],
+        "Answer": "Specific identification works best for highly differentiated goods, large ticket items, customization, and small lot sizes. In all these cases, it is reasonably easy to keep track of the actual cost of each item, to be used to offset the sales price, when the goods are sold.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO10.1Explain why a company might want to utilize the gross profit method or the retail inventory method for inventory valuation.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO10.1Describe the goal of the lower-of-cost-or-market concept.",
+        "Image Links": [],
+        "Answer": "LCM sets out to record a conservative value for inventory by ensuring that goods that have decreased in value since their purchase can be revalued to match their current replacement market value.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO10.1Describe two separate and distinct ways to calculate goods available for sale.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO10.3Describe costing inventory using first-in, first-out. Address the different treatment, if any, that must be given for periodic and perpetual inventory updating.",
+        "Image Links": [],
+        "Answer": "The FIFO method assumes the first units acquired are sold first. On a periodic basis, that means that ending inventory can be determined by calculating the number of units remaining, and assuming that the cost of those units is the amount paid for the latest purchase; cost of goods sold is all inventory cost that is not in the ending inventory. For perpetual, inventory held at the time of each sale is evaluated and units acquired earliest are costed out against that particular sale.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO10.3Describe costing inventory using last-in, first-out. Address the different treatment, if any, that must be given for periodic and perpetual inventory updating.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO10.3Describe costing inventory using weighted average. Address the different treatment, if any, that must be given for periodic and perpetual inventory updating.",
+        "Image Links": [],
+        "Answer": "The weighted-average method requires that the average cost be computed for all units that are available for sale. For periodic weighted average, the total dollar amount of goods available for sale should be divided by the total number of units available for sale, to obtain the average cost for the entire period. For perpetual, the average cost would be recalculated each time the total number of units changes, using the same strategy as described for periodic, but using the cost and number of units that are available at the time of sale.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO10.4How long does it take an inventory error affecting ending inventory to correct itself in the financial statements? Explain.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO10.4What type of issues would arise that might cause inventory errors?",
+        "Image Links": [],
+        "Answer": "Causes of inventory errors might be related to consigned goods, goods delivered before or after the title transfers, sloppy inventory counts, lost records, calculation errors, and any other circumstance that causes inaccuracy in the counts.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO10.5Explain the difference between the flow of cost and the flow of goods as it relates to inventory.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO10.5What insights can be gained from inventory ratio analysis, such as inventory turnover ratio and number of days\u2019 sales in inventory ratio?",
+        "Image Links": [],
+        "Answer": "The inventory turnover ratio reveals the liquidity of the inventory by highlighting how many times during the year the entire inventory cycle could be rotated, based on the cost of the inventory sold, compared to the average cost of the unsold inventory. Days\u2019 sales in inventory reveals how many days it typically takes to turn inventory around, from date of purchase to date of sale.",
+        "Answer Image Links": []
+    }
+]

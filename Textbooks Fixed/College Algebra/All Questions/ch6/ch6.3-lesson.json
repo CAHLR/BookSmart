@@ -1,0 +1,530 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What is a base $$b$$ logarithm? Discuss the meaning by interpreting each part of the equivalent equations $$b^{y} = x$$ and $$\\log_{b} x = y$$ for $$b > 0 , b \\ne 1.$$",
+        "Image Links": [],
+        "Answer": "A logarithm is an exponent. Specifically, it is the exponent to which a base $$b$$ is raised to produce a given value. In the expressions given, the base $$b$$ has the same value. The exponent, $$y ,$$ in the expression $$b^{y}$$ can also be written as the logarithm, $$\\log_{b} x ,$$ and the value of $$x$$ is the result of raising $$b$$ to the power of $$y .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "How is the logarithmic function $$f ( x ) = \\log_{b} x$$ related to the exponential function $$g ( x ) = b^{x} ?$$ What is the result of composing these two functions?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "How can the logarithmic equation $$\\log_{b} x = y$$ be solved for $$x$$ using the properties of exponents?",
+        "Image Links": [],
+        "Answer": "Since the equation of a logarithm is equivalent to an exponential equation, the logarithm can be converted to the exponential equation $$b^{y} = x ,$$ and then properties of exponents can be applied to solve for $$x .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Discuss the meaning of the common logarithm. What is its relationship to a logarithm with base $$b ,$$ and how does the notation differ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Discuss the meaning of the natural logarithm. What is its relationship to a logarithm with base $$b ,$$ and how does the notation differ?",
+        "Image Links": [],
+        "Answer": "The natural logarithm is a special case of the logarithm with base $$b$$ in that the natural log always has base $$e .$$ Rather than notating the natural logarithm as $$\\log_{e} ( x ) ,$$ the notation used is $$\\ln{( x )} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite each equation in exponential form.",
+        "Question": "$$\\text{log}_{4} ( q ) = m$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite each equation in exponential form.",
+        "Question": "$$\\text{log}_{a} ( b ) = c$$",
+        "Image Links": [],
+        "Answer": "$$a^{c} = b$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite each equation in exponential form.",
+        "Question": "$$\\log_{16} ( y ) = x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite each equation in exponential form.",
+        "Question": "$$\\log_{x} ( 64 ) = y$$",
+        "Image Links": [],
+        "Answer": "$$x^{y} = 64$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite each equation in exponential form.",
+        "Question": "$$\\log_{y} ( x ) = -11$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite each equation in exponential form.",
+        "Question": "$$\\log_{15} ( a ) = b$$",
+        "Image Links": [],
+        "Answer": "$$15^{b} = a$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite each equation in exponential form.",
+        "Question": "$$\\log_{y} ( 137 ) = x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite each equation in exponential form.",
+        "Question": "$$\\log_{13} ( 142 ) = a$$",
+        "Image Links": [],
+        "Answer": "$$13^{a} = 142$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite each equation in exponential form.",
+        "Question": "$$\\text{log} ( v ) = t$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite each equation in exponential form.",
+        "Question": "$$\\text{ln} ( w ) = n$$",
+        "Image Links": [],
+        "Answer": "$$e^{n} = w$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite each equation in logarithmic form.",
+        "Question": "$$4^{x} = y$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite each equation in logarithmic form.",
+        "Question": "$$c^{d} = k$$",
+        "Image Links": [],
+        "Answer": "$$\\text{log}_{c} ( k ) = d$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite each equation in logarithmic form.",
+        "Question": "$$m^{- 7} = n$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite each equation in logarithmic form.",
+        "Question": "$$19^{x} = y$$",
+        "Image Links": [],
+        "Answer": "$$\\log_{19} y = x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite each equation in logarithmic form.",
+        "Question": "$$x^{- \\frac{10}{13}} = y$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite each equation in logarithmic form.",
+        "Question": "$$n^{4} = 103$$",
+        "Image Links": [],
+        "Answer": "$$\\log_{n} ( 103 ) = 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite each equation in logarithmic form.",
+        "Question": "$$( \\frac{7}{5} )^{m} = n$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite each equation in logarithmic form.",
+        "Question": "$$y^{x} = \\frac{39}{100}$$",
+        "Image Links": [],
+        "Answer": "$$\\log_{y} ( \\frac{39}{100} ) = x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite each equation in logarithmic form.",
+        "Question": "$$10^{a} = b$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite each equation in logarithmic form.",
+        "Question": "$$e^{k} = h$$",
+        "Image Links": [],
+        "Answer": "$$\\text{ln} ( h ) = k$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve for $$x$$ by converting the logarithmic equation to exponential form.",
+        "Question": "$$\\text{log}_{3} ( x ) = 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve for $$x$$ by converting the logarithmic equation to exponential form.",
+        "Question": "$$\\text{log}_{2} ( x ) = - 3$$",
+        "Image Links": [],
+        "Answer": "$$x = 2^{- 3} = \\frac{1}{8}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve for $$x$$ by converting the logarithmic equation to exponential form.",
+        "Question": "$$\\text{log}_{5} ( x ) = 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve for $$x$$ by converting the logarithmic equation to exponential form.",
+        "Question": "$$\\log_{3} ( x ) = 3$$",
+        "Image Links": [],
+        "Answer": "$$x = 3^{3} = 27$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve for $$x$$ by converting the logarithmic equation to exponential form.",
+        "Question": "$$\\text{log}_{2} ( x ) = 6$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve for $$x$$ by converting the logarithmic equation to exponential form.",
+        "Question": "$$\\text{log}_{9} ( x ) = \\frac{1}{2}$$",
+        "Image Links": [],
+        "Answer": "$$x = 9^{\\frac{1}{2}} = 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve for $$x$$ by converting the logarithmic equation to exponential form.",
+        "Question": "$$\\text{log}_{18} ( x ) = 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve for $$x$$ by converting the logarithmic equation to exponential form.",
+        "Question": "$$\\log_{6} ( x ) = - 3$$",
+        "Image Links": [],
+        "Answer": "$$x = 6^{- 3} = \\frac{1}{216}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve for $$x$$ by converting the logarithmic equation to exponential form.",
+        "Question": "$$\\text{log} ( x ) = 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve for $$x$$ by converting the logarithmic equation to exponential form.",
+        "Question": "$$\\text{ln} ( x ) = 2$$",
+        "Image Links": [],
+        "Answer": "$$x = e^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the definition of common and natural logarithms to simplify.",
+        "Question": "$$\\text{log} ( 100^{8} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the definition of common and natural logarithms to simplify.",
+        "Question": "$$10^{\\text{log} ( 32 )}$$",
+        "Image Links": [],
+        "Answer": "$$32$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the definition of common and natural logarithms to simplify.",
+        "Question": "$$2 \\text{log} ( .0001 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the definition of common and natural logarithms to simplify.",
+        "Question": "$$e^{\\ln{( 1.06 )}}$$",
+        "Image Links": [],
+        "Answer": "$$1.06$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the definition of common and natural logarithms to simplify.",
+        "Question": "$$\\ln{( e^{- 5.03} )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the definition of common and natural logarithms to simplify.",
+        "Question": "$$e^{\\ln{( 10.125 )}} + 4$$",
+        "Image Links": [],
+        "Answer": "$$14.125$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, evaluate the base $$b$$ logarithmic expression without using a calculator.",
+        "Question": "$$\\text{log}_{3} ( \\frac{1}{27} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, evaluate the base $$b$$ logarithmic expression without using a calculator.",
+        "Question": "$$\\text{log}_{6} ( \\sqrt{6} )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, evaluate the base $$b$$ logarithmic expression without using a calculator.",
+        "Question": "$$\\text{log}_{2} ( \\frac{1}{8} ) + 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, evaluate the base $$b$$ logarithmic expression without using a calculator.",
+        "Question": "$$6 \\text{log}_{8} ( 4 )$$",
+        "Image Links": [],
+        "Answer": "$$4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, evaluate the common logarithmic expression without using a calculator.",
+        "Question": "$$\\text{log} ( 10 , 000 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, evaluate the common logarithmic expression without using a calculator.",
+        "Question": "$$\\text{log} ( 0.001 )$$",
+        "Image Links": [],
+        "Answer": "$$- \\text{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, evaluate the common logarithmic expression without using a calculator.",
+        "Question": "$$\\text{log} ( 1 ) + 7$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, evaluate the common logarithmic expression without using a calculator.",
+        "Question": "$$2 \\text{log} ( 100^{- 3} )$$",
+        "Image Links": [],
+        "Answer": "$$- 12$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, evaluate the natural logarithmic expression without using a calculator.",
+        "Question": "$$\\text{ln} ( e^{\\frac{1}{3}} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, evaluate the natural logarithmic expression without using a calculator.",
+        "Question": "$$\\text{ln} ( 1 )$$",
+        "Image Links": [],
+        "Answer": "$$0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, evaluate the natural logarithmic expression without using a calculator.",
+        "Question": "$$\\text{ln} ( e^{- 0.225} ) - 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, evaluate the natural logarithmic expression without using a calculator.",
+        "Question": "$$25 \\text{ln} ( e^{\\frac{2}{5}} )$$",
+        "Image Links": [],
+        "Answer": "$$10$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, evaluate each expression using a calculator. Round to the nearest thousandth.",
+        "Question": "$$\\text{log} ( 0.04 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, evaluate each expression using a calculator. Round to the nearest thousandth.",
+        "Question": "$$\\text{ln} ( 15 )$$",
+        "Image Links": [],
+        "Answer": "$$\\text{2} . \\text{7} 0 \\text{8}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, evaluate each expression using a calculator. Round to the nearest thousandth.",
+        "Question": "$$\\text{ln} ( \\frac{4}{5} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, evaluate each expression using a calculator. Round to the nearest thousandth.",
+        "Question": "$$\\text{log} ( \\sqrt{2} )$$",
+        "Image Links": [],
+        "Answer": "$$0.151$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, evaluate each expression using a calculator. Round to the nearest thousandth.",
+        "Question": "$$\\text{ln} ( \\sqrt{2} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Is $$x = 0$$ in the domain of the function $$f ( x ) = \\log ( x ) ?$$ If so, what is the value of the function when $$x = 0 ?$$ Verify the result.",
+        "Image Links": [],
+        "Answer": "No, the function has no defined value for $$x = 0.$$ To verify, suppose $$x = 0$$ is in the domain of the function $$f ( x ) = \\log ( x ) .$$ Then there is some number $$n$$ such that $$n = \\log ( 0 ) .$$ Rewriting as an exponential equation gives: $$10^{n} = 0 ,$$ which is impossible since no such real number $$n$$ exists. Therefore, $$x = 0$$ is not the domain of the function $$f ( x ) = \\log ( x ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Is $$f ( x ) = 0$$ in the range of the function $$f ( x ) = \\log ( x ) ?$$ If so, for what value of $$x ?$$ Verify the result.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Is there a number $$x$$ such that $$\\ln{x} = 2 ?$$ If so, what is that number? Verify the result.",
+        "Image Links": [],
+        "Answer": "Yes. Suppose there exists a real number $$x$$ such that $$\\ln{x} = 2.$$ Rewriting as an exponential equation gives $$x = e^{2} ,$$ which is a real number. To verify, let $$x = e^{2} .$$ Then, by definition, $$\\ln{( x )} = \\ln{} ( e^{2} ) = 2.$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Is the following true: $$\\frac{\\log_{3} ( 27 )}{\\log_{4} ( \\frac{1}{64} )} = -1 ?$$ Verify the result.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Is the following true: $$\\frac{\\ln{( e^{1.725} )}}{\\ln{( 1 )}} = 1.725 ?$$ Verify the result.",
+        "Image Links": [],
+        "Answer": "No; $$\\ln{( 1 )} = 0 ,$$ so $$\\frac{\\ln{( e^{1.725} )}}{\\ln{( 1 )}}$$ is undefined.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "The exposure index $$E I$$ for a camera is a measurement of the amount of light that hits the image receptor. It is determined by the equation $$E I = \\log_{2} ( \\frac{f^{2}}{t} ) ,$$ where $$f$$ is the \u201cf-stop\u201d setting on the camera, and $$t$$ is the exposure time in seconds. Suppose the f-stop setting is $$8$$ and the desired exposure time is $$2$$ seconds. What will the resulting exposure index be?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Refer to the previous exercise. Suppose the light meter on a camera indicates an $$E I$$ of $$- 2 ,$$ and the desired exposure time is 16 seconds. What should the f-stop setting be?",
+        "Image Links": [],
+        "Answer": "$$2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "The intensity levels I of two earthquakes measured on a seismograph can be compared by the formula $$\\log \\frac{I_{1}}{I_{2}} = M_{1} - M_{2}$$ where $$M$$ is the magnitude given by the Richter Scale. In August 2009, an earthquake of magnitude 6.1 hit Honshu, Japan. In March 2011, that same region experienced yet another, more devastating earthquake, this time with a magnitude of 9.0. 8 How many times greater was the intensity of the 2011 earthquake? Round to the nearest whole number.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

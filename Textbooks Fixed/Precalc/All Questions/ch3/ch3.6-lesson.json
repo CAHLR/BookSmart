@@ -1,0 +1,652 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Describe a use for the Remainder Theorem.",
+        "Image Links": [],
+        "Answer": "The theorem can be used to evaluate a polynomial.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Explain why the Rational Zero Theorem does not guarantee finding zeros of a polynomial function.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What is the difference between rational and real zeros?",
+        "Image Links": [],
+        "Answer": "Rational zeros can be expressed as fractions whereas real zeros include irrational numbers.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "If Descartes\u2019 Rule of Signs reveals a no change of signs or one sign of changes, what specific conclusion can be drawn?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "If synthetic division reveals a zero, why should we try that value again as a possible solution?",
+        "Image Links": [],
+        "Answer": "Polynomial functions can have repeated zeros, so the fact that number is a zero doesn\u2019t preclude it being a zero again.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Remainder Theorem to find the remainder.",
+        "Question": "$$( x^{4} - 9 x^{2} + 14 ) \\div ( x - 2 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Remainder Theorem to find the remainder.",
+        "Question": "$$( 3 x^{3} - 2 x^{2} + x - 4 ) \\div ( x + 3 )$$",
+        "Image Links": [],
+        "Answer": "$$- 106$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Remainder Theorem to find the remainder.",
+        "Question": "$$( x^{4} + 5 x^{3} - 4 x - 17 ) \\div ( x + 1 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Remainder Theorem to find the remainder.",
+        "Question": "$$( - 3 x^{2} + 6 x + 24 ) \\div ( x - 4 )$$",
+        "Image Links": [],
+        "Answer": "$$0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Remainder Theorem to find the remainder.",
+        "Question": "$$( 5 x^{5} - 4 x^{4} + 3 x^{3} - 2 x^{2} + x - 1 ) \\div ( x + 6 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Remainder Theorem to find the remainder.",
+        "Question": "$$( x^{4} - 1 ) \\div ( x - 4 )$$",
+        "Image Links": [],
+        "Answer": "$$255$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Remainder Theorem to find the remainder.",
+        "Question": "$$( 3 x^{3} + 4 x^{2} - 8 x + 2 ) \\div ( x - 3 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Remainder Theorem to find the remainder.",
+        "Question": "$$( 4 x^{3} + 5 x^{2} - 2 x + 7 ) \\div ( x + 2 )$$",
+        "Image Links": [],
+        "Answer": "$$- 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the given factor and the Factor Theorem to find all real zeros for the given polynomial function.",
+        "Question": "$$f ( x ) = 2 x^{3} - 9 x^{2} + 13 x - 6 ; x - 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the given factor and the Factor Theorem to find all real zeros for the given polynomial function.",
+        "Question": "$$f ( x ) = 2 x^{3} + x^{2} - 5 x + 2 ; x + 2$$",
+        "Image Links": [],
+        "Answer": "$$- 2 , 1 , \\frac{1}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the given factor and the Factor Theorem to find all real zeros for the given polynomial function.",
+        "Question": "$$f ( x ) = 3 x^{3} + x^{2} - 20 x + 12 ; x + 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the given factor and the Factor Theorem to find all real zeros for the given polynomial function.",
+        "Question": "$$f ( x ) = 2 x^{3} + 3 x^{2} + x + 6 ; x + 2$$",
+        "Image Links": [],
+        "Answer": "$$- 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the given factor and the Factor Theorem to find all real zeros for the given polynomial function.",
+        "Question": "$$f ( x ) = - 5 x^{3} + 16 x^{2} - 9 ; x - 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the given factor and the Factor Theorem to find all real zeros for the given polynomial function.",
+        "Question": "$$x^{3} + 3 x^{2} + 4 x + 12 ; x + 3$$",
+        "Image Links": [],
+        "Answer": "$$- 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the given factor and the Factor Theorem to find all real zeros for the given polynomial function.",
+        "Question": "$$4 x^{3} - 7 x + 3 ; x - 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the given factor and the Factor Theorem to find all real zeros for the given polynomial function.",
+        "Question": "$$2 x^{3} + 5 x^{2} - 12 x - 30 , \\text{\u200b} 2 x + 5$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{5}{2} , \\sqrt{6} , - \\sqrt{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Rational Zero Theorem to find all real zeros.",
+        "Question": "$$x^{3} - 3 x^{2} - 10 x + 24 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Rational Zero Theorem to find all real zeros.",
+        "Question": "$$2 x^{3} + 7 x^{2} - 10 x - 24 = 0$$",
+        "Image Links": [],
+        "Answer": "$$2 , - 4 , - \\frac{3}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Rational Zero Theorem to find all real zeros.",
+        "Question": "$$x^{3} + 2 x^{2} - 9 x - 18 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Rational Zero Theorem to find all real zeros.",
+        "Question": "$$x^{3} + 5 x^{2} - 16 x - 80 = 0$$",
+        "Image Links": [],
+        "Answer": "$$4 , - 4 , - 5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Rational Zero Theorem to find all real zeros.",
+        "Question": "$$x^{3} - 3 x^{2} - 25 x + 75 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Rational Zero Theorem to find all real zeros.",
+        "Question": "$$2 x^{3} - 3 x^{2} - 32 x - 15 = 0$$",
+        "Image Links": [],
+        "Answer": "$$5 , - 3 , - \\frac{1}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Rational Zero Theorem to find all real zeros.",
+        "Question": "$$2 x^{3} + x^{2} - 7 x - 6 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Rational Zero Theorem to find all real zeros.",
+        "Question": "$$2 x^{3} - 3 x^{2} - x + 1 = 0$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{2} , \\frac{1 + \\sqrt{5}}{2} , \\frac{1 - \\sqrt{5}}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Rational Zero Theorem to find all real zeros.",
+        "Question": "$$3 x^{3} - x^{2} - 11 x - 6 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Rational Zero Theorem to find all real zeros.",
+        "Question": "$$2 x^{3} - 5 x^{2} + 9 x - 9 = 0$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Rational Zero Theorem to find all real zeros.",
+        "Question": "$$2 x^{3} - 3 x^{2} + 4 x + 3 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Rational Zero Theorem to find all real zeros.",
+        "Question": "$$x^{4} - 2 x^{3} - 7 x^{2} + 8 x + 12 = 0$$",
+        "Image Links": [],
+        "Answer": "$$2 , 3 , - 1 , - 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Rational Zero Theorem to find all real zeros.",
+        "Question": "$$x^{4} + 2 x^{3} - 9 x^{2} - 2 x + 8 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Rational Zero Theorem to find all real zeros.",
+        "Question": "$$4 x^{4} + 4 x^{3} - 25 x^{2} - x + 6 = 0$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{2} , - \\frac{1}{2} , 2 , - 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Rational Zero Theorem to find all real zeros.",
+        "Question": "$$2 x^{4} - 3 x^{3} - 15 x^{2} + 32 x - 12 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Rational Zero Theorem to find all real zeros.",
+        "Question": "$$x^{4} + 2 x^{3} - 4 x^{2} - 10 x - 5 = 0$$",
+        "Image Links": [],
+        "Answer": "$$- 1 , - 1 , \\sqrt{5} , - \\sqrt{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Rational Zero Theorem to find all real zeros.",
+        "Question": "$$4 x^{3} - 3 x + 1 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the Rational Zero Theorem to find all real zeros.",
+        "Question": "$$8 x^{^{4}} + 26 x^{3} + 39 x^{2} + 26 x + 6$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{3}{4} , - \\frac{1}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find all complex solutions (real and non-real).",
+        "Question": "$$x^{3} + x^{2} + x + 1 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find all complex solutions (real and non-real).",
+        "Question": "$$x^{3} - 8 x^{2} + 25 x - 26 = 0$$",
+        "Image Links": [],
+        "Answer": "$$2 , 3 + 2 i , 3 - 2 i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find all complex solutions (real and non-real).",
+        "Question": "$$x^{3} + 13 x^{2} + 57 x + 85 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find all complex solutions (real and non-real).",
+        "Question": "$$3 x^{3} - 4 x^{2} + 11 x + 10 = 0$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{2}{3} , 1 + 2 i , 1 - 2 i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find all complex solutions (real and non-real).",
+        "Question": "$$x^{4} + 2 x^{3} + 22 x^{2} + 50 x - 75 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find all complex solutions (real and non-real).",
+        "Question": "$$2 x^{3} - 3 x^{2} + 32 x + 17 = 0$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{1}{2} , 1 + 4 i , 1 - 4 i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Descartes\u2019 Rule to determine the possible number of positive and negative solutions. Then graph to confirm which of those possibilities is the actual combination.",
+        "Question": "$$f ( x ) = x^{3} - 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Descartes\u2019 Rule to determine the possible number of positive and negative solutions. Then graph to confirm which of those possibilities is the actual combination.",
+        "Question": "$$f ( x ) = x^{4} - x^{2} - 1$$",
+        "Image Links": [],
+        "Answer": "1 positive, 1 negative",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2eb2720bf0658cacc5300cd857a3a852c3330b17"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Descartes\u2019 Rule to determine the possible number of positive and negative solutions. Then graph to confirm which of those possibilities is the actual combination.",
+        "Question": "$$f ( x ) = x^{3} - 2 x^{2} - 5 x + 6$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Descartes\u2019 Rule to determine the possible number of positive and negative solutions. Then graph to confirm which of those possibilities is the actual combination.",
+        "Question": "$$f ( x ) = x^{3} - 2 x^{2} + x - 1$$",
+        "Image Links": [],
+        "Answer": "3 or 1 positive, 0 negative",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9f8eb33137e3ff4806df727effd477087cc95d31"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Descartes\u2019 Rule to determine the possible number of positive and negative solutions. Then graph to confirm which of those possibilities is the actual combination.",
+        "Question": "$$f ( x ) = x^{4} + 2 x^{3} - 12 x^{2} + 14 x - 5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Descartes\u2019 Rule to determine the possible number of positive and negative solutions. Then graph to confirm which of those possibilities is the actual combination.",
+        "Question": "$$f ( x ) = 2 x^{3} + 37 x^{2} + 200 x + 300$$",
+        "Image Links": [],
+        "Answer": "0 positive, 3 or 1 negative",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0d106d8ab1176597e0e876720d2a42811be837cc"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Descartes\u2019 Rule to determine the possible number of positive and negative solutions. Then graph to confirm which of those possibilities is the actual combination.",
+        "Question": "$$f ( x ) = x^{3} - 2 x^{2} - 16 x + 32$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Descartes\u2019 Rule to determine the possible number of positive and negative solutions. Then graph to confirm which of those possibilities is the actual combination.",
+        "Question": "$$f ( x ) = 2 x^{4} - 5 x^{3} - 5 x^{2} + 5 x + 3$$",
+        "Image Links": [],
+        "Answer": "2 or 0 positive, 2 or 0 negative",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d68b8295cfde36e02ec83906137a08c05600d21d"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Descartes\u2019 Rule to determine the possible number of positive and negative solutions. Then graph to confirm which of those possibilities is the actual combination.",
+        "Question": "$$f ( x ) = 2 x^{4} - 5 x^{3} - 14 x^{2} + 20 x + 8$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Descartes\u2019 Rule to determine the possible number of positive and negative solutions. Then graph to confirm which of those possibilities is the actual combination.",
+        "Question": "$$f ( x ) = 10 x^{4} - 21 x^{2} + 11$$",
+        "Image Links": [],
+        "Answer": "2 or 0 positive, 2 or 0 negative",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/673653e5ad95628dbaca6409b7282605d5d3c331"
+        ]
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, list all possible rational zeros for the functions.",
+        "Question": "$$f ( x ) = x^{4} + 3 x^{3} - 4 x + 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, list all possible rational zeros for the functions.",
+        "Question": "$$f ( x ) = 2 x^{^{3}} + 3 x^{2} - 8 x + 5$$",
+        "Image Links": [],
+        "Answer": "$$\\pm 5 , \\pm 1 , \\pm \\frac{5}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, list all possible rational zeros for the functions.",
+        "Question": "$$f ( x ) = 3 x^{^{3}} + 5 x^{2} - 5 x + 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, list all possible rational zeros for the functions.",
+        "Question": "$$f ( x ) = 6 x^{4} - 10 x^{2} + 13 x + 1$$",
+        "Image Links": [],
+        "Answer": "$$\\pm 1 , \\pm \\frac{1}{2} , \\pm \\frac{1}{3} , \\pm \\frac{1}{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, list all possible rational zeros for the functions.",
+        "Question": "$$f ( x ) = 4 x^{5} - 10 x^{4} + 8 x^{3} + x^{2} - 8$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use your calculator to graph the polynomial function. Based on the graph, find the rational zeros. All real solutions are rational.",
+        "Question": "$$f ( x ) = 6 x^{3} - 7 x^{2} + 1$$",
+        "Image Links": [],
+        "Answer": "$$1 , \\frac{1}{2} , - \\frac{1}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use your calculator to graph the polynomial function. Based on the graph, find the rational zeros. All real solutions are rational.",
+        "Question": "$$f ( x ) = 4 x^{3} - 4 x^{2} - 13 x - 5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use your calculator to graph the polynomial function. Based on the graph, find the rational zeros. All real solutions are rational.",
+        "Question": "$$f ( x ) = 8 x^{3} - 6 x^{2} - 23 x + 6$$",
+        "Image Links": [],
+        "Answer": "$$2 , \\frac{1}{4} , - \\frac{3}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use your calculator to graph the polynomial function. Based on the graph, find the rational zeros. All real solutions are rational.",
+        "Question": "$$f ( x ) = 12 x^{4} + 55 x^{3} + 12 x^{2} - 117 x + 54$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use your calculator to graph the polynomial function. Based on the graph, find the rational zeros. All real solutions are rational.",
+        "Question": "$$f ( x ) = 16 x^{4} - 24 x^{3} + x^{2} - 15 x + 25$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{5}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, construct a polynomial function of least degree possible using the given information.",
+        "Question": "Real roots: -1, 1, 3 and $$( 2 , f ( 2 ) ) = ( 2 , 4 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, construct a polynomial function of least degree possible using the given information.",
+        "Question": "Real roots: -1, 1 (with multiplicity 2 and 1) and $$( 2 , f ( 2 ) ) = ( 2 , 4 )$$",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = \\frac{4}{9} ( x^{3} + x^{2} - x - 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, construct a polynomial function of least degree possible using the given information.",
+        "Question": "Real roots: -2, $$\\frac{1}{2}$$ (with multiplicity 2) and $$( - 3 , f ( - 3 ) ) = ( - 3 , 5 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, construct a polynomial function of least degree possible using the given information.",
+        "Question": "Real roots: $$- \\frac{1}{2}$$ , 0, $$\\frac{1}{2}$$ and $$( - 2 , f ( - 2 ) ) = ( - 2 , 6 )$$",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = - \\frac{1}{5} ( 4 x^{3} - x )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, construct a polynomial function of least degree possible using the given information.",
+        "Question": "Real roots: -4, -1, 1, 4 and $$( - 2 , f ( - 2 ) ) = ( - 2 , 10 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, find the dimensions of the box described.",
+        "Question": "The length is twice as long as the width. The height is 2 inches greater than the width. The volume is 192 cubic inches.",
+        "Image Links": [],
+        "Answer": "8 by 4 by 6 inches",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, find the dimensions of the box described.",
+        "Question": "The length, width, and height are consecutive whole numbers. The volume is 120 cubic inches.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, find the dimensions of the box described.",
+        "Question": "The length is one inch more than the width, which is one inch more than the height. The volume is 86.625 cubic inches.",
+        "Image Links": [],
+        "Answer": "5.5 by 4.5 by 3.5 inches",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, find the dimensions of the box described.",
+        "Question": "The length is three times the height and the height is one inch less than the width. The volume is 108 cubic inches.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, find the dimensions of the box described.",
+        "Question": "The length is 3 inches more than the width. The width is 2 inches more than the height. The volume is 120 cubic inches.",
+        "Image Links": [],
+        "Answer": "8 by 5 by 3 inches",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, find the dimensions of the right circular cylinder described.",
+        "Question": "The radius is 3 inches more than the height. The volume is $$16 \\pi$$ cubic inches.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, find the dimensions of the right circular cylinder described.",
+        "Question": "The height is one less than one half the radius. The volume is $$72 \\pi$$ cubic meters.",
+        "Image Links": [],
+        "Answer": "Radius = 6 meters, Height = 2 meters",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, find the dimensions of the right circular cylinder described.",
+        "Question": "The radius and height differ by one meter. The radius is larger and the volume is $$48 \\pi$$ cubic meters.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, find the dimensions of the right circular cylinder described.",
+        "Question": "The radius and height differ by two meters. The height is greater and the volume is $$28.125 \\pi$$ cubic meters.",
+        "Image Links": [],
+        "Answer": "Radius = 2.5 meters, Height = 4.5 meters",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, find the dimensions of the right circular cylinder described.",
+        "Question": "80.\tThe radius is $$\\frac{1}{3}$$ meter greater than the height. The volume is $$\\frac{98}{9} \\pi$$ cubic meters.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

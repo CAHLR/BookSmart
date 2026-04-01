@@ -1,0 +1,10 @@
+[
+    {
+        "Topic": "Check Your Understanding 8.1",
+        "Problem Statement": "",
+        "Question": "Can the magnitude of $$L_{z}$$ ever be equal to L ?",
+        "Image Links": [],
+        "Answer": "No. The quantum number $$m = \\text{unicode[:-]} l , \\text{unicode[:-]} l + 1 \\text{,unicode[:ddot.]} , 0 \\text{,unicode[:ddot.]} , l - 1 , l .$$ Thus, the magnitude of $$L_{z}$$ is always less than L because $$< \\sqrt{l ( l + 1 )}$$",
+        "Answer Image Links": []
+    }
+]

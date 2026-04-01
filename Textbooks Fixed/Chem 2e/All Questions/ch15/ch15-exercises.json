@@ -1,0 +1,863 @@
+[
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Complete the changes in concentrations for each of the following reactions: (a) $$\\left .\\begin{matrix}{aaa}\\text{AgI} ( s ) \u27f6 & \\text{Ag}^{\\text{+}} ( a q ) & + \\text{I}^{\\text{unicode[:-]}} ( a q ) \\\\  \\\\  & x & _____\\end{matrix}\\right .$$ (b) $$\\left .\\begin{matrix}{aaa}\\text{CaCO}_{3} ( s ) \u27f6 & \\text{Ca}^{\\text{2+}} ( a q ) + & \\text{CO}_{3} ^{\\text{2unicode[:-]}} ( a q ) \\\\  \\\\  & ____ & x\\end{matrix}\\right .$$ (c) $$\\left .\\begin{matrix}{aaa}\\text{Mg} ( \\text{OH} )_{2} ( s ) \u27f6 & \\text{Mg}^{\\text{2+}} ( a q ) + & 2 \\text{OH}^{\\text{unicode[:-]}} ( a q ) \\\\  \\\\  & x & _____\\end{matrix}\\right .$$ (d) $$\\left .\\begin{matrix}{aaa}\\text{Mg}_{3} ( \\text{PO}_{4} )_{2} ( s ) \u27f6 & 3 \\text{Mg}^{\\text{2+}} ( a q ) + & 2 \\text{PO}_{4} ^{\\text{3unicode[:-]}} ( a q ) \\\\  \\\\  & x & _____\\end{matrix}\\right .$$ (e) $$\\left .\\begin{matrix}{aaaa}\\text{Ca}_{5} ( \\text{PO}_{4} )_{3} \\text{OH} ( s ) \u27f6 & 5 \\text{Ca}^{\\text{2+}} ( a q ) + & 3 \\text{PO}_{4} ^{\\text{3unicode[:-]}} ( a q ) + & \\text{OH}^{\\text{unicode[:-]}} ( a q ) \\\\  \\\\  & _____ & _____ & x\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "(a) $$\\left .\\begin{matrix}{aaa}\\text{AgI} ( s ) \\rightleftharpoons & \\text{Ag}^{\\text{+}} ( a q ) + & \\text{I}^{\\text{unicode[:-]}} ( a q ) \\\\  \\\\  & x & \\underline{x}\\end{matrix}\\right .$$ (b) $$\\left .\\begin{matrix}{aaa}\\text{CaCO}_{3} ( s ) \\rightleftharpoons & \\text{Ca}^{\\text{2+}} ( a q ) + & \\text{CO}_{3} ^{\\text{2unicode[:-]}} ( a q ) \\\\  \\\\  & \\underline{x} & x\\end{matrix}\\right .$$ (c) $$\\left .\\begin{matrix}{aaa}\\text{Mg} ( \\text{OH} )_{2} ( s ) \\rightleftharpoons & \\text{Mg}^{\\text{2+}} ( a q ) & + 2 \\text{OH}^{\\text{unicode[:-]}} ( a q ) \\\\  & x & \\underline{\\text{2} x}\\end{matrix}\\right .$$ (d) $$\\left .\\begin{matrix}{aaa}\\text{Mg}_{3} ( \\text{PO}_{4} )_{2} ( s ) \\rightleftharpoons & \\text{3Mg}^{\\text{2+}} ( a q ) + & \\text{2PO}_{4} ^{\\text{3unicode[:-]}} ( a q ) \\\\  \\\\  & \\underline{x} & \\frac{2}{3} x\\end{matrix}\\right .$$ (e) $$\\left .\\begin{matrix}{aaaa}\\text{Ca}_{5} ( \\text{PO}_{4} )_{3} \\text{OH} ( s ) \\rightleftharpoons & \\text{5Ca}^{\\text{2+}} ( a q ) + & \\text{3PO}_{4} ^{\\text{3unicode[:-]}} ( a q ) + & \\text{OH}^{\\text{unicode[:-]}} ( a q ) \\\\  \\\\  & \\underline{5 x} & \\underline{3 x} & x\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Complete the changes in concentrations for each of the following reactions: (a) $$\\left .\\begin{matrix}{aaa}\\text{BaSO}_{4} ( s ) \u27f6 & \\text{Ba}^{\\text{2+}} ( a q ) + & \\text{SO}_{4} ^{\\text{2unicode[:-]}} ( a q ) \\\\  \\\\  & x & _____\\end{matrix}\\right .$$ (b $$\\left .\\begin{matrix}{aaa}\\text{Ag}_{2} \\text{SO}_{4} ( s ) \u27f6 & 2 \\text{Ag}^{\\text{+}} ( a q ) + & \\text{SO}_{4} ^{\\text{2unicode[:-]}} ( a q ) \\\\  \\\\  & _____ & x\\end{matrix}\\right .$$ (c) $$\\left .\\begin{matrix}{aaa}\\text{Al} ( \\text{OH} )_{3} ( s ) \u27f6 & \\text{Al}^{\\text{3+}} ( a q ) + & 3 \\text{OH}^{\\text{unicode[:-]}} ( a q ) \\\\  \\\\  & x & _____\\end{matrix}\\right .$$ (d) $$\\left .\\begin{matrix}{aaaa}\\text{Pb} ( \\text{OH} ) \\text{Cl} ( s ) \u27f6 & \\text{Pb}^{\\text{2+}} ( a q ) + & \\text{OH}^{\\text{unicode[:-]}} ( a q ) + & \\text{Cl}^{\\text{unicode[:-]}} ( a q ) \\\\  \\\\  & _____ & x & _____\\end{matrix}\\right .$$ (e) $$\\left .\\begin{matrix}{aaa}\\text{Ca}_{3} ( \\text{AsO}_{4} )_{2} ( s ) \u27f6 & 3 \\text{Ca}^{\\text{2+}} ( a q ) + & 2 \\text{AsO}_{4} ^{\\text{3unicode[:-]}} ( a q ) \\\\  \\\\  & 3 x & _____\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "How do the concentrations of Ag^+ and $$\\text{CrO}_{4} ^{\\text{2unicode[:-]}}$$ in a saturated solution above 1.0 g of solid Ag_2CrO_4 change when 100 g of solid Ag_2CrO_4 is added to the system? Explain.",
+        "Image Links": [],
+        "Answer": "There is no change. A solid has an activity of 1 whether there is a little or a lot.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "How do the concentrations of Pb^2+ and S^2- change when K_2S is added to a saturated solution of PbS?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "What additional information do we need to answer the following question: How is the equilibrium of solid silver bromide with a saturated solution of its ions affected when the temperature is raised?",
+        "Image Links": [],
+        "Answer": "The solubility of silver bromide at the new temperature must be known. Normally the solubility increases and some of the solid silver bromide will dissolve.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Which of the following slightly soluble compounds has a solubility greater than that calculated from its solubility product because of hydrolysis of the anion present: CoSO_3, CuI, PbCO_3, PbCl_2, Tl_2S, KClO_4?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Which of the following slightly soluble compounds has a solubility greater than that calculated from its solubility product because of hydrolysis of the anion present: AgCl, BaSO_4, CaF_2, Hg_2I_2, MnCO_3, and ZnS?",
+        "Image Links": [],
+        "Answer": "CaF_2, MnCO_3, and ZnS",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Write the ionic equation for dissolution and the solubility product ( K _sp) expression for each of the following slightly soluble ionic compounds: (a) PbCl_2 (b) Ag_2S (c) Sr_3(PO_4)_2 (d) SrSO_4",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Write the ionic equation for the dissolution and the K _sp expression for each of the following slightly soluble ionic compounds: (a) LaF_3 (b) CaCO_3 (c) Ag_2SO_4 (d) Pb(OH)_2",
+        "Image Links": [],
+        "Answer": "(a) $$\\text{LaF}_{3} ( s ) \\rightleftharpoons \\text{La}^{\\text{3+}} ( a q ) + \\text{3F}^{\\text{unicode[:-]}} ( a q ) K_{\\text{sp}} = [ \\text{La}^{\\text{3+}} ] [ \\text{F}^{\\text{unicode[:-]}} ]^{3} ;$$ (b) $$\\text{CaCO}_{3} ( s ) \\rightleftharpoons \\text{Ca}^{\\text{2+}} ( a q ) + \\text{CO}_{3} ^{\\text{2unicode[:-]}} ( a q ) K_{\\text{sp}} = [ \\text{Ca}^{\\text{2+}} ] [ \\text{CO}_{3} ^{\\text{2unicode[:-]}} ] ;$$ (c) $$\\text{Ag}_{2} \\text{SO}_{4} ( s ) \\rightleftharpoons \\text{2Ag}^{\\text{+}} ( a q ) + \\text{SO}_{4} ^{\\text{2unicode[:-]}} ( a q ) K_{\\text{sp}} = [ \\text{Ag}^{\\text{+}} ]^{2} [ \\text{SO}_{4} ^{\\text{2unicode[:-]}} ] ;$$ (d) $$\\text{Pb(OH)}_{2} ( s ) \\rightleftharpoons \\text{Pb}^{\\text{2+}} ( a q ) + \\text{2OH}^{\\text{unicode[:-]}} ( a q ) K_{\\text{sp}} = [ \\text{Pb}^{\\text{2+}} ] [ \\text{OH}^{\\text{unicode[:-]}} ]^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "The Handbook of Chemistry and Physics gives solubilities of the following compounds in grams per 100 mL of water. Because these compounds are only slightly soluble, assume that the volume does not change on dissolution and calculate the solubility product for each. (a) BaSiF_6, 0.026 g/100 mL (contains $$\\text{SiF}_{6} ^{\\text{2unicode[:-]}}$$ ions) (b) Ce(IO_3)_4, 1.5 $$\\times$$ 10^-2 g/100 mL (c) Gd_2(SO_4)_3, 3.98 g/100 mL (d) (NH_4)_2PtBr_6, 0.59 g/100 mL (contains $$\\text{PtBr}_{6} ^{\\text{2unicode[:-]}}$$ ions)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "The Handbook of Chemistry and Physics gives solubilities of the following compounds in grams per 100 mL of water. Because these compounds are only slightly soluble, assume that the volume does not change on dissolution and calculate the solubility product for each. (a) BaSeO_4, 0.0118 g/100 mL (b) Ba(BrO_3)_2\u00b7H_2O, 0.30 g/100 mL (c) NH_4MgAsO_4\u00b76H_2O, 0.038 g/100 mL (d) La_2(MoO_4)_3, 0.00179 g/100 mL",
+        "Image Links": [],
+        "Answer": "(a)1.77 $$\\times$$ 10^-7; (b) 1.6 $$\\times$$ 10^-6; (c) 2.2 $$\\times$$ 10^-9; (d) 7.91 $$\\times$$ 10^-22",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Use solubility products and predict which of the following salts is the most soluble, in terms of moles per liter, in pure water: CaF_2, Hg_2Cl_2, PbI_2, or Sn(OH)_2.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Assuming that no equilibria other than dissolution are involved, calculate the molar solubility of each of the following from its solubility product: (a) KHC_4H_4O_6 (b) PbI_2 (c) Ag_4[Fe(CN)_6], a salt containing the $$\\text{Fe(CN)}_{6} ^{\\text{4-}}$$ ion (d) Hg_2I_2",
+        "Image Links": [],
+        "Answer": "(a) 2 $$\\times$$ 10^-2 M ; (b) 1.5 $$\\times$$ 10^-3 M ; (c) 2.27 $$\\times$$ 10^-9 M ; (d) 2.2 $$\\times$$ 10^-10 M",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Assuming that no equilibria other than dissolution are involved, calculate the molar solubility of each of the following from its solubility product: (a) Ag_2SO_4 (b) PbBr_2 (c) AgI (d) CaC_2O_4\u00b7H_2O",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Assuming that no equilibria other than dissolution are involved, calculate the concentration of all solute species in each of the following solutions of salts in contact with a solution containing a common ion. Show that changes in the initial concentrations of the common ions can be neglected. (a) AgCl( s ) in 0.025 M NaCl (b) CaF_2( s ) in 0.00133 M KF (c) Ag_2SO_4( s ) in 0.500 L of a solution containing 19.50 g of K_2SO_4 (d) Zn(OH)_2( s ) in a solution buffered at a pH of 11.45",
+        "Image Links": [],
+        "Answer": "(a) 6.4 $$\\times$$ 10^-9 M = [Ag^+], [Cl^-] = 0.025 M .\nCheck: $$\\frac{6.4 \\times 10^{- 9} M}{0.025 M} \\times \\text{100%} = \\text{2.6} \\times 10^{- 5} % ,$$ an insignificant change; (b) 2.2 $$\\times$$ 10^-5 M = [Ca^2+], [F^-] = 0.0013 M .\nCheck: $$\\frac{\\text{2.26} \\times 10^{- 5} M}{0.00133 M} \\times \\text{100%} = \\text{1.70%} .$$ This value is less than 5% and can be ignored. (c) 0.2238 M = $$[ \\text{SO}_{4} ^{2 \\text{unicode[:-]}} ] ;$$ [Ag^+] = 7.4 $$\\times$$ 10^-3 M .\nCheck: $$\\frac{3.7 \\times 10^{- 3}}{0.2238} \\times 100 % = \\text{1.64} \\times 10^{- 2} ;$$ the condition is satisfied. (d) [OH^-] = 2.8 $$\\times$$ 10^-3 M ; 5.7 $$\\times$$ 10^-12 M = [Zn^2+].\nCheck: $$\\frac{5.7 \\times 10^{- 12}}{2.8 \\times 10^{- 3}} \\times \\text{100%} = \\text{2.0} \\times 10^{- 7} % ;$$ x is less than 5% of [OH^-] and is, therefore, negligible.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Assuming that no equilibria other than dissolution are involved, calculate the concentration of all solute species in each of the following solutions of salts in contact with a solution containing a common ion. Show that changes in the initial concentrations of the common ions can be neglected. (a) TlCl( s ) in 1.250 M HCl (b) PbI_2( s ) in 0.0355 M CaI_2 (c) Ag_2CrO_4( s ) in 0.225 L of a solution containing 0.856 g of K_2CrO_4 (d) Cd(OH)_2( s ) in a solution buffered at a pH of 10.995",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Assuming that no equilibria other than dissolution are involved, calculate the concentration of all solute species in each of the following solutions of salts in contact with a solution containing a common ion. State whether or not it is appropriate to neglect the changes in the initial concentrations of the common ions. (a) TlCl( s ) in 0.025 M TlNO_3 (b) BaF_2( s ) in 0.313 M KF (c) MgC_2O_4 in 2.250 L of a solution containing 8.156 g of Mg(NO_3)_2 (d) Ca(OH)_2( s ) in an unbuffered solution initially with a pH of 12.700",
+        "Image Links": [],
+        "Answer": "(a) The change in initial concentration of common ion may not be neglected (must solve quadratic equation) [Ti^+] =0.031 M [Cl^-] = 0.0056 M (b) The change in initial concentration of common ion may be neglected. [Ba^2+] = 2.4 $$\\times$$ 10^-4 M [F^-] = 0.313 M ; (c) The change in initial concentration of common ion may be neglected. [Mg^2+] = 0.0244 M $$[ \\text{C}_{2} \\text{O}_{4} ^{\\text{2unicode[:-]}} ] = 2.9 \\times 10^{\\text{unicode[:-]5}} M$$ (d) The change in initial concentration of common ion may be neglected. [Ca^2+] = 5.18 $$\\times$$ 10^-4 M [C_2)_4^2-] = 0.051 M",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Explain why the changes in concentrations of the common ions in Exercise 15.17 can be neglected.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Explain why the changes in concentrations of the common ions in Exercise 15.18 cannot be neglected.",
+        "Image Links": [],
+        "Answer": "The changes in concentration are greater than 5% and thus exceed the maximum value for disregarding the change.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Calculate the solubility of aluminum hydroxide, Al(OH)_3, in a solution buffered at pH 11.00.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Refer to Appendix J for solubility products for calcium salts. Determine which of the calcium salts listed is most soluble in moles per liter and which is most soluble in grams per liter.",
+        "Image Links": [],
+        "Answer": "CaSO_4\u22192H_2O is the most soluble Ca salt in mol/L, and it is also the most soluble Ca salt in g/L.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Most barium compounds are very poisonous; however, barium sulfate is often administered internally as an aid in the X-ray examination of the lower intestinal tract (Figure 15.4). This use of BaSO_4 is possible because of its low solubility. Calculate the molar solubility of BaSO_4 and the mass of barium present in 1.00 L of water saturated with BaSO_4.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Public Health Service standards for drinking water set a maximum of 250 mg/L (2.60 $$\\times$$ 10^-3 M ) of $$\\text{SO}_{4} ^{\\text{2unicode[:-]}}$$ because of its cathartic action (it is a laxative). Does natural water that is saturated with CaSO_4 (\u201cgyp\u201d water) as a result or passing through soil containing gypsum, CaSO_4\u00b72H_2O, meet these standards? What is the concentration of $$\\text{SO}_{4} ^{\\text{2unicode[:-]}}$$ in such water?",
+        "Image Links": [],
+        "Answer": "7.8 $$\\times$$ 10^-3 M = $$[ \\text{SO}_{4} ^{\\text{2unicode[:-]}} ]$$ = [Ca^2+]; Since this concentration is higher than 2.60 $$\\times$$ 10^-3 M , \u201cgyp\u201d water does not meet the standards.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Perform the following calculations: (a) Calculate [Ag^+] in a saturated aqueous solution of AgBr. (b) What will [Ag^+] be when enough KBr has been added to make [Br^-] = 0.050 M ? (c) What will [Br^-] be when enough AgNO_3 has been added to make [Ag^+] = 0.020 M ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "The solubility product of CaSO_4\u00b72H_2O is 2.4 $$\\times$$ 10^-5. What mass of this salt will dissolve in 1.0 L of 0.010 M $$\\text{SO}_{4} ^{\\text{2unicode[:-]}} ?$$",
+        "Image Links": [],
+        "Answer": "Mass (CaSO_4\u00b72H_2O) = 0.72 g/L",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Assuming that no equilibria other than dissolution are involved, calculate the concentrations of ions in a saturated solution of each of the following (see Appendix J for solubility products). (a) TlCl (b) BaF_2 (c) Ag_2CrO_4 (d) CaC_2O_4\u00b7H_2O (e) the mineral anglesite, PbSO_4",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Assuming that no equilibria other than dissolution are involved, calculate the concentrations of ions in a saturated solution of each of the following (see Appendix J for solubility products): (a) AgI (b) Ag_2SO_4 (c) Mn(OH)_2 (d) Sr(OH)_2\u00b78H_2O (e) the mineral brucite, Mg(OH)_2",
+        "Image Links": [],
+        "Answer": "(a) [Ag^+] = [I^-] = 1.3 $$\\times$$ 10^-5 M ; (b) [Ag^+] = 2.88 $$\\times$$ 10^-2 M , $$[ \\text{SO}_{4} ^{\\text{2unicode[:-]}} ]$$ = 1.44 $$\\times$$ 10^-2 M ; (c) [Mn^2+] = 3.7 $$\\times$$ 10^-5 M , [OH^-] = 7.4 $$\\times$$ 10^-5 M ; (d) [Sr^2+] = 4.3 $$\\times$$ 10^-2 M , [OH^-] = 8.6 $$\\times$$ 10^-2 M ; (e) [Mg^2+] = 1.3 $$\\times$$ 10^-4 M , [OH^-] = 2.6 $$\\times$$ 10^-4 M .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "The following concentrations are found in mixtures of ions in equilibrium with slightly soluble solids. From the concentrations given, calculate K _sp for each of the slightly soluble solids indicated: (a) AgBr: [Ag^+] = 5.7 $$\\times$$ 10^-7 M , [Br^-] = 5.7 $$\\times$$ 10^-7 M (b) CaCO_3: [Ca^2+] = 5.3 $$\\times$$ 10^-3 M , $$[ \\text{CO}_{3} ^{\\text{2unicode[:-]}} ]$$ = 9.0 $$\\times$$ 10^-7 M (c) PbF_2: [Pb^2+] = 2.1 $$\\times$$ 10^-3 M , [F^-] = 4.2 $$\\times$$ 10^-3 M (d) Ag_2CrO_4: [Ag^+] = 5.3 $$\\times$$ 10^-5 M , 3.2 $$\\times$$ 10^-3 M (e) InF_3: [In^3+] = 2.3 $$\\times$$ 10^-3 M , [F^-] = 7.0 $$\\times$$ 10^-3 M",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "The following concentrations are found in mixtures of ions in equilibrium with slightly soluble solids. From the concentrations given, calculate K _sp for each of the slightly soluble solids indicated: (a) TlCl: [Tl^+] = 1.21 $$\\times$$ 10^-2 M , [Cl^-] = 1.2 $$\\times$$ 10^-2 M (b) Ce(IO_3)_4: [Ce^4+] = 1.8 $$\\times$$ 10^-4 M , $$[ \\text{IO}_{3} ^{\\text{unicode[:-]}} ]$$ = 2.6 $$\\times$$ 10^-13 M (c) Gd_2(SO_4)_3: [Gd^3+] = 0.132 M , $$[ \\text{SO}_{\\text{4}} ^{\\text{2unicode[:-]}} ]$$ = 0.198 M (d) Ag_2SO_4: [Ag^+] = 2.40 $$\\times$$ 10^-2 M , $$[ \\text{SO}_{\\text{4}} ^{\\text{2unicode[:-]}} ]$$ = 2.05 $$\\times$$ 10^-2 M (e) BaSO_4: [Ba^2+] = 0.500 M , $$[ \\text{SO}_{\\text{4}} ^{\\text{2unicode[:-]}} ]$$ = 2.16 $$\\times$$ 10^-10 M",
+        "Image Links": [],
+        "Answer": "(a) 1.45 $$\\times$$ 10^-4; (b) 8.2 $$\\times$$ 10^-55; (c) 1.35 $$\\times$$ 10^-4; (d) 1.18 $$\\times$$ 10^-5; (e) 1.08 $$\\times$$ 10^-10",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Which of the following compounds precipitates from a solution that has the concentrations indicated? (See Appendix J for K _sp values.) (a) KClO_4: [K^+] = 0.01 M , $$[ \\text{ClO}_{4} ^{\\text{unicode[:-]}} ]$$ = 0.01 M (b) K_2PtCl_6: [K^+] = 0.01 M , $$[ \\text{PtCl}_{\\text{6}} ^{\\text{2unicode[:-]}} ]$$ = 0.01 M (c) PbI_2: [Pb^2+] = 0.003 M , [I^-] = 1.3 $$\\times$$ 10^-3 M (d) Ag_2S: [Ag^+] = 1 $$\\times$$ 10^-10 M , [S^2-] = 1 $$\\times$$ 10^-13 M",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Which of the following compounds precipitates from a solution that has the concentrations indicated? (See Appendix J for K _sp values.) (a) CaCO_3: [Ca^2+] = 0.003 M , $$[ \\text{CO}_{\\text{3}} ^{\\text{2unicode[:-]}} ]$$ = 0.003 M (b) Co(OH)_2: [Co^2+] = 0.01 M , [OH^-] = 1 $$\\times$$ 10^-7 M (c) CaHPO_4: [Ca^2+] = 0.01 M , $$[ \\text{HPO}_{\\text{4}} ^{\\text{2unicode[:-]}} ]$$ = 2 $$\\times$$ 10^-6 M (d) Pb_3(PO_4)_2: [Pb^2+] = 0.01 M , $$[ \\text{PO}_{\\text{4}} ^{\\text{3unicode[:-]}} ]$$ = 1 $$\\times$$ 10^-13 M",
+        "Image Links": [],
+        "Answer": "(a) CaCO_3 does precipitate.\n(b) The compound does not precipitate.\n(c) The compound does not precipitate.\n(d) The compound precipitates.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Calculate the concentration of Tl^+ when TlCl just begins to precipitate from a solution that is 0.0250 M in Cl^-.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Calculate the concentration of sulfate ion when BaSO_4 just begins to precipitate from a solution that is 0.0758 M in Ba^2+.",
+        "Image Links": [],
+        "Answer": "1.42 $$\\times$$ 10^-9 M",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Calculate the concentration of Sr^2+ when SrCrO_4 starts to precipitate from a solution that is 0.0025 M in CrO_4^2-.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Calculate the concentration of $$\\text{PO}_{4} ^{\\text{3unicode[:-]}}$$ when Ag_3PO_4 starts to precipitate from a solution that is 0.0125 M in Ag^+.",
+        "Image Links": [],
+        "Answer": "9.2 $$\\times$$ 10^-13 M",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Calculate the concentration of F^- required to begin precipitation of CaF_2 in a solution that is 0.010 M in Ca^2+.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Calculate the concentration of Ag^+ required to begin precipitation of Ag_2CO_3 in a solution that is 2.50 $$\\times$$ 10^-6 M in $$\\text{CO}_{3} ^{\\text{2unicode[:-]}} .$$",
+        "Image Links": [],
+        "Answer": "[Ag^+] = 1.8 $$\\times$$ 10^-3 M",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "What [Ag^+] is required to reduce $$[ \\text{CO}_{3} ^{\\text{2unicode[:-]}} ]$$ to 8.2 $$\\times$$ 10^-4 M by precipitation of Ag_2CO_3?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "What [F^-] is required to reduce [Ca^2+] to 1.0 $$\\times$$ 10^-4 M by precipitation of CaF_2?",
+        "Image Links": [],
+        "Answer": "6.3 $$\\times$$ 10^-4",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "A volume of 0.800 L of a 2 $$\\times$$ 10^-4- M Ba(NO_3)_2 solution is added to 0.200 L of 5 $$\\times$$ 10^-4 M Li_2SO_4. Does BaSO_4 precipitate? Explain your answer.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Perform these calculations for nickel(II) carbonate. (a) With what volume of water must a precipitate containing NiCO_3 be washed to dissolve 0.100 g of this compound? Assume that the wash water becomes saturated with NiCO_3 ( K _sp = 1.36 $$\\times$$ 10^-7). (b) If the NiCO_3 were a contaminant in a sample of CoCO_3 ( K _sp = 1.0 $$\\times$$ 10^-12), what mass of CoCO_3 would have been lost? Keep in mind that both NiCO_3 and CoCO_3 dissolve in the same solution.",
+        "Image Links": [],
+        "Answer": "(a) 2.25 L; (b) 7.2 $$\\times$$ 10^-7 g",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Iron concentrations greater than 5.4 $$\\times$$ 10^-6 M in water used for laundry purposes can cause staining. What [OH^-] is required to reduce [Fe^2+] to this level by precipitation of Fe(OH)_2?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "A solution is 0.010 M in both Cu^2+ and Cd^2+. What percentage of Cd^2+ remains in the solution when 99.9% of the Cu^2+ has been precipitated as CuS by adding sulfide?",
+        "Image Links": [],
+        "Answer": "100% of it is dissolved",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "A solution is 0.15 M in both Pb^2+ and Ag^+. If Cl^- is added to this solution, what is [Ag^+] when PbCl_2 begins to precipitate?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "What reagent might be used to separate the ions in each of the following mixtures, which are 0.1 M with respect to each ion? In some cases it may be necessary to control the pH. (Hint: Consider the K _sp values given in Appendix J.) (a) $$\\text{Hg}_{2} ^{\\text{2+}}$$ and Cu^2+ (b) $$\\text{SO}_{4} ^{\\text{2unicode[:-]}}$$ and Cl^- (c) Hg^2+ and Co^2+ (d) Zn^2+ and Sr^2+ (e) Ba^2+ and Mg^2+ (f) $$\\text{CO}_{3} ^{\\text{2unicode[:-]}}$$ and OH^-",
+        "Image Links": [],
+        "Answer": "(a) $$\\text{Hg}_{2} ^{\\text{2+}}$$ and Cu^2+: Add $$\\text{SO}_{4} ^{\\text{2unicode[:-]}} .$$ (b) $$\\text{SO}_{4} ^{\\text{2unicode[:-]}}$$ and Cl^-: Add Ba^2+.\n(c) Hg^2+ and Co^2+: Add S^2-.\n(d) Zn^2+ and Sr^2+: Add OH^- until [OH^-] = 0.050 M .\n(e) Ba^2+ and Mg^2+: Add $$\\text{SO}_{4} ^{\\text{2unicode[:-]}} .$$ (f) $$\\text{CO}_{3} ^{\\text{2unicode[:-]}}$$ and OH^-: Add Ba^2+.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "A solution contains 1.0 $$\\times$$ 10^-5 mol of KBr and 0.10 mol of KCl per liter. AgNO_3 is gradually added to this solution. Which forms first, solid AgBr or solid AgCl?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "A solution contains 1.0 $$\\times$$ 10^-2 mol of KI and 0.10 mol of KCl per liter. AgNO_3 is gradually added to this solution. Which forms first, solid AgI or solid AgCl?",
+        "Image Links": [],
+        "Answer": "AgI will precipitate first.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "The calcium ions in human blood serum are necessary for coagulation (Figure 15.5). Potassium oxalate, K_2C_2O_4, is used as an anticoagulant when a blood sample is drawn for laboratory tests because it removes the calcium as a precipitate of CaC_2O_4\u00b7H_2O. It is necessary to remove all but 1.0% of the Ca^2+ in serum in order to prevent coagulation. If normal blood serum with a buffered pH of 7.40 contains 9.5 mg of Ca^2+ per 100 mL of serum, what mass of K_2C_2O_4 is required to prevent the coagulation of a 10 mL blood sample that is 55% serum by volume? (All volumes are accurate to two significant figures. Note that the volume of serum in a 10-mL blood sample is 5.5 mL. Assume that the K_sp value for CaC_2O_4 in serum is the same as in water.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "About 50% of urinary calculi (kidney stones) consist of calcium phosphate, Ca_3(PO_4)_2. The normal mid range calcium content excreted in the urine is 0.10 g of Ca^2+ per day. The normal mid range amount of urine passed may be taken as 1.4 L per day. What is the maximum concentration of phosphate ion that urine can contain before a calculus begins to form?",
+        "Image Links": [],
+        "Answer": "1.5 $$\\times$$ 10^-12 M",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "The pH of normal urine is 6.30, and the total phosphate concentration $$( {[ \\text{PO}}_{4} ^{\\text{3unicode[:-]}} ]$$ + $$[ \\text{HPO}_{4} ^{\\text{2unicode[:-]}} ]$$ + $$[ \\text{H}_{2} \\text{PO}_{4} ^{\\text{unicode[:-]}} ]$$ + [H_3PO_4]) is 0.020 M . What is the minimum concentration of Ca^2+ necessary to induce kidney stone formation? (See Exercise 15.49 for additional information.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Magnesium metal (a component of alloys used in aircraft and a reducing agent used in the production of uranium, titanium, and other active metals) is isolated from sea water by the following sequence of reactions: $$\\text{Mg}^{\\text{2+}} ( a q ) + \\text{Ca(OH)}_{2} ( a q ) \u27f6 \\text{Mg(OH)}_{2} ( s ) + \\text{Ca}^{\\text{2+}} ( a q )$$ $$\\text{Mg(OH)}_{2} ( s ) + \\text{2HCl(} a q ) \u27f6 \\text{MgCl}_{2} ( s ) + \\text{2H}_{2} \\text{O} ( l )$$ $$\\left(\\text{MgCl}\\right)_{2} \\left(\\right. l \\left.\\right) \\overset{ \\text{electrolysis} }{\\rightarrow} \\text{Mg} \\left(\\right. s \\left.\\right) + \\left(\\text{Cl}\\right)_{2} \\left(\\right. g \\left.\\right)$$ Sea water has a density of 1.026 g/cm^3 and contains 1272 parts per million of magnesium as Mg^2+( aq ) by mass. What mass, in kilograms, of Ca(OH)_2 is required to precipitate 99.9% of the magnesium in 1.00 $$\\times$$ 10^3 L of sea water?",
+        "Image Links": [],
+        "Answer": "3.99 kg",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Hydrogen sulfide is bubbled into a solution that is 0.10 M in both Pb^2+ and Fe^2+ and 0.30 M in HCl. After the solution has come to equilibrium it is saturated with H_2S ([H_2S] = 0.10 M ). What concentrations of Pb^2+ and Fe^2+ remain in the solution? For a saturated solution of H_2S we can use the equilibrium: $$\\text{H}_{2} \\text{S} ( a q ) + \\text{2H}_{2} \\text{O} ( l ) \\rightleftharpoons \\text{2H}_{3} \\text{O}^{\\text{+}} ( a q ) + \\text{S}^{\\text{2unicode[:-]}} ( a q ) K = 1.0 \\times 1 0^{- 26}$$ (Hint: The $$[ \\text{H}_{3} \\text{O}^{\\text{+}} ]$$ changes as metal sulfides precipitate.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Perform the following calculations involving concentrations of iodate ions: (a) The iodate ion concentration of a saturated solution of La(IO_3)_3 was found to be 3.1 $$\\times$$ 10^-3 mol/L. Find the K _sp. (b) Find the concentration of iodate ions in a saturated solution of Cu(IO_3)_2 ( K _sp = 7.4 $$\\times$$ 10^-8).",
+        "Image Links": [],
+        "Answer": "(a) 3.1 $$\\times$$ 10^-11; (b) [Cu^2+] = 2.6 $$\\times$$ 10^-3; $$[ \\text{IO}_{3} ^{\\text{unicode[:-]}} ]$$ = 5.3 $$\\times$$ 10^-3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Calculate the molar solubility of AgBr in 0.035 M NaBr ( K _sp = 5 $$\\times$$ 10^-13).",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "How many grams of Pb(OH)_2 will dissolve in 500 mL of a 0.050- M PbCl_2 solution ( K _sp = 1.2 $$\\times$$ 10^-15)?",
+        "Image Links": [],
+        "Answer": "1.8 $$\\times$$ 10^-5 g Pb(OH)_2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Use the simulation from the earlier Link to Learning to complete the following exercise. Using 0.01 g CaF_2, give the K_sp values found in a 0.2- M solution of each of the salts. Discuss why the values change as you change soluble salts.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "How many grams of Milk of Magnesia, Mg(OH)_2 ( s ) (58.3 g/mol), would be soluble in 200 mL of water. K _sp = 7.1 $$\\times$$ 10^-12. Include the ionic reaction and the expression for K _sp in your answer. ( K _w = 1 $$\\times$$ 10^-14 = [H_3O^+][OH^-])",
+        "Image Links": [],
+        "Answer": "$$\\text{Mg(OH)}_{2} ( s ) \\rightleftharpoons \\text{Mg}^{\\text{2+}} + \\text{2OH}^{\\text{unicode[:-]}} K_{\\text{sp}} = [ \\text{Mg}^{\\text{2+}} ] [ \\text{OH}^{\\text{unicode[:-]}} ]^{2}$$ 1.23 $$\\times$$ 10^-3 g Mg(OH)_2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "Two hypothetical salts, LM_2 and LQ, have the same molar solubility in H_2O. If K _sp for LM_2 is 3.20 $$\\times$$ 10^-5, what is the K _sp value for LQ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "The carbonate ion concentration is gradually increased in a solution containing equal concentrations of the divalent cations of magnesium, calcium, strontium, barium, and manganese. Which of the following carbonates will precipitate first? Which will precipitate last? Explain. (a) $$\\text{MgCO}_{3} \\smblkcircle 3 \\text{H}_{2} \\text{O} K_{\\text{sp}} = 1 \\times 1 0^{- 5}$$ (b) $$\\text{CaCO}_{3} K_{\\text{sp}} = 8.7 \\times 1 0^{- 9}$$ (c) $$\\text{SrCO}_{3} K_{\\text{sp}} = 7 \\times 1 0^{- 10}$$ (d) $$\\text{BaCO}_{3} K_{\\text{sp}} = 1.6 \\times 1 0^{- 9}$$ (e) $$\\text{MnCO}_{3} K_{\\text{sp}} = 8.8 \\times 1 0^{- 11}$$",
+        "Image Links": [],
+        "Answer": "MnCO_3 will form first since it has the smallest K _sp value among these homologous compounds and is therefore the least soluble. MgCO_3\u20223H_2O will be the last to precipitate since it has the largest K_sp value and is the most soluble. K _sp value.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 Precipitation and Dissolution",
+        "Problem Statement": "",
+        "Question": "How many grams of Zn(CN)_2( s ) (117.44 g/mol) would be soluble in 100 mL of H_2O? Include the balanced reaction and the expression for K _sp in your answer. The K _sp value for Zn(CN)_2( s ) is 3.0 $$\\times$$ 10^-16.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 Lewis Acids and Bases",
+        "Problem Statement": "",
+        "Question": "Even though Ca(OH)_2 is an inexpensive base, its limited solubility restricts its use. What is the pH of a saturated solution of Ca(OH)_2?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 Lewis Acids and Bases",
+        "Problem Statement": "",
+        "Question": "Under what circumstances, if any, does a sample of solid AgCl completely dissolve in pure water?",
+        "Image Links": [],
+        "Answer": "when the amount of solid is so small that a saturated solution is not produced",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 Lewis Acids and Bases",
+        "Problem Statement": "",
+        "Question": "Explain why the addition of NH_3 or HNO_3 to a saturated solution of Ag_2CO_3 in contact with solid Ag_2CO_3 increases the solubility of the solid.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 Lewis Acids and Bases",
+        "Problem Statement": "",
+        "Question": "Calculate the cadmium ion concentration, [Cd^2+], in a solution prepared by mixing 0.100 L of 0.0100 M Cd(NO_3)_2 with 0.150 L of 0.100 NH_3( aq ).",
+        "Image Links": [],
+        "Answer": "8.2 $$\\times$$ 10^-5 M",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 Lewis Acids and Bases",
+        "Problem Statement": "",
+        "Question": "Explain why addition of NH_3 or HNO_3 to a saturated solution of Cu(OH)_2 in contact with solid Cu(OH)_2 increases the solubility of the solid.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 Lewis Acids and Bases",
+        "Problem Statement": "",
+        "Question": "Sometimes equilibria for complex ions are described in terms of dissociation constants, K _d. For the complex ion $$\\text{AlF}_{6} ^{\\text{3unicode[:-]}}$$ the dissociation reaction is: $$\\text{AlF}_{6} ^{\\text{3unicode[:-]}} \\rightleftharpoons \\text{Al}^{\\text{3+}} + 6 \\text{F}^{\\text{unicode[:-]}}$$ and $$K_{\\text{d}} = \\frac{[ \\text{Al}^{\\text{3+}} ] [ \\text{F}^{\\text{unicode[:-]}} ]^{6}}{[ \\text{AlF}_{6} ^{\\text{3unicode[:-]}} ]} = 2 \\times 10^{- 24}$$ Calculate the value of the formation constant, K _f, for $$\\text{AlF}_{\\text{6}} ^{\\text{3unicode[:-]}} .$$",
+        "Image Links": [],
+        "Answer": "5 $$\\times$$ 10^23",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 Lewis Acids and Bases",
+        "Problem Statement": "",
+        "Question": "Using the value of the formation constant for the complex ion $$\\text{Co} ( \\text{NH}_{3} )_{6} ^{\\text{2+}} ,$$ calculate the dissociation constant.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 Lewis Acids and Bases",
+        "Problem Statement": "",
+        "Question": "Using the dissociation constant, K _d = 3.3 $$\\times$$ 10^-19, calculate the equilibrium concentrations of Cd^2+ and CN^- in a 0.250- M solution of $$\\text{Cd} ( \\text{CN} )_{4} ^{\\text{2unicode[:-]}} .$$",
+        "Image Links": [],
+        "Answer": "[Cd^2+] = 5.0 $$\\times$$ 10^-5 M ; [CN^-] = 2.0 $$\\times$$ 10^-4 M",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a2edac90770c3f47038691bdbdc77438a004c735"
+        ]
+    },
+    {
+        "Topic": "15.2 Lewis Acids and Bases",
+        "Problem Statement": "",
+        "Question": "Using the dissociation constant, K _d = 3.4 $$\\times$$ 10^-15, calculate the equilibrium concentrations of Zn^2+ and OH^- in a 0.0465- M solution of $$\\text{Zn} ( \\text{OH} )_{4} ^{\\text{2unicode[:-]}} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 Lewis Acids and Bases",
+        "Problem Statement": "",
+        "Question": "Using the dissociation constant, K _d = 2.2 $$\\times$$ 10^-34, calculate the equilibrium concentrations of Co^3+ and NH_3 in a 0.500- M solution of $$\\text{Co} ( \\text{NH}_{3} )_{6} ^{\\text{3+}} .$$",
+        "Image Links": [],
+        "Answer": "[Co^3+] = 3.0 $$\\times$$ 10^-6 M ; [NH_3] = 1.8 $$\\times$$ 10^-5 M",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 Lewis Acids and Bases",
+        "Problem Statement": "",
+        "Question": "Using the dissociation constant, K _d = 1 $$\\times$$ 10^-44, calculate the equilibrium concentrations of Fe^3+ and CN^- in a 0.333 M solution of $$\\text{Fe} ( \\text{CN} )_{6} ^{\\text{3unicode[:-]}} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 Lewis Acids and Bases",
+        "Problem Statement": "",
+        "Question": "Calculate the mass of potassium cyanide ion that must be added to 100 mL of solution to dissolve 2.0 $$\\times$$ 10^-2 mol of silver cyanide, AgCN.",
+        "Image Links": [],
+        "Answer": "1.3 g",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 Lewis Acids and Bases",
+        "Problem Statement": "",
+        "Question": "Calculate the minimum concentration of ammonia needed in 1.0 L of solution to dissolve 3.0 $$\\times$$ 10^-3 mol of silver bromide.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 Lewis Acids and Bases",
+        "Problem Statement": "",
+        "Question": "A roll of 35-mm black and white photographic film contains about 0.27 g of unexposed AgBr before developing. What mass of Na_2S_2O_3\u00b75H_2O (sodium thiosulfate pentahydrate or hypo) in 1.0 L of developer is required to dissolve the AgBr as $$\\text{Ag} ( \\text{S}_{2} \\text{O}_{3} )_{2} ^{\\text{3unicode[:-]}}$$ ( K _f = 4.7 $$\\times$$ 10^13)?",
+        "Image Links": [],
+        "Answer": "0.79 g",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 Lewis Acids and Bases",
+        "Problem Statement": "",
+        "Question": "We have seen an introductory definition of an acid: An acid is a compound that reacts with water and increases the amount of hydronium ion present. In the chapter on acids and bases, we saw two more definitions of acids: a compound that donates a proton (a hydrogen ion, H^+) to another compound is called a Br\u00f8nsted-Lowry acid, and a Lewis acid is any species that can accept a pair of electrons. Explain why the introductory definition is a macroscopic definition, while the Br\u00f8nsted-Lowry definition and the Lewis definition are microscopic definitions.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 Lewis Acids and Bases",
+        "Problem Statement": "",
+        "Question": "Write the Lewis structures of the reactants and product of each of the following equations, and identify the Lewis acid and the Lewis base in each: (a) $$\\text{CO}_{2} + \\text{OH}^{\\text{unicode[:-]}} \u27f6 \\text{HCO}_{3} ^{\\text{unicode[:-]}}$$ (b) $$\\text{B} ( \\text{OH} )_{3} + \\text{OH}^{\\text{unicode[:-]}} \u27f6 \\text{B} ( \\text{OH} )_{4} ^{\\text{unicode[:-]}}$$ (c) $$\\text{I}^{\\text{unicode[:-]}} + \\text{I}_{2} \u27f6 \\text{I}_{3} ^{\\text{unicode[:-]}}$$ (d) $$\\text{AlCl}_{3} + \\text{Cl}^{\\text{unicode[:-]}} \u27f6 \\text{AlCl}_{4} ^{\\text{unicode[:-]}}$$ (use Al-Cl single bonds) (e) $$\\text{O}^{\\text{2unicode[:-]}} + \\text{SO}_{3} \u27f6 \\text{SO}_{4} ^{\\text{2unicode[:-]}}$$",
+        "Image Links": [],
+        "Answer": "(a) (b) (c) (d) (e)",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/98c0344fc7fd70cf5432d1cd5cf9e385fb6f0c5f",
+            "https://openstax.org/apps/archive/20240812.170248/resources/b8da88d0c136e9f16fbc768cec139ca8666b0fd1",
+            "https://openstax.org/apps/archive/20240812.170248/resources/0ee13fc2c8f7b7209c85386371dfbfd32534f7ab",
+            "https://openstax.org/apps/archive/20240812.170248/resources/6058539e51af5496abd749406511e491b5059ede",
+            "https://openstax.org/apps/archive/20240812.170248/resources/0ef9d7d3a75a99c33a4591fb0dd1f26a5cb93f88"
+        ]
+    },
+    {
+        "Topic": "15.2 Lewis Acids and Bases",
+        "Problem Statement": "",
+        "Question": "Write the Lewis structures of the reactants and product of each of the following equations, and identify the Lewis acid and the Lewis base in each: (a) $$\\text{CS}_{2} + \\text{SH}^{\\text{unicode[:-]}} \u27f6 \\text{HCS}_{3} ^{\\text{unicode[:-]}}$$ (b) $$\\text{BF}_{3} + \\text{F}^{\\text{unicode[:-]}} \u27f6 \\text{BF}_{4} ^{\\text{unicode[:-]}}$$ (c) $$\\text{I}^{\\text{unicode[:-]}} + \\text{SnI}_{2} \u27f6 \\text{SnI}_{3} ^{\\text{unicode[:-]}}$$ (d) $$\\text{Al} ( \\text{OH} )_{3} + \\text{OH}^{\\text{unicode[:-]}} \u27f6 \\text{Al} ( \\text{OH} )_{4} ^{\\text{unicode[:-]}}$$ (e) $$\\text{F}^{\\text{unicode[:-]}} + \\text{SO}_{3} \u27f6 \\text{SFO}_{3} ^{\\text{unicode[:-]}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 Lewis Acids and Bases",
+        "Problem Statement": "",
+        "Question": "Using Lewis structures, write balanced equations for the following reactions: (a) $$\\text{HCl} ( g ) + \\text{PH}_{3} ( g ) \u27f6$$ (b) $$\\text{H}_{3} \\text{O}^{+} + \\text{CH}_{3} ^{\\text{unicode[:-]}} \u27f6$$ (c) $$\\text{CaO} + \\text{SO}_{3} \u27f6$$ (d) $$\\text{NH}_{4} ^{+} + \\text{C}_{2} \\text{H}_{5} \\text{O}^{\\text{unicode[:-]}} \u27f6$$",
+        "Image Links": [],
+        "Answer": "(a) (b) $$\\text{H}_{3} \\text{O}^{+} + \\text{CH}_{3} ^{\\text{unicode[:-]}} \u27f6 \\text{CH}_{4} + \\text{H}_{2} \\text{O}$$ (c) $$\\text{CaO} + \\text{SO}_{3} \u27f6 \\text{CaSO} 4$$ (d) $$\\text{NH}_{4} ^{+} + \\text{C}_{2} \\text{H}_{5} \\text{O}^{\\text{unicode[:-]}} \u27f6 \\text{C}_{2} \\text{H}_{5} \\text{OH} + \\text{NH}_{3}$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/54a2ece8505fcd8e24fa3820d9e97276b94f2972",
+            "https://openstax.org/apps/archive/20240812.170248/resources/f438103c2c897a773ef070d27ad3a48ec54c0230",
+            "https://openstax.org/apps/archive/20240812.170248/resources/19dbac19cc7d04c9db96091924ac7822e13dcd1d",
+            "https://openstax.org/apps/archive/20240812.170248/resources/f81331113dc9256d6f844aa3ef19d315e56cfd16"
+        ]
+    },
+    {
+        "Topic": "15.2 Lewis Acids and Bases",
+        "Problem Statement": "",
+        "Question": "Calculate $$[ \\text{HgCl}_{4} ^{\\text{2unicode[:-]}} ]$$ in a solution prepared by adding 0.0200 mol of NaCl to 0.250 L of a 0.100- M HgCl_2 solution.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 Lewis Acids and Bases",
+        "Problem Statement": "",
+        "Question": "In a titration of cyanide ion, 28.72 mL of 0.0100 M AgNO_3 is added before precipitation begins. [The reaction of Ag^+ with CN^- goes to completion, producing the $$\\text{Ag} ( \\text{CN} )_{2} ^{\\text{unicode[:-]}}$$ complex.] Precipitation of solid AgCN takes place when excess Ag^+ is added to the solution, above the amount needed to complete the formation of $$\\text{Ag} ( \\text{CN} )_{2} ^{\\text{unicode[:-]}} .$$ How many grams of NaCN were in the original sample?",
+        "Image Links": [],
+        "Answer": "0.0281 g",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 Lewis Acids and Bases",
+        "Problem Statement": "",
+        "Question": "What are the concentrations of Ag^+, CN^-, and $$\\text{Ag} ( \\text{CN} )_{2} ^{\\text{unicode[:-]}}$$ in a saturated solution of AgCN?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 Lewis Acids and Bases",
+        "Problem Statement": "",
+        "Question": "In dilute aqueous solution HF acts as a weak acid. However, pure liquid HF (boiling point = 19.5 \u00b0C) is a strong acid. In liquid HF, HNO_3 acts like a base and accepts protons. The acidity of liquid HF can be increased by adding one of several inorganic fluorides that are Lewis acids and accept F^- ion (for example, BF_3 or SbF_5). Write balanced chemical equations for the reaction of pure HNO_3 with pure HF and of pure HF with BF_3.",
+        "Image Links": [],
+        "Answer": "$$\\text{HNO}_{3} ( l ) + \\text{HF} ( l ) \u27f6 \\text{H}_{2} \\text{NO}_{3} ^{+} + \\text{F}^{\\text{unicode[:-]}} ;$$ $$\\text{HF} ( l ) + \\text{BF}_{3} ( g ) \u27f6 \\text{H}^{+} + \\text{BF}_{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 Lewis Acids and Bases",
+        "Problem Statement": "",
+        "Question": "The simplest amino acid is glycine, H_2NCH_2CO_2H. The common feature of amino acids is that they contain the functional groups: an amine group, -NH_2, and a carboxylic acid group, -CO_2H. An amino acid can function as either an acid or a base. For glycine, the acid strength of the carboxyl group is about the same as that of acetic acid, CH_3CO_2H, and the base strength of the amino group is slightly greater than that of ammonia, NH_3. (a) Write the Lewis structures of the ions that form when glycine is dissolved in 1 M HCl and in 1 M KOH. (b) Write the Lewis structure of glycine when this amino acid is dissolved in water. (Hint: Consider the relative base strengths of the -NH_2 and $$- \\text{CO}_{2} ^{\\text{unicode[:-]}}$$ groups.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 Lewis Acids and Bases",
+        "Problem Statement": "",
+        "Question": "Boric acid, H_3BO_3, is not a Br\u00f8nsted-Lowry acid but a Lewis acid.  (Hint: See the equation in Exercise 15.76) (a) Write an equation for its reaction with water. (b) Predict the shape of the anion thus formed. (c) What is the hybridization on the boron, and is it consistent with the shape you have predicted?",
+        "Image Links": [],
+        "Answer": "(a) $$\\text{H}_{3} \\text{BO}_{3} + \\text{H}_{2} \\text{O} \u27f6 \\text{H}_{4} \\text{BO}_{4} ^{\\text{unicode[:-]}} + \\text{H}^{+} ;$$ (b) The electronic and molecular shapes are the same-both tetrahedral. (c) The tetrahedral structure is consistent with sp ^3 hybridization.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 Coupled Equilibria",
+        "Problem Statement": "",
+        "Question": "A saturated solution of a slightly soluble electrolyte in contact with some of the solid electrolyte is said to be a system in equilibrium. Explain. Why is such a system called a heterogeneous equilibrium?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 Coupled Equilibria",
+        "Problem Statement": "",
+        "Question": "Calculate the equilibrium concentration of Ni^2+ in a 1.0- M solution [Ni(NH_3)_6](NO_3)_2.",
+        "Image Links": [],
+        "Answer": "0.014 M",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 Coupled Equilibria",
+        "Problem Statement": "",
+        "Question": "Calculate the equilibrium concentration of Zn^2+ in a 0.30- M solution of $$\\text{Zn} ( \\text{CN} )_{4} ^{\\text{2unicode[:-]}} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 Coupled Equilibria",
+        "Problem Statement": "",
+        "Question": "Calculate the equilibrium concentration of Cu^2+ in a solution initially with 0.050 M Cu^2+ and 1.00 M NH_3.",
+        "Image Links": [],
+        "Answer": "7.2 $$\\times$$ 10^-15 M",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 Coupled Equilibria",
+        "Problem Statement": "",
+        "Question": "Calculate the equilibrium concentration of Zn^2+ in a solution initially with 0.150 M Zn^2+ and 2.50 M CN^-.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 Coupled Equilibria",
+        "Problem Statement": "",
+        "Question": "Calculate the Fe^3+ equilibrium concentration when 0.0888 mole of K_3[Fe(CN)_6] is added to a solution with 0.00010 M CN^-.",
+        "Image Links": [],
+        "Answer": "4.4 $$\\times$$ 10^-22 M",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 Coupled Equilibria",
+        "Problem Statement": "",
+        "Question": "Calculate the Co^2+ equilibrium concentration when 0.010 mole of [Co(NH_3)_6](NO_3)_2 is added to a solution with 0.25 M NH_3. Assume the volume is 1.00 L.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 Coupled Equilibria",
+        "Problem Statement": "",
+        "Question": "Calculate the molar solubility of Sn(OH)_2 in a buffer solution containing equal concentrations of NH_3 and $$\\text{NH}_{4} ^{+} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 Coupled Equilibria",
+        "Problem Statement": "",
+        "Question": "Calculate the molar solubility of Al(OH)_3 in a buffer solution with 0.100 M NH_3 and 0.400 M $$\\text{NH}_{4} ^{+} .$$",
+        "Image Links": [],
+        "Answer": "[OH^-] = 4.5 $$\\times$$ 10^-6; [Al^3+] = 2 $$\\times$$ 10^-16 (molar solubility)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 Coupled Equilibria",
+        "Problem Statement": "",
+        "Question": "What is the molar solubility of CaF_2 in a 0.100- M solution of HF? K _a for HF = 6.4 $$\\times$$ 10^-4.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 Coupled Equilibria",
+        "Problem Statement": "",
+        "Question": "What is the molar solubility of BaSO_4 in a 0.250- M solution of NaHSO_4? K _a for $$\\text{HSO}_{4} ^{\\text{unicode[:-]}}$$ = 1.2 $$\\times$$ 10^-2.",
+        "Image Links": [],
+        "Answer": "$$\\text{K}_{sp} = [ \\text{Ba}^{2+} ] [ \\text{SO}_{4} ^{\\text{2unicode[:-]}} ] = [ \\text{Ba}^{2+} ] ( 0.049 ) = 1.08 \\times 10^{-10} [ \\text{Ba}^{2+} ] = 2.2 \\times 10^{-9}$$ ; (molar solubility)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 Coupled Equilibria",
+        "Problem Statement": "",
+        "Question": "What is the molar solubility of Tl(OH)_3 in a 0.10- M solution of NH_3?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 Coupled Equilibria",
+        "Problem Statement": "",
+        "Question": "What is the molar solubility of Pb(OH)_2 in a 0.138- M solution of CH_3NH_2?",
+        "Image Links": [],
+        "Answer": "[OH^-] = 7.6 $$\\times$$ 10^-3 M ;\n[Pb^2+] = 2.1 $$\\times$$ 10^-11 (molar solubility)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 Coupled Equilibria",
+        "Problem Statement": "",
+        "Question": "A solution of 0.075 M CoBr_2 is saturated with H_2S ([H_2S] = 0.10 M ). What is the minimum pH at which CoS begins to precipitate? $$\\text{CoS} ( s ) \\rightleftharpoons \\text{Co}^{\\text{2+}} ( a q ) + \\text{S}^{\\text{2unicode[:-]}} ( a q ) K_{\\text{sp}} = 2.3 \\times 10^{\\text{27}}$$ $$\\text{H}_{2} \\text{S} ( a q ) + 2 \\text{H}_{2} \\text{O} ( l ) \\rightleftharpoons 2 \\text{H}_{3} \\text{O}^{\\text{+}} ( a q ) + \\text{S}^{\\text{2unicode[:-]}} ( a q ) K = 8.9 \\times 10^{\\text{unicode[:-]27}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 Coupled Equilibria",
+        "Problem Statement": "",
+        "Question": "A 0.125- M solution of Mn(NO_3)_2 is saturated with H_2S ([H_2S] = 0.10 M ). At what pH does MnS begin to precipitate? $$\\text{MnS} ( s ) \\rightleftharpoons \\text{Mn}^{\\text{2+}} ( a q ) + \\text{S}^{\\text{2unicode[:-]}} ( a q ) K_{\\text{sp}} = 2.3 \\times 10^{\\text{unicode[:-]13}}$$ $$\\text{H}_{2} \\text{S} ( a q ) + 2 \\text{H}_{2} \\text{O} ( l ) \\rightleftharpoons 2 \\text{H}_{3} \\text{O}^{\\text{+}} ( a q ) + \\text{S}^{\\text{2unicode[:-]}} ( a q ) K = 1.0 \\times 10^{\\text{unicode[:-]26}}$$",
+        "Image Links": [],
+        "Answer": "7.66",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 Coupled Equilibria",
+        "Problem Statement": "",
+        "Question": "Both AgCl and AgI dissolve in NH_3. (a) What mass of AgI dissolves in 1.0 L of 1.0 M NH_3? (b) What mass of AgCl dissolves in 1.0 L of 1.0 M NH_3?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 Coupled Equilibria",
+        "Problem Statement": "",
+        "Question": "The following question is taken from a Chemistry Advanced Placement Examination and is used with the permission of the Educational Testing Service. Solve the following problem: $$\\text{MgF}_{2} ( s ) \\rightleftharpoons \\text{Mg}^{\\text{2+}} ( a q ) + 2 \\text{F}^{\\text{unicode[:-]}} ( a q )$$ In a saturated solution of MgF_2 at 18 \u00b0C, the concentration of Mg^2+ is 1.21 $$\\times$$ 10^-3 M . The equilibrium is represented by the preceding equation. (a) Write the expression for the solubility-product constant, K _sp, and calculate its value at 18 \u00b0C. (b) Calculate the equilibrium concentration of Mg^2+ in 1.000 L of saturated MgF_2 solution at 18 \u00b0C to which 0.100 mol of solid KF has been added. The KF dissolves completely. Assume the volume change is negligible. (c) Predict whether a precipitate of MgF_2 will form when 100.0 mL of a 3.00 $$\\times$$ 10^-3- M solution of Mg(NO_3)_2 is mixed with 200.0 mL of a 2.00 $$\\times$$ 10^-3- M solution of NaF at 18 \u00b0C. Show the calculations to support your prediction. (d) At 27 \u00b0C the concentration of Mg^2+ in a saturated solution of MgF_2 is 1.17 $$\\times$$ 10^-3 M . Is the dissolving of MgF_2 in water an endothermic or an exothermic process? Give an explanation to support your conclusion.",
+        "Image Links": [],
+        "Answer": "(a) K _sp = [Mg^2+][F^-]^2 = (1.21 $$\\times$$ 10^-3)(2 $$\\times$$ 1.21 $$\\times$$ 10^-3)^2 = 7.09 $$\\times$$ 10^-9 (b) 7.09 $$\\times$$ 10^-7 M (c) Determine the concentration of Mg^2+ and F^- that will be present in the final volume. Compare the value of the ion product [Mg^2+][F^-]^2 with K _sp. If this value is larger than K _sp, precipitation will occur. 0.1000 L $$\\times$$ 3.00 $$\\times$$ 10^-3 M Mg(NO_3)_2 = 0.3000 L $$\\times$$ M Mg(NO_3)_2 M Mg(NO_3)_2 = 1.00 $$\\times$$ 10^-3 M 0.2000 L $$\\times$$ 2.00 $$\\times$$ 10^-3 M NaF = 0.3000 L $$\\times$$ M NaF M NaF = 1.33 $$\\times$$ 10^-3 M ion product = (1.00 $$\\times$$ 10^-3)(1.33 $$\\times$$ 10^-3)^2 = 1.77 $$\\times$$ 10^-9\nThis value is smaller than K _sp, so no precipitation will occur. (d) MgF_2 is less soluble at 27 \u00b0C than at 18 \u00b0C. Because added heat acts like an added reagent, when it appears on the product side, the Le Ch\u00e2telier\u2019s principle states that the equilibrium will shift to the reactants\u2019 side to counter the stress. Consequently, less reagent will dissolve. This situation is found in our case. Therefore, the reaction is exothermic.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 Coupled Equilibria",
+        "Problem Statement": "",
+        "Question": "Which of the following compounds, when dissolved in a 0.01- M solution of HClO_4, has a solubility greater than in pure water: CuCl, CaCO_3, MnS, PbBr_2, CaF_2? Explain your answer.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 Coupled Equilibria",
+        "Problem Statement": "",
+        "Question": "Which of the following compounds, when dissolved in a 0.01- M solution of HClO_4, has a solubility greater than in pure water: AgBr, BaF_2, Ca_3(PO_4)_2, ZnS, PbI_2? Explain your answer.",
+        "Image Links": [],
+        "Answer": "BaF_2, Ca_3(PO_4)_2, ZnS; each is a salt of a weak acid, and the $$[ \\text{H}_{3} \\text{O}^{+} ]$$ from perchloric acid reduces the equilibrium concentration of the anion, thereby increasing the concentration of the cations",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 Coupled Equilibria",
+        "Problem Statement": "",
+        "Question": "What is the effect on the amount of solid Mg(OH)_2 that dissolves and the concentrations of Mg^2+ and OH^- when each of the following are added to a mixture of solid Mg(OH)_2 and water at equilibrium? (a) MgCl_2 (b) KOH (c) HClO_4 (d) NaNO_3 (e) Mg(OH)_2",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 Coupled Equilibria",
+        "Problem Statement": "",
+        "Question": "What is the effect on the amount of CaHPO_4 that dissolves and the concentrations of Ca^2+ and $$\\text{HPO}_{4} ^{\\text{2unicode[:-]}}$$ when each of the following are added to a mixture of solid CaHPO_4 and water at equilibrium? (a) CaCl_2 (b) HCl (c) KClO_4 (d) NaOH (e) CaHPO_4",
+        "Image Links": [],
+        "Answer": "Effect on amount of solid CaHPO_4, [Ca^2+], [OH^-]: (a) increase, increase, decrease; (b) decrease, increase, decrease; (c) no effect, no effect, no effect; (d) decrease, increase, decrease; (e) increase, no effect, no effect",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 Coupled Equilibria",
+        "Problem Statement": "",
+        "Question": "Identify all chemical species present in an aqueous solution of Ca_3(PO_4)_2 and list these species in decreasing order of their concentrations. (Hint: Remember that the $$\\text{PO}_{4} ^{\\text{3unicode[:-]}}$$ ion is a weak base.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

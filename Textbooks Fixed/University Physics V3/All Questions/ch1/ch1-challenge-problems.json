@@ -1,0 +1,62 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Light shows staged with lasers use moving mirrors to swing beams and create colorful effects. Show that a light ray reflected from a mirror changes direction by $$2 \\theta$$ when the mirror is rotated by an angle $$\\theta$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Consider sunlight entering Earth\u2019s atmosphere at sunrise and sunset-that is, at a $$90.0 \\text{\u00b0}$$ incident angle. Taking the boundary between nearly empty space and the atmosphere to be sudden, calculate the angle of refraction for sunlight. This lengthens the time the Sun appears to be above the horizon, both at sunrise and sunset. Now construct a problem in which you determine the angle of refraction for different models of the atmosphere, such as various layers of varying density. Your instructor may wish to guide you on the level of complexity to consider and on how the index of refraction varies with air density.",
+        "Image Links": [],
+        "Answer": "First part: $$88.6 \\text{\u00b0}$$ . The remainder depends on the complexity of the solution the reader constructs.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A light ray entering an optical fiber surrounded by air is first refracted and then reflected as shown below. Show that if the fiber is made from crown glass, any incident ray will be totally internally reflected.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/548b38fab73cab5e236ae6fef06cbb9e956b5733"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A light ray falls on the left face of a prism (see below) at the angle of incidence $$\\theta$$ for which the emerging beam has an angle of refraction $$\\theta$$ at the right face. Show that the index of refraction n of the glass prism is given by $$n = \\frac{\\text{sin} \\frac{1}{2} ( \\alpha + \\upphi )}{\\text{sin} \\frac{1}{2} \\upphi}$$ where $$\\upphi$$ is the vertex angle of the prism and $$\\alpha$$ is the angle through which the beam has been deviated. If $$\\alpha = 37.0 \\text{\u00b0}$$ and the base angles of the prism are each $$50.0 \\text{\u00b0} ,$$ what is n ?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b4800e2931e89ea533377fa5db5f58d02e129a8e"
+        ],
+        "Answer": "proof; 1.33",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "If the apex angle $$\\upphi$$ in the previous problem is $$20.0 \\text{\u00b0}$$ and $$n = 1.50$$ , what is the value of $$\\alpha$$ ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The light incident on polarizing sheet $$\\text{P}_{1}$$ is linearly polarized at an angle of $$30.0 \\text{\u00b0}$$ with respect to the transmission axis of $$\\text{P}_{1}$$ . Sheet $$\\text{P}_{2}$$ is placed so that its axis is parallel to the polarization axis of the incident light, that is, also at $$30.0 \\text{\u00b0}$$ with respect to $$\\text{P}_{1}$$ . (a) What fraction of the incident light passes through $$\\text{P}_{1}$$ ? (b) What fraction of the incident light is passed by the combination? (c) By rotating $$\\text{P}_{2}$$ , a maximum in transmitted intensity is obtained. What is the ratio of this maximum intensity to the intensity of transmitted light when $$\\text{P}_{2}$$ is at $$30.0 \\text{\u00b0}$$ with respect to $$\\text{P}_{1}$$ ?",
+        "Image Links": [],
+        "Answer": "a. 0.750; b. 0.563; c. 1.33",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Prove that if I is the intensity of light transmitted by two polarizing filters with axes at an angle $$\\theta$$ and $$I \\text{unicode[:']}$$ is the intensity when the axes are at an angle $$90.0 \\text{\u00b0} - \\theta ,$$ then $$I + I^{\\text{unicode[:']}} = I_{0} ,$$ the original intensity. ( Hint: Use the trigonometric identities $$\\text{cos} 90.0 \\text{\u00b0} - \\theta = \\text{sin} \\theta$$ and $$\\text{cos}^{2} \\theta + \\text{sin}^{2} \\theta = 1 . )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

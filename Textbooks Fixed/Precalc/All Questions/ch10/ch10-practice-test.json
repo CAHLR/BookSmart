@@ -1,0 +1,220 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation in standard form and state the center, vertices, and foci.",
+        "Question": "$$\\frac{x^{2}}{9} + \\frac{y^{2}}{4} = 1$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{x^{2}}{3^{2}} + \\frac{y^{2}}{2^{2}} = 1 ;$$ center: $$( 0 , 0 ) ;$$ vertices: $$( 3 , 0 ) , ( -3 , 0 ) , ( 0 , 2 ) , ( 0 , -2 ) ;$$ foci: $$( \\sqrt{5} , 0 ) , ( - \\sqrt{5} , 0 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation in standard form and state the center, vertices, and foci.",
+        "Question": "$$9 y^{2} + 16 x^{2} - 36 y + 32 x - 92 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, sketch the graph, identifying the center, vertices, and foci.",
+        "Question": "$$\\frac{( x - 3 )^{2}}{64} + \\frac{( y - 2 )^{2}}{36} = 1$$",
+        "Image Links": [],
+        "Answer": "center: $$( 3 , 2 ) ;$$ vertices: $$( 11 , 2 ) , ( -5 , 2 ) , ( 3 , 8 ) , ( 3 , -4 ) ;$$ foci: $$( 3 + 2 \\sqrt{7} , 2 ) , ( 3 - 2 \\sqrt{7} , 2 )$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d67b05139eac21c725bbc640004e31558f5463bf"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, sketch the graph, identifying the center, vertices, and foci.",
+        "Question": "$$2 x^{2} + y^{2} + 8 x - 6 y - 7 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, sketch the graph, identifying the center, vertices, and foci.",
+        "Question": "Write the standard form equation of an ellipse with a center at $$( 1 , 2 ) ,$$ vertex at $$( 7 , 2 ) ,$$ and focus at $$( 4 , 2 ).$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{( x - 1 )^{2}}{36} + \\frac{( y - 2 )^{2}}{27} = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, sketch the graph, identifying the center, vertices, and foci.",
+        "Question": "A whispering gallery is to be constructed with a length of 150 feet. If the foci are to be located 20 feet away from the wall, how high should the ceiling be?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation of the hyperbola in standard form, and give the center, vertices, foci, and asymptotes.",
+        "Question": "$$\\frac{x^{2}}{49} - \\frac{y^{2}}{81} = 1$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{x^{2}}{7^{2}} - \\frac{y^{2}}{9^{2}} = 1 ;$$ center: $$( 0 , 0 ) ;$$ vertices $$( 7 , 0 ) , ( -7 , 0 ) ;$$ foci: $$( \\sqrt{130} , 0 ) , ( - \\sqrt{130} , 0 ) ;$$ asymptotes: $$y = \\pm \\frac{9}{7} x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation of the hyperbola in standard form, and give the center, vertices, foci, and asymptotes.",
+        "Question": "$$16 y^{2} - 9 x^{2} + 128 y + 112 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, graph the hyperbola, noting its center, vertices, and foci. State the equations of the asymptotes.",
+        "Question": "$$\\frac{( x - 3 )^{2}}{25} - \\frac{( y + 3 )^{2}}{1} = 1$$",
+        "Image Links": [],
+        "Answer": "center: $$( 3 , -3 ) ;$$ vertices: $$( 8 , -3 ) , ( -2 , -3 ) ;$$ foci: $$( 3 + \\sqrt{26} , -3 ) , ( 3 - \\sqrt{26} , -3 ) ;$$ asymptotes: $$y = \\pm \\frac{1}{5} ( x - 3 ) - 3$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/eaa9361c5af97ff641ce1120321df4470291c9ac"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, graph the hyperbola, noting its center, vertices, and foci. State the equations of the asymptotes.",
+        "Question": "$$y^{2} - x^{2} + 4 y - 4 x - 18 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, graph the hyperbola, noting its center, vertices, and foci. State the equations of the asymptotes.",
+        "Question": "Write the standard form equation of a hyperbola with foci at $$( 1 , 0 )$$ and $$( 1 , 6 ) ,$$ and a vertex at $$( 1 , 2 ) .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{( y - 3 )^{2}}{1} - \\frac{( x - 1 )^{2}}{8} = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation of the parabola in standard form, and give the vertex, focus, and equation of the directrix.",
+        "Question": "$$y^{2} + 10 x = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the equation of the parabola in standard form, and give the vertex, focus, and equation of the directrix.",
+        "Question": "$$3 x^{2} - 12 x - y + 11 = 0$$",
+        "Image Links": [],
+        "Answer": "$$( x - 2 )^{2} = \\frac{1}{3} ( y + 1 ) ;$$ vertex: $$( 2 , -1 ) ;$$ focus: $$( 2 , - \\frac{11}{12} ) ;$$ directrix: $$y = - \\frac{13}{12}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, graph the parabola, labeling the vertex, focus, and directrix.",
+        "Question": "$$( x - 1 )^{2} = -4 ( y + 3 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, graph the parabola, labeling the vertex, focus, and directrix.",
+        "Question": "$$y^{2} + 8 x - 8 y + 40 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/4ddde24b5f86b3509827cd8575d9f899d2f39f4d"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, graph the parabola, labeling the vertex, focus, and directrix.",
+        "Question": "Write the equation of a parabola with a focus at $$( 2 , 3 )$$ and directrix $$y = -1.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, graph the parabola, labeling the vertex, focus, and directrix.",
+        "Question": "A searchlight is shaped like a paraboloid of revolution. If the light source is located 1.5 feet from the base along the axis of symmetry, and the depth of the searchlight is 3 feet, what should the width of the opening be?",
+        "Image Links": [],
+        "Answer": "Approximately $$8.49$$ feet",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine which conic section is represented by the given equation, and then determine the angle $$\\theta$$ that will eliminate the $$x y$$ term.",
+        "Question": "$$3 x^{2} - 2 x y + 3 y^{2} = 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine which conic section is represented by the given equation, and then determine the angle $$\\theta$$ that will eliminate the $$x y$$ term.",
+        "Question": "$$x^{2} + 4 x y + 4 y^{2} + 6 x - 8 y = 0$$",
+        "Image Links": [],
+        "Answer": "parabola; $$\\theta \\approx 63.4^{\\vysmwhtcircle}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, rewrite in the $$x^{\\prime} y^{\\prime}$$ system without the $$x^{\\prime} y^{\\prime}$$ term, and graph the rotated graph.",
+        "Question": "$$11 x^{2} + 10 \\sqrt{3} x y + y^{2} = 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, rewrite in the $$x^{\\prime} y^{\\prime}$$ system without the $$x^{\\prime} y^{\\prime}$$ term, and graph the rotated graph.",
+        "Question": "$$16 x^{2} + 24 x y + 9 y^{2} - 125 x = 0$$",
+        "Image Links": [],
+        "Answer": "$$x^{\\prime}^{2} - 4 x^{\\prime} + 3 y^{\\prime} = 0$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/4b516d594ce21e55f34d07e49f3ac3b5ce87335b"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, identify the conic with focus at the origin, and then give the directrix and eccentricity.",
+        "Question": "$$r = \\frac{3}{2 - \\sin{} \\text{} \\theta}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, identify the conic with focus at the origin, and then give the directrix and eccentricity.",
+        "Question": "$$r = \\frac{5}{4 + 6 \\text{} \\cos{} \\text{} \\theta}$$",
+        "Image Links": [],
+        "Answer": "Hyperbola with $$e = \\frac{3}{2} ,$$ and directrix $$\\frac{5}{6}$$ units to the right of the pole.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, graph the given conic section. If it is a parabola, label vertex, focus, and directrix. If it is an ellipse or a hyperbola, label vertices and foci.",
+        "Question": "$$r = \\frac{12}{4 - 8 \\text{} \\sin{} \\text{} \\theta}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, graph the given conic section. If it is a parabola, label vertex, focus, and directrix. If it is an ellipse or a hyperbola, label vertices and foci.",
+        "Question": "$$r = \\frac{2}{4 + 4 \\text{} \\sin{} \\text{} \\theta}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/cac72f4524e481daa679ab9d108219f1de829d65"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, graph the given conic section. If it is a parabola, label vertex, focus, and directrix. If it is an ellipse or a hyperbola, label vertices and foci.",
+        "Question": "Find a polar equation of the conic with focus at the origin, eccentricity of $$e = 2 ,$$ and directrix: $$x = 3.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,458 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Evaluate the following statement: The degree of a polynomial in standard form is the exponent of the leading term. Explain why the statement is true or false.",
+        "Image Links": [],
+        "Answer": "The statement is true. In standard form, the polynomial with the highest value exponent is placed first and is the leading term. The degree of a polynomial is the value of the highest exponent, which in standard form is also the exponent of the leading term.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Many times, multiplying two binomials with two variables results in a trinomial. This is not the case when there is a difference of two squares. Explain why the product in this case is also a binomial.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "You can multiply polynomials with any number of terms and any number of variables using four basic steps over and over until you reach the expanded polynomial. What are the four steps?",
+        "Image Links": [],
+        "Answer": "Use the distributive property, multiply, combine like terms, and simplify.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "State whether the following statement is true and explain why or why not: A trinomial is always a higher degree than a monomial.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, identify the degree of the polynomial.",
+        "Question": "$$7 x - 2 x^{2} + 13$$",
+        "Image Links": [],
+        "Answer": "2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, identify the degree of the polynomial.",
+        "Question": "$$14 m^{3} + m^{2} - 16 m + 8$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, identify the degree of the polynomial.",
+        "Question": "$$-625 a^{8} + 16 b^{4}$$",
+        "Image Links": [],
+        "Answer": "8",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, identify the degree of the polynomial.",
+        "Question": "$$200 p - 30 p^{2} m + 40 m^{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, identify the degree of the polynomial.",
+        "Question": "$$x^{2} + 4 x + 4$$",
+        "Image Links": [],
+        "Answer": "2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, identify the degree of the polynomial.",
+        "Question": "$$6 y^{4} - y^{5} + 3 y - 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the sum or difference.",
+        "Question": "$$( 12 x^{2} + 3 x ) - ( 8 x^{2} -19 )$$",
+        "Image Links": [],
+        "Answer": "$$4 x^{2} + 3 x + 19$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the sum or difference.",
+        "Question": "$$( 4 z^{3} + 8 z^{2} - z ) + ( -2 z^{2} + z + 6 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the sum or difference.",
+        "Question": "$$( 6 w^{2} + 24 w + 24 ) - ( 3 w {}_{}^{2}-_{}^{} 6 w + 3 )$$",
+        "Image Links": [],
+        "Answer": "$$3 w^{2} + 30 w + 21$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the sum or difference.",
+        "Question": "$$( 7 a^{3} + 6 a^{2} - 4 a - 13 ) + ( - 3 a^{3} - 4 a^{2} + 6 a + 17 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the sum or difference.",
+        "Question": "$$( 11 b^{4} - 6 b^{3} + 18 b^{2} - 4 b + 8 ) - ( 3 b^{3} + 6 b^{2} + 3 b )$$",
+        "Image Links": [],
+        "Answer": "$$11 b^{4} -9 b^{3} + 12 b^{2} -7 b + 8$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the sum or difference.",
+        "Question": "$$( 49 p^{2} - 25 ) + ( 16 p^{4} - 32 p^{2} + 16 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the product.",
+        "Question": "$$( 4 x + 2 ) ( 6 x - 4 )$$",
+        "Image Links": [],
+        "Answer": "$$24 x^{2} -4 x -8$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the product.",
+        "Question": "$$( 14 c^{2} + 4 c ) ( 2 c^{2} - 3 c )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the product.",
+        "Question": "$$( 6 b^{2} - 6 ) ( 4 b^{2} - 4 )$$",
+        "Image Links": [],
+        "Answer": "$$24 b^{4} -48 b^{2} + 24$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the product.",
+        "Question": "$$( 3 d - 5 ) ( 2 d + 9 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the product.",
+        "Question": "$$( 9 v - 11 ) ( 11 v - 9 )$$",
+        "Image Links": [],
+        "Answer": "$$99 v^{2} -202 v + 99$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the product.",
+        "Question": "$$( 4 t^{2} + 7 t ) ( -3 t^{2} + 4 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the product.",
+        "Question": "$$( 8 n - 4 ) ( n^{2} + 9 )$$",
+        "Image Links": [],
+        "Answer": "$$8 n^{3} -4 n^{2} + 72 n -36$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, expand the binomial.",
+        "Question": "$$( 4 x + 5 )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, expand the binomial.",
+        "Question": "$$( 3 y - 7 )^{2}$$",
+        "Image Links": [],
+        "Answer": "$$9 y^{2} -42 y + 49$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, expand the binomial.",
+        "Question": "$$( 12 - 4 x )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, expand the binomial.",
+        "Question": "$$( 4 p + 9 )^{2}$$",
+        "Image Links": [],
+        "Answer": "$$16 p^{2} + 72 p + 81$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, expand the binomial.",
+        "Question": "$$( 2 m - 3 )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, expand the binomial.",
+        "Question": "$$( 3 y - 6 )^{2}$$",
+        "Image Links": [],
+        "Answer": "$$9 y^{2} -36 y + 36$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, expand the binomial.",
+        "Question": "$$( 9 b + 1 )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the binomials.",
+        "Question": "$$( 4 c + 1 ) ( 4 c - 1 )$$",
+        "Image Links": [],
+        "Answer": "$$16 c^{2} -1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the binomials.",
+        "Question": "$$( 9 a - 4 ) ( 9 a + 4 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the binomials.",
+        "Question": "$$( 15 n - 6 ) ( 15 n + 6 )$$",
+        "Image Links": [],
+        "Answer": "$$225 n^{2} -36$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the binomials.",
+        "Question": "$$( 25 b + 2 ) ( 25 b - 2 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the binomials.",
+        "Question": "$$( 4 + 4 m ) ( 4 - 4 m )$$",
+        "Image Links": [],
+        "Answer": "$$-16 m^{2} + 16$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the binomials.",
+        "Question": "$$( 14 p + 7 ) ( 14 p - 7 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the binomials.",
+        "Question": "$$( 11 q - 10 ) ( 11 q + 10 )$$",
+        "Image Links": [],
+        "Answer": "$$121 q^{2} -100$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the polynomials.",
+        "Question": "$$( 2 x^{2} + 2 x + 1 ) ( 4 x - 1 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the polynomials.",
+        "Question": "$$( 4 t^{2} + t - 7 ) ( 4 t^{2} - 1 )$$",
+        "Image Links": [],
+        "Answer": "$$16 t^{4} + 4 t^{3} -32 t^{2} - t + 7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the polynomials.",
+        "Question": "$$( x - 1 ) ( x^{2} - 2 x + 1 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the polynomials.",
+        "Question": "$$( y - 2 ) ( y^{2} - 4 y - 9 )$$",
+        "Image Links": [],
+        "Answer": "$$y^{3} -6 y^{2} - y + 18$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the polynomials.",
+        "Question": "$$( 6 k - 5 ) ( 6 k^{2} + 5 k - 1 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the polynomials.",
+        "Question": "$$( 3 p^{2} + 2 p - 10 ) ( p - 1 )$$",
+        "Image Links": [],
+        "Answer": "$$3 p^{3} - p^{2} -12 p + 10$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the polynomials.",
+        "Question": "$$( 4 m - 13 ) ( 2 m^{2} - 7 m + 9 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the polynomials.",
+        "Question": "$$( a + b ) ( a - b )$$",
+        "Image Links": [],
+        "Answer": "$$a^{2} - b^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the polynomials.",
+        "Question": "$$( 4 x - 6 y ) ( 6 x - 4 y )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the polynomials.",
+        "Question": "$$( 4 t - 5 u )^{2}$$",
+        "Image Links": [],
+        "Answer": "$$16 t^{2} -40 t u + 25 u^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the polynomials.",
+        "Question": "$$( 9 m + 4 n - 1 ) ( 2 m + 8 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the polynomials.",
+        "Question": "$$( 4 t - x ) ( t - x + 1 )$$",
+        "Image Links": [],
+        "Answer": "$$4 t^{2} + x^{2} + 4 t -5 t x - x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the polynomials.",
+        "Question": "$$( b^{2} - 1 ) ( a^{2} + 2 a b + b^{2} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the polynomials.",
+        "Question": "$$( 4 r - d ) ( 6 r + 7 d )$$",
+        "Image Links": [],
+        "Answer": "$$24 r^{2} + 22 r d -7 d^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the polynomials.",
+        "Question": "$$( x + y ) ( x^{2} - x y + y^{2} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A developer wants to purchase a plot of land to build a house. The area of the plot can be described by the following expression: $$( 4 x + 1 ) ( 8 x - 3 )$$ where x is measured in meters. Multiply the binomials to find the area of the plot in standard form.",
+        "Image Links": [],
+        "Answer": "$$32 x^{2} -4 x -3$$ m 2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A prospective buyer wants to know how much grain a specific silo can hold. The area of the floor of the silo is $$( 2 x + 9 )^{2} .$$ The height of the silo is $$10 x + 10 ,$$ where x is measured in feet. Expand the square and multiply by the height to find the expression that shows how much grain the silo can hold.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, perform the given operations.",
+        "Question": "$$( 4 t - 7 )^{2} ( 2 t + 1 ) - ( 4 t^{2} + 2 t + 11 )$$",
+        "Image Links": [],
+        "Answer": "$$32 t^{3} - 100 t^{2} + 40 t + 38$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, perform the given operations.",
+        "Question": "$$( 3 b + 6 ) ( 3 b - 6 ) ( 9 b^{2} - 36 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, perform the given operations.",
+        "Question": "$$( a^{2} + 4 a c + 4 c^{2} ) ( a^{2} - 4 c^{2} )$$",
+        "Image Links": [],
+        "Answer": "$$a^{4} + 4 a^{3} c -16 a c^{3} -16 c^{4}$$",
+        "Answer Image Links": []
+    }
+]

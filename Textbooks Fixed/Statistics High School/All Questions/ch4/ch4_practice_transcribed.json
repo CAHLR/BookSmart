@@ -1,0 +1,546 @@
+[
+    {
+        "Topic": "4.1 Probability Distribution Function (PDF) for a Discrete Random Variable",
+        "Problem Statement": "Use the following information to answer the next five exercises: A company wants to evaluate its attrition rate, or in other words, how long new hires stay with the company. Over the years, the company has established the following probability distribution: Let X = the number of years a new hire will stay with the company. Let P ( x ) = the probability that a new hire will stay with the company x years.",
+        "Question": "Complete Table 4.20 using the data provided. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nx & P(x) \\\\ \\hline\n0 & .12 \\\\ \\hline\n1 & .18 \\\\ \\hline\n2 & .30 \\\\ \\hline\n3 & .15 \\\\ \\hline\n4 &  \\\\ \\hline\n5 & .10 \\\\ \\hline\n6 & .05 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nx & P(x) \\\\ \\hline\n0 & .12 \\\\ \\hline\n1 & .18 \\\\ \\hline\n2 & .30 \\\\ \\hline\n3 & .15 \\\\ \\hline\n4 & .10 \\\\ \\hline\n5 & .10 \\\\ \\hline\n6 & .05 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.1 Probability Distribution Function (PDF) for a Discrete Random Variable",
+        "Problem Statement": "Use the following information to answer the next five exercises: A company wants to evaluate its attrition rate, or in other words, how long new hires stay with the company. Over the years, the company has established the following probability distribution: Let X = the number of years a new hire will stay with the company. Let P ( x ) = the probability that a new hire will stay with the company x years.",
+        "Question": "P ( x = 4) = ________",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.1 Probability Distribution Function (PDF) for a Discrete Random Variable",
+        "Problem Statement": "Use the following information to answer the next five exercises: A company wants to evaluate its attrition rate, or in other words, how long new hires stay with the company. Over the years, the company has established the following probability distribution: Let X = the number of years a new hire will stay with the company. Let P ( x ) = the probability that a new hire will stay with the company x years.",
+        "Question": "P ( x \u2265 5) = ________",
+        "Image Links": [],
+        "Answer": ".10 + .05 = .15",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.1 Probability Distribution Function (PDF) for a Discrete Random Variable",
+        "Problem Statement": "Use the following information to answer the next five exercises: A company wants to evaluate its attrition rate, or in other words, how long new hires stay with the company. Over the years, the company has established the following probability distribution: Let X = the number of years a new hire will stay with the company. Let P ( x ) = the probability that a new hire will stay with the company x years.",
+        "Question": "On average, how long would you expect a new hire to stay with the company?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.1 Probability Distribution Function (PDF) for a Discrete Random Variable",
+        "Problem Statement": "Use the following information to answer the next five exercises: A company wants to evaluate its attrition rate, or in other words, how long new hires stay with the company. Over the years, the company has established the following probability distribution: Let X = the number of years a new hire will stay with the company. Let P ( x ) = the probability that a new hire will stay with the company x years.",
+        "Question": "What does the column \u201c P ( x )\u201d sum to?",
+        "Image Links": [],
+        "Answer": "1",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.1 Probability Distribution Function (PDF) for a Discrete Random Variable",
+        "Problem Statement": "Use the following information to answer the next four exercises: A baker is deciding how many batches of muffins to make to sell in his bakery. He wants to make enough to sell every one and no fewer. Through observation, the baker has established a probability distribution. x P ( x ) 1 .15 2 .35 3 .40 4 .10 Table 4.21",
+        "Question": "Define the random variable X .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.1 Probability Distribution Function (PDF) for a Discrete Random Variable",
+        "Problem Statement": "Use the following information to answer the next four exercises: A baker is deciding how many batches of muffins to make to sell in his bakery. He wants to make enough to sell every one and no fewer. Through observation, the baker has established a probability distribution. x P ( x ) 1 .15 2 .35 3 .40 4 .10 Table 4.21",
+        "Question": "What is the probability the baker will sell more than one batch? P ( x > 1) =  ________",
+        "Image Links": [],
+        "Answer": ".35 + .40 + .10 = .85",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.1 Probability Distribution Function (PDF) for a Discrete Random Variable",
+        "Problem Statement": "Use the following information to answer the next four exercises: A baker is deciding how many batches of muffins to make to sell in his bakery. He wants to make enough to sell every one and no fewer. Through observation, the baker has established a probability distribution. x P ( x ) 1 .15 2 .35 3 .40 4 .10 Table 4.21",
+        "Question": "What is the probability the baker will sell exactly one\nbatch? P ( x = 1) =  ________",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.1 Probability Distribution Function (PDF) for a Discrete Random Variable",
+        "Problem Statement": "Use the following information to answer the next four exercises: A baker is deciding how many batches of muffins to make to sell in his bakery. He wants to make enough to sell every one and no fewer. Through observation, the baker has established a probability distribution. x P ( x ) 1 .15 2 .35 3 .40 4 .10 Table 4.21",
+        "Question": "On average, how many batches should the baker make?",
+        "Image Links": [],
+        "Answer": "1(.15) + 2(.35) + 3(.40) + 4(.10) = .15 + .70 + 1.20 + .40 = 2.45",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.1 Probability Distribution Function (PDF) for a Discrete Random Variable",
+        "Problem Statement": "Use the following information to answer the next two exercises: Ellen has music practice three days a week. She practices for all of the three days 85 percent of the time, two days 8 percent of the time, one day 4 percent of the time, and no days 3 percent of the time. One week is selected at random.",
+        "Question": "Define the random variable X .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.1 Probability Distribution Function (PDF) for a Discrete Random Variable",
+        "Problem Statement": "Use the following information to answer the next two exercises: Ellen has music practice three days a week. She practices for all of the three days 85 percent of the time, two days 8 percent of the time, one day 4 percent of the time, and no days 3 percent of the time. One week is selected at random.",
+        "Question": "Construct a probability distribution table for the data.",
+        "Image Links": [],
+        "Answer": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nx & P(x) \\\\ \\hline\n0 & .03 \\\\ \\hline\n1 & .04 \\\\ \\hline\n2 & .08 \\\\ \\hline\n3 & .85 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.1 Probability Distribution Function (PDF) for a Discrete Random Variable",
+        "Problem Statement": "Use the following information to answer the next two exercises: Ellen has music practice three days a week. She practices for all of the three days 85 percent of the time, two days 8 percent of the time, one day 4 percent of the time, and no days 3 percent of the time. One week is selected at random.",
+        "Question": "We know that for a probability distribution function to be discrete, it must have two characteristics. One is that the sum of the probabilities is one. What is the other characteristic?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.1 Probability Distribution Function (PDF) for a Discrete Random Variable",
+        "Problem Statement": "Use the following information to answer the next five exercises: Javier volunteers in community events each month. He does not do more than five events in a month. He attends exactly five events 35 percent of the time, four events 25 percent of the time, three events 20 percent of the time, two events 10 percent of the time, one event 5 percent of the time, and no events 5 percent of the time.",
+        "Question": "Define the random variable X .",
+        "Image Links": [],
+        "Answer": "Let X = the number of events Javier volunteers for each month.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.1 Probability Distribution Function (PDF) for a Discrete Random Variable",
+        "Problem Statement": "Use the following information to answer the next five exercises: Javier volunteers in community events each month. He does not do more than five events in a month. He attends exactly five events 35 percent of the time, four events 25 percent of the time, three events 20 percent of the time, two events 10 percent of the time, one event 5 percent of the time, and no events 5 percent of the time.",
+        "Question": "What values does x take on?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.1 Probability Distribution Function (PDF) for a Discrete Random Variable",
+        "Problem Statement": "Use the following information to answer the next five exercises: Javier volunteers in community events each month. He does not do more than five events in a month. He attends exactly five events 35 percent of the time, four events 25 percent of the time, three events 20 percent of the time, two events 10 percent of the time, one event 5 percent of the time, and no events 5 percent of the time.",
+        "Question": "Construct a PDF table.",
+        "Image Links": [],
+        "Answer": "\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nx & P(x) \\\\ \\hline\n0 & .05 \\\\ \\hline\n1 & .05 \\\\ \\hline\n2 & .10 \\\\ \\hline\n3 & .20 \\\\ \\hline\n4 & .25 \\\\ \\hline\n5 & .35 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.1 Probability Distribution Function (PDF) for a Discrete Random Variable",
+        "Problem Statement": "Use the following information to answer the next five exercises: Javier volunteers in community events each month. He does not do more than five events in a month. He attends exactly five events 35 percent of the time, four events 25 percent of the time, three events 20 percent of the time, two events 10 percent of the time, one event 5 percent of the time, and no events 5 percent of the time.",
+        "Question": "Find the probability that Javier volunteers for fewer than three events each month. P ( x < 3) = ________",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.1 Probability Distribution Function (PDF) for a Discrete Random Variable",
+        "Problem Statement": "Use the following information to answer the next five exercises: Javier volunteers in community events each month. He does not do more than five events in a month. He attends exactly five events 35 percent of the time, four events 25 percent of the time, three events 20 percent of the time, two events 10 percent of the time, one event 5 percent of the time, and no events 5 percent of the time.",
+        "Question": "Find the probability that Javier volunteers for at least one event each month. P ( x > 0) = ________",
+        "Image Links": [],
+        "Answer": "1 - .05 = .95",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "",
+        "Question": "Complete the expected value table. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\nx & P(x) & x*P(x) \\\\ \\hline\n0 & .2 &  \\\\ \\hline\n1 & .2 &  \\\\ \\hline\n2 & .4 &  \\\\ \\hline\n3 & .2 &  \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "",
+        "Question": "Find the expected value from the expected value table. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\nx & P(x) & x*P(x) \\\\ \\hline\n2 & .1 & 2(.1) = .2 \\\\ \\hline\n4 & .3 & 4(.3) = 1.2 \\\\ \\hline\n6 & .4 & 6(.4) = 2.4 \\\\ \\hline\n8 & .2 & 8(.2) = 1.6 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": ".2 + 1.2 + 2.4 + 1.6 = 5.4",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "",
+        "Question": "Find the standard deviation. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|}\n\\hline\nx & P(x) & x*P(x) & (x-\u03bc)2P(x) \\\\ \\hline\n2 & 0.1 & 2(.1) = .2 & (2-5.4)2(.1) = 1.156 \\\\ \\hline\n4 & 0.3 & 4(.3) = 1.2 & (4-5.4)2(.3) = .588 \\\\ \\hline\n6 & 0.4 & 6(.4) = 2.4 & (6-5.4)2(.4) = .144 \\\\ \\hline\n8 & 0.2 & 8(.2) = 1.6 & (8-5.4)2(.2) = 1.352 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "",
+        "Question": "Identify the mistake in the probability distribution table. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\nx & P(x) & x*P(x) \\\\ \\hline\n1 & .15 & .15 \\\\ \\hline\n2 & .25 & .50 \\\\ \\hline\n3 & .30 & .90 \\\\ \\hline\n4 & .20 & .80 \\\\ \\hline\n5 & .15 & .75 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "The values of P ( x ) do not sum to one.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "",
+        "Question": "Identify the mistake in the probability distribution table. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\nx & P(x) & x*P(x) \\\\ \\hline\n1 & .15 & .15 \\\\ \\hline\n2 & .25 & .40 \\\\ \\hline\n3 & .25 & .65 \\\\ \\hline\n4 & .20 & .85 \\\\ \\hline\n5 & .15 & 1 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "Use the following information to answer the next five exercises: A physics professor wants to know what percent of physics majors will spend the next several years doing postgraduate research. He has the following probability distribution: x P ( x ) x * P ( x ) 1 .35 2 .20 3 .15 4 5 .10 6 .05 Table 4.27",
+        "Question": "Define the random variable X .",
+        "Image Links": [],
+        "Answer": "Let X = the number of years a physics major will spend doing postgraduate research.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "Use the following information to answer the next five exercises: A physics professor wants to know what percent of physics majors will spend the next several years doing postgraduate research. He has the following probability distribution: x P ( x ) x * P ( x ) 1 .35 2 .20 3 .15 4 5 .10 6 .05 Table 4.27",
+        "Question": "Define P ( x ), or the probability of x .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "Use the following information to answer the next five exercises: A physics professor wants to know what percent of physics majors will spend the next several years doing postgraduate research. He has the following probability distribution: x P ( x ) x * P ( x ) 1 .35 2 .20 3 .15 4 5 .10 6 .05 Table 4.27",
+        "Question": "Find the probability that a physics major will do postgraduate research for four years. P ( x = 4) = ________",
+        "Image Links": [],
+        "Answer": "1 - .35 - .20 - .15 - .10 - .05 = .15",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "Use the following information to answer the next five exercises: A physics professor wants to know what percent of physics majors will spend the next several years doing postgraduate research. He has the following probability distribution: x P ( x ) x * P ( x ) 1 .35 2 .20 3 .15 4 5 .10 6 .05 Table 4.27",
+        "Question": "Find the probability that a physics major will do postgraduate research for at most three years. P ( x \u2264 3) = ________",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "Use the following information to answer the next five exercises: A physics professor wants to know what percent of physics majors will spend the next several years doing postgraduate research. He has the following probability distribution: x P ( x ) x * P ( x ) 1 .35 2 .20 3 .15 4 5 .10 6 .05 Table 4.27",
+        "Question": "On average, how many years would you expect a physics major to spend doing postgraduate research?",
+        "Image Links": [],
+        "Answer": "1(.35) + 2(.20) + 3(.15) + 4(.15) + 5(.10) + 6(.05) = .35 + .40 + .45 + .60 + .50 + .30 = 2.6 years",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "Use the following information to answer the next seven exercises: A ballet instructor is interested in knowing what percent of each year's class will continue on to the next so that she can plan what classes to offer. Over the years, she has established the following probability distribution: - Let X = the number of years a student will study ballet with the teacher. - Let P ( x ) = the probability that a student will study ballet x years.",
+        "Question": "Complete Table 4.28 using the data provided. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\nx & P(x) & x*P(x) \\\\ \\hline\n1 & .10 &  \\\\ \\hline\n2 & .05 &  \\\\ \\hline\n3 & .10 &  \\\\ \\hline\n4 &  &  \\\\ \\hline\n5 & .30 &  \\\\ \\hline\n6 & .20 &  \\\\ \\hline\n7 & .10 &  \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "Use the following information to answer the next seven exercises: A ballet instructor is interested in knowing what percent of each year's class will continue on to the next so that she can plan what classes to offer. Over the years, she has established the following probability distribution: - Let X = the number of years a student will study ballet with the teacher. - Let P ( x ) = the probability that a student will study ballet x years.",
+        "Question": "In words, define the random variable X .",
+        "Image Links": [],
+        "Answer": "X is the number of years a student studies ballet with the teacher.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "Use the following information to answer the next seven exercises: A ballet instructor is interested in knowing what percent of each year's class will continue on to the next so that she can plan what classes to offer. Over the years, she has established the following probability distribution: - Let X = the number of years a student will study ballet with the teacher. - Let P ( x ) = the probability that a student will study ballet x years.",
+        "Question": "P ( x = 4) = ________",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "Use the following information to answer the next seven exercises: A ballet instructor is interested in knowing what percent of each year's class will continue on to the next so that she can plan what classes to offer. Over the years, she has established the following probability distribution: - Let X = the number of years a student will study ballet with the teacher. - Let P ( x ) = the probability that a student will study ballet x years.",
+        "Question": "P ( x < 4) = ________",
+        "Image Links": [],
+        "Answer": ".10 + .05 + .10 = .25",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "Use the following information to answer the next seven exercises: A ballet instructor is interested in knowing what percent of each year's class will continue on to the next so that she can plan what classes to offer. Over the years, she has established the following probability distribution: - Let X = the number of years a student will study ballet with the teacher. - Let P ( x ) = the probability that a student will study ballet x years.",
+        "Question": "On average, how many years would you expect a child to study ballet with this teacher?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "Use the following information to answer the next seven exercises: A ballet instructor is interested in knowing what percent of each year's class will continue on to the next so that she can plan what classes to offer. Over the years, she has established the following probability distribution: - Let X = the number of years a student will study ballet with the teacher. - Let P ( x ) = the probability that a student will study ballet x years.",
+        "Question": "What does the column P ( x ) sum to and why?",
+        "Image Links": [],
+        "Answer": "The sum of the probabilities sum to one because it is a probability distribution.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "Use the following information to answer the next seven exercises: A ballet instructor is interested in knowing what percent of each year's class will continue on to the next so that she can plan what classes to offer. Over the years, she has established the following probability distribution: - Let X = the number of years a student will study ballet with the teacher. - Let P ( x ) = the probability that a student will study ballet x years.",
+        "Question": "What does the column x * P ( x ) sum to and why?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "Use the following information to answer the next seven exercises: A ballet instructor is interested in knowing what percent of each year's class will continue on to the next so that she can plan what classes to offer. Over the years, she has established the following probability distribution: - Let X = the number of years a student will study ballet with the teacher. - Let P ( x ) = the probability that a student will study ballet x years.",
+        "Question": "You are playing a game by drawing a card from a standard deck and replacing it. If the card is a face card, you win $30. If it is not a face card, you pay $2. There are 12 face cards in a deck of 52 cards. What is the expected value of playing the game?",
+        "Image Links": [],
+        "Answer": "$$- 2 ( \\frac{40}{52} ) + 30 ( \\frac{12}{52} ) = - 1.54 + 6.92 = 5.38$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Mean or Expected Value and Standard Deviation",
+        "Problem Statement": "Use the following information to answer the next seven exercises: A ballet instructor is interested in knowing what percent of each year's class will continue on to the next so that she can plan what classes to offer. Over the years, she has established the following probability distribution: - Let X = the number of years a student will study ballet with the teacher. - Let P ( x ) = the probability that a student will study ballet x years.",
+        "Question": "You are playing a game by drawing a card from a standard deck and replacing it. If the card is a face card, you win $30. If it is not a face card, you pay $2. There are 12 face cards in a deck of 52 cards. Should you play the game?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Binomial Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next eight exercises: Researchers collected data from 203,967 incoming first-time, full-time freshmen from 270 four-year colleges and universities in the United States. Of those students, 71.3 percent replied that, yes, they agreed with a recent federal law that was passed. Suppose that you randomly pick eight first-time, full-time freshmen from the survey. You are interested in the number who agreed with that law.",
+        "Question": "In words, define the random variable X .",
+        "Image Links": [],
+        "Answer": "X = the number that reply yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Binomial Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next eight exercises: Researchers collected data from 203,967 incoming first-time, full-time freshmen from 270 four-year colleges and universities in the United States. Of those students, 71.3 percent replied that, yes, they agreed with a recent federal law that was passed. Suppose that you randomly pick eight first-time, full-time freshmen from the survey. You are interested in the number who agreed with that law.",
+        "Question": "X ~ _____(_____,_____)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Binomial Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next eight exercises: Researchers collected data from 203,967 incoming first-time, full-time freshmen from 270 four-year colleges and universities in the United States. Of those students, 71.3 percent replied that, yes, they agreed with a recent federal law that was passed. Suppose that you randomly pick eight first-time, full-time freshmen from the survey. You are interested in the number who agreed with that law.",
+        "Question": "What values does the random variable X take on?",
+        "Image Links": [],
+        "Answer": "0, 1, 2, 3, 4, 5, 6, 7, 8",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Binomial Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next eight exercises: Researchers collected data from 203,967 incoming first-time, full-time freshmen from 270 four-year colleges and universities in the United States. Of those students, 71.3 percent replied that, yes, they agreed with a recent federal law that was passed. Suppose that you randomly pick eight first-time, full-time freshmen from the survey. You are interested in the number who agreed with that law.",
+        "Question": "Construct the probability distribution function (PDF). \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nx & P(x) \\\\ \\hline\n &  \\\\ \\hline\n &  \\\\ \\hline\n &  \\\\ \\hline\n &  \\\\ \\hline\n &  \\\\ \\hline\n &  \\\\ \\hline\n &  \\\\ \\hline\n &  \\\\ \\hline\n &  \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Binomial Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next eight exercises: Researchers collected data from 203,967 incoming first-time, full-time freshmen from 270 four-year colleges and universities in the United States. Of those students, 71.3 percent replied that, yes, they agreed with a recent federal law that was passed. Suppose that you randomly pick eight first-time, full-time freshmen from the survey. You are interested in the number who agreed with that law.",
+        "Question": "On average ( \u03bc ), how many would you expect to answer yes?",
+        "Image Links": [],
+        "Answer": "5.7",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Binomial Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next eight exercises: Researchers collected data from 203,967 incoming first-time, full-time freshmen from 270 four-year colleges and universities in the United States. Of those students, 71.3 percent replied that, yes, they agreed with a recent federal law that was passed. Suppose that you randomly pick eight first-time, full-time freshmen from the survey. You are interested in the number who agreed with that law.",
+        "Question": "What is the standard deviation ( \u03c3 )?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Binomial Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next eight exercises: Researchers collected data from 203,967 incoming first-time, full-time freshmen from 270 four-year colleges and universities in the United States. Of those students, 71.3 percent replied that, yes, they agreed with a recent federal law that was passed. Suppose that you randomly pick eight first-time, full-time freshmen from the survey. You are interested in the number who agreed with that law.",
+        "Question": "What is the probability that at most five of the freshmen reply yes?",
+        "Image Links": [],
+        "Answer": ".4151",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Binomial Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next eight exercises: Researchers collected data from 203,967 incoming first-time, full-time freshmen from 270 four-year colleges and universities in the United States. Of those students, 71.3 percent replied that, yes, they agreed with a recent federal law that was passed. Suppose that you randomly pick eight first-time, full-time freshmen from the survey. You are interested in the number who agreed with that law.",
+        "Question": "What is the probability that at least two of the freshmen reply yes?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.4 Geometric Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next six exercises: Researchers collected data from 203,967 incoming first-time, full-time freshmen from 270 four-year colleges and universities in the United States. Of those students, 71.3 percent replied that, yes, they agree with a recent law that was passed. Suppose that you randomly select freshman from the study until you find one who replies yes. You are interested in the number of freshmen you must ask.",
+        "Question": "In words, define the random variable X .",
+        "Image Links": [],
+        "Answer": "X = the number of freshmen selected from the study until one replied yes to the law that was passed.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.4 Geometric Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next six exercises: Researchers collected data from 203,967 incoming first-time, full-time freshmen from 270 four-year colleges and universities in the United States. Of those students, 71.3 percent replied that, yes, they agree with a recent law that was passed. Suppose that you randomly select freshman from the study until you find one who replies yes. You are interested in the number of freshmen you must ask.",
+        "Question": "X ~ _____(_____,_____)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.4 Geometric Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next six exercises: Researchers collected data from 203,967 incoming first-time, full-time freshmen from 270 four-year colleges and universities in the United States. Of those students, 71.3 percent replied that, yes, they agree with a recent law that was passed. Suppose that you randomly select freshman from the study until you find one who replies yes. You are interested in the number of freshmen you must ask.",
+        "Question": "What values does the random variable X take on?",
+        "Image Links": [],
+        "Answer": "1,2,\u2026",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.4 Geometric Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next six exercises: Researchers collected data from 203,967 incoming first-time, full-time freshmen from 270 four-year colleges and universities in the United States. Of those students, 71.3 percent replied that, yes, they agree with a recent law that was passed. Suppose that you randomly select freshman from the study until you find one who replies yes. You are interested in the number of freshmen you must ask.",
+        "Question": "Construct the probability distribution function (PDF).  Stop at x = 6. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nx & P(x) \\\\ \\hline\n1 &  \\\\ \\hline\n2 &  \\\\ \\hline\n3 &  \\\\ \\hline\n4 &  \\\\ \\hline\n5 &  \\\\ \\hline\n6 &  \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.4 Geometric Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next six exercises: Researchers collected data from 203,967 incoming first-time, full-time freshmen from 270 four-year colleges and universities in the United States. Of those students, 71.3 percent replied that, yes, they agree with a recent law that was passed. Suppose that you randomly select freshman from the study until you find one who replies yes. You are interested in the number of freshmen you must ask.",
+        "Question": "On average ( \u03bc ), how many freshmen would you expect to have to ask until you found one who replies yes?",
+        "Image Links": [],
+        "Answer": "1.4",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.4 Geometric Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next six exercises: Researchers collected data from 203,967 incoming first-time, full-time freshmen from 270 four-year colleges and universities in the United States. Of those students, 71.3 percent replied that, yes, they agree with a recent law that was passed. Suppose that you randomly select freshman from the study until you find one who replies yes. You are interested in the number of freshmen you must ask.",
+        "Question": "What is the probability that you will need to ask fewer than three freshmen?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.5 Hypergeometric Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next five exercises: Suppose that a group of statistics students is divided into two groups: business majors and non-business majors. There are 16 business majors in the group and seven non-business majors in the group. A random sample of nine students is taken. We are interested in the number of business majors in the sample.",
+        "Question": "In words, define the random variable X .",
+        "Image Links": [],
+        "Answer": "X = the number of business majors in the sample.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.5 Hypergeometric Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next five exercises: Suppose that a group of statistics students is divided into two groups: business majors and non-business majors. There are 16 business majors in the group and seven non-business majors in the group. A random sample of nine students is taken. We are interested in the number of business majors in the sample.",
+        "Question": "X ~ _____(_____,_____)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.5 Hypergeometric Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next five exercises: Suppose that a group of statistics students is divided into two groups: business majors and non-business majors. There are 16 business majors in the group and seven non-business majors in the group. A random sample of nine students is taken. We are interested in the number of business majors in the sample.",
+        "Question": "What values does X take on?",
+        "Image Links": [],
+        "Answer": "2, 3, 4, 5, 6, 7, 8, 9",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.5 Hypergeometric Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next five exercises: Suppose that a group of statistics students is divided into two groups: business majors and non-business majors. There are 16 business majors in the group and seven non-business majors in the group. A random sample of nine students is taken. We are interested in the number of business majors in the sample.",
+        "Question": "Find the standard deviation.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.5 Hypergeometric Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next five exercises: Suppose that a group of statistics students is divided into two groups: business majors and non-business majors. There are 16 business majors in the group and seven non-business majors in the group. A random sample of nine students is taken. We are interested in the number of business majors in the sample.",
+        "Question": "On average ( \u03bc ), how many would you expect to be business majors?",
+        "Image Links": [],
+        "Answer": "6.26",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.6 Poisson Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next six exercises: On average, a clothing store gets 120 customers per day.",
+        "Question": "Assume the event occurs independently in any given day. Define the random variable X .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.6 Poisson Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next six exercises: On average, a clothing store gets 120 customers per day.",
+        "Question": "What values does X take on?",
+        "Image Links": [],
+        "Answer": "0, 1, 2, 3, 4, \u2026",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.6 Poisson Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next six exercises: On average, a clothing store gets 120 customers per day.",
+        "Question": "What is the probability of getting 150 customers in one day?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.6 Poisson Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next six exercises: On average, a clothing store gets 120 customers per day.",
+        "Question": "What is the probability of getting 35 customers in the first four hours? Assume the store is open 12 hours each day.",
+        "Image Links": [],
+        "Answer": ".0485",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.6 Poisson Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next six exercises: On average, a clothing store gets 120 customers per day.",
+        "Question": "What is the probability that the store will have more than 12 customers in the first hour?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.6 Poisson Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next six exercises: On average, a clothing store gets 120 customers per day.",
+        "Question": "What is the probability that the store will have fewer than 12 customers in the first two hours?",
+        "Image Links": [],
+        "Answer": ".0214",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.6 Poisson Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next six exercises: On average, a clothing store gets 120 customers per day.",
+        "Question": "Which type of distribution can the Poisson model be used to approximate? When would you do this?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.6 Poisson Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next six exercises: On average, eight teens in the United States die from motor vehicle injuries per day. As a result, states across the country are debating raising the driving age.",
+        "Question": "Assume the event occurs independently in any given day. In words, define the random variable X .",
+        "Image Links": [],
+        "Answer": "X = the number of United States teens who die from motor vehicle injuries per day.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.6 Poisson Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next six exercises: On average, eight teens in the United States die from motor vehicle injuries per day. As a result, states across the country are debating raising the driving age.",
+        "Question": "X ~ _____(_____,_____)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.6 Poisson Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next six exercises: On average, eight teens in the United States die from motor vehicle injuries per day. As a result, states across the country are debating raising the driving age.",
+        "Question": "What values does X take on?",
+        "Image Links": [],
+        "Answer": "0, 1, 2, 3, 4, ...",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.6 Poisson Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next six exercises: On average, eight teens in the United States die from motor vehicle injuries per day. As a result, states across the country are debating raising the driving age.",
+        "Question": "For the given values of the random variable X , fill in the corresponding probabilities.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.6 Poisson Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next six exercises: On average, eight teens in the United States die from motor vehicle injuries per day. As a result, states across the country are debating raising the driving age.",
+        "Question": "Is it likely that there will be no teens killed from motor vehicle injuries on any given day in the United States? Justify your answer numerically.",
+        "Image Links": [],
+        "Answer": "no",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.6 Poisson Distribution (Optional)",
+        "Problem Statement": "Use the following information to answer the next six exercises: On average, eight teens in the United States die from motor vehicle injuries per day. As a result, states across the country are debating raising the driving age.",
+        "Question": "Is it likely that there will be more than 20 teens killed from motor vehicle injuries on any given day in the United States? Justify your answer numerically.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

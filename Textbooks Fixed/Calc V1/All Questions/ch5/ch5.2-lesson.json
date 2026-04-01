@@ -1,0 +1,688 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, express the limits as integrals.",
+        "Question": "$$\\underset{n \\rightarrow \\infty}{\\text{lim}} \\sum_{i = 1}^{n} \\left(\\right. x_{i}^{\\star} \\left.\\right) \\Delta x$$ over $$[ 1 , 3 ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, express the limits as integrals.",
+        "Question": "$$\\underset{n \\rightarrow \\infty}{\\text{lim}} \\sum_{i = 1}^{n} \\left(\\right. 5 \\left(\\left(\\right. x_{i}^{\\star} \\left.\\right)\\right)^{2} - 3 \\left(\\left(\\right. x_{i}^{\\star} \\left.\\right)\\right)^{3} \\left.\\right) \\Delta x$$ over $$[ 0 , 2 ]$$",
+        "Image Links": [],
+        "Answer": "$$\\int_{0}^{2} ( 5 x^{2} - 3 x^{3} ) d x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, express the limits as integrals.",
+        "Question": "$$\\underset{n \\rightarrow \\infty}{\\text{lim}} \\sum_{i = 1}^{n} \\left(\\text{sin}\\right)^{2} \\left(\\right. 2 \\pi x_{i}^{\\star} \\left.\\right) \\Delta x$$ over $$[ 0 , 1 ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, express the limits as integrals.",
+        "Question": "$$\\underset{n \\rightarrow \\infty}{\\text{lim}} \\sum_{i = 1}^{n} \\left(\\text{cos}\\right)^{2} \\left(\\right. 2 \\pi x_{i}^{\\star} \\left.\\right) \\Delta x$$ over $$[ 0 , 1 ]$$",
+        "Image Links": [],
+        "Answer": "$$\\int_{0}^{1} \\text{cos}^{2} ( 2 \\pi x ) d x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given L n or R n as indicated, express their limits as $$n \\vec{} \\infty$$ as definite integrals, identifying the correct intervals.",
+        "Question": "$$L_{n} = \\frac{1}{n} \\sum_{i = 1}^{n} \\frac{i - 1}{n}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given L n or R n as indicated, express their limits as $$n \\vec{} \\infty$$ as definite integrals, identifying the correct intervals.",
+        "Question": "$$R_{n} = \\frac{1}{n} \\sum_{i = 1}^{n} \\frac{i}{n}$$",
+        "Image Links": [],
+        "Answer": "$$\\int_{0}^{1} x d x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given L n or R n as indicated, express their limits as $$n \\vec{} \\infty$$ as definite integrals, identifying the correct intervals.",
+        "Question": "$$L_{n} = \\frac{2}{n} \\sum_{i = 1}^{n} ( 1 + 2 \\frac{i - 1}{n} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given L n or R n as indicated, express their limits as $$n \\vec{} \\infty$$ as definite integrals, identifying the correct intervals.",
+        "Question": "$$R_{n} = \\frac{3}{n} \\sum_{i = 1}^{n} ( 3 + 3 \\frac{i}{n} )$$",
+        "Image Links": [],
+        "Answer": "$$\\int_{3}^{6} x d x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given L n or R n as indicated, express their limits as $$n \\vec{} \\infty$$ as definite integrals, identifying the correct intervals.",
+        "Question": "$$L_{n} = \\frac{2 \\pi}{n} \\sum_{i = 1}^{n} 2 \\pi \\frac{i - 1}{n} \\text{cos} ( 2 \\pi \\frac{i - 1}{n} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given L n or R n as indicated, express their limits as $$n \\vec{} \\infty$$ as definite integrals, identifying the correct intervals.",
+        "Question": "$$R_{n} = \\frac{1}{n} \\sum_{i = 1}^{n} ( 1 + \\frac{i}{n} ) \\text{log} ( ( 1 + \\frac{i}{n} )^{2} )$$",
+        "Image Links": [],
+        "Answer": "$$\\int_{1}^{2} x \\text{log} ( x^{2} ) d x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the integrals of the functions graphed using the formulas for areas of triangles and circles, and subtracting the areas below the x -axis.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/17bb01a52d1a454faa2f538de2cf5e4bf7edae22"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the integrals of the functions graphed using the formulas for areas of triangles and circles, and subtracting the areas below the x -axis.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/26aaa7baaaacad4d9d7e9ee988cf134f860613f6"
+        ],
+        "Answer": "$$1 + 2 \\cdotp 2 + 3 \\cdotp 3 = 14$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the integrals of the functions graphed using the formulas for areas of triangles and circles, and subtracting the areas below the x -axis.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0c003905e237449cca9303ce2e0e2abb097e04dc"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the integrals of the functions graphed using the formulas for areas of triangles and circles, and subtracting the areas below the x -axis.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/955b3f280636b9b3eec7dc84f84f8e1639834a94"
+        ],
+        "Answer": "$$1 - 4 + 9 = 6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the integrals of the functions graphed using the formulas for areas of triangles and circles, and subtracting the areas below the x -axis.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c3d07b1b42b6444204d5fb881f5d5c6843b775b0"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the integrals of the functions graphed using the formulas for areas of triangles and circles, and subtracting the areas below the x -axis.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/42515305a7d5eb75beff71a7967c021f87741d45"
+        ],
+        "Answer": "$$1 - 2 \\pi + 9 = 10 - 2 \\pi$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the integral using area formulas.",
+        "Question": "$$\\int_{0}^{3} ( 3 - x ) d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the integral using area formulas.",
+        "Question": "$$\\int_{2}^{3} ( 3 - x ) d x$$",
+        "Image Links": [],
+        "Answer": "The integral is the area of the triangle, $$\\frac{1}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the integral using area formulas.",
+        "Question": "$$\\int_{-3}^{3} ( 3 - | x | ) d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the integral using area formulas.",
+        "Question": "$$\\int_{0}^{6} ( 3 - | x - 3 | ) d x$$",
+        "Image Links": [],
+        "Answer": "The integral is the area of the triangle, 9.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the integral using area formulas.",
+        "Question": "$$\\int_{-2}^{2} \\sqrt{4 - x^{2}} d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the integral using area formulas.",
+        "Question": "$$\\int_{1}^{5} \\sqrt{4 - ( x - 3 )^{2}} d x$$",
+        "Image Links": [],
+        "Answer": "The integral is the area $$\\frac{1}{2} \\pi r^{2} = 2 \\pi .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the integral using area formulas.",
+        "Question": "$$\\int_{0}^{12} \\sqrt{36 - ( x - 6 )^{2}} d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, evaluate the integral using area formulas.",
+        "Question": "$$\\int_{-2}^{3} ( 3 - | x | ) d x$$",
+        "Image Links": [],
+        "Answer": "The integral is the area of the \u201cbig\u201d triangle less the \u201cmissing\u201d triangle, $$9 - \\frac{1}{2} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use averages of values at the left ( L ) and right ( R ) endpoints to compute the integrals of the piecewise linear functions with graphs that pass through the given list of points over the indicated intervals.",
+        "Question": "$$\\{ ( 0 , 0 ) , ( 2 , 1 ) , ( 4 , 3 ) , ( 5 , 0 ) , ( 6 , 0 ) , ( 8 , 3 ) \\}$$ over $$[ 0 , 8 ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use averages of values at the left ( L ) and right ( R ) endpoints to compute the integrals of the piecewise linear functions with graphs that pass through the given list of points over the indicated intervals.",
+        "Question": "$$\\{ ( 0 , 2 ) , ( 1 , 0 ) , ( 3 , 5 ) , ( 5 , 5 ) , ( 6 , 2 ) , ( 8 , 0 ) \\}$$ over $$[ 0 , 8 ]$$",
+        "Image Links": [],
+        "Answer": "$$L = 2 + 0 + 10 + 5 + 4 = 21 , R = 0 + 10 + 10 + 2 + 0 = 22 , \\frac{L + R}{2} = 21.5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use averages of values at the left ( L ) and right ( R ) endpoints to compute the integrals of the piecewise linear functions with graphs that pass through the given list of points over the indicated intervals.",
+        "Question": "$$\\{ ( -4 , -4 ) , ( -2 , 0 ) , ( 0 , -2 ) , ( 3 , 3 ) , ( 4 , 3 ) \\}$$ over $$[ -4 , 4 ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use averages of values at the left ( L ) and right ( R ) endpoints to compute the integrals of the piecewise linear functions with graphs that pass through the given list of points over the indicated intervals.",
+        "Question": "$$\\{ ( -4 , 0 ) , ( -2 , 2 ) , ( 0 , 0 ) , ( 1 , 2 ) , ( 3 , 2 ) , ( 4 , 0 ) \\}$$ over $$[ -4 , 4 ]$$",
+        "Image Links": [],
+        "Answer": "$$L = 0 + 4 + 0 + 4 + 2 = 10 , R = 4 + 0 + 2 + 4 + 0 = 10 , \\frac{L + R}{2} = 10$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Suppose that $$\\int_{0}^{4} f ( x ) d x = 5$$ and $$\\int_{0}^{2} f ( x ) d x = -3 ,$$ and $$\\int_{0}^{4} g ( x ) d x = -1$$ and $$\\int_{0}^{2} g ( x ) d x = 2 .$$ In the following exercises, compute the integrals.",
+        "Question": "$$\\int_{0}^{4} ( f ( x ) + g ( x ) ) d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Suppose that $$\\int_{0}^{4} f ( x ) d x = 5$$ and $$\\int_{0}^{2} f ( x ) d x = -3 ,$$ and $$\\int_{0}^{4} g ( x ) d x = -1$$ and $$\\int_{0}^{2} g ( x ) d x = 2 .$$ In the following exercises, compute the integrals.",
+        "Question": "$$\\int_{2}^{4} ( f ( x ) + g ( x ) ) d x$$",
+        "Image Links": [],
+        "Answer": "$$\\int_{2}^{4} f ( x ) d x + \\int_{2}^{4} g ( x ) d x = 8 - 3 = 5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Suppose that $$\\int_{0}^{4} f ( x ) d x = 5$$ and $$\\int_{0}^{2} f ( x ) d x = -3 ,$$ and $$\\int_{0}^{4} g ( x ) d x = -1$$ and $$\\int_{0}^{2} g ( x ) d x = 2 .$$ In the following exercises, compute the integrals.",
+        "Question": "$$\\int_{0}^{2} ( f ( x ) - g ( x ) ) d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Suppose that $$\\int_{0}^{4} f ( x ) d x = 5$$ and $$\\int_{0}^{2} f ( x ) d x = -3 ,$$ and $$\\int_{0}^{4} g ( x ) d x = -1$$ and $$\\int_{0}^{2} g ( x ) d x = 2 .$$ In the following exercises, compute the integrals.",
+        "Question": "$$\\int_{2}^{4} ( f ( x ) - g ( x ) ) d x$$",
+        "Image Links": [],
+        "Answer": "$$\\int_{2}^{4} f ( x ) d x - \\int_{2}^{4} g ( x ) d x = 8 + 3 = 11$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Suppose that $$\\int_{0}^{4} f ( x ) d x = 5$$ and $$\\int_{0}^{2} f ( x ) d x = -3 ,$$ and $$\\int_{0}^{4} g ( x ) d x = -1$$ and $$\\int_{0}^{2} g ( x ) d x = 2 .$$ In the following exercises, compute the integrals.",
+        "Question": "$$\\int_{0}^{2} ( 3 f ( x ) - 4 g ( x ) ) d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Suppose that $$\\int_{0}^{4} f ( x ) d x = 5$$ and $$\\int_{0}^{2} f ( x ) d x = -3 ,$$ and $$\\int_{0}^{4} g ( x ) d x = -1$$ and $$\\int_{0}^{2} g ( x ) d x = 2 .$$ In the following exercises, compute the integrals.",
+        "Question": "$$\\int_{2}^{4} ( 4 f ( x ) - 3 g ( x ) ) d x$$",
+        "Image Links": [],
+        "Answer": "$$4 \\int_{2}^{4} f ( x ) d x - 3 \\int_{2}^{4} g ( x ) d x = 32 + 9 = 41$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the identity $$\\int_{\\text{unicode[:-]} A}^{A} f ( x ) d x = \\int_{\\text{unicode[:-]} A}^{0} f ( x ) d x + \\int_{0}^{A} f ( x ) d x$$ to compute the integrals.",
+        "Question": "$$\\int_{\\text{unicode[:-]} \\pi}^{\\pi} \\frac{\\text{sin} t}{1 + t^{2}} d t$$ $$\\text{(} H i n t \\text{:} \\text{sin} ( \\text{unicode[:-]} t ) = \\text{unicode[:-]} \\text{sin} ( t ) \\text{)}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the identity $$\\int_{\\text{unicode[:-]} A}^{A} f ( x ) d x = \\int_{\\text{unicode[:-]} A}^{0} f ( x ) d x + \\int_{0}^{A} f ( x ) d x$$ to compute the integrals.",
+        "Question": "$$\\int_{\\text{unicode[:-]} \\sqrt{\\pi}}^{\\sqrt{\\pi}} \\frac{t}{1 + \\text{cos} t} d t$$",
+        "Image Links": [],
+        "Answer": "The integrand is odd; the integral is zero.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the net signed area between $$f ( x )$$ and the x-axis.",
+        "Question": "$$\\int_{1}^{3} ( 2 - x ) d x$$ ( Hint: Look at the graph of f .)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the net signed area between $$f ( x )$$ and the x-axis.",
+        "Question": "$$\\int_{2}^{4} ( x - 3 )^{3} d x$$ ( Hint: Look at the graph of f .)",
+        "Image Links": [],
+        "Answer": "The integrand is antisymmetric with respect to $$x = 3 .$$ The integral is zero.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given that $$\\int_{0}^{1} x d x = \\frac{1}{2} , \\int_{0}^{1} x^{2} d x = \\frac{1}{3} ,$$ and $$\\int_{0}^{1} x^{3} d x = \\frac{1}{4} ,$$ compute the integrals.",
+        "Question": "$$\\int_{0}^{1} ( 1 + x + x^{2} + x^{3} ) d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given that $$\\int_{0}^{1} x d x = \\frac{1}{2} , \\int_{0}^{1} x^{2} d x = \\frac{1}{3} ,$$ and $$\\int_{0}^{1} x^{3} d x = \\frac{1}{4} ,$$ compute the integrals.",
+        "Question": "$$\\int_{0}^{1} ( 1 - x + x^{2} - x^{3} ) d x$$",
+        "Image Links": [],
+        "Answer": "$$1 - \\frac{1}{2} + \\frac{1}{3} - \\frac{1}{4} = \\frac{7}{12}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given that $$\\int_{0}^{1} x d x = \\frac{1}{2} , \\int_{0}^{1} x^{2} d x = \\frac{1}{3} ,$$ and $$\\int_{0}^{1} x^{3} d x = \\frac{1}{4} ,$$ compute the integrals.",
+        "Question": "$$\\int_{0}^{1} ( 1 - x )^{2} d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given that $$\\int_{0}^{1} x d x = \\frac{1}{2} , \\int_{0}^{1} x^{2} d x = \\frac{1}{3} ,$$ and $$\\int_{0}^{1} x^{3} d x = \\frac{1}{4} ,$$ compute the integrals.",
+        "Question": "$$\\int_{0}^{1} ( 1 - 2 x )^{3} d x$$",
+        "Image Links": [],
+        "Answer": "$$\\int_{0}^{1} ( 1 - 6 x + 12 x^{2} - 8 x^{3} ) d x = ( x - 3 x^{2} + 4 x^{3} - 2 x^{4} ) = ( 1 - 3 + 4 - 2 ) ( 0 - 0 + 0 - 0 ) = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given that $$\\int_{0}^{1} x d x = \\frac{1}{2} , \\int_{0}^{1} x^{2} d x = \\frac{1}{3} ,$$ and $$\\int_{0}^{1} x^{3} d x = \\frac{1}{4} ,$$ compute the integrals.",
+        "Question": "$$\\int_{0}^{1} ( 6 x - \\frac{4}{3} x^{2} ) d x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, given that $$\\int_{0}^{1} x d x = \\frac{1}{2} , \\int_{0}^{1} x^{2} d x = \\frac{1}{3} ,$$ and $$\\int_{0}^{1} x^{3} d x = \\frac{1}{4} ,$$ compute the integrals.",
+        "Question": "$$\\int_{0}^{1} ( 7 - 5 x^{3} ) d x$$",
+        "Image Links": [],
+        "Answer": "$$7 - \\frac{5}{4} = \\frac{23}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the comparison theorem .",
+        "Question": "Show that $$\\int_{0}^{3} ( x^{2} - 6 x + 9 ) d x \\geq 0 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the comparison theorem .",
+        "Question": "Show that $$\\int_{-2}^{3} ( x - 3 ) ( x + 2 ) d x \\le 0 .$$",
+        "Image Links": [],
+        "Answer": "The integrand is negative over $$[ -2 , 3 ] .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the comparison theorem .",
+        "Question": "Show that $$\\int_{0}^{1} \\sqrt{1 + x^{3}} d x \\le \\int_{0}^{1} \\sqrt{1 + x^{2}} d x .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the comparison theorem .",
+        "Question": "Show that $$\\int_{1}^{2} \\sqrt{1 + x} d x \\le \\int_{1}^{2} \\sqrt{1 + x^{2}} d x .$$",
+        "Image Links": [],
+        "Answer": "$$x \\le x^{2}$$ over $$[ 1 , 2 ] ,$$ so $$\\sqrt{1 + x} \\le \\sqrt{1 + x^{2}}$$ over $$[ 1 , 2 ] .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the comparison theorem .",
+        "Question": "Show that $$\\int_{0}^{\\pi \\text{/} 2} \\text{sin} t d t \\geq \\frac{\\pi}{4} .$$ $$\\text{(} H i n t \\text{:} \\text{sin} t \\geq \\frac{2 t}{\\pi}$$ over $$[ 0 , \\frac{\\pi}{2} ] \\text{)}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the comparison theorem .",
+        "Question": "Show that $$\\int_{\\text{unicode[:-]} \\pi \\text{/} 4}^{\\pi \\text{/} 4} \\text{cos} t d t \\geq \\pi \\sqrt{2} \\text{/} 4 .$$",
+        "Image Links": [],
+        "Answer": "$$\\text{cos} ( t ) \\geq \\frac{\\sqrt{2}}{2} .$$ Multiply by the length of the interval to get the inequality.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the average value f ave of f between a and b , and find a point c , where $$f ( c ) = f_{\\text{ave}} .$$",
+        "Question": "$$f ( x ) = x^{2} , a = -1 , b = 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the average value f ave of f between a and b , and find a point c , where $$f ( c ) = f_{\\text{ave}} .$$",
+        "Question": "$$f ( x ) = x^{5} , a = -1 , b = 1$$",
+        "Image Links": [],
+        "Answer": "$$f_{\\text{ave}} = 0 ; c = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the average value f ave of f between a and b , and find a point c , where $$f ( c ) = f_{\\text{ave}} .$$",
+        "Question": "$$f ( x ) = \\sqrt{4 - x^{2}} , a = 0 , b = 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the average value f ave of f between a and b , and find a point c , where $$f ( c ) = f_{\\text{ave}} .$$",
+        "Question": "$$f ( x ) = ( 3 - | x | ) , a = -3 , b = 3$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3}{2}$$ when $$c = \\pm \\frac{3}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the average value f ave of f between a and b , and find a point c , where $$f ( c ) = f_{\\text{ave}} .$$",
+        "Question": "$$f ( x ) = \\text{sin} x , a = 0 , b = 2 \\pi$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, find the average value f ave of f between a and b , and find a point c , where $$f ( c ) = f_{\\text{ave}} .$$",
+        "Question": "$$f ( x ) = \\text{cos} x , a = 0 , b = 2 \\pi$$",
+        "Image Links": [],
+        "Answer": "$$f_{\\text{ave}} = 0 ; c = \\frac{\\pi}{2} , \\frac{3 \\pi}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, approximate the average value using Riemann sums L 100 and R 100 . How does your answer compare with the exact given answer?",
+        "Question": "[T] $$y = \\text{ln} ( x )$$ over the interval $$[ 1 , 4 ] ;$$ the exact solution is $$\\frac{\\text{ln} ( 256 )}{3} - 1 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, approximate the average value using Riemann sums L 100 and R 100 . How does your answer compare with the exact given answer?",
+        "Question": "[T] $$y = e^{x \\text{/} 2}$$ over the interval $$[ 0 , 1 ] ;$$ the exact solution is $$2 ( \\sqrt{e} - 1 ) .$$",
+        "Image Links": [],
+        "Answer": "$$L_{100} = 1.294 , R_{100} = 1.301 ;$$ the exact average is between these values.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, approximate the average value using Riemann sums L 100 and R 100 . How does your answer compare with the exact given answer?",
+        "Question": "[T] $$y = \\text{tan} x$$ over the interval $$[ 0 , \\frac{\\pi}{4} ] ;$$ the exact solution is $$\\frac{2 \\text{ln} ( 2 )}{\\pi} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, approximate the average value using Riemann sums L 100 and R 100 . How does your answer compare with the exact given answer?",
+        "Question": "[T] $$y = \\frac{x + 1}{\\sqrt{4 - x^{2}}}$$ over the interval $$[ -1 , 1 ] ;$$ the exact solution is $$\\frac{\\pi}{6} .$$",
+        "Image Links": [],
+        "Answer": "$$L_{100} \\times ( \\frac{1}{2} ) = 0.5178 , R_{100} \\times ( \\frac{1}{2} ) = 0.5294$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the average value using the left Riemann sums L N for $$N = 1 , 10 , 100 .$$ How does the accuracy compare with the given exact value?",
+        "Question": "[T] $$y = x^{2} - 4$$ over the interval $$[ 0 , 2 ] ;$$ the exact solution is $$- \\frac{8}{3} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the average value using the left Riemann sums L N for $$N = 1 , 10 , 100 .$$ How does the accuracy compare with the given exact value?",
+        "Question": "[T] $$y = x e^{x^{2}}$$ over the interval $$[ 0 , 2 ] ;$$ the exact solution is $$\\frac{1}{4} ( e^{4} - 1 ) .$$",
+        "Image Links": [],
+        "Answer": "$$L_{1} = 0 , L_{10} \\times ( \\frac{1}{2} ) = 8.743493 , L_{100} \\times ( \\frac{1}{2} ) = 12.861728 .$$ The exact answer $$\\approx 26.799 ,$$ so L 100 is not accurate.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the average value using the left Riemann sums L N for $$N = 1 , 10 , 100 .$$ How does the accuracy compare with the given exact value?",
+        "Question": "[T] $$y = ( \\frac{1}{2} )^{x}$$ over the interval $$[ 0 , 4 ] ;$$ the exact solution is $$\\frac{15}{64 \\text{ln} ( 2 )} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the average value using the left Riemann sums L N for $$N = 1 , 10 , 100 .$$ How does the accuracy compare with the given exact value?",
+        "Question": "[T] $$y = x \\text{sin} ( x^{2} )$$ over the interval $$[ \\text{unicode[:-]} \\pi , 0 ] ;$$ the exact solution is $$\\frac{\\text{cos} ( \\pi^{2} ) - 1}{2 \\pi} .$$",
+        "Image Links": [],
+        "Answer": "$$L_{1} \\times ( \\frac{1}{\\pi} ) = 1.352 , L_{10} \\times ( \\frac{1}{\\pi} ) = -0.1837 , L_{100} \\times ( \\frac{1}{\\pi} ) = -0.2956 .$$ The exact answer $$\\approx - 0.303 ,$$ so L 100 is not accurate to first decimal.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the average value using the left Riemann sums L N for $$N = 1 , 10 , 100 .$$ How does the accuracy compare with the given exact value?",
+        "Question": "Suppose that $$A = \\int_{0}^{2 \\pi} \\text{sin}^{2} t d t$$ and $$B = \\int_{0}^{2 \\pi} \\text{cos}^{2} t d t .$$ Show that $$A + B = 2 \\pi$$ and $$A = B \\text{.}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the average value using the left Riemann sums L N for $$N = 1 , 10 , 100 .$$ How does the accuracy compare with the given exact value?",
+        "Question": "Suppose that $$A = \\int_{\\text{unicode[:-]} \\pi \\text{/} 4}^{\\pi \\text{/} 4} \\text{sec}^{2} t d t = \\pi$$ and $$B = \\int_{\\text{unicode[:-]} \\pi \\text{/} 4}^{\\pi \\text{/} 4} \\text{tan}^{2} t d t .$$ Show that $$A - B = \\frac{\\pi}{2} .$$",
+        "Image Links": [],
+        "Answer": "Use $$\\text{tan}^{2} \\theta + 1 = \\text{sec}^{2} \\theta .$$ Then, $$B - A = \\int_{\\text{unicode[:-]} \\pi \\text{/} 4}^{\\pi \\text{/} 4} 1 d x = \\frac{\\pi}{2} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the average value using the left Riemann sums L N for $$N = 1 , 10 , 100 .$$ How does the accuracy compare with the given exact value?",
+        "Question": "Show that the average value of $$\\text{sin}^{2} t$$ over $$[ 0 , 2 \\pi ]$$ is equal to 1/2 Without further calculation, determine whether the average value of $$\\text{sin}^{2} t$$ over $$[ 0 , \\pi ]$$ is also equal to 1/2.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the average value using the left Riemann sums L N for $$N = 1 , 10 , 100 .$$ How does the accuracy compare with the given exact value?",
+        "Question": "Show that the average value of $$\\text{cos}^{2} t$$ over $$[ 0 , 2 \\pi ]$$ is equal to $$1 \\text{/} 2 .$$ Without further calculation, determine whether the average value of $$\\text{cos}^{2} ( t )$$ over $$[ 0 , \\pi ]$$ is also equal to $$1 \\text{/} 2 .$$",
+        "Image Links": [],
+        "Answer": "$$\\int_{0}^{2 \\pi} \\text{cos}^{2} t d t = \\pi ,$$ so divide by the length 2 \u03c0 of the interval. $$\\text{cos}^{2} t$$ has period \u03c0 , so yes, it is true.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the average value using the left Riemann sums L N for $$N = 1 , 10 , 100 .$$ How does the accuracy compare with the given exact value?",
+        "Question": "Explain why the graphs of a quadratic function (parabola) $$p ( x )$$ and a linear function $$\\ell ( x )$$ can intersect in at most two points. Suppose that $$p ( a ) = \\ell ( a )$$ and $$p ( b ) = \\ell ( b ) ,$$ and that $$\\int_{a}^{b} p ( t ) d t > \\int_{a}^{b} \\ell ( t ) d t .$$ Explain why $$\\int_{c}^{d} p ( t ) > \\int_{c}^{d} \\ell ( t ) d t$$ whenever $$a \\le c < d \\le b .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the average value using the left Riemann sums L N for $$N = 1 , 10 , 100 .$$ How does the accuracy compare with the given exact value?",
+        "Question": "Suppose that parabola $$p ( x ) = a x^{2} + b x + c$$ opens downward $$( a < 0 )$$ and has a vertex of $$y = \\frac{\\text{unicode[:-]} b}{2 a} > 0 .$$ For which interval $$[ A , B ]$$ is $$\\int_{A}^{B} ( a x^{2} + b x + c ) d x$$ as large as possible?",
+        "Image Links": [],
+        "Answer": "The integral is maximized when one uses the largest interval on which p is nonnegative. Thus, $$A = \\frac{\\text{unicode[:-]} b - \\sqrt{b^{2} - 4 a c}}{2 a}$$ and $$B = \\frac{\\text{unicode[:-]} b + \\sqrt{b^{2} - 4 a c}}{2 a} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the average value using the left Riemann sums L N for $$N = 1 , 10 , 100 .$$ How does the accuracy compare with the given exact value?",
+        "Question": "Suppose $$[ a , b ]$$ can be subdivided into subintervals $$a = a_{0} < a_{1} < a_{2} < \\text{cdots} < a_{N} = b$$ such that either $$f \\geq 0$$ over $$[ a_{i - 1} , a_{i} ]$$ or $$f \\le 0$$ over $$[ a_{i - 1} , a_{i} ] .$$ Set $$A_{i} = \\int_{a_{i - 1}}^{a_{i}} f ( t ) d t .$$ Explain why $$\\int_{a}^{b} f ( t ) d t = A_{1} + A_{2} + \\text{cdots} + A_{N} .$$ Then, explain why $$| \\int_{a}^{b} f ( t ) d t | \\le \\int_{a}^{b} | f ( t ) | d t .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the average value using the left Riemann sums L N for $$N = 1 , 10 , 100 .$$ How does the accuracy compare with the given exact value?",
+        "Question": "Suppose f and g are continuous functions such that $$\\int_{c}^{d} f ( t ) d t \\le \\int_{c}^{d} g ( t ) d t$$ for every subinterval $$[ c , d ]$$ of $$[ a , b ] .$$ Explain why $$f ( x ) \\le g ( x )$$ for all values of x .",
+        "Image Links": [],
+        "Answer": "If $$f ( t_{0} ) > g ( t_{0} )$$ for some $$t_{0} \\in [ a , b ] ,$$ then since $$f - g$$ is continuous, there is an interval containing t 0 such that $$f ( t ) > g ( t )$$ over the interval $$[ c , d ] ,$$ and then $$\\int_{d}^{d} f ( t ) d t > \\int_{c}^{d} g ( t ) d t$$ over this interval.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the average value using the left Riemann sums L N for $$N = 1 , 10 , 100 .$$ How does the accuracy compare with the given exact value?",
+        "Question": "Suppose the average value of f over $$[ a , b ]$$ is 1 and the average value of f over $$[ b , c ]$$ is 1 where $$a < c < b .$$ Show that the average value of f over $$[ a , c ]$$ is also 1.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the average value using the left Riemann sums L N for $$N = 1 , 10 , 100 .$$ How does the accuracy compare with the given exact value?",
+        "Question": "Suppose that $$[ a , b ]$$ can be partitioned. taking $$a = a_{0} < a_{1} < \\text{cdots} < a_{N} = b$$ such that the average value of f over each subinterval $$[ a_{i - 1} , a_{i} ] = 1$$ is equal to 1 for each $$i = 1 \\text{,unicode[:ddot.],} N .$$ Explain why the average value of f over $$[ a , b ]$$ is also equal to 1.",
+        "Image Links": [],
+        "Answer": "The integral of f over an interval is the same as the integral of the average of f over that interval. Thus, $$\\left .\\begin{matrix}{a}\\int_{a}^{b} f ( t ) d t = \\int_{a_{0}}^{a_{1}} f ( t ) d t + \\int_{a_{1}}^{a_{2}} f ( t ) d t + \\text{cdots} + \\int_{a_{N + 1}}^{a_{N}} f ( t ) d t = \\int_{a_{0}}^{a_{1}} 1 d t + \\int_{a_{1}}^{a_{2}} 1 d t + \\text{cdots} + \\int_{a_{N + 1}}^{a_{N}} 1 d t \\\\ = ( a_{1} - a_{0} ) + ( a_{2} - a_{1} ) + \\text{cdots} + ( a_{N} - a_{N - 1} ) = a_{N} - a_{0} = b - a .\\end{matrix}\\right .$$ Dividing through by $$b - a$$ gives the desired identity.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the average value using the left Riemann sums L N for $$N = 1 , 10 , 100 .$$ How does the accuracy compare with the given exact value?",
+        "Question": "Suppose that for each i such that $$1 \\le i \\le N$$ one has $$\\int_{i - 1}^{i} f ( t ) d t = i .$$ Show that $$\\int_{0}^{N} f ( t ) d t = \\frac{N ( N + 1 )}{2} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the average value using the left Riemann sums L N for $$N = 1 , 10 , 100 .$$ How does the accuracy compare with the given exact value?",
+        "Question": "Suppose that for each i such that $$1 \\le i \\le N$$ one has $$\\int_{i - 1}^{i} f ( t ) d t = i^{2} .$$ Show that $$\\int_{0}^{N} f ( t ) d t = \\frac{N ( N + 1 ) ( 2 N + 1 )}{6} .$$",
+        "Image Links": [],
+        "Answer": "$$\\int_{0}^{N} f ( t ) d t = \\sum_{i = 1}^{N} \\int_{i - 1}^{i} f ( t ) d t = \\sum_{i = 1}^{N} i^{2} = \\frac{N ( N + 1 ) ( 2 N + 1 )}{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the average value using the left Riemann sums L N for $$N = 1 , 10 , 100 .$$ How does the accuracy compare with the given exact value?",
+        "Question": "[T] Compute the left and right Riemann sums L 10 and R 10 and their average $$\\frac{L_{10} + R_{10}}{2}$$ for $$f ( t ) = t^{2}$$ over $$[ 0 , 1 ] .$$ Given that $$\\int_{0}^{1} t^{2} d t = 0. \\overset{-}{33} ,$$ to how many decimal places is $$\\frac{L_{10} + R_{10}}{2}$$ accurate?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the average value using the left Riemann sums L N for $$N = 1 , 10 , 100 .$$ How does the accuracy compare with the given exact value?",
+        "Question": "[T] Compute the left and right Riemann sums, L 10 and R 10 , and their average $$\\frac{L_{10} + R_{10}}{2}$$ for $$f ( t ) = ( 4 - t^{2} )$$ over $$[ 1 , 2 ] .$$ Given that $$\\int_{1}^{2} ( 4 - t^{2} ) d t = 1. \\overset{-}{66} ,$$ to how many decimal places is $$\\frac{L_{10} + R_{10}}{2}$$ accurate?",
+        "Image Links": [],
+        "Answer": "$$L_{10} = 1.815 , R_{10} = 1.515 , \\frac{L_{10} + R_{10}}{2} = 1.665 ,$$ so the estimate is accurate to two decimal places.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the average value using the left Riemann sums L N for $$N = 1 , 10 , 100 .$$ How does the accuracy compare with the given exact value?",
+        "Question": "If $$\\int_{1}^{5} \\sqrt{1 + t^{4}} d t = 41.7133.. . ,$$ what is $$\\int_{1}^{5} \\sqrt{1 + u^{4}} d u ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the average value using the left Riemann sums L N for $$N = 1 , 10 , 100 .$$ How does the accuracy compare with the given exact value?",
+        "Question": "Estimate $$\\int_{0}^{1} t d t$$ using the left and right endpoint sums, each with a single rectangle. How does the average of these left and right endpoint sums compare with the actual value $$\\int_{0}^{1} t d t ?$$",
+        "Image Links": [],
+        "Answer": "The average is $$1 \\text{/} 2 ,$$ which is equal to the integral in this case.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the average value using the left Riemann sums L N for $$N = 1 , 10 , 100 .$$ How does the accuracy compare with the given exact value?",
+        "Question": "Estimate $$\\int_{0}^{1} t d t$$ by comparison with the area of a single rectangle with height equal to the value of t at the midpoint $$t = \\frac{1}{2} .$$ How does this midpoint estimate compare with the actual value $$\\int_{0}^{1} t d t ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the average value using the left Riemann sums L N for $$N = 1 , 10 , 100 .$$ How does the accuracy compare with the given exact value?",
+        "Question": "From the graph of $$\\text{sin} ( 2 \\pi x )$$ shown: Explain why $$\\int_{0}^{1} \\text{sin} ( 2 \\pi t ) d t = 0 .$$ Explain why, in general, $$\\int_{a}^{a + 1} \\text{sin} ( 2 \\pi t ) d t = 0$$ for any value of a .",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1924c50523ef858ded0955ff101e46ed9d92fd14"
+        ],
+        "Answer": "a. The graph is antisymmetric with respect to $$t = \\frac{1}{2}$$ over $$[ 0 , 1 ] ,$$ so the average value is zero. b. For any value of a , the graph between $$[ a , a + 1 ]$$ is a shift of the graph over $$[ 0 , 1 ] ,$$ so the net areas above and below the axis do not change and the average remains zero.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the average value using the left Riemann sums L N for $$N = 1 , 10 , 100 .$$ How does the accuracy compare with the given exact value?",
+        "Question": "If f is 1-periodic $$( f ( t + 1 ) = f ( t ) ) ,$$ odd, and integrable over $$[ 0 , 1 ] ,$$ is it always true that $$\\int_{0}^{1} f ( t ) d t = 0 ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the average value using the left Riemann sums L N for $$N = 1 , 10 , 100 .$$ How does the accuracy compare with the given exact value?",
+        "Question": "If f is 1-periodic and $$\\int_{0}^{1} f ( t ) d t = A ,$$ is it necessarily true that $$\\int_{a}^{1 + a} f ( t ) d t = A$$ for all A ?",
+        "Image Links": [],
+        "Answer": "Yes, the integral over any interval of length 1 is the same.",
+        "Answer Image Links": []
+    }
+]

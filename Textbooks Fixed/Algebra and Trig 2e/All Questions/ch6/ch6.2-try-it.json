@@ -1,0 +1,58 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "Sketch the graph of $$f ( x ) = 4^{x} .$$ State the domain, range, and asymptote.",
+        "Image Links": [],
+        "Answer": "The domain is $$( - \\infty , \\infty ) ;$$ the range is $$( 0 , \\infty ) ;$$ the horizontal asymptote is $$y = 0.$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/fc3fc622309111a29241fa8cdd57b79f97500651"
+        ]
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "Graph $$f ( x ) = 2^{x - 1} + 3.$$ State domain, range, and asymptote.",
+        "Image Links": [],
+        "Answer": "The domain is $$( - \\infty , \\infty ) ;$$ the range is $$( 3 , \\infty ) ;$$ the horizontal asymptote is $$y = 3.$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a8c6593ba2a38b8f32cd28754f9e588a280015bf"
+        ]
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "Solve $$4 = 7.85 ( 1.15 )^{x} - 2.27$$ graphically. Round to the nearest thousandth.",
+        "Image Links": [],
+        "Answer": "$$x \\approx - 1.608$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "Sketch the graph of $$f ( x ) = \\frac{1}{2} ( 4 )^{x} .$$ State the domain, range, and asymptote.",
+        "Image Links": [],
+        "Answer": "The domain is $$( - \\infty , \\infty ) ;$$ the range is $$( 0 , \\infty ) ;$$ the horizontal asymptote is $$y = 0.$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/08e3f1013f016e6b7b15c6b1b98749489acd40bc"
+        ]
+    },
+    {
+        "Topic": "Try It #5",
+        "Problem Statement": "",
+        "Question": "Find and graph the equation for a function, $$g ( x ) ,$$ that reflects $$f ( x ) = 1.25^{x}$$ about the y -axis. State its domain, range, and asymptote.",
+        "Image Links": [],
+        "Answer": "The domain is $$( - \\infty , \\infty ) ;$$ the range is $$( 0 , \\infty ) ;$$ the horizontal asymptote is $$y = 0.$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ddfb9553c8b2979d000ee56efaa5d256017e2d95"
+        ]
+    },
+    {
+        "Topic": "Try It #6",
+        "Problem Statement": "",
+        "Question": "Write the equation for function described below. Give the horizontal asymptote, the domain, and the range. $$f ( x ) = e^{x}$$ is compressed vertically by a factor of $$\\frac{1}{3} ,$$ reflected across the x -axis and then shifted down $$2$$ units.",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = - \\frac{1}{3} e^{x} - 2 ;$$ the domain is $$( - \\infty , \\infty ) ;$$ the range is $$( - \\infty , -2 ) ;$$ the horizontal asymptote is $$y = -2.$$",
+        "Answer Image Links": []
+    }
+]

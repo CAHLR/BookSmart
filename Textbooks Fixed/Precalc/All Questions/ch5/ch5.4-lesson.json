@@ -1,0 +1,502 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "For the given right triangle, label the adjacent side, opposite side, and hypotenuse for the indicated angle.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/496f1d4642d2052daa66ab511207808aad7165d5"
+        ],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3328b5ce927621fa9ccb622d3bf5633186a43e32"
+        ]
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "When a right triangle with a hypotenuse of 1 is placed in the unit circle, which sides of the triangle correspond to the x - and y -coordinates?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "The tangent of an angle compares which sides of the right triangle?",
+        "Image Links": [],
+        "Answer": "The tangent of an angle is the ratio of the opposite side to the adjacent side.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What is the relationship between the two acute angles in a right triangle?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Explain the cofunction identity.",
+        "Image Links": [],
+        "Answer": "For example, the sine of an angle is equal to the cosine of its complement; the cosine of an angle is equal to the sine of its complement.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use cofunctions of complementary angles.",
+        "Question": "$$\\cos{(} \\text{34\u00b0} ) = \\sin{} ( \\text{ulul\u00b0} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use cofunctions of complementary angles.",
+        "Question": "$$\\cos{( \\frac{\\pi}{3} )} = \\sin{} \\text{(ululul)}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\pi}{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use cofunctions of complementary angles.",
+        "Question": "$$\\csc{(} \\text{21\u00b0} ) = \\sec{} ( \\text{ululul\u00b0} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use cofunctions of complementary angles.",
+        "Question": "$$\\tan{( \\frac{\\pi}{4} )} = \\cot{} ( \\text{ulul} )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\pi}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the lengths of the missing sides if side $$a$$ is opposite angle $$A ,$$ side $$b$$ is opposite angle $$B ,$$ and side $$c$$ is the hypotenuse.",
+        "Question": "$$\\cos{B} = \\frac{4}{5} , a = 10$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the lengths of the missing sides if side $$a$$ is opposite angle $$A ,$$ side $$b$$ is opposite angle $$B ,$$ and side $$c$$ is the hypotenuse.",
+        "Question": "$$\\sin{B} = \\frac{1}{2} , a = 20$$",
+        "Image Links": [],
+        "Answer": "$$b = \\frac{20 \\sqrt{3}}{3} , c = \\frac{40 \\sqrt{3}}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the lengths of the missing sides if side $$a$$ is opposite angle $$A ,$$ side $$b$$ is opposite angle $$B ,$$ and side $$c$$ is the hypotenuse.",
+        "Question": "$$\\tan{A} = \\frac{5}{12} , b = 6$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the lengths of the missing sides if side $$a$$ is opposite angle $$A ,$$ side $$b$$ is opposite angle $$B ,$$ and side $$c$$ is the hypotenuse.",
+        "Question": "$$\\tan{A} = 100 , b = 100$$",
+        "Image Links": [],
+        "Answer": "$$a = 10 , 000 , c = 10 , 000.5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the lengths of the missing sides if side $$a$$ is opposite angle $$A ,$$ side $$b$$ is opposite angle $$B ,$$ and side $$c$$ is the hypotenuse.",
+        "Question": "$$\\sin{B} = \\frac{1}{\\sqrt{3}} , a = 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the lengths of the missing sides if side $$a$$ is opposite angle $$A ,$$ side $$b$$ is opposite angle $$B ,$$ and side $$c$$ is the hypotenuse.",
+        "Question": "$$a = 5 , \\measuredangle A = 60^{\\vysmwhtcircle}$$",
+        "Image Links": [],
+        "Answer": "$$b = \\frac{5 \\sqrt{3}}{3} , c = \\frac{10 \\sqrt{3}}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the lengths of the missing sides if side $$a$$ is opposite angle $$A ,$$ side $$b$$ is opposite angle $$B ,$$ and side $$c$$ is the hypotenuse.",
+        "Question": "$$c = 12 , \\measuredangle A = 45^{\\vysmwhtcircle}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Figure 14 to evaluate each trigonometric function of angle $$A .$$\nFigure 14",
+        "Question": "$$\\sin{A}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/424c7cb365e32680edf502429900e84abbaab14e"
+        ],
+        "Answer": "$$\\frac{5 \\sqrt{29}}{29}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Figure 14 to evaluate each trigonometric function of angle $$A .$$\nFigure 14",
+        "Question": "$$\\cos{A}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/424c7cb365e32680edf502429900e84abbaab14e"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Figure 14 to evaluate each trigonometric function of angle $$A .$$\nFigure 14",
+        "Question": "$$\\tan{A}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/424c7cb365e32680edf502429900e84abbaab14e"
+        ],
+        "Answer": "$$\\frac{5}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Figure 14 to evaluate each trigonometric function of angle $$A .$$\nFigure 14",
+        "Question": "$$\\csc{A}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/424c7cb365e32680edf502429900e84abbaab14e"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Figure 14 to evaluate each trigonometric function of angle $$A .$$\nFigure 14",
+        "Question": "$$\\sec{A}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/424c7cb365e32680edf502429900e84abbaab14e"
+        ],
+        "Answer": "$$\\frac{\\sqrt{29}}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Figure 14 to evaluate each trigonometric function of angle $$A .$$\nFigure 14",
+        "Question": "$$\\cot{A}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/424c7cb365e32680edf502429900e84abbaab14e"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Figure 15 to evaluate each trigonometric function of angle $$A .$$\nFigure 15",
+        "Question": "$$\\sin{A}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2f932cff5fc69c26df20a52811558331844322cd"
+        ],
+        "Answer": "$$\\frac{5 \\sqrt{41}}{41}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Figure 15 to evaluate each trigonometric function of angle $$A .$$\nFigure 15",
+        "Question": "$$\\cos{A}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2f932cff5fc69c26df20a52811558331844322cd"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Figure 15 to evaluate each trigonometric function of angle $$A .$$\nFigure 15",
+        "Question": "$$\\tan{A}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2f932cff5fc69c26df20a52811558331844322cd"
+        ],
+        "Answer": "$$\\frac{5}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Figure 15 to evaluate each trigonometric function of angle $$A .$$\nFigure 15",
+        "Question": "$$\\csc{A}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2f932cff5fc69c26df20a52811558331844322cd"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Figure 15 to evaluate each trigonometric function of angle $$A .$$\nFigure 15",
+        "Question": "$$\\sec{A}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2f932cff5fc69c26df20a52811558331844322cd"
+        ],
+        "Answer": "$$\\frac{\\sqrt{41}}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use Figure 15 to evaluate each trigonometric function of angle $$A .$$\nFigure 15",
+        "Question": "$$\\cot{A}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2f932cff5fc69c26df20a52811558331844322cd"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, solve for the unknown sides of the given triangle.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a663ff1078f810857c7080b054f557437bfdfb6b"
+        ],
+        "Answer": "$$c = 14 , b = 7 \\sqrt{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, solve for the unknown sides of the given triangle.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0398d7e7a1d610ad6c7045e2657eeac2b3460b60"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, solve for the unknown sides of the given triangle.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5cc88063df12a202194106f17558813f6d0d17bf"
+        ],
+        "Answer": "$$a = 15 , b = 15$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to find the length of each side to four decimal places.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/41d6581ffc58fcd903a47b286f671ad53d68fa58"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to find the length of each side to four decimal places.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/be029e858b738e75e34b1e567587c008e2428a83"
+        ],
+        "Answer": "$$b = 9.9970 , c = 12.2041$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to find the length of each side to four decimal places.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9e8ba622f51ed9de46f1a25030b4ad4b90ef0012"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to find the length of each side to four decimal places.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8db749ef2e1dbdb94a714443c8c8a9afc5387f15"
+        ],
+        "Answer": "$$a = 2.0838 , b = 11.8177$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to find the length of each side to four decimal places.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/488c16bcac2cf3c686b2f0e7aae6a8e544348069"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to find the length of each side to four decimal places.",
+        "Question": "$$b = 15 , \\measuredangle B = 15^{\\vysmwhtcircle}$$",
+        "Image Links": [],
+        "Answer": "$$a = 55.9808 , c = 57.9555$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to find the length of each side to four decimal places.",
+        "Question": "$$c = 200 , \\measuredangle B = 5^{\\vysmwhtcircle}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to find the length of each side to four decimal places.",
+        "Question": "$$c = 50 , \\measuredangle B = 21^{\\vysmwhtcircle}$$",
+        "Image Links": [],
+        "Answer": "$$a = 46.6790 , b = 17.9184$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to find the length of each side to four decimal places.",
+        "Question": "$$a = 30 , \\measuredangle A = 27^{\\vysmwhtcircle}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to find the length of each side to four decimal places.",
+        "Question": "$$b = 3.5 , \\measuredangle A = 78^{\\vysmwhtcircle}$$",
+        "Image Links": [],
+        "Answer": "$$a = 16.4662 , c = 16.8341$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Find $$x .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ca30dd39f5afb8dcd92e2c707391340796027d11"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Find $$x .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e6c2f7bc92d4f03d7a254ed8ffe7b4431dbd4c30"
+        ],
+        "Answer": "188.3159",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Find $$x .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e0b7d62e01a0526057c2738e26318435f4f470ca"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Find $$x .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c442e401c8ced64b5c8ba8a10cad511ab359f892"
+        ],
+        "Answer": "200.6737",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "A radio tower is located 400 feet from a building. From a window in the building, a person determines that the angle of elevation to the top of the tower is $$36\u00b0 ,$$ and that the angle of depression to the bottom of the tower is $$23\u00b0 .$$ How tall is the tower?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "A radio tower is located 325 feet from a building. From a window in the building, a person determines that the angle of elevation to the top of the tower is $$43\u00b0 ,$$ and that the angle of depression to the bottom of the tower is $$31\u00b0 .$$ How tall is the tower?",
+        "Image Links": [],
+        "Answer": "498.3471 ft",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "A 200-foot tall monument is located in the distance. From a window in a building, a person determines that the angle of elevation to the top of the monument is $$15\u00b0 ,$$ and that the angle of depression to the bottom of the tower is $$2\u00b0 .$$ How far is the person from the monument?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "A 400-foot tall monument is located in the distance. From a window in a building, a person determines that the angle of elevation to the top of the monument is $$18\u00b0 ,$$ and that the angle of depression to the bottom of the monument is $$3\u00b0 .$$ How far is the person from the monument?",
+        "Image Links": [],
+        "Answer": "1060.09 ft",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "There is an antenna on the top of a building. From a location 300 feet from the base of the building, the angle of elevation to the top of the building is measured to be $$40\u00b0 .$$ From the same location, the angle of elevation to the top of the antenna is measured to be $$43\u00b0 .$$ Find the height of the antenna.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "There is lightning rod on the top of a building. From a location 500 feet from the base of the building, the angle of elevation to the top of the building is measured to be $$36\u00b0 .$$ From the same location, the angle of elevation to the top of the lightning rod is measured to be $$38\u00b0 .$$ Find the height of the lightning rod.",
+        "Image Links": [],
+        "Answer": "27.372 ft",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A 33-ft ladder leans against a building so that the angle between the ground and the ladder is $$80\u00b0 .$$ How high does the ladder reach up the side of the building?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A 23-ft ladder leans against a building so that the angle between the ground and the ladder is $$80\u00b0 .$$ How high does the ladder reach up the side of the building?",
+        "Image Links": [],
+        "Answer": "22.6506 ft",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "The angle of elevation to the top of a building in New York is found to be 9 degrees from the ground at a distance of 1 mile from the base of the building. Using this information, find the height of the building.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "The angle of elevation to the top of a building in Seattle is found to be 2 degrees from the ground at a distance of 2 miles from the base of the building. Using this information, find the height of the building.",
+        "Image Links": [],
+        "Answer": "368.7633 ft",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Assuming that a 370-foot tall giant redwood grows vertically, if I walk a certain distance from the tree and measure the angle of elevation to the top of the tree to be $$60\u00b0 ,$$ how far from the base of the tree am I?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

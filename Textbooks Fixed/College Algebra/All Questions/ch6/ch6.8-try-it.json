@@ -1,0 +1,26 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "Table 2 shows a recent graduate\u2019s credit card balance each month after graduation. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|c|c|}\n\\hline\nMonth & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\\\ \\hline\nDebt ($) & 620.00 & 761.88 & 899.80 & 1039.93 & 1270.63 & 1589.04 & 1851.31 & 2154.92 \\\\ \\hline\n\\end{tabular}\n\\end{table} Table 2 \u24d0 Use exponential regression to fit a model to these data. \u24d1 If spending continues at this rate, what will the graduate\u2019s credit card debt be one year after graduating?",
+        "Image Links": [],
+        "Answer": "\u24d0 The exponential regression model that fits these data is $$y = 522.88585984 ( 1.19645256 )^{x} .$$ \u24d1 If spending continues at this rate, the graduate\u2019s credit card debt will be $4,499.38 after one year.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "Sales of a video game released in the year 2000 took off at first, but then steadily slowed as time moved on. Table 4 shows the number of games sold, in thousands, from the years 2000-2010. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\hline\nYear & 2000 & 2001 & 2002 & 2003 & 2004 & 2005 \\\\ \\hline\nNumber Sold (thousands) & 142 & 149 & 154 & 155 & 159 & 161 \\\\ \\hline\nYear & 2006 & 2007 & 2008 & 2009 & 2010 & - \\\\ \\hline\nNumber Sold (thousands) & 163 & 164 & 164 & 166 & 167 & - \\\\ \\hline\n\\end{tabular}\n\\end{table} Table 4 \u24d0 Let $$x$$ represent time in years starting with $$x = 1$$ for the year 2000. Let $$y$$ represent the number of games sold in thousands. Use logarithmic regression to fit a model to these data. \u24d1 If games continue to sell at this rate, how many games will sell in 2015? Round to the nearest thousand.",
+        "Image Links": [],
+        "Answer": "\u24d0 The logarithmic regression model that fits these data is $$y = 141.91242949 + 10.45366573 \\ln{} ( x )$$ \u24d1 If sales continue at this rate, about 171,000 games will be sold in the year 2015.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "Table 6 shows the population, in thousands, of harbor seals in the Wadden Sea over the years 1997 to 2012. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|}\n\\hline\nYear & Seal Population (Thousands) & Year & Seal Population (Thousands) \\\\ \\hline\n1997 & 3.493 & 2005 & 19.590 \\\\ \\hline\n1998 & 5.282 & 2006 & 21.955 \\\\ \\hline\n1999 & 6.357 & 2007 & 22.862 \\\\ \\hline\n2000 & 9.201 & 2008 & 23.869 \\\\ \\hline\n2001 & 11.224 & 2009 & 24.243 \\\\ \\hline\n2002 & 12.964 & 2010 & 24.344 \\\\ \\hline\n2003 & 16.226 & 2011 & 24.919 \\\\ \\hline\n2004 & 18.137 & 2012 & 25.108 \\\\ \\hline\n\\end{tabular}\n\\end{table} Table 6 \u24d0 Let $$x$$ represent time in years starting with $$x = 0$$ for the year 1997. Let $$y$$ represent the number of seals in thousands. Use logistic regression to fit a model to these data. \u24d1 Use the model to predict the seal population for the year 2020. \u24d2 To the nearest whole number, what is the limiting value of this model?",
+        "Image Links": [],
+        "Answer": "\u24d0 The logistic regression model that fits these data is $$y = \\frac{25.65665979}{1 + 6.113686306 e^{- 0.3852149008 x}} .$$ \u24d1 If the population continues to grow at this rate, there will be about $$\\text{25,634}$$ seals in 2020. \u24d2 To the nearest whole number, the carrying capacity is 25,657.",
+        "Answer Image Links": []
+    }
+]

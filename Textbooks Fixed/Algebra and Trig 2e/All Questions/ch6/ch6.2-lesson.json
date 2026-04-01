@@ -1,0 +1,474 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What role does the horizontal asymptote of an exponential function play in telling us about the end behavior of the graph?",
+        "Image Links": [],
+        "Answer": "An asymptote is a line that the graph of a function approaches, as $$x$$ either increases or decreases without bound. The horizontal asymptote of an exponential function tells us the limit of the function\u2019s values as the independent variable gets either extremely large or extremely small.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What is the advantage of knowing how to recognize transformations of the graph of a parent function algebraically?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "",
+        "Question": "The graph of $$f ( x ) = 3^{x}$$ is reflected about the y -axis and stretched vertically by a factor of $$4.$$ What is the equation of the new function, $$g ( x ) ?$$ State its y -intercept, domain, and range.",
+        "Image Links": [],
+        "Answer": "$$g ( x ) = 4 ( 3 )^{- x} ;$$ y -intercept: $$( 0 , 4 ) ;$$ Domain: all real numbers; Range: all real numbers greater than $$0.$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "",
+        "Question": "The graph of $$f ( x ) = ( \\frac{1}{2} )^{- x}$$ is reflected about the y -axis and compressed vertically by a factor of $$\\frac{1}{5} .$$ What is the equation of the new function, $$g ( x ) ?$$ State its y -intercept, domain, and range.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "",
+        "Question": "The graph of $$f ( x ) = 10^{x}$$ is reflected about the x -axis and shifted upward $$7$$ units. What is the equation of the new function, $$g ( x ) ?$$ State its y -intercept, domain, and range.",
+        "Image Links": [],
+        "Answer": "$$g ( x ) = - 10^{x} + 7 ;$$ y -intercept: $$( 0 , 6 ) ;$$ Domain: all real numbers; Range: all real numbers less than $$7.$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "",
+        "Question": "The graph of $$f ( x ) = ( 1.68 )^{x}$$ is shifted right $$3$$ units, stretched vertically by a factor of $$2 ,$$ reflected about the x -axis, and then shifted downward $$3$$ units. What is the equation of the new function, $$g ( x ) ?$$ State its y -intercept (to the nearest thousandth), domain, and range.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "",
+        "Question": "The graph of $$f ( x ) = - \\frac{1}{2} ( \\frac{1}{4} )^{x - 2} + 4$$ is shifted downward $$4$$ units, and then shifted left $$2$$ units, stretched vertically by a factor of $$4 ,$$ and reflected about the x -axis. What is the equation of the new function, $$g ( x ) ?$$ State its y -intercept, domain, and range.",
+        "Image Links": [],
+        "Answer": "$$g ( x ) = 2 ( \\frac{1}{4} )^{x} ;$$ y -intercept: $$( 0 , \\text{2} ) ;$$ Domain: all real numbers; Range: all real numbers greater than $$0.$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the function and its reflection about the y -axis on the same axes, and give the y -intercept.",
+        "Question": "$$f ( x ) = 3 ( \\frac{1}{2} )^{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the function and its reflection about the y -axis on the same axes, and give the y -intercept.",
+        "Question": "$$g ( x ) = - 2 ( 0.25 )^{x}$$",
+        "Image Links": [],
+        "Answer": "y -intercept: $$( 0 , - 2 )$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ab54c0ff0d791aea36bdb71173aaad8382d310ac"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the function and its reflection about the y -axis on the same axes, and give the y -intercept.",
+        "Question": "$$h ( x ) = 6 ( 1.75 )^{- x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph each set of functions on the same axes.",
+        "Question": "$$f ( x ) = 3 ( \\frac{1}{4} )^{x} ,$$ $$g ( x ) = 3 ( 2 )^{x} ,$$ and $$h ( x ) = 3 ( 4 )^{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0e4f0064259dcbb7e744f6aa1e86cd1ac28ebffe"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph each set of functions on the same axes.",
+        "Question": "$$f ( x ) = \\frac{1}{4} ( 3 )^{x} ,$$ $$g ( x ) = 2 ( 3 )^{x} ,$$ and $$h ( x ) = 4 ( 3 )^{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, match each function with one of the graphs in Figure 12 .\nFigure 12",
+        "Question": "$$f ( x ) = 2 ( 0.69 )^{x}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/761e42ec26da555a73c9edf7a60ad65d4ed04e14"
+        ],
+        "Answer": "B",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, match each function with one of the graphs in Figure 12 .\nFigure 12",
+        "Question": "$$f ( x ) = 2 ( 1.28 )^{x}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/761e42ec26da555a73c9edf7a60ad65d4ed04e14"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, match each function with one of the graphs in Figure 12 .\nFigure 12",
+        "Question": "$$f ( x ) = 2 ( 0.81 )^{x}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/761e42ec26da555a73c9edf7a60ad65d4ed04e14"
+        ],
+        "Answer": "A",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, match each function with one of the graphs in Figure 12 .\nFigure 12",
+        "Question": "$$f ( x ) = 4 ( 1.28 )^{x}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/761e42ec26da555a73c9edf7a60ad65d4ed04e14"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, match each function with one of the graphs in Figure 12 .\nFigure 12",
+        "Question": "$$f ( x ) = 2 ( 1.59 )^{x}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/761e42ec26da555a73c9edf7a60ad65d4ed04e14"
+        ],
+        "Answer": "E",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, match each function with one of the graphs in Figure 12 .\nFigure 12",
+        "Question": "$$f ( x ) = 4 ( 0.69 )^{x}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/761e42ec26da555a73c9edf7a60ad65d4ed04e14"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graphs shown in Figure 13 . All have the form $$f ( x ) = a b^{x} .$$\nFigure 13",
+        "Question": "Which graph has the largest value for $$b ?$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a89abfe18c05d8e42f171c09f9d4db7f46352a36"
+        ],
+        "Answer": "D",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graphs shown in Figure 13 . All have the form $$f ( x ) = a b^{x} .$$\nFigure 13",
+        "Question": "Which graph has the smallest value for $$b ?$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a89abfe18c05d8e42f171c09f9d4db7f46352a36"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graphs shown in Figure 13 . All have the form $$f ( x ) = a b^{x} .$$\nFigure 13",
+        "Question": "Which graph has the largest value for $$a ?$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a89abfe18c05d8e42f171c09f9d4db7f46352a36"
+        ],
+        "Answer": "C",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the graphs shown in Figure 13 . All have the form $$f ( x ) = a b^{x} .$$\nFigure 13",
+        "Question": "Which graph has the smallest value for $$a ?$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a89abfe18c05d8e42f171c09f9d4db7f46352a36"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the function and its reflection about the x -axis on the same axes.",
+        "Question": "$$f ( x ) = \\frac{1}{2} ( 4 )^{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f658c6f60291d9b632e2f072b2392ca750a44fe6"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the function and its reflection about the x -axis on the same axes.",
+        "Question": "$$f ( x ) = 3 ( 0.75 )^{x} - 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the function and its reflection about the x -axis on the same axes.",
+        "Question": "$$f ( x ) = - 4 ( 2 )^{x} + 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ec0eb389e2e60995a5709526293e86f51ab3363f"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the transformation of $$f ( x ) = 2^{x} .$$ Give the horizontal asymptote, the domain, and the range.",
+        "Question": "$$f ( x ) = 2^{- x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the transformation of $$f ( x ) = 2^{x} .$$ Give the horizontal asymptote, the domain, and the range.",
+        "Question": "$$h ( x ) = 2^{x} + 3$$",
+        "Image Links": [],
+        "Answer": "Horizontal asymptote: $$h ( x ) = 3 ;$$ Domain: all real numbers; Range: all real numbers strictly greater than $$3.$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b917c1ebe46f96792fd7ac657cc105487df244cb"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, graph the transformation of $$f ( x ) = 2^{x} .$$ Give the horizontal asymptote, the domain, and the range.",
+        "Question": "$$f ( x ) = 2^{x - 2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, describe the end behavior of the graphs of the functions.",
+        "Question": "$$f ( x ) = - 5 ( 4 )^{x} - 1$$",
+        "Image Links": [],
+        "Answer": "As $$x \\vec{} \\infty$$ , $$f ( x ) \\vec{} - \\infty$$ ; As $$x \\vec{} - \\infty$$ , $$f ( x ) \\vec{} - 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, describe the end behavior of the graphs of the functions.",
+        "Question": "$$f ( x ) = 3 ( \\frac{1}{2} )^{x} - 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, describe the end behavior of the graphs of the functions.",
+        "Question": "$$f ( x ) = 3 ( 4 )^{- x} + 2$$",
+        "Image Links": [],
+        "Answer": "As $$x \\vec{} \\infty$$ , $$f ( x ) \\vec{} 2$$ ; As $$x \\vec{} - \\infty$$ , $$f ( x ) \\vec{} \\infty$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, start with the graph of $$f ( x ) = 4^{x} .$$ Then write a function that results from the given transformation.",
+        "Question": "Shift $$f ( x )$$ 4 units upward",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, start with the graph of $$f ( x ) = 4^{x} .$$ Then write a function that results from the given transformation.",
+        "Question": "Shift $$f ( x )$$ 3 units downward",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = 4^{x} - 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, start with the graph of $$f ( x ) = 4^{x} .$$ Then write a function that results from the given transformation.",
+        "Question": "Shift $$f ( x )$$ 2 units left",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, start with the graph of $$f ( x ) = 4^{x} .$$ Then write a function that results from the given transformation.",
+        "Question": "Shift $$f ( x )$$ 5 units right",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = 4^{x - 5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, start with the graph of $$f ( x ) = 4^{x} .$$ Then write a function that results from the given transformation.",
+        "Question": "Reflect $$f ( x )$$ about the x -axis",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, start with the graph of $$f ( x ) = 4^{x} .$$ Then write a function that results from the given transformation.",
+        "Question": "Reflect $$f ( x )$$ about the y -axis",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = 4^{- x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, each graph is a transformation of $$y = 2^{x} .$$ Write an equation describing the transformation.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d31802a6320f7769196f7b1c8215e491b714eca9"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, each graph is a transformation of $$y = 2^{x} .$$ Write an equation describing the transformation.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/177cf5658adfe6e226efc76939f06902ad8517d6"
+        ],
+        "Answer": "$$y = - 2^{x} + 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, each graph is a transformation of $$y = 2^{x} .$$ Write an equation describing the transformation.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9866b4b753889cc0291a537805461965e92e9b41"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find an exponential equation for the graph.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/eda57792d778c3bc0a481fdf0227607d5db8082c"
+        ],
+        "Answer": "$$y = - 2 ( 3 )^{x} + 7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find an exponential equation for the graph.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f9d6a075af42c735fdaff541c32c59333dd88b05"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, evaluate the exponential functions for the indicated value of $$x .$$",
+        "Question": "$$g ( x ) = \\frac{1}{3} ( 7 )^{x - 2}$$ for $$g ( 6 ) .$$",
+        "Image Links": [],
+        "Answer": "$$g ( 6 ) = 800 + \\frac{1}{3} \\approx 800.3333$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, evaluate the exponential functions for the indicated value of $$x .$$",
+        "Question": "$$f ( x ) = 4 ( 2 )^{x - 1} - 2$$ for $$f ( 5 ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, evaluate the exponential functions for the indicated value of $$x .$$",
+        "Question": "$$h ( x ) = - \\frac{1}{2} ( \\frac{1}{2} )^{x} + 6$$ for $$h ( - 7 ) .$$",
+        "Image Links": [],
+        "Answer": "$$h ( - 7 ) = - 58$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a graphing calculator to approximate the solutions of the equation. Round to the nearest thousandth.",
+        "Question": "$$- 50 = - ( \\frac{1}{2} )^{- x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a graphing calculator to approximate the solutions of the equation. Round to the nearest thousandth.",
+        "Question": "$$116 = \\frac{1}{4} ( \\frac{1}{8} )^{x}$$",
+        "Image Links": [],
+        "Answer": "$$x \\approx - 2.953$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a graphing calculator to approximate the solutions of the equation. Round to the nearest thousandth.",
+        "Question": "$$12 = 2 ( 3 )^{x} + 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a graphing calculator to approximate the solutions of the equation. Round to the nearest thousandth.",
+        "Question": "$$5 = 3 ( \\frac{1}{2} )^{x - 1} - 2$$",
+        "Image Links": [],
+        "Answer": "$$x \\approx - 0.222$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a graphing calculator to approximate the solutions of the equation. Round to the nearest thousandth.",
+        "Question": "$$- 30 = - 4 ( 2 )^{x + 2} + 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Explore and discuss the graphs of $$F ( x ) = ( b )^{x}$$ and $$G ( x ) = ( \\frac{1}{b} )^{x} .$$ Then make a conjecture about the relationship between the graphs of the functions $$b^{x}$$ and $$( \\frac{1}{b} )^{x}$$ for any real number $$b > 0.$$",
+        "Image Links": [],
+        "Answer": "The graph of $$G ( x ) = ( \\frac{1}{b} )^{x}$$ is the refelction about the y -axis of the graph of $$F ( x ) = b^{x} ;$$ For any real number $$b > 0$$ and function $$f ( x ) = b^{x} ,$$ the graph of $$( \\frac{1}{b} )^{x}$$ is the the reflection about the y -axis, $$F ( - x ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Prove the conjecture made in the previous exercise.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Explore and discuss the graphs of $$f ( x ) = 4^{x} ,$$ $$g ( x ) = 4^{x - 2} ,$$ and $$h ( x ) = ( \\frac{1}{16} ) 4^{x} .$$ Then make a conjecture about the relationship between the graphs of the functions $$b^{x}$$ and $$( \\frac{1}{b^{n}} ) b^{x}$$ for any real number n and real number $$b > 0.$$",
+        "Image Links": [],
+        "Answer": "The graphs of $$g ( x )$$ and $$h ( x )$$ are the same and are a horizontal shift to the right of the graph of $$f ( x ) ;$$ For any real number n , real number $$b > 0 ,$$ and function $$f ( x ) = b^{x} ,$$ the graph of $$( \\frac{1}{b^{n}} ) b^{x}$$ is the horizontal shift $$f ( x - n ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Prove the conjecture made in the previous exercise.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

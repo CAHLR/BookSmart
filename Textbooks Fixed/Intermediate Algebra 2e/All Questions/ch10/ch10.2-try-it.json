@@ -1,0 +1,146 @@
+[
+    {
+        "Topic": "Try It 10.19",
+        "Problem Statement": "",
+        "Question": "Graph: $$f ( x ) = 4^{x} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9b6324c84881f5160e79ba7aa4cf3a4417fdf18a"
+        ]
+    },
+    {
+        "Topic": "Try It 10.20",
+        "Problem Statement": "",
+        "Question": "Graph: $$g ( x ) = 5^{x} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/10108e18b46730ed477ea5f65ea0fa8f9da769a9"
+        ]
+    },
+    {
+        "Topic": "Try It 10.21",
+        "Problem Statement": "",
+        "Question": "Graph: $$f ( x ) = ( \\frac{1}{4} )^{x} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3b96d4940d5dfa31351c5a948da52abaa5f84ee9"
+        ]
+    },
+    {
+        "Topic": "Try It 10.22",
+        "Problem Statement": "",
+        "Question": "Graph: $$g ( x ) = ( \\frac{1}{5} )^{x} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3229d593e92e0bf18f5468dcd029be327df66134"
+        ]
+    },
+    {
+        "Topic": "Try It 10.23",
+        "Problem Statement": "",
+        "Question": "On the same coordinate system, graph: $$f ( x ) = 2^{x}$$ and $$g ( x ) = 2^{x - 1} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/60faf2cd98815110e5c269bd6dcc78e4bb6691ed"
+        ]
+    },
+    {
+        "Topic": "Try It 10.24",
+        "Problem Statement": "",
+        "Question": "On the same coordinate system, graph: $$f ( x ) = 3^{x}$$ and $$g ( x ) = 3^{x + 1} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/53c58fae2c086701f432d2bf86d24091ca3bf9ee"
+        ]
+    },
+    {
+        "Topic": "Try It 10.25",
+        "Problem Statement": "",
+        "Question": "On the same coordinate system, graph: $$f ( x ) = 3^{x}$$ and $$g ( x ) = 3^{x} + 2 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0a97973255231d7a537eac6e60e19957fb4bf6ea"
+        ]
+    },
+    {
+        "Topic": "Try It 10.26",
+        "Problem Statement": "",
+        "Question": "On the same coordinate system, graph: $$f ( x ) = 4^{x}$$ and $$g ( x ) = 4^{x} - 2 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/726e5a1d0470d2e0708b47203b721615f482018c"
+        ]
+    },
+    {
+        "Topic": "Try It 10.27",
+        "Problem Statement": "",
+        "Question": "Solve: $$3^{3 x - 2} = 81 .$$",
+        "Image Links": [],
+        "Answer": "$$x = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.28",
+        "Problem Statement": "",
+        "Question": "Solve: $$7^{x - 3} = 7 .$$",
+        "Image Links": [],
+        "Answer": "$$x = 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.29",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\frac{e^{x^{2}}}{e^{x}} = e^{2} .$$",
+        "Image Links": [],
+        "Answer": "$$x = -1 , x = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.30",
+        "Problem Statement": "",
+        "Question": "Solve: $$\\frac{e^{x^{2}}}{e^{x}} = e^{6} .$$",
+        "Image Links": [],
+        "Answer": "$$x = -2 , x = 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.31",
+        "Problem Statement": "",
+        "Question": "Angela invested $$\\text{$} 15,000$$ in a savings account. If the interest rate is $$4 \\text{%} ,$$ how much will be in the account in 10 years by each method of compounding? \u24d0 compound quarterly \u24d1 compound monthly \u24d2 compound continuously",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\text{$} 22,332.96$$ \u24d1 $$\\text{$} 22,362.49$$ \u24d2 $$\\text{$} 22,377.37$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.32",
+        "Problem Statement": "",
+        "Question": "Allan invested $10,000 in a mutual fund. If the interest rate is $$5 \\text{%} ,$$ how much will be in the account in 15 years by each method of compounding? \u24d0 compound quarterly \u24d1 compound monthly \u24d2 compound continuously",
+        "Image Links": [],
+        "Answer": "\u24d0 $21,071.81 \u24d1 $21,137.04 \u24d2 $21,170.00",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.33",
+        "Problem Statement": "",
+        "Question": "Another researcher at the Center for Disease Control and Prevention, Lisa, is studying the growth of a bacteria. She starts her experiment with 50 of the bacteria that grows at a rate of $$15 \\text{%}$$ per hour. She will check on the bacteria every 8 hours. How many bacteria will she find in 8 hours?",
+        "Image Links": [],
+        "Answer": "She will find 166 bacteria.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 10.34",
+        "Problem Statement": "",
+        "Question": "Milan, a biologist is observing the growth pattern of a virus. They start with 100 of the virus that grows at a rate of $$10 \\text{%}$$ per hour. They will check on the virus in 24 hours. How many viruses will they find?",
+        "Image Links": [],
+        "Answer": "They will find 1,102 viruses.",
+        "Answer Image Links": []
+    }
+]

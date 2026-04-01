@@ -1,0 +1,26 @@
+[
+    {
+        "Topic": "Check Your Understanding 5.4",
+        "Problem Statement": "",
+        "Question": "How would the strategy used above change to calculate the electric field at a point a distance z above one end of the finite line segment?",
+        "Image Links": [],
+        "Answer": "We will no longer be able to take advantage of symmetry. Instead, we will need to calculate each of the two components of the electric field with their own integral.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 5.5",
+        "Problem Statement": "",
+        "Question": "How would the above limit change with a uniformly charged rectangle instead of a disk?",
+        "Image Links": [],
+        "Answer": "The point charge would be $$Q = \\sigma a b$$ where a and b are the sides of the rectangle but otherwise identical.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 5.6",
+        "Problem Statement": "",
+        "Question": "What would the electric field look like in a system with two parallel positively charged planes with equal charge densities?",
+        "Image Links": [],
+        "Answer": "The electric field would be zero in between, and have magnitude $$\\frac{\\sigma}{\\varepsilon_{0}}$$ everywhere else.",
+        "Answer Image Links": []
+    }
+]

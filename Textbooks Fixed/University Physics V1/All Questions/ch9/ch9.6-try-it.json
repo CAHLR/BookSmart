@@ -1,0 +1,26 @@
+[
+    {
+        "Topic": "Check Your Understanding 9.11",
+        "Problem Statement": "",
+        "Question": "Suppose we included the sun in the system. Approximately where would the center of mass of the Earth-moon-sun system be located? (Feel free to actually calculate it.)",
+        "Image Links": [],
+        "Answer": "The average radius of Earth\u2019s orbit around the Sun is $$1.496 \\times 10^{9} \\text{m}$$ . Taking the Sun to be the origin, and noting that the mass of the Sun is approximately the same as the masses of the Sun, Earth, and Moon combined, the center of mass of the Earth + Moon system and the Sun is $$\\left .\\begin{matrix}{aa}R_{\\text{CM}} & = \\frac{m_{\\mathrm{Sun}} R_{\\mathrm{Sun}} + m_{\\text{em}} R_{\\text{em}}}{m_{\\mathrm{Sun}}} \\\\  & = \\frac{( 1.989 \\times 10^{30} \\text{kg} ) ( 0 ) + ( 5.97 \\times 10^{24} \\text{kg} + 7.36 \\times 10^{22} \\text{kg} ) ( 1.496 \\times 10^{9} \\text{m} )}{1.989 \\times 10^{30} \\text{kg}} \\\\  & = 4.6 \\text{km}\\end{matrix}\\right .$$ Thus, the center of mass of the Sun, Earth, Moon system is 4.6 km from the center of the Sun.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 9.12",
+        "Problem Statement": "",
+        "Question": "Suppose you have a macroscopic salt crystal (that is, a crystal that is large enough to be visible with your unaided eye). It is made up of a huge number of unit cells. Is the center of mass of this crystal necessarily at the geometric center of the crystal?",
+        "Image Links": [],
+        "Answer": "On a macroscopic scale, the size of a unit cell is negligible and the crystal mass may be considered to be distributed homogeneously throughout the crystal. Thus, $$\\mathbf{\\vec{r}}_{\\text{CM}} = \\frac{1}{M} \\sum_{j = 1}^{N} m_{j} \\vec{r}_{j} = \\frac{1}{M} \\sum_{j = 1}^{N} m \\vec{r}_{j} = \\frac{m}{M} \\sum_{j = 1}^{N} \\vec{r}_{j} = \\frac{N m}{M} \\frac{\\sum_{j = 1}^{N} \\vec{r}_{j}}{N}$$ where we sum over the number N of unit cells in the crystal and m is the mass of a unit cell. Because Nm = M , we can write $$\\mathbf{\\vec{r}}_{\\text{CM}} = \\frac{m}{M} \\sum_{j = 1}^{N} \\vec{r}_{j} = \\frac{N m}{M} \\frac{\\sum_{j = 1}^{N} \\vec{r}_{j}}{N} = \\frac{1}{N} \\sum_{j = 1}^{N} \\vec{r}_{j} .$$ This is the definition of the geometric center of the crystal, so the center of mass is at the same point as the geometric center.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 9.13",
+        "Problem Statement": "",
+        "Question": "How would the firework display change in deep space, far away from any source of gravity?",
+        "Image Links": [],
+        "Answer": "The explosions would essentially be spherically symmetric, because gravity would not act to distort the trajectories of the expanding projectiles.",
+        "Answer Image Links": []
+    }
+]

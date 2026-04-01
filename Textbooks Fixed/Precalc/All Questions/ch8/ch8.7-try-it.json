@@ -1,0 +1,32 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "Sketch the graph of the parametric equations $$x = \\sqrt{t} ,$$ $$y = 2 t + 3 ,$$ $$0 \\le t \\le 3.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5a648144babb4dd4e08a1611cead7856231ff4e7"
+        ]
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "Graph the parametric equations: $$x = 5 \\cos{} t ,$$ $$y = 3 \\sin{} t .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2f2ed4dddafe78c5d1c0e38d229a62b6fc0673ea"
+        ]
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "Sketch the graph of the parametric equations $$x = 2 \\cos{} \\theta \\text{and} y = 4 \\sin{} \\theta ,$$ along with the rectangular equation on the same grid.",
+        "Image Links": [],
+        "Answer": "The graph of the parametric equations is in red and the graph of the rectangular equation is drawn in blue dots on top of the parametric equations.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/994011c9d17beb64f9dc4af835f756ba8beb1b37"
+        ]
+    }
+]

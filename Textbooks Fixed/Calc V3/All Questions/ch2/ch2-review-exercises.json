@@ -1,0 +1,224 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the statement is true or false . Justify the answer with a proof or a counterexample.",
+        "Question": "For vectors $$\\mathbf{\\text{a}}$$ and $$\\mathbf{\\text{b}}$$ and any given scalar $$c ,$$ $$c ( \\mathbf{\\text{a}} \\cdotp \\mathbf{\\text{b}} ) = ( c \\mathbf{\\text{a}} ) \\cdotp \\mathbf{\\text{b}} .$$",
+        "Image Links": [],
+        "Answer": "True",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the statement is true or false . Justify the answer with a proof or a counterexample.",
+        "Question": "For vectors $$\\mathbf{\\text{a}}$$ and $$\\mathbf{\\text{b}}$$ and any given scalar $$c ,$$ $$c ( \\mathbf{\\text{a}} \\times \\mathbf{\\text{b}} ) = ( c \\mathbf{\\text{a}} ) \\times \\mathbf{\\text{b}} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the statement is true or false . Justify the answer with a proof or a counterexample.",
+        "Question": "The symmetric equation for the line of intersection between two planes $$x + y + z = 2$$ and $$x + 2 y - 4 z = 5$$ is given by $$- \\frac{x - 1}{6} = \\frac{y - 1}{5} = z .$$",
+        "Image Links": [],
+        "Answer": "False",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the statement is true or false . Justify the answer with a proof or a counterexample.",
+        "Question": "If $$\\mathbf{\\text{a}} \\cdotp \\mathbf{\\text{b}} = 0 ,$$ then $$\\mathbf{\\text{a}}$$ is perpendicular to $$\\mathbf{\\text{b}} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the given vectors to find the quantities.",
+        "Question": "$$\\mathbf{\\text{a}} = 9 \\mathbf{\\text{i}} - 2 \\mathbf{\\text{j}} , \\mathbf{\\text{b}} = -3 \\mathbf{\\text{i}} + \\mathbf{\\text{j}}$$ $$3 \\mathbf{\\text{a}} + \\mathbf{\\text{b}}$$ $$\\Vert \\mathbf{\\text{a}} \\Vert$$ $$\\mathbf{\\text{a}} \\times \\Vert \\mathbf{\\text{b}} \\times \\mathbf{\\text{c}} \\Vert$$ $$\\mathbf{\\text{b}} \\cdotp \\mathbf{\\text{a}}$$",
+        "Image Links": [],
+        "Answer": "a. $$\\langle 24 , -5 \\rangle ;$$ b. $$\\sqrt{85} ;$$ c. Can\u2019t cross a vector with a scalar; d. $$-29$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the given vectors to find the quantities.",
+        "Question": "$$\\mathbf{\\text{a}} = 2 \\mathbf{\\text{i}} + \\mathbf{\\text{j}} - 9 \\mathbf{\\text{k}} , \\mathbf{\\text{b}} = \\text{unicode[:-]} \\mathbf{\\text{i}} + 2 \\mathbf{\\text{k}} , \\mathbf{\\text{c}} = 4 \\mathbf{\\text{i}} - 2 \\mathbf{\\text{j}} + \\mathbf{\\text{k}}$$ $$2 \\mathbf{\\text{a}} - \\mathbf{\\text{b}}$$ $$\\mathbf{\\text{b}} \\times \\mathbf{\\text{c}}$$ $$\\mathbf{\\text{b}} \\times \\Vert \\mathbf{\\text{b}} \\times \\mathbf{\\text{c}} \\Vert$$ $$\\mathbf{\\text{c}} \\times \\Vert \\mathbf{\\text{b}} \\times \\mathbf{\\text{a}} \\Vert$$ $$\\text{proj}_{\\mathbf{\\text{a}}} \\mathbf{\\text{b}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the given vectors to find the quantities.",
+        "Question": "Find the values of $$a$$ such that vectors $$\\langle 2 , 4 , a \\rangle$$ and $$\\langle 0 , -1 , a \\rangle$$ are orthogonal.",
+        "Image Links": [],
+        "Answer": "$$a = \\text{unicode[:+-]} 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the unit vectors.",
+        "Question": "Find the unit vector that has the same direction as vector $$\\mathbf{\\text{v}}$$ that begins at $$( 0 , -3 )$$ and ends at $$( 4 , 10 ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the unit vectors.",
+        "Question": "Find the unit vector that has the same direction as vector $$\\mathbf{\\text{v}}$$ that begins at $$( 1 , 4 , 10 )$$ and ends at $$( 3 , 0 , 4 ) .$$",
+        "Image Links": [],
+        "Answer": "$$\\langle \\frac{1}{\\sqrt{14}} , - \\frac{2}{\\sqrt{14}} , - \\frac{3}{\\sqrt{14}} \\rangle$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the area or volume of the given shapes.",
+        "Question": "The parallelogram spanned by vectors $$\\mathbf{\\text{a}} = \\langle 1 , 13 \\rangle \\text{and} \\mathbf{\\text{b}} = \\langle 3 , 21 \\rangle$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the area or volume of the given shapes.",
+        "Question": "The parallelepiped formed by $$\\mathbf{\\text{a}} = \\langle 1 , 4 , 1 \\rangle \\text{and} \\mathbf{\\text{b}} = \\langle 3 , 6 , 2 \\rangle ,$$ and $$\\mathbf{\\text{c}} = \\langle -2 , 1 , -5 \\rangle$$",
+        "Image Links": [],
+        "Answer": "$$27$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the vector and parametric equations of the line with the given properties.",
+        "Question": "The line that passes through point $$( 2 , -3 , 7 )$$ that is parallel to vector $$\\langle 1 , 3 , -2 \\rangle$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the vector and parametric equations of the line with the given properties.",
+        "Question": "The line that passes through points $$( 1 , 3 , 5 )$$ and $$( -2 , 6 , -3 )$$",
+        "Image Links": [],
+        "Answer": "$$x = 1 - 3 t , y = 3 + 3 t , z = 5 - 8 t , \\mathbf{\\text{r}} ( t ) = ( 1 - 3 t ) \\mathbf{\\text{i}} + 3 ( 1 + t ) \\mathbf{\\text{j}} + ( 5 - 8 t ) \\mathbf{\\text{k}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the equation of the plane with the given properties.",
+        "Question": "The plane that passes through point $$( 4 , 7 , -1 )$$ and has normal vector $$\\mathbf{\\text{n}} = \\langle 3 , 4 , 2 \\rangle$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the equation of the plane with the given properties.",
+        "Question": "The plane that passes through points $$( 0 , 1 , 5 ) , ( 2 , -1 , 6 ) , \\text{and} ( 3 , 2 , 5 ) .$$",
+        "Image Links": [],
+        "Answer": "$$\\text{unicode[:-]} x + 3 y + 8 z = 43$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the traces for the surfaces in planes $$x = k , y = k , \\text{and} z = k .$$ Then, describe and draw the surfaces.",
+        "Question": "$$9 x^{2} + 4 y^{2} - 16 y + 36 z^{2} = 20$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the traces for the surfaces in planes $$x = k , y = k , \\text{and} z = k .$$ Then, describe and draw the surfaces.",
+        "Question": "$$x^{2} = y^{2} + z^{2}$$",
+        "Image Links": [],
+        "Answer": "$$x = k$$ trace: $$k^{2} = y^{2} + z^{2}$$ is a circle, $$y = k$$ trace: $$x^{2} - z^{2} = k^{2}$$ is a hyperbola (or a pair of lines if $$k = 0 ) ,$$ $$z = k$$ trace: $$x^{2} - y^{2} = k^{2}$$ is a hyperbola (or a pair of lines if $$k = 0 ) .$$ The surface is a cone.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f65afb6031d920b2f7ac614e2e17d959284a5c64"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the given equation in cylindrical coordinates and spherical coordinates.",
+        "Question": "$$x^{2} + y^{2} + z^{2} = 144$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, write the given equation in cylindrical coordinates and spherical coordinates.",
+        "Question": "$$z = x^{2} + y^{2} - 1$$",
+        "Image Links": [],
+        "Answer": "Cylindrical: $$z = r^{2} - 1 ,$$ spherical: $$\\text{cos} \\phi = \\rho \\text{sin}^{2} \\phi - \\frac{1}{\\rho}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, convert the given equations from cylindrical or spherical coordinates to rectangular coordinates. Identify the given surface.",
+        "Question": "$$\\rho^{2} ( \\text{sin}^{2} ( \\phi ) - \\text{cos}^{2} ( \\phi ) ) = 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, convert the given equations from cylindrical or spherical coordinates to rectangular coordinates. Identify the given surface.",
+        "Question": "$$r^{2} - 2 r \\text{cos} ( \\theta ) + z^{2} = 1$$",
+        "Image Links": [],
+        "Answer": "$$x^{2} - 2 x + y^{2} + z^{2} = 1 ,$$ sphere",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider a small boat crossing a river.",
+        "Question": "If the boat velocity is $$5$$ km/h due north in still water and the water has a current of $$2$$ km/h due west (see the following figure), what is the velocity of the boat relative to shore? What is the angle $$\\theta$$ that the boat is actually traveling?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2aaa611cedb8da050318045d55f083362adbddb6"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider a small boat crossing a river.",
+        "Question": "When the boat reaches the shore, two ropes are thrown to people to help pull the boat ashore. One rope is at an angle of $$25 \\text{\u00b0}$$ and the other is at $$35 \\text{\u00b0} .$$ If the boat must be pulled straight and at a force of $$500 \\text{N} ,$$ find the magnitude of force for each rope (see the following figure).",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/16b25b9bcd99a6a9822ab04e32431767aaeeeac8"
+        ],
+        "Answer": "331 N, and 244 N",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider a small boat crossing a river.",
+        "Question": "An airplane is flying in the direction of 52\u00b0 east of north with a speed of 450 mph. A strong wind has a bearing 33\u00b0 east of north with a speed of 50 mph. What is the resultant ground speed and bearing of the airplane?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider a small boat crossing a river.",
+        "Question": "Calculate the work done by moving a particle from position $$( 1 , 2 , 0 )$$ to $$( 8 , 4 , 5 )$$ along a straight line with a force $$\\mathbf{\\text{F}} = 2 \\mathbf{\\text{i}} + 3 \\mathbf{\\text{j}} - \\mathbf{\\text{k}} .$$",
+        "Image Links": [],
+        "Answer": "$$15 \\text{J}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The following problems consider your unsuccessful attempt to take the tire off your car using a wrench to loosen the bolts. Assume the wrench is $$0.3$$ m long and you are able to apply a 200-N force.",
+        "Question": "Because your tire is flat, you are only able to apply your force at a $$60 \\text{\u00b0}$$ angle. What is the torque at the center of the bolt? Assume this force is not enough to loosen the bolt.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The following problems consider your unsuccessful attempt to take the tire off your car using a wrench to loosen the bolts. Assume the wrench is $$0.3$$ m long and you are able to apply a 200-N force.",
+        "Question": "Someone lends you a tire jack and you are now able to apply a 200-N force at an $$80 \\text{\u00b0}$$ angle. Is your resulting torque going to be more or less? What is the new resulting torque at the center of the bolt? Assume this force is not enough to loosen the bolt.",
+        "Image Links": [],
+        "Answer": "More, $$59.09$$ J",
+        "Answer Image Links": []
+    }
+]

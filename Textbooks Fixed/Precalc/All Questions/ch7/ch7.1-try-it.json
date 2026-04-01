@@ -1,0 +1,42 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "Verify the identity $$\\csc{\\theta} \\cos{} \\theta \\tan{} \\theta = 1.$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{a}\\csc{\\theta} \\cos{} \\theta \\tan{} \\theta = ( \\frac{1}{\\sin{\\theta}} ) \\cos{} \\theta ( \\frac{\\sin{\\theta}}{\\cos{\\theta}} ) \\\\ \\text{quadquadquadquadquadquadquadquadquad\u00a0} = \\frac{\\cos{\\theta}}{\\sin{\\theta}} ( \\frac{\\sin{\\theta}}{\\cos{\\theta}} ) \\\\ \\text{quadquadquadquadquadquadquadquadquad\u00a0} = \\frac{\\sin{\\theta} \\cos{} \\theta}{\\sin{\\theta} \\cos{} \\theta} \\\\ \\text{quadquadquadquadquadquadquadquadquad\u00a0} = 1\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "Show that $$\\frac{\\cot{\\theta}}{\\csc{\\theta}} = \\cos{} \\theta .$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{a}\\frac{\\cot{\\theta}}{\\csc{\\theta}} = \\frac{\\frac{\\cos{\\theta}}{\\sin{\\theta}}}{\\frac{1}{\\sin{\\theta}}} \\\\ \\text{quadquadquad\u00a0} = \\frac{\\cos{\\theta}}{\\sin{\\theta}} \\cdot \\frac{\\sin{\\theta}}{1} \\\\ \\text{quadquadquad\u00a0} = \\cos{} \\theta\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "Verify the identity $$\\frac{\\sin{}^{2} \\theta - 1}{\\tan{\\theta} \\sin{} \\theta - \\tan{} \\theta} = \\frac{\\sin{\\theta} + 1}{\\tan{\\theta}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{a}\\frac{\\sin{}^{2} \\theta - 1}{\\tan{\\theta} \\sin{} \\theta - \\tan{} \\theta} = \\frac{( \\sin{\\theta} + 1 ) ( \\sin{\\theta} - 1 )}{\\tan{\\theta} ( \\sin{\\theta} - 1 )} \\\\ = \\frac{\\sin{\\theta} + 1}{\\tan{\\theta}}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "Rewrite the trigonometric expression: $$25 - 9 \\sin{}^{2} \\theta .$$",
+        "Image Links": [],
+        "Answer": "This is a difference of squares formula: $$25 - 9 \\sin{}^{2} \\theta = ( 5 - 3 \\sin{} \\theta ) ( 5 + 3 \\sin{} \\theta ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #5",
+        "Problem Statement": "",
+        "Question": "Use algebraic techniques to verify the identity: $$\\frac{\\cos{\\theta}}{1 + \\sin{} \\theta} = \\frac{1 - \\sin{} \\theta}{\\cos{\\theta}} .$$ (Hint: Multiply the numerator and denominator on the left side by $$1 - \\sin{} \\theta . )$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{a}\\frac{\\cos{\\theta}}{1 + \\sin{} \\theta} ( \\frac{1 - \\sin{} \\theta}{1 - \\sin{} \\theta} ) = \\frac{\\cos{\\theta} ( 1 - \\sin{} \\theta )}{1 - \\sin{}^{2} \\theta} \\\\ \\text{quadquadquadquadquadquadquadquadquadquadquadquadquadquadquad\u00a0} = \\frac{\\cos{\\theta} ( 1 - \\sin{} \\theta )}{\\cos{}^{2} \\theta} \\\\ \\text{quadquadquadquadquadquadquadquadquadquadquadquadquadquadquad\u00a0} = \\frac{1 - \\sin{} \\theta}{\\cos{\\theta}}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    }
+]

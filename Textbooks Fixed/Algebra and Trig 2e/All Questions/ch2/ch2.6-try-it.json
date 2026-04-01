@@ -1,0 +1,82 @@
+[
+    {
+        "Topic": "Try It #1",
+        "Problem Statement": "",
+        "Question": "Evaluate $$64^{- \\frac{1}{3}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #2",
+        "Problem Statement": "",
+        "Question": "Solve the equation $$x^{\\frac{3}{2}} = 125.$$",
+        "Image Links": [],
+        "Answer": "$$25$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #3",
+        "Problem Statement": "",
+        "Question": "Solve: $$( x + 5 )^{\\frac{3}{2}} = 8.$$",
+        "Image Links": [],
+        "Answer": "$$\\{ -1 \\}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #4",
+        "Problem Statement": "",
+        "Question": "Solve by factoring: $$12 x^{4} = 3 x^{2} .$$",
+        "Image Links": [],
+        "Answer": "$$0 ,$$ $$\\frac{1}{2} ,$$ $$- \\frac{1}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #5",
+        "Problem Statement": "",
+        "Question": "Solve the radical equation: $$\\sqrt{x + 3} = 3 x - 1$$",
+        "Image Links": [],
+        "Answer": "$$1 ;$$ extraneous solution $$- \\frac{2}{9}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #6",
+        "Problem Statement": "",
+        "Question": "Solve the equation with two radicals: $$\\sqrt{3 x + 7} + \\sqrt{x + 2} = 1.$$",
+        "Image Links": [],
+        "Answer": "$$-2 ;$$ extraneous solution $$-1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #7",
+        "Problem Statement": "",
+        "Question": "Solve the absolute value equation: $$| 1 - 4 x | + 8 = 13.$$",
+        "Image Links": [],
+        "Answer": "$$-1 ,$$ $$\\frac{3}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #8",
+        "Problem Statement": "",
+        "Question": "Solve using substitution: $$x^{4} - 8 x^{2} - 9 = 0.$$",
+        "Image Links": [],
+        "Answer": "$$-3 , 3 , - i , i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #9",
+        "Problem Statement": "",
+        "Question": "Solve: $$( x - 5 )^{2} - 4 ( x - 5 ) - 21 = 0.$$",
+        "Image Links": [],
+        "Answer": "$$2 , 12$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It #10",
+        "Problem Statement": "",
+        "Question": "Solve $$\\frac{3 x + 2}{x - 2} + \\frac{1}{x} = \\frac{- 2}{x^{2} - 2 x} .$$",
+        "Image Links": [],
+        "Answer": "$$-1 ,$$ $$0$$ is not a solution.",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "Topic": "Check Your Understanding 10.2",
+        "Problem Statement": "",
+        "Question": "A centrifuge used in DNA extraction spins at a maximum rate of 7000 rpm, producing a \u201cg-force\u201d on the sample that is 6000 times the force of gravity. If the centrifuge takes 10 seconds to come to rest from the maximum spin rate: (a) What is the angular acceleration of the centrifuge? (b) What is the angular displacement of the centrifuge during this time?",
+        "Image Links": [],
+        "Answer": "a. Using Equation 10.11, we have $$7000 \\text{rpm} = \\frac{7000.0 ( 2 \\pi \\text{rad} )}{60.0 \\text{s}} = 733.0 \\text{rad} \\text{/} \\text{s} ,$$ $$\\alpha = \\frac{\\upomega - \\upomega_{0}}{t} = \\frac{733.0 \\text{rad} \\text{/} \\text{s}}{10.0 \\text{s}} = 73.3 \\text{rad} \\text{/} \\text{s}^{2}$$ ; b. Using Equation 10.13, we have $$\\upomega^{2} = \\upomega_{0}^{2} + 2 \\alpha \\text{Delta} \\theta \\Rightarrow \\text{Delta} \\theta = \\frac{\\upomega^{2} - \\upomega_{0}^{2}}{2 \\alpha} = \\frac{0 - ( 733.0 \\text{rad} \\text{/} \\text{s} )^{2}}{2 ( 73.3 \\text{rad} \\text{/} \\text{s}^{2} )} = 3665.2 \\text{rad}$$",
+        "Answer Image Links": []
+    }
+]

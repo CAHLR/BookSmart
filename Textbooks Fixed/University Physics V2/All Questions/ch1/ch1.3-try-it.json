@@ -1,0 +1,18 @@
+[
+    {
+        "Topic": "Check Your Understanding 1.1",
+        "Problem Statement": "",
+        "Question": "Does a given reading on a gasoline gauge indicate more gasoline in cold weather or in hot weather, or does the temperature not matter?",
+        "Image Links": [],
+        "Answer": "The actual amount (mass) of gasoline left in the tank when the gauge hits \u201cempty\u201d is less in the summer than in the winter. The gasoline has the same volume as it does in the winter when the \u201cadd fuel\u201d light goes on, but because the gasoline has expanded, there is less mass.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 1.2",
+        "Problem Statement": "",
+        "Question": "Two objects A and B have the same dimensions and are constrained identically. A is made of a material with a higher thermal expansion coefficient than B . If the objects are heated identically, will A feel a greater stress than B ?",
+        "Image Links": [],
+        "Answer": "Not necessarily, as the thermal stress is also proportional to Young\u2019s modulus.",
+        "Answer Image Links": []
+    }
+]

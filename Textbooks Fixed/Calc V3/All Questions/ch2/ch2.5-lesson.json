@@ -1,0 +1,492 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, points $$P$$ and $$Q$$ are given. Let $$L$$ be the line passing through points $$P$$ and $$Q .$$ a) Find the vector equation of line $$L .$$ b) Find parametric equations of line $$L .$$ c) Find symmetric equations of line $$L .$$ d) Find parametric equations of the line segment determined by $$P$$ and $$Q .$$",
+        "Question": "$$P ( -3 , 5 , 9 ) ,$$ $$Q ( 4 , -7 , 2 )$$",
+        "Image Links": [],
+        "Answer": "a. $$\\mathbf{\\text{r}} = \\langle -3 , 5 , 9 \\rangle + t \\langle 7 , -12 , -7 \\rangle ,$$ $$t \\in \\RR \\text{;}$$ b. $$x = -3 + 7 t , y = 5 - 12 t , z = 9 - 7 t ,$$ $$t \\in \\RR \\text{;}$$ c. $$\\frac{x + 3}{7} = \\frac{y - 5}{-12} = \\frac{z - 9}{-7} ;$$ d. $$x = -3 + 7 t , y = 5 - 12 t , z = 9 - 7 t ,$$ $$t \\in [ 0 , 1 ]$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, points $$P$$ and $$Q$$ are given. Let $$L$$ be the line passing through points $$P$$ and $$Q .$$ a) Find the vector equation of line $$L .$$ b) Find parametric equations of line $$L .$$ c) Find symmetric equations of line $$L .$$ d) Find parametric equations of the line segment determined by $$P$$ and $$Q .$$",
+        "Question": "$$P ( 4 , 0 , 5 ) , Q ( 2 , 3 , 1 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, points $$P$$ and $$Q$$ are given. Let $$L$$ be the line passing through points $$P$$ and $$Q .$$ a) Find the vector equation of line $$L .$$ b) Find parametric equations of line $$L .$$ c) Find symmetric equations of line $$L .$$ d) Find parametric equations of the line segment determined by $$P$$ and $$Q .$$",
+        "Question": "$$P ( -1 , 0 , 5 ) ,$$ $$Q ( 4 , 0 , 3 )$$",
+        "Image Links": [],
+        "Answer": "a. $$\\mathbf{\\text{r}} = \\langle -1 , 0 , 5 \\rangle + t \\langle 5 , 0 , -2 \\rangle ,$$ $$t \\in \\RR ;$$ b. $$x = -1 + 5 t , y = 0 , z = 5 - 2 t ,$$ $$t \\in \\RR ;$$ c. $$\\frac{x + 1}{5} = \\frac{z - 5}{-2} , y = 0 ;$$ d. $$x = -1 + 5 t , y = 0 , z = 5 - 2 t ,$$ $$t \\in [ 0 , 1 ]$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, points $$P$$ and $$Q$$ are given. Let $$L$$ be the line passing through points $$P$$ and $$Q .$$ a) Find the vector equation of line $$L .$$ b) Find parametric equations of line $$L .$$ c) Find symmetric equations of line $$L .$$ d) Find parametric equations of the line segment determined by $$P$$ and $$Q .$$",
+        "Question": "$$P ( 7 , -2 , 6 ) ,$$ $$Q ( -3 , 0 , 6 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, point $$P$$ and vector $$\\mathbf{\\text{v}}$$ are given. Let $$L$$ be the line passing through point $$P$$ with direction $$\\mathbf{\\text{v}} .$$ a) Find parametric equations of line $$L .$$ b) Find symmetric equations of line $$L .$$ c) Find the intersection of the line with the xy -plane.",
+        "Question": "$$P ( 1 , -2 , 3 ) ,$$ $$\\mathbf{\\text{v}} = \\langle 1 , 2 , 3 \\rangle$$",
+        "Image Links": [],
+        "Answer": "a. $$x = 1 + t , y = -2 + 2 t , z = 3 + 3 t ,$$ $$t \\in \\RR \\text{;}$$ b. $$\\frac{x - 1}{1} = \\frac{y + 2}{2} = \\frac{z - 3}{3} ;$$ c. $$( 0 , -4 , 0 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, point $$P$$ and vector $$\\mathbf{\\text{v}}$$ are given. Let $$L$$ be the line passing through point $$P$$ with direction $$\\mathbf{\\text{v}} .$$ a) Find parametric equations of line $$L .$$ b) Find symmetric equations of line $$L .$$ c) Find the intersection of the line with the xy -plane.",
+        "Question": "$$P ( 3 , 1 , 5 ) ,$$ $$\\mathbf{\\text{v}} = \\langle 1 , 1 , 1 \\rangle$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, point $$P$$ and vector $$\\mathbf{\\text{v}}$$ are given. Let $$L$$ be the line passing through point $$P$$ with direction $$\\mathbf{\\text{v}} .$$ a) Find parametric equations of line $$L .$$ b) Find symmetric equations of line $$L .$$ c) Find the intersection of the line with the xy -plane.",
+        "Question": "$$P ( 3 , 1 , 5 ) ,$$ $$\\mathbf{\\text{v}} = \\vec{Q R} ,$$ where $$Q ( 2 , 2 , 3 )$$ and $$R ( 3 , 2 , 3 )$$",
+        "Image Links": [],
+        "Answer": "a. $$x = 3 + t , y = 1 , z = 5 ,$$ $$t \\in \\RR ;$$ b. $$y = 1 , z = 5 ;$$ c. The line does not intersect the xy -plane.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, point $$P$$ and vector $$\\mathbf{\\text{v}}$$ are given. Let $$L$$ be the line passing through point $$P$$ with direction $$\\mathbf{\\text{v}} .$$ a) Find parametric equations of line $$L .$$ b) Find symmetric equations of line $$L .$$ c) Find the intersection of the line with the xy -plane.",
+        "Question": "$$P ( 2 , 3 , 0 ) ,$$ $$\\mathbf{\\text{v}} = \\vec{Q R} ,$$ where $$Q ( 0 , 4 , 5 )$$ and $$R ( 0 , 4 , 6 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, line $$L$$ is given. a) Find point $$P$$ that belongs to the line and direction vector $$\\mathbf{\\text{v}}$$ of the line. Express $$\\mathbf{\\text{v}}$$ in component form. b) Find the distance from the origin to line $$L .$$",
+        "Question": "$$x = 1 + t , y = 3 + t , z = 5 + 4 t ,$$ $$t \\in \\RR$$",
+        "Image Links": [],
+        "Answer": "a. $$P ( 1 , 3 , 5 ) ,$$ $$v = \\langle 1 , 1 , 4 \\rangle ;$$ b. $$\\sqrt{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, line $$L$$ is given. a) Find point $$P$$ that belongs to the line and direction vector $$\\mathbf{\\text{v}}$$ of the line. Express $$\\mathbf{\\text{v}}$$ in component form. b) Find the distance from the origin to line $$L .$$",
+        "Question": "$$\\text{unicode[:-]} x = y + 1 , z = 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, line $$L$$ is given. a) Find point $$P$$ that belongs to the line and direction vector $$\\mathbf{\\text{v}}$$ of the line. Express $$\\mathbf{\\text{v}}$$ in component form. b) Find the distance from the origin to line $$L .$$",
+        "Question": "Find the distance between point $$A ( -3 , 1 , 1 )$$ and the line of symmetric equations $$x = \\text{unicode[:-]} y = \\text{unicode[:-]} z .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2 \\sqrt{2}}{\\sqrt{3}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, line $$L$$ is given. a) Find point $$P$$ that belongs to the line and direction vector $$\\mathbf{\\text{v}}$$ of the line. Express $$\\mathbf{\\text{v}}$$ in component form. b) Find the distance from the origin to line $$L .$$",
+        "Question": "Find the distance between point $$A ( 4 , 2 , 5 )$$ and the line of parametric equations $$x = -1 - t , y = \\text{unicode[:-]} t , z = 2 ,$$ $$t \\in \\RR .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, lines $$L_{1}$$ and $$L_{2}$$ are given. a) Verify whether lines $$L_{1}$$ and $$L_{2}$$ are parallel. b) If the lines $$L_{1}$$ and $$L_{2}$$ are parallel, then find the distance between them.",
+        "Question": "$$L_{1} : x = 1 + t , y = t , z = 2 + t ,$$ $$t \\in \\RR ,$$ $$L_{2} : x - 3 = y - 1 = z - 3$$",
+        "Image Links": [],
+        "Answer": "a. Parallel; b. $$\\frac{\\sqrt{2}}{\\sqrt{3}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, lines $$L_{1}$$ and $$L_{2}$$ are given. a) Verify whether lines $$L_{1}$$ and $$L_{2}$$ are parallel. b) If the lines $$L_{1}$$ and $$L_{2}$$ are parallel, then find the distance between them.",
+        "Question": "$$L_{1} : x = 2 , y = 1 , z = t ,$$ $$L_{2} : x = 1 , y = 1 , z = 2 - 3 t ,$$ $$t \\in \\RR$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, lines $$L_{1}$$ and $$L_{2}$$ are given. a) Verify whether lines $$L_{1}$$ and $$L_{2}$$ are parallel. b) If the lines $$L_{1}$$ and $$L_{2}$$ are parallel, then find the distance between them.",
+        "Question": "Show that the line passing through points $$P ( 3 , 1 , 0 )$$ and $$Q ( 1 , 4 , -3 )$$ is perpendicular to the line with equation $$x = 3 t , y = 3 + 8 t , z = -7 + 6 t ,$$ $$t \\in \\RR .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, lines $$L_{1}$$ and $$L_{2}$$ are given. a) Verify whether lines $$L_{1}$$ and $$L_{2}$$ are parallel. b) If the lines $$L_{1}$$ and $$L_{2}$$ are parallel, then find the distance between them.",
+        "Question": "Are the lines of equations $$x = -2 + 2 t , y = -6 , z = 2 + 6 t$$ and $$x = -1 + t , y = 1 + t , z = t ,$$ $$t \\in \\RR ,$$ perpendicular to each other?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, lines $$L_{1}$$ and $$L_{2}$$ are given. a) Verify whether lines $$L_{1}$$ and $$L_{2}$$ are parallel. b) If the lines $$L_{1}$$ and $$L_{2}$$ are parallel, then find the distance between them.",
+        "Question": "Find the point of intersection of the lines of equations $$x = -2 y = 3 z$$ and $$x = -5 - t , y = -1 + t , z = t - 11 ,$$ $$t \\in \\RR .$$",
+        "Image Links": [],
+        "Answer": "$$( -12 , 6 , -4 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, lines $$L_{1}$$ and $$L_{2}$$ are given. a) Verify whether lines $$L_{1}$$ and $$L_{2}$$ are parallel. b) If the lines $$L_{1}$$ and $$L_{2}$$ are parallel, then find the distance between them.",
+        "Question": "Find the intersection point of the x -axis with the line of parametric equations $$x = 10 + t , y = 2 - 2 t , z = -3 + 3 t ,$$ $$t \\in \\RR .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, lines $$L_{1}$$ and $$L_{2}$$ are given. Determine whether the lines are equal, parallel but not equal, skew, or intersecting.",
+        "Question": "$$L_{1} : x = y - 1 = \\text{unicode[:-]} z$$ and $$L_{2} : x - 2 = \\text{unicode[:-]} y = \\frac{z}{2}$$",
+        "Image Links": [],
+        "Answer": "The lines are skew.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, lines $$L_{1}$$ and $$L_{2}$$ are given. Determine whether the lines are equal, parallel but not equal, skew, or intersecting.",
+        "Question": "$$L_{1} : x = 2 t , y = 0 , z = 3 ,$$ $$t \\in \\RR$$ and $$L_{2} : x = 0 , y = 8 + s , z = 7 + s ,$$ $$s \\in \\RR$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, lines $$L_{1}$$ and $$L_{2}$$ are given. Determine whether the lines are equal, parallel but not equal, skew, or intersecting.",
+        "Question": "$$L_{1} : x = -1 + 2 t , y = 1 + 3 t , z = 7 t ,$$ $$t \\in \\RR$$ and $$L_{2} : x - 1 = \\frac{2}{3} ( y - 4 ) = \\frac{2}{7} z - 2$$",
+        "Image Links": [],
+        "Answer": "The lines are equal.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, lines $$L_{1}$$ and $$L_{2}$$ are given. Determine whether the lines are equal, parallel but not equal, skew, or intersecting.",
+        "Question": "$$L_{1} : 3 x = y + 1 = 2 z$$ and $$L_{2} : x = 6 + 2 t , y = 17 + 6 t , z = 9 + 3 t ,$$ $$t \\in \\RR$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, lines $$L_{1}$$ and $$L_{2}$$ are given. Determine whether the lines are equal, parallel but not equal, skew, or intersecting.",
+        "Question": "Consider line $$L$$ of symmetric equations $$x - 2 = \\text{unicode[:-]} y = \\frac{z}{2}$$ and point $$A ( 1 , 1 , 1 ) .$$ Find parametric equations for a line parallel to $$L$$ that passes through point $$A .$$ Find symmetric equations of a line skew to $$L$$ and that passes through point $$A .$$ Find symmetric equations of a line that intersects $$L$$ and passes through point $$A .$$",
+        "Image Links": [],
+        "Answer": "a. $$x = 1 + t , y = 1 - t , z = 1 + 2 t ,$$ $$t \\in \\RR ;$$ b. For instance, the line passing through $$A$$ with direction vector $$\\textbf{j} : x = 1 , z = 1 ;$$ c. For instance, the line passing through $$A$$ and point $$( 2 , 0 , 0 )$$ that belongs to $$L$$ is a line that intersects; $$L : \\frac{x - 1}{-1} = y - 1 = z - 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, lines $$L_{1}$$ and $$L_{2}$$ are given. Determine whether the lines are equal, parallel but not equal, skew, or intersecting.",
+        "Question": "Consider line $$L$$ of parametric equations $$x = t , y = 2 t , z = 3 ,$$ $$t \\in \\RR .$$ Find parametric equations for a line parallel to $$L$$ that passes through the origin. Find parametric equations of a line skew to $$L$$ that passes through the origin. Find symmetric equations of a line that intersects $$L$$ and passes through the origin.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, point $$P$$ and vector $$\\mathbf{\\text{n}}$$ are given. a) Find the scalar equation of the plane that passes through $$P$$ and has normal vector $$\\mathbf{\\text{n}} .$$ b) Find the general form of the equation of the plane that passes through $$P$$ and has normal vector $$\\mathbf{\\text{n}} .$$",
+        "Question": "$$P ( 0 , 0 , 0 ) ,$$ $$\\mathbf{\\text{n}} = 3 \\mathbf{\\text{i}} - 2 \\mathbf{\\text{j}} + 4 \\mathbf{\\text{k}}$$",
+        "Image Links": [],
+        "Answer": "a. $$3 x - 2 y + 4 z = 0 ;$$ b. $$3 x - 2 y + 4 z = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, point $$P$$ and vector $$\\mathbf{\\text{n}}$$ are given. a) Find the scalar equation of the plane that passes through $$P$$ and has normal vector $$\\mathbf{\\text{n}} .$$ b) Find the general form of the equation of the plane that passes through $$P$$ and has normal vector $$\\mathbf{\\text{n}} .$$",
+        "Question": "$$P ( 3 , 2 , 2 ) ,$$ $$\\mathbf{\\text{n}} = 2 \\mathbf{\\text{i}} + 3 \\mathbf{\\text{j}} - \\mathbf{\\text{k}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, point $$P$$ and vector $$\\mathbf{\\text{n}}$$ are given. a) Find the scalar equation of the plane that passes through $$P$$ and has normal vector $$\\mathbf{\\text{n}} .$$ b) Find the general form of the equation of the plane that passes through $$P$$ and has normal vector $$\\mathbf{\\text{n}} .$$",
+        "Question": "$$P ( 1 , 2 , 3 ) ,$$ $$\\mathbf{\\text{n}} = \\langle 1 , 2 , 3 \\rangle$$",
+        "Image Links": [],
+        "Answer": "a. $$( x - 1 ) + 2 ( y - 2 ) + 3 ( z - 3 ) = 0 ;$$ b. $$x + 2 y + 3 z - 14 = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, point $$P$$ and vector $$\\mathbf{\\text{n}}$$ are given. a) Find the scalar equation of the plane that passes through $$P$$ and has normal vector $$\\mathbf{\\text{n}} .$$ b) Find the general form of the equation of the plane that passes through $$P$$ and has normal vector $$\\mathbf{\\text{n}} .$$",
+        "Question": "$$P ( 0 , 0 , 0 ) ,$$ $$\\mathbf{\\text{n}} = \\langle -3 , 2 , -1 \\rangle$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equation of a plane is given. a) Find normal vector $$\\mathbf{\\text{n}}$$ to the plane. Express $$\\mathbf{\\text{n}}$$ using standard unit vectors. b) Find the intersections of the plane with the coordinate axes. c) Sketch the plane.",
+        "Question": "[T] $$4 x + 5 y + 10 z - 20 = 0$$",
+        "Image Links": [],
+        "Answer": "a. $$\\textbf{n} = 4 \\text{i} + 5 \\textbf{j} + 10 \\textbf{k} ;$$ b. $$( 5 , 0 , 0 ) ,$$ $$( 0 , 4 , 0 ) ,$$ and $$( 0 , 0 , 2 ) ;$$ c.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ff17872fa966fee6355af6360a4cd678b2fd75d3"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equation of a plane is given. a) Find normal vector $$\\mathbf{\\text{n}}$$ to the plane. Express $$\\mathbf{\\text{n}}$$ using standard unit vectors. b) Find the intersections of the plane with the coordinate axes. c) Sketch the plane.",
+        "Question": "$$3 x + 4 y - 12 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equation of a plane is given. a) Find normal vector $$\\mathbf{\\text{n}}$$ to the plane. Express $$\\mathbf{\\text{n}}$$ using standard unit vectors. b) Find the intersections of the plane with the coordinate axes. c) Sketch the plane.",
+        "Question": "$$3 x - 2 y + 4 z = 0$$",
+        "Image Links": [],
+        "Answer": "a. $$\\mathbf{\\text{n}} = 3 \\mathbf{\\text{i}} - 2 \\mathbf{\\text{j}} + 4 \\mathbf{\\text{k}} ;$$ b. $$( 0 , 0 , 0 ) ;$$ c.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/41106fe16604db620117688bf1e33c2a3de648a0"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equation of a plane is given. a) Find normal vector $$\\mathbf{\\text{n}}$$ to the plane. Express $$\\mathbf{\\text{n}}$$ using standard unit vectors. b) Find the intersections of the plane with the coordinate axes. c) Sketch the plane.",
+        "Question": "$$x + z = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equation of a plane is given. a) Find normal vector $$\\mathbf{\\text{n}}$$ to the plane. Express $$\\mathbf{\\text{n}}$$ using standard unit vectors. b) Find the intersections of the plane with the coordinate axes. c) Sketch the plane.",
+        "Question": "Given point $$P ( 1 , 2 , 3 )$$ and vector $$\\mathbf{\\text{n}} = \\mathbf{\\text{i}} + \\mathbf{\\text{j}} ,$$ find point $$Q$$ on the x -axis such that $$\\vec{P Q}$$ and $$\\mathbf{\\text{n}}$$ are orthogonal.",
+        "Image Links": [],
+        "Answer": "$$( 3 , 0 , 0 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equation of a plane is given. a) Find normal vector $$\\mathbf{\\text{n}}$$ to the plane. Express $$\\mathbf{\\text{n}}$$ using standard unit vectors. b) Find the intersections of the plane with the coordinate axes. c) Sketch the plane.",
+        "Question": "Show there is no plane perpendicular to $$\\mathbf{\\text{n}} = \\mathbf{\\text{i}} + \\mathbf{\\text{j}}$$ that passes through points $$P ( 1 , 2 , 3 )$$ and $$Q ( 2 , 3 , 4 ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equation of a plane is given. a) Find normal vector $$\\mathbf{\\text{n}}$$ to the plane. Express $$\\mathbf{\\text{n}}$$ using standard unit vectors. b) Find the intersections of the plane with the coordinate axes. c) Sketch the plane.",
+        "Question": "Find parametric equations of the line passing through point $$P ( -2 , 1 , 3 )$$ that is perpendicular to the plane of equation $$2 x - 3 y + z = 7 .$$",
+        "Image Links": [],
+        "Answer": "$$x = -2 + 2 t , y = 1 - 3 t , z = 3 + t ,$$ $$t \\in \\RR$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equation of a plane is given. a) Find normal vector $$\\mathbf{\\text{n}}$$ to the plane. Express $$\\mathbf{\\text{n}}$$ using standard unit vectors. b) Find the intersections of the plane with the coordinate axes. c) Sketch the plane.",
+        "Question": "Find symmetric equations of the line passing through point $$P ( 2 , 5 , 4 )$$ that is perpendicular to the plane of equation $$2 x + 3 y - 5 z = 0 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equation of a plane is given. a) Find normal vector $$\\mathbf{\\text{n}}$$ to the plane. Express $$\\mathbf{\\text{n}}$$ using standard unit vectors. b) Find the intersections of the plane with the coordinate axes. c) Sketch the plane.",
+        "Question": "Show that line $$\\frac{x - 1}{2} = \\frac{y + 1}{3} = \\frac{z - 2}{4}$$ is parallel to plane $$x - 2 y + z = 6 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equation of a plane is given. a) Find normal vector $$\\mathbf{\\text{n}}$$ to the plane. Express $$\\mathbf{\\text{n}}$$ using standard unit vectors. b) Find the intersections of the plane with the coordinate axes. c) Sketch the plane.",
+        "Question": "Find the real number $$\\alpha$$ such that the line of parametric equations $$x = t , y = 2 - t , z = 3 + t ,$$ $$t \\in \\RR$$ is parallel to the plane of equation $$\\alpha x + 5 y + z - 10 = 0.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, points $$P , Q , \\text{and} R$$ are given. a) Find the general equation of the plane passing through $$P , Q , \\text{and} R .$$ b) Write the vector equation $$\\mathbf{\\text{n}} \\cdotp \\vec{P S} = 0$$ of the plane at a., where $$S ( x , y , z )$$ is an arbitrary point of the plane. c) Find parametric equations of the line passing through the origin that is perpendicular to the plane passing through $$P , Q , \\text{and} R .$$",
+        "Question": "$$P ( 1 , 1 , 1 ) , Q ( 2 , 4 , 3 ) ,$$ and $$R ( -1 , -2 , -1 )$$",
+        "Image Links": [],
+        "Answer": "a. $$-2 y + 3 z - 1 = 0 ;$$ b. $$\\langle 0 , -2 , 3 \\rangle \\cdotp \\langle x - 1 , y - 1 , z - 1 \\rangle = 0 ;$$ c. $$x = 0 , y = -2 t , z = 3 t ,$$ $$t \\in \\RR$$ Answers may vary by a sign, depending on how the vector cross multiplication is performed.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, points $$P , Q , \\text{and} R$$ are given. a) Find the general equation of the plane passing through $$P , Q , \\text{and} R .$$ b) Write the vector equation $$\\mathbf{\\text{n}} \\cdotp \\vec{P S} = 0$$ of the plane at a., where $$S ( x , y , z )$$ is an arbitrary point of the plane. c) Find parametric equations of the line passing through the origin that is perpendicular to the plane passing through $$P , Q , \\text{and} R .$$",
+        "Question": "$$P ( -2 , 1 , 4 ) , Q ( 3 , 1 , 3 ) ,$$ and $$R ( -2 , 1 , 0 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, points $$P , Q , \\text{and} R$$ are given. a) Find the general equation of the plane passing through $$P , Q , \\text{and} R .$$ b) Write the vector equation $$\\mathbf{\\text{n}} \\cdotp \\vec{P S} = 0$$ of the plane at a., where $$S ( x , y , z )$$ is an arbitrary point of the plane. c) Find parametric equations of the line passing through the origin that is perpendicular to the plane passing through $$P , Q , \\text{and} R .$$",
+        "Question": "Consider the planes of equations $$x + y + z = 1$$ and $$x + z = 0 .$$ Show that the planes intersect. Find symmetric equations of the line passing through point $$P ( 1 , 4 , 6 )$$ that is parallel to the line of intersection of the planes.",
+        "Image Links": [],
+        "Answer": "a. Answers may vary; b. $$\\frac{x - 1}{1} = \\frac{z - 6}{-1} , y = 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, points $$P , Q , \\text{and} R$$ are given. a) Find the general equation of the plane passing through $$P , Q , \\text{and} R .$$ b) Write the vector equation $$\\mathbf{\\text{n}} \\cdotp \\vec{P S} = 0$$ of the plane at a., where $$S ( x , y , z )$$ is an arbitrary point of the plane. c) Find parametric equations of the line passing through the origin that is perpendicular to the plane passing through $$P , Q , \\text{and} R .$$",
+        "Question": "Consider the planes of equations $$\\text{unicode[:-]} y + z - 2 = 0$$ and $$x - y = 0 .$$ Show that the planes intersect. Find parametric equations of the line passing through point $$P ( -8 , 0 , 2 )$$ that is parallel to the line of intersection of the planes.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, points $$P , Q , \\text{and} R$$ are given. a) Find the general equation of the plane passing through $$P , Q , \\text{and} R .$$ b) Write the vector equation $$\\mathbf{\\text{n}} \\cdotp \\vec{P S} = 0$$ of the plane at a., where $$S ( x , y , z )$$ is an arbitrary point of the plane. c) Find parametric equations of the line passing through the origin that is perpendicular to the plane passing through $$P , Q , \\text{and} R .$$",
+        "Question": "Find the scalar equation of the plane that passes through point $$P ( -1 , 2 , 1 )$$ and is perpendicular to the line of intersection of planes $$x + y - z - 2 = 0$$ and $$2 x - y + 3 z - 1 = 0 .$$",
+        "Image Links": [],
+        "Answer": "$$2 x - 5 y - 3 z + 15 = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, points $$P , Q , \\text{and} R$$ are given. a) Find the general equation of the plane passing through $$P , Q , \\text{and} R .$$ b) Write the vector equation $$\\mathbf{\\text{n}} \\cdotp \\vec{P S} = 0$$ of the plane at a., where $$S ( x , y , z )$$ is an arbitrary point of the plane. c) Find parametric equations of the line passing through the origin that is perpendicular to the plane passing through $$P , Q , \\text{and} R .$$",
+        "Question": "Find the general equation of the plane that passes through the origin and is perpendicular to the line of intersection of planes $$\\text{unicode[:-]} x + y + 2 = 0$$ and $$z - 3 = 0 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, points $$P , Q , \\text{and} R$$ are given. a) Find the general equation of the plane passing through $$P , Q , \\text{and} R .$$ b) Write the vector equation $$\\mathbf{\\text{n}} \\cdotp \\vec{P S} = 0$$ of the plane at a., where $$S ( x , y , z )$$ is an arbitrary point of the plane. c) Find parametric equations of the line passing through the origin that is perpendicular to the plane passing through $$P , Q , \\text{and} R .$$",
+        "Question": "Determine whether the line of parametric equations $$x = 1 + 2 t , y = -2 t , z = 2 + t ,$$ $$t \\in \\RR$$ intersects the plane with equation $$3 x + 4 y + 6 z - 7 = 0 .$$ If it does intersect, find the point of intersection.",
+        "Image Links": [],
+        "Answer": "The line intersects the plane at point $$P ( -3 , 4 , 0 ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, points $$P , Q , \\text{and} R$$ are given. a) Find the general equation of the plane passing through $$P , Q , \\text{and} R .$$ b) Write the vector equation $$\\mathbf{\\text{n}} \\cdotp \\vec{P S} = 0$$ of the plane at a., where $$S ( x , y , z )$$ is an arbitrary point of the plane. c) Find parametric equations of the line passing through the origin that is perpendicular to the plane passing through $$P , Q , \\text{and} R .$$",
+        "Question": "Determine whether the line of parametric equations $$x = 5 , y = 4 - t , z = 2 t ,$$ $$t \\in \\RR$$ intersects the plane with equation $$2 x - y + z = 5 .$$ If it does intersect, find the point of intersection.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, points $$P , Q , \\text{and} R$$ are given. a) Find the general equation of the plane passing through $$P , Q , \\text{and} R .$$ b) Write the vector equation $$\\mathbf{\\text{n}} \\cdotp \\vec{P S} = 0$$ of the plane at a., where $$S ( x , y , z )$$ is an arbitrary point of the plane. c) Find parametric equations of the line passing through the origin that is perpendicular to the plane passing through $$P , Q , \\text{and} R .$$",
+        "Question": "Find the distance from point $$P ( 1 , 5 , -4 )$$ to the plane of equation $$3 x - y + 2 z - 6 = 0 .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{16}{\\sqrt{14}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, points $$P , Q , \\text{and} R$$ are given. a) Find the general equation of the plane passing through $$P , Q , \\text{and} R .$$ b) Write the vector equation $$\\mathbf{\\text{n}} \\cdotp \\vec{P S} = 0$$ of the plane at a., where $$S ( x , y , z )$$ is an arbitrary point of the plane. c) Find parametric equations of the line passing through the origin that is perpendicular to the plane passing through $$P , Q , \\text{and} R .$$",
+        "Question": "Find the distance from point $$P ( 1 , -2 , 3 )$$ to the plane of equation $$( x - 3 ) + 2 ( y + 1 ) - 4 z = 0 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equations of two planes are given. a) Determine whether the planes are parallel, orthogonal, or neither. b) If the planes are neither parallel nor orthogonal, then find the measure of the angle between the planes. Express the answer in degrees rounded to the nearest integer.",
+        "Question": "[T] $$x + y + z = 0 ,$$ $$2 x - y + z - 7 = 0$$",
+        "Image Links": [],
+        "Answer": "a. The planes are neither parallel nor orthogonal; b. $$62 \\text{\u00b0}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equations of two planes are given. a) Determine whether the planes are parallel, orthogonal, or neither. b) If the planes are neither parallel nor orthogonal, then find the measure of the angle between the planes. Express the answer in degrees rounded to the nearest integer.",
+        "Question": "$$5 x - 3 y + z = 4 ,$$ $$x + 4 y + 7 z = 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equations of two planes are given. a) Determine whether the planes are parallel, orthogonal, or neither. b) If the planes are neither parallel nor orthogonal, then find the measure of the angle between the planes. Express the answer in degrees rounded to the nearest integer.",
+        "Question": "$$x - 5 y - z = 1 ,$$ $$5 x - 25 y - 5 z = -3$$",
+        "Image Links": [],
+        "Answer": "a. The planes are parallel.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equations of two planes are given. a) Determine whether the planes are parallel, orthogonal, or neither. b) If the planes are neither parallel nor orthogonal, then find the measure of the angle between the planes. Express the answer in degrees rounded to the nearest integer.",
+        "Question": "[T] $$x - 3 y + 6 z = 4 ,$$ $$5 x + y - z = 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equations of two planes are given. a) Determine whether the planes are parallel, orthogonal, or neither. b) If the planes are neither parallel nor orthogonal, then find the measure of the angle between the planes. Express the answer in degrees rounded to the nearest integer.",
+        "Question": "Show that the lines of equations $$x = t , y = 1 + t , z = 2 + t ,$$ $$t \\in \\RR \\text{,}$$ and $$\\frac{x}{2} = \\frac{y - 1}{3} = z - 3$$ are skew, and find the distance between them.",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{\\sqrt{6}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equations of two planes are given. a) Determine whether the planes are parallel, orthogonal, or neither. b) If the planes are neither parallel nor orthogonal, then find the measure of the angle between the planes. Express the answer in degrees rounded to the nearest integer.",
+        "Question": "Show that the lines of equations $$x = -1 + t , y = -2 + t , z = 3 t ,$$ $$t \\in \\RR ,$$ and $$x = 5 + s , y = -8 + 2 s , z = 7 s ,$$ $$s \\in \\RR$$ are skew, and find the distance between them.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equations of two planes are given. a) Determine whether the planes are parallel, orthogonal, or neither. b) If the planes are neither parallel nor orthogonal, then find the measure of the angle between the planes. Express the answer in degrees rounded to the nearest integer.",
+        "Question": "Consider point $$C ( -3 , 2 , 4 )$$ and the plane of equation $$2 x + 4 y - 3 z = 8 .$$ Find the radius of the sphere with center $$C$$ tangent to the given plane. Find point P of tangency.",
+        "Image Links": [],
+        "Answer": "a. $$\\frac{18}{\\sqrt{29}} ;$$ b. $$P ( - \\frac{51}{29} , \\frac{130}{29} , \\frac{62}{29} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equations of two planes are given. a) Determine whether the planes are parallel, orthogonal, or neither. b) If the planes are neither parallel nor orthogonal, then find the measure of the angle between the planes. Express the answer in degrees rounded to the nearest integer.",
+        "Question": "Consider the plane of equation $$x - y - z - 8 = 0 .$$ Find the equation of the sphere with center $$C$$ at the origin that is tangent to the given plane. Find parametric equations of the line passing through the origin and the point of tangency.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equations of two planes are given. a) Determine whether the planes are parallel, orthogonal, or neither. b) If the planes are neither parallel nor orthogonal, then find the measure of the angle between the planes. Express the answer in degrees rounded to the nearest integer.",
+        "Question": "Two children are playing with a ball. The girl throws the ball to the boy. The ball travels in the air, curves $$3$$ ft to the right, and falls $$5$$ ft away from the girl (see the following figure). If the plane that contains the trajectory of the ball is perpendicular to the ground, find its equation.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/07c72c0bcf138276b3bf83ae500f0eadb53cff09"
+        ],
+        "Answer": "$$4 x - 3 y = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equations of two planes are given. a) Determine whether the planes are parallel, orthogonal, or neither. b) If the planes are neither parallel nor orthogonal, then find the measure of the angle between the planes. Express the answer in degrees rounded to the nearest integer.",
+        "Question": "[T] John allocates $$d$$ dollars to consume monthly three goods of prices $$a , b , \\text{and} c .$$ In this context, the budget equation is defined as $$a x + b y + c z = d ,$$ where $$x \\geq 0 , y \\geq 0 ,$$ and $$z \\geq 0$$ represent the number of items bought from each of the goods. The budget set is given by $$\\{ ( x , y , z ) | a x + b y + c z \\le d , x \\geq 0 , y \\geq 0 , z \\geq 0 \\} ,$$ and the budget plane is the part of the plane of equation $$a x + b y + c z = d$$ for which $$x \\geq 0 , y \\geq 0 ,$$ and $$z \\geq 0 .$$ Consider $$a = \\text{$} 8 ,$$ $$b = \\text{$} 5 ,$$ $$c = \\text{$} 10 ,$$ and $$d = \\text{$} 500 .$$ Use a CAS to graph the budget set and budget plane. For $$z = 25 ,$$ find the new budget equation and graph the budget set in the same system of coordinates.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equations of two planes are given. a) Determine whether the planes are parallel, orthogonal, or neither. b) If the planes are neither parallel nor orthogonal, then find the measure of the angle between the planes. Express the answer in degrees rounded to the nearest integer.",
+        "Question": "[T] Consider $$\\mathbf{\\text{r}} ( t ) = \\langle \\text{sin} t , \\text{cos} t , 2 t \\rangle$$ the position vector of a particle at time $$t \\in [ 0 , 3 ] ,$$ where the components of r are expressed in centimeters and time is measured in seconds. Let $$\\vec{O P}$$ be the position vector of the particle after $$1$$ sec. Determine the velocity vector $$\\mathbf{\\text{v}} ( 1 )$$ of the particle after $$1$$ sec. Find the scalar equation of the plane that is perpendicular to $$\\mathbf{\\text{v}} ( 1 )$$ and passes through point $$P .$$ This plane is called the normal plane to the path of the particle at point $$P .$$ Use a CAS to visualize the path of the particle along with the velocity vector and normal plane at point $$P .$$",
+        "Image Links": [],
+        "Answer": "a. $$\\mathbf{\\text{v}} ( 1 ) = \\langle \\text{cos} 1 , \\text{unicode[:-]} \\text{sin} 1 , 2 \\rangle ;$$ b. $$( \\text{cos} 1 ) ( x - \\text{sin} 1 ) - ( \\text{sin} 1 ) ( y - \\text{cos} 1 ) + 2 ( z - 2 ) = 0 ;$$ c.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1951a89f55a937d5c8fb0a4f759cce57aea80b2a"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, the equations of two planes are given. a) Determine whether the planes are parallel, orthogonal, or neither. b) If the planes are neither parallel nor orthogonal, then find the measure of the angle between the planes. Express the answer in degrees rounded to the nearest integer.",
+        "Question": "[T] A solar panel is mounted on the roof of a house. The panel may be regarded as positioned at the points of coordinates (in meters) $$A ( 8 , 0 , 0 ) ,$$ $$B ( 8 , 18 , 0 ) ,$$ $$C ( 0 , 18 , 8 ) ,$$ and $$D ( 0 , 0 , 8 )$$ (see the following figure). Find the general form of the equation of the plane that contains the solar panel by using points $$A , B , \\text{and} C ,$$ and show that its normal vector is equivalent to $$\\vec{A B} \\times \\vec{A D} .$$ Find parametric equations of line $$L_{1}$$ that passes through the center of the solar panel and has direction vector $$\\mathbf{\\text{s}} = \\frac{1}{\\sqrt{3}} \\mathbf{\\text{i}} + \\frac{1}{\\sqrt{3}} \\mathbf{\\text{j}} + \\frac{1}{\\sqrt{3}} \\mathbf{\\text{k}} ,$$ which points toward the position of the Sun at a particular time of day. Find symmetric equations of line $$L_{2}$$ that passes through the center of the solar panel and is perpendicular to it. Determine the angle of elevation of the Sun above the solar panel by using the angle between lines $$L_{1}$$ and $$L_{2} .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6624bd009a3b7b70820d24e3ff4d7be18a4ec169"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

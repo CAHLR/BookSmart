@@ -1,0 +1,538 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a definite integral that represents the area.",
+        "Question": "Region enclosed by $$r = 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a definite integral that represents the area.",
+        "Question": "Region enclosed by $$r = 3 \\text{sin} \\theta$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{9}{2} \\int_{0}^{\\pi} \\text{sin}^{2} \\theta d \\theta$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a definite integral that represents the area.",
+        "Question": "Region in the first quadrant within the cardioid $$r = 1 + \\text{sin} \\theta$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a definite integral that represents the area.",
+        "Question": "Region enclosed by one petal of $$r = 8 \\text{sin} ( 2 \\theta )$$",
+        "Image Links": [],
+        "Answer": "$$32 \\int_{0}^{\\pi \\text{/} 2} \\text{sin}^{2} ( 2 \\theta ) d \\theta$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a definite integral that represents the area.",
+        "Question": "Region enclosed by one petal of $$r = \\text{cos} ( 3 \\theta )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a definite integral that represents the area.",
+        "Question": "Region below the polar axis and enclosed by $$r = 1 - \\text{sin} \\theta$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{2} \\int_{\\pi}^{2 \\pi} ( 1 - \\text{sin} \\theta )^{2} d \\theta$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a definite integral that represents the area.",
+        "Question": "Region in the first quadrant enclosed by $$r = 2 - \\text{cos} \\theta$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a definite integral that represents the area.",
+        "Question": "Region enclosed by the inner loop of $$r = 2 - 3 \\text{sin} \\theta$$",
+        "Image Links": [],
+        "Answer": "$$\\int_{\\text{sin}^{-1} ( 2 \\text{/} 3 )}^{\\pi \\text{/} 2} ( 2 - 3 \\text{sin} \\theta )^{2} d \\theta$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a definite integral that represents the area.",
+        "Question": "Region enclosed by the inner loop of $$r = 3 - 4 \\text{cos} \\theta$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a definite integral that represents the area.",
+        "Question": "Region enclosed by $$r = 1 - 2 \\text{cos} \\theta$$ and outside the inner loop",
+        "Image Links": [],
+        "Answer": "$$\\int_{\\pi \\text{/} 3}^{\\pi} ( 1 - 2 \\text{cos} \\theta )^{2} d \\theta - \\int_{0}^{\\pi \\text{/} 3} ( 1 - 2 \\text{cos} \\theta )^{2} d \\theta$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a definite integral that represents the area.",
+        "Question": "Region common to $$r = 3 \\text{sin} \\theta \\text{and} r = 2 - \\text{sin} \\theta$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a definite integral that represents the area.",
+        "Question": "Region common to $$r = 2 \\text{and} r = 4 \\text{cos} \\theta$$",
+        "Image Links": [],
+        "Answer": "$$4 \\int_{0}^{\\pi \\text{/} 3} d \\theta + 16 \\int_{\\pi \\text{/} 3}^{\\pi \\text{/} 2} ( \\text{cos}^{2} \\theta ) d \\theta$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine a definite integral that represents the area.",
+        "Question": "Region common to $$r = 3 \\text{cos} \\theta \\text{and} r = 3 \\text{sin} \\theta$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the area of the described region.",
+        "Question": "Enclosed by $$r = 6 \\text{sin} \\theta$$",
+        "Image Links": [],
+        "Answer": "$$9 \\pi$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the area of the described region.",
+        "Question": "Above the polar axis enclosed by $$r = 2 + \\text{sin} \\theta$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the area of the described region.",
+        "Question": "Below the polar axis and enclosed by $$r = 2 - \\text{cos} \\theta$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{9 \\pi}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the area of the described region.",
+        "Question": "Enclosed by one petal of $$r = 4 \\text{cos} ( 3 \\theta )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the area of the described region.",
+        "Question": "Enclosed by one petal of $$r = 3 \\text{cos} ( 2 \\theta )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{9 \\pi}{8}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the area of the described region.",
+        "Question": "Enclosed by $$r = 1 + \\text{sin} \\theta$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the area of the described region.",
+        "Question": "Enclosed by the inner loop of $$r = 3 + 6 \\text{cos} \\theta$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{18 \\pi - 27 \\sqrt{3}}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the area of the described region.",
+        "Question": "Enclosed by $$r = 2 + 4 \\text{cos} \\theta$$ and outside the inner loop",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the area of the described region.",
+        "Question": "Common interior of $$r = 4 \\text{sin} ( 2 \\theta ) \\text{and} r = 2$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{4}{3} ( 4 \\pi - 3 \\sqrt{3} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the area of the described region.",
+        "Question": "Common interior of $$r = 3 - 2 \\text{sin} \\theta \\text{and} r = -3 + 2 \\text{sin} \\theta$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the area of the described region.",
+        "Question": "Common interior of $$r = 6 \\text{sin} \\theta \\text{and} r = 3$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3}{2} ( 4 \\pi - 3 \\sqrt{3} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the area of the described region.",
+        "Question": "Inside $$r = 1 + \\text{cos} \\theta$$ and outside $$r = \\text{cos} \\theta$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the area of the described region.",
+        "Question": "Common interior of $$r = 2 + 2 \\text{cos} \\theta \\text{and} r = 2 \\text{sin} \\theta$$",
+        "Image Links": [],
+        "Answer": "$$2 \\pi - 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find a definite integral that represents the arc length.",
+        "Question": "$$r = 4 \\text{cos} \\theta \\text{on the interval} 0 \\le \\theta \\le \\frac{\\pi}{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find a definite integral that represents the arc length.",
+        "Question": "$$r = 1 + \\text{sin} \\theta$$ on the interval $$0 \\le \\theta \\le 2 \\pi$$",
+        "Image Links": [],
+        "Answer": "$$\\int_{0}^{2 \\pi} \\sqrt{( 1 + \\text{sin} \\theta )^{2} + \\text{cos}^{2} \\theta} d \\theta$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find a definite integral that represents the arc length.",
+        "Question": "$$r = 2 \\text{sec} \\theta \\text{on the interval} 0 \\le \\theta \\le \\frac{\\pi}{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find a definite integral that represents the arc length.",
+        "Question": "$$r = e^{\\theta} \\text{on the interval} 0 \\le \\theta \\le 1$$",
+        "Image Links": [],
+        "Answer": "$$\\sqrt{2} \\int_{0}^{1} e^{\\theta} d \\theta$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the length of the curve over the given interval.",
+        "Question": "$$r = 6 \\text{on the interval} 0 \\le \\theta \\le \\frac{\\pi}{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the length of the curve over the given interval.",
+        "Question": "$$r = e^{3 \\theta} \\text{on the interval} 0 \\le \\theta \\le 2$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\sqrt{10}}{3} ( e^{6} - 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the length of the curve over the given interval.",
+        "Question": "$$r = 6 \\text{cos} \\theta \\text{on the interval} 0 \\le \\theta \\le \\frac{\\pi}{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the length of the curve over the given interval.",
+        "Question": "$$r = 8 + 8 \\text{cos} \\theta \\text{on the interval} 0 \\le \\theta \\le \\pi$$",
+        "Image Links": [],
+        "Answer": "32",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the length of the curve over the given interval.",
+        "Question": "$$r = 1 - \\text{sin} \\theta \\text{on the interval} 0 \\le \\theta \\le 2 \\pi$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the integration capabilities of a calculator to approximate the length of the curve.",
+        "Question": "[T] $$r = 3 \\theta \\text{on the interval} 0 \\le \\theta \\le \\frac{\\pi}{2}$$",
+        "Image Links": [],
+        "Answer": "6.238",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the integration capabilities of a calculator to approximate the length of the curve.",
+        "Question": "[T] $$r = \\frac{2}{\\theta} \\text{on the interval} \\pi \\le \\theta \\le 2 \\pi$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the integration capabilities of a calculator to approximate the length of the curve.",
+        "Question": "[T] $$r = \\text{sin}^{2} ( \\frac{\\theta}{2} ) \\text{on the interval} 0 \\le \\theta \\le \\pi$$",
+        "Image Links": [],
+        "Answer": "2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the integration capabilities of a calculator to approximate the length of the curve.",
+        "Question": "[T] $$r = 2 \\theta^{2} \\text{on the interval} 0 \\le \\theta \\le \\pi$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the integration capabilities of a calculator to approximate the length of the curve.",
+        "Question": "[T] $$r = \\text{sin} ( 3 \\text{cos} \\theta ) \\text{on the interval} 0 \\le \\theta \\le \\pi$$",
+        "Image Links": [],
+        "Answer": "4.39",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the familiar formula from geometry to find the area of the region described and then confirm by using the definite integral.",
+        "Question": "$$r = 3 \\text{sin} \\theta \\text{on the interval} 0 \\le \\theta \\le \\pi$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the familiar formula from geometry to find the area of the region described and then confirm by using the definite integral.",
+        "Question": "$$r = \\text{sin} \\theta + \\text{cos} \\theta \\text{on the interval} 0 \\le \\theta \\le \\pi$$",
+        "Image Links": [],
+        "Answer": "$$A = \\pi ( \\frac{\\sqrt{2}}{2} )^{2} = \\frac{\\pi}{2} \\text{and} \\frac{1}{2} \\int_{0}^{\\pi} ( 1 + 2 \\text{sin} \\theta \\text{cos} \\theta ) d \\theta = \\frac{\\pi}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the familiar formula from geometry to find the area of the region described and then confirm by using the definite integral.",
+        "Question": "$$r = 6 \\text{sin} \\theta + 8 \\text{cos} \\theta \\text{on the interval} 0 \\le \\theta \\le \\pi$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the familiar formula from geometry to find the length of the curve and then confirm using the definite integral.",
+        "Question": "$$r = 3 \\text{sin} \\theta \\text{on the interval} 0 \\le \\theta \\le \\pi$$",
+        "Image Links": [],
+        "Answer": "$$C = 2 \\pi ( \\frac{3}{2} ) = 3 \\pi \\text{and} \\int_{0}^{\\pi} 3 d \\theta = 3 \\pi$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the familiar formula from geometry to find the length of the curve and then confirm using the definite integral.",
+        "Question": "$$r = \\text{sin} \\theta + \\text{cos} \\theta \\text{on the interval} 0 \\le \\theta \\le \\pi$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the familiar formula from geometry to find the length of the curve and then confirm using the definite integral.",
+        "Question": "$$r = 6 \\text{sin} \\theta + 8 \\text{cos} \\theta \\text{on the interval} 0 \\le \\theta \\le \\pi$$",
+        "Image Links": [],
+        "Answer": "$$C = 2 \\pi ( 5 ) = 10 \\pi \\text{and} \\int_{0}^{\\pi} 10 d \\theta = 10 \\pi$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the familiar formula from geometry to find the length of the curve and then confirm using the definite integral.",
+        "Question": "Verify that if $$y = r \\text{sin} \\theta = f ( \\theta ) \\text{sin} \\theta$$ then $$\\frac{d y}{d \\theta} = f \\prime ( \\theta ) \\text{sin} \\theta + f ( \\theta ) \\text{cos} \\theta .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the slope of a tangent line to a polar curve $$r = f ( \\theta ) .$$ Let $$x = r \\text{cos} \\theta = f ( \\theta ) \\text{cos} \\theta$$ and $$y = r \\text{sin} \\theta = f ( \\theta ) \\text{sin} \\theta ,$$ so the polar equation $$r = f ( \\theta )$$ is now written in parametric form.",
+        "Question": "Use the definition of the derivative $$\\frac{d y}{d x} = \\frac{d y \\text{/} d \\theta}{d x \\text{/} d \\theta}$$ and the product rule to derive the derivative of a polar equation.",
+        "Image Links": [],
+        "Answer": "$$\\frac{d y}{d x} = \\frac{f^{\\prime} ( \\theta ) \\text{sin} \\theta + f ( \\theta ) \\text{cos} \\theta}{f^{\\prime} ( \\theta ) \\text{cos} \\theta - f ( \\theta ) \\text{sin} \\theta}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the slope of a tangent line to a polar curve $$r = f ( \\theta ) .$$ Let $$x = r \\text{cos} \\theta = f ( \\theta ) \\text{cos} \\theta$$ and $$y = r \\text{sin} \\theta = f ( \\theta ) \\text{sin} \\theta ,$$ so the polar equation $$r = f ( \\theta )$$ is now written in parametric form.",
+        "Question": "$$r = 1 - \\text{sin} \\theta ;$$ $$( \\frac{1}{2} , \\frac{\\pi}{6} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the slope of a tangent line to a polar curve $$r = f ( \\theta ) .$$ Let $$x = r \\text{cos} \\theta = f ( \\theta ) \\text{cos} \\theta$$ and $$y = r \\text{sin} \\theta = f ( \\theta ) \\text{sin} \\theta ,$$ so the polar equation $$r = f ( \\theta )$$ is now written in parametric form.",
+        "Question": "$$r = 4 \\text{cos} \\theta ;$$ $$( 2 , \\frac{\\pi}{3} )$$",
+        "Image Links": [],
+        "Answer": "The slope is $$\\frac{1}{\\sqrt{3}} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the slope of a tangent line to a polar curve $$r = f ( \\theta ) .$$ Let $$x = r \\text{cos} \\theta = f ( \\theta ) \\text{cos} \\theta$$ and $$y = r \\text{sin} \\theta = f ( \\theta ) \\text{sin} \\theta ,$$ so the polar equation $$r = f ( \\theta )$$ is now written in parametric form.",
+        "Question": "$$r = 8 \\text{sin} \\theta ;$$ $$( 4 , \\frac{5 \\pi}{6} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the slope of a tangent line to a polar curve $$r = f ( \\theta ) .$$ Let $$x = r \\text{cos} \\theta = f ( \\theta ) \\text{cos} \\theta$$ and $$y = r \\text{sin} \\theta = f ( \\theta ) \\text{sin} \\theta ,$$ so the polar equation $$r = f ( \\theta )$$ is now written in parametric form.",
+        "Question": "$$r = 4 + \\text{sin} \\theta ;$$ $$( 3 , \\frac{3 \\pi}{2} )$$",
+        "Image Links": [],
+        "Answer": "The slope is 0.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the slope of a tangent line to a polar curve $$r = f ( \\theta ) .$$ Let $$x = r \\text{cos} \\theta = f ( \\theta ) \\text{cos} \\theta$$ and $$y = r \\text{sin} \\theta = f ( \\theta ) \\text{sin} \\theta ,$$ so the polar equation $$r = f ( \\theta )$$ is now written in parametric form.",
+        "Question": "$$r = 6 + 3 \\text{cos} \\theta ;$$ $$( 3 , \\pi )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the slope of a tangent line to a polar curve $$r = f ( \\theta ) .$$ Let $$x = r \\text{cos} \\theta = f ( \\theta ) \\text{cos} \\theta$$ and $$y = r \\text{sin} \\theta = f ( \\theta ) \\text{sin} \\theta ,$$ so the polar equation $$r = f ( \\theta )$$ is now written in parametric form.",
+        "Question": "$$r = 4 \\text{cos} ( 2 \\theta ) ;$$ tips of the leaves",
+        "Image Links": [],
+        "Answer": "At $$( 4 , 0 ) ,$$ the slope is undefined. At $$( -4 , \\frac{\\pi}{2} ) ,$$ the slope is 0.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the slope of a tangent line to a polar curve $$r = f ( \\theta ) .$$ Let $$x = r \\text{cos} \\theta = f ( \\theta ) \\text{cos} \\theta$$ and $$y = r \\text{sin} \\theta = f ( \\theta ) \\text{sin} \\theta ,$$ so the polar equation $$r = f ( \\theta )$$ is now written in parametric form.",
+        "Question": "$$r = 2 \\text{sin} ( 3 \\theta ) ;$$ tips of the leaves",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the slope of a tangent line to a polar curve $$r = f ( \\theta ) .$$ Let $$x = r \\text{cos} \\theta = f ( \\theta ) \\text{cos} \\theta$$ and $$y = r \\text{sin} \\theta = f ( \\theta ) \\text{sin} \\theta ,$$ so the polar equation $$r = f ( \\theta )$$ is now written in parametric form.",
+        "Question": "$$r = 2 \\theta ;$$ $$( \\frac{\\pi}{2} , \\frac{\\pi}{4} )$$",
+        "Image Links": [],
+        "Answer": "The slope is undefined at $$\\theta = \\frac{\\pi}{4} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the slope of a tangent line to a polar curve $$r = f ( \\theta ) .$$ Let $$x = r \\text{cos} \\theta = f ( \\theta ) \\text{cos} \\theta$$ and $$y = r \\text{sin} \\theta = f ( \\theta ) \\text{sin} \\theta ,$$ so the polar equation $$r = f ( \\theta )$$ is now written in parametric form.",
+        "Question": "Find the points on the interval $$\\text{unicode[:-]} \\pi \\le \\theta \\le \\pi$$ at which the cardioid $$r = 1 - \\text{cos} \\theta$$ has a vertical or horizontal tangent line.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the slope of a tangent line to a polar curve $$r = f ( \\theta ) .$$ Let $$x = r \\text{cos} \\theta = f ( \\theta ) \\text{cos} \\theta$$ and $$y = r \\text{sin} \\theta = f ( \\theta ) \\text{sin} \\theta ,$$ so the polar equation $$r = f ( \\theta )$$ is now written in parametric form.",
+        "Question": "For the cardioid $$r = 1 + \\text{sin} \\theta ,$$ find the slope of the tangent line when $$\\theta = \\frac{\\pi}{3} .$$",
+        "Image Links": [],
+        "Answer": "Slope = -1.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the slope of the tangent line to the given polar curve at the point given by the value of $$\\theta .$$",
+        "Question": "$$r = 3 \\text{cos} \\theta , \\theta = \\frac{\\pi}{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the slope of the tangent line to the given polar curve at the point given by the value of $$\\theta .$$",
+        "Question": "$$r = \\theta ,$$ $$\\theta = \\frac{\\pi}{2}$$",
+        "Image Links": [],
+        "Answer": "Slope is $$\\frac{-2}{\\pi} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the slope of the tangent line to the given polar curve at the point given by the value of $$\\theta .$$",
+        "Question": "$$r = \\text{ln} \\theta ,$$ $$\\theta = e$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the slope of the tangent line to the given polar curve at the point given by the value of $$\\theta .$$",
+        "Question": "[T] Use technology: $$r = 2 + 4 \\text{cos} \\theta$$ at $$\\theta = \\frac{\\pi}{6}$$",
+        "Image Links": [],
+        "Answer": "Calculator answer: -0.836.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the points at which the following polar curves have a horizontal or vertical tangent line.",
+        "Question": "$$r = 4 \\text{cos} \\theta$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the points at which the following polar curves have a horizontal or vertical tangent line.",
+        "Question": "$$r^{2} = 4 \\text{cos} ( 2 \\theta )$$",
+        "Image Links": [],
+        "Answer": "Horizontal tangent at $$( \\text{unicode[:+-]} \\sqrt{2} , \\frac{\\pi}{6} ) ,$$ $$( \\text{unicode[:+-]} \\sqrt{2} , - \\frac{\\pi}{6} ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the points at which the following polar curves have a horizontal or vertical tangent line.",
+        "Question": "$$r = 2 \\text{sin} ( 2 \\theta )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the points at which the following polar curves have a horizontal or vertical tangent line.",
+        "Question": "The cardioid $$r = 1 + \\text{sin} \\theta$$",
+        "Image Links": [],
+        "Answer": "Horizontal tangents at $$\\frac{\\pi}{2} , \\frac{7 \\pi}{6} , \\frac{11 \\pi}{6} .$$ Vertical tangents at $$\\frac{\\pi}{6} , \\frac{5 \\pi}{6}$$ and also at the pole $$( 0 , 0 ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find the points at which the following polar curves have a horizontal or vertical tangent line.",
+        "Question": "Show that the curve $$r = \\text{sin} \\theta \\text{tan} \\theta$$ (called a cissoid of Diocles ) has the line $$x = 1$$ as a vertical asymptote.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

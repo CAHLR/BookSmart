@@ -1,0 +1,110 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A capacitor is made from two flat parallel plates placed 0.40 mm apart. When a charge of $$0.020 \\text{mu} \\text{C}$$ is placed on the plates the potential difference between them is 250 V. (a) What is the capacitance of the plates? (b) What is the area of each plate? (c) What is the charge on the plates when the potential difference between them is 500 V? (d) What maximum potential difference can be applied between the plates so that the magnitude of electrical fields between the plates does not exceed 3.0 MV/m?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "An air-filled (empty) parallel-plate capacitor is made from two square plates that are 25 cm on each side and 1.0 mm apart. The capacitor is connected to a 50-V battery and fully charged. It is then disconnected from the battery and its plates are pulled apart to a separation of 2.00 mm. (a) What is the capacitance of this new capacitor? (b) What is the charge on each plate? (c) What is the electrical field between the plates?",
+        "Image Links": [],
+        "Answer": "a. 0.277 nF; b. 27.7 nC; c. 50 kV/m",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Suppose that the capacitance of a variable capacitor can be manually changed from 100 to 800 pF by turning a dial connected to one set of plates by a shaft, from $$0 \\text{\u00b0}$$ to $$180 \\text{\u00b0}$$ . With the dial set at $$180 \\text{\u00b0}$$ (corresponding to $$C = 800 \\text{pF}$$ ), the capacitor is connected to a 500-V source. After charging, the capacitor is disconnected from the source, and the dial is turned to $$0 \\text{\u00b0}$$ . (a) What is the charge on the capacitor? (b) What is the voltage across the capacitor when the dial is set to $$0 \\text{\u00b0} \\text{?}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Earth can be considered as a spherical capacitor with two plates, where the negative plate is the surface of Earth and the positive plate is the bottom of the ionosphere, which is located at an altitude of approximately 70 km. The potential difference between Earth\u2019s surface and the ionosphere is about 350,000 V. (a) Calculate the capacitance of this system. (b) Find the total charge on this capacitor. (c) Find the energy stored in this system.",
+        "Image Links": [],
+        "Answer": "a. 0.065 F; b. 23,000 C; c. 4.0 GJ",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A $$4.00 \\text{-} \\mu \\text{F}$$ capacitor and a $$6.00 \\text{-} \\mu \\text{F}$$ capacitor are connected in parallel across a 600-V supply line. (a) Find the charge on each capacitor and voltage across each. (b) The charged capacitors are disconnected from the line and from each other. They are then reconnected to each other with terminals of unlike sign together. Find the final charge on each capacitor and the voltage across each.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Three capacitors having capacitances of 8.40, 8.40, and 4.20 $$\\text{mu} \\text{F}$$ , respectively, are connected in series across a 36.0-V potential difference. (a) What is the charge on the $$4.20 \\text{-} \\text{mu} \\text{F}$$ capacitor? (b) The capacitors are disconnected from the potential difference without allowing them to discharge. They are then reconnected in parallel with each other with the positively charged plates connected together. What is the voltage across each capacitor in the parallel combination?",
+        "Image Links": [],
+        "Answer": "a. $$75.6 \\text{mu} \\text{C}$$ ; b. 10.8 V",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A parallel-plate capacitor with capacitance $$5.0 \\text{mu} \\text{F}$$ is charged with a 12.0-V battery, after which the battery is disconnected. Determine the minimum work required to increase the separation between the plates by a factor of 3.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "(a) How much energy is stored in the electrical fields in the capacitors (in total) shown below? (b) Is this energy equal to the work done by the 400-V source in charging the capacitors? Figure 8.23",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/94f7093bf8a3e77b0a91a24f4bb3e92c64acc2c3"
+        ],
+        "Answer": "a. 0.13 J; b. no, because of resistive heating in connecting wires that is always present, but the circuit schematic does not indicate resistors",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/94f7093bf8a3e77b0a91a24f4bb3e92c64acc2c3"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Three capacitors having capacitances 8.4, 8.4, and 4.2 $$\\text{mu} \\text{F}$$ are connected in series across a 36.0-V potential difference. (a) What is the total energy stored in all three capacitors? (b) The capacitors are disconnected from the potential difference without allowing them to discharge. They are then reconnected in parallel with each other with the positively charged plates connected together. What is the total energy now stored in the capacitors?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "(a) An $$8.00 \\text{-} \\mu \\text{F}$$ capacitor is connected in parallel to another capacitor, producing a total capacitance of $$5.00 \\mu \\text{F}$$ . What is the capacitance of the second capacitor? (b) What is unreasonable about this result? (c) Which assumptions are unreasonable or inconsistent?",
+        "Image Links": [],
+        "Answer": "a. $$\\text{unicode[:-]3.00} \\text{mu} \\text{F}$$ ; b. You cannot have a negative $$C_{2}$$ capacitance. c. The assumption that they were hooked up in parallel, rather than in series, is incorrect. A parallel connection always produces a greater capacitance, while here a smaller capacitance was assumed. This could only happen if the capacitors are connected in series.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "(a) On a particular day, it takes $$9.60 \\times 10^{3} \\text{J}$$ of electrical energy to start a truck\u2019s engine. Calculate the capacitance of a capacitor that could store that amount of energy at 12.0 V. (b) What is unreasonable about this result? (c) Which assumptions are responsible?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "(a) A certain parallel-plate capacitor has plates of area $$4.00 \\text{m}^{2}$$ , separated by 0.0100 mm of nylon, and stores 0.170 C of charge. What is the applied voltage? (b) What is unreasonable about this result? (c) Which assumptions are responsible or inconsistent?",
+        "Image Links": [],
+        "Answer": "a. 14.2 kV; b. The voltage is unreasonably large, more than 100 times the breakdown voltage of nylon. c. The assumed charge is unreasonably large and cannot be stored in a capacitor of these dimensions.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A prankster applies 450 V to an $$80.0 \\text{-} \\mu \\text{F}$$ capacitor and then tosses it to an unsuspecting victim. The victim\u2019s finger is burned by the discharge of the capacitor through 0.200 g of flesh. Estimate, what is the temperature increase of the flesh? Is it reasonable to assume that no thermodynamic phase change happened?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

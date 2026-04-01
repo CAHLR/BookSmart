@@ -1,0 +1,850 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Will there always be solutions to trigonometric function equations? If not, describe an equation that would not have a solution. Explain why or why not.",
+        "Image Links": [],
+        "Answer": "There will not always be solutions to trigonometric function equations. For a basic example, $$\\cos{(} x ) = -5.$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "When solving a trigonometric equation involving more than one trig function, do we always want to try to rewrite the equation so it is expressed in terms of one trigonometric function? Why or why not?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "When solving linear trig equations in terms of only sine or cosine, how do we know whether there will be solutions?",
+        "Image Links": [],
+        "Answer": "If the sine or cosine function has a coefficient of one, isolate the term on one side of the equals sign. If the number it is set equal to has an absolute value less than or equal to one, the equation has solutions, otherwise it does not. If the sine or cosine does not have a coefficient equal to one, still isolate the term but then divide both sides of the equation by the leading coefficient.  Then, if the number it is set equal to has an absolute value greater than one, the equation has no solution.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find all solutions exactly on the interval $$0 \\le \\theta < 2 \\pi .$$",
+        "Question": "$$2 \\sin{} \\theta = - \\sqrt{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find all solutions exactly on the interval $$0 \\le \\theta < 2 \\pi .$$",
+        "Question": "$$2 \\sin{} \\theta = \\sqrt{3}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\pi}{3} , \\frac{2 \\pi}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find all solutions exactly on the interval $$0 \\le \\theta < 2 \\pi .$$",
+        "Question": "$$2 \\cos{} \\theta = 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find all solutions exactly on the interval $$0 \\le \\theta < 2 \\pi .$$",
+        "Question": "$$2 \\cos{} \\theta = - \\sqrt{2}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3 \\pi}{4} , \\frac{5 \\pi}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find all solutions exactly on the interval $$0 \\le \\theta < 2 \\pi .$$",
+        "Question": "$$\\tan{\\theta} = -1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find all solutions exactly on the interval $$0 \\le \\theta < 2 \\pi .$$",
+        "Question": "$$\\tan{x} = 1$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\pi}{4} , \\frac{5 \\pi}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find all solutions exactly on the interval $$0 \\le \\theta < 2 \\pi .$$",
+        "Question": "$$\\cot{x} + 1 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find all solutions exactly on the interval $$0 \\le \\theta < 2 \\pi .$$",
+        "Question": "$$4 \\sin{}^{2} x - 2 = 0$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\pi}{4} , \\frac{3 \\pi}{4} , \\frac{5 \\pi}{4} , \\frac{7 \\pi}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find all solutions exactly on the interval $$0 \\le \\theta < 2 \\pi .$$",
+        "Question": "$$\\csc{}^{2} x - 4 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve exactly on $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$2 \\cos{} \\theta = \\sqrt{2}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\pi}{4} , \\frac{7 \\pi}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve exactly on $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$2 \\cos{} \\theta = -1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve exactly on $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$2 \\sin{} \\theta = -1$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{7 \\pi}{6} , \\frac{11 \\pi}{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve exactly on $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$2 \\sin{} \\theta = - \\sqrt{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve exactly on $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$2 \\sin{} ( 3 \\theta ) = 1$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\pi}{18}$$ , $$\\frac{5 \\pi}{18}$$ , $$\\frac{13 \\pi}{18}$$ , $$\\frac{17 \\pi}{18}$$ , $$\\frac{25 \\pi}{18}$$ , $$\\frac{29 \\pi}{18}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve exactly on $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$2 \\sin{} ( 2 \\theta ) = \\sqrt{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve exactly on $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$2 \\cos{} ( 3 \\theta ) = - \\sqrt{2}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3 \\pi}{12} , \\frac{5 \\pi}{12} , \\frac{11 \\pi}{12} , \\frac{13 \\pi}{12} , \\frac{19 \\pi}{12} , \\frac{21 \\pi}{12}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve exactly on $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$\\cos{( 2 \\theta )} = - \\frac{\\sqrt{3}}{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve exactly on $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$2 \\sin{} ( \\pi \\theta ) = 1$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{6} , \\frac{5}{6} , \\frac{13}{6} , \\frac{17}{6} , \\frac{25}{6} , \\frac{29}{6} , \\frac{37}{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve exactly on $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$2 \\cos{} ( \\frac{\\pi}{5} \\theta ) = \\sqrt{3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find all exact solutions on $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$\\sec{(} x ) \\sin{} ( x ) - 2 \\sin{} ( x ) = 0$$",
+        "Image Links": [],
+        "Answer": "$$0 , \\frac{\\pi}{3} , \\pi , \\frac{5 \\pi}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find all exact solutions on $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$\\tan{(} x ) - 2 \\sin{} ( x ) \\tan{} ( x ) = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find all exact solutions on $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$2 \\cos{}^{2} t + \\cos{} ( t ) = 1$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\pi}{3} , \\pi , \\frac{5 \\pi}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find all exact solutions on $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$2 \\tan{}^{2} ( t ) = 3 \\sec{} ( t )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find all exact solutions on $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$2 \\sin{} ( x ) \\cos{} ( x ) - \\sin{} ( x ) + 2 \\cos{} ( x ) - 1 = 0$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\pi}{3} , \\frac{3 \\pi}{2} , \\frac{5 \\pi}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find all exact solutions on $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$\\cos{}^{2} \\theta = \\frac{1}{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find all exact solutions on $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$\\sec{}^{2} x = 1$$",
+        "Image Links": [],
+        "Answer": "$$0 , \\pi$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find all exact solutions on $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$\\tan{}^{2} ( x ) = - 1 + 2 \\tan{} ( - x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find all exact solutions on $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$8 \\sin{}^{2} ( x ) + 6 \\sin{} ( x ) + 1 = 0$$",
+        "Image Links": [],
+        "Answer": "$$\\pi - \\sin{}^{- 1} ( - \\frac{1}{4} ) , \\frac{7 \\pi}{6} , \\frac{11 \\pi}{6} , 2 \\pi + \\sin{}^{- 1} ( - \\frac{1}{4} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find all exact solutions on $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$\\tan{}^{5} ( x ) = \\tan{} ( x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve with the methods shown in this section exactly on the interval $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$\\sin{(} 3 x ) \\cos{} ( 6 x ) - \\cos{} ( 3 x ) \\sin{} ( 6 x ) = -0.9$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{3} ( \\sin{}^{- 1} ( \\frac{9}{10} ) ) ,$$ $$\\frac{\\pi}{3} - \\frac{1}{3} ( \\sin{}^{- 1} ( \\frac{9}{10} ) ) ,$$ $$\\frac{2 \\pi}{3} + \\frac{1}{3} ( \\sin{}^{- 1} ( \\frac{9}{10} ) ) ,$$ $$\\pi - \\frac{1}{3} ( \\sin{}^{- 1} ( \\frac{9}{10} ) ) ,$$ $$\\frac{4 \\pi}{3} + \\frac{1}{3} ( \\sin{}^{- 1} ( \\frac{9}{10} ) ) ,$$ $$\\frac{5 \\pi}{3} - \\frac{1}{3} ( \\sin{}^{- 1} ( \\frac{9}{10} ) )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve with the methods shown in this section exactly on the interval $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$\\sin{(} 6 x ) \\cos{} ( 11 x ) - \\cos{} ( 6 x ) \\sin{} ( 11 x ) = -0.1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve with the methods shown in this section exactly on the interval $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$\\cos{( 2 x )} \\cos{} x + \\sin{} ( 2 x ) \\sin{} x = 1$$",
+        "Image Links": [],
+        "Answer": "$$0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve with the methods shown in this section exactly on the interval $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$6 \\sin{} ( 2 t ) + 9 \\sin{} t = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve with the methods shown in this section exactly on the interval $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$9 \\cos{} ( 2 \\theta ) = 9 \\cos{}^{2} \\theta - 4$$",
+        "Image Links": [],
+        "Answer": "$$\\theta = \\sin{}^{- 1} ( \\frac{2}{3} ) ,$$ $$\\mathrm{\\pi} - \\sin{}^{- 1} ( \\frac{2}{3} ) ,$$ $$\\mathrm{\\pi} + \\sin{}^{- 1} ( \\frac{2}{3} ) ,$$ $$2 \\mathrm{\\pi} - \\sin{}^{- 1} ( \\frac{2}{3} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve with the methods shown in this section exactly on the interval $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$\\sin{( 2 t )} = \\cos{} t$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve with the methods shown in this section exactly on the interval $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$\\cos{( 2 t )} = \\sin{} t$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3 \\pi}{2} , \\frac{\\pi}{6} , \\frac{5 \\pi}{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve with the methods shown in this section exactly on the interval $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$\\cos{(} 6 x ) - \\cos{} ( 3 x ) = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve exactly on the interval $$[ 0 , 2 \\pi ) .$$ Use the quadratic formula if the equations do not factor.",
+        "Question": "$$\\tan{}^{2} x - \\sqrt{3} \\tan{} x = 0$$",
+        "Image Links": [],
+        "Answer": "$$0 , \\frac{\\pi}{3} , \\pi , \\frac{4 \\pi}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve exactly on the interval $$[ 0 , 2 \\pi ) .$$ Use the quadratic formula if the equations do not factor.",
+        "Question": "$$\\sin{}^{2} x + \\sin{} x - 2 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve exactly on the interval $$[ 0 , 2 \\pi ) .$$ Use the quadratic formula if the equations do not factor.",
+        "Question": "$$\\sin{}^{2} x - 2 \\sin{} x - 4 = 0$$",
+        "Image Links": [],
+        "Answer": "There are no solutions.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve exactly on the interval $$[ 0 , 2 \\pi ) .$$ Use the quadratic formula if the equations do not factor.",
+        "Question": "$$5 \\cos{}^{2} x + 3 \\cos{} x - 1 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve exactly on the interval $$[ 0 , 2 \\pi ) .$$ Use the quadratic formula if the equations do not factor.",
+        "Question": "$$3 \\cos{}^{2} x - 2 \\cos{} x - 2 = 0$$",
+        "Image Links": [],
+        "Answer": "$$\\cos{}^{- 1} ( \\frac{1}{3} ( 1 - \\sqrt{7} ) ) , 2 \\pi - \\cos{}^{- 1} ( \\frac{1}{3} ( 1 - \\sqrt{7} ) )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve exactly on the interval $$[ 0 , 2 \\pi ) .$$ Use the quadratic formula if the equations do not factor.",
+        "Question": "$$5 \\sin{}^{2} x + 2 \\sin{} x - 1 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve exactly on the interval $$[ 0 , 2 \\pi ) .$$ Use the quadratic formula if the equations do not factor.",
+        "Question": "$$\\tan{}^{2} x + 5 \\tan{} x - 1 = 0$$",
+        "Image Links": [],
+        "Answer": "$$\\tan{}^{- 1} ( \\frac{1}{2} ( \\sqrt{29} - 5 ) ) , \\pi + \\tan{}^{- 1} ( \\frac{1}{2} ( - \\sqrt{29} - 5 ) ) , \\pi + \\tan{}^{- 1} ( \\frac{1}{2} ( \\sqrt{29} - 5 ) ) , 2 \\pi + \\tan{}^{- 1} ( \\frac{1}{2} ( - \\sqrt{29} - 5 ) )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve exactly on the interval $$[ 0 , 2 \\pi ) .$$ Use the quadratic formula if the equations do not factor.",
+        "Question": "$$\\cot{}^{2} x = - \\cot{} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve exactly on the interval $$[ 0 , 2 \\pi ) .$$ Use the quadratic formula if the equations do not factor.",
+        "Question": "$$- \\tan{}^{2} x - \\tan{} x - 2 = 0$$",
+        "Image Links": [],
+        "Answer": "There are no solutions.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find exact solutions on the interval $$[ 0 , 2 \\pi ) .$$ Look for opportunities to use trigonometric identities.",
+        "Question": "$$\\sin{}^{2} x - \\cos{}^{2} x - \\sin{} x = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find exact solutions on the interval $$[ 0 , 2 \\pi ) .$$ Look for opportunities to use trigonometric identities.",
+        "Question": "$$\\sin{}^{2} x + \\cos{}^{2} x = 0$$",
+        "Image Links": [],
+        "Answer": "There are no solutions.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find exact solutions on the interval $$[ 0 , 2 \\pi ) .$$ Look for opportunities to use trigonometric identities.",
+        "Question": "$$\\sin{( 2 x )} - \\sin{} x = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find exact solutions on the interval $$[ 0 , 2 \\pi ) .$$ Look for opportunities to use trigonometric identities.",
+        "Question": "$$\\cos{( 2 x )} - \\cos{} x = 0$$",
+        "Image Links": [],
+        "Answer": "$$0 , \\frac{2 \\pi}{3} , \\frac{4 \\pi}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find exact solutions on the interval $$[ 0 , 2 \\pi ) .$$ Look for opportunities to use trigonometric identities.",
+        "Question": "$$\\frac{2 \\tan{} x}{2 - \\sec{}^{2} x} - \\sin{}^{2} x = \\cos{}^{2} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find exact solutions on the interval $$[ 0 , 2 \\pi ) .$$ Look for opportunities to use trigonometric identities.",
+        "Question": "$$1 - \\cos{} ( 2 x ) = 1 + \\cos{} ( 2 x )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\pi}{4} , \\frac{3 \\pi}{4} , \\frac{5 \\pi}{4} , \\frac{7 \\pi}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find exact solutions on the interval $$[ 0 , 2 \\pi ) .$$ Look for opportunities to use trigonometric identities.",
+        "Question": "$$\\sec{}^{2} x = 7$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find exact solutions on the interval $$[ 0 , 2 \\pi ) .$$ Look for opportunities to use trigonometric identities.",
+        "Question": "$$10 \\sin{} x \\cos{} x = 6 \\cos{} x$$",
+        "Image Links": [],
+        "Answer": "$$\\sin{}^{- 1} ( \\frac{3}{5} ) , \\frac{\\pi}{2} , \\pi - \\sin{}^{- 1} ( \\frac{3}{5} ) , \\frac{3 \\pi}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find exact solutions on the interval $$[ 0 , 2 \\pi ) .$$ Look for opportunities to use trigonometric identities.",
+        "Question": "$$-3 \\sin{} t = 15 \\cos{} t \\sin{} t$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find exact solutions on the interval $$[ 0 , 2 \\pi ) .$$ Look for opportunities to use trigonometric identities.",
+        "Question": "$$4 \\cos{}^{2} x - 4 = 15 \\cos{} x$$",
+        "Image Links": [],
+        "Answer": "$$\\cos{}^{- 1} ( - \\frac{1}{4} )$$ , $$2 \\pi - \\cos{}^{- 1} ( - \\frac{1}{4} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find exact solutions on the interval $$[ 0 , 2 \\pi ) .$$ Look for opportunities to use trigonometric identities.",
+        "Question": "$$8 \\sin{}^{2} x + 6 \\sin{} x + 1 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find exact solutions on the interval $$[ 0 , 2 \\pi ) .$$ Look for opportunities to use trigonometric identities.",
+        "Question": "$$8 \\cos{}^{2} \\theta = 3 - 2 \\cos{} \\theta$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\pi}{3} , \\cos{}^{- 1} ( - \\frac{3}{4} ) , 2 \\pi - \\cos{}^{- 1} ( - \\frac{3}{4} ) , \\frac{5 \\pi}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find exact solutions on the interval $$[ 0 , 2 \\pi ) .$$ Look for opportunities to use trigonometric identities.",
+        "Question": "$$6 \\cos{}^{2} x + 7 \\sin{} x - 8 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find exact solutions on the interval $$[ 0 , 2 \\pi ) .$$ Look for opportunities to use trigonometric identities.",
+        "Question": "$$12 \\sin{}^{2} t + \\cos{} t - 6 = 0$$",
+        "Image Links": [],
+        "Answer": "$$\\cos{}^{- 1} ( \\frac{3}{4} ) , \\cos{}^{- 1} ( - \\frac{2}{3} ) , 2 \\pi - \\cos{}^{- 1} ( - \\frac{2}{3} )$$ , $$2 \\pi - \\cos{}^{- 1} ( \\frac{3}{4} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find exact solutions on the interval $$[ 0 , 2 \\pi ) .$$ Look for opportunities to use trigonometric identities.",
+        "Question": "$$\\tan{x} = 3 \\sin{} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find exact solutions on the interval $$[ 0 , 2 \\pi ) .$$ Look for opportunities to use trigonometric identities.",
+        "Question": "$$\\cos{}^{3} t = \\cos{} t$$",
+        "Image Links": [],
+        "Answer": "$$0 , \\frac{\\pi}{2} , \\pi , \\frac{3 \\pi}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, algebraically determine all solutions of the trigonometric equation exactly, then verify the results by graphing the equation and finding the zeros.",
+        "Question": "$$6 \\sin{}^{2} x - 5 \\sin{} x + 1 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, algebraically determine all solutions of the trigonometric equation exactly, then verify the results by graphing the equation and finding the zeros.",
+        "Question": "$$8 \\cos{}^{2} x - 2 \\cos{} x - 1 = 0$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\pi}{3} , \\cos{}^{-1} ( - \\frac{1}{4} ) , 2 \\pi - \\cos{}^{-1} ( - \\frac{1}{4} ) , \\frac{5 \\pi}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, algebraically determine all solutions of the trigonometric equation exactly, then verify the results by graphing the equation and finding the zeros.",
+        "Question": "$$100 \\tan{}^{2} x + 20 \\tan{} x - 3 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, algebraically determine all solutions of the trigonometric equation exactly, then verify the results by graphing the equation and finding the zeros.",
+        "Question": "$$2 \\cos{}^{2} x - \\cos{} x + 15 = 0$$",
+        "Image Links": [],
+        "Answer": "There are no solutions.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, algebraically determine all solutions of the trigonometric equation exactly, then verify the results by graphing the equation and finding the zeros.",
+        "Question": "$$20 \\sin{}^{2} x - 27 \\sin{} x + 7 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, algebraically determine all solutions of the trigonometric equation exactly, then verify the results by graphing the equation and finding the zeros.",
+        "Question": "$$2 \\tan{}^{2} x + 7 \\tan{} x + 6 = 0$$",
+        "Image Links": [],
+        "Answer": "$$\\pi + \\tan{}^{-1} ( -2 )$$ , $$\\pi + \\tan{}^{-1} ( - \\frac{3}{2} ) ,$$ $$2 \\pi + \\tan{}^{-1} ( -2 ) ,$$ $$2 \\pi + \\tan{}^{-1} ( - \\frac{3}{2} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, algebraically determine all solutions of the trigonometric equation exactly, then verify the results by graphing the equation and finding the zeros.",
+        "Question": "$$130 \\tan{}^{2} x + 69 \\tan{} x - 130 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to find all solutions to four decimal places.",
+        "Question": "$$\\sin{x} = 0.27$$",
+        "Image Links": [],
+        "Answer": "$$2 \\pi k + 0.2734 , 2 \\pi k + 2.8682$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to find all solutions to four decimal places.",
+        "Question": "$$\\sin{x} = -0.55$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to find all solutions to four decimal places.",
+        "Question": "$$\\tan{x} = -0.34$$",
+        "Image Links": [],
+        "Answer": "$$\\pi k - 0.3277$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to find all solutions to four decimal places.",
+        "Question": "$$\\cos{x} = 0.71$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, solve the equations algebraically, and then use a calculator to find the values on the interval $$[ 0 , 2 \\pi ) .$$ Round to four decimal places.",
+        "Question": "$$\\tan{}^{2} x + 3 \\tan{} x - 3 = 0$$",
+        "Image Links": [],
+        "Answer": "$$0.6694 , 1.8287 , 3.8110 , 4.9703$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, solve the equations algebraically, and then use a calculator to find the values on the interval $$[ 0 , 2 \\pi ) .$$ Round to four decimal places.",
+        "Question": "$$6 \\tan{}^{2} x + 13 \\tan{} x = -6$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, solve the equations algebraically, and then use a calculator to find the values on the interval $$[ 0 , 2 \\pi ) .$$ Round to four decimal places.",
+        "Question": "$$\\tan{}^{2} x - \\sec{} x = 1$$",
+        "Image Links": [],
+        "Answer": "$$1.0472 , 3.1416 , 5.2360$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, solve the equations algebraically, and then use a calculator to find the values on the interval $$[ 0 , 2 \\pi ) .$$ Round to four decimal places.",
+        "Question": "$$\\sin{}^{2} x - 2 \\cos{}^{2} x = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, solve the equations algebraically, and then use a calculator to find the values on the interval $$[ 0 , 2 \\pi ) .$$ Round to four decimal places.",
+        "Question": "$$2 \\tan{}^{2} x + 9 \\tan{} x - 6 = 0$$",
+        "Image Links": [],
+        "Answer": "$$0.5326 , 1.7648 , 3.6742 , 4.9064$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, solve the equations algebraically, and then use a calculator to find the values on the interval $$[ 0 , 2 \\pi ) .$$ Round to four decimal places.",
+        "Question": "$$4 \\sin{}^{2} x + \\sin{} ( 2 x ) \\sec{} x - 3 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, find all solutions exactly to the equations on the interval $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$\\csc{}^{2} x - 3 \\csc{} x - 4 = 0$$",
+        "Image Links": [],
+        "Answer": "$$\\sin{}^{- 1} ( \\frac{1}{4} ) , \\pi - \\sin{}^{- 1} ( \\frac{1}{4} ) , \\frac{3 \\pi}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, find all solutions exactly to the equations on the interval $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$\\sin{}^{2} x - \\cos{}^{2} x - 1 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, find all solutions exactly to the equations on the interval $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$\\sin{}^{2} x ( 1 - \\sin{}^{2} x ) + \\cos{}^{2} x ( 1 - \\sin{}^{2} x ) = 0$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\pi}{2} , \\frac{3 \\pi}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, find all solutions exactly to the equations on the interval $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$3 \\sec{}^{2} x + 2 + \\sin{}^{2} x - \\tan{}^{2} x + \\cos{}^{2} x = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, find all solutions exactly to the equations on the interval $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$\\sin{}^{2} x - 1 + 2 \\cos{} ( 2 x ) - \\cos{}^{2} x = 1$$",
+        "Image Links": [],
+        "Answer": "There are no solutions.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, find all solutions exactly to the equations on the interval $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$\\tan{}^{2} x - 1 - \\sec{}^{3} x \\cos{} x = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, find all solutions exactly to the equations on the interval $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$\\frac{\\sin{( 2 x )}}{\\sec{}^{2} x} = 0$$",
+        "Image Links": [],
+        "Answer": "$$0 , \\frac{\\pi}{2} , \\pi , \\frac{3 \\pi}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, find all solutions exactly to the equations on the interval $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$\\frac{\\sin{( 2 x )}}{2 \\csc{}^{2} x} = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, find all solutions exactly to the equations on the interval $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$2 \\cos{}^{2} x - \\sin{}^{2} x - \\cos{} x - 5 = 0$$",
+        "Image Links": [],
+        "Answer": "There are no solutions.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, find all solutions exactly to the equations on the interval $$[ 0 , 2 \\pi ) .$$",
+        "Question": "$$\\frac{1}{\\sec{}^{2} x} + 2 + \\sin{}^{2} x + 4 \\cos{}^{2} x = 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "An airplane has only enough gas to fly to a city 200 miles northeast of its current location. If the pilot knows that the city is 25 miles north, how many degrees north of east should the airplane fly?",
+        "Image Links": [],
+        "Answer": "$$7.2^{\\vysmwhtcircle}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "If a loading ramp is placed next to a truck, at a height of 4 feet, and the ramp is 15 feet long, what angle does the ramp make with the ground?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "If a loading ramp is placed next to a truck, at a height of 2 feet, and the ramp is 20 feet long, what angle does the ramp make with the ground?",
+        "Image Links": [],
+        "Answer": "$$5.7^{\\vysmwhtcircle}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A woman is watching a launched rocket currently 11 miles in altitude. If she is standing 4 miles from the launch pad, at what angle is she looking up from horizontal?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "An astronaut is in a launched rocket currently 15 miles in altitude. If a man is standing 2 miles from the launch pad, at what angle is she looking down at him from horizontal? (Hint: this is called the angle of depression.)",
+        "Image Links": [],
+        "Answer": "$$82.4^{\\vysmwhtcircle}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A woman is standing 8 meters away from a 10-meter tall building. At what angle is she looking to the top of the building?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A man is standing 10 meters away from a 6-meter tall building. Someone at the top of the building is looking down at him. At what angle is the person looking at him?",
+        "Image Links": [],
+        "Answer": "$$31.0^{\\vysmwhtcircle}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A 20-foot tall building has a shadow that is 55 feet long. What is the angle of elevation of the sun?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A 90-foot tall building has a shadow that is 2 feet long. What is the angle of elevation of the sun?",
+        "Image Links": [],
+        "Answer": "$$88.7^{\\vysmwhtcircle}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A spotlight on the ground 3 meters from a 2-meter tall man casts a 6 meter shadow on a wall 6 meters from the man. At what angle is the light?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A spotlight on the ground 3 feet from a 5-foot tall woman casts a 15-foot tall shadow on a wall 6 feet from the woman. At what angle is the light?",
+        "Image Links": [],
+        "Answer": "$$59.0^{\\vysmwhtcircle}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, find a solution to the word problem algebraically. Then use a calculator to verify the result. Round the answer to the nearest tenth of a degree.",
+        "Question": "A person does a handstand with his feet touching a wall and his hands 1.5 feet away from the wall. If the person is 6 feet tall, what angle do his feet make with the wall?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, find a solution to the word problem algebraically. Then use a calculator to verify the result. Round the answer to the nearest tenth of a degree.",
+        "Question": "A person does a handstand with her feet touching a wall and her hands 3 feet away from the wall. If the person is 5 feet tall, what angle do her feet make with the wall?",
+        "Image Links": [],
+        "Answer": "$$36.9^{\\vysmwhtcircle}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "For the following exercises, find a solution to the word problem algebraically. Then use a calculator to verify the result. Round the answer to the nearest tenth of a degree.",
+        "Question": "A 23-foot ladder is positioned next to a house. If the ladder slips at 7 feet from the house when there is not enough traction, what angle should the ladder make with the ground to avoid slipping?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,434 @@
+[
+    {
+        "Topic": "10.1 Properties of Nuclei",
+        "Problem Statement": "",
+        "Question": "Find the atomic numbers, mass numbers, and neutron numbers for (a) $$_{29}^{58} \\text{C} \\text{u} ,$$ (b) $$_{11}^{24} \\text{N} \\text{a} ,$$ (c) $$_{84}^{210} \\text{P} \\text{o} ,$$ (d) $$_{20}^{45} \\text{C} \\text{a} ,$$ and (e) $$_{82}^{206} \\text{P} \\text{b}$$ .",
+        "Image Links": [],
+        "Answer": "Use the rule $$A = Z + N .$$ \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|}\n\\hline\n & Atomic Number (Z) & Neutron Number (N) & Mass Number (A) \\\\ \\hline\n(a) & 29 & 29 & 58 \\\\ \\hline\n(b) & 11 & 13 & 24 \\\\ \\hline\n(c) & 84 & 126 & 210 \\\\ \\hline\n(d) & 20 & 25 & 45 \\\\ \\hline\n(e) & 82 & 124 & 206 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.1 Properties of Nuclei",
+        "Problem Statement": "",
+        "Question": "Silver has two stable isotopes. The nucleus, $$_{47}^{107} \\text{A} \\text{g} ,$$ has atomic mass 106.905095 g/mol with an abundance of $$51.83 \\text{%}$$ ; whereas $$_{47}^{109} \\text{A} \\text{g}$$ has atomic mass 108.904754 g/mol with an abundance of $$48.17 \\text{%}$$ . Find the atomic mass of the element silver.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.1 Properties of Nuclei",
+        "Problem Statement": "",
+        "Question": "The mass ( M ) and the radius ( r ) of a nucleus can be expressed in terms of the mass number, A . (a) Show that the density of a nucleus is independent of A . (b) Calculate the density of a gold (Au) nucleus. Compare your answer to that for iron (Fe).",
+        "Image Links": [],
+        "Answer": "a. $$r = r_{0} A^{1 \\text{/} 3} , \\rho = \\frac{3 \\text{u}}{4 \\pi r_{0} ^{3}}$$ ; b. $$\\left .\\begin{matrix}{aaa}\\rho & = & 2.3 \\times 10^{17} \\text{kg/m}^{3}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.1 Properties of Nuclei",
+        "Problem Statement": "",
+        "Question": "A particle has a mass equal to 10 u. If this mass is converted completely into energy, how much energy is released? Express your answer in mega-electron volts (MeV). (Recall that $$1 \\text{eV} = 1.6 \\times 10^{-19} \\text{J}$$ .)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.1 Properties of Nuclei",
+        "Problem Statement": "",
+        "Question": "Find the length of a side of a cube having a mass of 1.0 kg and the density of nuclear matter.",
+        "Image Links": [],
+        "Answer": "side length $$= 1.6 \\text{mum}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.1 Properties of Nuclei",
+        "Problem Statement": "",
+        "Question": "The detail that you can observe using a probe is limited by its wavelength. Calculate the energy of a particle that has a wavelength of $$1 \\times 10^{-16} \\text{m}$$ , small enough to detect details about one-tenth the size of a nucleon.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.2 Nuclear Binding Energy",
+        "Problem Statement": "",
+        "Question": "How much energy would be released if six hydrogen atoms and six neutrons were combined to form $$_{6}^{12} \\text{C} ?$$",
+        "Image Links": [],
+        "Answer": "92.4 MeV",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.2 Nuclear Binding Energy",
+        "Problem Statement": "",
+        "Question": "Find the mass defect and the binding energy for the helium-4 nucleus.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.2 Nuclear Binding Energy",
+        "Problem Statement": "",
+        "Question": "$$^{56} \\text{Fe}$$ is among the most tightly bound of all nuclides. It makes up more than $$90 \\text{%}$$ of natural iron. Note that $$^{56} \\text{Fe}$$ has even numbers of protons and neutrons. Calculate the binding energy per nucleon for $$^{56} \\text{Fe}$$ and compare it with the approximate value obtained from the graph in Figure 10.7.",
+        "Image Links": [],
+        "Answer": "$$8.790 \\text{MeV} \\approx \\text{graph\u2019s value}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.2 Nuclear Binding Energy",
+        "Problem Statement": "",
+        "Question": "$$^{209} \\text{Bi}$$ is the heaviest stable nuclide, and its BEN is low compared with medium-mass nuclides. Calculate BEN for this nucleus and compare it with the approximate value obtained from the graph in Figure 10.7.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.2 Nuclear Binding Energy",
+        "Problem Statement": "",
+        "Question": "(a) Calculate BEN for $$^{235} \\text{U}$$ , the rarer of the two most common uranium isotopes; (b) Calculate BEN for $$^{238} \\text{U}$$ . (Most of uranium is $$^{238} \\text{U}$$ .)",
+        "Image Links": [],
+        "Answer": "a. 7.570 MeV; b. $$7.591 \\text{MeV} \\approx \\text{graph\u2019s value}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.2 Nuclear Binding Energy",
+        "Problem Statement": "",
+        "Question": "The fact that BEN peaks at roughly $$A = 60$$ implies that the range of the strong nuclear force is about the diameter of this nucleus. (a) Calculate the diameter of $$A = 60$$ nucleus. (b) Compare BEN for $$^{58} \\text{Ni and} ^{90} \\text{Sr}$$ . The first is one of the most tightly bound nuclides, whereas the second is larger and less tightly bound.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.3 Radioactive Decay",
+        "Problem Statement": "",
+        "Question": "A sample of radioactive material is obtained from a very old rock. A plot ln A verses t yields a slope value of $$\\text{unicode[:-]} 10^{-9} \\text{s}^{-1}$$ (see Figure 10.10(b)). What is the half-life of this material?",
+        "Image Links": [],
+        "Answer": "The decay constant is equal to the negative value of the slope or $$10^{-9} \\text{s}^{-1} .$$ The half-life of the nuclei, and thus the material, is $$T_{1 \\text{/} 2} = 693 \\text{million years} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.3 Radioactive Decay",
+        "Problem Statement": "",
+        "Question": "Show that: $$\\overset{-}{T} = \\frac{1}{\\text{lambda}}$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.3 Radioactive Decay",
+        "Problem Statement": "",
+        "Question": "The half-life of strontium-91, $$_{38}^{91} \\text{S} \\text{r}$$ is 9.70 h. Find (a) its decay constant and (b) for an initial 1.00-g sample, the activity after 15 hours.",
+        "Image Links": [],
+        "Answer": "a. The decay constant is $$\\lambda = 1.99 \\times 10^{-5} \\text{s}^{\\text{unicode[:-]} 1}$$ . b. Since strontium-91 has an atomic mass of 90.90 g, the number of nuclei in a 1.00-g sample is initially $$N_{0} = 6.63 \\times 10^{21} \\text{nuclei} .$$ The initial activity for strontium-91 is $$\\left .\\begin{matrix}{aa}A_{0} & = \\lambda N_{0} \\\\  & = 1.32 \\times 10^{17} \\text{decays/s}\\end{matrix}\\right .$$ The activity at $$t = 15.0 \\text{h} = 5.40 \\times 10^{4} \\text{s}$$ is $$A = 4.51 \\times 10^{16} \\text{decays/s} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.3 Radioactive Decay",
+        "Problem Statement": "",
+        "Question": "A sample of pure carbon-14 $$( T_{1 \\text{/} 2} = 5730 \\text{y} )$$ has an activity of $$1.0 \\mu \\text{Ci} .$$ What is the mass of the sample?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.3 Radioactive Decay",
+        "Problem Statement": "",
+        "Question": "A radioactive sample initially contains $$2.40 \\times 10^{\\text{unicode[:-]} 2}$$ mol of a radioactive material whose half-life is 6.00 h. How many moles of the radioactive material remain after 6.00 h? After 12.0 h? After 36.0 h?",
+        "Image Links": [],
+        "Answer": "$$1.20 \\times 10^{\\text{unicode[:-]} 2} \\text{mol}$$ ; $$6.00 \\times 10^{\\text{unicode[:-]} 3} \\text{mol}$$ ; $$3.75 \\times 10^{\\text{unicode[:-]} 4} \\text{mol}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.3 Radioactive Decay",
+        "Problem Statement": "",
+        "Question": "An old campfire is uncovered during an archaeological dig. Its charcoal is found to contain less than 1/1000 the normal amount of $$^{14} \\text{C}$$ . Estimate the minimum age of the charcoal, noting that $$2^{10} = 1024 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.3 Radioactive Decay",
+        "Problem Statement": "",
+        "Question": "Calculate the activity $$R$$ , in curies of 1.00 g of $$^{226} \\text{R} \\text{a} .$$ (b) Explain why your answer is not exactly 1.00 Ci, given that the curie was originally supposed to be exactly the activity of a gram of radium.",
+        "Image Links": [],
+        "Answer": "a. 0.988 Ci; b. The half-life of $$^{226} \\text{R} \\text{a}$$ is more precisely known than it was when the Ci unit was established.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.3 Radioactive Decay",
+        "Problem Statement": "",
+        "Question": "Natural uranium consists of $$^{235} \\text{U}$$ $$( \\text{percent abundance} = 0.7200 \\text{%}$$ , $$\\lambda = 3.12 \\times 10^{-17} \\text{/} \\text{s} )$$ and $$^{238} \\text{U}$$ $$( \\text{percent abundance} = 99.27 \\text{%}$$ , $$\\lambda = 4.92 \\times 10^{-18} \\text{/} \\text{s} ) .$$ What were the values for percent abundance of $$^{235} \\text{U}$$ and $$^{238} \\text{U}$$ when Earth formed $$4.5 \\times 10^{9}$$ years ago?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.3 Radioactive Decay",
+        "Problem Statement": "",
+        "Question": "World War II aircraft had instruments with glowing radium-painted dials. The activity of one such instrument was $$1.0 \\times 10^{5}$$ Bq when new. (a) What mass of $$^{226} \\text{R} \\text{a}$$ was present? (b) After some years, the phosphors on the dials deteriorated chemically, but the radium did not escape. What is the activity of this instrument 57.0 years after it was made?",
+        "Image Links": [],
+        "Answer": "a. $$2.73 \\mu \\text{g}$$ ; b. $$9.76 \\times 10^{4} \\text{Bq}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.3 Radioactive Decay",
+        "Problem Statement": "",
+        "Question": "The $$^{210} \\text{P} \\text{o}$$ source used in a physics laboratory is labeled as having an activity of $$1.0 \\text{muCi}$$ on the date it was prepared. A student measures the radioactivity of this source with a Geiger counter and observes 1500 counts per minute. She notices that the source was prepared 120 days before her lab. What fraction of the decays is she observing with her apparatus?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.3 Radioactive Decay",
+        "Problem Statement": "",
+        "Question": "Armor-piercing shells with depleted uranium cores are fired by aircraft at tanks. (The high density of the uranium makes them effective.) The uranium is called depleted because it has had its $$^{235} \\text{U}$$ removed for reactor use and is nearly pure $$^{238} \\text{U}$$ . Depleted uranium has been erroneously called nonradioactive. To demonstrate that this is wrong: (a) Calculate the activity of 60.0 g of pure $$^{238} \\text{U}$$ . (b) Calculate the activity of 60.0 g of natural uranium, neglecting the $$^{234} \\text{U}$$ and all daughter nuclides.",
+        "Image Links": [],
+        "Answer": "a. $$7.46 \\times 10^{5} \\text{Bq}$$ ; b. $$7.75 \\times 10^{5} \\text{Bq}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.4 Nuclear Reactions",
+        "Problem Statement": "",
+        "Question": "$$^{249} \\text{C} \\text{f}$$ undergoes alpha decay. (a) Write the reaction equation. (b) Find the energy released in the decay.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.4 Nuclear Reactions",
+        "Problem Statement": "",
+        "Question": "(a) Calculate the energy released in the $$\\alpha$$ decay of $$^{238} \\text{U}$$ . (b) What fraction of the mass of a single $$^{238} \\text{U}$$ is destroyed in the decay? The mass of $$^{234} \\text{T} \\text{h}$$ is 234.043593 u. (c) Although the fractional mass loss is large for a single nucleus, it is difficult to observe for an entire macroscopic sample of uranium. Why is this?",
+        "Image Links": [],
+        "Answer": "a. 4.273 MeV; b. $$1.927 \\times 10^{-5}$$ ; c. Since $$^{238} \\text{U}$$ is a slowly decaying substance, only a very small number of nuclei decay on human timescales; therefore, although those nuclei that decay lose a noticeable fraction of their mass, the change in the total mass of the sample is not detectable for a macroscopic sample.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.4 Nuclear Reactions",
+        "Problem Statement": "",
+        "Question": "The $$\\beta^{-}$$ particles emitted in the decay of $$^{3} \\text{H}$$ (tritium) interact with matter to create light in a glow-in-the-dark exit sign. At the time of manufacture, such a sign contains 15.0 Ci of $$^{3} \\text{H}$$ . (a) What is the mass of the tritium? (b) What is its activity 5.00 y after manufacture?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.4 Nuclear Reactions",
+        "Problem Statement": "",
+        "Question": "(a) Write the complete $$\\beta^{-}$$ decay equation for $$^{90} \\text{S} \\text{r} ,$$ a major waste product of nuclear reactors. (b) Find the energy released in the decay.",
+        "Image Links": [],
+        "Answer": "a. $$_{38}^{90} \\text{S} \\text{r}_{52} \\vec{} _{39}^{90} \\text{Y} _{51} + \\beta^{-1} + \\overset{-}{ \\left ( v_{e} \\right ) }$$ ; b. 0.546 MeV",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.4 Nuclear Reactions",
+        "Problem Statement": "",
+        "Question": "Write a nuclear $$\\beta^{-}$$ decay reaction that produces the $$^{90} \\text{Y}$$ nucleus. ( Hint: The parent nuclide is a major waste product of reactors and has chemistry similar to calcium, so that it is concentrated in bones if ingested.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.4 Nuclear Reactions",
+        "Problem Statement": "",
+        "Question": "Write the complete decay equation in the complete $$_{Z}^{A} \\text{X} _{N}$$ notation for the beta ( $$\\beta^{-}$$ ) decay of $$^{3} \\text{H}$$ (tritium), a manufactured isotope of hydrogen used in some digital watch displays, and manufactured primarily for use in hydrogen bombs.",
+        "Image Links": [],
+        "Answer": "$$_{1}^{3} \\text{H} _{2} \\vec{} _{2}^{3} \\text{H} \\text{e}_{1} + \\beta^{-} + \\overset{-}{ \\left ( v_{e} \\right ) }$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.4 Nuclear Reactions",
+        "Problem Statement": "",
+        "Question": "If a 1.50-cm-thick piece of lead can absorb $$90.0 \\text{%}$$ of the rays from a radioactive source, how many centimeters of lead are needed to absorb all but $$0.100 \\text{%}$$ of the rays?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.4 Nuclear Reactions",
+        "Problem Statement": "",
+        "Question": "An electron can interact with a nucleus through the beta-decay process: $$_{Z}^{A} \\text{X} \\text{+} e^{-} \\vec{} Y + v_{e}$$ . (a) Write the complete reaction equation for electron capture by $$^{7} \\text{Be}$$ . (b) Calculate the energy released.",
+        "Image Links": [],
+        "Answer": "a. $$_{4}^{7} \\text{B} \\text{e}_{3} + e^{-} \\vec{} _{3}^{7} \\text{L} \\text{i}_{4} + v_{e}$$ ; b. 0.862 MeV",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.4 Nuclear Reactions",
+        "Problem Statement": "",
+        "Question": "(a) Write the complete reaction equation for electron capture by $$^{15} \\text{O} .$$ (b) Calculate the energy released.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.4 Nuclear Reactions",
+        "Problem Statement": "",
+        "Question": "A rare decay mode has been observed in which $$^{222} \\text{R} \\text{a}$$ emits a $$^{14} \\text{C}$$ nucleus. (a) The decay equation is $$^{222} \\text{Ra} \\vec{} ^{A} \\text{X} + ^{14} \\text{C}$$ . Identify the nuclide $$^{A} \\text{X}$$ . (b) Find the energy emitted in the decay. The mass of $$^{222} \\text{Ra}$$ is 222.015353 u.",
+        "Image Links": [],
+        "Answer": "a. $$\\text{X} = _{82}^{208} \\text{P} \\text{b}_{126}$$ ; b. 33.05 MeV",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.5 Fission",
+        "Problem Statement": "",
+        "Question": "A large power reactor that has been in operation for some months is turned off, but residual activity in the core still produces 150 MW of power. If the average energy per decay of the fission products is 1.00 MeV, what is the core activity?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.5 Fission",
+        "Problem Statement": "",
+        "Question": "(a) Calculate the energy released in this rare neutron-induced fission $$n + ^{238} \\text{U} \\vec{} ^{96} \\text{S} \\text{r} + ^{140} \\text{X} \\text{e} + 3 n$$ , given $$m ( ^{96} \\text{S} \\text{r} ) = 95.921750 \\text{u}$$ and $$m ( ^{140} \\text{X} \\text{e} ) = 139.92164$$ . (b) This result is about 6 MeV greater than the result for spontaneous fission. Why? (c) Confirm that the total number of nucleons and total charge are conserved in this reaction.",
+        "Image Links": [],
+        "Answer": "a. 177.1 MeV; b. This value is approximately equal to the average BEN for heavy nuclei. c. $$\\left .\\begin{matrix}{aa}\\text{n} + _{92}^{238} \\text{U} _{146} & \\vec{} _{38}^{96} \\text{S} \\text{r}_{58} + _{54}^{140} \\text{X} \\text{e}_{86} + 3 \\text{n} , \\\\ A_{\\text{i}} & = 239 = A_{\\text{f}} , \\\\ Z_{\\text{i}} & = 92 = 38 + 54 = Z_{\\text{f}}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.5 Fission",
+        "Problem Statement": "",
+        "Question": "(a) Calculate the energy released in the neutron-induced fission reaction $$n + ^{235} \\text{U} \\vec{} ^{92} \\text{K} \\text{r} + ^{142} \\text{B} \\text{a} + 2 n$$ , given $$m ( ^{92} \\text{K} \\text{r} ) = 91.926269 \\text{u}$$ and $$m ( ^{142} \\text{B} \\text{a} ) = 141.916361 \\text{u}$$ . (b) Confirm that the total number of nucleons and total charge are conserved in this reaction.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.5 Fission",
+        "Problem Statement": "",
+        "Question": "The electrical power output of a large nuclear reactor facility is 900 MW. It has a $$35.0 \\text{%}$$ efficiency in converting nuclear power to electrical power. (a) What is the thermal nuclear power output in megawatts? (b) How many $$^{235} \\text{U}$$ nuclei fission each second, assuming the average fission produces 200 MeV? (c) What mass of $$^{235} \\text{U}$$ is fissioned in 1 year of full-power operation?",
+        "Image Links": [],
+        "Answer": "a. $$2.57 \\times 10^{3} \\text{MW}$$ ; b. $$8.04 \\times 10^{19} \\text{fissions/s}$$ ; c. 991 kg",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.5 Fission",
+        "Problem Statement": "",
+        "Question": "Find the total energy released if 1.00 kg of $$_{92}^{235} \\text{U}$$ were to undergo fission.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.6 Nuclear Fusion",
+        "Problem Statement": "",
+        "Question": "Verify that the total number of nucleons, and total charge are conserved for each of the following fusion reactions in the proton-proton chain. (i) $$^{1} \\text{H} + ^{1} \\text{H} \\vec{} ^{2} \\text{H} + e^{+} + v_{\\text{e}}$$ , (ii) $$^{1} \\text{H} + ^{2} \\text{H} \\vec{} ^{3} \\text{H} \\text{e} + \\gamma$$ , and (iii) $$^{3} \\text{H} \\text{e} + ^{3} \\text{H} \\text{e} \\vec{} ^{4} \\text{H} \\text{e} + ^{1} \\text{H} + ^{1} \\text{H}$$ . (List the value of each of the conserved quantities before and after each of the reactions.)",
+        "Image Links": [],
+        "Answer": "i. $$\\left .\\begin{matrix}{aa}_{1}^{1} \\text{H} + _{1}^{1} \\text{H} & \\vec{} _{1}^{2} \\text{H} + e^{+} + v_{e} \\\\ A_{\\text{i}} & = 1 + 1 = 2 ; A_{\\text{f}} = 2 \\text{} Z_{\\text{i}} = 1 + 1 = 2 \\\\ Z_{\\text{f}} & = 1 + 1 = 2 \\text{}\\end{matrix}\\right .$$ ; ii. $$\\left .\\begin{matrix}{aa}_{1}^{1} \\text{H} + _{1}^{2} \\text{H} & \\vec{} _{2}^{3} \\text{H} + \\gamma \\\\ A_{\\text{i}} & = 1 + 2 = 3 ; A_{\\text{f}} = 3 + 0 = 3 \\text{} Z_{\\text{i}} = 1 + 1 = 2 \\\\ Z_{E} & = 1 + 1 = 2 \\text{}\\end{matrix}\\right .$$ ; iii. $$\\left .\\begin{matrix}{aa}_{2}^{3} \\text{H} + _{2}^{3} \\text{H} & \\vec{} _{2}^{4} \\text{H} + _{1}^{1} \\text{H} + _{1}^{1} \\text{H} \\\\ A_{\\text{i}} & = 3 + 3 = 6 ; A_{\\text{f}} = 4 + 1 + 1 = 6 \\text{} Z_{\\text{i}} = 2 + 2 = 4 \\\\ Z_{\\text{f}} & = 2 + 1 + 1 = 4 \\text{}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.6 Nuclear Fusion",
+        "Problem Statement": "",
+        "Question": "Calculate the energy output in each of the fusion reactions in the proton-proton chain, and verify the values determined in the preceding problem.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.6 Nuclear Fusion",
+        "Problem Statement": "",
+        "Question": "Show that the total energy released in the proton-proton chain is 26.7 MeV, considering the overall effect in $$^{1} \\text{H} + ^{1} \\text{H} \\vec{} ^{2} \\text{H} + e^{+} + v_{\\text{e}}$$ , $$^{1} \\text{H} + ^{2} \\text{H} \\vec{} ^{3} \\text{H} \\text{e} + \\gamma$$ , and $$^{3} \\text{H} \\text{e} + ^{3} \\text{H} \\text{e} \\vec{} ^{4} \\text{H} \\text{e} + ^{1} \\text{H} + ^{1} \\text{H}$$ . Be sure to include the annihilation energy.",
+        "Image Links": [],
+        "Answer": "26.73 MeV",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.6 Nuclear Fusion",
+        "Problem Statement": "",
+        "Question": "Two fusion reactions mentioned in the text are $$n + ^{3} \\text{H} \\text{e} \\vec{} ^{4} \\text{H} \\text{e} + \\gamma$$ and $$n + ^{1} \\text{H} \\vec{} ^{2} \\text{H} + \\gamma$$ . Both reactions release energy, but the second also creates more fuel. Confirm that the energies produced in the reactions are 20.58 and 2.22 MeV, respectively. Comment on which product nuclide is most tightly bound, $$^{4} \\text{H} \\text{e}$$ or $$^{2} \\text{H}$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.6 Nuclear Fusion",
+        "Problem Statement": "",
+        "Question": "The power output of the Sun is $$4 \\times 10^{26} \\text{W} .$$ (a) If $$90 \\text{%}$$ of this energy is supplied by the proton-proton chain, how many protons are consumed per second? (b) How many neutrinos per second should there be per square meter at the surface of Earth from this process?",
+        "Image Links": [],
+        "Answer": "a. $$3 \\times 10^{38} \\text{protons/s}$$ ; b. $$6 \\times 10^{14} \\text{neutrinos/m}^{2} \\cdotp \\text{s}$$ ; This huge number is indicative of how rarely a neutrino interacts, since large detectors observe very few per day.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.6 Nuclear Fusion",
+        "Problem Statement": "",
+        "Question": "Another set of reactions that fuses hydrogen into helium in the Sun and especially in hotter stars is called the CNO cycle: $$^{12} \\text{C} + ^{1} \\text{H} \\vec{} ^{13} \\text{N} + \\gamma$$ $$^{13} \\text{N} \\vec{} ^{13} \\text{C} + e^{+} + v_{\\text{e}}$$ $$^{13} \\text{C} + ^{1} \\text{H} \\vec{} ^{14} \\text{N} + \\gamma$$ $$^{14} \\text{N} + ^{1} \\text{H} \\vec{} ^{15} \\text{O} + \\gamma$$ $$^{15} \\text{O} \\vec{} ^{15} \\text{N} + e^{+} + v_{\\text{e}}$$ $$^{15} \\text{N} + ^{1} \\text{H} \\vec{} ^{12} \\text{C} + ^{4} \\text{H} \\text{e}$$ This process is a \u201ccycle\u201d because $$^{12} \\text{C}$$ appears at the beginning and end of these reactions. Write down the overall effect of this cycle (as done for the proton-proton chain in $$2 e^{-} + 4 ^{1} \\text{H} \\vec{} ^{4} \\text{H} \\text{e} + 2 v_{\\text{e}} + 6 \\gamma$$ ). Assume that the positrons annihilate electrons to form more $$\\gamma$$ rays.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.6 Nuclear Fusion",
+        "Problem Statement": "",
+        "Question": "(a) Calculate the energy released by the fusion of a 1.00-kg mixture of deuterium and tritium, which produces helium. There are equal numbers of deuterium and tritium nuclei in the mixture. (b) If this process takes place continuously over a period of a year, what is the average power output?",
+        "Image Links": [],
+        "Answer": "a. The atomic mass of deuterium ( $$^{2} \\text{H}$$ ) is 2.014102 u, while that of tritium ( $$^{3} \\text{H}$$ ) is 3.016049 u, for a total of 5.032151 u per reaction. So a mole of reactants has a mass of 5.03 g, and in 1.00 kg, there are $$( 1000 \\text{g} ) \\text{/} ( 5.03 \\text{g} \\text{/} \\text{mol} ) = 198.8 \\text{mol}$$ of reactants. The number of reactions that take place is therefore $$( 198.8 \\text{mol} ) ( 6.02 \\times 10^{23} \\text{mol}^{-1} ) = 1.20 \\times 10^{26} \\text{reactions}$$ . The total energy output is the number of reactions times the energy per reaction: $$E = 3.37 \\times 10^{14} \\text{J;}$$ b. Power is energy per unit time. One year has $$3.16 \\times 10^{7} \\text{s} ,$$ so $$P = 10.7 \\text{MW} .$$ We expect nuclear processes to yield large amounts of energy, and this is certainly the case here. The energy output of $$3.37 \\times 10^{14} \\text{J}$$ from fusing 1.00 kg of deuterium and tritium is equivalent to 2.6 million gallons of gasoline and about eight times the energy output of the bomb that destroyed Hiroshima. Yet the average backyard swimming pool has about 6 kg of deuterium in it, so that fuel is plentiful if it can be utilized in a controlled manner.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.7 Medical Applications and Biological Effects of Nuclear Radiation",
+        "Problem Statement": "",
+        "Question": "What is the dose in mSv for: (a) a 0.1-Gy X-ray? (b) 2.5 mGy of neutron exposure to the eye? (c) 1.5m Gy of $$\\alpha$$ exposure?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.7 Medical Applications and Biological Effects of Nuclear Radiation",
+        "Problem Statement": "",
+        "Question": "Find the radiation dose in Gy for: (a) A 10-mSv fluoroscopic X-ray series. (b) 50 mSv of skin exposure by an $$\\alpha$$ emitter. (c) 160 mSv of $$\\beta^{-}$$ and $$\\gamma$$ rays from the $$^{40} \\text{K}$$ in your body.",
+        "Image Links": [],
+        "Answer": "$$\\text{Gy} = \\frac{\\text{Sv}}{\\text{RBE}}$$ : a. 0.01 Gy; b. 0.0025 Gy; c. 0.16 Gy",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.7 Medical Applications and Biological Effects of Nuclear Radiation",
+        "Problem Statement": "",
+        "Question": "Find the mass of $$^{239} \\text{P} \\text{u}$$ that has an activity of $$1.00 \\text{muCi}$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.7 Medical Applications and Biological Effects of Nuclear Radiation",
+        "Problem Statement": "",
+        "Question": "In the 1980s, the term picowave was used to describe food irradiation in order to overcome public resistance by playing on the well-known safety of microwave radiation. Find the energy in MeV of a photon having a wavelength of a picometer.",
+        "Image Links": [],
+        "Answer": "1.24 MeV",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.7 Medical Applications and Biological Effects of Nuclear Radiation",
+        "Problem Statement": "",
+        "Question": "What is the dose in Sv in a cancer treatment that exposes the patient to 200 Gy of $$\\gamma$$ rays?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.7 Medical Applications and Biological Effects of Nuclear Radiation",
+        "Problem Statement": "",
+        "Question": "One half the $$\\gamma$$ rays from $$^{99 \\text{m}} \\text{T} \\text{c}$$ are absorbed by a 0.170-mm-thick lead shielding. Half of the $$\\gamma$$ rays that pass through the first layer of lead are absorbed in a second layer of equal thickness. What thickness of lead will absorb all but one in 1000 of these $$\\gamma$$ rays?",
+        "Image Links": [],
+        "Answer": "1.69 mm",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.7 Medical Applications and Biological Effects of Nuclear Radiation",
+        "Problem Statement": "",
+        "Question": "How many Gy of exposure is needed to give a cancerous tumor a dose of 40 Sv if it is exposed to $$\\alpha$$ activity?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.7 Medical Applications and Biological Effects of Nuclear Radiation",
+        "Problem Statement": "",
+        "Question": "A plumber at a nuclear power plant receives a whole-body dose of 30 mSv in 15 minutes while repairing a crucial valve. Find the radiation-induced yearly risk of death from cancer and the chance of genetic defect from this maximum allowable exposure.",
+        "Image Links": [],
+        "Answer": "For cancer: $$( 3 \\text{rem} ) ( \\frac{10}{10^{6} \\text{rem} \\cdotp \\text{y}} ) = \\frac{30}{10^{6} \\text{y}} ,$$ The risk each year of dying from induced cancer is 30 in a million. For genetic defect: $$( 3 \\text{rem} ) ( \\frac{3.3}{10^{6} \\text{rem} \\cdotp \\text{y}} ) = \\frac{9.9}{10^{6} \\text{y}} ,$$ The chance each year of an induced genetic defect is 10 in a million.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "10.7 Medical Applications and Biological Effects of Nuclear Radiation",
+        "Problem Statement": "",
+        "Question": "Calculate the dose in rem/y for the lungs of a weapons plant employee who inhales and retains an activity of $$1.00 \\mu \\text{Ci}$$ $$^{239} \\text{Pu}$$ in an accident. The mass of affected lung tissue is 2.00 kg and the plutonium decays by emission of a 5.23-MeV $$\\alpha$$ particle. Assume a RBE value of 20.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

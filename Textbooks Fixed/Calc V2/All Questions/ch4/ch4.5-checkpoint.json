@@ -1,0 +1,42 @@
+[
+    {
+        "Topic": "Checkpoint 4.15",
+        "Problem Statement": "",
+        "Question": "Put the equation $$\\frac{( x + 3 ) y \\prime}{2 x - 3 y - 4} = 5$$ into standard form and identify $$p ( x )$$ and $$q ( x ) .$$",
+        "Image Links": [],
+        "Answer": "$$y \\prime + \\frac{15}{x + 3} y = \\frac{10 x - 20}{x + 3} ; p ( x ) = \\frac{15}{x + 3}$$ and $$q ( x ) = \\frac{10 x - 20}{x + 3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.16",
+        "Problem Statement": "",
+        "Question": "Find the general solution to the differential equation $$( x - 2 ) y \\prime + y = 3 x^{2} + 2 x .$$ Assume $$x > 2 .$$",
+        "Image Links": [],
+        "Answer": "$$y = \\frac{x^{3} + x^{2} + C}{x - 2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.17",
+        "Problem Statement": "",
+        "Question": "Solve the initial-value problem $$y \\prime - 2 y = 4 x + 3 y ( 0 ) = -2 .$$",
+        "Image Links": [],
+        "Answer": "$$y = - 2 x - \\frac{5}{2} + \\frac{1}{2} e^{2 x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.18",
+        "Problem Statement": "",
+        "Question": "The weight of a penny is $$2.5$$ grams (United States Mint, \u201cCoin Specifications,\u201d accessed April 9, 2015, http://www.usmint.gov/about_the_mint/?action=coin_specifications), and the upper observation deck of the Empire State Building is $$369$$ meters above the street. Since the penny is a small and relatively smooth object, air resistance acting on the penny is actually quite small. We assume the air resistance is numerically equal to $$0.0025 v .$$ Furthermore, the penny is dropped with no initial velocity imparted to it. Set up an initial-value problem that represents the falling penny. Solve the problem for $$v ( t ) .$$ What is the terminal velocity of the penny (i.e., calculate the limit of the velocity as $$t$$ approaches infinity)?",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{aaa}\\frac{d v}{d t} & = & \\text{unicode[:-]} v - 9.8 \\\\ v ( 0 ) & = & 0\\end{matrix}\\right .$$ $$v ( t ) = 9.8 ( e^{\\text{unicode[:-]} t} - 1 )$$ $$\\underset{t \\rightarrow \\infty}{\\text{lim}} v \\left(\\right. t \\left.\\right) = \\underset{t \\rightarrow \\infty}{\\text{lim}} \\left(\\right. 9.8 \\left(\\right. e^{- t} - 1 \\left.\\right) \\left.\\right) = -9.8 \\text{m}/\\text{s} \\approx - 21.922 \\text{mph}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.19",
+        "Problem Statement": "",
+        "Question": "A circuit has in series an electromotive force given by $$E = 20 \\text{sin} 5 t$$ V, a capacitor with capacitance $$0.02 \\text{F} ,$$ and a resistor of $$8 \\text{omega} .$$ If the initial charge is $$4 \\text{C} ,$$ find the charge at time $$t > 0 .$$",
+        "Image Links": [],
+        "Answer": "Initial-value problem: $$8 q^{\\prime} + \\frac{1}{0.02} q = 20 \\text{sin} 5 t , q ( 0 ) = 4$$ $$q ( t ) = \\frac{10 \\text{sin} 5 t - 8 \\text{cos} 5 t + 172 e^{-6.25 t}}{41}$$",
+        "Answer Image Links": []
+    }
+]

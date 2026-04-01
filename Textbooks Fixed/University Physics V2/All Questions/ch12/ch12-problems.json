@@ -1,0 +1,430 @@
+[
+    {
+        "Topic": "12.1 The Biot-Savart Law",
+        "Problem Statement": "",
+        "Question": "A 10-A current flows through the wire shown. What is the magnitude of the magnetic field due to a 0.5-mm segment of wire as measured at (a) point A and (b) point B?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b98ac34215846fbdd295a1f1fd1575498cde2861"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.1 The Biot-Savart Law",
+        "Problem Statement": "",
+        "Question": "Ten amps flow through a square loop where each side is 20 cm in length. At each corner of the loop is a 0.01-cm segment that connects the longer wires as shown. Calculate the magnitude of the magnetic field at the center of the loop.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/47e611e2846b158abf78f9afdc4e60d90f87fdbf"
+        ],
+        "Answer": "$$5.66 \\times 10^{-5} \\text{T}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.1 The Biot-Savart Law",
+        "Problem Statement": "",
+        "Question": "What is the magnetic field at P due to the current I in the wire shown?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/eeccbb45f445a12ef4d8bfbf166ad99e3800f34e"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.1 The Biot-Savart Law",
+        "Problem Statement": "",
+        "Question": "The accompanying figure shows a current loop consisting of two concentric circular arcs and two perpendicular radial lines. Determine the magnetic field at point P.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a4e507b9cb4916b57fe69156d403cbf710c48089"
+        ],
+        "Answer": "$$B = \\frac{\\mu_{o} I}{8} ( \\frac{1}{a} - \\frac{1}{b} )$$ out of the page",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.1 The Biot-Savart Law",
+        "Problem Statement": "",
+        "Question": "Find the magnetic field at the center C of the rectangular loop of wire shown in the accompanying figure.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/4ca7b0d4b7e048ff3988690b18d31ce8c7bbd737"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.1 The Biot-Savart Law",
+        "Problem Statement": "",
+        "Question": "Two long wires, one of which has a semicircular bend of radius R , are positioned as shown in the accompanying figure. If both wires carry a current I , how far apart must their parallel sections be so that the net magnetic field at P is zero? Does the current in the straight wire flow up or down?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/122cde1187226353ef28e0199bd1c0b826e4ea72"
+        ],
+        "Answer": "$$a = \\frac{2 R}{\\pi}$$ ; the current in the wire to the right must flow up the page.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.2 Magnetic Field Due to a Thin Straight Wire",
+        "Problem Statement": "",
+        "Question": "A typical current in a lightning bolt is $$10^{4}$$ A. Estimate the magnetic field 1 m from the bolt.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.2 Magnetic Field Due to a Thin Straight Wire",
+        "Problem Statement": "",
+        "Question": "The magnitude of the magnetic field 50 cm from a long, thin, straight wire is $$8.0 \\text{muT} .$$ What is the current through the long wire?",
+        "Image Links": [],
+        "Answer": "20 A",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.2 Magnetic Field Due to a Thin Straight Wire",
+        "Problem Statement": "",
+        "Question": "A transmission line strung 7.0 m above the ground carries a current of 500 A. What is the magnetic field on the ground directly below the wire? Compare your answer with the magnetic field of Earth.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.2 Magnetic Field Due to a Thin Straight Wire",
+        "Problem Statement": "",
+        "Question": "A long, straight, horizontal wire carries a left-to-right current of 20 A. If the wire is placed in a uniform magnetic field of magnitude $$4.0 \\times 10^{\\text{unicode[:-]5}} \\text{T}$$ that is directed vertically downward, what is the resultant magnitude of the magnetic field 20 cm above the wire? 20 cm below the wire?",
+        "Image Links": [],
+        "Answer": "Both answers have the magnitude of magnetic field of $$4.5 \\times 10^{\\text{unicode[:-]5}} \\text{T} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.2 Magnetic Field Due to a Thin Straight Wire",
+        "Problem Statement": "",
+        "Question": "The two long, parallel wires shown in the accompanying figure carry currents in the same direction. If $$I_{1} = \\text{10 A}$$ and $$I_{2} = 20 \\text{A} ,$$ what is the magnetic field at point P?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/90c0861aa5620fd39b86285b1dcb19ee8a658a5a"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.2 Magnetic Field Due to a Thin Straight Wire",
+        "Problem Statement": "",
+        "Question": "The accompanying figure shows two long, straight, horizontal\nwires that are parallel and a distance 2 a apart. If both wires carry current I in the same direction, (a) what is the magnetic field at $$P_{1} ?$$ (b) $$P_{2} ?$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b4a94e724f71d7a86ecb49df983a1c47b7cf23e3"
+        ],
+        "Answer": "At P1, the net magnetic field is zero. At P2, $$B = \\frac{3 \\mu_{o} I}{8 \\pi a}$$ into the page.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.2 Magnetic Field Due to a Thin Straight Wire",
+        "Problem Statement": "",
+        "Question": "Repeat the calculations of the preceding problem with the direction of the current in the lower wire reversed.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.2 Magnetic Field Due to a Thin Straight Wire",
+        "Problem Statement": "",
+        "Question": "Consider the area between the wires of the preceding problem. At what distance from the top wire is the net magnetic field a minimum? Assume that the currents are equal and flow in opposite directions.",
+        "Image Links": [],
+        "Answer": "The magnetic field is at a minimum at distance a from the top wire, or half-way between the wires.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.3 Magnetic Force between Two Parallel Currents",
+        "Problem Statement": "",
+        "Question": "Two long, straight wires are parallel and 25 cm apart. (a) If each wire carries a current of 50 A in the same direction, what is the magnetic force per meter exerted on each wire? (b) Does the force pull the wires together or push them apart? (c) What happens if the currents flow in opposite directions?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.3 Magnetic Force between Two Parallel Currents",
+        "Problem Statement": "",
+        "Question": "Two long, straight wires are parallel and 10 cm apart. One carries a current of 2.0 A, the other a current of 5.0 A. (a) If the two currents flow in opposite directions, what is the magnitude and direction of the force per unit length of one wire on the other? (b) What is the magnitude and direction of the force per unit length if the currents flow in the same direction?",
+        "Image Links": [],
+        "Answer": "a. $$F \\text{/} l = 2 \\times 10^{\\text{unicode[:-]5}} \\text{N/m}$$ away from the other wire; b. $$F \\text{/} l = 2 \\times 10^{\\text{unicode[:-]5}} \\text{N/m}$$ toward the other wire",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.3 Magnetic Force between Two Parallel Currents",
+        "Problem Statement": "",
+        "Question": "Two long, parallel wires are hung by cords of length 5.0 cm, as shown in the accompanying figure. Each wire has a mass per unit length of 30 g/m, and they carry the same current in opposite directions. What is the current if the cords hang at $$6.0 \\text{\u00b0}$$ with respect to the vertical?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/85a94c1156b72170d19fca2322ef20254f4b48fb"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.3 Magnetic Force between Two Parallel Currents",
+        "Problem Statement": "",
+        "Question": "A circuit with current I has two long parallel wire sections that carry current in opposite directions. Find magnetic field at a point P near these wires that is a distance a from one wire and b from the other wire as shown in the figure.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2ceebb270d698544528ba17abc4ac43d485b5ca4"
+        ],
+        "Answer": "$$B = \\frac{\\mu_{o} I}{2 \\pi a^{2} b} ( ( a_{2} + b_{2} ) \\mathbf{\\hat{i}} + b \\sqrt{( a^{2} - b^{2} )} \\mathbf{\\hat{j}} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.3 Magnetic Force between Two Parallel Currents",
+        "Problem Statement": "",
+        "Question": "The infinite, straight wire shown in the accompanying figure carries a current $$I_{1} .$$ The rectangular loop, whose long sides are parallel to the wire, carries a current $$I_{2} .$$ What are the magnitude and direction of the force on the rectangular loop due to the magnetic field of the wire?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/243a6967580fe398d747c53b6d522f59b5bb5231"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.4 Magnetic Field of a Current Loop",
+        "Problem Statement": "",
+        "Question": "When the current through a circular loop is 6.0 A, the magnetic field at its center is $$2.0 \\times 10^{\\text{unicode[:-]4}} \\text{T} .$$ What is the radius of the loop?",
+        "Image Links": [],
+        "Answer": "0.019 m",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.4 Magnetic Field of a Current Loop",
+        "Problem Statement": "",
+        "Question": "How many turns must be wound on a flat, circular coil of radius 20 cm in order to produce a magnetic field of magnitude $$4.0 \\times 10^{\\text{unicode[:-]5}} \\text{T}$$ at the center of the coil when the current through it is 0.85 A?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.4 Magnetic Field of a Current Loop",
+        "Problem Statement": "",
+        "Question": "A flat, circular loop has 20 turns. The radius of the loop is 10.0 cm and the current through the wire is 0.50 A. Determine the magnitude of the magnetic field at the center of the loop.",
+        "Image Links": [],
+        "Answer": "$$\\text{N} \\times 6.28 \\times 10^{\\text{unicode[:-]5}} \\text{T}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.4 Magnetic Field of a Current Loop",
+        "Problem Statement": "",
+        "Question": "A circular loop of radius R carries a current I . At what distance along the axis of the loop is the magnetic field one-half its value at the center of the loop?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.4 Magnetic Field of a Current Loop",
+        "Problem Statement": "",
+        "Question": "Two flat, circular coils, each with a radius R and wound with N turns, are mounted along the same axis so that they are parallel a distance d apart. What is the magnetic field at the midpoint of the common axis if a current I flows in the same direction through each coil?",
+        "Image Links": [],
+        "Answer": "$$B = \\frac{\\mu_{o} I R^{2} N}{( ( \\frac{d}{2} )^{2} + R^{2} )^{3 \\text{/} 2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.4 Magnetic Field of a Current Loop",
+        "Problem Statement": "",
+        "Question": "For the coils in the preceding problem, what is the magnetic field at the center of either coil?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.5 Amp\u00e8re\u2019s Law",
+        "Problem Statement": "",
+        "Question": "A current I flows around the rectangular loop shown in the accompanying figure. Evaluate $$\\oint \\mathbf{\\vec{B}} \\cdotp d \\mathbf{\\vec{l}}$$ for the paths A , B , C , and D .",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f9f9457e5d872af96903293448f869f6832803fc"
+        ],
+        "Answer": "a. $$\\mu_{0} I ;$$ b. 0; c. $$\\mu_{0} I ;$$ d. 0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.5 Amp\u00e8re\u2019s Law",
+        "Problem Statement": "",
+        "Question": "Evaluate $$\\oint \\mathbf{\\vec{B}} \\cdotp d \\mathbf{\\vec{l}}$$ for each of the cases shown in the accompanying figure.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/49833cf518dbea88c71867ec1b98575489b62b9f"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.5 Amp\u00e8re\u2019s Law",
+        "Problem Statement": "",
+        "Question": "The coil whose lengthwise cross section is shown in the accompanying figure carries a current I and has N evenly spaced turns distributed along the length l. Evaluate $$\\oint \\mathbf{\\vec{B}} \\cdotp d \\mathbf{\\vec{l}}$$ for the paths indicated.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b0fc7b76192c773c3969340617be139671c1cb04"
+        ],
+        "Answer": "a. $$3 \\mu_{0} I ;$$ b. 0; c. $$7 \\mu_{0} I ;$$ d. $$\\text{unicode[:-]2} \\mu_{0} I$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.5 Amp\u00e8re\u2019s Law",
+        "Problem Statement": "",
+        "Question": "A superconducting wire of diameter 0.25 cm carries a current of 1000 A. What is the magnetic field just outside the wire?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.5 Amp\u00e8re\u2019s Law",
+        "Problem Statement": "",
+        "Question": "A long, straight wire of radius R carries a current I that is distributed uniformly over the cross-section of the wire. At what distance from the axis of the wire is the magnitude of the magnetic field a maximum?",
+        "Image Links": [],
+        "Answer": "at the radius R",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.5 Amp\u00e8re\u2019s Law",
+        "Problem Statement": "",
+        "Question": "The accompanying figure shows a cross-section of a long, hollow, cylindrical conductor of inner radius $$r_{1} = \\text{3.0 cm}$$ and outer radius $$r_{2} = \\text{5.0 cm} .$$ A 50-A current distributed uniformly over the cross-section flows into the page. Calculate the magnetic field at $$r = \\text{2.0 cm} , r = 4.0 \\text{cm} , \\text{and} r = \\text{6.0 cm} .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/338b529501a2ab9195041176d1c53ea975d4bc70"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.5 Amp\u00e8re\u2019s Law",
+        "Problem Statement": "",
+        "Question": "A long, solid, cylindrical conductor of radius 3.0 cm carries a current of 50 A distributed uniformly over its cross-section. Plot the magnetic field as a function of the radial distance r from the center of the conductor.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ad8d1eeeed14e26333936957adbec1f55c4ab902"
+        ]
+    },
+    {
+        "Topic": "12.5 Amp\u00e8re\u2019s Law",
+        "Problem Statement": "",
+        "Question": "A portion of a long, cylindrical coaxial cable is shown in the accompanying figure. A current I flows down the center conductor, and this current is returned in the outer conductor. Determine the magnetic field in the regions (a) $$r \\le r_{1} ,$$ (b) $$r_{2} \\geq r \\geq r_{1} ,$$ (c) $$r_{3} \\geq r \\geq r_{2} ,$$ and (d) $$r \\geq r_{3} .$$ Assume that the current is distributed uniformly over the cross sections of the two parts of the cable.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f74b60a18ecac13860ab616f5c05c14862a21a14"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.6 Solenoids and Toroids",
+        "Problem Statement": "",
+        "Question": "A solenoid is wound with 2000 turns per meter. When the current is 5.2 A, what is the magnetic field within the solenoid?",
+        "Image Links": [],
+        "Answer": "$$B = 1.3 \\times 10^{-2} \\text{T}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.6 Solenoids and Toroids",
+        "Problem Statement": "",
+        "Question": "A solenoid has 12 turns per centimeter. What current will produce a magnetic field of $$2.0 \\times 10^{-2} \\text{T}$$ within the solenoid?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.6 Solenoids and Toroids",
+        "Problem Statement": "",
+        "Question": "If a current is 2.0 A, how many turns per centimeter must be wound on a solenoid in order to produce a magnetic field of $$2.0 \\times 10^{-3} \\text{T}$$ within it?",
+        "Image Links": [],
+        "Answer": "roughly eight turns per cm",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.6 Solenoids and Toroids",
+        "Problem Statement": "",
+        "Question": "A solenoid is 40 cm long, has a diameter of 3.0 cm, and is wound with 500 turns. If the current through the windings is 4.0 A, what is the magnetic field at a point on the axis of the solenoid that is (a) at the center of the solenoid, (b) 10.0 cm from one end of the solenoid, and (c) 5.0 cm from one end of the solenoid? (d) Compare these answers with the infinite-solenoid case.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/76cfbb04881669778e7bb3b68224e1e42a470206"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.6 Solenoids and Toroids",
+        "Problem Statement": "",
+        "Question": "Determine the magnetic field on the central axis at the opening of a semi-infinite solenoid. (That is, take the opening to be at $$x = 0$$ and the other end to be at $$x = \\infty .$$ )",
+        "Image Links": [],
+        "Answer": "$$B = \\frac{1}{2} \\mu_{0} n I$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.6 Solenoids and Toroids",
+        "Problem Statement": "",
+        "Question": "By how much is the approximation $$B = \\mu_{0} n I$$ in error at the center of a solenoid that is 15.0 cm long, has a diameter of 4.0 cm, is wrapped with n turns per meter, and carries a current I ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.6 Solenoids and Toroids",
+        "Problem Statement": "",
+        "Question": "A solenoid with 25 turns per centimeter carries a current I . An electron moves within the solenoid in a circle that has a radius of 2.0 cm and is perpendicular to the axis of the solenoid. If the speed of the electron is $$2.0 \\times 10^{5} \\text{m/s} ,$$ what is I ?",
+        "Image Links": [],
+        "Answer": "0.0181 A",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.6 Solenoids and Toroids",
+        "Problem Statement": "",
+        "Question": "A toroid has 250 turns of wire and carries a current of 20 A. Its inner and outer radii are 8.0 and 9.0 cm. What are the values of its magnetic field at $$r = 8.1 , 8.5 ,$$ and $$8.9 \\text{cm?}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.6 Solenoids and Toroids",
+        "Problem Statement": "",
+        "Question": "A toroid with a square cross section 3.0 cm $$\\times$$ 3.0 cm has an inner radius of 25.0 cm. It is wound with 500 turns of wire, and it carries a current of 2.0 A. What is the strength of the magnetic field at the center of the square cross section?",
+        "Image Links": [],
+        "Answer": "0.0008 T",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.7 Magnetism in Matter",
+        "Problem Statement": "",
+        "Question": "The magnetic field in the core of an air-filled solenoid is 1.50 T. By how much will this magnetic field decrease if the air is pumped out of the core while the current is held constant?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.7 Magnetism in Matter",
+        "Problem Statement": "",
+        "Question": "A solenoid has a ferromagnetic core, n = 1000 turns per meter, and I = 5.0 A. If B inside the solenoid is 2.0 T, what is $$\\chi$$ for the core material?",
+        "Image Links": [],
+        "Answer": "317.31",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.7 Magnetism in Matter",
+        "Problem Statement": "",
+        "Question": "A 20-A current flows through a solenoid with 2000 turns per meter. What is the magnetic field inside the solenoid if its core is (a) a vacuum and (b) filled with liquid oxygen at 90 K?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.7 Magnetism in Matter",
+        "Problem Statement": "",
+        "Question": "The magnetic dipole moment of the iron atom is about $$2.1 \\times 10^{-23} \\text{A} \\cdotp \\text{m}^{2} .$$ (a) Calculate the maximum magnetic dipole moment of a domain consisting of $$10^{19}$$ iron atoms. (b) What current would have to flow through a single circular loop of wire of diameter 1.0 cm to produce this magnetic dipole moment?",
+        "Image Links": [],
+        "Answer": "$$2.1 \\times 10^{-4} \\text{A} \\cdotp \\text{m}^{2}$$ $$2.7 \\text{A}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.7 Magnetism in Matter",
+        "Problem Statement": "",
+        "Question": "Suppose you wish to produce a 1.2-T magnetic field in a toroid with an iron core for which $$\\chi = 4.0 \\times 10^{3} .$$ The toroid has a mean radius of 15 cm and is wound with 500 turns. What current is required?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.7 Magnetism in Matter",
+        "Problem Statement": "",
+        "Question": "A current of 1.5 A flows through the windings of a large, thin toroid with 200 turns per meter and a radius of 1 meter. If the toroid is filled with iron for which $$\\chi = 3.0 \\times 10^{3} ,$$ what is the magnetic field within it?",
+        "Image Links": [],
+        "Answer": "0.18 T",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "12.7 Magnetism in Matter",
+        "Problem Statement": "",
+        "Question": "A solenoid with an iron core is 25 cm long and is wrapped with 100 turns of wire. When the current through the solenoid is 10 A, the magnetic field inside it is 2.0 T. For this current, what is the permeability of the iron? If the current is turned off and then restored to 10 A, will the magnetic field necessarily return to 2.0 T?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

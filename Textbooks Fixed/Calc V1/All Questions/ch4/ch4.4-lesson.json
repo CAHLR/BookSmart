@@ -1,0 +1,370 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Why do you need continuity to apply the Mean Value Theorem? Construct a counterexample.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Why do you need differentiability to apply the Mean Value Theorem? Find a counterexample.",
+        "Image Links": [],
+        "Answer": "One example is $$f ( x ) = | x | + 3 , -2 \\le x \\le 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "When are Rolle\u2019s theorem and the Mean Value Theorem equivalent?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "If you have a function with a discontinuity, is it still possible to have $$f^{\\prime} ( c ) ( b - a ) = f ( b ) - f ( a ) ?$$ Draw such an example or prove why not.",
+        "Image Links": [],
+        "Answer": "Yes, but the Mean Value Theorem still does not apply",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine over what intervals (if any) the Mean Value Theorem applies. Justify your answer.",
+        "Question": "$$y = \\text{sin} ( \\pi x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine over what intervals (if any) the Mean Value Theorem applies. Justify your answer.",
+        "Question": "$$y = \\frac{1}{x^{3}}$$",
+        "Image Links": [],
+        "Answer": "Any closed interval in $$( \\text{unicode[:-]} \\infty , 0 ) \\  \\text{or} \\  ( 0 , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine over what intervals (if any) the Mean Value Theorem applies. Justify your answer.",
+        "Question": "$$y = \\sqrt{4 - x^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine over what intervals (if any) the Mean Value Theorem applies. Justify your answer.",
+        "Question": "$$y = \\sqrt{x^{2} - 4}$$",
+        "Image Links": [],
+        "Answer": "Any closed interval in $$( \\text{unicode[:-]} \\infty , -2 ) \\  \\text{or} \\  ( 2 , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine over what intervals (if any) the Mean Value Theorem applies. Justify your answer.",
+        "Question": "$$y = \\text{ln} ( 3 x - 5 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, graph the functions on a calculator and draw the secant line that connects the endpoints. Estimate the number of points $$c$$ such that $$f^{\\prime} ( c ) ( b - a ) = f ( b ) - f ( a ) .$$",
+        "Question": "[T] $$y = 3 x^{3} + 2 x + 1$$ over $$[ -1 , 1 ]$$",
+        "Image Links": [],
+        "Answer": "2 points",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, graph the functions on a calculator and draw the secant line that connects the endpoints. Estimate the number of points $$c$$ such that $$f^{\\prime} ( c ) ( b - a ) = f ( b ) - f ( a ) .$$",
+        "Question": "[T] $$y = \\text{tan} ( \\frac{\\pi}{4} x )$$ over $$[ - \\frac{3}{2} , \\frac{3}{2} ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, graph the functions on a calculator and draw the secant line that connects the endpoints. Estimate the number of points $$c$$ such that $$f^{\\prime} ( c ) ( b - a ) = f ( b ) - f ( a ) .$$",
+        "Question": "[T] $$y = x^{2} \\text{cos} ( \\pi x )$$ over $$[ -2 , 2 ]$$",
+        "Image Links": [],
+        "Answer": "5 points",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, graph the functions on a calculator and draw the secant line that connects the endpoints. Estimate the number of points $$c$$ such that $$f^{\\prime} ( c ) ( b - a ) = f ( b ) - f ( a ) .$$",
+        "Question": "[T] $$y = x^{6} - \\frac{3}{4} x^{5} - \\frac{9}{8} x^{4} + \\frac{15}{16} x^{3} + \\frac{3}{32} x^{2} + \\frac{3}{16} x + \\frac{1}{32}$$ over $$[ -1 , 1 ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the Mean Value Theorem and find all points $$0 < c < 2$$ such that $$f ( 2 ) - f ( 0 ) = f^{\\prime} ( c ) ( 2 - 0 ) .$$",
+        "Question": "$$f ( x ) = x^{3}$$",
+        "Image Links": [],
+        "Answer": "$$c = \\frac{2 \\sqrt{3}}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the Mean Value Theorem and find all points $$0 < c < 2$$ such that $$f ( 2 ) - f ( 0 ) = f^{\\prime} ( c ) ( 2 - 0 ) .$$",
+        "Question": "$$f ( x ) = \\text{sin} ( \\pi x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the Mean Value Theorem and find all points $$0 < c < 2$$ such that $$f ( 2 ) - f ( 0 ) = f^{\\prime} ( c ) ( 2 - 0 ) .$$",
+        "Question": "$$f ( x ) = \\text{cos} ( 2 \\pi x )$$",
+        "Image Links": [],
+        "Answer": "$$c = \\frac{1}{2} , 1 , \\frac{3}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the Mean Value Theorem and find all points $$0 < c < 2$$ such that $$f ( 2 ) - f ( 0 ) = f^{\\prime} ( c ) ( 2 - 0 ) .$$",
+        "Question": "$$f ( x ) = 1 + x + x^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the Mean Value Theorem and find all points $$0 < c < 2$$ such that $$f ( 2 ) - f ( 0 ) = f^{\\prime} ( c ) ( 2 - 0 ) .$$",
+        "Question": "$$f ( x ) = ( x - 1 )^{10}$$",
+        "Image Links": [],
+        "Answer": "$$c = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the Mean Value Theorem and find all points $$0 < c < 2$$ such that $$f ( 2 ) - f ( 0 ) = f^{\\prime} ( c ) ( 2 - 0 ) .$$",
+        "Question": "$$f ( x ) = ( x - 1 )^{9}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, show there is no $$c$$ such that $$f ( 1 ) - f ( -1 ) = f^{\\prime} ( c ) ( 2 ) .$$ Explain why the Mean Value Theorem does not apply over the interval $$[ -1 , 1 ] .$$",
+        "Question": "$$f ( x ) = | x - \\frac{1}{2} |$$",
+        "Image Links": [],
+        "Answer": "Not differentiable",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, show there is no $$c$$ such that $$f ( 1 ) - f ( -1 ) = f^{\\prime} ( c ) ( 2 ) .$$ Explain why the Mean Value Theorem does not apply over the interval $$[ -1 , 1 ] .$$",
+        "Question": "$$f ( x ) = \\frac{1}{x^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, show there is no $$c$$ such that $$f ( 1 ) - f ( -1 ) = f^{\\prime} ( c ) ( 2 ) .$$ Explain why the Mean Value Theorem does not apply over the interval $$[ -1 , 1 ] .$$",
+        "Question": "$$f ( x ) = \\sqrt{| x |}$$",
+        "Image Links": [],
+        "Answer": "Not differentiable",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, show there is no $$c$$ such that $$f ( 1 ) - f ( -1 ) = f^{\\prime} ( c ) ( 2 ) .$$ Explain why the Mean Value Theorem does not apply over the interval $$[ -1 , 1 ] .$$",
+        "Question": "$$f ( x ) = \\lfloor x \\rfloor$$ ( Hint : This is called the floor function and it is defined so that $$f ( x )$$ is the largest integer less than or equal to $$x . )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the Mean Value Theorem applies for the functions over the given interval $$[ a , b ] .$$ Justify your answer.",
+        "Question": "$$y = e^{x}$$ over $$[ 0 , 1 ]$$",
+        "Image Links": [],
+        "Answer": "Yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the Mean Value Theorem applies for the functions over the given interval $$[ a , b ] .$$ Justify your answer.",
+        "Question": "$$y = \\text{ln} ( 2 x + 3 )$$ over $$[ - \\frac{3}{2} , 0 ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the Mean Value Theorem applies for the functions over the given interval $$[ a , b ] .$$ Justify your answer.",
+        "Question": "$$f ( x ) = \\text{tan} ( 2 \\pi x )$$ over $$[ 0 , 2 ]$$",
+        "Image Links": [],
+        "Answer": "The Mean Value Theorem does not apply since the function is discontinuous at $$x = \\frac{1}{4} , \\frac{3}{4} , \\frac{5}{4} , \\frac{7}{4} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the Mean Value Theorem applies for the functions over the given interval $$[ a , b ] .$$ Justify your answer.",
+        "Question": "$$y = \\sqrt{9 - x^{2}}$$ over $$[ -3 , 3 ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the Mean Value Theorem applies for the functions over the given interval $$[ a , b ] .$$ Justify your answer.",
+        "Question": "$$y = \\frac{1}{| x + 1 |}$$ over $$[ 0 , 3 ]$$",
+        "Image Links": [],
+        "Answer": "Yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the Mean Value Theorem applies for the functions over the given interval $$[ a , b ] .$$ Justify your answer.",
+        "Question": "$$y = x^{3} + 2 x + 1$$ over $$[ 0 , 6 ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the Mean Value Theorem applies for the functions over the given interval $$[ a , b ] .$$ Justify your answer.",
+        "Question": "$$y = \\frac{x^{2} + 3 x + 2}{x}$$ over $$[ -1 , 1 ]$$",
+        "Image Links": [],
+        "Answer": "The Mean Value Theorem does not apply; discontinuous at $$x = 0 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the Mean Value Theorem applies for the functions over the given interval $$[ a , b ] .$$ Justify your answer.",
+        "Question": "$$y = \\frac{x}{\\text{sin} ( \\pi x ) + 1}$$ over $$[ 0 , 1 ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the Mean Value Theorem applies for the functions over the given interval $$[ a , b ] .$$ Justify your answer.",
+        "Question": "$$y = \\text{ln} ( x + 1 )$$ over $$[ 0 , e - 1 ]$$",
+        "Image Links": [],
+        "Answer": "Yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the Mean Value Theorem applies for the functions over the given interval $$[ a , b ] .$$ Justify your answer.",
+        "Question": "$$y = x \\text{sin} ( \\pi x )$$ over $$[ 0 , 2 ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the Mean Value Theorem applies for the functions over the given interval $$[ a , b ] .$$ Justify your answer.",
+        "Question": "$$y = 5 + | x |$$ over $$[ -1 , 1 ]$$",
+        "Image Links": [],
+        "Answer": "The Mean Value Theorem does not apply; not differentiable at $$x = 0 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider the roots of the equation.",
+        "Question": "Show that the equation $$y = x^{3} + 4 x + 16$$ has exactly one real root. What is it?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider the roots of the equation.",
+        "Question": "Find the conditions for exactly one root (double root) for the equation $$y = x^{2} + b x + c$$",
+        "Image Links": [],
+        "Answer": "$$b = \\text{unicode[:+-]} 2 \\sqrt{c}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, consider the roots of the equation.",
+        "Question": "Find the conditions for $$y = e^{x} - b$$ to have one root. Is it possible to have more than one root?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to graph the function over the interval $$[ a , b ]$$ and graph the secant line from $$a$$ to $$b .$$ Use the calculator to estimate all values of $$c$$ as guaranteed by the Mean Value Theorem. Then, find the exact value of $$c ,$$ if possible, or write the final equation and use a calculator to estimate to four digits.",
+        "Question": "[T] $$y = \\text{tan} ( \\pi x )$$ over $$[ - \\frac{1}{4} , \\frac{1}{4} ]$$",
+        "Image Links": [],
+        "Answer": "$$c = \\text{unicode[:+-]} \\frac{1}{\\pi} \\text{cos}^{-1} ( \\frac{\\sqrt{\\pi}}{2} ) ,$$ $$c = \\text{unicode[:+-]} 0.1533$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to graph the function over the interval $$[ a , b ]$$ and graph the secant line from $$a$$ to $$b .$$ Use the calculator to estimate all values of $$c$$ as guaranteed by the Mean Value Theorem. Then, find the exact value of $$c ,$$ if possible, or write the final equation and use a calculator to estimate to four digits.",
+        "Question": "[T] $$y = \\frac{1}{\\sqrt{x + 1}}$$ over $$[ 0 , 3 ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to graph the function over the interval $$[ a , b ]$$ and graph the secant line from $$a$$ to $$b .$$ Use the calculator to estimate all values of $$c$$ as guaranteed by the Mean Value Theorem. Then, find the exact value of $$c ,$$ if possible, or write the final equation and use a calculator to estimate to four digits.",
+        "Question": "[T] $$y = | x^{2} + 2 x - 4 |$$ over $$[ -4 , 0 ]$$",
+        "Image Links": [],
+        "Answer": "The Mean Value Theorem does not apply.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to graph the function over the interval $$[ a , b ]$$ and graph the secant line from $$a$$ to $$b .$$ Use the calculator to estimate all values of $$c$$ as guaranteed by the Mean Value Theorem. Then, find the exact value of $$c ,$$ if possible, or write the final equation and use a calculator to estimate to four digits.",
+        "Question": "[T] $$y = x + \\frac{1}{x}$$ over $$[ \\frac{1}{2} , 4 ]$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to graph the function over the interval $$[ a , b ]$$ and graph the secant line from $$a$$ to $$b .$$ Use the calculator to estimate all values of $$c$$ as guaranteed by the Mean Value Theorem. Then, find the exact value of $$c ,$$ if possible, or write the final equation and use a calculator to estimate to four digits.",
+        "Question": "[T] $$y = \\sqrt{x + 1} + \\frac{1}{x^{2}}$$ over $$[ 3 , 8 ]$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{2 \\sqrt{c + 1}} - \\frac{2}{c^{3}} = \\frac{521}{2880} ;$$ $$c = 3.133 , 5.867$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to graph the function over the interval $$[ a , b ]$$ and graph the secant line from $$a$$ to $$b .$$ Use the calculator to estimate all values of $$c$$ as guaranteed by the Mean Value Theorem. Then, find the exact value of $$c ,$$ if possible, or write the final equation and use a calculator to estimate to four digits.",
+        "Question": "At 10:17 a.m., you pass a police car at 55 mph that is stopped on the freeway. You pass a second police car at 55 mph at 10:53 a.m., which is located 39 mi from the first police car. If the speed limit is 60 mph, can the police cite you for speeding?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to graph the function over the interval $$[ a , b ]$$ and graph the secant line from $$a$$ to $$b .$$ Use the calculator to estimate all values of $$c$$ as guaranteed by the Mean Value Theorem. Then, find the exact value of $$c ,$$ if possible, or write the final equation and use a calculator to estimate to four digits.",
+        "Question": "Two cars drive from one stoplight to the next, leaving at the same time and arriving at the same time. Is there ever a time when they are going the same speed? Prove or disprove.",
+        "Image Links": [],
+        "Answer": "Yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to graph the function over the interval $$[ a , b ]$$ and graph the secant line from $$a$$ to $$b .$$ Use the calculator to estimate all values of $$c$$ as guaranteed by the Mean Value Theorem. Then, find the exact value of $$c ,$$ if possible, or write the final equation and use a calculator to estimate to four digits.",
+        "Question": "Show that $$y = \\text{sec}^{2} x$$ and $$y = \\text{tan}^{2} x$$ have the same derivative. What can you say about $$y = \\text{sec}^{2} x - \\text{tan}^{2} x ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use a calculator to graph the function over the interval $$[ a , b ]$$ and graph the secant line from $$a$$ to $$b .$$ Use the calculator to estimate all values of $$c$$ as guaranteed by the Mean Value Theorem. Then, find the exact value of $$c ,$$ if possible, or write the final equation and use a calculator to estimate to four digits.",
+        "Question": "Show that $$y = \\text{csc}^{2} x$$ and $$y = \\text{cot}^{2} x$$ have the same derivative. What can you say about $$y = \\text{csc}^{2} x - \\text{cot}^{2} x ?$$",
+        "Image Links": [],
+        "Answer": "It is constant.",
+        "Answer Image Links": []
+    }
+]

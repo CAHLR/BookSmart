@@ -1,0 +1,523 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Why does the domain differ for different functions?",
+        "Image Links": [],
+        "Answer": "The domain of a function depends upon what values of the independent variable make the function undefined or imaginary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "How do we determine the domain of a function defined by an equation?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Explain why the domain of $$f ( x ) = \\sqrt[3]{x}$$ is different from the domain of $$f ( x ) = \\sqrt[]{x} .$$",
+        "Image Links": [],
+        "Answer": "There is no restriction on $$x$$ for $$f ( x ) = \\sqrt[3]{x}$$ because you can take the cube root of any real number. So the domain is all real numbers, $$( - \\infty , \\infty ) .$$ When dealing with the set of real numbers, you cannot take the square root of negative numbers. So $$x$$ -values are restricted for $$f ( x ) = \\sqrt[]{x}$$ to nonnegative numbers and the domain is $$[ 0 , \\infty ) .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "When describing sets of numbers using interval notation, when do you use a parenthesis and when do you use a bracket?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "How do you graph a piecewise function?",
+        "Image Links": [],
+        "Answer": "Graph each formula of the piecewise function over its corresponding domain. Use the same scale for the $$x$$ -axis and $$y$$ -axis for each graph. Indicate inclusive endpoints with a solid circle and exclusive endpoints with an open circle. Use an arrow to indicate $$- \\infty$$ or $$\\text{} \\infty .$$ Combine the graphs to find the graph of the piecewise function.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain of each function using interval notation.",
+        "Question": "$$f ( x ) = - 2 x ( x - 1 ) ( x - 2 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain of each function using interval notation.",
+        "Question": "$$f ( x ) = 5 - 2 x^{2}$$",
+        "Image Links": [],
+        "Answer": "$$( - \\infty , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain of each function using interval notation.",
+        "Question": "$$f ( x ) = 3 \\sqrt{x - 2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain of each function using interval notation.",
+        "Question": "$$f ( x ) = 3 - \\sqrt{6 - 2 x}$$",
+        "Image Links": [],
+        "Answer": "$$( - \\infty , 3 ]$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain of each function using interval notation.",
+        "Question": "$$f ( x ) = \\sqrt{4 - 3 x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain of each function using interval notation.",
+        "Question": "$$f ( x ) = \\sqrt[]{x^{2} + 4}$$",
+        "Image Links": [],
+        "Answer": "$$( - \\infty , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain of each function using interval notation.",
+        "Question": "$$f ( x ) = \\sqrt[3]{1 - 2 x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain of each function using interval notation.",
+        "Question": "$$f ( x ) = \\sqrt[3]{x - 1}$$",
+        "Image Links": [],
+        "Answer": "$$( - \\infty , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain of each function using interval notation.",
+        "Question": "$$f ( x ) = \\frac{9}{x - 6}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain of each function using interval notation.",
+        "Question": "$$f ( x ) = \\frac{3 x + 1}{4 x + 2}$$",
+        "Image Links": [],
+        "Answer": "$$( - \\infty , - \\frac{1}{2} ) \\cup ( - \\frac{1}{2} , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain of each function using interval notation.",
+        "Question": "$$f ( x ) = \\frac{\\sqrt{x + 4}}{x - 4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain of each function using interval notation.",
+        "Question": "$$f ( x ) = \\frac{x - 3}{x^{2} + 9 x - 22}$$",
+        "Image Links": [],
+        "Answer": "$$( - \\infty , - 11 ) \\cup ( - 11 , 2 ) \\cup ( 2 , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain of each function using interval notation.",
+        "Question": "$$f ( x ) = \\frac{1}{x^{2} - x - 6}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain of each function using interval notation.",
+        "Question": "$$f ( x ) = \\frac{2 x^{3} - 250}{x^{2} - 2 x - 15}$$",
+        "Image Links": [],
+        "Answer": "$$( - \\infty , - 3 ) \\cup ( - 3 , 5 ) \\cup ( 5 , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain of each function using interval notation.",
+        "Question": "$$f ( x ) = \\frac{5}{\\sqrt{x - 3}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain of each function using interval notation.",
+        "Question": "$$f ( x ) = \\frac{2 x + 1}{\\sqrt{5 - x}}$$",
+        "Image Links": [],
+        "Answer": "$$( - \\infty , 5 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain of each function using interval notation.",
+        "Question": "$$f ( x ) = \\frac{\\sqrt{x - 4}}{\\sqrt{x - 6}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain of each function using interval notation.",
+        "Question": "$$f ( x ) = \\frac{\\sqrt{x - 6}}{\\sqrt{x - 4}}$$",
+        "Image Links": [],
+        "Answer": "$$[ 6 , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain of each function using interval notation.",
+        "Question": "$$f ( x ) = \\frac{x}{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain of each function using interval notation.",
+        "Question": "$$f ( x ) = \\frac{x^{2} - 9 x}{x^{2} - 81}$$",
+        "Image Links": [],
+        "Answer": "$$( - \\infty , - 9 ) \\cup ( - 9 , 9 ) \\cup ( 9 , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the domain of each function using interval notation.",
+        "Question": "Find the domain of the function $$f ( x ) = \\sqrt{2 x^{3} - 50 x}$$ by: \u24d0 using algebra. \u24d1 graphing the function in the radicand and determining intervals on the x -axis for which the radicand is nonnegative.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, write the domain and range of each function using interval notation.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3c6b3161446c6c8d301aead942e5d2d175362989"
+        ],
+        "Answer": "domain: $$( 2 , 8 ] ,$$ range $$[ 6 , 8 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, write the domain and range of each function using interval notation.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/281e9ca4b0473e406faf77c68f51968a4eb998e2"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, write the domain and range of each function using interval notation.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f441931ef96b126c0a77b4bdaf3116f9c3c2ccea"
+        ],
+        "Answer": "domain: $$[ - 4 , \\text{4],}$$ range: $$[ 0 , \\text{2]}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, write the domain and range of each function using interval notation.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/63a955eab502d4942f525a3e5809f46aa654b385"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, write the domain and range of each function using interval notation.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/138ef16ebbcbc6df40cf984d03b5ccd815a7198c"
+        ],
+        "Answer": "domain: $$[ - 5 , \\text{} 3 ) ,$$ range: $$[ 0 , 2 ]$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, write the domain and range of each function using interval notation.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/80aef19537877f14d97db445ff608cc03b456a0b"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, write the domain and range of each function using interval notation.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/4559b5d01125ba7fe3aa5b4c9019efb69836cb27"
+        ],
+        "Answer": "domain: $$( - \\infty , 1 ] ,$$ range: $$[ 0 , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, write the domain and range of each function using interval notation.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1f7432cb90701c6de87c975925acafb1ebe19fd3"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, write the domain and range of each function using interval notation.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3ca23645907f74e4350656b3dc6326eed2d89ae7"
+        ],
+        "Answer": "domain: $$[ - 6 , - \\frac{1}{6} ] \\cup [ \\frac{1}{6} , 6 ] ;$$ range: $$[ - 6 , - \\frac{1}{6} ] \\cup [ \\frac{1}{6} , 6 ]$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, write the domain and range of each function using interval notation.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8e46fd3b563a0411ee3395be05e5f28885b7b46a"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, write the domain and range of each function using interval notation.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5daa1977b4c4fcbd7ba4741e6c97b5c49f59dd6c"
+        ],
+        "Answer": "domain: $$[ - 3 , \\text{} \\infty ) ;$$ range: $$[ 0 , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch a graph of the piecewise function. Write the domain in interval notation.",
+        "Question": "$$f ( x ) = \\{ \\left .\\begin{matrix}{aaa}x + 1 & \\text{if} & x < - 2 \\\\ - 2 x - 3 & \\text{if} & x \\geq - 2\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch a graph of the piecewise function. Write the domain in interval notation.",
+        "Question": "$$f ( x ) = \\{ \\left .\\begin{matrix}{aaa}2 x - 1 & \\text{if} & x < 1 \\\\ 1 + x & \\text{if} & x \\geq 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "domain: $$( - \\infty , \\infty )$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e212a69991a5ca302f1b16245cdb008a8d486319"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch a graph of the piecewise function. Write the domain in interval notation.",
+        "Question": "$$f ( x ) = \\{ \\left .\\begin{matrix}{a}x + 1 \\text{if} x < 0 \\\\ x - 1 \\text{if} x > 0\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch a graph of the piecewise function. Write the domain in interval notation.",
+        "Question": "$$f ( x ) = \\{ \\left .\\begin{matrix}{aaa}3 & \\text{if} & x < 0 \\\\ \\sqrt{x} & \\text{if} & x \\geq 0\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "domain: $$( - \\infty , \\infty )$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c1d63e8c7c5881334c23300cd6c0ae6c1ba2f513"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch a graph of the piecewise function. Write the domain in interval notation.",
+        "Question": "$$f ( x ) = \\{ \\left .\\begin{matrix}{a}x^{2} \\text{quadquad\u00a0if\u00a0} x < 0 \\\\ 1 - x \\text{\u00a0if\u00a0} x > 0\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch a graph of the piecewise function. Write the domain in interval notation.",
+        "Question": "$$f ( x ) = \\{ \\left .\\begin{matrix}{a}\\left .\\begin{matrix}{a}x^{2} \\\\ x + 2\\end{matrix}\\right .\\end{matrix}\\right . \\left .\\begin{matrix}{a}\\text{if} x < 0 \\\\ \\text{if} x \\geq 0\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "domain: $$( - \\infty , \\infty )$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2a729688918f5f8c19beb834a757c372bec6ed23"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch a graph of the piecewise function. Write the domain in interval notation.",
+        "Question": "$$f ( x ) = \\{ \\left .\\begin{matrix}{aaa}x + 1 & \\text{if} & x < 1 \\\\ x^{3} & \\text{if} & x \\geq 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch a graph of the piecewise function. Write the domain in interval notation.",
+        "Question": "$$f ( x ) = \\{ \\left .\\begin{matrix}{a}| x | \\\\ 1\\end{matrix}\\right . \\left .\\begin{matrix}{a}\\text{if} x < 2 \\\\ \\text{if} x \\geq 2\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "domain: $$( - \\infty , \\infty )$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1f2f8bb16e310c6519b6eaca7fd7dc4c545f80c5"
+        ]
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, given each function $$f ,$$ evaluate $$f ( -3 ) , f ( -2 ) , f ( -1 ) ,$$ and $$f ( 0 ) .$$",
+        "Question": "$$f ( x ) = \\{ \\left .\\begin{matrix}{aaa}x + 1 & \\text{if} & x < - 2 \\\\ - 2 x - 3 & \\text{if} & x \\geq - 2\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, given each function $$f ,$$ evaluate $$f ( -3 ) , f ( -2 ) , f ( -1 ) ,$$ and $$f ( 0 ) .$$",
+        "Question": "$$f ( x ) = \\{ \\left .\\begin{matrix}{aa}1 & \\text{if\u00a0} x \\le - 3 \\\\ 0 & \\text{if\u00a0} x > - 3\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{aaaa}f ( - 3 ) = 1 ; & f ( - 2 ) = 0 ; & f ( - 1 ) = 0 ; & f ( 0 ) = 0\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, given each function $$f ,$$ evaluate $$f ( -3 ) , f ( -2 ) , f ( -1 ) ,$$ and $$f ( 0 ) .$$",
+        "Question": "$$f ( x ) = \\{ \\left .\\begin{matrix}{aa}- 2 x^{2} + 3 & \\text{if\u00a0} x \\le - 1 \\\\ 5 x - 7 & \\text{if\u00a0} x > - 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, given each function $$f ,$$ evaluate $$f ( -1 ) , f ( 0 ) , f ( 2 ) ,$$ and $$f ( 4 ) .$$",
+        "Question": "$$f ( x ) = \\{ \\left .\\begin{matrix}{aaa}7 x + 3 & \\text{if} & x < 0 \\\\ 7 x + 6 & \\text{if} & x \\geq 0\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{aaaa}f ( - 1 ) = - 4 ; & f ( 0 ) = 6 ; & f ( 2 ) = 20 ; & f ( 4 ) = 34\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, given each function $$f ,$$ evaluate $$f ( -1 ) , f ( 0 ) , f ( 2 ) ,$$ and $$f ( 4 ) .$$",
+        "Question": "$$f ( x ) = \\{ \\left .\\begin{matrix}{aaa}x^{2} - 2 & \\text{if} & x < 2 \\\\ 4 + | x - 5 | & \\text{if} & x \\geq 2\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, given each function $$f ,$$ evaluate $$f ( -1 ) , f ( 0 ) , f ( 2 ) ,$$ and $$f ( 4 ) .$$",
+        "Question": "$$f ( x ) = \\{ \\left .\\begin{matrix}{aaa}5 x & \\text{if} & x < 0 \\\\ 3 & \\text{if} & 0 \\le x \\le 3 \\\\ x^{2} & \\text{if} & x > 3\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{aaaa}f ( - 1 ) = - 5 ; & f ( 0 ) = 3 ; & f ( 2 ) = 3 ; & f ( 4 ) = 16\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, write the domain for the piecewise function in interval notation.",
+        "Question": "$$f ( x ) = \\{ \\left .\\begin{matrix}{a}x + 1 \\text{if} x < - 2 \\\\ - 2 x - 3 \\text{if} x \\geq - 2\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, write the domain for the piecewise function in interval notation.",
+        "Question": "$$f ( x ) = \\{ \\left .\\begin{matrix}{a}x^{2} - 2 \\text{if} x < 1 \\\\ - x^{2} + 2 \\text{if} x > 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "domain: $$( - \\infty , 1 ) \\cup ( 1 , \\infty )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "For the following exercises, write the domain for the piecewise function in interval notation.",
+        "Question": "$$f ( x ) = \\{ \\left .\\begin{matrix}{a}2 x - 3 \\\\ - 3 x^{2}\\end{matrix}\\right . \\left .\\begin{matrix}{a}\\text{if} x < 0 \\\\ \\text{if} x \\geq 2\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "",
+        "Question": "Graph $$y = \\frac{1}{x^{2}}$$ on the viewing window $$[ -0.5 , -0.1 ]$$ and $$[ 0.1 , 0.5 ] .$$ Determine the corresponding range for the viewing window. Show the graphs.",
+        "Image Links": [],
+        "Answer": "window: $$[ - 0.5 , - 0.1 ] ;$$ range: $$[ 4 , \\text{} 100 ]$$ window: $$[ 0.1 , \\text{} 0.5 ] ;$$ range: $$[ 4 , \\text{} 100 ]$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a7f27180a01d30bdc551aae65e3ee11d51e13afa",
+            "https://openstax.org/apps/archive/20240812.170248/resources/c7401579f4490c3f082ba73831e815647b620479"
+        ]
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "",
+        "Question": "Graph $$y = \\frac{1}{x}$$ on the viewing window $$[ -0.5 , -0.1 ]$$ and $$[ 0.1 , \\text{} 0.5 ] .$$ Determine the corresponding range for the viewing window. Show the graphs.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extension",
+        "Problem Statement": "",
+        "Question": "Suppose the range of a function $$f$$ is $$[ -5 , \\text{} 8 ] .$$ What is the range of $$| f ( x ) | ?$$",
+        "Image Links": [],
+        "Answer": "$$[ 0 , \\text{} 8 ]$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extension",
+        "Problem Statement": "",
+        "Question": "Create a function in which the range is all nonnegative real numbers.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extension",
+        "Problem Statement": "",
+        "Question": "Create a function in which the domain is $$x > 2.$$",
+        "Image Links": [],
+        "Answer": "Many answers. One function is $$f ( x ) = \\frac{1}{\\sqrt{x - 2}} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "The height $$h$$ of a projectile is a function of the time $$t$$ it is in the air. The height in feet for $$t$$ seconds is given by the function $$h ( t ) = -16 t^{2} + 96 t .$$ What is the domain of the function? What does the domain mean in the context of the problem?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "The cost in dollars of making $$x$$ items is given by the function $$C ( x ) = 10 x + 500.$$ \u24d0 The fixed cost is determined when zero items are produced. Find the fixed cost for this item. \u24d1 What is the cost of making 25 items? \u24d2 Suppose the maximum cost allowed is $1500. What are the domain and range of the cost function, $$C ( x ) ?$$",
+        "Image Links": [],
+        "Answer": "\u24d0 The fixed cost is $500. \u24d1 The cost of making 25 items is $750. \u24d2 The domain is [0, 100] and the range is [500, 1500].",
+        "Answer Image Links": []
+    }
+]

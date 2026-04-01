@@ -1,0 +1,116 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Some camera flashes use flash tubes that require a high voltage. They obtain a high voltage by charging capacitors in parallel and then internally changing the connections of the capacitors to place them in series. Consider a circuit that uses four AAA batteries connected in series to charge six 10-mF capacitors through an equivalent resistance of $$100 \\text{omega}$$ . The connections are then switched internally to place the capacitors in series. The capacitors discharge through a lamp with a resistance of $$100 \\text{omega}$$ . (a) What is the RC time constant and the initial current out of the batteries while they are connected in parallel? (b) How long does it take for the capacitors to charge to $$90 %$$ of the terminal voltages of the batteries? (c) What is the RC time constant and the initial current of the capacitors connected in series assuming it discharges at $$90 %$$ of full charge? (d) How long does it take the current to decrease to $$10 %$$ of the initial value?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Consider the circuit shown below. Each battery has an emf of 1.50 V and an internal resistance of $$1.00 \\text{omega} .$$ (a) What is the current through the external resistor, which has a resistance of 10.00 ohms? (b) What is the terminal voltage of each battery?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ef356bf63d95836096714a741b264d0c8ba9a1b3"
+        ],
+        "Answer": "a. 0.273 A; b. $$V_{T} = 1.36 \\text{V}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Analog meters use a galvanometer, which essentially consists of a coil of wire with a small resistance and a pointer with a scale attached. When current runs through the coil, the pointer turns; the amount the pointer turns is proportional to the amount of current running through the coil. Galvanometers can be used to make an ammeter if a resistor is placed in parallel with the galvanometer. Consider a galvanometer that has a resistance of $$25.00 \\text{omega}$$ and gives a full scale reading when a $$50 \\text{-} \\mu \\text{A}$$ current runs through it. The galvanometer is to be used to make an ammeter that has a full scale reading of 10.00 A, as shown below. Recall that an ammeter is connected in series with the circuit of interest, so all 10 A must run through the meter. (a) What is the current through the parallel resistor in the meter? (b) What is the voltage across the parallel resistor? (c) What is the resistance of the series resistor?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f815c0d7fddc5f668bbf21476fda3cce95af7b22"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Analog meters use a galvanometer, which essentially consists of a coil of wire with a small resistance and a pointer with a scale attached. When current runs through the coil, the point turns; the amount the pointer turns is proportional to the amount of current running through the coil. Galvanometers can be used to make a voltmeter if a resistor is placed in series with the galvanometer. Consider a galvanometer that has a resistance of $$25.00 \\text{omega}$$ and gives a full scale reading when a $$50 \\text{-} \\mu \\text{A}$$ current runs through it. The galvanometer is to be used to make an voltmeter that has a full scale reading of 10.00 V, as shown below. Recall that a voltmeter is connected in parallel with the component of interest, so the meter must have a high resistance or it will change the current running through the component. (a) What is the potential drop across the series resistor in the meter? (b) What is the resistance of the parallel resistor?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d1c9a80d7f18400b477debf37aea868f3346916e"
+        ],
+        "Answer": "a. $$V_{s} = V - I_{M} R_{M} = 9.99875 \\text{V}$$ ; b. $$R_{S} = \\frac{V_{P}}{I_{M}} = 199.975 \\text{k} \\text{omega}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Consider the circuit shown below. Find $$I_{1} , V_{1} , I_{2} , \\text{and} V_{3} .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/99d68f3d864cb6c77fb6264540a0db5fad413e19"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Consider the circuit below. (a) What is the RC time constant of the circuit? (b) What is the initial current in the circuit once the switch is closed? (c) How much time passes between the instant the switch is closed and the time the current has reached half of the initial current?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0aa7440f185a1cd72ba76785275d41e7e963cebf"
+        ],
+        "Answer": "a. $$\\tau = 3800 \\text{s}$$ ; b. 1.26 mA; c. $$t = 2633.96 \\text{s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Consider the circuit below. (a) What is the initial current through resistor $$R_{2}$$ when the switch is closed? (b) What is the current through resistor $$R_{2}$$ when the capacitor is fully charged, long after the switch is closed? (c) What happens if the switch is opened after it has been closed for some time? (d) If the switch has been closed for a time period long enough for the capacitor to become fully charged, and then the switch is opened, how long before the current through resistor $$R_{1}$$ reaches half of its initial value?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/305f26069f90dda81ea6a44ab0a182df829b5957"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Consider the infinitely long chain of resistors shown below. What is the resistance between terminals a and b ?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/78dc4d3a940e20650b6d0edc043c4de3013c8954"
+        ],
+        "Answer": "$$R_{\\text{eq}} = ( \\sqrt{3} - 1 ) R$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Consider the circuit below. The capacitor has a capacitance of 10 mF. The switch is closed and after a long time the capacitor is fully charged. (a) What is the current through each resistor a long time after the switch is closed? (b) What is the voltage across each resistor a long time after the switch is closed? (c) What is the voltage across the capacitor a long time after the switch is closed? (d) What is the charge on the capacitor a long time after the switch is closed? (e) The switch is then opened. The capacitor discharges through the resistors. How long from the time before the current drops to one fifth of the initial value?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e2aa2f89275168899472008ae7f205c4a87c6511"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A 120-V immersion heater consists of a coil of wire that is placed in a cup to boil the water. The heater can boil one cup of $$20.00 \\text{\u00b0} \\text{C}$$ water in 180.00 seconds. You buy one to use in your dorm room, but you are worried that you will overload the circuit and trip the 15.00-A, 120-V circuit breaker, which supplies your dorm room. In your dorm room, you have four 100.00-W incandescent lamps and a 1500.00-W space heater. (a) What is the power rating of the immersion heater? (b) Will it trip the breaker when everything is turned on? (c) If it you replace the incandescent bulbs with 18.00-W LED, will the breaker trip when everything is turned on?",
+        "Image Links": [],
+        "Answer": "a. $$P_{\\text{imheater}} = \\frac{1 \\text{cup} ( \\frac{0.000237 \\text{m}^{3}}{\\text{cup}} ) ( \\frac{1000 \\text{kg}}{\\text{m}^{3}} ) ( 4186 \\frac{\\text{J}}{\\text{kg \u00b0C}} ) ( 100 \\text{\u00b0} \\text{C} - 20 \\text{\u00b0} \\text{C} )}{180.00 \\text{s}} \\approx 441 \\text{W}$$ ; b. $$I = \\frac{441 \\text{W}}{120 \\text{V}} + 4 ( \\frac{100 \\text{W}}{120 \\text{V}} ) + \\frac{1500 \\text{W}}{120 \\text{V}} = 19.51 \\text{A}$$ ; Yes, the breaker will trip. c. $$I = \\frac{441 \\text{W}}{120 \\text{V}} + 4 ( \\frac{18 \\text{W}}{120 \\text{V}} ) + \\frac{1500 \\text{W}}{120 \\text{V}} = 16.78 \\text{A}$$ ; Yes, the breaker will trip.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Find the resistance that must be placed in series with a $$25.0 \\text{-} \\text{omega}$$ galvanometer having a $$50.0 \\text{-} \\mu \\text{A}$$ sensitivity (the same as the one discussed in the text) to allow it to be used as a voltmeter with a 3000-V full-scale reading. Include a circuit diagram with your solution.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Find the resistance that must be placed in parallel with a $$60.0 \\text{-} \\text{omega}$$ galvanometer having a 1.00-mA sensitivity (the same as the one discussed in the text) to allow it to be used as an ammeter with a 25.0-A full-scale reading. Include a circuit diagram with your solution.",
+        "Image Links": [],
+        "Answer": ", $$2.40 \\times 10^{-3} \\text{omega}$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b90782dd6902a6dd8c4f5de3d50fe51a3c69e6aa"
+        ]
+    }
+]

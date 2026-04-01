@@ -1,0 +1,130 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "There are two critically important aspects of adaptive immunity. The first is specificity, while the second is ________.",
+        "Image Links": [],
+        "Answer": "memory",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "________ immunity involves the production of antibody molecules that bind to specific antigens.",
+        "Image Links": [],
+        "Answer": "Humoral",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The heavy chains of an antibody molecule contain ________ region segments, which help to determine its class or isotype.",
+        "Image Links": [],
+        "Answer": "constant",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The variable regions of the heavy and light chains form the ________ sites of an antibody.",
+        "Image Links": [],
+        "Answer": "antigen-binding",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "MHC molecules are used for antigen ________ to T cells.",
+        "Image Links": [],
+        "Answer": "presentation",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "MHC II molecules are made up of two subunits (\u03b1 and \u03b2) of approximately equal size, whereas MHC I molecules consist of a larger \u03b1 subunit and a smaller subunit called ________.",
+        "Image Links": [],
+        "Answer": "\u03b2_2 microglobulin",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A ________ T cell will become activated by presentation of foreign antigen associated with an MHC I molecule.",
+        "Image Links": [],
+        "Answer": "cytotoxic",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A ________ T cell will become activated by presentation of foreign antigen in association with an MHC II molecule.",
+        "Image Links": [],
+        "Answer": "helper",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A TCR is a protein dimer embedded in the plasma membrane of a T cell. The ________ region of each of the two protein chains is what gives it the capability to bind to a presented antigen.",
+        "Image Links": [],
+        "Answer": "variable",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Peripheral tolerance mechanisms function on T cells after they mature and exit the ________.",
+        "Image Links": [],
+        "Answer": "thymus",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Both ________ and effector T cells are produced during differentiation of activated T cells.",
+        "Image Links": [],
+        "Answer": "memory",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "________ antigens can stimulate B cells to become activated but require cytokine assistance delivered by helper T cells.",
+        "Image Links": [],
+        "Answer": "T-dependent",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "T-independent antigens can stimulate B cells to become activated and secrete antibodies without assistance from helper T cells. These antigens possess ________ antigenic epitopes that cross-link BCRs.",
+        "Image Links": [],
+        "Answer": "repetitive",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A(n) ________ pathogen is in a weakened state; it is still capable of stimulating an immune response but does not cause a disease.",
+        "Image Links": [],
+        "Answer": "attenuated",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "________ immunity occurs when antibodies from one individual are harvested and given to another to protect against disease or treat active disease.",
+        "Image Links": [],
+        "Answer": "Artificial passive",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "In the practice of ________, scabs from smallpox victims were used to immunize susceptible individuals against smallpox.",
+        "Image Links": [],
+        "Answer": "variolation",
+        "Answer Image Links": []
+    }
+]

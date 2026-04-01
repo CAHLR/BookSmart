@@ -1,0 +1,650 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "If the graphs of two linear functions are parallel, describe the relationship between the slopes and the y -intercepts.",
+        "Image Links": [],
+        "Answer": "The slopes are equal; y -intercepts are not equal.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "If the graphs of two linear functions are perpendicular, describe the relationship between the slopes and the y -intercepts.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "If a horizontal line has the equation $$f ( x ) = a$$ and a vertical line has the equation $$x = a ,$$ what is the point of intersection? Explain why what you found is the point of intersection.",
+        "Image Links": [],
+        "Answer": "The point of intersection is $$( a , a ) .$$ This is because for the horizontal line, all of the $$y$$ coordinates are $$a$$ and for the vertical line, all of the $$x$$ coordinates are $$a .$$ The point of intersection will have these two characteristics.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Explain how to find a line parallel to a linear function that passes through a given point.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Explain how to find a line perpendicular to a linear function that passes through a given point.",
+        "Image Links": [],
+        "Answer": "First, find the slope of the linear function. Then take the negative reciprocal of the slope; this is the slope of the perpendicular line. Substitute the slope of the perpendicular line and the coordinate of the given point into the equation $$y = m x + b$$ and solve for $$b .$$ Then write the equation of the line in the form $$y = m x + b$$ by substituting in $$m$$ and $$b .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, determine whether the lines given by the equations below are parallel, perpendicular, or neither parallel nor perpendicular:",
+        "Question": "$$\\left .\\begin{matrix}{a}4 x - 7 y = 10 \\\\ 7 x + 4 y = 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, determine whether the lines given by the equations below are parallel, perpendicular, or neither parallel nor perpendicular:",
+        "Question": "$$\\left .\\begin{matrix}{a}3 y + x = 12 \\\\ - y = 8 x + 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "neither parallel or perpendicular",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, determine whether the lines given by the equations below are parallel, perpendicular, or neither parallel nor perpendicular:",
+        "Question": "$$\\left .\\begin{matrix}{a}3 y + 4 x = 12 \\\\ - 6 y = 8 x + 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, determine whether the lines given by the equations below are parallel, perpendicular, or neither parallel nor perpendicular:",
+        "Question": "$$\\left .\\begin{matrix}{a}6 x - 9 y = 10 \\\\ 3 x + 2 y = 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "perpendicular",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, determine whether the lines given by the equations below are parallel, perpendicular, or neither parallel nor perpendicular:",
+        "Question": "$$\\left .\\begin{matrix}{a}y = \\frac{2}{3} x + 1 \\\\ 3 x + 2 y = 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, determine whether the lines given by the equations below are parallel, perpendicular, or neither parallel nor perpendicular:",
+        "Question": "$$\\left .\\begin{matrix}{a}y = \\frac{3}{4} x + 1 \\\\ - 3 x + 4 y = 1\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "parallel",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the x - and y- intercepts of each equation",
+        "Question": "$$f ( x ) = - x + 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the x - and y- intercepts of each equation",
+        "Question": "$$g ( x ) = 2 x + 4$$",
+        "Image Links": [],
+        "Answer": "$$( - 2 \\text{,\u00a0} 0 )$$ ; $$( 0 \\text{,\u00a04} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the x - and y- intercepts of each equation",
+        "Question": "$$h ( x ) = 3 x - 5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the x - and y- intercepts of each equation",
+        "Question": "$$k ( x ) = - 5 x + 1$$",
+        "Image Links": [],
+        "Answer": "$$( \\frac{1}{5} \\text{,\u00a0} 0 )$$ ; $$( 0 \\text{,\u00a01} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the x - and y- intercepts of each equation",
+        "Question": "$$- 2 x + 5 y = 20$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the x - and y- intercepts of each equation",
+        "Question": "$$7 x + 2 y = 56$$",
+        "Image Links": [],
+        "Answer": "$$( 8 \\text{,\u00a0} 0 )$$ ; $$( 0 \\text{,\u00a0} 28 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the descriptions of each pair of lines given below to find the slopes of Line 1 and Line 2. Is each pair of lines parallel, perpendicular, or neither?",
+        "Question": "Line 1: Passes through $$( 0 , 6 )$$ and $$( 3 , -24 )$$ Line 2: Passes through $$( -1 , 19 )$$ and $$( 8 , -71 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the descriptions of each pair of lines given below to find the slopes of Line 1 and Line 2. Is each pair of lines parallel, perpendicular, or neither?",
+        "Question": "Line 1: Passes through $$( -8 , -55 )$$ and $$( 10 , 89 )$$ Line 2: Passes through $$( 9 , -44 )$$ and $$( 4 , -14 )$$",
+        "Image Links": [],
+        "Answer": "$$\\text{Line\u00a01} : m = 8$$ $$\\text{Line\u00a02} : m = - 6$$ $$\\text{Neither}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the descriptions of each pair of lines given below to find the slopes of Line 1 and Line 2. Is each pair of lines parallel, perpendicular, or neither?",
+        "Question": "Line 1: Passes through $$( 2 , 3 )$$ and $$( 4 , - 1 )$$ Line 2: Passes through $$( 6 , 3 )$$ and $$( 8 , 5 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the descriptions of each pair of lines given below to find the slopes of Line 1 and Line 2. Is each pair of lines parallel, perpendicular, or neither?",
+        "Question": "Line 1: Passes through $$( 1 , 7 )$$ and $$( 5 , 5 )$$ Line 2: Passes through $$( -1 , -3 )$$ and $$( 1 , 1 )$$",
+        "Image Links": [],
+        "Answer": "$$\\text{Line\u00a01} : m = - \\frac{1}{2}$$ $$\\text{Line\u00a02} : m = 2$$ $$\\text{Perpendicular}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the descriptions of each pair of lines given below to find the slopes of Line 1 and Line 2. Is each pair of lines parallel, perpendicular, or neither?",
+        "Question": "Line 1: Passes through $$( 0 , 5 )$$ and $$( 3 , 3 )$$ Line 2: Passes through $$( 1 , -5 )$$ and $$( 3 , -2 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the descriptions of each pair of lines given below to find the slopes of Line 1 and Line 2. Is each pair of lines parallel, perpendicular, or neither?",
+        "Question": "Line 1: Passes through $$( 2 , 5 )$$ and $$( 5 , -1 )$$ Line 2: Passes through $$( -3 , 7 )$$ and $$( 3 , -5 )$$",
+        "Image Links": [],
+        "Answer": "$$\\text{Line\u00a01} : m = - 2$$ $$\\text{Line\u00a02} : m = - 2$$ $$\\text{Parallel}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the descriptions of each pair of lines given below to find the slopes of Line 1 and Line 2. Is each pair of lines parallel, perpendicular, or neither?",
+        "Question": "Write an equation for a line parallel to $$f ( x ) = - 5 x - 3$$ and passing through the point $$( 2 , \\text{\u00a0-} 12 ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the descriptions of each pair of lines given below to find the slopes of Line 1 and Line 2. Is each pair of lines parallel, perpendicular, or neither?",
+        "Question": "Write an equation for a line parallel to $$g ( x ) = 3 x - 1$$ and passing through the point $$( 4 , 9 ) .$$",
+        "Image Links": [],
+        "Answer": "$$g ( x ) = 3 x - 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the descriptions of each pair of lines given below to find the slopes of Line 1 and Line 2. Is each pair of lines parallel, perpendicular, or neither?",
+        "Question": "Write an equation for a line perpendicular to $$h ( t ) = - 2 t + 4$$ and passing through the point $$( \\text{-} 4 , \\text{\u00a0-} 1 ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the descriptions of each pair of lines given below to find the slopes of Line 1 and Line 2. Is each pair of lines parallel, perpendicular, or neither?",
+        "Question": "Write an equation for a line perpendicular to $$p ( t ) = 3 t + 4$$ and passing through the point $$( 3 , 1 ) .$$",
+        "Image Links": [],
+        "Answer": "$$p ( t ) = - \\frac{1}{3} t + 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the descriptions of each pair of lines given below to find the slopes of Line 1 and Line 2. Is each pair of lines parallel, perpendicular, or neither?",
+        "Question": "Find the point at which the line $$f ( x ) = - 2 x - 1$$ intersects the line $$g ( x ) = - x .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the descriptions of each pair of lines given below to find the slopes of Line 1 and Line 2. Is each pair of lines parallel, perpendicular, or neither?",
+        "Question": "Find the point at which the line $$f ( x ) = 2 x + 5$$ intersects the line $$g ( x ) = - 3 x - 5.$$",
+        "Image Links": [],
+        "Answer": "$$( - 2 , 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the descriptions of each pair of lines given below to find the slopes of Line 1 and Line 2. Is each pair of lines parallel, perpendicular, or neither?",
+        "Question": "Use algebra to find the point at which the line $$f ( x ) = - \\frac{4}{5} x + \\frac{274}{25}$$ intersects the line $$h ( x ) = \\frac{9}{4} x + \\frac{73}{10} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the descriptions of each pair of lines given below to find the slopes of Line 1 and Line 2. Is each pair of lines parallel, perpendicular, or neither?",
+        "Question": "Use algebra to find the point at which the line $$f ( x ) = \\frac{7}{4} x + \\frac{457}{60}$$ intersects the line $$g ( x ) = \\frac{4}{3} x + \\frac{31}{5} .$$",
+        "Image Links": [],
+        "Answer": "$$( - \\frac{17}{5} , \\frac{5}{3} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, match the given linear equation with its graph in Figure 24 .\nFigure 24",
+        "Question": "$$f ( x ) = - x - 1$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a39e9ff4d84a7c0763a46ce587744ccb05e4d3c5"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, match the given linear equation with its graph in Figure 24 .\nFigure 24",
+        "Question": "$$f ( x ) = - 3 x - 1$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a39e9ff4d84a7c0763a46ce587744ccb05e4d3c5"
+        ],
+        "Answer": "F",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, match the given linear equation with its graph in Figure 24 .\nFigure 24",
+        "Question": "$$f ( x ) = - \\frac{1}{2} x - 1$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a39e9ff4d84a7c0763a46ce587744ccb05e4d3c5"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, match the given linear equation with its graph in Figure 24 .\nFigure 24",
+        "Question": "$$f ( x ) = 2$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a39e9ff4d84a7c0763a46ce587744ccb05e4d3c5"
+        ],
+        "Answer": "C",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, match the given linear equation with its graph in Figure 24 .\nFigure 24",
+        "Question": "$$f ( x ) = 2 + x$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a39e9ff4d84a7c0763a46ce587744ccb05e4d3c5"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, match the given linear equation with its graph in Figure 24 .\nFigure 24",
+        "Question": "$$f ( x ) = 3 x + 2$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a39e9ff4d84a7c0763a46ce587744ccb05e4d3c5"
+        ],
+        "Answer": "A",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch a line with the given features.",
+        "Question": "An x -intercept of $$( - \\text{4} , \\text{\u00a00} )$$ and y -intercept of $$( 0 , \\text{\u00a0-2} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch a line with the given features.",
+        "Question": "An x -intercept of $$( - \\text{2} , \\text{\u00a00} )$$ and y -intercept of $$( 0 , \\text{\u00a04} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7f3c7454fb27900b42c8569b8d28a8d6aa8af8ec"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch a line with the given features.",
+        "Question": "A y -intercept of $$( 0 , \\text{\u00a07} )$$ and slope $$- \\frac{3}{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch a line with the given features.",
+        "Question": "A y -intercept of $$( 0 , \\text{\u00a03} )$$ and slope $$\\frac{2}{5}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1da664f94359eede4623734794bed8a986d57ee3"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch a line with the given features.",
+        "Question": "Passing through the points $$( - \\text{6} , \\text{\u00a0-2} )$$ and $$( \\text{6} , \\text{\u00a0-6} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch a line with the given features.",
+        "Question": "Passing through the points $$( - \\text{3} , \\text{\u00a0-4} )$$ and $$( \\text{3} , \\text{\u00a00} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/237172d9456a36429ac0a55d0aacfb25d0de3a86"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch the graph of each equation.",
+        "Question": "$$f ( x ) = - 2 x - 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch the graph of each equation.",
+        "Question": "$$g ( x ) = - 3 x + 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/4a85be25e05eba47e32b306e935d8e65a1526559"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch the graph of each equation.",
+        "Question": "$$h ( x ) = \\frac{1}{3} x + 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch the graph of each equation.",
+        "Question": "$$k ( x ) = \\frac{2}{3} x - 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b6b5b31ba81b16770e866b57b427d3acafe5468a"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch the graph of each equation.",
+        "Question": "$$f ( t ) = 3 + 2 t$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch the graph of each equation.",
+        "Question": "$$p ( t ) = - 2 + 3 t$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/19a81cb20594ac6814c0511ef943f7ea6f6cdebb"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch the graph of each equation.",
+        "Question": "$$x = 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch the graph of each equation.",
+        "Question": "$$x = - 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0e75777001d2f9e1559541346e75e8bfb63d36e2"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch the graph of each equation.",
+        "Question": "$$r ( x ) = 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch the graph of each equation.",
+        "Question": "$$q ( x ) = 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d4b7b46b426992b131010bf8ecd13dfd4b29135b"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch the graph of each equation.",
+        "Question": "$$4 x = - 9 y + 36$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch the graph of each equation.",
+        "Question": "$$\\frac{x}{3} - \\frac{y}{4} = 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/30797a72091582d1626758acccd6f855b68dad4c"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch the graph of each equation.",
+        "Question": "$$3 x - 5 y = 15$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch the graph of each equation.",
+        "Question": "$$3 x = 15$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2453cab026a83f7ebaf0444fdc76303a3c602472"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch the graph of each equation.",
+        "Question": "$$3 y = 12$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch the graph of each equation.",
+        "Question": "If $$g ( x )$$ is the transformation of $$f ( x ) = x$$ after a vertical compression by $$\\frac{3}{4} ,$$ a shift right by 2, and a shift down by 4 \u24d0 Write an equation for $$g ( x ) .$$ \u24d1 What is the slope of this line? \u24d2 Find the y- intercept of this line.",
+        "Image Links": [],
+        "Answer": "\u24d0 $$g ( x ) = 0.75 x - 5.5$$ \u24d1 0.75 \u24d2 $$( 0 , - 5.5 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, sketch the graph of each equation.",
+        "Question": "If $$g ( x )$$ is the transformation of $$f ( x ) = x$$ after a vertical compression by $$\\frac{1}{3} ,$$ a shift left by 1, and a shift up by 3 \u24d0 Write an equation for $$g ( x ) .$$ \u24d1 What is the slope of this line? \u24d2 Find the y- intercept of this line.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises,, write the equation of the line shown in the graph.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/33c38da1736b288b7f138eecf0d7998aacacd314"
+        ],
+        "Answer": "$$y = \\text{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises,, write the equation of the line shown in the graph.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5871f0ae9e05bf660ad09386eaeaf534c6258481"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises,, write the equation of the line shown in the graph.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/739ba6401964d68135f4f1bcb29d74066be1e991"
+        ],
+        "Answer": "$$x = - 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises,, write the equation of the line shown in the graph.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/55091e58610407d19d57b76e71ed7d457b65cccc"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the point of intersection of each pair of lines if it exists. If it does not exist, indicate that there is no point of intersection.",
+        "Question": "$$\\left .\\begin{matrix}{a}y = \\frac{3}{4} x + 1 \\\\ - 3 x + 4 y = 12\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "no point of intersection",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the point of intersection of each pair of lines if it exists. If it does not exist, indicate that there is no point of intersection.",
+        "Question": "$$\\left .\\begin{matrix}{a}2 x - 3 y = 12 \\\\ 5 y + x = 30\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the point of intersection of each pair of lines if it exists. If it does not exist, indicate that there is no point of intersection.",
+        "Question": "$$\\left .\\begin{matrix}{a}2 x = y - 3 \\\\ y + 4 x = 15\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( \\text{2} , \\text{\u00a07} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the point of intersection of each pair of lines if it exists. If it does not exist, indicate that there is no point of intersection.",
+        "Question": "$$\\left .\\begin{matrix}{a}x - 2 y + 2 = 3 \\\\ x - y = 3\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, find the point of intersection of each pair of lines if it exists. If it does not exist, indicate that there is no point of intersection.",
+        "Question": "$$\\left .\\begin{matrix}{a}5 x + 3 y = - 65 \\\\ x - y = - 5\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "$$( - 10 , \\text{\u00a0-5} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Find the equation of the line parallel to the line $$g ( x ) = - 0. \\text{01} x \\text{+} \\text{2} \\text{.01}$$ through the point $$( \\text{1} , \\text{\u00a02} ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Find the equation of the line perpendicular to the line $$g ( x ) = - 0. \\text{01} x \\text{+2} \\text{.01}$$ through the point $$( \\text{1} , \\text{\u00a02} ) .$$",
+        "Image Links": [],
+        "Answer": "$$y = 100 x - 98$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, use the functions $$f ( x ) = - 0. \\text{1} x \\text{+200\u00a0and\u00a0} g ( x ) = 20 x + 0.1.$$",
+        "Question": "Find the point of intersection of the lines $$f$$ and $$g .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, use the functions $$f ( x ) = - 0. \\text{1} x \\text{+200\u00a0and\u00a0} g ( x ) = 20 x + 0.1.$$",
+        "Question": "Where is $$f ( x )$$ greater than $$g ( x ) ?$$ Where is $$g ( x )$$ greater than $$f ( x ) ?$$",
+        "Image Links": [],
+        "Answer": "$$x < \\frac{1999}{201} x > \\frac{1999}{201}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A car rental company offers two plans for renting a car. Plan A: $30 per day and $0.18 per mile Plan B: $50 per day with free unlimited mileage How many miles would you need to drive for plan B to save you money?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A cell phone company offers two plans for minutes. Plan A: $20 per month and $1 for every one hundred texts. Plan B: $50 per month with free unlimited texts. How many texts would you need to send per month for plan B to save you money?",
+        "Image Links": [],
+        "Answer": "Less than 3000 texts",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "A cell phone company offers two plans for minutes. Plan A: $15 per month and $2 for every 300 texts. Plan B: $25 per month and $0.50 for every 100 texts. How many texts would you need to send per month for plan B to save you money?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

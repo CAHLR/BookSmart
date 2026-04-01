@@ -1,0 +1,514 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Explain how to determine the reduction identities from the double-angle identity $$\\cos{( 2 x )} = \\cos{}^{2} x - \\sin{}^{2} x .$$",
+        "Image Links": [],
+        "Answer": "Use the Pythagorean identities and isolate the squared term.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Explain how to determine the double-angle formula for $$\\tan{(} 2 x )$$ using the double-angle formulas for $$\\cos{(} 2 x )$$ and $$\\sin{(} 2 x ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "We can determine the half-angle formula for $$\\tan{( \\frac{x}{2} )} = \\frac{\\sqrt{1 - \\cos{} x}}{\\sqrt{1 + \\cos{} x}}$$ by dividing the formula for $$\\sin{( \\frac{x}{2} )}$$ by $$\\cos{( \\frac{x}{2} )} .$$ Explain how to determine two formulas for $$\\tan{( \\frac{x}{2} )}$$ that do not involve any square roots.",
+        "Image Links": [],
+        "Answer": "$$\\frac{1 - \\cos{} x}{\\sin{x}} , \\frac{\\sin{x}}{1 + \\cos{} x} ,$$ multiplying the top and bottom by $$\\sqrt{1 - \\cos{} x}$$ and $$\\sqrt{1 + \\cos{} x} ,$$ respectively.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "For the half-angle formula given in the previous exercise for $$\\tan{( \\frac{x}{2} )} ,$$ explain why dividing by 0 is not a concern. (Hint: examine the values of $$\\cos{x}$$ necessary for the denominator to be 0.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the exact values of a) $$\\sin{( 2 x )} ,$$ b) $$\\cos{( 2 x )} ,$$ and c) $$\\tan{( 2 x )}$$ without solving for $$x .$$",
+        "Question": "If $$\\sin{x} = \\frac{1}{8} ,$$ and $$x$$ is in quadrant I.",
+        "Image Links": [],
+        "Answer": "a) $$\\frac{3 \\sqrt{7}}{32}$$ b) $$\\frac{31}{32}$$ c) $$\\frac{3 \\sqrt{7}}{31}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the exact values of a) $$\\sin{( 2 x )} ,$$ b) $$\\cos{( 2 x )} ,$$ and c) $$\\tan{( 2 x )}$$ without solving for $$x .$$",
+        "Question": "If $$\\cos{x} = \\frac{2}{3} ,$$ and $$x$$ is in quadrant I.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the exact values of a) $$\\sin{( 2 x )} ,$$ b) $$\\cos{( 2 x )} ,$$ and c) $$\\tan{( 2 x )}$$ without solving for $$x .$$",
+        "Question": "If $$\\cos{x} = - \\frac{1}{2} ,$$ and $$x$$ is in quadrant III.",
+        "Image Links": [],
+        "Answer": "a) $$\\frac{\\sqrt{3}}{2}$$ b) $$- \\frac{1}{2}$$ c) $$- \\sqrt{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the exact values of a) $$\\sin{( 2 x )} ,$$ b) $$\\cos{( 2 x )} ,$$ and c) $$\\tan{( 2 x )}$$ without solving for $$x .$$",
+        "Question": "If $$\\tan{x} = - 8 ,$$ and $$x$$ is in quadrant IV.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the values of the six trigonometric functions if the conditions provided hold.",
+        "Question": "$$\\cos{(} 2 \\theta ) = \\frac{3}{5}$$ and $$90^{\\vysmwhtcircle} \\le \\theta \\le 180^{\\vysmwhtcircle}$$",
+        "Image Links": [],
+        "Answer": "$$\\cos{\\theta} = - \\frac{2 \\sqrt{5}}{5} , \\sin{} \\theta = \\frac{\\sqrt{5}}{5} , \\tan{} \\theta = - \\frac{1}{2} , \\csc{} \\theta = \\sqrt{5} , \\sec{} \\theta = - \\frac{\\sqrt{5}}{2} , \\cot{} \\theta = - 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the values of the six trigonometric functions if the conditions provided hold.",
+        "Question": "$$\\cos{(} 2 \\theta ) = \\frac{1}{\\sqrt{2}}$$ and $$180^{\\vysmwhtcircle} \\le \\theta \\le 270^{\\vysmwhtcircle}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify to one trigonometric expression.",
+        "Question": "$$2 \\sin{} ( \\frac{\\pi}{4} ) 2 \\cos{} ( \\frac{\\pi}{4} )$$",
+        "Image Links": [],
+        "Answer": "$$2 \\sin{} ( \\frac{\\pi}{2} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify to one trigonometric expression.",
+        "Question": "$$4 \\sin{} ( \\frac{\\pi}{8} ) \\cos{} ( \\frac{\\pi}{8} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the exact value using half-angle formulas.",
+        "Question": "$$\\sin{( \\frac{\\pi}{8} )}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\sqrt{2 - \\sqrt{2}}}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the exact value using half-angle formulas.",
+        "Question": "$$\\cos{( - \\frac{11 \\pi}{12} )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the exact value using half-angle formulas.",
+        "Question": "$$\\sin{( \\frac{11 \\pi}{12} )}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\sqrt{2 - \\sqrt{3}}}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the exact value using half-angle formulas.",
+        "Question": "$$\\cos{( \\frac{7 \\pi}{8} )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the exact value using half-angle formulas.",
+        "Question": "$$\\tan{( \\frac{5 \\pi}{12} )}$$",
+        "Image Links": [],
+        "Answer": "$$2 + \\sqrt{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the exact value using half-angle formulas.",
+        "Question": "$$\\tan{( - \\frac{3 \\pi}{12} )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the exact value using half-angle formulas.",
+        "Question": "$$\\tan{( - \\frac{3 \\pi}{8} )}$$",
+        "Image Links": [],
+        "Answer": "$$- 1 - \\sqrt{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the exact values of a) $$\\sin{( \\frac{x}{2} )} ,$$ b) $$\\cos{( \\frac{x}{2} )} ,$$ and c) $$\\tan{( \\frac{x}{2} )}$$ without solving for $$x ,$$ when $$0^{\\vysmwhtcircle} \\le x \\le 360^{\\vysmwhtcircle}$$",
+        "Question": "If $$\\tan{x} = - \\frac{4}{3} ,$$ and $$x$$ is in quadrant IV.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the exact values of a) $$\\sin{( \\frac{x}{2} )} ,$$ b) $$\\cos{( \\frac{x}{2} )} ,$$ and c) $$\\tan{( \\frac{x}{2} )}$$ without solving for $$x ,$$ when $$0^{\\vysmwhtcircle} \\le x \\le 360^{\\vysmwhtcircle}$$",
+        "Question": "If $$\\sin{x} = - \\frac{12}{13} ,$$ and $$x$$ is in quadrant III.",
+        "Image Links": [],
+        "Answer": "a) $$\\frac{3 \\sqrt{13}}{13}$$ b) $$- \\frac{2 \\sqrt{13}}{13}$$ c) $$- \\frac{3}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the exact values of a) $$\\sin{( \\frac{x}{2} )} ,$$ b) $$\\cos{( \\frac{x}{2} )} ,$$ and c) $$\\tan{( \\frac{x}{2} )}$$ without solving for $$x ,$$ when $$0^{\\vysmwhtcircle} \\le x \\le 360^{\\vysmwhtcircle}$$",
+        "Question": "If $$\\csc{x} = 7 ,$$ and $$x$$ is in quadrant II.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the exact values of a) $$\\sin{( \\frac{x}{2} )} ,$$ b) $$\\cos{( \\frac{x}{2} )} ,$$ and c) $$\\tan{( \\frac{x}{2} )}$$ without solving for $$x ,$$ when $$0^{\\vysmwhtcircle} \\le x \\le 360^{\\vysmwhtcircle}$$",
+        "Question": "If $$\\sec{x} = - 4 ,$$ and $$x$$ is in quadrant II.",
+        "Image Links": [],
+        "Answer": "a) $$\\frac{\\sqrt{10}}{4}$$ b) $$\\frac{\\sqrt{6}}{4}$$ c) $$\\frac{\\sqrt{15}}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use Figure 5 to find the requested half and double angles.\nFigure 5",
+        "Question": "Find $$\\sin{( 2 \\theta )} , \\cos{} ( 2 \\theta ) ,$$ and $$\\tan{(} 2 \\theta ).$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/50f912f316e8e378971241caaa181bea103dca62"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use Figure 5 to find the requested half and double angles.\nFigure 5",
+        "Question": "Find $$\\sin{(} 2 \\alpha ) , \\cos{} ( 2 \\alpha ) ,$$ and $$\\tan{(} 2 \\alpha ).$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/50f912f316e8e378971241caaa181bea103dca62"
+        ],
+        "Answer": "$$\\frac{120}{169} , - \\frac{119}{169} , - \\frac{120}{119}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use Figure 5 to find the requested half and double angles.\nFigure 5",
+        "Question": "Find $$\\sin{( \\frac{\\theta}{2} )} , \\cos{} ( \\frac{\\theta}{2} ) ,$$ and $$\\tan{( \\frac{\\theta}{2} ) .}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/50f912f316e8e378971241caaa181bea103dca62"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use Figure 5 to find the requested half and double angles.\nFigure 5",
+        "Question": "Find $$\\sin{( \\frac{\\alpha}{2} )} , \\cos{} ( \\frac{\\alpha}{2} ) ,$$ and $$\\tan{( \\frac{\\alpha}{2} ) .}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/50f912f316e8e378971241caaa181bea103dca62"
+        ],
+        "Answer": "$$\\frac{2 \\sqrt{13}}{13} , \\frac{3 \\sqrt{13}}{13} , \\frac{2}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify each expression. Do not evaluate.",
+        "Question": "$$\\cos{}^{2} ( 28^{\\vysmwhtcircle} ) - \\sin{}^{2} ( 28^{\\vysmwhtcircle} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify each expression. Do not evaluate.",
+        "Question": "$$2 \\cos{}^{2} ( 37^{\\vysmwhtcircle} ) - 1$$",
+        "Image Links": [],
+        "Answer": "$$\\cos{(} 74^{\\vysmwhtcircle} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify each expression. Do not evaluate.",
+        "Question": "$$1 - 2 \\sin{}^{2} ( 17^{\\vysmwhtcircle} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify each expression. Do not evaluate.",
+        "Question": "$$\\cos{}^{2} ( 9 x ) - \\sin{}^{2} ( 9 x )$$",
+        "Image Links": [],
+        "Answer": "$$\\cos{(} 18 x )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify each expression. Do not evaluate.",
+        "Question": "$$4 \\sin{} ( 8 x ) \\cos{} ( 8 x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify each expression. Do not evaluate.",
+        "Question": "$$6 \\sin{} ( 5 x ) \\cos{} ( 5 x )$$",
+        "Image Links": [],
+        "Answer": "$$3 \\sin{} ( 10 x )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, prove the identity given.",
+        "Question": "$$( \\sin{t} - \\cos{} t )^{2} = 1 - \\sin{} ( 2 t )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, prove the identity given.",
+        "Question": "$$\\sin{( 2 x )} = - 2 \\sin{} ( - x ) \\cos{} ( - x )$$",
+        "Image Links": [],
+        "Answer": "$$- 2 \\sin{} ( - x ) \\cos{} ( - x ) = - 2 ( - \\sin{} ( x ) \\cos{} ( x ) ) = \\sin{} ( 2 x )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, prove the identity given.",
+        "Question": "$$\\cot{x} - \\tan{} x = 2 \\cot{} ( 2 x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, prove the identity given.",
+        "Question": "$$\\frac{1 + \\cos{} ( 2 \\theta )}{\\sin{( 2 \\theta )}} \\tan{}^{2} \\theta = \\tan{} \\theta$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{sin \\left(\\right. 2 \\theta \\left.\\right)}{1 + cos \\left(\\right. 2 \\theta \\left.\\right)} \\left(tan\\right)^{2} \\theta = \\frac{2 sin \\left(\\right. \\theta \\left.\\right) cos \\left(\\right. \\theta \\left.\\right)}{1 + \\left(cos\\right)^{2} \\theta - \\left(sin\\right)^{2} \\theta} \\left(tan\\right)^{2} \\theta = \\\\ \\frac{2 sin \\left(\\right. \\theta \\left.\\right) cos \\left(\\right. \\theta \\left.\\right)}{2 \\left(cos\\right)^{2} \\theta} \\left(tan\\right)^{2} \\theta = \\frac{sin \\left(\\right. \\theta \\left.\\right)}{cos \\theta} \\left(tan\\right)^{2} \\theta = \\\\ tan \\theta \\left(tan\\right)^{2} \\theta = \\left(tan\\right)^{3} \\theta$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the expression with an exponent no higher than 1.",
+        "Question": "$$\\cos{}^{2} ( 5 x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the expression with an exponent no higher than 1.",
+        "Question": "$$\\cos{}^{2} ( 6 x )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1 + \\cos{} ( 12 x )}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the expression with an exponent no higher than 1.",
+        "Question": "$$\\sin{}^{4} ( 8 x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the expression with an exponent no higher than 1.",
+        "Question": "$$\\sin{}^{4} ( 3 x )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3 + \\cos{} ( 12 x ) - 4 \\cos{} ( 6 x )}{8}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the expression with an exponent no higher than 1.",
+        "Question": "$$\\cos{}^{2} x \\sin{}^{4} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the expression with an exponent no higher than 1.",
+        "Question": "$$\\cos{}^{4} x \\sin{}^{2} x$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2 + \\cos{} ( 2 x ) - 2 \\cos{} ( 4 x ) - \\cos{} ( 6 x )}{32}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, rewrite the expression with an exponent no higher than 1.",
+        "Question": "$$\\tan{}^{2} x \\sin{}^{2} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, reduce the equations to powers of one, and then check the answer graphically.",
+        "Question": "$$\\tan{}^{4} x$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3 + \\cos{} ( 4 x ) - 4 \\cos{} ( 2 x )}{3 + \\cos{} ( 4 x ) + 4 \\cos{} ( 2 x )}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, reduce the equations to powers of one, and then check the answer graphically.",
+        "Question": "$$\\sin{}^{2} ( 2 x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, reduce the equations to powers of one, and then check the answer graphically.",
+        "Question": "$$\\sin{}^{2} x \\cos{}^{2} x$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1 - \\cos{} ( 4 x )}{8}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, reduce the equations to powers of one, and then check the answer graphically.",
+        "Question": "$$\\tan{}^{2} x \\sin{} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, reduce the equations to powers of one, and then check the answer graphically.",
+        "Question": "$$\\tan{}^{4} x \\cos{}^{2} x$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3 + \\cos{} ( 4 x ) - 4 \\cos{} ( 2 x )}{4 ( \\cos{} ( 2 x ) + 1 )}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, reduce the equations to powers of one, and then check the answer graphically.",
+        "Question": "$$\\cos{}^{2} x \\sin{} ( 2 x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, reduce the equations to powers of one, and then check the answer graphically.",
+        "Question": "$$\\cos{}^{2} ( 2 x ) \\sin{} x$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{( 1 + \\cos{} ( 4 x ) ) \\sin{} x}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, reduce the equations to powers of one, and then check the answer graphically.",
+        "Question": "$$\\tan{}^{2} ( \\frac{x}{2} ) \\sin{} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, algebraically find an equivalent function, only in terms of $$\\sin{x}$$ and/or $$\\cos{x} ,$$ and then check the answer by graphing both equations.",
+        "Question": "$$\\sin{(} 4 x )$$",
+        "Image Links": [],
+        "Answer": "$$4 \\sin{} x \\cos{} x ( \\cos{}^{2} x - \\sin{}^{2} x )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, algebraically find an equivalent function, only in terms of $$\\sin{x}$$ and/or $$\\cos{x} ,$$ and then check the answer by graphing both equations.",
+        "Question": "$$\\cos{(} 4 x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, prove the identities.",
+        "Question": "$$\\sin{( 2 x )} = \\frac{2 \\tan{} x}{1 + \\tan{}^{2} x}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2 \\tan{} x}{1 + \\tan{}^{2} x} = \\frac{\\frac{2 \\sin{} x}{\\cos{x}}}{1 + \\frac{\\sin{}^{2} x}{\\cos{}^{2} x}} = \\frac{\\frac{2 \\sin{} x}{\\cos{x}}}{\\frac{\\cos{}^{2} x + \\sin{}^{2} x}{\\cos{}^{2} x}} =$$ $$\\frac{2 \\sin{} x}{\\cos{x}} . \\frac{\\cos{}^{2} x}{1} = 2 \\sin{} x \\cos{} x = \\sin{} ( 2 x )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, prove the identities.",
+        "Question": "$$\\cos{(} 2 \\alpha ) = \\frac{1 - \\tan{}^{2} \\alpha}{1 + \\tan{}^{2} \\alpha}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, prove the identities.",
+        "Question": "$$\\tan{(} 2 x ) = \\frac{2 \\sin{} x \\cos{} x}{2 \\cos{}^{2} x - 1}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2 \\sin{} x \\cos{} x}{2 \\cos{}^{2} x - 1} = \\frac{\\sin{(} 2 x )}{\\cos{(} 2 x )} = \\tan{} ( 2 x )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, prove the identities.",
+        "Question": "$$( \\sin{}^{2} x - 1 )^{2} = \\cos{} ( 2 x ) + \\sin{}^{4} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, prove the identities.",
+        "Question": "$$\\sin{( 3 x )} = 3 \\sin{} x \\cos{}^{2} x - \\sin{}^{3} x$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{a}\\sin{(} x + 2 x ) = \\sin{} x \\cos{} ( 2 x ) + \\sin{} ( 2 x ) \\cos{} x \\\\ = \\sin{} x ( \\cos{}^{2} x - \\sin{}^{2} x ) + 2 \\sin{} x \\cos{} x \\cos{} x \\\\ = \\sin{} x \\cos{}^{2} x - \\sin{}^{3} x + 2 \\sin{} x \\cos{}^{2} x \\\\ = 3 \\sin{} x \\cos{}^{2} x - \\sin{}^{3} x\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, prove the identities.",
+        "Question": "$$\\cos{( 3 x )} = \\cos{}^{3} x - 3 \\sin{}^{2} x \\cos{} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, prove the identities.",
+        "Question": "$$\\frac{1 + \\cos{} ( 2 t )}{\\sin{( 2 t )} - \\cos{} t} = \\frac{2 \\cos{} t}{2 \\sin{} t - 1}$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{a}\\frac{1 + \\cos{} ( 2 t )}{\\sin{(} 2 t ) - \\cos{} t} = \\frac{1 + 2 \\cos{}^{2} t - 1}{2 \\sin{} t \\cos{} t - \\cos{} t} \\\\ = \\frac{2 \\cos{}^{2} t}{\\cos{t} ( 2 \\sin{} t - 1 )} \\\\ = \\frac{2 \\cos{} t}{2 \\sin{} t - 1}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, prove the identities.",
+        "Question": "$$\\sin{( 16 x )} = 16 \\sin{} x \\cos{} x \\cos{} ( 2 x ) \\cos{} ( 4 x ) \\cos{} ( 8 x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, prove the identities.",
+        "Question": "$$\\cos{( 16 x )} = ( \\cos{}^{2} ( 4 x ) - \\sin{}^{2} ( 4 x ) - \\sin{} ( 8 x ) ) ( \\cos{}^{2} ( 4 x ) - \\sin{}^{2} ( 4 x ) + \\sin{} ( 8 x ) )$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{a}( \\cos{}^{2} ( 4 x ) - \\sin{}^{2} ( 4 x ) - \\sin{} ( 8 x ) ) ( \\cos{}^{2} ( 4 x ) - \\sin{}^{2} ( 4 x ) + \\sin{} ( 8 x ) ) = \\\\ = ( \\cos{(} 8 x ) - \\sin{} ( 8 x ) ) ( \\cos{} ( 8 x ) + \\sin{} ( 8 x ) ) \\\\ = \\cos{}^{2} ( 8 x ) - \\sin{}^{2} ( 8 x ) \\\\ = \\cos{} ( 16 x )\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    }
+]

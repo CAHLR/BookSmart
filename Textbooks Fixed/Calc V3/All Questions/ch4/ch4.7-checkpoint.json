@@ -1,0 +1,26 @@
+[
+    {
+        "Topic": "Checkpoint 4.34",
+        "Problem Statement": "",
+        "Question": "Find the critical point of the function $$f ( x , y ) = x^{3} + 2 x y - 2 x - 4 y .$$",
+        "Image Links": [],
+        "Answer": "$$( 2 , -5 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.35",
+        "Problem Statement": "",
+        "Question": "Use the second derivative to find the local extrema of the function $$f ( x , y ) = x^{3} + 2 x y - 6 x - 4 y^{2} .$$",
+        "Image Links": [],
+        "Answer": "$$( \\frac{4}{3} , \\frac{1}{3} )$$ is a saddle point, $$( - \\frac{3}{2} , - \\frac{3}{8} )$$ is a local maximum.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.36",
+        "Problem Statement": "",
+        "Question": "Use the problem-solving strategy for finding absolute extrema of a function to find the absolute extrema of the function $$f ( x , y ) = 4 x^{2} - 2 x y + 6 y^{2} - 8 x + 2 y + 3$$ on the domain defined by $$0 \\le x \\le 2$$ and $$-1 \\le y \\le 3 .$$",
+        "Image Links": [],
+        "Answer": "The absolute minimum occurs at $$( 1 , 0 ) \\text{:}$$ $$f ( 1 , 0 ) = -1 .$$ The absolute maximum occurs at $$( 0 , 3 ) \\text{:}$$ $$f ( 0 , 3 ) = 63 .$$",
+        "Answer Image Links": []
+    }
+]

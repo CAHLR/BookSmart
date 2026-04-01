@@ -1,0 +1,604 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What is an arithmetic sequence?",
+        "Image Links": [],
+        "Answer": "A sequence where each successive term of the sequence increases (or decreases) by a constant value.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "How is the common difference of an arithmetic sequence found?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "How do we determine whether a sequence is arithmetic?",
+        "Image Links": [],
+        "Answer": "We find whether the difference between all consecutive terms is the same. This is the same as saying that the sequence has a common difference.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What are the main differences between using a recursive formula and using an explicit formula to describe an arithmetic sequence?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Describe how linear functions and arithmetic sequences are similar. How are they different?",
+        "Image Links": [],
+        "Answer": "Both arithmetic sequences and linear functions have a constant rate of change. They are different because their domains are not the same; linear functions are defined for all real numbers, and arithmetic sequences are defined for natural numbers or a subset of the natural numbers.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the common difference for the arithmetic sequence provided.",
+        "Question": "$$\\{ 5 , 11 , 17 , 23 , 29 , ... \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the common difference for the arithmetic sequence provided.",
+        "Question": "$$\\{ 0 , \\frac{1}{2} , 1 , \\frac{3}{2} , 2 , ... \\}$$",
+        "Image Links": [],
+        "Answer": "The common difference is $$\\frac{1}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, determine whether the sequence is arithmetic. If so find the common difference.",
+        "Question": "$$\\{ 11.4 , 9.3 , 7.2 , 5.1 , 3 , ... \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, determine whether the sequence is arithmetic. If so find the common difference.",
+        "Question": "$$\\{ 4 , 16 , 64 , 256 , 1024 , ... \\}$$",
+        "Image Links": [],
+        "Answer": "The sequence is not arithmetic because $$16 - 4 \\ne 64 - 16.$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write the first five terms of the arithmetic sequence given the first term and common difference.",
+        "Question": "$$a_{1} = -25$$ , $$d = -9$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write the first five terms of the arithmetic sequence given the first term and common difference.",
+        "Question": "$$a_{1} = 0$$ , $$d = \\frac{2}{3}$$",
+        "Image Links": [],
+        "Answer": "$$0 , \\frac{2}{3} , \\frac{4}{3} , 2 , \\frac{8}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write the first five terms of the arithmetic series given two terms.",
+        "Question": "$$a_{1} = 17 , a_{7} = - 31$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write the first five terms of the arithmetic series given two terms.",
+        "Question": "$$a_{13} = - 60 , a_{33} = - 160$$",
+        "Image Links": [],
+        "Answer": "$$0 , - 5 , - 10 , - 15 , - 20$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the specified term for the arithmetic sequence given the first term and common difference.",
+        "Question": "First term is 3, common difference is 4, find the 5 th term.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the specified term for the arithmetic sequence given the first term and common difference.",
+        "Question": "First term is 4, common difference is 5, find the 4 th term.",
+        "Image Links": [],
+        "Answer": "$$a_{4} = 19$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the specified term for the arithmetic sequence given the first term and common difference.",
+        "Question": "First term is 5, common difference is 6, find the 8 th term.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the specified term for the arithmetic sequence given the first term and common difference.",
+        "Question": "First term is 6, common difference is 7, find the 6 th term.",
+        "Image Links": [],
+        "Answer": "$$a_{6} = 41$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the specified term for the arithmetic sequence given the first term and common difference.",
+        "Question": "First term is 7, common difference is 8, find the 7 th term.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the first term given two terms from an arithmetic sequence.",
+        "Question": "Find the first term or $$a_{1}$$ of an arithmetic sequence if $$a_{6} = 12$$ and $$a_{14} = 28.$$",
+        "Image Links": [],
+        "Answer": "$$a_{1} = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the first term given two terms from an arithmetic sequence.",
+        "Question": "Find the first term or $$a_{1}$$ of an arithmetic sequence if $$a_{7} = 21$$ and $$a_{15} = 42.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the first term given two terms from an arithmetic sequence.",
+        "Question": "Find the first term or $$a_{1}$$ of an arithmetic sequence if $$a_{8} = 40$$ and $$a_{23} = 115.$$",
+        "Image Links": [],
+        "Answer": "$$a_{1} = 5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the first term given two terms from an arithmetic sequence.",
+        "Question": "Find the first term or $$a_{1}$$ of an arithmetic sequence if $$a_{9} = 54$$ and $$a_{17} = 102.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the first term given two terms from an arithmetic sequence.",
+        "Question": "Find the first term or $$a_{1}$$ of an arithmetic sequence if $$a_{11} = 11$$ and $$a_{21} = 16.$$",
+        "Image Links": [],
+        "Answer": "$$a_{1} = 6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the specified term given two terms from an arithmetic sequence.",
+        "Question": "$$a_{1} = 33$$ and $$a_{7} = - 15.$$ Find $$a_{4} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the specified term given two terms from an arithmetic sequence.",
+        "Question": "$$a_{3} = - 17.1$$ and $$a_{10} = - 15.7.$$ Find $$a_{21} .$$",
+        "Image Links": [],
+        "Answer": "$$a_{21} = - 13.5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the recursive formula to write the first five terms of the arithmetic sequence.",
+        "Question": "$$a_{1} = 39 ; \\text{} a_{n} = a_{n - 1} - 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the recursive formula to write the first five terms of the arithmetic sequence.",
+        "Question": "$$a_{1} = - 19 ; \\text{} a_{n} = a_{n - 1} - 1.4$$",
+        "Image Links": [],
+        "Answer": "$$- 19 , - 20.4 , - 21.8 , - 23.2 , - 24.6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write a recursive formula for each arithmetic sequence.",
+        "Question": "$$a = \\{ 40 , 60 , 80 , ... \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write a recursive formula for each arithmetic sequence.",
+        "Question": "$$a = \\{ 17 , 26 , 35 , ... \\}$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{aa}a_{1} = 17 ; \\  a_{n} = a_{n - 1} + 9 & n \\geq 2\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write a recursive formula for each arithmetic sequence.",
+        "Question": "$$a = \\{ - 1 , 2 , 5 , ... \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write a recursive formula for each arithmetic sequence.",
+        "Question": "$$a = \\{ 12 , 17 , 22 , ... \\}$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{aa}a_{1} = 12 ; \\  a_{n} = a_{n - 1} + 5 & n \\geq 2\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write a recursive formula for each arithmetic sequence.",
+        "Question": "$$a = \\{ - 15 , - 7 , 1 , ... \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write a recursive formula for each arithmetic sequence.",
+        "Question": "$$a = \\{ 8.9 , 10.3 , 11.7 , ... \\}$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{aa}a_{1} = 8.9 ; \\  a_{n} = a_{n - 1} + 1.4 & n \\geq 2\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write a recursive formula for each arithmetic sequence.",
+        "Question": "$$a = \\{ - 0.52 , - 1.02 , - 1.52 , ... \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write a recursive formula for each arithmetic sequence.",
+        "Question": "$$a = \\{ \\frac{1}{5} , \\frac{9}{20} , \\frac{7}{10} , ... \\}$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{aa}a_{1} = \\frac{1}{5} ; \\  a_{n} = a_{n - 1} + \\frac{1}{4} & n \\geq 2\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write a recursive formula for each arithmetic sequence.",
+        "Question": "$$a = \\{ - \\frac{1}{2} , - \\frac{5}{4} , - 2 , ... \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write a recursive formula for each arithmetic sequence.",
+        "Question": "$$a = \\{ \\frac{1}{6} , - \\frac{11}{12} , - 2 , ... \\}$$",
+        "Image Links": [],
+        "Answer": "$$None$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write a recursive formula for the given arithmetic sequence, and then find the specified term.",
+        "Question": "$$a = \\{ 7 \\text{,\u00a0} 4 \\text{,\u00a0} 1 \\text{,\u00a0} ... \\} ;$$ Find the 17 th term.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write a recursive formula for the given arithmetic sequence, and then find the specified term.",
+        "Question": "$$a = \\{ 4 \\text{,\u00a0} 11 \\text{,\u00a0} 18 \\text{,\u00a0} ... \\} ;$$ Find the 14 th term.",
+        "Image Links": [],
+        "Answer": "$$a_{1} = 4 ; \\text{} a_{n} = a_{n - 1} + 7 ; \\text{} a_{14} = 95$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write a recursive formula for the given arithmetic sequence, and then find the specified term.",
+        "Question": "$$a = \\{ 2 \\text{,\u00a0} 6 \\text{,\u00a0} 10 \\text{,\u00a0} ... \\} ;$$ Find the 12 th term.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the explicit formula to write the first five terms of the arithmetic sequence.",
+        "Question": "$$a_{n} = 24 - 4 n$$",
+        "Image Links": [],
+        "Answer": "First five terms: $$20 , 16 , 12 , 8 , 4.$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the explicit formula to write the first five terms of the arithmetic sequence.",
+        "Question": "$$a_{n} = \\frac{1}{2} n - \\frac{1}{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write an explicit formula for each arithmetic sequence.",
+        "Question": "$$a = \\{ 3 , 5 , 7 , ... \\}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = 1 + 2 n$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write an explicit formula for each arithmetic sequence.",
+        "Question": "$$a = \\{ 32 , 24 , 16 , ... \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write an explicit formula for each arithmetic sequence.",
+        "Question": "$$a = \\{ - 5 \\text{,\u00a0} 95 \\text{,\u00a0} 195 \\text{,\u00a0} ... \\}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = - 105 + 100 n$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write an explicit formula for each arithmetic sequence.",
+        "Question": "$$a = \\{ -17 \\text{,\u00a0} -217 \\text{,\u00a0} -417 \\text{,} ... \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write an explicit formula for each arithmetic sequence.",
+        "Question": "$$a = \\{ 1.8 \\text{,\u00a0} 3.6 \\text{,\u00a0} 5.4 \\text{,\u00a0} ... \\}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = 1.8 n$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write an explicit formula for each arithmetic sequence.",
+        "Question": "$$a = \\{ -18.1 , -16.2 , -14.3 , ... \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write an explicit formula for each arithmetic sequence.",
+        "Question": "$$a = \\{ 15.8 , 18.5 , 21.2 , ... \\}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = 13.1 + 2.7 n$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write an explicit formula for each arithmetic sequence.",
+        "Question": "$$a = \\{ \\frac{1}{3} , - \\frac{4}{3} , -3 \\text{,\u00a0} ... \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write an explicit formula for each arithmetic sequence.",
+        "Question": "$$a = \\{ 0 , \\frac{1}{3} , \\frac{2}{3} , ... \\}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = \\frac{1}{3} n - \\frac{1}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, write an explicit formula for each arithmetic sequence.",
+        "Question": "$$a = \\{ - 5 , - \\frac{10}{3} , - \\frac{5}{3} , \\ldots \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the number of terms in the given finite arithmetic sequence.",
+        "Question": "$$a = \\{ 3 \\text{,} - 4 \\text{,} - 11 \\text{,\u00a0} ... \\text{,} - 60 \\}$$",
+        "Image Links": [],
+        "Answer": "There are 10 terms in the sequence.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the number of terms in the given finite arithmetic sequence.",
+        "Question": "$$a = \\{ 1.2 , 1.4 , 1.6 , ... , 3.8 \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, find the number of terms in the given finite arithmetic sequence.",
+        "Question": "$$a = \\{ \\frac{1}{2} , 2 , \\frac{7}{2} , ... , 8 \\}$$",
+        "Image Links": [],
+        "Answer": "There are 6 terms in the sequence.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, determine whether the graph shown represents an arithmetic sequence.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e6f15230a409838cea878315b5cfcf0a03e47d40"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, determine whether the graph shown represents an arithmetic sequence.",
+        "Question": "",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e767040531a0859fb344480ed0eb3df488577368"
+        ],
+        "Answer": "The graph does not represent an arithmetic sequence.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the information provided to graph the first 5 terms of the arithmetic sequence.",
+        "Question": "$$a_{1} = 0 , d = 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the information provided to graph the first 5 terms of the arithmetic sequence.",
+        "Question": "$$a_{1} = 9 ; a_{n} = a_{n - 1} - 10$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/516c658ff3a6e877f4be215f61608b6f5d44e494"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, use the information provided to graph the first 5 terms of the arithmetic sequence.",
+        "Question": "$$a_{n} = - 12 + 5 n$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, follow the steps to work with the arithmetic sequence $$a_{n} = 3 n - 2$$ using a graphing calculator:",
+        "Question": "What are the first seven terms shown in the column with the heading $$u ( n ) \\text{?}$$",
+        "Image Links": [],
+        "Answer": "$$1 , 4 , 7 , 10 , 13 , 16 , 19$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, follow the steps to work with the arithmetic sequence $$a_{n} = 3 n - 2$$ using a graphing calculator:",
+        "Question": "Use the scroll-down arrow to scroll to $$n = 50.$$ What value is given for $$u ( n ) \\text{?}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, follow the steps to work with the arithmetic sequence $$a_{n} = 3 n - 2$$ using a graphing calculator:",
+        "Question": "Press [WINDOW] . Set $$n \\text{Min} = 1$$ , $$n \\text{Max} = 5$$ , $$x \\text{Min} = 0$$ , $$x \\text{Max} = 6$$ , $$y \\text{Min} = - 1$$ , and $$y \\text{Max} = 14.$$ Then press [GRAPH] . Graph the sequence as it appears on the graphing calculator.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/12700e933c0d984cd24735eff21531961d5a1853"
+        ]
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, follow the steps given above to work with the arithmetic sequence $$a_{n} = \\frac{1}{2} n + 5$$ using a graphing calculator.",
+        "Question": "What are the first seven terms shown in the column with the heading $$u ( n )$$ in the TABLE feature?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, follow the steps given above to work with the arithmetic sequence $$a_{n} = \\frac{1}{2} n + 5$$ using a graphing calculator.",
+        "Question": "Graph the sequence as it appears on the graphing calculator. Be sure to adjust the WINDOW settings as needed.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/01aada3234e3446edb4a11cd0ae3d12cd769faed"
+        ]
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Give two examples of arithmetic sequences whose 4 th terms are $$9.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Give two examples of arithmetic sequences whose 10 th terms are $$206.$$",
+        "Image Links": [],
+        "Answer": "Answers will vary. Examples: $$a_{n} = 20.6 n$$ and $$a_{n} = 2 + 20.4 n.$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Find the 5 th term of the arithmetic sequence $$\\{ 9 b , 5 b , b , \\ldots \\} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Find the 11 th term of the arithmetic sequence $$\\{ 3 a - 2 b , a + 2 b , - a + 6 b \\ldots \\} .$$",
+        "Image Links": [],
+        "Answer": "$$a_{11} = - 17 a + 38 b$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "At which term does the sequence $$\\{ 5.4 , 14.5 , 23.6 , ... \\}$$ exceed 151?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "At which term does the sequence $$\\{ \\frac{17}{3} , \\frac{31}{6} , \\frac{14}{3} , ... \\}$$ begin to have negative values?",
+        "Image Links": [],
+        "Answer": "The sequence begins to have negative values at the 13 th term, $$a_{13} = - \\frac{1}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "For which terms does the finite arithmetic sequence $$\\{ \\frac{5}{2} , \\frac{19}{8} , \\frac{9}{4} , ... , \\frac{1}{8} \\}$$ have integer values?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Write an arithmetic sequence using a recursive formula. Show the first 4 terms, and then find the 31 st term.",
+        "Image Links": [],
+        "Answer": "Answers will vary. Check to see that the sequence is arithmetic. Example: Recursive formula: $$a_{1} = 3 , a_{n} = a_{n - 1} - 3.$$ First 4 terms: $$\\left .\\begin{matrix}{aa}3 , 0 , - 3 , - 6 & a_{31} = - 87\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Write an arithmetic sequence using an explicit formula. Show the first 4 terms, and then find the 28 th term.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

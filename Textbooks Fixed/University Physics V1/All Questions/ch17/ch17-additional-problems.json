@@ -1,0 +1,86 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A 0.80-m-long tube is opened at both ends. The air temperature is $$26 \\text{\u00b0} \\text{C} \\text{.}$$ The air in the tube is oscillated using a speaker attached to a signal generator. What are the wavelengths and frequencies of first two modes of sound waves that resonate in the tube?",
+        "Image Links": [],
+        "Answer": "$$v_{\\text{s}} = 346.40 \\text{m/s}$$ ; $$\\left .\\begin{matrix}{} \\\\  \\\\ \\lambda_{n} = \\frac{2}{n} L f_{n} = \\frac{v_{\\text{s}}}{\\lambda_{n}} \\\\ \\lambda_{1} = 1.60 \\text{m} f_{1} = 216.50 \\text{Hz} \\\\ \\lambda_{2} = 0.80 \\text{m} f_{1} = 433.00 \\text{Hz}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A tube filled with water has a valve at the bottom to allow the water to flow out of the tube. As the water is emptied from the tube, the length L of the air column changes. A 1024-Hz tuning fork is placed at the opening of the tube. Water is removed from the tube until the $$n = 5$$ mode of a sound wave resonates. What is the length of the air column if the temperature of the air in the room is $$18 \\text{\u00b0} \\text{C?}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/eb7ecf8cd0629c211ef2ccc4e6aa98da9e0853b1"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Consider the following figure. The length of the string between the string vibrator and the pulley is $$L = 1.00 \\text{m} \\text{.}$$ The linear density of the string is $$\\mu = 0.006 \\text{kg/m} \\text{.}$$ The string vibrator can oscillate at any frequency. The hanging mass is 2.00 kg. (a)What are the wavelength and frequency of $$n = 6$$ mode? (b) The string oscillates the air around the string. What is the wavelength of the sound if the speed of the sound is $$v_{s} = 343.00 \\text{m/s}$$ ?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/760f8576e3f9fd46dac54978c2562012225fe94f"
+        ],
+        "Answer": "a. $$\\left .\\begin{matrix}{} \\\\  \\\\ \\lambda_{6} = 0.40 \\text{m} \\\\  \\\\  \\\\ v = 57.15 \\frac{\\text{m}}{\\text{s}} \\\\ f_{6} = 142.89 \\text{Hz}\\end{matrix}\\right .$$ ; b. $$\\lambda_{\\text{s}} = 2.40 \\text{m}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Early Doppler shift experiments were conducted using a band playing music on a train. A trumpet player on a moving railroad flatcar plays a 320-Hz note. The sound waves heard by a stationary observer on a train platform hears a frequency of 350 Hz. What is the flatcar\u2019s speed in mph? The temperature of the air is $$T_{\\text{C}} = 22 \\text{\u00b0} \\text{C}$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Two cars move toward one another, both sounding their horns $$( f_{s} = 800 \\text{Hz} )$$ . Car A is moving at 65 mph and Car B is at 75 mph. What is the beat frequency heard by each driver? The air temperature is $$T_{C} = 22.00 \\text{\u00b0} \\text{C}$$ .",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{} \\\\  \\\\ v = 344.08 \\frac{\\text{m}}{\\text{s}} \\\\ v_{A} = 29.05 \\frac{\\text{m}}{\\text{s}} , v_{B} = 33.52 \\text{m/s} \\\\ f_{A} = 961.18 \\text{Hz,} \\\\ f_{B} = 958.89 \\text{Hz} \\\\ f_{A , \\text{beat}} = 161.18 \\text{Hz,} f_{B , \\text{beat}} = 158.89 \\text{Hz}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Student A runs after Student B. Student A carries a tuning fork ringing at 1024 Hz, and student B carries a tuning fork ringing at 1000 Hz. Student A is running at a speed of $$v_{A} = 5.00 \\text{m/s}$$ and Student B is running at $$v_{B} = 6.00 \\text{m/s} \\text{.}$$ What is the beat frequency heard by each student? The speed of sound is $$v = 343.00 \\text{m/s} \\text{.}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Suppose that the sound level from a source is 75 dB and then drops to 52 dB, with a frequency of 600 Hz. Determine the (a) initial and (b) final sound intensities and the (c) initial and (d) final sound wave amplitudes. The air temperature is $$T_{\\text{C}} = 24.00 \\text{\u00b0} \\text{C}$$ and the air density is $$\\rho = 1.184 \\text{kg/m}^{3} .$$",
+        "Image Links": [],
+        "Answer": "$$v = 345.24 \\frac{\\text{m}}{\\text{s}}$$ ; a. $$I = 31.62 \\frac{\\text{muW}}{\\text{m}^{2}}$$ ; b. $$I = 0.16 \\frac{\\text{muW}}{\\text{m}^{2}}$$ ; c. $$s_{\\text{max}} = 104.39 \\text{mum}$$ ; d. $$s_{\\text{max}} = 7.43 \\text{mum}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The Doppler shift for a Doppler radar is found by $$f = f_{R} ( \\frac{1 + \\frac{v}{c}}{1 - \\frac{v}{c}} )$$ , where $$f_{R}$$ is the frequency of the radar, f is the frequency observed by the radar, c is the speed of light, and v is the speed of the target. What is the beat frequency observed at the radar, assuming the speed of the target is much slower than the speed of light?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A stationary observer hears a frequency of 1000.00 Hz as a source approaches and a frequency of 850.00 Hz as a source departs. The source moves at a constant velocity of 75 mph. What is the temperature of the air?",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{} \\\\  \\\\ \\frac{f_{A}}{f_{D}} = \\frac{v + v_{\\text{s}}}{v - v_{\\text{s}}} , ( v - v_{\\text{s}} ) \\frac{f_{A}}{f_{D}} = v + v_{\\text{s}} , v = 347.39 \\frac{\\text{m}}{\\text{s}} \\\\ T_{\\text{C}} = 27.70 \\text{\u00b0}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A flute plays a note with a frequency of 600 Hz. The flute can be modeled as a pipe open at both ends, where the flute player changes the length with his finger positions. What is the length of the tube if this is the fundamental frequency?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

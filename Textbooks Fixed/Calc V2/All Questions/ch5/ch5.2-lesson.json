@@ -1,0 +1,582 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "Using sigma notation, write the following expressions as infinite series.",
+        "Question": "$$1 + \\frac{1}{2} + \\frac{1}{3} + \\frac{1}{4} + \\text{cdots}$$",
+        "Image Links": [],
+        "Answer": "$$\\sum_{n = 1}^{\\infty} \\frac{1}{n}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Using sigma notation, write the following expressions as infinite series.",
+        "Question": "$$1 - 1 + 1 - 1 + \\text{cdots}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Using sigma notation, write the following expressions as infinite series.",
+        "Question": "$$1 - \\frac{1}{2} + \\frac{1}{3} - \\frac{1}{4} + ...$$",
+        "Image Links": [],
+        "Answer": "$$\\sum_{n = 1}^{\\infty} \\frac{( -1 )^{n - 1}}{n}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Using sigma notation, write the following expressions as infinite series.",
+        "Question": "$$\\text{sin} 1 + \\text{sin} 1 \\text{/} 2 + \\text{sin} 1 \\text{/} 3 + \\text{sin} 1 \\text{/} 4 + \\text{cdots}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Compute the first four partial sums $$S_{1} \\text{,unicode[:ddot.]} , S_{4}$$ for the series having $$n \\text{th}$$ term $$a_{n}$$ starting with $$n = 1$$ as follows.",
+        "Question": "$$a_{n} = n$$",
+        "Image Links": [],
+        "Answer": "$$1 , 3 , 6 , 10$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Compute the first four partial sums $$S_{1} \\text{,unicode[:ddot.]} , S_{4}$$ for the series having $$n \\text{th}$$ term $$a_{n}$$ starting with $$n = 1$$ as follows.",
+        "Question": "$$a_{n} = 1 \\text{/} n$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Compute the first four partial sums $$S_{1} \\text{,unicode[:ddot.]} , S_{4}$$ for the series having $$n \\text{th}$$ term $$a_{n}$$ starting with $$n = 1$$ as follows.",
+        "Question": "$$a_{n} = \\text{sin} ( n \\pi \\text{/} 2 )$$",
+        "Image Links": [],
+        "Answer": "$$1 , 1 , 0 , 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Compute the first four partial sums $$S_{1} \\text{,unicode[:ddot.]} , S_{4}$$ for the series having $$n \\text{th}$$ term $$a_{n}$$ starting with $$n = 1$$ as follows.",
+        "Question": "$$a_{n} = ( -1 )^{n}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the general term $$a_{n}$$ of the series with the given partial sum $$S_{n} .$$ If the sequence of partial sums converges, find its limit $$S .$$",
+        "Question": "$$S_{n} = 1 - \\frac{1}{n} ,$$ $$n \\geq 2$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = S_{n} - S_{n - 1} = \\frac{1}{n - 1} - \\frac{1}{n} .$$ Series converges to $$S = 1 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the general term $$a_{n}$$ of the series with the given partial sum $$S_{n} .$$ If the sequence of partial sums converges, find its limit $$S .$$",
+        "Question": "$$S_{n} = \\frac{n ( n + 1 )}{2} ,$$ $$n \\geq 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the general term $$a_{n}$$ of the series with the given partial sum $$S_{n} .$$ If the sequence of partial sums converges, find its limit $$S .$$",
+        "Question": "$$S_{n} = \\sqrt{n} , n \\geq 2$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = S_{n} - S_{n - 1} = \\sqrt{n} - \\sqrt{n - 1} = \\frac{1}{\\sqrt{n - 1} + \\sqrt{n}} .$$ Series diverges because partial sums are unbounded.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, compute the general term $$a_{n}$$ of the series with the given partial sum $$S_{n} .$$ If the sequence of partial sums converges, find its limit $$S .$$",
+        "Question": "$$S_{n} = 2 - ( n + 2 ) \\text{/} 2^{n} , n \\geq 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following series, use the sequence of partial sums to determine whether the series converges or diverges.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{n}{n + 2}$$",
+        "Image Links": [],
+        "Answer": "$$S_{1} = 1 \\text{/} 3 ,$$ $$S_{2} = 1 \\text{/} 3 + 2 \\text{/} 4 > 1 \\text{/} 3 + 1 \\text{/} 3 = 2 \\text{/} 3 ,$$ $$S_{3} = 1 \\text{/} 3 + 2 \\text{/} 4 + 3 \\text{/} 5 > 3 \\cdotp ( 1 \\text{/} 3 ) = 1 .$$ In general $$S_{k} > k \\text{/} 3 .$$ Series diverges.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following series, use the sequence of partial sums to determine whether the series converges or diverges.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} ( 1 - ( -1 )^{n} ) )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following series, use the sequence of partial sums to determine whether the series converges or diverges.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{1}{( n + 1 ) ( n + 2 )}$$ ( Hint: Use a partial fraction decomposition like that for $$\\sum_{n = 1}^{\\infty} \\frac{1}{n ( n + 1 )} . )$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{a}S_{1} = 1 \\text{/} ( 2.3 ) = 1 \\text{/} 6 = 2 \\text{/} 3 - 1 \\text{/} 2 , \\\\ S_{2} = 1 \\text{/} ( 2.3 ) + 1 \\text{/} ( 3.4 ) = 2 \\text{/} 12 + 1 \\text{/} 12 = 1 \\text{/} 4 = 3 \\text{/} 4 - 1 \\text{/} 2 , \\\\ S_{3} = 1 \\text{/} ( 2.3 ) + 1 \\text{/} ( 3.4 ) + 1 \\text{/} ( 4.5 ) = 10 \\text{/} 60 + 5 \\text{/} 60 + 3 \\text{/} 60 = 3 \\text{/} 10 = 4 \\text{/} 5 - 1 \\text{/} 2 , \\\\ S_{4} = 1 \\text{/} ( 2.3 ) + 1 \\text{/} ( 3.4 ) + 1 \\text{/} ( 4.5 ) + 1 \\text{/} ( 5.6 ) = 10 \\text{/} 60 + 5 \\text{/} 60 + 3 \\text{/} 60 + 2 \\text{/} 60 = 1 \\text{/} 3 = 5 \\text{/} 6 - 1 \\text{/} 2 .\\end{matrix}\\right .$$ The pattern is $$S_{k} = ( k + 1 ) \\text{/} ( k + 2 ) - 1 \\text{/} 2$$ and the series converges to $$1 \\text{/} 2 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following series, use the sequence of partial sums to determine whether the series converges or diverges.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{1}{2 n + 1}$$ ( Hint: Follow the reasoning for $$\\sum_{n = 1}^{\\infty} \\frac{1}{n} . )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Suppose that $$\\sum_{n = 1}^{\\infty} a_{n} = 1 ,$$ that $$\\sum_{n = 1}^{\\infty} b_{n} = -1 ,$$ that $$a_{1} = 2 ,$$ and $$b_{1} = -3 .$$ Find the sum of the indicated series.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} ( a_{n} + b_{n} )$$",
+        "Image Links": [],
+        "Answer": "$$0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Suppose that $$\\sum_{n = 1}^{\\infty} a_{n} = 1 ,$$ that $$\\sum_{n = 1}^{\\infty} b_{n} = -1 ,$$ that $$a_{1} = 2 ,$$ and $$b_{1} = -3 .$$ Find the sum of the indicated series.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} ( a_{n} - 2 b_{n} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Suppose that $$\\sum_{n = 1}^{\\infty} a_{n} = 1 ,$$ that $$\\sum_{n = 1}^{\\infty} b_{n} = -1 ,$$ that $$a_{1} = 2 ,$$ and $$b_{1} = -3 .$$ Find the sum of the indicated series.",
+        "Question": "$$\\sum_{n = 2}^{\\infty} ( a_{n} - b_{n} )$$",
+        "Image Links": [],
+        "Answer": "$$-3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Suppose that $$\\sum_{n = 1}^{\\infty} a_{n} = 1 ,$$ that $$\\sum_{n = 1}^{\\infty} b_{n} = -1 ,$$ that $$a_{1} = 2 ,$$ and $$b_{1} = -3 .$$ Find the sum of the indicated series.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} ( 3 a_{n + 1} - 4 b_{n + 1} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "State whether the given series converges and explain why.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{1}{n + 1000}$$ ( Hint: Rewrite using a change of index.)",
+        "Image Links": [],
+        "Answer": "diverges, $$\\sum_{n = 1001}^{\\infty} \\frac{1}{n}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "State whether the given series converges and explain why.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{1}{n + 10^{80}}$$ ( Hint: Rewrite using a change of index.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "State whether the given series converges and explain why.",
+        "Question": "$$1 + \\frac{1}{10} + \\frac{1}{100} + \\frac{1}{1000} + \\text{cdots}$$",
+        "Image Links": [],
+        "Answer": "convergent geometric series, $$r = 1 \\text{/} 10 < 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "State whether the given series converges and explain why.",
+        "Question": "$$1 + \\frac{e}{\\pi} + \\frac{e^{2}}{\\pi^{2}} + \\frac{e^{3}}{\\pi^{3}} + \\text{cdots}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "State whether the given series converges and explain why.",
+        "Question": "$$1 + \\frac{\\pi}{e^{2}} + \\frac{\\pi^{2}}{e^{4}} + \\frac{\\pi^{3}}{e^{6}} + \\frac{\\pi^{4}}{e^{8}} + \\text{cdots}$$",
+        "Image Links": [],
+        "Answer": "convergent geometric series, $$r = \\pi \\text{/} e^{2} < 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "State whether the given series converges and explain why.",
+        "Question": "$$1 - \\sqrt{\\frac{\\pi}{3}} + \\sqrt{\\frac{\\pi^{2}}{9}} - \\sqrt{\\frac{\\pi^{3}}{27}} + \\text{cdots}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For $$a_{n}$$ as follows, write the sum as a geometric series of the form $$\\sum_{n = 1}^{\\infty} a r^{n} .$$ State whether the series converges and if it does, find the value of $$\\sum a_{n} .$$",
+        "Question": "$$a_{1} = -1$$ and $$a_{n} \\text{/} a_{n + 1} = -5$$ for $$n \\geq 1 .$$",
+        "Image Links": [],
+        "Answer": "$$\\sum_{n = 1}^{\\infty} 5 \\cdotp ( -1 \\text{/} 5 )^{n} ,$$ converges to $$-5 \\text{/} 6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For $$a_{n}$$ as follows, write the sum as a geometric series of the form $$\\sum_{n = 1}^{\\infty} a r^{n} .$$ State whether the series converges and if it does, find the value of $$\\sum a_{n} .$$",
+        "Question": "$$a_{1} = 2$$ and $$a_{n} \\text{/} a_{n + 1} = 1 \\text{/} 2$$ for $$n \\geq 1 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For $$a_{n}$$ as follows, write the sum as a geometric series of the form $$\\sum_{n = 1}^{\\infty} a r^{n} .$$ State whether the series converges and if it does, find the value of $$\\sum a_{n} .$$",
+        "Question": "$$a_{1} = 10$$ and $$a_{n} \\text{/} a_{n + 1} = 10$$ for $$n \\geq 1 .$$",
+        "Image Links": [],
+        "Answer": "$$\\sum_{n = 1}^{\\infty} 100 \\cdotp ( 1 \\text{/} 10 )^{n} ,$$ converges to $$100 \\text{/} 9$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For $$a_{n}$$ as follows, write the sum as a geometric series of the form $$\\sum_{n = 1}^{\\infty} a r^{n} .$$ State whether the series converges and if it does, find the value of $$\\sum a_{n} .$$",
+        "Question": "$$a_{1} = 1 \\text{/} 10$$ and $$a_{n} \\text{/} a_{n + 1} = -10$$ for $$n \\geq 1 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the identity $$\\frac{1}{1 - y} = \\sum_{n = 0}^{\\infty} y^{n}$$ to express the function as a geometric series in the indicated term.",
+        "Question": "$$\\frac{x}{1 + x}$$ in $$x$$",
+        "Image Links": [],
+        "Answer": "$$x \\sum_{n = 0}^{\\infty} ( \\text{unicode[:-]} x )^{n} = \\sum_{n = 1}^{\\infty} ( -1 )^{n - 1} x^{n}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the identity $$\\frac{1}{1 - y} = \\sum_{n = 0}^{\\infty} y^{n}$$ to express the function as a geometric series in the indicated term.",
+        "Question": "$$\\frac{\\sqrt{x}}{1 - x^{3 \\text{/} 2}}$$ in $$\\sqrt{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the identity $$\\frac{1}{1 - y} = \\sum_{n = 0}^{\\infty} y^{n}$$ to express the function as a geometric series in the indicated term.",
+        "Question": "$$\\frac{1}{1 + \\text{sin}^{2} x}$$ in $$\\text{sin} x$$",
+        "Image Links": [],
+        "Answer": "$$\\sum_{n = 0}^{\\infty} ( -1 )^{n} \\text{sin}^{2 n} ( x )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the identity $$\\frac{1}{1 - y} = \\sum_{n = 0}^{\\infty} y^{n}$$ to express the function as a geometric series in the indicated term.",
+        "Question": "$$\\text{sec}^{2} x$$ in $$\\text{sin} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Evaluate the following telescoping series or state whether the series diverges.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} 2^{1 \\text{/} n} - 2^{1 \\text{/} ( n + 1 )}$$",
+        "Image Links": [],
+        "Answer": "$$S_{k} = 2 - 2^{1 \\text{/} ( k + 1 )} \\vec{} 1$$ as $$k \\vec{} \\infty .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Evaluate the following telescoping series or state whether the series diverges.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{1}{n^{13}} - \\frac{1}{( n + 1 )^{13}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Evaluate the following telescoping series or state whether the series diverges.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} ( \\sqrt{n} - \\sqrt{n + 1} )$$",
+        "Image Links": [],
+        "Answer": "$$S_{k} = 1 - \\sqrt{k + 1}$$ diverges",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Evaluate the following telescoping series or state whether the series diverges.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} ( \\text{sin} n - \\text{sin} ( n + 1 ) )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Express the following series as a telescoping sum and evaluate its n th partial sum.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\text{ln} ( \\frac{n}{n + 1} )$$",
+        "Image Links": [],
+        "Answer": "$$\\sum_{n = 1}^{\\infty} \\text{ln} n - \\text{ln} ( n + 1 ) , S_{k} = \\text{unicode[:-]} \\text{ln} ( k + 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Express the following series as a telescoping sum and evaluate its n th partial sum.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{2 n + 1}{( n^{2} + n )^{2}}$$ ( Hint: Factor denominator and use partial fractions.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Express the following series as a telescoping sum and evaluate its n th partial sum.",
+        "Question": "$$\\sum_{n = 2}^{\\infty} \\frac{\\text{ln} ( 1 +_{n}^{1} )}{\\text{ln} n \\text{ln} ( n + 1 )}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = \\frac{1}{\\text{ln} n} - \\frac{1}{\\text{ln} ( n + 1 )}$$ and $$S_{k} = \\frac{1}{\\text{ln} ( 2 )} - \\frac{1}{\\text{ln} ( k + 1 )} \\vec{} \\frac{1}{\\text{ln} ( 2 )}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Express the following series as a telescoping sum and evaluate its n th partial sum.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{( n + 2 )}{n ( n + 1 ) 2^{n + 1}}$$ ( Hint: Look at $$1 \\text{/} ( n 2^{n} ) . )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "A general telescoping series is one in which all but the first few terms cancel out after summing a given number of successive terms.",
+        "Question": "Let $$a_{n} = f ( n ) - 2 f ( n + 1 ) + f ( n + 2 ) ,$$ in which $$f ( n ) \\vec{} 0$$ as $$n \\vec{} \\infty .$$ Find $$\\sum_{n = 1}^{\\infty} a_{n} .$$",
+        "Image Links": [],
+        "Answer": "$$\\sum_{n = 1}^{\\infty} a_{n} = f ( 1 ) - f ( 2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "A general telescoping series is one in which all but the first few terms cancel out after summing a given number of successive terms.",
+        "Question": "$$a_{n} = f ( n ) - f ( n + 1 ) - f ( n + 2 ) + f ( n + 3 ) ,$$ in which $$f ( n ) \\vec{} 0$$ as $$n \\vec{} \\infty .$$ Find $$\\sum_{n = 1}^{\\infty} a_{n} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "A general telescoping series is one in which all but the first few terms cancel out after summing a given number of successive terms.",
+        "Question": "Suppose that $$a_{n} = c_{0} f ( n ) + c_{1} f ( n + 1 ) + c_{2} f ( n + 2 ) + c_{3} f ( n + 3 ) + c_{4} f ( n + 4 ) ,$$ where $$f ( n ) \\vec{} 0$$ as $$n \\vec{} \\infty .$$ Find a condition on the coefficients $$c_{0} \\text{,unicode[:ddot.]} , c_{4}$$ that make this a general telescoping series.",
+        "Image Links": [],
+        "Answer": "$$c_{0} + c_{1} + c_{2} + c_{3} + c_{4} = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "A general telescoping series is one in which all but the first few terms cancel out after summing a given number of successive terms.",
+        "Question": "Evaluate $$\\sum_{n = 1}^{\\infty} \\frac{1}{n ( n + 1 ) ( n + 2 )}$$ ( Hint: $$\\frac{1}{n ( n + 1 ) ( n + 2 )} = \\frac{1}{2 n} - \\frac{1}{n + 1} + \\frac{1}{2 ( n + 2 )} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "A general telescoping series is one in which all but the first few terms cancel out after summing a given number of successive terms.",
+        "Question": "Evaluate $$\\sum_{n = 2}^{\\infty} \\frac{2}{n^{3} - n} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2}{n^{3} - 1} = \\frac{1}{n - 1} - \\frac{2}{n} + \\frac{1}{n + 1} ,$$ $$S_{n} = ( 1 - 1 + 1 \\text{/} 3 ) + ( 1 \\text{/} 2 - 2 \\text{/} 3 + 1 \\text{/} 4 )$$ $$+ ( 1 \\text{/} 3 - 2 \\text{/} 4 + 1 \\text{/} 5 ) + ( 1 \\text{/} 4 - 2 \\text{/} 5 + 1 \\text{/} 6 ) + \\text{cdots} = 1 \\text{/} 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "A general telescoping series is one in which all but the first few terms cancel out after summing a given number of successive terms.",
+        "Question": "Find a formula for $$\\sum_{n = 1}^{\\infty} \\frac{1}{n ( n + N )}$$ where $$N$$ is a positive integer.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "A general telescoping series is one in which all but the first few terms cancel out after summing a given number of successive terms.",
+        "Question": "[T] Define a sequence $$t_{k} = \\sum_{n = 1}^{k - 1} ( 1 \\text{/} k ) - \\text{ln} k .$$ Use the graph of $$1 \\text{/} x$$ to verify that $$t_{k}$$ is increasing. Plot $$t_{k}$$ for $$k = 1 \\text{unicode[:ddot.]} 100$$ and state whether it appears that the sequence converges.",
+        "Image Links": [],
+        "Answer": "$$t_{k}$$ converges to $$0.57721 \\text{unicode[:ddot.]} t_{k}$$ is a sum of rectangles of height $$1 \\text{/} k$$ over the interval $$[ k , k + 1 ]$$ which lie above the graph of $$1 \\text{/} x .$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/cd5ce494c436e37e262dcdc99f9abc8d02d5ebba"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "A general telescoping series is one in which all but the first few terms cancel out after summing a given number of successive terms.",
+        "Question": "[T] Suppose that $$N$$ equal uniform rectangular blocks are stacked one on top of the other, allowing for some overhang. Archimedes\u2019 law of the lever implies that the stack of $$N$$ blocks is stable as long as the center of mass of the top $$( N - 1 )$$ blocks lies at the edge of the bottom block. Let $$x$$ denote the position of the edge of the bottom block, and think of its position as relative to the center of the next-to-bottom block. This implies that $$( N - 1 ) x = ( \\frac{1}{2} - x )$$ or $$x = 1 \\text{/} ( 2 N ) .$$ Use this expression to compute the maximum overhang (the position of the edge of the top block over the edge of the bottom block.) See the following figure.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7f075039b8cd97ff24ab7828972d0bd3a31d3990"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In each case, find the minimum value of $$N$$ such that the $$N \\text{th}$$ partial sum of the series accurately approximates the left-hand side to the given number of decimal places, and give the desired approximate value. Up to $$15$$ decimals place, $$\\pi = 3.141592653589793... .$$",
+        "Question": "[T] $$\\pi = -3 + \\sum_{n = 1}^{\\infty} \\frac{n 2^{n} n \\text{!}^{2}}{( 2 n ) \\text{!}} ,$$ error $$< 0.0001$$",
+        "Image Links": [],
+        "Answer": "$$N = 22 ,$$ $$S_{N} = 6.1415$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In each case, find the minimum value of $$N$$ such that the $$N \\text{th}$$ partial sum of the series accurately approximates the left-hand side to the given number of decimal places, and give the desired approximate value. Up to $$15$$ decimals place, $$\\pi = 3.141592653589793... .$$",
+        "Question": "[T] $$\\frac{\\pi}{2} = \\sum_{k = 0}^{\\infty} \\frac{k \\text{!}}{( 2 k + 1 ) \\text{!} \\text{!}} = \\sum_{k = 0}^{\\infty} \\frac{2^{k} k \\text{!}^{2}}{( 2 k + 1 ) \\text{!}} ,$$ error $$< 10^{-4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In each case, find the minimum value of $$N$$ such that the $$N \\text{th}$$ partial sum of the series accurately approximates the left-hand side to the given number of decimal places, and give the desired approximate value. Up to $$15$$ decimals place, $$\\pi = 3.141592653589793... .$$",
+        "Question": "[T] $$\\frac{9801}{2 \\pi} = \\frac{4}{9801} \\sum_{k = 0}^{\\infty} \\frac{( 4 k ) \\text{!} ( 1103 + 26390 k )}{( k \\text{!} )^{4} 396^{4 k}} ,$$ error $$< 10^{-12}$$",
+        "Image Links": [],
+        "Answer": "$$N = 3 ,$$ $$S_{N} = 1.559877597243667 ...$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In each case, find the minimum value of $$N$$ such that the $$N \\text{th}$$ partial sum of the series accurately approximates the left-hand side to the given number of decimal places, and give the desired approximate value. Up to $$15$$ decimals place, $$\\pi = 3.141592653589793... .$$",
+        "Question": "[T] $$\\frac{1}{12 \\pi} = \\sum_{k = 0}^{\\infty} \\frac{( -1 )^{k} ( 6 k ) \\text{!} ( 13591409 + 545140134 k )}{( 3 k ) \\text{!} ( k \\text{!} )^{3} 640320^{3 k + 3 \\text{/} 2}} ,$$ error $$< 10^{-15}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In each case, find the minimum value of $$N$$ such that the $$N \\text{th}$$ partial sum of the series accurately approximates the left-hand side to the given number of decimal places, and give the desired approximate value. Up to $$15$$ decimals place, $$\\pi = 3.141592653589793... .$$",
+        "Question": "[T] A fair coin is one that has probability $$1 \\text{/} 2$$ of coming up heads when flipped. What is the probability that a fair coin will come up tails $$n$$ times in a row? Find the probability that a coin comes up heads for the first time on the last of an even number of coin flips.",
+        "Image Links": [],
+        "Answer": "a. The probability of any given ordered sequence of outcomes for $$n$$ coin flips is $$1 \\text{/} 2^{n} .$$ b. The probability of coming up heads for the first time on the $$n$$ th flip is the probability of the sequence $$T T \\text{unicode[:ddot.]} T H$$ which is $$1 \\text{/} 2^{n} .$$ The probability of coming up heads for the first time on an even flip is $$\\sum_{n = 1}^{\\infty} 1 \\text{/} 2^{2 n}$$ or $$1 \\text{/} 3 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In each case, find the minimum value of $$N$$ such that the $$N \\text{th}$$ partial sum of the series accurately approximates the left-hand side to the given number of decimal places, and give the desired approximate value. Up to $$15$$ decimals place, $$\\pi = 3.141592653589793... .$$",
+        "Question": "[T] Find the probability that a fair coin is flipped a multiple of three times before coming up heads.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In each case, find the minimum value of $$N$$ such that the $$N \\text{th}$$ partial sum of the series accurately approximates the left-hand side to the given number of decimal places, and give the desired approximate value. Up to $$15$$ decimals place, $$\\pi = 3.141592653589793... .$$",
+        "Question": "[T] Find the probability that a fair coin will come up heads for the second time after an even number of flips.",
+        "Image Links": [],
+        "Answer": "$$5 \\text{/} 9$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In each case, find the minimum value of $$N$$ such that the $$N \\text{th}$$ partial sum of the series accurately approximates the left-hand side to the given number of decimal places, and give the desired approximate value. Up to $$15$$ decimals place, $$\\pi = 3.141592653589793... .$$",
+        "Question": "[T] Find a series that expresses the probability that a fair coin will come up heads for the second time on a multiple of three flips.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In each case, find the minimum value of $$N$$ such that the $$N \\text{th}$$ partial sum of the series accurately approximates the left-hand side to the given number of decimal places, and give the desired approximate value. Up to $$15$$ decimals place, $$\\pi = 3.141592653589793... .$$",
+        "Question": "[T] The expected number of times that a fair coin will come up heads is defined as the sum over $$n = 1 , 2 \\text{,unicode[:ddot.]}$$ of $$n$$ times the probability that the coin will come up heads exactly $$n$$ times in a row, or $$n \\text{/} 2^{n + 1} .$$ Compute the expected number of consecutive times that a fair coin will come up heads.",
+        "Image Links": [],
+        "Answer": "$$E = \\sum_{n = 1}^{\\infty} n \\text{/} 2^{n + 1} = 1 ,$$ as can be shown using summation by parts",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In each case, find the minimum value of $$N$$ such that the $$N \\text{th}$$ partial sum of the series accurately approximates the left-hand side to the given number of decimal places, and give the desired approximate value. Up to $$15$$ decimals place, $$\\pi = 3.141592653589793... .$$",
+        "Question": "[T] A person deposits $$\\text{$} 10$$ at the beginning of each quarter into a bank account that earns $$4 \\text{%}$$ annual interest compounded quarterly (four times a year). Show that the interest accumulated after $$n$$ quarters is $$\\text{$} 10 ( \\frac{1.01^{n + 1} - 1}{0.01} - n ) .$$ Find the first eight terms of the sequence. How much interest has accumulated after $$2$$ years?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In each case, find the minimum value of $$N$$ such that the $$N \\text{th}$$ partial sum of the series accurately approximates the left-hand side to the given number of decimal places, and give the desired approximate value. Up to $$15$$ decimals place, $$\\pi = 3.141592653589793... .$$",
+        "Question": "[T] Suppose that the amount of a drug in a patient\u2019s system diminishes by a multiplicative factor $$r < 1$$ each hour. Suppose that a new dose is administered every $$N$$ hours. Find an expression that gives the amount $$A ( n )$$ in the patient\u2019s system after $$n$$ hours for each $$n$$ in terms of the dosage $$d$$ and the ratio $$r .$$ ( Hint: Write $$n = m N + k ,$$ where $$0 \\le k < N ,$$ and sum over values from the different doses administered.)",
+        "Image Links": [],
+        "Answer": "The part of the first dose after $$n$$ hours is $$d r^{n} ,$$ the part of the second dose is $$d r^{n - N} ,$$ and, in general, the part remaining of the $$m \\text{th}$$ dose is $$d r^{n - m N} ,$$ so $$A ( n ) = \\sum_{l = 0}^{m} d r^{n - l N} = \\sum_{l = 0}^{m} d r^{k + ( m - l ) N} = \\sum_{q = 0}^{m} d r^{k + q N} = d r^{k} \\sum_{q = 0}^{m} r^{N q} = d r^{k} \\frac{1 - r^{( m + 1 ) N}}{1 - r^{N}} , n = k + m N .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In each case, find the minimum value of $$N$$ such that the $$N \\text{th}$$ partial sum of the series accurately approximates the left-hand side to the given number of decimal places, and give the desired approximate value. Up to $$15$$ decimals place, $$\\pi = 3.141592653589793... .$$",
+        "Question": "[T] A certain drug is effective for an average patient only if there is at least $$1$$ mg per kg in the patient\u2019s system, while it is safe only if there is at most $$2$$ mg per kg in an average patient\u2019s system. Suppose that the amount in a patient\u2019s system diminishes by a multiplicative factor of $$0.9$$ each hour after a dose is administered. Find the maximum interval $$N$$ of hours between doses, and corresponding dose range $$d$$ (in mg/kg) for this $$N$$ that will enable use of the drug to be both safe and effective in the long term.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In each case, find the minimum value of $$N$$ such that the $$N \\text{th}$$ partial sum of the series accurately approximates the left-hand side to the given number of decimal places, and give the desired approximate value. Up to $$15$$ decimals place, $$\\pi = 3.141592653589793... .$$",
+        "Question": "Suppose that $$a_{n} \\geq 0$$ is a sequence of numbers. Explain why the sequence of partial sums of $$a_{n}$$ is increasing.",
+        "Image Links": [],
+        "Answer": "$$S_{N + 1} = a_{N + 1} + S_{N} \\geq S_{N}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In each case, find the minimum value of $$N$$ such that the $$N \\text{th}$$ partial sum of the series accurately approximates the left-hand side to the given number of decimal places, and give the desired approximate value. Up to $$15$$ decimals place, $$\\pi = 3.141592653589793... .$$",
+        "Question": "[T] Suppose that $$a_{n}$$ is a sequence of positive numbers and the sequence $$S_{n}$$ of partial sums of $$a_{n}$$ is bounded above. Explain why $$\\sum_{n = 1}^{\\infty} a_{n}$$ converges. Does the conclusion remain true if we remove the hypothesis $$a_{n} \\geq 0 \\text{?}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In each case, find the minimum value of $$N$$ such that the $$N \\text{th}$$ partial sum of the series accurately approximates the left-hand side to the given number of decimal places, and give the desired approximate value. Up to $$15$$ decimals place, $$\\pi = 3.141592653589793... .$$",
+        "Question": "[T] Suppose that $$a_{1} = S_{1} = 1$$ and that, for given numbers $$S > 1$$ and $$0 < k < 1 ,$$ one defines $$a_{n + 1} = k ( S - S_{n} )$$ and $$S_{n + 1} = a_{n + 1} + S_{n} .$$ Does $$S_{n}$$ converge? If so, to what? ( Hint: First argue that $$S_{n} < S$$ for all $$n$$ and $$S_{n}$$ is increasing.)",
+        "Image Links": [],
+        "Answer": "Since $$S > 1 ,$$ $$a_{2} > 0 ,$$ and since $$k < 1 ,$$ $$S_{2} = 1 + a_{2} < 1 + ( S - 1 ) = S .$$ If $$S_{n} > S$$ for some n , then there is a smallest n . For this n , $$S > S_{n - 1} ,$$ so $$S_{n} = S_{n - 1} + k ( S - S_{n - 1} )$$ $$= k S + ( 1 - k ) S_{n - 1} < S ,$$ a contradiction. Thus $$S_{n} < S$$ and $$a_{n + 1} > 0$$ for all n , so $$S_{n}$$ is increasing and bounded by $$S .$$ Let $$S_{\\text{unicode[:**]}} = \\text{lim} S_{n} .$$ If $$S_{\\text{unicode[:**]}} < S ,$$ then $$\\delta = k ( S - S_{\\text{unicode[:**]}} ) > 0 ,$$ but we can find n such that $$S_{*} - S_{n} < \\delta \\text{/} 2 ,$$ which implies that $$S_{n + 1} = S_{n} + k ( S - S_{n} )$$ $$> S_{*} + \\delta \\text{/} 2 ,$$ contradicting that $$S_{n}$$ is increasing to $$S_{\\text{unicode[:**]}} .$$ Thus $$S_{n} \\vec{} S .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In each case, find the minimum value of $$N$$ such that the $$N \\text{th}$$ partial sum of the series accurately approximates the left-hand side to the given number of decimal places, and give the desired approximate value. Up to $$15$$ decimals place, $$\\pi = 3.141592653589793... .$$",
+        "Question": "[T] A version of von Bertalanffy growth can be used to estimate the age of an individual in a homogeneous species from its length if the annual increase in year $$n + 1$$ satisfies $$a_{n + 1} = k ( S - S_{n} ) ,$$ with $$S_{n}$$ as the length at year $$n ,$$ $$S$$ as a limiting length, and $$k$$ as a relative growth constant. If $$S_{1} = 3 ,$$ $$S = 9 ,$$ and $$k = 1 \\text{/} 2 ,$$ numerically estimate the smallest value of $$n$$ such that $$S_{n} \\geq 8 .$$ Note that $$S_{n + 1} = S_{n} + a_{n + 1} .$$ Find the corresponding $$n$$ when $$k = 1 \\text{/} 4 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In each case, find the minimum value of $$N$$ such that the $$N \\text{th}$$ partial sum of the series accurately approximates the left-hand side to the given number of decimal places, and give the desired approximate value. Up to $$15$$ decimals place, $$\\pi = 3.141592653589793... .$$",
+        "Question": "[T] Suppose that $$\\sum_{n = 1}^{\\infty} a_{n}$$ is a convergent series of positive terms. Explain why $$\\underset{N \\rightarrow \\infty}{\\text{lim}} \\sum_{n = N + 1}^{\\infty} a_{n} = 0 .$$",
+        "Image Links": [],
+        "Answer": "Let $$S_{k} = \\sum_{n = 1}^{k} a_{n}$$ and $$S_{k} \\vec{} L .$$ Then $$S_{k}$$ eventually becomes arbitrarily close to $$L ,$$ which means that $$L - S_{N} = \\sum_{n = N + 1}^{\\infty} a_{n}$$ becomes arbitrarily small as $$N \\vec{} \\infty .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In each case, find the minimum value of $$N$$ such that the $$N \\text{th}$$ partial sum of the series accurately approximates the left-hand side to the given number of decimal places, and give the desired approximate value. Up to $$15$$ decimals place, $$\\pi = 3.141592653589793... .$$",
+        "Question": "[T] Find the length of the dashed zig-zag path in the following figure.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7c1e7c5f1ccfd88f0dcc981b34ac22289640f72e"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In each case, find the minimum value of $$N$$ such that the $$N \\text{th}$$ partial sum of the series accurately approximates the left-hand side to the given number of decimal places, and give the desired approximate value. Up to $$15$$ decimals place, $$\\pi = 3.141592653589793... .$$",
+        "Question": "[T] Find the total length of the dashed path in the following figure.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a104b3747614c7baa59c73c991ab1a7a0fbfb0b9"
+        ],
+        "Answer": "$$L = ( 1 + \\frac{1}{2} ) \\sum_{n = 1}^{\\infty} 1 \\text{/} 2^{n} = \\frac{3}{2} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In each case, find the minimum value of $$N$$ such that the $$N \\text{th}$$ partial sum of the series accurately approximates the left-hand side to the given number of decimal places, and give the desired approximate value. Up to $$15$$ decimals place, $$\\pi = 3.141592653589793... .$$",
+        "Question": "[T] The Sierpinski triangle is obtained from a triangle by deleting the middle fourth as indicated in the first step, by deleting the middle fourths of the remaining three congruent triangles in the second step, and in general deleting the middle fourths of the remaining triangles in each successive step. Assuming that the original triangle is shown in the figure, find the areas of the remaining parts of the original triangle after $$N$$ steps and find the total length of all of the boundary triangles after $$N$$ steps.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/41349d855071320c8706538962f5a73d1c7042ff"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In each case, find the minimum value of $$N$$ such that the $$N \\text{th}$$ partial sum of the series accurately approximates the left-hand side to the given number of decimal places, and give the desired approximate value. Up to $$15$$ decimals place, $$\\pi = 3.141592653589793... .$$",
+        "Question": "[T] The Sierpinski gasket is obtained by dividing the unit square into nine equal sub-squares, removing the middle square, then doing the same at each stage to the remaining sub-squares. The figure shows the remaining set after four iterations. Compute the total area removed after $$N$$ stages, and compute the length the total perimeter of the remaining set after $$N$$ stages.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c0a227824914d44b6920453b120b9109ecf8b319"
+        ],
+        "Answer": "At stage one a square of area $$1 \\text{/} 9$$ is removed, at stage $$2$$ one removes $$8$$ squares of area $$1 \\text{/} 9^{2} ,$$ at stage three one removes $$8^{2}$$ squares of area $$1 \\text{/} 9^{3} ,$$ and so on. The total removed area after $$N$$ stages is $$\\sum_{n = 0}^{N - 1} 8^{N} \\text{/} 9^{N + 1} = \\frac{1}{8} ( 1 - ( 8 \\text{/} 9 )^{N} ) \\text{/} ( 1 - 8 \\text{/} 9 ) \\vec{} 1$$ as $$N \\vec{} \\infty .$$ The total perimeter is $$4 + 4 \\sum_{n = 0} 8^{N} \\text{/} 3^{N + 1} \\vec{} \\infty .$$",
+        "Answer Image Links": []
+    }
+]

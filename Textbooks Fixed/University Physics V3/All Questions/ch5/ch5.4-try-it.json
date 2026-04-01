@@ -1,0 +1,10 @@
+[
+    {
+        "Topic": "Check Your Understanding 5.4",
+        "Problem Statement": "",
+        "Question": "A particle is traveling through Earth\u2019s atmosphere at a speed of 0.750 c . To an earthbound observer, the distance it travels is 2.50 km. How far does the particle travel as viewed from the particle\u2019s reference frame?",
+        "Image Links": [],
+        "Answer": "$$L = L_{0} \\sqrt{1 - \\frac{v^{2}}{c^{2}}} = ( 2.50 \\text{km} ) \\sqrt{1 - \\frac{( 0.750 c )^{2}}{c^{2}}} = 1.65 \\text{km}$$",
+        "Answer Image Links": []
+    }
+]

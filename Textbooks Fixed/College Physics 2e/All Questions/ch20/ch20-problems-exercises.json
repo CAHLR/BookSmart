@@ -1,0 +1,792 @@
+[
+    {
+        "Topic": "20.1 Current",
+        "Problem Statement": "",
+        "Question": "What is the current in milliamperes produced by the solar cells of a pocket calculator through which 4.00 C of charge passes in 4.00 h?",
+        "Image Links": [],
+        "Answer": "0.278 mA",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.1 Current",
+        "Problem Statement": "",
+        "Question": "A total of 600 C of charge passes through a flashlight in 0.500 h. What is the average current?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.1 Current",
+        "Problem Statement": "",
+        "Question": "What is the current when a typical static charge of $$0 \\text{.} \\text{250} \\mu \\text{C}$$ moves from your finger to a metal doorknob in $$1.00 \\mu \\text{s}$$ ?",
+        "Image Links": [],
+        "Answer": "0.250 A",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.1 Current",
+        "Problem Statement": "",
+        "Question": "Find the current when 2.00 nC jumps between your comb and hair over a $$0 \\text{.} \\text{500 - } \\mu \\text{s}$$ time interval.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.1 Current",
+        "Problem Statement": "",
+        "Question": "A large lightning bolt had a 20,000-A current and moved 30.0 C of charge. What was its duration?",
+        "Image Links": [],
+        "Answer": "1.50ms",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.1 Current",
+        "Problem Statement": "",
+        "Question": "The 200-A current through a spark plug moves 0.300 mC of charge. How long does the spark last?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.1 Current",
+        "Problem Statement": "",
+        "Question": "(a) A defibrillator sends a 6.00-A current through the chest of a patient by applying a 10,000-V potential as in the figure below. What is the resistance of the path? (b) The defibrillator paddles make contact with the patient through a conducting gel that greatly reduces the path resistance. Discuss the difficulties that would ensue if a larger voltage were used to produce the same current through the patient, but with the path having perhaps 50 times the resistance. (Hint: The current must be about the same, so a higher voltage would imply greater power. Use this equation for power: $$P = I^{2} R$$ .) Figure 20.34 The capacitor in a defibrillation unit drives a current through the heart of a patient.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e521fed363b95d9efa3cdd24e367c262a45a7d8e"
+        ],
+        "Answer": "(a) $$1 \\text{.} \\text{67}   \\text{ k} \\Omega$$ (b) If a 50 times larger resistance existed, keeping the current about the same, the power would be increased by a factor of about 50 (based on the equation $$P = I^{2} R$$ ), causing much more energy to be transferred to the skin, which could cause serious burns. The gel used reduces the resistance, and therefore reduces the power transferred to the skin.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.1 Current",
+        "Problem Statement": "",
+        "Question": "During open-heart surgery, a defibrillator can be used to bring a patient out of cardiac arrest. The resistance of the path is $$5 \\text{00 omega}$$ and a 10.0-mA current is needed. What voltage should be applied?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.1 Current",
+        "Problem Statement": "",
+        "Question": "(a) A defibrillator passes 12.0 A of current through the torso of a person for 0.0100 s. How much charge moves? (b) How many electrons pass through the wires connected to the patient? (See figure two problems earlier.)",
+        "Image Links": [],
+        "Answer": "(a) 0.120 C (b) $$7 \\text{.} \\text{50} \\times \\text{10}^{\\text{17}}   \\text{ electrons}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.1 Current",
+        "Problem Statement": "",
+        "Question": "A clock battery wears out after moving 10,000 C of charge through the clock at a rate of 0.500 mA. (a) How long did the clock run? (b) How many electrons per second flowed?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.1 Current",
+        "Problem Statement": "",
+        "Question": "The batteries of a submerged non-nuclear submarine supply 1000 A at full speed ahead. How long does it take to move Avogadro\u2019s number ( $$6 \\text{.} \\text{02} \\times \\text{10}^{\\text{23}}$$ ) of electrons at this rate?",
+        "Image Links": [],
+        "Answer": "96.3 s",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.1 Current",
+        "Problem Statement": "",
+        "Question": "Electron guns are used in X-ray tubes. The electrons are accelerated through a relatively large voltage and directed onto a metal target, producing X-rays. (a) How many electrons per second strike the target if the current is 0.500 mA? (b) What charge strikes the target in 0.750 s?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.1 Current",
+        "Problem Statement": "",
+        "Question": "A large cyclotron directs a beam of $$\\text{He}^{\\text{++}}$$ nuclei onto a target with a beam current of 0.250 mA. (a) How many $$\\text{He}^{\\text{++}}$$ nuclei per second is this? (b) How long does it take for 1.00 C to strike the target? (c) How long before 1.00 mol of $$\\text{He}^{\\text{++}}$$ nuclei strike the target?",
+        "Image Links": [],
+        "Answer": "(a) $$7.81 \u00d7 10^{\\text{14}} \\text{He}^{\\text{++}} \\text{nuclei/s}$$ (b) $$4.00 \u00d7 10^{\\text{3}} \\text{s}$$ (c) $$7.71 \u00d7 10^{\\text{8}} \\text{s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.1 Current",
+        "Problem Statement": "",
+        "Question": "Repeat the above example on Example 20.3, but for a wire made of silver and given there is one free electron per silver atom.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.1 Current",
+        "Problem Statement": "",
+        "Question": "Using the results of the above example on Example 20.3, find the drift velocity in a copper wire of twice the diameter and carrying 20.0 A.",
+        "Image Links": [],
+        "Answer": "$$- 1 \\text{.} \\text{13} \\times \\text{10}^{- 4}   \\text{ m/s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.1 Current",
+        "Problem Statement": "",
+        "Question": "A 14-gauge copper wire has a diameter of 1.628 mm. What magnitude current flows when the drift velocity is 1.00 mm/s? (See above example on Example 20.3 for useful information.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.1 Current",
+        "Problem Statement": "",
+        "Question": "SPEAR, a storage ring about 72.0 m in diameter at the Stanford Linear Accelerator (closed in 2009), has a 20.0-A circulating beam of electrons that are moving at nearly the speed of light. (See Figure 20.35.) How many electrons are in the beam? Figure 20.35 Electrons circulating in the storage ring called SPEAR constitute a 20.0-A current. Because they travel close to the speed of light, each electron completes many orbits in each second.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2cfa500a3464a55c54733fafe26f6048314ffa7d"
+        ],
+        "Answer": "$$9 \\text{.} \\text{42} \\times \\text{10}^{\\text{13}}   \\text{ electrons}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.2 Ohm\u2019s Law: Resistance and Simple Circuits",
+        "Problem Statement": "",
+        "Question": "What current flows through the bulb of a 3.00-V flashlight when its hot resistance is $$3 \\text{.} \\text{60 omega}$$ ?",
+        "Image Links": [],
+        "Answer": "0.833 A",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.2 Ohm\u2019s Law: Resistance and Simple Circuits",
+        "Problem Statement": "",
+        "Question": "Calculate the effective resistance of a pocket calculator that has a 1.35-V battery and through which 0.200 mA flows.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.2 Ohm\u2019s Law: Resistance and Simple Circuits",
+        "Problem Statement": "",
+        "Question": "What is the effective resistance of a car\u2019s starter motor when 150 A flows through it as the car battery applies 11.0 V to the motor?",
+        "Image Links": [],
+        "Answer": "$$7 \\text{.} \\text{33} \\times \\text{10}^{- 2} \\Omega$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.2 Ohm\u2019s Law: Resistance and Simple Circuits",
+        "Problem Statement": "",
+        "Question": "How many volts are supplied to operate an indicator light on a DVD player that has a resistance of $$1 \\text{40 } \\Omega$$ , given that 25.0 mA passes through it?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.2 Ohm\u2019s Law: Resistance and Simple Circuits",
+        "Problem Statement": "",
+        "Question": "(a) Find the voltage drop in an extension cord having a $$0 \\text{.} \\text{0600-} \\Omega$$ resistance and through which 5.00 A is flowing. (b) A cheaper cord utilizes thinner wire and has a resistance of $$0 \\text{.} \\text{300} \\Omega$$ . What is the voltage drop in it when 5.00 A flows? (c) Why is the voltage to whatever appliance is being used reduced by this amount? What is the effect on the appliance?",
+        "Image Links": [],
+        "Answer": "(a) 0.300 V (b) 1.50 V (c) The voltage supplied to whatever appliance is being used is reduced because the total voltage drop from the wall to the final output of the appliance is fixed. Thus, if the voltage drop across the extension cord is large, the voltage drop across the appliance is significantly decreased, so the power output by the appliance can be significantly decreased, reducing the ability of the appliance to work properly.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.2 Ohm\u2019s Law: Resistance and Simple Circuits",
+        "Problem Statement": "",
+        "Question": "A power transmission line is hung from metal towers with glass insulators having a resistance of $$1 \\text{.} \\text{00} \\times \\text{10}^{9} \\Omega .$$ What current flows through the insulator if the voltage is 200 kV? (Some high-voltage lines are DC.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.3 Resistance and Resistivity",
+        "Problem Statement": "",
+        "Question": "What is the resistance of a 20.0-m-long piece of 12-gauge copper wire having a 2.053-mm diameter?",
+        "Image Links": [],
+        "Answer": "$$\\text{0.104 omega}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.3 Resistance and Resistivity",
+        "Problem Statement": "",
+        "Question": "The diameter of 0-gauge copper wire is 8.252 mm. Find the resistance of a 1.00-km length of such wire used for power transmission.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.3 Resistance and Resistivity",
+        "Problem Statement": "",
+        "Question": "If the 0.010-mm diameter tungsten filament in a light bulb is to have a resistance of $$\\text{0.200 omega}$$ at $$20.00\u00ba \\text{C}$$ , how long should it be?",
+        "Image Links": [],
+        "Answer": "$$2.81 \\times \\text{10}^{- 4} \\text{m}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.3 Resistance and Resistivity",
+        "Problem Statement": "",
+        "Question": "Find the ratio of the diameter of aluminum to copper wire, if they have the same resistance per unit length (as they might in household wiring).",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.3 Resistance and Resistivity",
+        "Problem Statement": "",
+        "Question": "What current flows through a 2.54-cm-diameter rod of pure silicon that is 20.0 cm long, when $$1.00 \u00d7 10^{\\text{3}} \\text{V}$$ is applied to it? (Such a rod may be used to make nuclear-particle detectors, for example.)",
+        "Image Links": [],
+        "Answer": "$$1.10 \\times \\text{10}^{- 3} \\text{ A}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.3 Resistance and Resistivity",
+        "Problem Statement": "",
+        "Question": "(a) To what temperature must you raise a copper wire, originally at $$\\text{20.0\u00baC}$$ ,\nto double its resistance, neglecting any changes in dimensions? (b) Does this happen in household wiring under ordinary circumstances?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.3 Resistance and Resistivity",
+        "Problem Statement": "",
+        "Question": "A resistor made of Nichrome wire is used in an application where its resistance cannot change more than 1.00% from its value at $$\\text{20} \\text{.} 0\u00ba \\text{C}$$ . Over what temperature range can it be used?",
+        "Image Links": [],
+        "Answer": "$$- 5\u00ba \\text{C to 45\u00baC}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.3 Resistance and Resistivity",
+        "Problem Statement": "",
+        "Question": "Of what material is a resistor made if its resistance is 40.0% greater at $$\\text{100\u00ba} \\text{C}$$ than at $$\\text{20} \\text{.} 0\u00ba \\text{C}$$ ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.3 Resistance and Resistivity",
+        "Problem Statement": "",
+        "Question": "An electronic device designed to operate at any temperature in the range from $$\\text{-10} \\text{.} 0\u00ba \\text{C to 55} \\text{.} 0\u00ba \\text{C}$$ contains pure carbon resistors. By what factor does their resistance increase over this range?",
+        "Image Links": [],
+        "Answer": "1.03",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.3 Resistance and Resistivity",
+        "Problem Statement": "",
+        "Question": "(a) Of what material is a wire made, if it is 25.0 m long with a 0.100 mm diameter and has a resistance of $$\\text{77} \\text{.} 7 \\Omega$$ at $$\\text{20} \\text{.} 0\u00ba \\text{C}$$ ? (b) What is its resistance at $$\\text{150\u00ba} \\text{C}$$ ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.3 Resistance and Resistivity",
+        "Problem Statement": "",
+        "Question": "Assuming a constant temperature coefficient of resistivity, what is the maximum percent decrease in the resistance of a constantan wire starting at $$\\text{20} \\text{.} 0\u00ba \\text{C}$$ ?",
+        "Image Links": [],
+        "Answer": "0.06%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.3 Resistance and Resistivity",
+        "Problem Statement": "",
+        "Question": "A wire is drawn through a die, stretching it to four times its original length. By what factor does its resistance increase?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.3 Resistance and Resistivity",
+        "Problem Statement": "",
+        "Question": "A copper wire has a resistance of $$0 \\text{.} \\text{500 } \\Omega$$ at $$\\text{20} \\text{.} 0\u00ba \\text{C}$$ , and an iron wire has a resistance of $$0 \\text{.} \\text{525 } \\Omega$$ at the same temperature. At what temperature are their resistances equal?",
+        "Image Links": [],
+        "Answer": "$$- \\text{17\u00ba} \\text{C}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.3 Resistance and Resistivity",
+        "Problem Statement": "",
+        "Question": "(a) Digital medical thermometers determine temperature by measuring the resistance of a semiconductor device called a thermistor (which has $$\\alpha = - 0 \\text{.} \\text{0600} / \\text{\u00baC}$$ ) when it is at the same temperature as the patient. What is a patient\u2019s temperature if the thermistor\u2019s resistance at that temperature is 82.0% of its value at $$\\text{37} \\text{.} 0\u00ba \\text{C}$$ (normal body temperature)? (b) The negative value\nfor $$\\alpha$$ may not be maintained for very high temperatures. Discuss why and whether this is the case here. (Hint: Resistance can\u2019t become negative.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.3 Resistance and Resistivity",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts (a) Redo Exercise 20.25 taking into account the thermal expansion of the tungsten filament. You may assume a thermal expansion coefficient of $$\\text{12} \\times \\text{10}^{- 6} / \\text{\u00baC}$$ . (b) By what percentage does your answer differ from that in the example?",
+        "Image Links": [],
+        "Answer": "(a) $$4 \\text{.} 7 \\Omega$$ (total) (b) 3.0% decrease",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.3 Resistance and Resistivity",
+        "Problem Statement": "",
+        "Question": "Unreasonable Results (a) To what temperature must you raise a resistor made of constantan to double its resistance, assuming a constant temperature coefficient of resistivity? (b) To cut it in half? (c) What is unreasonable about these results? (d) Which assumptions are unreasonable, or which premises are inconsistent?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "What is the power of a $$1.00 \\times \\text{10}^{\\text{2}} \\text{MV}$$ lightning bolt having a current of $$2.00 \u00d7 10^{\\text{4}} \\text{A}$$ ?",
+        "Image Links": [],
+        "Answer": "$$2 \\text{.} \\text{00} \\times \\text{10}^{\\text{12}} \\text{ W}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "What power is supplied to the starter motor of a large truck that draws 250 A of current from a 24.0-V battery hookup?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "A charge of 4.00 C of charge passes through a pocket calculator\u2019s solar cells in 4.00 h. What is the power output, given the calculator\u2019s voltage output is 3.00 V? (See Figure 20.36.)",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8f5dbe9d8cf86b2f1b38377f09c77245bc0492d0"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "How many watts does a flashlight that has $$6.00 \\times \\text{10}^{\\text{2}} \\text{C}$$ pass through it in 0.500 h use if its voltage is 3.00 V?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "Find the power dissipated in each of these extension cords: (a) an extension cord having a $$0 \\text{.} \\text{0600} \\text{-} \\Omega$$ resistance and through which 5.00 A is flowing; (b) a cheaper cord utilizing thinner wire and with a resistance of $$0 \\text{.} \\text{300} \\Omega .$$",
+        "Image Links": [],
+        "Answer": "(a) 1.50 W (b) 7.50 W",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "Verify that the units of a volt-ampere are watts, as implied by the equation $$P = \\text{IV}$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "Show that the units $$1 \\text{ V}^{2} / \\Omega = 1 \\text{ W}$$ , as implied by the equation $$P = V^{2} / R$$ .",
+        "Image Links": [],
+        "Answer": "$$\\frac{\nV\n                ^{\n2\n                    }}{\n\u03a9\n               } \n=\n             \\frac{\nV\n                ^{\n2\n                    }}{\\text{\nV/A\n               }} \n=\n            \\text{\nAV\n           } \n=\n           ( \\frac{\nC\n               }{\ns\n               } ) ( \\frac{\nJ\n                }{\nC\n                } ) \n=\n            \\frac{\nJ\n              }{\ns\n              } \n=\n           \n1\n           \\text{\nW\n         }$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "Show that the units $$1 \\text{ A}^{2} \\cdot \\Omega = 1 \\text{ W}$$ , as implied by the equation $$P = I^{2} R$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "Verify the energy unit equivalence that $$1 \\text{ kW} \\cdot \\text{h = 3} \\text{.} \\text{60} \\times \\text{10}^{6} \\text{ J}$$ .",
+        "Image Links": [],
+        "Answer": "$$\n1\n          \\text{\nkW\n          } \n\u22c5\n           \\text{\nh=\n          } ( \\frac{\n1\n                \n\u00d7\n                \\text{\n10\n                }^{\n3\n                    } \\text{\nJ\n              }}{\\text{\n1 s\n              }} ) ( \n1 h\n            ) ( \\frac{\\text{\n3600 s\n               }}{\\text{\n1 h\n               }} ) \n=\n           \n3\n           \\text{\n.\n         } \\text{\n60\n          } \n\u00d7\n           \\text{\n10\n           }^{\n6\n               } \\text{\nJ\n         }$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "Electrons in an X-ray tube are accelerated through $$1.00 \\times \\text{10}^{\\text{2}} \\text{kV}$$ and directed toward a target to produce X-rays. Calculate the power of the electron beam in this tube if it has a current of 15.0 mA.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "An electric water heater consumes 5.00 kW for 2.00 h per day. What is the cost of running it for one year if electricity costs $$\\text{12.0 cents} \\text{/kW} \\cdot \\text{h}$$ ? See Figure 20.37. Figure 20.37 On-demand electric hot water heater. Heat is supplied to water only when needed. (credit: aviddavid, Flickr)",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/da3341a42a5bbdf942b830dbad2920f915689fbe"
+        ],
+        "Answer": "$438/y",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "With a 1200-W toaster, how much electrical energy is needed to make a slice of toast (cooking time = 1 minute)? At $$\\text{9.0 cents/kW \u00b7 h}$$ ,\nhow much does this cost?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "What would be the maximum cost of a CFL such that the total cost (investment plus operating) would be the same for both CFL and incandescent 60-W bulbs? Assume the cost of the incandescent bulb is 25 cents and that electricity costs $$\\text{10 cents/kWh}$$ .\n Calculate the cost for 1000 hours, as in the cost effectiveness of CFL example.",
+        "Image Links": [],
+        "Answer": "$6.25",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "Some makes of older cars have 6.00-V electrical systems. (a) What is the hot resistance of a 30.0-W headlight in such a car? (b) What current flows through it?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "Alkaline batteries have the advantage of putting out constant voltage until very nearly the end of their life. How long will an alkaline battery rated at $$1 \\text{.} \\text{00 A} \\cdot \\text{h}$$ and 1.58 V keep a 1.00-W flashlight bulb burning?",
+        "Image Links": [],
+        "Answer": "1.58 h",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "A cauterizer, used to stop bleeding in surgery, puts out 2.00 mA at 15.0 kV. (a) What is its power output? (b) What is the resistance of the path?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "The average television is said to be on 6 hours per day. Estimate the yearly cost of electricity to operate 100 million TVs, assuming their power consumption averages 150 W and the cost of electricity averages $$\\text{12} \\text{.} 0 \\text{ cents/kW} \\cdot \\text{h}$$ .",
+        "Image Links": [],
+        "Answer": "$3.94 billion/year",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "An old lightbulb draws only 50.0 W, rather than its original 60.0 W, due to evaporative thinning of its filament. By what factor is its diameter reduced, assuming uniform thinning along its length? Neglect any effects caused by temperature differences.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "00-gauge copper wire has a diameter of 9.266 mm. Calculate the power loss in a kilometer of such wire when it carries $$1.00 \\times \\text{10}^{\\text{2}} \\text{A}$$ .",
+        "Image Links": [],
+        "Answer": "25.5 W",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts Cold vaporizers pass a current through water, evaporating it with only a small increase in temperature. One such home device is rated at 3.50 A and utilizes 120 V AC with 95.0% efficiency. (a) What is the vaporization rate in grams per minute? (b) How much water must you put into the vaporizer for 8.00 h of overnight operation? (See Figure 20.38.) Figure 20.38 This cold vaporizer passes current directly through water, vaporizing it directly with relatively little temperature increase.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/6751e403b636354d624d46508fbab5149a978382"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts (a) What energy is dissipated by a lightning bolt having a 20,000-A current, a voltage of $$1.00 \\times \\text{10}^{\\text{2}} \\text{MV}$$ ,\n and a length of 1.00 ms? (b) What mass of tree sap could be raised from $$\\text{18} \\text{.} 0\u00ba \\text{C}$$ to its boiling point and then evaporated by this energy, assuming sap has the same thermal characteristics as water?",
+        "Image Links": [],
+        "Answer": "(a) $$2 \\text{.} \\text{00} \\times \\text{10}^{9} \\text{ J}$$ (b) 769 kg",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts What current must be produced by a 12.0-V battery-operated bottle warmer in order to heat 75.0 g of glass, 250 g of baby formula, and $$3.00 \\times \\text{10}^{\\text{2}} \\text{g}$$ of aluminum from $$\\text{20} \\text{.} 0\u00ba \\text{C}$$ to $$\\text{90} \\text{.} 0\u00ba \\text{C}$$ in 5.00 min?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts How much time is needed for a surgical cauterizer to raise the temperature of 1.00 g of tissue from $$\\text{37} \\text{.} 0\u00ba \\text{C}$$ to $$\\text{100\u00ba} \\text{C}$$ and then boil away 0.500 g of water, if it puts out 2.00 mA at 15.0 kV? Ignore heat transfer to the surroundings.",
+        "Image Links": [],
+        "Answer": "45.0 s",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts Hydroelectric generators (see Figure 20.39) at Hoover Dam produce a maximum current of $$8.00 \\times \\text{10}^{\\text{3}} \\text{A}$$ at 250 kV. (a) What is the power output? (b) The water that powers the generators enters and leaves the system at low speed (thus its kinetic energy does not change) but loses 160 m in altitude. How many cubic meters per second are needed, assuming 85.0% efficiency? Figure 20.39 Hydroelectric generators at the Hoover dam. (credit: Jon Sullivan)",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/82ac314431a4ed2360eb34e7967e0baf08c0b53f"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts (a) Assuming 95.0% efficiency for the conversion of electrical power by the motor, what current must the 12.0-V batteries of a 750-kg electric car be able to supply: (a) To accelerate from rest to 25.0 m/s in 1.00 min? (b) To climb a $$2.00 \\times \\text{10}^{\\text{2}} \\text{-m}$$ -high hill in 2.00 min at a constant 25.0-m/s speed while exerting $$5.00 \\times \\text{10}^{\\text{2}} \\text{N}$$ of force to overcome air resistance and friction? (c) To travel at a constant 25.0-m/s speed, exerting a $$5.00 \\times \\text{10}^{\\text{2}} \\text{N}$$ force to overcome air resistance and friction? See Figure 20.40. Figure 20.40 This REVAi, an electric car, gets recharged on a street in London. (credit: Frank Hebbert)",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/168505dd2625e8d24787ea5bb0ee0ccf00968c47"
+        ],
+        "Answer": "(a) 343 A (b) $$2 \\text{.} \\text{17} \\times \\text{10}^{3} \\text{ A}$$ (c) $$1.10 \\times \\text{10}^{3} \\text{ A}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts A light-rail commuter train draws 630 A of 650-V DC electricity when accelerating. (a) What is its power consumption rate in kilowatts? (b) How long does it take to reach 20.0 m/s starting from rest if its loaded mass is $$5 \\text{.} \\text{30} \\times \\text{10}^{4} \\text{ kg}$$ , assuming 95.0% efficiency and constant power? (c) Find its average acceleration. (d) Discuss how the acceleration you found for the light-rail train compares to what might be typical for an automobile.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts (a) An aluminum power transmission line has a resistance of $$0 \\text{.} \\text{0580} \\Omega / \\text{km}$$ . What is its mass per kilometer? (b) What is the mass per kilometer of a copper line having the same resistance? A lower resistance would shorten the heating time. Discuss the practical limits to speeding the heating by lowering the resistance.",
+        "Image Links": [],
+        "Answer": "(a) $$1.23 \\times \\text{10}^{\\text{3}} \\text{kg}$$ (b) $$2.64 \\times \\text{10}^{\\text{3}} \\text{kg}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts (a) An immersion heater utilizing 120 V can raise the temperature of a $$1.00 \\times \\text{10}^{\\text{2}} \\text{-g}$$ aluminum cup containing 350 g of water from $$\\text{20} \\text{.} 0\u00ba \\text{C}$$ to $$\\text{95} \\text{.} 0\u00ba \\text{C}$$ in 2.00 min. Find its resistance, assuming it is constant during the process. (b) A lower resistance would shorten the heating time. Discuss the practical limits to speeding the heating by lowering the resistance.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts (a) What is the cost of heating a hot tub containing 1500 kg of water from $$\\text{10} \\text{.} 0\u00ba \\text{C}$$ to $$\\text{40} \\text{.} 0\u00ba \\text{C}$$ , assuming 75.0% efficiency to account for heat transfer to the surroundings? The cost of electricity is $$\\text{9} \\text{ cents/kW} \\cdot \\text{h}$$ . (b) What current was used by the 220-V AC electric heater, if this took 4.00 h?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "Unreasonable Results (a) What current is needed to transmit $$1.00 \\times \\text{10}^{\\text{2}} \\text{MW}$$ of power at 480 V? (b) What power is dissipated by the transmission lines if they have a $$1 \\text{.} \\text{00} \\text{-} \\Omega$$ resistance? (c) What is unreasonable about this result? (d) Which assumptions are unreasonable, or which premises are inconsistent?",
+        "Image Links": [],
+        "Answer": "(a) $$2.08 \\times \\text{10}^{\\text{5}} \\text{A}$$ (b) $$4.33 \\times \\text{10}^{\\text{4}} \\text{MW}$$ (c) The transmission lines dissipate more power than they are supposed to transmit. (d) A voltage of 480 V is unreasonably low for a transmission voltage. Long-distance transmission lines are kept at much higher voltages (often hundreds of kilovolts) to reduce power losses.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "Unreasonable Results (a) What current is needed to transmit $$1.00 \\times \\text{10}^{\\text{2}} \\text{MW}$$ of power at 10.0 kV? (b) Find the resistance of 1.00 km of wire that would cause a 0.0100% power loss. (c) What is the diameter of a 1.00-km-long copper wire having this resistance? (d) What is unreasonable about these results? (e) Which assumptions are unreasonable, or which premises are inconsistent?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.4 Electric Power and Energy",
+        "Problem Statement": "",
+        "Question": "Construct Your Own Problem Consider an electric immersion heater used to heat a cup of water to make tea. Construct a problem in which you calculate the needed resistance of the heater so that it increases the temperature of the water and cup in a reasonable amount of time. Also calculate the cost of the electrical energy used in your process. Among the things to be considered are the voltage used, the masses and heat capacities involved, heat losses, and the time over which the heating takes place. Your instructor may wish for you to consider a thermal safety switch (perhaps bimetallic) that will halt the process before damaging temperatures are reached in the immersion unit.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.5 Alternating Current versus Direct Current",
+        "Problem Statement": "",
+        "Question": "(a) What is the hot resistance of a 25-W light bulb that runs on 120-V AC? (b) If the bulb\u2019s operating temperature is $$\\text{2700\u00ba} \\text{C}$$ , what is its resistance at $$\\text{2600\u00ba} \\text{C}$$ ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.5 Alternating Current versus Direct Current",
+        "Problem Statement": "",
+        "Question": "Certain heavy industrial equipment uses AC power that has a peak voltage of 679 V. What is the rms voltage?",
+        "Image Links": [],
+        "Answer": "480 V",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.5 Alternating Current versus Direct Current",
+        "Problem Statement": "",
+        "Question": "A certain circuit breaker trips when the rms current is 15.0 A. What is the corresponding peak current?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.5 Alternating Current versus Direct Current",
+        "Problem Statement": "",
+        "Question": "Military aircraft use 400-Hz AC power, because it is possible to design lighter-weight equipment at this higher frequency. What is the time for one complete cycle of this power?",
+        "Image Links": [],
+        "Answer": "2.50 ms",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.5 Alternating Current versus Direct Current",
+        "Problem Statement": "",
+        "Question": "A North American tourist takes his 25.0-W, 120-V AC razor to Europe, finds a special adapter, and plugs it into 240 V AC. Assuming constant resistance, what power does the razor consume as it is ruined?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.5 Alternating Current versus Direct Current",
+        "Problem Statement": "",
+        "Question": "In this problem, you will verify statements made at the end of the power losses for Example 20.10. (a) What current is needed to transmit 100 MW of power at a voltage of 25.0 kV? (b) Find the power loss in a $$1 \\text{.} \\text{00 -} \\Omega$$ transmission line. (c) What percent loss does this represent?",
+        "Image Links": [],
+        "Answer": "(a) 4.00 kA (b) 16.0 MW (c) 16.0%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.5 Alternating Current versus Direct Current",
+        "Problem Statement": "",
+        "Question": "A small office-building air conditioner operates on 408-V AC and consumes 50.0 kW. (a) What is its effective resistance? (b) What is the cost of running the air conditioner during a hot summer month when it is on 8.00 h per day for 30 days and electricity costs $$9.00 cents \\text{/kW} \\cdot \\text{h}$$ ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.5 Alternating Current versus Direct Current",
+        "Problem Statement": "",
+        "Question": "What is the peak power consumption of a 120-V AC microwave oven that draws 10.0 A?",
+        "Image Links": [],
+        "Answer": "2.40 kW",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.5 Alternating Current versus Direct Current",
+        "Problem Statement": "",
+        "Question": "What is the peak current through a 500-W room heater that operates on 120-V AC power?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.5 Alternating Current versus Direct Current",
+        "Problem Statement": "",
+        "Question": "Two different electrical devices have the same power consumption, but one is meant to be operated on 120-V AC and the other on 240-V AC. (a) What is the ratio of their resistances? (b) What is the ratio of their currents? (c) Assuming its resistance is unaffected, by what factor will the power increase if a 120-V AC device is connected to 240-V AC?",
+        "Image Links": [],
+        "Answer": "(a) 4.0 (b) 0.50 (c) 4.0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.5 Alternating Current versus Direct Current",
+        "Problem Statement": "",
+        "Question": "Nichrome wire is used in some radiative heaters. (a) Find the resistance needed if the average power output is to be 1.00 kW utilizing 120-V AC. (b) What length of Nichrome wire, having a cross-sectional area of $$5.00 \\text{ mm}^{2}$$ , is needed if the operating temperature is $$\\text{500\u00ba C}$$ ? (c) What power will it draw when first switched on?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.5 Alternating Current versus Direct Current",
+        "Problem Statement": "",
+        "Question": "Find the time after $$t = 0$$ when the instantaneous voltage of 60-Hz AC first reaches the following values: (a) $$V_{0} / 2$$ (b) $$V_{0}$$ (c) 0.",
+        "Image Links": [],
+        "Answer": "(a) 1.39 ms (b) 4.17 ms (c) 8.33 ms",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.5 Alternating Current versus Direct Current",
+        "Problem Statement": "",
+        "Question": "(a) At what two times in the first period following $$t = 0$$ does the instantaneous voltage in 60-Hz AC equal $$V_{\\text{rms}}$$ ? (b) $$- V_{\\text{rms}}$$ ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.6 Electric Hazards and the Human Body",
+        "Problem Statement": "",
+        "Question": "(a) How much power is dissipated in a short circuit of 220-V AC through a resistance of $$0 \\text{.} \\text{250} \\Omega$$ ? (b) What current flows?",
+        "Image Links": [],
+        "Answer": "(a) 194 kW (b) 880 A",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.6 Electric Hazards and the Human Body",
+        "Problem Statement": "",
+        "Question": "What voltage is involved in a 1.44-kW short circuit through a $$0 \\text{.} \\text{100} \\text{-} \\Omega$$ resistance?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.6 Electric Hazards and the Human Body",
+        "Problem Statement": "",
+        "Question": "Find the current through a person and identify the likely effect on her if she touches a 120-V AC source: (a) if she is standing on a rubber mat and offers a total resistance of $$\\text{300 k} \\Omega$$ ; (b) if she is standing barefoot on wet grass and has a resistance of only $$\\text{4500} \\Omega$$ .",
+        "Image Links": [],
+        "Answer": "(a) 0.400 mA, no effect (b) 26.7 mA, muscular contraction for duration of the shock (can't let go)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.6 Electric Hazards and the Human Body",
+        "Problem Statement": "",
+        "Question": "While taking a bath, a person touches the metal case of a radio. The path through the person to the drainpipe and ground has a resistance of $$\\text{4000} \\Omega$$ . What is the smallest voltage on the case of the radio that could cause ventricular fibrillation?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.6 Electric Hazards and the Human Body",
+        "Problem Statement": "",
+        "Question": "Foolishly trying to fish a burning piece of bread from a toaster with a metal butter knife, a man comes into contact with 120-V AC. He does not even feel it since, luckily, he is wearing rubber-soled shoes. What is the minimum resistance of the path the current follows through the person?",
+        "Image Links": [],
+        "Answer": "$$1 \\text{.} \\text{20} \\times \\text{10}^{5} \\Omega$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.6 Electric Hazards and the Human Body",
+        "Problem Statement": "",
+        "Question": "(a) During surgery, a current as small as $$\\text{20}.\\text{0 }\\mu\\text{A}$$ applied directly to the heart may cause ventricular fibrillation. If the resistance of the exposed heart is $$\\text{300} \\Omega$$ , what is the smallest voltage that poses this danger? (b) Does your answer imply that special electrical safety precautions are needed?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.6 Electric Hazards and the Human Body",
+        "Problem Statement": "",
+        "Question": "(a) What is the resistance of a 220-V AC short circuit that generates a peak power of 96.8 kW? (b) What would the average power be if the voltage was 120 V AC?",
+        "Image Links": [],
+        "Answer": "(a) $$1 \\text{.} \\text{00} \\Omega$$ (b) 14.4 kW",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.6 Electric Hazards and the Human Body",
+        "Problem Statement": "",
+        "Question": "A heart defibrillator passes 10.0 A through a patient\u2019s torso for 5.00 ms in an attempt to restore normal beating. (a) How much charge passed? (b) What voltage was applied if 500 J of energy was dissipated? (c) What was the path\u2019s resistance? (d) Find the temperature increase caused in the 8.00 kg of affected tissue.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.6 Electric Hazards and the Human Body",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts A short circuit in a 120-V appliance cord has a $$0 \\text{.} \\text{500} \\text{-} \\Omega$$ resistance. Calculate the temperature rise of the 2.00 g of surrounding materials, assuming their specific heat capacity is $$0.200 \\text{ cal/g} \u22c5\u00ba \\text{C}$$ and that it takes 0.0500 s for a circuit breaker to interrupt the current. Is this likely to be damaging?",
+        "Image Links": [],
+        "Answer": "Temperature increases $$\\text{860\u00ba C}$$ . It is very likely to be damaging.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.6 Electric Hazards and the Human Body",
+        "Problem Statement": "",
+        "Question": "Construct Your Own Problem Consider a person working in an environment where electric currents might pass through their body. Construct a problem in which you calculate the resistance of insulation needed to protect the person from harm. Among the things to be considered are the voltage to which the person might be exposed, likely body resistance (dry, wet, \u2026), and acceptable currents (safe but sensed, safe and unfelt, \u2026).",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.7 Nerve Conduction-Electrocardiograms",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts Use the ECG in Figure 20.31 to determine the heart rate in beats per minute assuming a constant time between beats.",
+        "Image Links": [],
+        "Answer": "80 beats/minute",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.7 Nerve Conduction-Electrocardiograms",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts (a) Referring to Figure 20.31, find the time systolic pressure lags behind the middle of the QRS complex. (b) Discuss the reasons for the time lag.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "20.7 Nerve Conduction-Electrocardiograms",
+        "Problem Statement": "",
+        "Question": "Critical Thinking A copper wire of length 1.25 m is in a circuit. A current of 2.50 A flows through the wire. (a) Initially, the circuit is at $$20.0 \\text{\u00b0} \\text{C}$$ . If there is an energy loss of 3.25 MJ in the first second caused by the wire as soon as the circuit is turned on, what is the radius of the wire? (b) After the wire heats $$3.000 \\text{\u00b0} \\text{C}$$ , how much energy is being dissipated by the circuit per second? Neglect the effects of thermal expansion since the wire is considered to be physically constrained from expanding. Assume the current is maintained. (c) At what temperature will the energy dissipation be 1.00% higher than it was at the beginning of the experiment?",
+        "Image Links": [],
+        "Answer": "(a) $$\\left .\\begin{matrix}{a}\\frac{3.25 \\times 10^{- 3}}{1} \\text{j/s} = P o w e r = I^{2} R = \\frac{1}{r^{2}} \\frac{( 2.50 )^{2} ( 1.72 \\times 10^{- 8} ) ( 1.25 )}{\\pi} \\text{jm}^{2} \\text{/s} \\\\ r = \\sqrt{\\frac{( 2.50 )^{2} ( 1.72 \\times 10^{- 8} ) ( 1.25 )}{0.00325 \\pi}} = 3.63 \\text{\u00a0mm}\\end{matrix}\\right .$$ (b) $$P o w e r = \\frac{( 2.50 )^{2} ( 1.74 \\times 10^{- 8} ) ( 1.25 )}{( 3.63 \\times 10^{- 3} )^{2} \\pi} \\text{j/s}$$ , so 3.28 j of energy is expended in 1 s. Since $$\\alpha$$ is specified in the chart to only two significant figures, round to 3.3 j. (c) Since the energy dissipation is directly proportional to the resistivity, the increase of 0.01% in energy dissipation is when the resistivity increases 1%. Or, $$1.01 = 1 + 0.0039 \\Delta T$$ . $$T = 23 __{degree} \\text{C}$$ .",
+        "Answer Image Links": []
+    }
+]

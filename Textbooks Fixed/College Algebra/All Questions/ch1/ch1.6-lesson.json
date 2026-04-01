@@ -1,0 +1,460 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "How can you use factoring to simplify rational expressions?",
+        "Image Links": [],
+        "Answer": "You can factor the numerator and denominator to see if any of the terms can cancel one another out.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "How do you use the LCD to combine two rational expressions?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "Tell whether the following statement is true or false and explain why: You only need to find the LCD when adding or subtracting rational expressions.",
+        "Image Links": [],
+        "Answer": "True. Multiplication and division do not require finding the LCD because the denominators can be combined through those operations, whereas addition and subtraction require like terms.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the rational expressions.",
+        "Question": "$$\\frac{x^{2} - 16}{x^{2} - 5 x + 4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the rational expressions.",
+        "Question": "$$\\frac{y^{2} + 10 y + 25}{y^{2} + 11 y + 30}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{y + 5}{y + 6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the rational expressions.",
+        "Question": "$$\\frac{6 a^{2} - 24 a + 24}{6 a^{2} - 24}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the rational expressions.",
+        "Question": "$$\\frac{9 b^{2} + 18 b + 9}{3 b + 3}$$",
+        "Image Links": [],
+        "Answer": "$$3 b + 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the rational expressions.",
+        "Question": "$$\\frac{m - 12}{m^{2} - 144}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the rational expressions.",
+        "Question": "$$\\frac{2 x^{2} + 7 x - 4}{4 x^{2} + 2 x - 2}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{x + 4}{2 x + 2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the rational expressions.",
+        "Question": "$$\\frac{6 x^{2} + 5 x - 4}{3 x^{2} + 19 x + 20}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the rational expressions.",
+        "Question": "$$\\frac{a^{2} + 9 a + 18}{a^{2} + 3 a - 18}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{a + 3}{a - 3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the rational expressions.",
+        "Question": "$$\\frac{3 c^{2} + 25 c - 18}{3 c^{2} - 23 c + 14}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the rational expressions.",
+        "Question": "$$\\frac{12 n^{2} - 29 n - 8}{28 n^{2} - 5 n - 3}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3 n - 8}{7 n - 3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the rational expressions and express the product in simplest form.",
+        "Question": "$$\\frac{x^{2} - x - 6}{2 x^{2} + x - 6} \\cdot \\frac{2 x^{2} + 7 x - 15}{x^{2} - 9}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the rational expressions and express the product in simplest form.",
+        "Question": "$$\\frac{c^{2} + 2 c - 24}{c^{2} + 12 c + 36} \\cdot \\frac{c^{2} - 10 c + 24}{c^{2} - 8 c + 16}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{c - 6}{c + 6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the rational expressions and express the product in simplest form.",
+        "Question": "$$\\frac{2 d^{2} + 9 d - 35}{d^{2} + 10 d + 21} \\cdot \\frac{3 d^{2} + 2 d - 21}{3 d^{2} + 14 d - 49}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the rational expressions and express the product in simplest form.",
+        "Question": "$$\\frac{10 h^{2} - 9 h - 9}{2 h^{2} - 19 h + 24} \\cdot \\frac{h^{2} - 16 h + 64}{5 h^{2} - 37 h - 24}$$",
+        "Image Links": [],
+        "Answer": "$$1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the rational expressions and express the product in simplest form.",
+        "Question": "$$\\frac{6 b^{2} + 13 b + 6}{4 b^{2} - 9} \\cdot \\frac{6 b^{2} + 31 b - 30}{18 b^{2} - 3 b - 10}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the rational expressions and express the product in simplest form.",
+        "Question": "$$\\frac{2 d^{2} + 15 d + 25}{4 d^{2} - 25} \\cdot \\frac{2 d^{2} - 15 d + 25}{25 d^{2} - 1}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{d^{2} - 25}{25 d^{2} - 1}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the rational expressions and express the product in simplest form.",
+        "Question": "$$\\frac{6 x^{2} - 5 x - 50}{15 x^{2} - 44 x - 20} \\cdot \\frac{20 x^{2} - 7 x - 6}{2 x^{2} + 9 x + 10}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the rational expressions and express the product in simplest form.",
+        "Question": "$$\\frac{t^{2} - 1}{t^{2} + 4 t + 3} \\cdot \\frac{t^{2} + 2 t - 15}{t^{2} - 4 t + 3}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{t + 5}{t + 3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the rational expressions and express the product in simplest form.",
+        "Question": "$$\\frac{2 n^{2} - n - 15}{6 n^{2} + 13 n - 5} \\cdot \\frac{12 n^{2} - 13 n + 3}{4 n^{2} - 15 n + 9}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, multiply the rational expressions and express the product in simplest form.",
+        "Question": "$$\\frac{36 x^{2} - 25}{6 x^{2} + 65 x + 50} \\cdot \\frac{3 x^{2} + 32 x + 20}{18 x^{2} + 27 x + 10}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{6 x - 5}{6 x + 5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, divide the rational expressions.",
+        "Question": "$$\\frac{3 y^{2} - 7 y - 6}{2 y^{2} - 3 y - 9} \\div \\frac{y^{2} + y - 2}{2 y^{2} + y - 3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, divide the rational expressions.",
+        "Question": "$$\\frac{6 p^{2} + p - 12}{8 p^{2} + 18 p + 9} \\div \\frac{6 p^{2} - 11 p + 4}{2 p^{2} + 11 p - 6}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{p + 6}{4 p + 3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, divide the rational expressions.",
+        "Question": "$$\\frac{q^{2} - 9}{q^{2} + 6 q + 9} \\div \\frac{q^{2} - 2 q - 3}{q^{2} + 2 q - 3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, divide the rational expressions.",
+        "Question": "$$\\frac{18 d^{2} + 77 d - 18}{27 d^{2} - 15 d + 2} \\div \\frac{3 d^{2} + 29 d - 44}{9 d^{2} - 15 d + 4}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2 d + 9}{d + 11}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, divide the rational expressions.",
+        "Question": "$$\\frac{16 x^{2} + 18 x - 55}{32 x^{2} - 36 x - 11} \\div \\frac{2 x^{2} + 17 x + 30}{4 x^{2} + 25 x + 6}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, divide the rational expressions.",
+        "Question": "$$\\frac{144 b^{2} - 25}{72 b^{2} - 6 b - 10} \\div \\frac{18 b^{2} - 21 b + 5}{36 b^{2} - 18 b - 10}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{12 b + 5}{3 b -1}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, divide the rational expressions.",
+        "Question": "$$\\frac{16 a^{2} - 24 a + 9}{4 a^{2} + 17 a - 15} \\div \\frac{16 a^{2} - 9}{4 a^{2} + 11 a + 6}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, divide the rational expressions.",
+        "Question": "$$\\frac{22 y^{2} + 59 y + 10}{12 y^{2} + 28 y - 5} \\div \\frac{11 y^{2} + 46 y + 8}{24 y^{2} - 10 y + 1}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{4 y -1}{y + 4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, divide the rational expressions.",
+        "Question": "$$\\frac{9 x^{2} + 3 x - 20}{3 x^{2} - 7 x + 4} \\div \\frac{6 x^{2} + 4 x - 10}{x^{2} - 2 x + 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, add and subtract the rational expressions, and then simplify.",
+        "Question": "$$\\frac{4}{x} + \\frac{10}{y}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{10 x + 4 y}{x y}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, add and subtract the rational expressions, and then simplify.",
+        "Question": "$$\\frac{12}{2 q} - \\frac{6}{3 p}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, add and subtract the rational expressions, and then simplify.",
+        "Question": "$$\\frac{4}{a + 1} + \\frac{5}{a - 3}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{9 a - 7}{a^{2} - 2 a - 3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, add and subtract the rational expressions, and then simplify.",
+        "Question": "$$\\frac{c + 2}{3} - \\frac{c - 4}{4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, add and subtract the rational expressions, and then simplify.",
+        "Question": "$$\\frac{y + 3}{y - 2} + \\frac{y - 3}{y + 1}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2 y^{2} - y + 9}{y^{2} - y - 2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, add and subtract the rational expressions, and then simplify.",
+        "Question": "$$\\frac{x - 1}{x + 1} - \\frac{2 x + 3}{2 x + 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, add and subtract the rational expressions, and then simplify.",
+        "Question": "$$\\frac{3 z}{z + 1} + \\frac{2 z + 5}{z - 2}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{5 z^{2} + z + 5}{z^{2} - z - 2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, add and subtract the rational expressions, and then simplify.",
+        "Question": "$$\\frac{4 p}{p + 1} - \\frac{p + 1}{4 p}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, add and subtract the rational expressions, and then simplify.",
+        "Question": "$$\\frac{x}{x + 1} + \\frac{y}{y + 1}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{x + 2 x y + y}{x + x y + y + 1}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the rational expression.",
+        "Question": "$$\\frac{\\frac{6}{y} - \\frac{4}{x}}{y}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the rational expression.",
+        "Question": "$$\\frac{\\frac{2}{a} + \\frac{7}{b}}{b}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2 b + 7 a}{a b^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the rational expression.",
+        "Question": "$$\\frac{\\frac{x}{4} - \\frac{p}{8}}{p}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the rational expression.",
+        "Question": "$$\\frac{\\frac{3}{a} + \\frac{b}{6}}{\\frac{2 b}{3 a}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{18 + a b}{4 b}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the rational expression.",
+        "Question": "$$\\frac{\\frac{3}{x + 1} + \\frac{2}{x - 1}}{\\frac{x - 1}{x + 1}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the rational expression.",
+        "Question": "$$\\frac{\\frac{a}{b} - \\frac{b}{a}}{\\frac{a + b}{a b}}$$",
+        "Image Links": [],
+        "Answer": "$$a - b$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the rational expression.",
+        "Question": "$$\\frac{\\frac{2 x}{3} + \\frac{4 x}{7}}{\\frac{x}{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the rational expression.",
+        "Question": "$$\\frac{\\frac{2 c}{c + 2} + \\frac{c - 1}{c + 1}}{\\frac{2 c + 1}{c + 1}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3 c^{2} + 3 c - 2}{2 c^{2} + 5 c + 2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, simplify the rational expression.",
+        "Question": "$$\\frac{\\frac{x}{y} - \\frac{y}{x}}{\\frac{x}{y} + \\frac{y}{x}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Brenda is placing tile on her bathroom floor. The area of the floor is $$15 x^{2} - 8 x - 7$$ ft 2 . The area of one tile is $$x^{2} - 2 x + 1 \\text{ft}^{2} .$$ To find the number of tiles needed, simplify the rational expression: $$\\frac{15 x^{2} - 8 x - 7}{x^{2} - 2 x + 1} .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9ac3d25e42f050ee41be9bd7cd20390b0f0e0911"
+        ],
+        "Answer": "$$\\frac{15 x + 7}{x -1}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "The area of Lijuan's yard is $$25 x^{2} - 625$$ ft 2 . A patch of sod has an area of $$x^{2} - 10 x + 25$$ ft 2 . Divide the two areas and simplify to find how many pieces of sod Lijuan needs to cover her yard.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Real-World Applications",
+        "Problem Statement": "",
+        "Question": "Elroi wants to mulch his garden. His garden is $$x^{2} + 18 x + 81$$ ft 2 . One bag of mulch covers $$x^{2} - 81$$ ft 2 . Divide the expressions and simplify to find how many bags of mulch Elroi needs to mulch his garden.",
+        "Image Links": [],
+        "Answer": "$$\\frac{x + 9}{x -9}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, perform the given operations and simplify.",
+        "Question": "$$\\frac{x^{2} + x - 6}{x^{2} - 2 x - 3} \\cdot \\frac{2 x^{2} - 3 x - 9}{x^{2} - x - 2} \\div \\frac{10 x^{2} + 27 x + 18}{x^{2} + 2 x + 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, perform the given operations and simplify.",
+        "Question": "$$\\frac{\\frac{3 y^{2} - 10 y + 3}{3 y^{2} + 5 y - 2} \\cdot \\frac{2 y^{2} - 3 y - 20}{2 y^{2} - y - 15}}{y - 4}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{y + 2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, perform the given operations and simplify.",
+        "Question": "$$\\frac{\\frac{4 a + 1}{2 a - 3} + \\frac{2 a - 3}{2 a + 3}}{\\frac{4 a^{2} + 9}{a}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "For the following exercises, perform the given operations and simplify.",
+        "Question": "$$\\frac{x^{2} + 7 x + 12}{x^{2} + x - 6} \\div \\frac{3 x^{2} + 19 x + 28}{8 x^{2} - 4 x - 24} \\div \\frac{2 x^{2} + x - 3}{3 x^{2} + 4 x - 7}$$",
+        "Image Links": [],
+        "Answer": "$$4$$",
+        "Answer Image Links": []
+    }
+]

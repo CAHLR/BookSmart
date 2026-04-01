@@ -1,0 +1,52 @@
+[
+    {
+        "Topic": "Checkpoint 5.27",
+        "Problem Statement": "",
+        "Question": "Evaluate the triple integral $$\\int_{\\theta = 0}^{\\theta = \\pi} \\int_{r = 0}^{r = 1} \\int_{z = 0}^{z = 4} ( r z \\text{sin} \\theta ) r d z d r d \\theta .$$",
+        "Image Links": [],
+        "Answer": "$$8$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.28",
+        "Problem Statement": "",
+        "Question": "Consider the region $$E$$ inside the right circular cylinder with equation $$r = 2 \\text{sin} \\theta ,$$ bounded below by the $$r \\theta$$ -plane and bounded above by $$z = 4 - y .$$ Set up a triple integral with a function $$f ( r , \\theta , z )$$ in cylindrical coordinates.",
+        "Image Links": [],
+        "Answer": "$$\\iiint_{E} f ( r , \\theta , z ) r d z d r d \\theta = \\int_{\\theta = 0}^{\\theta = \\pi} \\int_{r = 0}^{r = 2 \\text{sin} \\theta} \\int_{z = 0}^{z = 4 - r \\text{sin} \\theta} f ( r , \\theta , z ) r d z d r d \\theta .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.29",
+        "Problem Statement": "",
+        "Question": "Redo the previous example with the order of integration $$d \\theta d z d r .$$",
+        "Image Links": [],
+        "Answer": "$$E = \\{ ( r , \\theta , z ) | 0 \\le \\theta \\le 2 \\pi , 0 \\le z \\le 1 , z \\le r \\le 2 - z^{2} \\}$$ and $$V = \\int_{r = 0}^{r = 1} \\int_{z = r}^{z = 2 - r^{2}} \\int_{\\theta = 0}^{\\theta = 2 \\pi} r d \\theta d z d r .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.30",
+        "Problem Statement": "",
+        "Question": "Redo the previous example with the order of integration $$d \\theta d z d r .$$",
+        "Image Links": [],
+        "Answer": "$$E_{2} = \\{ ( r , \\theta , z ) | 0 \\le \\theta \\le 2 \\pi , 0 \\le r \\le 1 , r \\le z \\le \\sqrt{4 - r^{2}} \\}$$ and $$V = \\int_{r = 0}^{r = 1} \\int_{z = r}^{z = \\sqrt{4 - r^{2}}} \\int_{\\theta = 0}^{\\theta = 2 \\pi} r d \\theta d z d r .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.31",
+        "Problem Statement": "",
+        "Question": "Set up a triple integral for the volume of the solid region bounded above by the sphere $$\\rho = 2$$ and bounded below by the cone $$\\phi = \\pi \\text{/} 3 .$$",
+        "Image Links": [],
+        "Answer": "$$V ( E ) = \\int_{\\theta = 0}^{\\theta = 2 \\pi} \\int_{\\upphi = 0}^{\\phi = \\pi \\text{/} 3} \\int_{\\rho = 0}^{\\rho = 2} \\rho^{2} \\text{sin} \\phi d \\rho d \\phi d \\theta$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.32",
+        "Problem Statement": "",
+        "Question": "Use rectangular, cylindrical, and spherical coordinates to set up triple integrals for finding the volume of the region inside the sphere $$x^{2} + y^{2} + z^{2} = 4$$ but outside the cylinder $$x^{2} + y^{2} = 1 .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/4da2dd8a1b568a04c3ec5e8a21d176e3c0cec624"
+        ],
+        "Answer": "Rectangular: $$\\int_{x = -2}^{x = 2} \\int_{y = \\text{unicode[:-]} \\sqrt{4 - x^{2}}}^{y = \\sqrt{4 - x^{2}}} \\int_{z = \\text{unicode[:-]} \\sqrt{4 - x^{2} - y^{2}}}^{z = \\sqrt{4 - x^{2} - y^{2}}} d z d y d x - \\int_{x = -1}^{x = 1} \\int_{y = \\text{unicode[:-]} \\sqrt{1 - x^{2}}}^{y = \\sqrt{1 - x^{2}}} \\int_{z = \\text{unicode[:-]} \\sqrt{4 - x^{2} - y^{2}}}^{z = \\sqrt{4 - x^{2} - y^{2}}} d z d y d x .$$ Cylindrical: $$\\int_{\\theta = 0}^{\\theta = 2 \\pi} \\int_{r = 1}^{r = 2} \\int_{z = \\text{unicode[:-]} \\sqrt{4 - r^{2}}}^{z = \\sqrt{4 - r^{2}}} r d z d r d \\theta .$$ Spherical: $$\\int_{\\phi = \\pi \\text{/} 6}^{\\phi = 5 \\pi \\text{/} 6} \\int_{\\theta = 0}^{\\theta = 2 \\pi} \\int_{\\rho = \\text{csc} \\phi}^{\\rho = 2} \\rho^{2} \\text{sin} \\phi d \\rho d \\theta d \\phi .$$",
+        "Answer Image Links": []
+    }
+]

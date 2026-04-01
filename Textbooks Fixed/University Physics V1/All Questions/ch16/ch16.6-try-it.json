@@ -1,0 +1,12 @@
+[
+    {
+        "Topic": "Check Your Understanding 16.7",
+        "Problem Statement": "",
+        "Question": "The equations for the wavelengths and the frequencies of the modes of a wave produced on a string: $$\\left .\\begin{matrix}{} \\\\ \\lambda_{n} = \\frac{2}{n} L n = 1 , 2 , 3 , 4 , 5 \\text{ddot.} \\text{and} \\\\ f_{n} = n \\frac{v}{2 L} = n f_{1} n = 1 , 2 , 3 , 4 , 5 \\text{ddot.}\\end{matrix}\\right .$$ were derived by considering a wave on a string where there were symmetric boundary conditions of a node at each end. These modes resulted from two sinusoidal waves with identical characteristics except they were moving in opposite directions, confined to a region L with nodes required at both ends. Will the same equations work if there were symmetric boundary conditions with antinodes at each end? What would the normal modes look like for a medium that was free to oscillate on each end? Don\u2019t worry for now if you cannot imagine such a medium, just consider two sinusoidal wave functions in a region of length L , with antinodes on each end.",
+        "Image Links": [],
+        "Answer": "Yes, the equations would work equally well for symmetric boundary conditions of a medium free to oscillate on each end where there was an antinode on each end. The normal modes of the first three modes are shown below. The dotted line shows the equilibrium position of the medium. Note that the first mode is two quarters, or one half, of a wavelength. The second mode is one quarter of a wavelength, followed by one half of a wavelength, followed by one quarter of a wavelength, or one full wavelength. The third mode is one and a half wavelengths. These are the same result as the string with a node on each end. The equations for symmetrical boundary conditions work equally well for fixed boundary conditions and free boundary conditions. These results will be revisited in the next chapter when discussing sound wave in an open tube.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a137b1b68b542922df3168082593264de8874392"
+        ]
+    }
+]

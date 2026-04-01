@@ -1,0 +1,28 @@
+[
+    {
+        "Topic": "Check Your Understanding 2.1",
+        "Problem Statement": "",
+        "Question": "Two motorboats named Alice and Bob are moving on a lake. Given the information about their velocity vectors in each of the following situations, indicate whether their velocity vectors are equal or otherwise. (a) Alice moves north at 6 knots and Bob moves west at 6 knots. (b) Alice moves west at 6 knots and Bob moves west at 3 knots. (c) Alice moves northeast at 6 knots and Bob moves south at 3 knots. (d) Alice moves northeast at 6 knots and Bob moves southwest at 6 knots. (e) Alice moves northeast at 2 knots and Bob moves closer to the shore northeast at 2 knots.",
+        "Image Links": [],
+        "Answer": "a. not equal because they are orthogonal; b. not equal because they have different magnitudes; c. not equal because they have different magnitudes and directions; d. not equal because they are antiparallel; e. equal.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 2.2",
+        "Problem Statement": "",
+        "Question": "A cave diver enters a long underwater tunnel. When her displacement with respect to the entry point is 20 m, she accidentally drops her camera, but she doesn\u2019t notice it missing until she is some 6 m farther into the tunnel. She swims back 10 m but cannot find the camera, so she decides to end the dive. How far from the entry point is she? Taking the positive direction out of the tunnel, what is her displacement vector relative to the entry point?",
+        "Image Links": [],
+        "Answer": "16 m; $$\\mathbf{\\vec{D}} = -16 \\text{m} \\mathbf{\\hat{u}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Check Your Understanding 2.3",
+        "Problem Statement": "",
+        "Question": "Using the three displacement vectors $$\\mathbf{\\vec{A}}$$ , $$\\mathbf{\\vec{B}}$$ , and $$\\mathbf{\\vec{F}}$$ in Figure 2.13, choose a convenient scale, and use a ruler and a protractor to find vector $$\\mathbf{\\vec{G}}$$ given by the vector equation $$\\mathbf{\\vec{G}} = \\mathbf{\\vec{A}} + 2 \\mathbf{\\vec{B}} - \\mathbf{\\vec{F}}$$ .",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/53e6e90c061e0ab600ccb1a95f2b60d389ea9a6f"
+        ],
+        "Answer": "G = 28.2 cm, $$\\theta_{G} = 291 \\text{\u00b0}$$",
+        "Answer Image Links": []
+    }
+]

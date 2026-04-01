@@ -1,0 +1,55 @@
+[
+    {
+        "Topic": "Checkpoint 4.31",
+        "Problem Statement": "",
+        "Question": "Determine the maximum area if we want to make the same rectangular garden as in Figure 4.63 , but we have $$200$$ ft of fencing.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/c7ff7adfe3b52cb87a6d846229b11134aa9b849b"
+        ],
+        "Answer": "The maximum area is $$5000 \\text{ft}^{2} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.32",
+        "Problem Statement": "",
+        "Question": "Suppose the dimensions of the cardboard in Example 4.33 are 20 in. by 30 in. Let $$x$$ be the side length of each square and write the volume of the open-top box as a function of $$x .$$ Determine the domain of consideration for $$x .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/75ab8986375c0e009e4e69efff3abc302f4742c9",
+            "https://openstax.org/apps/archive/20240812.170248/resources/f2e1911e8d5ba582d323066c127671cd90580573"
+        ],
+        "Answer": "$$V ( x ) = x ( 20 - 2 x ) ( 30 - 2 x ) .$$ The domain is $$[ 0 , 10 ] .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.33",
+        "Problem Statement": "",
+        "Question": "Suppose the island is $$1$$ mi from shore, and the distance from the cabin to the point on the shore closest to the island is $$15 \\text{mi} .$$ Suppose a visitor swims at the rate of $$2.5 \\text{mph}$$ and runs at a rate of $$6 \\text{mph} .$$ Let $$x$$ denote the distance the visitor will run before swimming, and find a function for the time it takes the visitor to get from the cabin to the island.",
+        "Image Links": [],
+        "Answer": "$$T ( x ) = \\frac{x}{6} + \\frac{\\sqrt{( 15 - x )^{2} + 1}}{2.5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.34",
+        "Problem Statement": "",
+        "Question": "A car rental company charges its customers $$p$$ dollars per day, where $$60 \\le p \\le 150 .$$ It has found that the number of cars rented per day can be modeled by the linear function $$n ( p ) = 750 - 5 p .$$ How much should the company charge each customer to maximize revenue?",
+        "Image Links": [],
+        "Answer": "The company should charge $$\\text{$} 75$$ per car per day.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.35",
+        "Problem Statement": "",
+        "Question": "Modify the area function $$A$$ if the rectangle is to be inscribed in the unit circle $$x^{2} + y^{2} = 1 .$$ What is the domain of consideration?",
+        "Image Links": [],
+        "Answer": "$$A ( x ) = 4 x \\sqrt{1 - x^{2}} .$$ The domain of consideration is $$[ 0 , 1 ] .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 4.36",
+        "Problem Statement": "",
+        "Question": "Consider the same open-top box, which is to have volume $$216 \\text{in} .^{3} .$$ Suppose the cost of the material for the base is $$20 \\mathcent \\text{/} \\text{in} .^{2}$$ and the cost of the material for the sides is $$30 \\mathcent \\text{/} \\text{in} .^{2}$$ and we are trying to minimize the cost of this box. Write the cost as a function of the side lengths of the base. (Let $$x$$ be the side length of the base and $$y$$ be the height of the box.)",
+        "Image Links": [],
+        "Answer": "$$c ( x ) = \\frac{259.2}{x} + 0.2 x^{2}$$ dollars",
+        "Answer Image Links": []
+    }
+]

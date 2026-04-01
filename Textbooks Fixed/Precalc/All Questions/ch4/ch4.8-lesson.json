@@ -1,0 +1,526 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What situations are best modeled by a logistic equation? Give an example, and state a case for why the example is a good fit.",
+        "Image Links": [],
+        "Answer": "Logistic models are best used for situations that have limited values. For example, populations cannot grow indefinitely since resources such as food, water, and space are limited, so a logistic model best describes populations.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What is a carrying capacity? What kind of model has a carrying capacity built into its formula? Why does this make sense?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What is regression analysis? Describe the process of performing regression analysis on a graphing utility.",
+        "Image Links": [],
+        "Answer": "Regression analysis is the process of finding an equation that best fits a given set of data points. To perform a regression analysis on a graphing utility, first list the given points using the STAT then EDIT menu. Next graph the scatter plot using the STAT PLOT feature. The shape of the data points on the scatter graph can help determine which regression feature to use. Once this is determined, select the appropriate regression analysis command from the STAT then CALC menu.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What might a scatterplot of data points look like if it were best described by a logarithmic model?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "What does the y -intercept on the graph of a logistic equation correspond to for a population modeled by that equation?",
+        "Image Links": [],
+        "Answer": "The y -intercept on the graph of a logistic equation corresponds to the initial population for the population model.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, match the given function of best fit with the appropriate scatterplot in Figure 7 through Figure 11 . Answer using the letter beneath the matching graph.\nFigure 7\nFigure 8\nFigure 9\nFigure 10\nFigure 11",
+        "Question": "$$y = 10.209 e^{- 0.294 x}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/86c34b5d475d9f6415812a34b2872e77364a2193",
+            "https://openstax.org/apps/archive/20240812.170248/resources/c8ad90704fe08bb21e6b600f29170ebc3873c356",
+            "https://openstax.org/apps/archive/20240812.170248/resources/d904d8659d830cf43dae6bc184407b1834bcdc86",
+            "https://openstax.org/apps/archive/20240812.170248/resources/353cfb0bce86d1a6078bcb1836d81a14fff60a5a",
+            "https://openstax.org/apps/archive/20240812.170248/resources/aef01c7d7904ee664716928aa7b16c58bc6a78e1"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, match the given function of best fit with the appropriate scatterplot in Figure 7 through Figure 11 . Answer using the letter beneath the matching graph.\nFigure 7\nFigure 8\nFigure 9\nFigure 10\nFigure 11",
+        "Question": "$$y = 5.598 - 1.912 \\ln{} ( x )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/86c34b5d475d9f6415812a34b2872e77364a2193",
+            "https://openstax.org/apps/archive/20240812.170248/resources/c8ad90704fe08bb21e6b600f29170ebc3873c356",
+            "https://openstax.org/apps/archive/20240812.170248/resources/d904d8659d830cf43dae6bc184407b1834bcdc86",
+            "https://openstax.org/apps/archive/20240812.170248/resources/353cfb0bce86d1a6078bcb1836d81a14fff60a5a",
+            "https://openstax.org/apps/archive/20240812.170248/resources/aef01c7d7904ee664716928aa7b16c58bc6a78e1"
+        ],
+        "Answer": "C",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, match the given function of best fit with the appropriate scatterplot in Figure 7 through Figure 11 . Answer using the letter beneath the matching graph.\nFigure 7\nFigure 8\nFigure 9\nFigure 10\nFigure 11",
+        "Question": "$$y = 2.104 ( 1.479 )^{x}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/86c34b5d475d9f6415812a34b2872e77364a2193",
+            "https://openstax.org/apps/archive/20240812.170248/resources/c8ad90704fe08bb21e6b600f29170ebc3873c356",
+            "https://openstax.org/apps/archive/20240812.170248/resources/d904d8659d830cf43dae6bc184407b1834bcdc86",
+            "https://openstax.org/apps/archive/20240812.170248/resources/353cfb0bce86d1a6078bcb1836d81a14fff60a5a",
+            "https://openstax.org/apps/archive/20240812.170248/resources/aef01c7d7904ee664716928aa7b16c58bc6a78e1"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, match the given function of best fit with the appropriate scatterplot in Figure 7 through Figure 11 . Answer using the letter beneath the matching graph.\nFigure 7\nFigure 8\nFigure 9\nFigure 10\nFigure 11",
+        "Question": "$$y = 4.607 + 2.733 \\ln{} ( x )$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/86c34b5d475d9f6415812a34b2872e77364a2193",
+            "https://openstax.org/apps/archive/20240812.170248/resources/c8ad90704fe08bb21e6b600f29170ebc3873c356",
+            "https://openstax.org/apps/archive/20240812.170248/resources/d904d8659d830cf43dae6bc184407b1834bcdc86",
+            "https://openstax.org/apps/archive/20240812.170248/resources/353cfb0bce86d1a6078bcb1836d81a14fff60a5a",
+            "https://openstax.org/apps/archive/20240812.170248/resources/aef01c7d7904ee664716928aa7b16c58bc6a78e1"
+        ],
+        "Answer": "B",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, match the given function of best fit with the appropriate scatterplot in Figure 7 through Figure 11 . Answer using the letter beneath the matching graph.\nFigure 7\nFigure 8\nFigure 9\nFigure 10\nFigure 11",
+        "Question": "$$y = \\frac{14.005}{1 + 2.79 e^{- 0.812 x}}$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/86c34b5d475d9f6415812a34b2872e77364a2193",
+            "https://openstax.org/apps/archive/20240812.170248/resources/c8ad90704fe08bb21e6b600f29170ebc3873c356",
+            "https://openstax.org/apps/archive/20240812.170248/resources/d904d8659d830cf43dae6bc184407b1834bcdc86",
+            "https://openstax.org/apps/archive/20240812.170248/resources/353cfb0bce86d1a6078bcb1836d81a14fff60a5a",
+            "https://openstax.org/apps/archive/20240812.170248/resources/aef01c7d7904ee664716928aa7b16c58bc6a78e1"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "",
+        "Question": "To the nearest whole number, what is the initial value of a population modeled by the logistic equation $$P ( t ) = \\frac{175}{1 + 6.995 e^{- 0.68 t}} ?$$ What is the carrying capacity?",
+        "Image Links": [],
+        "Answer": "$$P ( 0 ) = 22$$ ; 175",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "",
+        "Question": "Rewrite the exponential model $$A ( t ) = 1550 ( 1.085 )^{x}$$ as an equivalent model with base $$e .$$ Express the exponent to four significant digits.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "",
+        "Question": "A logarithmic model is given by the equation $$h ( p ) = 67.682 - 5.792 \\ln{} ( p ) .$$ To the nearest hundredth, for what value of $$p$$ does $$h ( p ) = 62 ?$$",
+        "Image Links": [],
+        "Answer": "$$p \\approx 2.67$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "",
+        "Question": "A logistic model is given by the equation $$P ( t ) = \\frac{90}{1 + 5 e^{- 0.42 t}} .$$ To the nearest hundredth, for what value of t does $$P ( t ) = 45 ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Numeric",
+        "Problem Statement": "",
+        "Question": "What is the y -intercept on the graph of the logistic model given in the previous exercise?",
+        "Image Links": [],
+        "Answer": "y -intercept: $$( 0 , 15 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use this scenario: The population $$P$$ of a koi pond over $$x$$ months is modeled by the function $$P ( x ) = \\frac{68}{1 + 16 e^{- 0.28 x}} .$$",
+        "Question": "Graph the population model to show the population over a span of $$3$$ years.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use this scenario: The population $$P$$ of a koi pond over $$x$$ months is modeled by the function $$P ( x ) = \\frac{68}{1 + 16 e^{- 0.28 x}} .$$",
+        "Question": "What was the initial population of koi?",
+        "Image Links": [],
+        "Answer": "$$4$$ koi",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use this scenario: The population $$P$$ of a koi pond over $$x$$ months is modeled by the function $$P ( x ) = \\frac{68}{1 + 16 e^{- 0.28 x}} .$$",
+        "Question": "How many koi will the pond have after one and a half years?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use this scenario: The population $$P$$ of a koi pond over $$x$$ months is modeled by the function $$P ( x ) = \\frac{68}{1 + 16 e^{- 0.28 x}} .$$",
+        "Question": "How many months will it take before there are $$20$$ koi in the pond?",
+        "Image Links": [],
+        "Answer": "about $$6.8$$ months.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use this scenario: The population $$P$$ of a koi pond over $$x$$ months is modeled by the function $$P ( x ) = \\frac{68}{1 + 16 e^{- 0.28 x}} .$$",
+        "Question": "Use the intersect feature to approximate the number of months it will take before the population of the pond reaches half its carrying capacity.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use this scenario: The population $$P$$ of an endangered species habitat for wolves is modeled by the function $$P ( x ) = \\frac{558}{1 + 54.8 e^{- 0.462 x}} ,$$ where $$x$$ is given in years.",
+        "Question": "Graph the population model to show the population over a span of $$10$$ years.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/cfe27b9c7269463d6daa7e25befd71e44ea02355"
+        ]
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use this scenario: The population $$P$$ of an endangered species habitat for wolves is modeled by the function $$P ( x ) = \\frac{558}{1 + 54.8 e^{- 0.462 x}} ,$$ where $$x$$ is given in years.",
+        "Question": "What was the initial population of wolves transported to the habitat?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use this scenario: The population $$P$$ of an endangered species habitat for wolves is modeled by the function $$P ( x ) = \\frac{558}{1 + 54.8 e^{- 0.462 x}} ,$$ where $$x$$ is given in years.",
+        "Question": "How many wolves will the habitat have after $$3$$ years?",
+        "Image Links": [],
+        "Answer": "About 38 wolves",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use this scenario: The population $$P$$ of an endangered species habitat for wolves is modeled by the function $$P ( x ) = \\frac{558}{1 + 54.8 e^{- 0.462 x}} ,$$ where $$x$$ is given in years.",
+        "Question": "How many years will it take before there are $$100$$ wolves in the habitat?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use this scenario: The population $$P$$ of an endangered species habitat for wolves is modeled by the function $$P ( x ) = \\frac{558}{1 + 54.8 e^{- 0.462 x}} ,$$ where $$x$$ is given in years.",
+        "Question": "Use the intersect feature to approximate the number of years it will take before the population of the habitat reaches half its carrying capacity.",
+        "Image Links": [],
+        "Answer": "About 8.7 years",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, refer to Table 7 .\nTable 7\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\hline\nx & 1 & 2 & 3 & 4 & 5 & 6 \\\\ \\hline\nf(x) & 1125 & 1495 & 2310 & 3294 & 4650 & 6361 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "Use a graphing calculator to create a scatter diagram of the data.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, refer to Table 7 .\nTable 7\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\hline\nx & 1 & 2 & 3 & 4 & 5 & 6 \\\\ \\hline\nf(x) & 1125 & 1495 & 2310 & 3294 & 4650 & 6361 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "Use the regression feature to find an exponential function that best fits the data in the table.",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = 776.682 ( 1.426 )^{x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, refer to Table 7 .\nTable 7\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\hline\nx & 1 & 2 & 3 & 4 & 5 & 6 \\\\ \\hline\nf(x) & 1125 & 1495 & 2310 & 3294 & 4650 & 6361 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "Write the exponential function as an exponential equation with base $$e .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, refer to Table 7 .\nTable 7\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\hline\nx & 1 & 2 & 3 & 4 & 5 & 6 \\\\ \\hline\nf(x) & 1125 & 1495 & 2310 & 3294 & 4650 & 6361 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "Graph the exponential equation on the scatter diagram.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7da6a27df1883b0ff3fdc9046b8d5a0efec2b884"
+        ]
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, refer to Table 7 .\nTable 7\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\hline\nx & 1 & 2 & 3 & 4 & 5 & 6 \\\\ \\hline\nf(x) & 1125 & 1495 & 2310 & 3294 & 4650 & 6361 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "Use the intersect feature to find the value of $$x$$ for which $$f ( x ) = 4000.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, refer to Table 8 .\nTable 8\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\hline\nx & 1 & 2 & 3 & 4 & 5 & 6 \\\\ \\hline\nf(x) & 555 & 383 & 307 & 210 & 158 & 122 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "Use a graphing calculator to create a scatter diagram of the data.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9c7aff12909bba6713c4123c13cbd4aec4e2c1a8"
+        ]
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, refer to Table 8 .\nTable 8\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\hline\nx & 1 & 2 & 3 & 4 & 5 & 6 \\\\ \\hline\nf(x) & 555 & 383 & 307 & 210 & 158 & 122 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "Use the regression feature to find an exponential function that best fits the data in the table.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, refer to Table 8 .\nTable 8\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\hline\nx & 1 & 2 & 3 & 4 & 5 & 6 \\\\ \\hline\nf(x) & 555 & 383 & 307 & 210 & 158 & 122 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "Write the exponential function as an exponential equation with base $$e .$$",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = 731.92 e^{-0.3038 x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, refer to Table 8 .\nTable 8\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\hline\nx & 1 & 2 & 3 & 4 & 5 & 6 \\\\ \\hline\nf(x) & 555 & 383 & 307 & 210 & 158 & 122 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "Graph the exponential equation on the scatter diagram.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, refer to Table 8 .\nTable 8\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\hline\nx & 1 & 2 & 3 & 4 & 5 & 6 \\\\ \\hline\nf(x) & 555 & 383 & 307 & 210 & 158 & 122 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "Use the intersect feature to find the value of $$x$$ for which $$f ( x ) = 250.$$",
+        "Image Links": [],
+        "Answer": "When $$f ( x ) = 250 ,   x \\approx 3.6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, refer to Table 9 .\nTable 9\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\hline\nx & 1 & 2 & 3 & 4 & 5 & 6 \\\\ \\hline\nf(x) & 5.1 & 6.3 & 7.3 & 7.7 & 8.1 & 8.6 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "Use a graphing calculator to create a scatter diagram of the data.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, refer to Table 9 .\nTable 9\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\hline\nx & 1 & 2 & 3 & 4 & 5 & 6 \\\\ \\hline\nf(x) & 5.1 & 6.3 & 7.3 & 7.7 & 8.1 & 8.6 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "Use the LOGarithm option of the REGression feature to find a logarithmic function of the form $$y = a + b \\ln{} ( x )$$ that best fits the data in the table.",
+        "Image Links": [],
+        "Answer": "$$y = 5.063 + 1.934 \\text{log} ( x )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, refer to Table 9 .\nTable 9\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\hline\nx & 1 & 2 & 3 & 4 & 5 & 6 \\\\ \\hline\nf(x) & 5.1 & 6.3 & 7.3 & 7.7 & 8.1 & 8.6 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "Use the logarithmic function to find the value of the function when $$x = 10.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, refer to Table 9 .\nTable 9\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\hline\nx & 1 & 2 & 3 & 4 & 5 & 6 \\\\ \\hline\nf(x) & 5.1 & 6.3 & 7.3 & 7.7 & 8.1 & 8.6 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "Graph the logarithmic equation on the scatter diagram.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/4916912a4e70f3457357e26ac1f227676888bad2"
+        ]
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, refer to Table 9 .\nTable 9\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\hline\nx & 1 & 2 & 3 & 4 & 5 & 6 \\\\ \\hline\nf(x) & 5.1 & 6.3 & 7.3 & 7.7 & 8.1 & 8.6 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "Use the intersect feature to find the value of $$x$$ for which $$f ( x ) = 7.$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, refer to Table 10 .\nTable 10\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|c|c|}\n\\hline\nx & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\\\ \\hline\nf(x) & 7.5 & 6 & 5.2 & 4.3 & 3.9 & 3.4 & 3.1 & 2.9 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "Use a graphing calculator to create a scatter diagram of the data.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/7e362f8eda808b9be85e0df7b11d344b43559095"
+        ]
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, refer to Table 10 .\nTable 10\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|c|c|}\n\\hline\nx & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\\\ \\hline\nf(x) & 7.5 & 6 & 5.2 & 4.3 & 3.9 & 3.4 & 3.1 & 2.9 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "Use the LOG arithm option of the REG ression feature to find a logarithmic function of the form $$y = a + b \\ln{} ( x )$$ that best fits the data in the table.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, refer to Table 10 .\nTable 10\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|c|c|}\n\\hline\nx & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\\\ \\hline\nf(x) & 7.5 & 6 & 5.2 & 4.3 & 3.9 & 3.4 & 3.1 & 2.9 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "Use the logarithmic function to find the value of the function when $$x = 10.$$",
+        "Image Links": [],
+        "Answer": "When $$f ( 10 ) \\approx 2.3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, refer to Table 10 .\nTable 10\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|c|c|}\n\\hline\nx & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\\\ \\hline\nf(x) & 7.5 & 6 & 5.2 & 4.3 & 3.9 & 3.4 & 3.1 & 2.9 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "Graph the logarithmic equation on the scatter diagram.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, refer to Table 10 .\nTable 10\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|c|c|}\n\\hline\nx & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\\\ \\hline\nf(x) & 7.5 & 6 & 5.2 & 4.3 & 3.9 & 3.4 & 3.1 & 2.9 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "Use the intersect feature to find the value of $$x$$ for which $$f ( x ) = 8.$$",
+        "Image Links": [],
+        "Answer": "When $$f ( x ) = 8 ,   x \\approx 0.82$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, refer to Table 11 .\nTable 11\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}\n\\hline\nx & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 \\\\ \\hline\nf(x) & 8.7 & 12.3 & 15.4 & 18.5 & 20.7 & 22.5 & 23.3 & 24 & 24.6 & 24.8 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "Use a graphing calculator to create a scatter diagram of the data.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, refer to Table 11 .\nTable 11\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}\n\\hline\nx & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 \\\\ \\hline\nf(x) & 8.7 & 12.3 & 15.4 & 18.5 & 20.7 & 22.5 & 23.3 & 24 & 24.6 & 24.8 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "Use the LOGISTIC regression option to find a logistic growth model of the form $$y = \\frac{c}{1 + a e^{- b x}}$$ that best fits the data in the table.",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = \\frac{25.081}{1 + 3.182 e^{- 0.545 x}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, refer to Table 11 .\nTable 11\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}\n\\hline\nx & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 \\\\ \\hline\nf(x) & 8.7 & 12.3 & 15.4 & 18.5 & 20.7 & 22.5 & 23.3 & 24 & 24.6 & 24.8 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "Graph the logistic equation on the scatter diagram.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, refer to Table 11 .\nTable 11\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}\n\\hline\nx & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 \\\\ \\hline\nf(x) & 8.7 & 12.3 & 15.4 & 18.5 & 20.7 & 22.5 & 23.3 & 24 & 24.6 & 24.8 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "To the nearest whole number, what is the predicted carrying capacity of the model?",
+        "Image Links": [],
+        "Answer": "About 25",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, refer to Table 11 .\nTable 11\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}\n\\hline\nx & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 \\\\ \\hline\nf(x) & 8.7 & 12.3 & 15.4 & 18.5 & 20.7 & 22.5 & 23.3 & 24 & 24.6 & 24.8 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "Use the intersect feature to find the value of $$x$$ for which the model reaches half its carrying capacity.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, refer to Table 12 .\nTable 12\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}\n\\hline\nxx & 0 & 2 & 4 & 5 & 7 & 8 & 10 & 11 & 15 & 17 \\\\ \\hline\nf(x)f(x) & 12 & 28.6 & 52.8 & 70.3 & 99.9 & 112.5 & 125.8 & 127.9 & 135.1 & 135.9 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "Use a graphing calculator to create a scatter diagram of the data.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f7bccc628befaf37a99c29fb9c9c12c6236e195f"
+        ]
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, refer to Table 12 .\nTable 12\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}\n\\hline\nxx & 0 & 2 & 4 & 5 & 7 & 8 & 10 & 11 & 15 & 17 \\\\ \\hline\nf(x)f(x) & 12 & 28.6 & 52.8 & 70.3 & 99.9 & 112.5 & 125.8 & 127.9 & 135.1 & 135.9 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "Use the LOGISTIC regression option to find a logistic growth model of the form $$y = \\frac{c}{1 + a e^{- b x}}$$ that best fits the data in the table.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, refer to Table 12 .\nTable 12\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}\n\\hline\nxx & 0 & 2 & 4 & 5 & 7 & 8 & 10 & 11 & 15 & 17 \\\\ \\hline\nf(x)f(x) & 12 & 28.6 & 52.8 & 70.3 & 99.9 & 112.5 & 125.8 & 127.9 & 135.1 & 135.9 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "Graph the logistic equation on the scatter diagram.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/eef9631ae7d5d0f14ff3280a5f40aa5790217753"
+        ]
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, refer to Table 12 .\nTable 12\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}\n\\hline\nxx & 0 & 2 & 4 & 5 & 7 & 8 & 10 & 11 & 15 & 17 \\\\ \\hline\nf(x)f(x) & 12 & 28.6 & 52.8 & 70.3 & 99.9 & 112.5 & 125.8 & 127.9 & 135.1 & 135.9 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "To the nearest whole number, what is the predicted carrying capacity of the model?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, refer to Table 12 .\nTable 12\n\\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}\n\\hline\nxx & 0 & 2 & 4 & 5 & 7 & 8 & 10 & 11 & 15 & 17 \\\\ \\hline\nf(x)f(x) & 12 & 28.6 & 52.8 & 70.3 & 99.9 & 112.5 & 125.8 & 127.9 & 135.1 & 135.9 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "Use the intersect feature to find the value of $$x$$ for which the model reaches half its carrying capacity.",
+        "Image Links": [],
+        "Answer": "When $$f ( x ) = 68 ,   x \\approx 4.9$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Recall that the general form of a logistic equation for a population is given by $$P ( t ) = \\frac{c}{1 + a e^{- b t}} ,$$ such that the initial population at time $$t = 0$$ is $$P ( 0 ) = P_{0} .$$ Show algebraically that $$\\frac{c - P ( t )}{P ( t )} = \\frac{c - P_{0}}{P_{0}} e^{- b t} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Use a graphing utility to find an exponential regression formula $$f ( x )$$ and a logarithmic regression formula $$g ( x )$$ for the points $$( 1.5 , 1.5 )$$ and $$( 8.5 , \\text{8.5} ) .$$ Round all numbers to 6 decimal places. Graph the points and both formulas along with the line $$y = x$$ on the same axis. Make a conjecture about the relationship of the regression formulas.",
+        "Image Links": [],
+        "Answer": "$$f ( x ) = 1.034341 ( 1.281204 )^{x}$$ ; $$g ( x ) = 4.035510$$ ; the regression curves are symmetrical about $$y = x$$ , so it appears that they are inverse functions.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Verify the conjecture made in the previous exercise. Round all numbers to six decimal places when necessary.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Find the inverse function $$f^{- 1} ( x )$$ for the logistic function $$f ( x ) = \\frac{c}{1 + a e^{- b x}} .$$ Show all steps.",
+        "Image Links": [],
+        "Answer": "$$f^{- 1} ( x ) = \\frac{\\text{ln} ( a ) - \\text{ln} ( \\frac{c}{x} - 1 )}{b}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Use the result from the previous exercise to graph the logistic model $$P ( t ) = \\frac{20}{1 + 4 e^{- 0.5 t}}$$ along with its inverse on the same axis. What are the intercepts and asymptotes of each function?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

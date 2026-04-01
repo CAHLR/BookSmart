@@ -1,0 +1,356 @@
+[
+    {
+        "Topic": "9.1 Null and Alternative Hypotheses",
+        "Problem Statement": "",
+        "Question": "You are testing that the mean speed of your cable Internet connection is more than three Megabits per second. What is the random variable? Describe in words.",
+        "Image Links": [],
+        "Answer": "The random variable is the mean Internet speed in Megabits per second.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.1 Null and Alternative Hypotheses",
+        "Problem Statement": "",
+        "Question": "You are testing that the mean speed of your cable Internet connection is more than three Megabits per second. State the null and alternative hypotheses.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.1 Null and Alternative Hypotheses",
+        "Problem Statement": "",
+        "Question": "The American family has an average of two children. What is the random variable? Describe in words.",
+        "Image Links": [],
+        "Answer": "The random variable is the mean number of children an American family has.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.1 Null and Alternative Hypotheses",
+        "Problem Statement": "",
+        "Question": "The mean entry level salary of an employee at a company is $58,000. You believe it is higher for IT professionals in the company. State the null and alternative hypotheses.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.1 Null and Alternative Hypotheses",
+        "Problem Statement": "",
+        "Question": "A sociologist claims the probability that a person picked at random in Times Square in New York City is visiting the area is 0.83. You want to test to see if the proportion is actually less. What is the random variable? Describe in words.",
+        "Image Links": [],
+        "Answer": "The random variable is the proportion of people picked at random in Times Square visiting the city.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.1 Null and Alternative Hypotheses",
+        "Problem Statement": "",
+        "Question": "A sociologist claims the probability that a person picked at random in Times Square in New York City is visiting the area is 0.83. You want to test to see if the claim is correct. State the null and alternative hypotheses.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.1 Null and Alternative Hypotheses",
+        "Problem Statement": "",
+        "Question": "In a population of fish, approximately 42% are female. A test is conducted to see if, in fact, the proportion is less. State the null and alternative hypotheses.",
+        "Image Links": [],
+        "Answer": "a) H 0 : p = 0.42 b) H a : p < 0.42",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.1 Null and Alternative Hypotheses",
+        "Problem Statement": "",
+        "Question": "Suppose that a previous study stated that the mean time spent in jail by a first-time convicted burglar is 2.5 years. A revised study was then done to see if the mean time has increased. A random sample of 26 first-time convicted burglars in a recent year was picked. The mean length of time in jail from the survey was 3 years with a standard deviation of 1.8 years. Suppose that it is somehow known that the population standard deviation is 1.5. If you were conducting a hypothesis test to determine if the mean length of jail time has increased, what would the null and alternative hypotheses be? The distribution of the population is normal. a) H 0 : ________ b) H a : ________",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.1 Null and Alternative Hypotheses",
+        "Problem Statement": "",
+        "Question": "A random survey of 75 people with student loans revealed that the mean length of time in repayment is 17.4 years with a standard deviation of 6.3 years. If you were conducting a hypothesis test to determine if the population mean time in repayment could likely be 15 years, what would the null and alternative hypotheses be? a) H 0 : __________ b) H a : __________",
+        "Image Links": [],
+        "Answer": "a) H 0 : \u03bc = 15 b) H a : \u03bc \u2260 15",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.1 Null and Alternative Hypotheses",
+        "Problem Statement": "",
+        "Question": "The National Institute of Mental Health published an article stating that in any one-year period, approximately 9.5% of American adults suffer from depression or a depressive illness. Suppose that in a survey of 100 people in a certain town, seven of them suffered from depression or a depressive illness. If you were conducting a hypothesis test to determine if the true proportion of people in that town suffering from depression or a depressive illness is lower than the percent in the general adult American population, what would the null and alternative hypotheses be? a) H 0 : ________ b) H a : ________",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.2 Outcomes and the Type I and Type II Errors",
+        "Problem Statement": "",
+        "Question": "The mean price of mid-sized cars in a region is $32,000. A test is conducted to see if the claim is true. State the Type I and Type II errors in complete sentences.",
+        "Image Links": [],
+        "Answer": "Type I: The mean price of mid-sized cars is $32,000, but we conclude that it is not $32,000. Type II: The mean price of mid-sized cars is not $32,000, but we conclude that it is $32,000.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.2 Outcomes and the Type I and Type II Errors",
+        "Problem Statement": "",
+        "Question": "A sleeping bag is tested to withstand temperatures of -15 \u00b0F. You think the bag cannot stand temperatures that low. State the Type I and Type II errors in complete sentences.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.2 Outcomes and the Type I and Type II Errors",
+        "Problem Statement": "",
+        "Question": "For Exercise 9.12 , what are \u03b1 and \u03b2 in words?",
+        "Image Links": [],
+        "Answer": "\u03b1 = the probability that you think the bag cannot withstand -15 degrees F, when in fact it can \u03b2 = the probability that you think the bag can withstand -15 degrees F, when in fact it cannot",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.2 Outcomes and the Type I and Type II Errors",
+        "Problem Statement": "",
+        "Question": "In words, describe 1 - \u03b2 For Exercise 9.12 .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.2 Outcomes and the Type I and Type II Errors",
+        "Problem Statement": "",
+        "Question": "A group of doctors is deciding whether or not to perform an operation. Suppose the null hypothesis, H 0 , is: the surgical procedure will go well. State the Type I and Type II errors in complete sentences.",
+        "Image Links": [],
+        "Answer": "Type I: The procedure will go well, but the doctors think it will not. Type II: The procedure will not go well, but the doctors think it will.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.2 Outcomes and the Type I and Type II Errors",
+        "Problem Statement": "",
+        "Question": "A group of doctors is deciding whether or not to perform an operation. Suppose the null hypothesis, H 0 , is: the surgical procedure will go well. Which is the error with the greater consequence?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.2 Outcomes and the Type I and Type II Errors",
+        "Problem Statement": "",
+        "Question": "The power of a test is 0.981. What is the probability of a Type II error?",
+        "Image Links": [],
+        "Answer": "0.019",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.2 Outcomes and the Type I and Type II Errors",
+        "Problem Statement": "",
+        "Question": "A group of divers is exploring an old sunken ship. Suppose the null hypothesis, H 0 , is: the sunken ship does not contain buried treasure. State the Type I and Type II errors in complete sentences.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.2 Outcomes and the Type I and Type II Errors",
+        "Problem Statement": "",
+        "Question": "A microbiologist is testing a water sample for E-coli. Suppose the null hypothesis, H 0 , is: the sample does not contain E-coli. The probability that the sample does not contain E-coli, but the microbiologist thinks it does is 0.012. The probability that the sample does contain E-coli, but the microbiologist thinks it does not is 0.002. What is the power of this test?",
+        "Image Links": [],
+        "Answer": "0.998",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.2 Outcomes and the Type I and Type II Errors",
+        "Problem Statement": "",
+        "Question": "A microbiologist is testing a water sample for E-coli. Suppose the null hypothesis, H 0 , is: the sample contains E-coli. Which is the error with the greater consequence?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.3 Probability Distribution Needed for Hypothesis Testing",
+        "Problem Statement": "",
+        "Question": "Which two distributions can you use for hypothesis testing for this chapter?",
+        "Image Links": [],
+        "Answer": "A normal distribution or a Student\u2019s t -distribution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.3 Probability Distribution Needed for Hypothesis Testing",
+        "Problem Statement": "",
+        "Question": "Which distribution do you use when you are testing a population mean and the population standard deviation is known? Assume sample size is large. Assume a normal distribution with n \u2265 30.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.3 Probability Distribution Needed for Hypothesis Testing",
+        "Problem Statement": "",
+        "Question": "Which distribution do you use when the standard deviation is not known and you are testing one population mean? Assume a normal distribution, with n \u2265 30.",
+        "Image Links": [],
+        "Answer": "Use a Student\u2019s t -distribution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.3 Probability Distribution Needed for Hypothesis Testing",
+        "Problem Statement": "",
+        "Question": "A population mean is 13. The sample mean is 12.8, and the sample standard deviation is two. The sample size is 20. What distribution should you use to perform a hypothesis test? Assume the underlying population is normal.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.3 Probability Distribution Needed for Hypothesis Testing",
+        "Problem Statement": "",
+        "Question": "A population has a mean is 25 and a standard deviation of five. The sample mean is 24, and the sample size is 108. What distribution should you use to perform a hypothesis test?",
+        "Image Links": [],
+        "Answer": "a normal distribution for a single population mean",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.3 Probability Distribution Needed for Hypothesis Testing",
+        "Problem Statement": "",
+        "Question": "It is thought that 42% of respondents in a taste test would prefer Brand A . In a particular test of 100 people, 39% preferred Brand A . What distribution should you use to perform a hypothesis test?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.3 Probability Distribution Needed for Hypothesis Testing",
+        "Problem Statement": "",
+        "Question": "You are performing a hypothesis test of a single population mean using a Student\u2019s t -distribution. What must you assume about the distribution of the data?",
+        "Image Links": [],
+        "Answer": "It must be approximately normally distributed.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.3 Probability Distribution Needed for Hypothesis Testing",
+        "Problem Statement": "",
+        "Question": "You are performing a hypothesis test of a single population mean using a Student\u2019s t -distribution. The data are not from a simple random sample. Can you accurately perform the hypothesis test?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.3 Probability Distribution Needed for Hypothesis Testing",
+        "Problem Statement": "",
+        "Question": "You are performing a hypothesis test of a single population proportion. What must be true about the quantities of np and nq ?",
+        "Image Links": [],
+        "Answer": "They must both be greater than five.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.3 Probability Distribution Needed for Hypothesis Testing",
+        "Problem Statement": "",
+        "Question": "You are performing a hypothesis test of a single population proportion. You find out that np is less than five. What must you do to be able to perform a valid hypothesis test?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.3 Probability Distribution Needed for Hypothesis Testing",
+        "Problem Statement": "",
+        "Question": "You are performing a hypothesis test of a single population proportion. The data come from which distribution?",
+        "Image Links": [],
+        "Answer": "binomial distribution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.4 Full Hypothesis Test Examples",
+        "Problem Statement": "",
+        "Question": "Assume H 0 : \u03bc = 9 and H a : \u03bc < 9. Is this a left-tailed, right-tailed, or two-tailed test?",
+        "Image Links": [],
+        "Answer": "This is a left-tailed test.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.4 Full Hypothesis Test Examples",
+        "Problem Statement": "",
+        "Question": "Assume H 0 : \u03bc \u2264 6 and H a : \u03bc > 6. Is this a left-tailed, right-tailed, or two-tailed test?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.4 Full Hypothesis Test Examples",
+        "Problem Statement": "",
+        "Question": "Assume H 0 : p = 0.25 and H a : p \u2260 0.25. Is this a left-tailed, right-tailed, or two-tailed test?",
+        "Image Links": [],
+        "Answer": "This is a two-tailed test.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.4 Full Hypothesis Test Examples",
+        "Problem Statement": "",
+        "Question": "Draw the general graph of a left-tailed test.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.4 Full Hypothesis Test Examples",
+        "Problem Statement": "",
+        "Question": "Draw the graph of a two-tailed test.",
+        "Image Links": [],
+        "Answer": "Figure 9.12",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e2f425081d0fcad4f9af35afd8549e77a32f5a38"
+        ]
+    },
+    {
+        "Topic": "9.4 Full Hypothesis Test Examples",
+        "Problem Statement": "",
+        "Question": "A bottle of water is labeled as containing 16 fluid ounces of water. You believe it is less than that. What type of test would you use?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.4 Full Hypothesis Test Examples",
+        "Problem Statement": "",
+        "Question": "Your friend claims that their mean golf score is 63. You want to show that it is higher than that. What type of test would you use?",
+        "Image Links": [],
+        "Answer": "a right-tailed test",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.4 Full Hypothesis Test Examples",
+        "Problem Statement": "",
+        "Question": "A bathroom scale claims to be able to identify correctly any weight within a pound. You think that it cannot be that accurate. What type of test would you use?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.4 Full Hypothesis Test Examples",
+        "Problem Statement": "",
+        "Question": "You flip a coin and record whether it shows heads or tails. You know the probability of getting heads is 50%, but you think it is less for this particular coin. What type of test would you use?",
+        "Image Links": [],
+        "Answer": "a left-tailed test",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.4 Full Hypothesis Test Examples",
+        "Problem Statement": "",
+        "Question": "If the alternative hypothesis has a not equals ( \u2260 ) symbol, you know to use which type of test?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.4 Full Hypothesis Test Examples",
+        "Problem Statement": "",
+        "Question": "Assume the null hypothesis states that the mean is at least 18. Is this a left-tailed, right-tailed, or two-tailed test?",
+        "Image Links": [],
+        "Answer": "This is a left-tailed test.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.4 Full Hypothesis Test Examples",
+        "Problem Statement": "",
+        "Question": "Assume the null hypothesis states that the mean is at most 12. Is this a left-tailed, right-tailed, or two-tailed test?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "9.4 Full Hypothesis Test Examples",
+        "Problem Statement": "",
+        "Question": "Assume the null hypothesis states that the mean is equal to 88. The alternative hypothesis states that the mean is not equal to 88. Is this a left-tailed, right-tailed, or two-tailed test?",
+        "Image Links": [],
+        "Answer": "This is a two-tailed test.",
+        "Answer Image Links": []
+    }
+]

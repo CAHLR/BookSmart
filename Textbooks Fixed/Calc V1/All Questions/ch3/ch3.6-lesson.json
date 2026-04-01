@@ -1,0 +1,370 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, given $$y = f ( u )$$ and $$u = g ( x ) ,$$ find $$\\frac{d y}{d x}$$ by using Leibniz\u2019s notation for the chain rule: $$\\frac{d y}{d x} = \\frac{d y}{d u} \\frac{d u}{d x} .$$",
+        "Question": "$$y = 3 u - 6 , u = 2 x^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, given $$y = f ( u )$$ and $$u = g ( x ) ,$$ find $$\\frac{d y}{d x}$$ by using Leibniz\u2019s notation for the chain rule: $$\\frac{d y}{d x} = \\frac{d y}{d u} \\frac{d u}{d x} .$$",
+        "Question": "$$y = 6 u^{3} , u = 7 x - 4$$",
+        "Image Links": [],
+        "Answer": "$$18 u^{2} \\cdotp 7 = 18 ( 7 x - 4 )^{2} \\cdotp 7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, given $$y = f ( u )$$ and $$u = g ( x ) ,$$ find $$\\frac{d y}{d x}$$ by using Leibniz\u2019s notation for the chain rule: $$\\frac{d y}{d x} = \\frac{d y}{d u} \\frac{d u}{d x} .$$",
+        "Question": "$$y = \\text{sin} u , u = 5 x - 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, given $$y = f ( u )$$ and $$u = g ( x ) ,$$ find $$\\frac{d y}{d x}$$ by using Leibniz\u2019s notation for the chain rule: $$\\frac{d y}{d x} = \\frac{d y}{d u} \\frac{d u}{d x} .$$",
+        "Question": "$$y = \\text{cos} u , u = \\frac{\\text{unicode[:-]} x}{8}$$",
+        "Image Links": [],
+        "Answer": "$$\\text{unicode[:-]} \\text{sin} u \\cdotp \\frac{-1}{8} = \\text{unicode[:-]} \\text{sin} ( \\frac{\\text{unicode[:-]} x}{8} ) \\cdotp \\frac{-1}{8}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, given $$y = f ( u )$$ and $$u = g ( x ) ,$$ find $$\\frac{d y}{d x}$$ by using Leibniz\u2019s notation for the chain rule: $$\\frac{d y}{d x} = \\frac{d y}{d u} \\frac{d u}{d x} .$$",
+        "Question": "$$y = \\text{tan} u , u = 9 x + 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, given $$y = f ( u )$$ and $$u = g ( x ) ,$$ find $$\\frac{d y}{d x}$$ by using Leibniz\u2019s notation for the chain rule: $$\\frac{d y}{d x} = \\frac{d y}{d u} \\frac{d u}{d x} .$$",
+        "Question": "$$y = \\sqrt{4 u + 3} , u = x^{2} - 6 x$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{8 x - 24}{2 \\sqrt{4 u + 3}} = \\frac{4 x - 12}{\\sqrt{4 x^{2} - 24 x + 3}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following exercises, a) decompose each function in the form $$y = f ( u )$$ and $$u = g ( x ) ,$$ and b) find $$\\frac{d y}{d x}$$ as a function of $$x .$$",
+        "Question": "$$y = ( 3 x - 2 )^{6}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following exercises, a) decompose each function in the form $$y = f ( u )$$ and $$u = g ( x ) ,$$ and b) find $$\\frac{d y}{d x}$$ as a function of $$x .$$",
+        "Question": "$$y = ( 3 x^{2} + 1 )^{3}$$",
+        "Image Links": [],
+        "Answer": "a. $$u = 3 x^{2} + 1 ;$$ b. $$18 x ( 3 x^{2} + 1 )^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following exercises, a) decompose each function in the form $$y = f ( u )$$ and $$u = g ( x ) ,$$ and b) find $$\\frac{d y}{d x}$$ as a function of $$x .$$",
+        "Question": "$$y = \\text{sin}^{5} ( x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following exercises, a) decompose each function in the form $$y = f ( u )$$ and $$u = g ( x ) ,$$ and b) find $$\\frac{d y}{d x}$$ as a function of $$x .$$",
+        "Question": "$$y = ( \\frac{x}{7} + \\frac{7}{x} )^{7}$$",
+        "Image Links": [],
+        "Answer": "a. $$f ( u ) = u^{7} , u = \\frac{x}{7} + \\frac{7}{x} ;$$ b. $$7 ( \\frac{x}{7} + \\frac{7}{x} )^{6} \\cdotp ( \\frac{1}{7} - \\frac{7}{x^{2}} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following exercises, a) decompose each function in the form $$y = f ( u )$$ and $$u = g ( x ) ,$$ and b) find $$\\frac{d y}{d x}$$ as a function of $$x .$$",
+        "Question": "$$y = \\text{tan} ( \\text{sec} x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following exercises, a) decompose each function in the form $$y = f ( u )$$ and $$u = g ( x ) ,$$ and b) find $$\\frac{d y}{d x}$$ as a function of $$x .$$",
+        "Question": "$$y = \\text{csc} ( \\pi x + 1 )$$",
+        "Image Links": [],
+        "Answer": "a. $$f ( u ) = \\text{csc} u , u = \\pi x + 1 ;$$ b. $$\\text{unicode[:-]} \\pi \\text{csc} ( \\pi x + 1 ) \\cdotp \\text{cot} ( \\pi x + 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following exercises, a) decompose each function in the form $$y = f ( u )$$ and $$u = g ( x ) ,$$ and b) find $$\\frac{d y}{d x}$$ as a function of $$x .$$",
+        "Question": "$$y = \\text{cot}^{2} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following exercises, a) decompose each function in the form $$y = f ( u )$$ and $$u = g ( x ) ,$$ and b) find $$\\frac{d y}{d x}$$ as a function of $$x .$$",
+        "Question": "$$y = -6 ( \\sin{} \\  x )^{- 3}$$",
+        "Image Links": [],
+        "Answer": "a. $$f ( u ) = -6 u^{-3} , u = \\text{sin} x ,$$ b. $$18 ( \\text{sin} )^{-4} x \\cdotp \\text{cos} x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$\\frac{d y}{d x}$$ for each function.",
+        "Question": "$$y = ( 3 x^{2} + 3 x - 1 )^{4}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$\\frac{d y}{d x}$$ for each function.",
+        "Question": "$$y = ( 5 - 2 x )^{-2}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{4}{( 5 - 2 x )^{3}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$\\frac{d y}{d x}$$ for each function.",
+        "Question": "$$y = \\text{cos}^{3} ( \\pi x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$\\frac{d y}{d x}$$ for each function.",
+        "Question": "$$y = ( 2 x^{3} - x^{2} + 6 x + 1 )^{3}$$",
+        "Image Links": [],
+        "Answer": "$$6 ( 2 x^{3} - x^{2} + 6 x + 1 )^{2} ( 3 x^{2} - x + 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$\\frac{d y}{d x}$$ for each function.",
+        "Question": "$$y = \\frac{1}{\\text{sin}^{2} ( x )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$\\frac{d y}{d x}$$ for each function.",
+        "Question": "$$y = ( \\text{tan} x + \\text{sin} x )^{-3}$$",
+        "Image Links": [],
+        "Answer": "$$-3 ( \\text{tan} x + \\text{sin} x )^{-4} \\cdotp ( \\text{sec}^{2} x + \\text{cos} x )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$\\frac{d y}{d x}$$ for each function.",
+        "Question": "$$y = x^{2} \\text{cos}^{4} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$\\frac{d y}{d x}$$ for each function.",
+        "Question": "$$y = \\text{sin} ( \\text{cos} 7 x )$$",
+        "Image Links": [],
+        "Answer": "$$-7 \\text{cos} ( \\text{cos} 7 x ) \\cdotp \\text{sin} 7 x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$\\frac{d y}{d x}$$ for each function.",
+        "Question": "$$y = \\sqrt{6 + \\text{sec} \\pi x^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$\\frac{d y}{d x}$$ for each function.",
+        "Question": "$$y = \\text{cot}^{3} ( 4 x + 1 )$$",
+        "Image Links": [],
+        "Answer": "$$-12 \\text{cot}^{2} ( 4 x + 1 ) \\cdotp \\text{csc}^{2} ( 4 x + 1 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$\\frac{d y}{d x}$$ for each function.",
+        "Question": "Let $$y = [ f ( x ) ]^{2}$$ and suppose that $$f^{\\prime} ( 1 ) = 4$$ and $$\\frac{d y}{d x} = 10$$ for $$x = 1 .$$ Find $$f ( 1 ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$\\frac{d y}{d x}$$ for each function.",
+        "Question": "Let $$y = ( f ( x ) + 5 x^{2} )^{4}$$ and suppose that $$f ( -1 ) = -4$$ and $$\\frac{d y}{d x} = 3$$ when $$x = -1 .$$ Find $$f^{\\prime} ( -1 )$$",
+        "Image Links": [],
+        "Answer": "$$10 \\frac{3}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$\\frac{d y}{d x}$$ for each function.",
+        "Question": "Let $$y = ( f ( u ) + 3 x )^{2}$$ and $$u = x^{3} - 2 x .$$ If $$f ( 4 ) = 6$$ and $$\\frac{d y}{d x} = 18$$ when $$x = 2 ,$$ find $$f^{\\prime} ( 4 ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$\\frac{d y}{d x}$$ for each function.",
+        "Question": "[T] Find the equation of the tangent line to $$y = \\text{unicode[:-]} \\text{sin} ( \\frac{x}{2} )$$ at the origin. Use a calculator to graph the function and the tangent line together.",
+        "Image Links": [],
+        "Answer": "$$y = \\frac{-1}{2} x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$\\frac{d y}{d x}$$ for each function.",
+        "Question": "[T] Find the equation of the tangent line to $$y = ( 3 x + \\frac{1}{x} )^{2}$$ at the point $$( 1 , 16 ) .$$ Use a calculator to graph the function and the tangent line together.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$\\frac{d y}{d x}$$ for each function.",
+        "Question": "Find the $$x$$ -coordinates at which the tangent line to $$y = ( x - \\frac{6}{x} )^{8}$$ is horizontal.",
+        "Image Links": [],
+        "Answer": "$$x = \\pm \\sqrt{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, find $$\\frac{d y}{d x}$$ for each function.",
+        "Question": "[T] Find an equation of the line that is normal to $$g ( \\theta ) = \\text{sin}^{2} ( \\pi \\theta )$$ at the point $$( \\frac{1}{4} , \\frac{1}{2} ) .$$ Use a calculator to graph the function and the normal line together.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the information in the following table to find $$h^{\\prime} ( a )$$ at the given value for $$a .$$ \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\n$$x$$ & $$f ( x )$$ & $$f \\prime ( x )$$ & $$g ( x )$$ & $$g \\prime ( x )$$ \\\\ \\hline\n0 & 2 & 5 & 0 & 2 \\\\ \\hline\n1 & 1 & -2 & 3 & 0 \\\\ \\hline\n2 & 4 & 4 & 1 & -1 \\\\ \\hline\n3 & 3 & -3 & 2 & 3 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "$$h ( x ) = f ( g ( x ) ) ; a = 0$$",
+        "Image Links": [],
+        "Answer": "10",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the information in the following table to find $$h^{\\prime} ( a )$$ at the given value for $$a .$$ \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\n$$x$$ & $$f ( x )$$ & $$f \\prime ( x )$$ & $$g ( x )$$ & $$g \\prime ( x )$$ \\\\ \\hline\n0 & 2 & 5 & 0 & 2 \\\\ \\hline\n1 & 1 & -2 & 3 & 0 \\\\ \\hline\n2 & 4 & 4 & 1 & -1 \\\\ \\hline\n3 & 3 & -3 & 2 & 3 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "$$h ( x ) = g ( f ( x ) ) ; a = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the information in the following table to find $$h^{\\prime} ( a )$$ at the given value for $$a .$$ \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\n$$x$$ & $$f ( x )$$ & $$f \\prime ( x )$$ & $$g ( x )$$ & $$g \\prime ( x )$$ \\\\ \\hline\n0 & 2 & 5 & 0 & 2 \\\\ \\hline\n1 & 1 & -2 & 3 & 0 \\\\ \\hline\n2 & 4 & 4 & 1 & -1 \\\\ \\hline\n3 & 3 & -3 & 2 & 3 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "$$h ( x ) = ( x^{4} + g ( x ) )^{-2} ; a = 1$$",
+        "Image Links": [],
+        "Answer": "$$- \\frac{1}{8}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the information in the following table to find $$h^{\\prime} ( a )$$ at the given value for $$a .$$ \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\n$$x$$ & $$f ( x )$$ & $$f \\prime ( x )$$ & $$g ( x )$$ & $$g \\prime ( x )$$ \\\\ \\hline\n0 & 2 & 5 & 0 & 2 \\\\ \\hline\n1 & 1 & -2 & 3 & 0 \\\\ \\hline\n2 & 4 & 4 & 1 & -1 \\\\ \\hline\n3 & 3 & -3 & 2 & 3 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "$$h ( x ) = ( \\frac{f ( x )}{g ( x )} )^{2} ; a = 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the information in the following table to find $$h^{\\prime} ( a )$$ at the given value for $$a .$$ \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\n$$x$$ & $$f ( x )$$ & $$f \\prime ( x )$$ & $$g ( x )$$ & $$g \\prime ( x )$$ \\\\ \\hline\n0 & 2 & 5 & 0 & 2 \\\\ \\hline\n1 & 1 & -2 & 3 & 0 \\\\ \\hline\n2 & 4 & 4 & 1 & -1 \\\\ \\hline\n3 & 3 & -3 & 2 & 3 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "$$h ( x ) = f ( x + f ( x ) ) ; a = 1$$",
+        "Image Links": [],
+        "Answer": "$$-4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the information in the following table to find $$h^{\\prime} ( a )$$ at the given value for $$a .$$ \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\n$$x$$ & $$f ( x )$$ & $$f \\prime ( x )$$ & $$g ( x )$$ & $$g \\prime ( x )$$ \\\\ \\hline\n0 & 2 & 5 & 0 & 2 \\\\ \\hline\n1 & 1 & -2 & 3 & 0 \\\\ \\hline\n2 & 4 & 4 & 1 & -1 \\\\ \\hline\n3 & 3 & -3 & 2 & 3 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "$$h ( x ) = ( 1 + g ( x ) )^{3} ; a = 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the information in the following table to find $$h^{\\prime} ( a )$$ at the given value for $$a .$$ \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\n$$x$$ & $$f ( x )$$ & $$f \\prime ( x )$$ & $$g ( x )$$ & $$g \\prime ( x )$$ \\\\ \\hline\n0 & 2 & 5 & 0 & 2 \\\\ \\hline\n1 & 1 & -2 & 3 & 0 \\\\ \\hline\n2 & 4 & 4 & 1 & -1 \\\\ \\hline\n3 & 3 & -3 & 2 & 3 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "$$h ( x ) = g ( 2 + f ( x^{2} ) ) ; a = 1$$",
+        "Image Links": [],
+        "Answer": "$$-12$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the information in the following table to find $$h^{\\prime} ( a )$$ at the given value for $$a .$$ \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\n$$x$$ & $$f ( x )$$ & $$f \\prime ( x )$$ & $$g ( x )$$ & $$g \\prime ( x )$$ \\\\ \\hline\n0 & 2 & 5 & 0 & 2 \\\\ \\hline\n1 & 1 & -2 & 3 & 0 \\\\ \\hline\n2 & 4 & 4 & 1 & -1 \\\\ \\hline\n3 & 3 & -3 & 2 & 3 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "$$h ( x ) = f ( g ( \\text{sin} x ) ) ; a = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the information in the following table to find $$h^{\\prime} ( a )$$ at the given value for $$a .$$ \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\n$$x$$ & $$f ( x )$$ & $$f \\prime ( x )$$ & $$g ( x )$$ & $$g \\prime ( x )$$ \\\\ \\hline\n0 & 2 & 5 & 0 & 2 \\\\ \\hline\n1 & 1 & -2 & 3 & 0 \\\\ \\hline\n2 & 4 & 4 & 1 & -1 \\\\ \\hline\n3 & 3 & -3 & 2 & 3 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "[T] The position function of a freight train is given by $$s ( t ) = 100 ( t + 1 )^{-2} ,$$ with $$s$$ in meters and $$t$$ in seconds. At time $$t = 6$$ s, find the train\u2019s velocity and acceleration. Using a. and b. is the train speeding up or slowing down?",
+        "Image Links": [],
+        "Answer": "a. $$- \\frac{200}{343}$$ m/s, b. $$\\frac{600}{2401}$$ m/s 2 , c. The train is slowing down since velocity and acceleration have opposite signs.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the information in the following table to find $$h^{\\prime} ( a )$$ at the given value for $$a .$$ \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\n$$x$$ & $$f ( x )$$ & $$f \\prime ( x )$$ & $$g ( x )$$ & $$g \\prime ( x )$$ \\\\ \\hline\n0 & 2 & 5 & 0 & 2 \\\\ \\hline\n1 & 1 & -2 & 3 & 0 \\\\ \\hline\n2 & 4 & 4 & 1 & -1 \\\\ \\hline\n3 & 3 & -3 & 2 & 3 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "[T] A mass hanging from a vertical spring is in simple harmonic motion as given by the following position function, where $$t$$ is measured in seconds and $$s$$ is in inches: $$s ( t ) = -3 \\text{cos} ( \\pi t + \\frac{\\pi}{4} ) .$$ Determine the position of the spring at $$t = 1.5$$ s. Find the velocity of the spring at $$t = 1.5$$ s.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the information in the following table to find $$h^{\\prime} ( a )$$ at the given value for $$a .$$ \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\n$$x$$ & $$f ( x )$$ & $$f \\prime ( x )$$ & $$g ( x )$$ & $$g \\prime ( x )$$ \\\\ \\hline\n0 & 2 & 5 & 0 & 2 \\\\ \\hline\n1 & 1 & -2 & 3 & 0 \\\\ \\hline\n2 & 4 & 4 & 1 & -1 \\\\ \\hline\n3 & 3 & -3 & 2 & 3 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "[T] The total cost to produce $$x$$ boxes of Thin Mint Girl Scout cookies is $$C$$ dollars, where $$C = 0.0001 x^{3} - 0.02 x^{2} + 3 x + 300 .$$ In $$t$$ weeks production is estimated to be $$x = 1600 + 100 t$$ boxes. Find the marginal cost $$C^{\\prime} ( x ) .$$ Use Leibniz\u2019s notation for the chain rule, $$\\frac{d C}{d t} = \\frac{d C}{d x} \\cdotp \\frac{d x}{d t} ,$$ to find the rate with respect to time $$t$$ that the cost is changing. Use b. to determine how fast costs are increasing when $$t = 2$$ weeks. Include units with the answer.",
+        "Image Links": [],
+        "Answer": "a. $$C^{\\prime} ( x ) = 0.0003 x^{2} - 0.04 x + 3$$ b. $$\\frac{d C}{d t} = 100 \\cdotp ( 0.0003 x^{2} - 0.04 x + 3 )$$ c. Approximately $90,300 per week",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the information in the following table to find $$h^{\\prime} ( a )$$ at the given value for $$a .$$ \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\n$$x$$ & $$f ( x )$$ & $$f \\prime ( x )$$ & $$g ( x )$$ & $$g \\prime ( x )$$ \\\\ \\hline\n0 & 2 & 5 & 0 & 2 \\\\ \\hline\n1 & 1 & -2 & 3 & 0 \\\\ \\hline\n2 & 4 & 4 & 1 & -1 \\\\ \\hline\n3 & 3 & -3 & 2 & 3 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "[T] The formula for the area of a circle is $$A = \\pi r^{2} ,$$ where $$r$$ is the radius of the circle. Suppose a circle is expanding, meaning that both the area $$A$$ and the radius $$r$$ (in inches) are expanding. Suppose $$r = 2 - \\frac{100}{( t + 7 )^{2}}$$ where $$t$$ is time in seconds. Use the chain rule $$\\frac{d A}{d t} = \\frac{d A}{d r} \\cdotp \\frac{d r}{d t}$$ to find the rate at which the area is expanding. Use a. to find the rate at which the area is expanding at $$t = 4$$ s.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the information in the following table to find $$h^{\\prime} ( a )$$ at the given value for $$a .$$ \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\n$$x$$ & $$f ( x )$$ & $$f \\prime ( x )$$ & $$g ( x )$$ & $$g \\prime ( x )$$ \\\\ \\hline\n0 & 2 & 5 & 0 & 2 \\\\ \\hline\n1 & 1 & -2 & 3 & 0 \\\\ \\hline\n2 & 4 & 4 & 1 & -1 \\\\ \\hline\n3 & 3 & -3 & 2 & 3 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "[T] The formula for the volume of a sphere is $$S = \\frac{4}{3} \\pi r^{3} ,$$ where $$r$$ (in feet) is the radius of the sphere. Suppose a spherical snowball is melting in the sun. Suppose $$r = \\frac{1}{( t + 1 )^{2}} - \\frac{1}{12}$$ where $$t$$ is time in minutes. Use the chain rule $$\\frac{d S}{d t} = \\frac{d S}{d r} \\cdotp \\frac{d r}{d t}$$ to find the rate at which the snowball is melting. Use a. to find the rate at which the volume is changing at $$t = 1$$ min.",
+        "Image Links": [],
+        "Answer": "a. $$\\frac{d S}{d t} = - \\frac{8 \\pi r^{2}}{( t + 1 )^{3}}$$ b. The volume is decreasing at a rate of $$- \\frac{\\pi}{36}$$ ft 3 /min.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the information in the following table to find $$h^{\\prime} ( a )$$ at the given value for $$a .$$ \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\n$$x$$ & $$f ( x )$$ & $$f \\prime ( x )$$ & $$g ( x )$$ & $$g \\prime ( x )$$ \\\\ \\hline\n0 & 2 & 5 & 0 & 2 \\\\ \\hline\n1 & 1 & -2 & 3 & 0 \\\\ \\hline\n2 & 4 & 4 & 1 & -1 \\\\ \\hline\n3 & 3 & -3 & 2 & 3 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "[T] The daily temperature in degrees Fahrenheit of Phoenix in the summer can be modeled by the function $$T ( x ) = 94 - 10 \\text{cos} [ \\frac{\\pi}{12} ( x - 2 ) ] ,$$ where $$x$$ is hours after midnight. Find the rate at which the temperature is changing at 4 p.m.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, use the information in the following table to find $$h^{\\prime} ( a )$$ at the given value for $$a .$$ \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\n$$x$$ & $$f ( x )$$ & $$f \\prime ( x )$$ & $$g ( x )$$ & $$g \\prime ( x )$$ \\\\ \\hline\n0 & 2 & 5 & 0 & 2 \\\\ \\hline\n1 & 1 & -2 & 3 & 0 \\\\ \\hline\n2 & 4 & 4 & 1 & -1 \\\\ \\hline\n3 & 3 & -3 & 2 & 3 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Question": "[T] The depth (in feet) of water at a dock changes with the rise and fall of tides. The depth is modeled by the function $$D ( t ) = 5 \\text{sin} ( \\frac{\\pi}{6} t - \\frac{7 \\pi}{6} ) + 8 ,$$ where $$t$$ is the number of hours after midnight. Find the rate at which the depth is changing at 6 a.m.",
+        "Image Links": [],
+        "Answer": "$$\\tilde{2.3}$$ ft/hr",
+        "Answer Image Links": []
+    }
+]

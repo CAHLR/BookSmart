@@ -1,0 +1,122 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.1Explain what is meant by the term real accounts (also known as permanent accounts).",
+        "Image Links": [],
+        "Answer": "Real/permanent accounts are those that carry over from one period to the next, with a continuing balance in the account. Examples are asset accounts, liability accounts, and equity accounts. In contrast, revenue accounts, expense accounts, and dividend accounts are not real/permanent accounts.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.1Explain what is meant by the term nominal accounts (also known as temporary accounts).",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.1What is the purpose of the closing entries?",
+        "Image Links": [],
+        "Answer": "Closing entries are used to transfer the contents of the temporary accounts into the permanent account, Retained Earnings, which resets the temporary balances to zero, enabling tracking of revenues, expenses, and dividends in the next period.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.1What would happen if the company failed to make closing entries at the end of the year?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.1Which of these account types (Assets, Liabilities, Equity, Revenue, Expense, Dividend) are credited in the closing entries? Why?",
+        "Image Links": [],
+        "Answer": "Expense accounts and dividend accounts are credited during closing. This is because closing requires that the account balances be cleared, to prepare for the next accounting period.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.1Which of these account types (Assets, Liabilities, Equity, Revenue, Expense, Dividend) are debited in the closing entries? Why?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.1The account called Income Summary is often used in the closing entries. Explain this account\u2019s purpose and how it is used.",
+        "Image Links": [],
+        "Answer": "Income Summary is a super-temporary account that is only used for closing. The revenue accounts are closed by a debit to each account and a corresponding credit to Income Summary. Then the expense accounts are closed by a credit to each account and a corresponding debit to Income Summary. Finally, the balance in Income Summary is cleared by an entry that transfers its balance to Retained Earnings. Thus, it is used in three journal entries, as part of the closing process, and has no other purpose in the accounting records.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.1What are the four entries required for closing, assuming that the Income Summary account is used?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.1After the first two closing entries are made, Income Summary has a credit balance of $125,500. What does this indicate about the company\u2019s net income or loss?",
+        "Image Links": [],
+        "Answer": "The fact that Income Summary has a credit balance (of any size) after the first two closing entries are made indicates that the company made a net profit for the period. In this case, a credit of $125,500 reflects the fact that the company earned net income of $125,500 for the period.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.1After the first two closing entries are made, Income Summary has a debit balance of $22,750. What does this indicate about the company\u2019s net income or loss?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.2What account types are included in a post-closing trial balance?",
+        "Image Links": [],
+        "Answer": "The post-closing trial balance will include only the permanent/real accounts, which are assets, liabilities, and equity. All of the other accounts (temporary/nominal accounts: revenue, expense, dividend) would have been cleared to zero by the closing entries.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.2Which of the basic financial statements can be directly tied to the post-closing trial balance? Why is this so?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.3Describe the calculation required to compute working capital. Explain the significance.",
+        "Image Links": [],
+        "Answer": "Working capital is calculated by subtracting current liabilities from current assets. The result indicates how well the company can pay bills as they come due, which is sometimes referred to as the company\u2019s liquidity position.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.3Describe the calculation required to compute the current ratio. Explain the significance.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO5.4Describe the progression of the three trial balances that a company would have during the period, and explain the difference between the three.",
+        "Image Links": [],
+        "Answer": "(1) First is the Unadjusted Trial Balance, which summarizes the account balances of all accounts in the ledger, before period-end adjustments . (2) Next, the Adjusted Trial Balance summarizes the account balances of all accounts in the ledger, after adjusting entries have been posted. (3) Finally, the Post-Closing Trial Balance summarizes the account balances of all accounts in the ledger, after closing entries have been posted.",
+        "Answer Image Links": []
+    }
+]

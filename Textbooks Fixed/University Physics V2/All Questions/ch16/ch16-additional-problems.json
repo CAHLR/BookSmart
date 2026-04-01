@@ -1,0 +1,138 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "In a region of space, the electric field is pointed along the x -axis, but its magnitude changes as described by $$\\left .\\begin{matrix}{a}E_{x} = ( 10 \\text{N/C} ) \\text{sin} ( 20 x - 500 t ) \\\\ E_{y} = E_{z} = 0\\end{matrix}\\right .$$ where t is in nanoseconds and x is in cm. Find the displacement current through a circle of radius 3 cm in the $$x = 0$$ plane at $$t = 0$$ .",
+        "Image Links": [],
+        "Answer": "$$I_{\\text{d}} = ( 10 \\text{N/C} ) ( 8.845 \\times 10^{-12} \\text{C}^{2} \\text{/N} \\cdotp \\text{m}^{2} ) \\text{pi} ( 0.03 \\text{m} )^{2} ( 5000 \\frac{1}{\\text{s}} ) = 1.25 \\times 10^{-9} \\text{A}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A microwave oven uses electromagnetic waves of frequency $$f = 2.45 \\times 10^{9} \\text{Hz}$$ to heat foods. The waves reflect from the inside walls of the oven to produce an interference pattern of standing waves whose antinodes are hot spots that can leave observable pit marks in some foods. The pit marks are measured to be 6.0 cm apart. Use the method employed by Heinrich Hertz to calculate the speed of electromagnetic waves this implies.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the Appendix D for the next two exercises",
+        "Question": "Galileo proposed measuring the speed of light by uncovering a lantern and having an assistant a known distance away uncover his lantern when he saw the light from Galileo\u2019s lantern, and timing the delay. How far away must the assistant be for the delay to equal the human reaction time of about 0.25 s?",
+        "Image Links": [],
+        "Answer": "$$3.75 \\times 10^{7} \\text{km}$$ , which is much greater than Earth\u2019s circumference",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the Appendix D for the next two exercises",
+        "Question": "Show that the wave equation in one dimension $$\\frac{\\partial^{2} f}{\\partial x^{2}} = \\frac{1}{v^{2}} \\frac{\\partial^{2} f}{\\partial t^{2}}$$ is satisfied by any doubly differentiable function of either the form $$f ( x - v t )$$ or $$f ( x + v t )$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the Appendix D for the next two exercises",
+        "Question": "On its highest power setting, a microwave oven increases the temperature of 0.400 kg of spaghetti by $$45.0 \\text{\u00b0} \\text{C}$$ in 120 s. (a) What was the rate of energy absorption by the spaghetti, given that its specific heat is $$3.76 \\times 10^{3} \\text{J/kg} \\cdotp \\text{\u00b0} \\text{C}$$ ? Assume the spaghetti is perfectly absorbing. (b) Find the average intensity of the microwaves, given that they are absorbed over a circular area 20.0 cm in diameter. (c) What is the peak electric field strength of the microwave? (d) What is its peak magnetic field strength?",
+        "Image Links": [],
+        "Answer": "a. 564 W; b. $$1.80 \\times 10^{4} \\text{W/m}^{2}$$ ; c. $$3.68 \\times 10^{3} \\text{V/m}$$ ; d. $$1.23 \\times 10^{-5} \\text{T}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the Appendix D for the next two exercises",
+        "Question": "A certain microwave oven projects 1.00 kW of microwaves onto a 30-cm-by-40-cm area. (a) What is its intensity in $$\\text{W/m}^{2}$$ ? (b) Calculate the maximum electric field strength $$E_{0}$$ in these waves. (c) What is the maximum magnetic field strength $$B_{0}$$ ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the Appendix D for the next two exercises",
+        "Question": "Electromagnetic radiation from a 5.00-mW laser is concentrated on a $$1.00 \\text{-mm}^{2}$$ area. (a) What is the intensity in $$\\text{W/m}^{2}$$ ? (b) Suppose a 2.00-nC electric charge is in the beam. What is the maximum electric force it experiences? (c) If the electric charge moves at 400 m/s, what maximum magnetic force can it feel?",
+        "Image Links": [],
+        "Answer": "a. $$5.00 \\times 10^{3} \\text{W/m}^{2}$$ ; b. $$3.88 \\times 10^{\\text{unicode[:-]} 6} \\text{N}$$ ; c. $$5.18 \\times 10^{\\text{unicode[:-]} 12} \\text{N}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the Appendix D for the next two exercises",
+        "Question": "A 200-turn flat coil of wire 30.0 cm in diameter acts as an antenna for FM radio at a frequency of 100 MHz. The magnetic field of the incoming electromagnetic wave is perpendicular to the coil and has a maximum strength of $$1.00 \\times 10^{-12} \\text{T}$$ . (a) What power is incident on the coil? (b) What average emf is induced in the coil over one-fourth of a cycle? (c) If the radio receiver has an inductance of $$2.50 \\mu \\text{H}$$ , what capacitance must it have to resonate at 100 MHz?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the Appendix D for the next two exercises",
+        "Question": "Suppose a source of electromagnetic waves radiates uniformly in all directions in empty space where there are no absorption or interference effects. (a) Show that the intensity is inversely proportional to $$r^{2}$$ , the distance from the source squared. (b) Show that the magnitudes of the electric and magnetic fields are inversely proportional to r .",
+        "Image Links": [],
+        "Answer": "a. $$I = \\frac{P}{A} = \\frac{P}{4 \\pi r^{2}} \\propto \\frac{1}{r^{2}}$$ ; b. $$I \\propto E_{0}^{2} , B_{0}^{2} \\Rightarrow E_{0}^{2} , B_{0}^{2} \\propto \\frac{1}{r^{2}} \\Rightarrow E_{0} , B_{0} \\propto \\frac{1}{r}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the Appendix D for the next two exercises",
+        "Question": "A radio station broadcasts its radio waves with a power of 50,000 W. What would be the intensity of this signal if it is received on a planet orbiting Proxima Centuri, the closest star to our Sun, at 4.243 ly away?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the Appendix D for the next two exercises",
+        "Question": "The Poynting vector describes a flow of energy whenever electric and magnetic fields are present. Consider a long cylindrical wire of radius r with a current I in the wire, with resistance R and voltage V . From the expressions for the electric field along the wire and the magnetic field around the wire, obtain the magnitude and direction of the Poynting vector at the surface. Show that it accounts for an energy flow into the wire from the fields around it that accounts for the Ohmic heating of the wire.",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{aa}\\text{Power into the wire} & = \\int \\mathbf{\\vec{S}} \\cdotp d \\mathbf{\\vec{A}} = ( \\frac{1}{\\mu_{0}} E B ) ( 2 \\pi r L ) \\\\  & = \\frac{1}{\\mu_{0}} ( \\frac{V}{L} ) ( \\frac{\\mu_{0} i}{2 \\pi r} ) ( 2 \\pi r L ) = i V = i^{2} R\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the Appendix D for the next two exercises",
+        "Question": "The Sun\u2019s energy strikes Earth at an intensity of $$1.37 \\text{kW/m}^{2}$$ . Assume as a model approximation that all of the light is absorbed. (Actually, about 30% of the light intensity is reflected out into space.) (a) Calculate the total force that the Sun\u2019s radiation exerts on Earth. (b) Compare this to the force of gravity between the Sun and Earth. Earth\u2019s mass is $$5.972 \\times 10^{24} \\text{kg} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the Appendix D for the next two exercises",
+        "Question": "If a Lightsail spacecraft were sent on a Mars mission, by what ratio of the final force to the initial force would its propulsion be reduced when it reached Mars?",
+        "Image Links": [],
+        "Answer": "0.431",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the Appendix D for the next two exercises",
+        "Question": "Lunar astronauts placed a reflector on the Moon\u2019s surface, off which a laser beam is periodically reflected. The distance to the Moon is calculated from the round-trip time. (a) To what accuracy in meters can the distance to the Moon be determined, if this time can be measured to 0.100 ns? (b) What percent accuracy is this, given the average distance to the Moon is 384,400 km?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the Appendix D for the next two exercises",
+        "Question": "Radar is used to determine distances to various objects by measuring the round-trip time for an echo from the object. (a) How far away is the planet Venus if the echo time is 1000 s? (b) What is the echo time for a car 75.0 m from a highway police radar unit? (c) How accurately (in nanoseconds) must you be able to measure the echo time to an airplane 12.0 km away to determine its distance within 10.0 m?",
+        "Image Links": [],
+        "Answer": "a. $$1.5 \\times 10^{11} \\text{m}$$ ; b. $$5.0 \\times 10^{-7} \\text{s}$$ ; c. 33 ns",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the Appendix D for the next two exercises",
+        "Question": "Calculate the ratio of the highest to lowest frequencies of electromagnetic waves the eye can see, given the wavelength range of visible light is from 380 to 760 nm. (Note that the ratio of highest to lowest frequencies the ear can hear is 1000.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the Appendix D for the next two exercises",
+        "Question": "How does the wavelength of radio waves for an AM radio station broadcasting at 1030 KHz compare with the wavelength of the lowest audible sound waves (of 20 Hz). The speed of sound in air at $$20 \\text{\u00b0C}$$ is about 343 m/s.",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{aaa}\\text{sound:} \\lambda_{\\text{sound}} & = & \\frac{v_{s}}{f} = \\frac{343 \\text{m/s}}{20.0 \\text{Hz}} = 17.2 \\text{m} \\\\ \\text{radio:} \\lambda_{\\text{radio}} & = & \\frac{c}{f} = \\frac{3.00 \\times 10^{8} \\text{m/s}}{1030 \\times 10^{3} \\text{Hz}} = 291 \\text{m; or} 17.1 \\lambda_{\\text{sound}}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    }
+]

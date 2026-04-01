@@ -1,0 +1,660 @@
+[
+    {
+        "Topic": "21.1 Resistors in Series and Parallel",
+        "Problem Statement": "Note: Data taken from figures can be assumed to be accurate to three significant digits.",
+        "Question": "(a) What is the resistance of ten $$\\text{275-omega}$$ resistors connected in series? (b) In parallel?",
+        "Image Links": [],
+        "Answer": "(a) $$2 \\text{.} \\text{75} \\text{ k} \\Omega$$ (b) $$\\text{27} \\text{.} 5 \\Omega$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.1 Resistors in Series and Parallel",
+        "Problem Statement": "Note: Data taken from figures can be assumed to be accurate to three significant digits.",
+        "Question": "(a) What is the resistance of a $$\\text{1.00} \\times 10^{2} -\u03a9$$ , a $$2 \\text{.} \\text{50-komega}$$ , and a $$4 \\text{.} \\text{00-k} \\Omega$$ resistor connected in series? (b) In parallel?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.1 Resistors in Series and Parallel",
+        "Problem Statement": "Note: Data taken from figures can be assumed to be accurate to three significant digits.",
+        "Question": "What are the largest and smallest resistances you can obtain by connecting a $$\\text{36} \\text{.} 0-\u03a9$$ , a $$\\text{50} \\text{.} 0-\u03a9$$ , and a $$\\text{700-omega}$$ resistor together?",
+        "Image Links": [],
+        "Answer": "(a) $$\\text{786} \\Omega$$ (b) $$\\text{20} \\text{.} 3 \\Omega$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.1 Resistors in Series and Parallel",
+        "Problem Statement": "Note: Data taken from figures can be assumed to be accurate to three significant digits.",
+        "Question": "An 1800-W toaster, a 1400-W electric frying pan, and a 75-W lamp are plugged into the same outlet in a 15-A, 120-V circuit. (The three devices are in parallel when plugged into the same socket.). (a) What current is drawn by each device? (b) Will this combination blow the 15-A fuse?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.1 Resistors in Series and Parallel",
+        "Problem Statement": "Note: Data taken from figures can be assumed to be accurate to three significant digits.",
+        "Question": "Your car\u2019s 30.0-W headlight and 2.40-kW starter are ordinarily connected in parallel in a 12.0-V system. What power would one headlight and the starter consume if connected in series to a 12.0-V battery? (Neglect any other resistance in the circuit and any change in resistance in the two devices.)",
+        "Image Links": [],
+        "Answer": "$$\\text{29} \\text{.} 6 \\text{ W}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.1 Resistors in Series and Parallel",
+        "Problem Statement": "Note: Data taken from figures can be assumed to be accurate to three significant digits.",
+        "Question": "(a) Given a 48.0-V battery and $$\\text{24} \\text{.} 0-\u03a9$$ and $$\\text{96} \\text{.} 0-\u03a9$$ resistors, find the current and power for each when connected in series. (b) Repeat when the resistances are in parallel.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.1 Resistors in Series and Parallel",
+        "Problem Statement": "Note: Data taken from figures can be assumed to be accurate to three significant digits.",
+        "Question": "Referring to the example combining series and parallel circuits and Figure 21.6, calculate $$I_{3}$$ in the following two different ways: (a) from the known values of $$I$$ and $$I_{2}$$ ; (b) using Ohm\u2019s law for $$R_{3}$$ . In both parts explicitly show how you follow the steps in the Problem-Solving Strategies for Series and Parallel Resistors.",
+        "Image Links": [],
+        "Answer": "(a) 0.74 A (b) 0.742 A",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.1 Resistors in Series and Parallel",
+        "Problem Statement": "Note: Data taken from figures can be assumed to be accurate to three significant digits.",
+        "Question": "Referring to Figure 21.6: (a) Calculate $$P_{3}$$ and note how it compares with $$P_{3}$$ found in the first two example problems in this module. (b) Find the total power supplied by the source and compare it with the sum of the powers dissipated by the resistors.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.1 Resistors in Series and Parallel",
+        "Problem Statement": "Note: Data taken from figures can be assumed to be accurate to three significant digits.",
+        "Question": "Refer to Figure 21.7 and the discussion of lights dimming when a heavy appliance comes on. (a) Given the voltage source is 120 V, the wire resistance is $$0 \\text{.} \\text{400} \\Omega$$ , and the bulb is nominally 75.0 W, what power will the bulb dissipate if a total of 15.0 A passes through the wires when the motor comes on? Assume negligible change in bulb resistance. (b) What power is consumed by the motor?",
+        "Image Links": [],
+        "Answer": "(a) 60.8 W (b) 3.18 kW",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.1 Resistors in Series and Parallel",
+        "Problem Statement": "Note: Data taken from figures can be assumed to be accurate to three significant digits.",
+        "Question": "A 240-kV power transmission line carrying $$5.00 \\times 10^{2} \\text{A}$$ is hung from grounded metal towers by ceramic insulators, each having a $$1 \\text{.} \\text{00} \\times \\text{10}^{9} -\u03a9$$ resistance. Figure 21.49. (a) What is the resistance to ground of 100 of these insulators? (b) Calculate the power dissipated by 100 of them. (c) What fraction of the power carried by the line is this? Explicitly show how you follow the steps in the Problem-Solving Strategies for Series and Parallel Resistors. Figure 21.49 High-voltage (240-kV) transmission line carrying $$5.00 \\times 10^{2} \\text{A}$$ is hung from a grounded metal transmission tower. The row of ceramic insulators provide $$1.00 \\times \\text{10}^{9} \\Omega$$ of resistance each.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/257a320a0cdfcea158990cb885d80a663e81b033"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.1 Resistors in Series and Parallel",
+        "Problem Statement": "Note: Data taken from figures can be assumed to be accurate to three significant digits.",
+        "Question": "Show that if two resistors $$R_{1}$$ and $$R_{2}$$ are combined and one is much greater than the other ( $$R_{1} \\text{unicode[:>]unicode[:>]} R_{2}$$ ): (a) Their series resistance is very nearly equal to the greater resistance $$R_{1}$$ . (b) Their parallel resistance is very nearly equal to smaller resistance $$R_{2}$$ .",
+        "Image Links": [],
+        "Answer": "(a) $$R_{\\text{s}} = R_{1} + R_{2} \\\\ \\Rightarrow R_{\\text{s}} \\approx R_{1} \\left(R_{1} >> R_{2}\\right)$$ (b) $$\\frac{1}{R_{p}} = \\frac{1}{R_{1}} + \\frac{1}{R_{2}} = \\frac{R_{1} + R_{2}}{R_{1} R_{2}}$$ , so that $$\\left .\\begin{matrix}{a}R_{p} = \\frac{R_{1} R_{2}}{R_{1} + R_{2}} \\approx \\frac{R_{1} R_{2}}{R_{1}} =  R_{2} ( R_{1} \\text{unicode[:>]unicode[:>]} R_{2} ) \\text{.}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.1 Resistors in Series and Parallel",
+        "Problem Statement": "Note: Data taken from figures can be assumed to be accurate to three significant digits.",
+        "Question": "Unreasonable Results Two resistors, one having a resistance of $$1 \\text{45 } \\Omega$$ , are connected in parallel to produce a total resistance of $$150 \\Omega$$ . (a) What is the value of the second resistance? (b) What is unreasonable about this result? (c) Which assumptions are unreasonable or inconsistent?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.1 Resistors in Series and Parallel",
+        "Problem Statement": "Note: Data taken from figures can be assumed to be accurate to three significant digits.",
+        "Question": "Unreasonable Results Two resistors, one having a resistance of $$9 \\text{00 komega}$$ , are connected in series to produce a total resistance of $$0 \\text{.} \\text{500 Momega}$$ . (a) What is the value of the second resistance? (b) What is unreasonable about this result? (c) Which assumptions are unreasonable or inconsistent?",
+        "Image Links": [],
+        "Answer": "(a) $$- \\text{400 k} \\Omega$$ (b) Resistance cannot be negative. (c) Series resistance is said to be less than one of the resistors, but it must be greater than any of the resistors.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.2 Electromotive Force: Terminal Voltage",
+        "Problem Statement": "",
+        "Question": "Standard automobile batteries have six lead-acid cells in series, creating a total emf of 12.0 V. What is the emf of an individual lead-acid cell?",
+        "Image Links": [],
+        "Answer": "2.00 V",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.2 Electromotive Force: Terminal Voltage",
+        "Problem Statement": "",
+        "Question": "Carbon-zinc dry cells (sometimes referred to as non-alkaline cells) have an emf of 1.54 V, and they are produced as single cells or in various combinations to form other voltages. (a) How many 1.54-V cells are needed to make the common 9-V battery used in many small electronic devices? (b) What is the actual emf of the approximately 9-V battery? (c) Discuss how internal resistance in the series connection of cells will affect the terminal voltage of this approximately 9-V battery.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.2 Electromotive Force: Terminal Voltage",
+        "Problem Statement": "",
+        "Question": "What is the output voltage of a 3.0000-V lithium cell in a digital wristwatch that draws 0.300 mA, if the cell\u2019s internal resistance is $$2 \\text{.} \\text{00} \\Omega$$ ?",
+        "Image Links": [],
+        "Answer": "2.9994 V",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.2 Electromotive Force: Terminal Voltage",
+        "Problem Statement": "",
+        "Question": "(a) What is the terminal voltage of a large 1.54-V carbon-zinc dry cell used in a physics lab to supply 2.00 A to a circuit, if the cell\u2019s internal resistance is $$0 \\text{.} \\text{100 omega}$$ ? (b) How much electrical power does the cell produce? (c) What power goes to its load?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.2 Electromotive Force: Terminal Voltage",
+        "Problem Statement": "",
+        "Question": "What is the internal resistance of an automobile battery that has an emf of 12.0 V and a terminal voltage of 15.0 V while a current of 8.00 A is charging it?",
+        "Image Links": [],
+        "Answer": "$$0 \\text{.} \\text{375} \\Omega$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.2 Electromotive Force: Terminal Voltage",
+        "Problem Statement": "",
+        "Question": "(a) Find the terminal voltage of a 12.0-V motorcycle battery having a $$0 \\text{.} \\text{600-omega}$$ internal resistance, if it is being charged by a current of 10.0 A. (b) What is the output voltage of the battery charger?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.2 Electromotive Force: Terminal Voltage",
+        "Problem Statement": "",
+        "Question": "A car battery with a 12-V emf and an internal resistance of $$0 \\text{.} \\text{050} \\Omega$$ is being charged with a current of 60 A. Note that in this process the battery is being charged. (a) What is the potential difference across its terminals? (b) At what rate is thermal energy being dissipated in the battery? (c) At what rate is electric energy being converted to chemical energy? (d) What are the answers to (a) and (b) when the battery is used to supply 60 A to the starter motor?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.2 Electromotive Force: Terminal Voltage",
+        "Problem Statement": "",
+        "Question": "The hot resistance of a flashlight bulb is $$2 \\text{.} \\text{30} \\Omega$$ , and it is run by a 1.58-V alkaline cell having a $$0 \\text{.} \\text{100-omega}$$ internal resistance. (a) What current flows? (b) Calculate the power supplied to the bulb using $$I^{2} R_{\\text{bulb}}$$ . (c) Is this power the same as calculated using $$\\frac{V^{2}}{R_{\\text{bulb}}}$$ ?",
+        "Image Links": [],
+        "Answer": "(a) 0.658 A (b) 0.997 W (c) 0.997 W; yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.2 Electromotive Force: Terminal Voltage",
+        "Problem Statement": "",
+        "Question": "The label on a portable radio recommends the use of rechargeable nickel-cadmium cells (nicads), although they have a 1.25-V emf while alkaline cells have a 1.58-V emf. The radio has a $$3 \\text{.} \\text{20-omega}$$ resistance. (a) Draw a circuit diagram of the radio and its batteries. Now, calculate the power delivered to the radio. (b) When using Nicad cells each having an internal resistance of $$0 \\text{.} \\text{0400 omega}$$ . (c) When using alkaline cells each having an internal resistance of $$0 \\text{.} \\text{200 omega}$$ . (d) Does this difference seem significant, considering that the radio\u2019s effective resistance is lowered when its volume is turned up?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.2 Electromotive Force: Terminal Voltage",
+        "Problem Statement": "",
+        "Question": "An automobile starter motor has an equivalent resistance of $$0 \\text{.} \\text{0500} \\Omega$$ and is supplied by a 12.0-V battery with a $$0 \\text{.} \\text{0100-omega}$$ internal resistance. (a) What is the current to the motor? (b) What voltage is applied to it? (c) What power is supplied to the motor? (d) Repeat these calculations for when the battery connections are corroded and add $$0 \\text{.} \\text{0900} \\Omega$$ to the circuit. (Significant problems are caused by even small amounts of unwanted resistance in low-voltage, high-current applications.)",
+        "Image Links": [],
+        "Answer": "(a) 200 A (b) 10.0 V (c) 2.00 kW (d) $$0 \\text{.} \\text{1000} \\Omega ; \\text{ 80} \\text{.} \\text{0 A, 4} \\text{.} \\text{0 V, 320 W}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.2 Electromotive Force: Terminal Voltage",
+        "Problem Statement": "",
+        "Question": "A child\u2019s electronic toy is supplied by three 1.58-V alkaline cells having internal resistances of $$0 \\text{.} \\text{0200} \\Omega$$ in series with a 1.53-V carbon-zinc dry cell having a $$0 \\text{.} \\text{100-omega}$$ internal resistance. The load resistance is $$\\text{10} \\text{.} 0 \\Omega$$ . (a) Draw a circuit diagram of the toy and its batteries. (b) What current flows? (c) How much power is supplied to the load? (d) What is the internal resistance of the dry cell if it goes bad, resulting in only 0.500 W being supplied to the load?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.2 Electromotive Force: Terminal Voltage",
+        "Problem Statement": "",
+        "Question": "(a) What is the internal resistance of a voltage source if its terminal voltage drops by 2.00 V when the current supplied increases by 5.00 A? (b) Can the emf of the voltage source be found with the information supplied?",
+        "Image Links": [],
+        "Answer": "(a) $$0 \\text{.} \\text{400 omega}$$ (b) No, there is only one independent equation, so only $$r$$ can be found.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.2 Electromotive Force: Terminal Voltage",
+        "Problem Statement": "",
+        "Question": "A person with body resistance between his hands of $$\\text{10} \\text{.} 0 \\text{ k} \\Omega$$ accidentally grasps the terminals of a 20.0-kV power supply. (Do NOT do this!)  (a) Draw a circuit diagram to represent the situation. (b) If the internal resistance of the power supply is $$\\text{2000} \\Omega$$ , what is the current through his body? (c) What is the power dissipated in his body? (d) If the power supply is to be made safe by increasing its internal resistance, what should the internal resistance be for the maximum current in this situation to be 1.00 mA or less? (e) Will this modification compromise the effectiveness of the power supply for driving low-resistance devices? Explain your reasoning.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.2 Electromotive Force: Terminal Voltage",
+        "Problem Statement": "",
+        "Question": "Electric fish generate current with biological cells called electroplaques, which are physiological emf devices. The electroplaques in the South American eel are arranged in 140 rows, each row stretching horizontally along the body and each containing 5000 electroplaques. Each electroplaque has an emf of 0.15 V and internal resistance of $$0 \\text{.} \\text{25} \\Omega$$ . If the water surrounding the fish has resistance of $$\\text{800} \\Omega$$ , how much current can the eel produce in water from near its head to near its tail?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.2 Electromotive Force: Terminal Voltage",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts A 12.0-V emf automobile battery has a terminal voltage of 16.0 V when being charged by a current of 10.0 A. (a) What is the battery\u2019s internal resistance? (b) What power is dissipated inside the battery? (c) At what rate (in $$\\text{\u00ba} \\text{C/min}$$ ) will its temperature increase if its mass is 20.0 kg and it has a specific heat of $$0 \\text{.} \\text{300} \\text{ kcal/kg} \\cdot \\text{\u00ba} \\text{C}$$ , assuming no heat escapes?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.2 Electromotive Force: Terminal Voltage",
+        "Problem Statement": "",
+        "Question": "Unreasonable Results A 1.58-V alkaline cell with a $$0 \\text{.} \\text{200-omega}$$ internal resistance is supplying 8.50 A to a load. (a) What is its terminal voltage? (b) What is the value of the load resistance? (c) What is unreasonable about these results? (d) Which assumptions are unreasonable or inconsistent?",
+        "Image Links": [],
+        "Answer": "(a) -0.120 V (b) $$- 1 \\text{.} \\text{41} \\times \\text{10}^{- 2} \\Omega$$ (c) Negative terminal voltage; negative load resistance. (d) The assumption that such a cell could provide 8.50 A is inconsistent with its internal resistance.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.2 Electromotive Force: Terminal Voltage",
+        "Problem Statement": "",
+        "Question": "Unreasonable Results (a) What is the internal resistance of a 1.54-V dry cell that supplies 1.00 W of power to a $$\\text{15} \\text{.} 0-\u03a9$$ bulb? (b) What is unreasonable about this result? (c) Which assumptions are unreasonable or inconsistent?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.3 Kirchhoff\u2019s Rules",
+        "Problem Statement": "",
+        "Question": "Apply the loop rule to loop abcdefgha in Figure 21.25.",
+        "Image Links": [],
+        "Answer": "$$- I_{2} R_{2} + \\text{emf}_{1} - \\text{ I}_{2} r_{1} + \\text{ I}_{3} R_{3} + \\text{ I}_{3} r_{2} - \\text{emf}_{2} = \\text{ 0}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.3 Kirchhoff\u2019s Rules",
+        "Problem Statement": "",
+        "Question": "Apply the loop rule to loop aedcba in Figure 21.25.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.3 Kirchhoff\u2019s Rules",
+        "Problem Statement": "",
+        "Question": "Verify the second equation in Example 21.5 by substituting the values found for the currents $$I_{1}$$ and $$I_{2}$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.3 Kirchhoff\u2019s Rules",
+        "Problem Statement": "",
+        "Question": "Verify the third equation in Example 21.5 by substituting the values found for the currents $$I_{1}$$ and $$I_{3}$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.3 Kirchhoff\u2019s Rules",
+        "Problem Statement": "",
+        "Question": "Apply the junction rule at point a in Figure 21.50. Figure 21.50",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1bf9efb84f7ab61380579158207912f321786ca7"
+        ],
+        "Answer": "$$I_{3} = \\text{#unicode[:<]Plurimath::Math::Symbols::Symbol:0x000000013377e500unicode[:>]}_{1} + \\text{#unicode[:<]Plurimath::Math::Symbols::Symbol:0x00000001337b82c8unicode[:>]}_{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.3 Kirchhoff\u2019s Rules",
+        "Problem Statement": "",
+        "Question": "Apply the loop rule to loop abcdefghija in Figure 21.50.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1bf9efb84f7ab61380579158207912f321786ca7"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.3 Kirchhoff\u2019s Rules",
+        "Problem Statement": "",
+        "Question": "Apply the loop rule to loop akledcba in Figure 21.50.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1bf9efb84f7ab61380579158207912f321786ca7"
+        ],
+        "Answer": "$$\\text{emf}_{2} - \\text{#unicode[:<]Plurimath::Math::Symbols::Symbol:0x0000000113066328unicode[:>]}_{2} r_{2} - \\text{#unicode[:<]Plurimath::Math::Symbols::Symbol:0x00000001130aa988unicode[:>]}_{2} R_{2} + \\text{#unicode[:<]Plurimath::Math::Symbols::Symbol:0x000000011310c868unicode[:>]}_{1} R_{5} + I_{1} r_{1} - \\text{emf}_{1} + \\text{#unicode[:<]Plurimath::Math::Symbols::Symbol:0x00000001131b63b8unicode[:>]}_{1} R_{1} = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.3 Kirchhoff\u2019s Rules",
+        "Problem Statement": "",
+        "Question": "Find the currents flowing in the circuit in Figure 21.50. Explicitly show how you follow the steps in the Problem-Solving Strategies for Series and Parallel Resistors.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/1bf9efb84f7ab61380579158207912f321786ca7"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.3 Kirchhoff\u2019s Rules",
+        "Problem Statement": "",
+        "Question": "Solve Example 21.5, but use loop abcdefgha instead of loop akledcba. Explicitly show how you follow the steps in the Problem-Solving Strategies for Series and Parallel Resistors.",
+        "Image Links": [],
+        "Answer": "(a) $$\\text{I}_{1} = \\text{4.75 A}$$ (b) $$\\text{I}_{\\text{2 }} = - 3 \\text{.} \\text{5 A}$$ $$$$ (c) $$\\text{I}_{3} = 8 \\text{.} \\text{25 A}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.3 Kirchhoff\u2019s Rules",
+        "Problem Statement": "",
+        "Question": "Find the currents flowing in the circuit in Figure 21.45.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.3 Kirchhoff\u2019s Rules",
+        "Problem Statement": "",
+        "Question": "Unreasonable Results Consider the circuit in Figure 21.51, and suppose that the emfs are unknown and the currents are given to be $$I_{1} = 5 \\text{.} \\text{00 A}$$ , $$I_{2} = 3 \\text{.0 A}$$ , and $$I_{3} = -2 \\text{.} \\text{00 A}$$ . (a) Could you find the emfs? (b) What is wrong with the assumptions? Figure 21.51",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/61c089c85ef2dd914eca2c88766206fa6984b8a9"
+        ],
+        "Answer": "(a) No, you would get inconsistent equations to solve. (b) $$I_{1} \\ne I_{2} + I_{3}$$ . The assumed currents violate the junction rule.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.4 DC Voltmeters and Ammeters",
+        "Problem Statement": "",
+        "Question": "What is the sensitivity of the galvanometer (that is, what current gives a full-scale deflection) inside a voltmeter that has a $$1 \\text{.} \\text{00} \\text{-M} \\Omega$$ resistance on its 30.0-V scale?",
+        "Image Links": [],
+        "Answer": "$$\\text{30} \u03bcA$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.4 DC Voltmeters and Ammeters",
+        "Problem Statement": "",
+        "Question": "What is the sensitivity of the galvanometer (that is, what current gives a full-scale deflection) inside a voltmeter that has a $$\\text{25} \\text{.} 0 \\text{-k} \\Omega$$ resistance on its 100-V scale?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.4 DC Voltmeters and Ammeters",
+        "Problem Statement": "",
+        "Question": "Find the resistance that must be placed in series with a $$\\text{25} \\text{.} 0-\u03a9$$ galvanometer having a $$\\text{50.0} -\u03bcA$$ sensitivity (the same as the one discussed in the text) to allow it to be used as a voltmeter with a 0.100-V full-scale reading.",
+        "Image Links": [],
+        "Answer": "$$1 \\text{.} \\text{98 k} \\Omega$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.4 DC Voltmeters and Ammeters",
+        "Problem Statement": "",
+        "Question": "Find the resistance that must be placed in series with a $$\\text{25} \\text{.} 0-\u03a9$$ galvanometer having a $$\\text{50} \\text{.} 0-\u03bcA$$ sensitivity (the same as the one discussed in the text) to allow it to be used as a voltmeter with a 3000-V full-scale reading. Include a circuit diagram with your solution.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.4 DC Voltmeters and Ammeters",
+        "Problem Statement": "",
+        "Question": "Find the resistance that must be placed in parallel with a $$\\text{25} \\text{.} 0-\u03a9$$ galvanometer having a $$\\text{50} \\text{.} 0-\u03bcA$$ sensitivity (the same as the one discussed in the text) to allow it to be used as an ammeter with a 10.0-A full-scale reading. Include a circuit diagram with your solution.",
+        "Image Links": [],
+        "Answer": "$$1 \\text{.} \\text{25} \\times \\text{10}^{- 4} \\Omega$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.4 DC Voltmeters and Ammeters",
+        "Problem Statement": "",
+        "Question": "Find the resistance that must be placed in parallel with a $$\\text{25} \\text{.} 0-\u03a9$$ galvanometer having a $$\\text{50} \\text{.} 0-\u03bcA$$ sensitivity (the same as the one discussed in the text) to allow it to be used as an ammeter with a 300-mA full-scale reading.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.4 DC Voltmeters and Ammeters",
+        "Problem Statement": "",
+        "Question": "Find the resistance that must be placed in series with a $$\\text{10} \\text{.} 0-\u03a9$$ galvanometer having a $$\\text{100-muA}$$ sensitivity to allow it to be used as a voltmeter with: (a) a 300-V full-scale reading, and (b) a 0.300-V full-scale reading.",
+        "Image Links": [],
+        "Answer": "(a) $$3 \\text{.} \\text{00 M} \\Omega$$ (b) $$2 \\text{.} \\text{99 k} \\Omega$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.4 DC Voltmeters and Ammeters",
+        "Problem Statement": "",
+        "Question": "Find the resistance that must be placed in parallel with a $$\\text{10} \\text{.} 0-\u03a9$$ galvanometer having a $$\\text{100-muA}$$ sensitivity to allow it to be used as an ammeter with: (a) a 20.0-A full-scale reading, and (b) a 100-mA full-scale reading.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.4 DC Voltmeters and Ammeters",
+        "Problem Statement": "",
+        "Question": "Suppose you measure the terminal voltage of a 1.585-V alkaline cell having an internal resistance of $$0 \\text{.} \\text{100} \\Omega$$ by placing a $$1 \\text{.} \\text{00} \\text{-k} \\Omega$$ voltmeter across its terminals. (See Figure 21.52.) (a) What current flows? (b) Find the terminal voltage. (c) To see how close the measured terminal voltage is to the emf, calculate their ratio. Figure 21.52",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/0e01bd1fd9f7dace2126cf3a7df8a458e9b93782"
+        ],
+        "Answer": "(a) 1.58 mA (b) 1.5848 V (need four digits to see the difference) (c) 0.99990 (need five digits to see the difference from unity)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.4 DC Voltmeters and Ammeters",
+        "Problem Statement": "",
+        "Question": "Suppose you measure the terminal voltage of a 3.200-V lithium cell having an internal resistance of $$5 \\text{.} \\text{00} \\Omega$$ by placing a $$1 \\text{.} \\text{00} \\text{-k} \\Omega$$ voltmeter across its terminals. (a) What current flows? (b) Find the terminal voltage. (c) To see how close the measured terminal voltage is to the emf, calculate their ratio.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.4 DC Voltmeters and Ammeters",
+        "Problem Statement": "",
+        "Question": "A certain ammeter has a resistance of $$5 \\text{.} \\text{00} \\times \\text{10}^{- 5} \\Omega$$ on its 3.00-A scale and contains a $$\\text{10} \\text{.} 0-\u03a9$$ galvanometer. What is the sensitivity of the galvanometer?",
+        "Image Links": [],
+        "Answer": "$$\\text{15} \\text{.} 0 \u03bcA$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.4 DC Voltmeters and Ammeters",
+        "Problem Statement": "",
+        "Question": "A $$1 \\text{.} \\text{00} \\text{-Momega}$$ voltmeter is placed in parallel with a $$\\text{75} \\text{.} 0 \\text{-k} \\Omega$$ resistor in a circuit. (a) Draw a circuit diagram of the connection. (b) What is the resistance of the combination? (c) If the voltage across the combination is kept the same as it was across the $$\\text{75} \\text{.} 0 \\text{-k} \\Omega$$ resistor alone, what is the percent increase in current? (d) If the current through the combination is kept the same as it was through the $$\\text{75} \\text{.} 0 \\text{-k} \\Omega$$ resistor alone, what is the percentage decrease in voltage? (e) Are the changes found in parts (c) and (d) significant? Discuss.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.4 DC Voltmeters and Ammeters",
+        "Problem Statement": "",
+        "Question": "A $$0 \\text{.} \\text{0200-omega}$$ ammeter is placed in series with a $$\\text{10} \\text{.} \\text{00-omega}$$ resistor in a circuit. (a) Draw a circuit diagram of the connection. (b) Calculate the resistance of the combination. (c) If the voltage is kept the same across the combination as it was through the $$\\text{10} \\text{.} \\text{00-omega}$$ resistor alone, what is the percent decrease in current? (d) If the current is kept the same through the combination as it was through the $$\\text{10} \\text{.} \\text{00-omega}$$ resistor alone, what is the percent increase in voltage? (e) Are the changes found in parts (c) and (d) significant? Discuss.",
+        "Image Links": [],
+        "Answer": "(a) (b) $$10 \\text{.} \\text{02 } \\Omega$$ (c) 0.9980, or a $$2.0 \\times 10^{-1}$$ percent decrease (d) 1.002, or a $$2.0 \\times 10^{-1}$$ percent increase (e) Not significant.",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/bb6461dfbc576830021410b12c9fe7bf2b7707e1"
+        ]
+    },
+    {
+        "Topic": "21.4 DC Voltmeters and Ammeters",
+        "Problem Statement": "",
+        "Question": "Unreasonable Results Suppose you have a $$\\text{40} \\text{.} 0-\u03a9$$ galvanometer with a $$\\text{25} \\text{.} 0-\u03bcA$$ sensitivity. (a) What resistance would you put in series with it to allow it to be used as a voltmeter that has a full-scale deflection for 0.500 mV? (b) What is unreasonable about this result? (c) Which assumptions are responsible?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.4 DC Voltmeters and Ammeters",
+        "Problem Statement": "",
+        "Question": "Unreasonable Results (a) What resistance would you put in parallel with a $$\\text{40} \\text{.} 0-\u03a9$$ galvanometer having a $$\\text{25.} 0-\u03bcA$$ sensitivity to allow it to be used as an ammeter that has a full-scale deflection for $$\\text{10} \\text{.} 0-\u03bcA$$ ? (b) What is unreasonable about this result? (c) Which assumptions are responsible?",
+        "Image Links": [],
+        "Answer": "(a) $$- \\text{66} \\text{.} 7 \\Omega$$ (b) You can\u2019t have negative resistance. (c) It is unreasonable that $$I_{G}$$ is greater than $$I_{\\text{tot}}$$ (see Figure 21.30). You cannot achieve a full-scale deflection using a current less than the sensitivity of the galvanometer.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.5 Null Measurements",
+        "Problem Statement": "",
+        "Question": "What is the $$\\text{emf}_{\\text{x}}$$ of a cell being measured in a potentiometer, if the standard cell\u2019s emf is 12.0 V and the potentiometer balances for $$R_{\\text{x}} = 5 \\text{.} \\text{000} \\Omega$$ and $$R_{\\text{s}} = 2 \\text{.} \\text{500} \\Omega$$ ?",
+        "Image Links": [],
+        "Answer": "24.0 V",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.5 Null Measurements",
+        "Problem Statement": "",
+        "Question": "Calculate the $$\\text{emf}_{\\text{x}}$$ of a dry cell for which a potentiometer is balanced when $$R_{\\text{x}} = 1 \\text{.} \\text{200} \\Omega$$ , while an alkaline standard cell with an emf of 1.600 V requires $$R_{\\text{s}} = 1 \\text{.} \\text{247} \\Omega$$ to balance the potentiometer.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.5 Null Measurements",
+        "Problem Statement": "",
+        "Question": "When an unknown resistance $$R_{\\text{x}}$$ is placed in a Wheatstone bridge, it is possible to balance the bridge by adjusting $$R_{3}$$ to be $$\\text{2500} \\Omega$$ . What is $$R_{\\text{x}}$$ if $$\\frac{R_{2}}{R_{1}} = 0 \\text{.} \\text{625}$$ ?",
+        "Image Links": [],
+        "Answer": "$$1 \\text{.} \\text{56 k} \\Omega$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.5 Null Measurements",
+        "Problem Statement": "",
+        "Question": "To what value must you adjust $$R_{3}$$ to balance a Wheatstone bridge, if the unknown resistance $$R_{\\text{x}}$$ is $$\\text{100} \\Omega$$ , $$R_{1}$$ is $$\\text{50} \\text{.} 0 \\Omega$$ , and $$R_{2}$$ is $$\\text{175} \\Omega$$ ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.5 Null Measurements",
+        "Problem Statement": "",
+        "Question": "(a) What is the unknown $$\\text{emf}_{\\text{x}}$$ in a potentiometer that balances when $$R_{\\text{x}}$$ is $$\\text{10} \\text{.} 0 \\Omega$$ , and balances when $$R_{\\text{s}}$$ is $$\\text{15} \\text{.} 0 \\Omega$$ for a standard 3.000-V emf? (b) The same $$\\text{emf}_{\\text{x}}$$ is placed in the same potentiometer, which now balances when $$R_{\\text{s}}$$ is $$\\text{15} \\text{.} 0 \\Omega$$ for a standard emf of 3.100 V. At what resistance $$R_{\\text{x}}$$ will the potentiometer balance?",
+        "Image Links": [],
+        "Answer": "(a) 2.00 V (b) $$9 \\text{.} \\text{68 } \\Omega$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.5 Null Measurements",
+        "Problem Statement": "",
+        "Question": "Suppose you want to measure resistances in the range from $$\\text{10} \\text{.} 0 \\Omega$$ to $$\\text{10} \\text{.} 0 k\u03a9$$ using a Wheatstone bridge that has $$\\frac{R_{2}}{R_{1}} = 2 \\text{.} \\text{000}$$ . Over what range should $$R_{3}$$ be adjustable?",
+        "Image Links": [],
+        "Answer": "$$\\text{Range = 5} \\text{.} \\text{00 } \\Omega \\text{ to } 5 \\text{.} \\text{00} \\text{ k} \\Omega$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.6 DC Circuits Containing Resistors and Capacitors",
+        "Problem Statement": "",
+        "Question": "The timing device in an automobile\u2019s intermittent wiper system is based on an $$\\text{RC}$$ time constant and utilizes a $$0 \\text{.} \\text{500-muF}$$ capacitor and a variable resistor. Over what range must $$R$$ be made to vary to achieve time constants from 2.00 to 15.0 s?",
+        "Image Links": [],
+        "Answer": "$$\\text{range 4} \\text{.} \\text{00 to 30} \\text{.} \\text{0 M} \\Omega$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.6 DC Circuits Containing Resistors and Capacitors",
+        "Problem Statement": "",
+        "Question": "A heart pacemaker fires 72 times a minute, each time a 25.0-nF capacitor is charged (by a battery in series with a resistor) to 0.632 of its full voltage. What is the value of the resistance?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.6 DC Circuits Containing Resistors and Capacitors",
+        "Problem Statement": "",
+        "Question": "The duration of a photographic flash is related to an $$\\text{RC}$$ time constant, which is $$0 \\text{.} \\text{100 mus}$$ for a certain camera. (a) If the resistance of the flash lamp is $$0 \\text{.} \\text{0400} \\Omega$$ during discharge, what is the size of the capacitor supplying its energy? (b) What is the time constant for charging the capacitor, if the charging resistance is $$\\text{800} \\text{ komega}$$ ?",
+        "Image Links": [],
+        "Answer": "(a) $$2 \\text{.} \\text{50 muF}$$ (b) 2.00 s",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.6 DC Circuits Containing Resistors and Capacitors",
+        "Problem Statement": "",
+        "Question": "A 2.00- and a $$7 \\text{.} \\text{50-muF}$$ capacitor can be connected in series or parallel, as can a 25.0- and a $$\\text{100-komega}$$ resistor. Calculate the four $$\\text{RC}$$ time constants possible from connecting the resulting capacitance and resistance in series.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.6 DC Circuits Containing Resistors and Capacitors",
+        "Problem Statement": "",
+        "Question": "After two time constants, what percentage of the final voltage, emf, is on an initially uncharged capacitor $$C$$ , charged through a resistance $$R$$ ?",
+        "Image Links": [],
+        "Answer": "86.5%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.6 DC Circuits Containing Resistors and Capacitors",
+        "Problem Statement": "",
+        "Question": "A $$\\text{500-omega}$$ resistor, an uncharged $$1 \\text{.} \\text{50-muF}$$ capacitor, and a 6.16-V emf are connected in series. (a) What is the initial current? (b) What is the $$\\text{RC}$$ time constant? (c) What is the current after one time constant? (d) What is the voltage on the capacitor after one time constant?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.6 DC Circuits Containing Resistors and Capacitors",
+        "Problem Statement": "",
+        "Question": "A heart defibrillator being used on a patient has an $$\\text{RC}$$ time constant of 10.0 ms due to the resistance of the patient and the capacitance of the defibrillator. (a) If the defibrillator has an $$8 \\text{.} \\text{00-muF}$$ capacitance, what is the resistance of the path through the patient? (You may neglect the capacitance of the patient and the resistance of the defibrillator.) (b) If the initial voltage is 12.0 kV, how long does it take to decline to $$6.00 \\times 10^{2} \\text{V}$$ ?",
+        "Image Links": [],
+        "Answer": "(a) $$1 \\text{.} \\text{25 k} \\Omega$$ (b) 30.0 ms",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.6 DC Circuits Containing Resistors and Capacitors",
+        "Problem Statement": "",
+        "Question": "An ECG monitor must have an $$\\text{RC}$$ time constant less than $$1.00 \\times 10^{2} \\text{mus}$$ to be able to measure variations in voltage over small time intervals. (a) If the resistance of the circuit (due mostly to that of the patient\u2019s chest) is $$1 \\text{.} 00 k\u03a9$$ , what is the maximum capacitance of the circuit? (b) Would it be difficult in practice to limit the capacitance to less than the value found in (a)?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.6 DC Circuits Containing Resistors and Capacitors",
+        "Problem Statement": "",
+        "Question": "Figure 21.53 shows how a bleeder resistor is used to discharge a capacitor after an electronic device is shut off, allowing a person to work on the electronics with less risk of shock. (a) What is the time constant? (b) How long will it take to reduce the voltage on the capacitor to 0.250% (5% of 5%) of its full value once discharge begins? (c) If the capacitor is charged to a voltage $$V_{0}$$ through a $$\\text{100-omega}$$ resistance, calculate the time it takes to rise to $$0 \\text{.} \\text{865} V_{0}$$ (This is about two time constants.) Figure 21.53",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/9fc582c5d2086a9ba59a08d25e479cfe7d060f3c"
+        ],
+        "Answer": "(a) 20.0 s (b) 120 s (c) 16.0 ms",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.6 DC Circuits Containing Resistors and Capacitors",
+        "Problem Statement": "",
+        "Question": "Using the exact exponential treatment, find how much time is required to discharge a $$\\text{250-muF}$$ capacitor through a $$\\text{500-omega}$$ resistor down to 1.00% of its original voltage.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.6 DC Circuits Containing Resistors and Capacitors",
+        "Problem Statement": "",
+        "Question": "Using the exact exponential treatment, find how much time is required to charge an initially uncharged 100-pF capacitor through a $$\\text{75} \\text{.} 0 \\text{-M} \\Omega$$ resistor to 90.0% of its final voltage.",
+        "Image Links": [],
+        "Answer": "$$1 \\text{.} \\text{73} \\times \\text{10}^{- 2} \\text{ s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.6 DC Circuits Containing Resistors and Capacitors",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts If you wish to take a picture of a bullet traveling at 500 m/s, then a very brief flash of light produced by an $$\\text{RC}$$ discharge through a flash tube can limit blurring. Assuming 1.00 mm of motion during one $$\\text{RC}$$ constant is acceptable, and given that the flash is driven by a $$\\text{600-muF}$$ capacitor, what is the resistance in the flash tube?",
+        "Image Links": [],
+        "Answer": "$$3 \\text{.} \\text{33} \\times \\text{10}^{- 3} \\Omega$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.6 DC Circuits Containing Resistors and Capacitors",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts A flashing lamp in a Christmas earring is based on an $$\\text{RC}$$ discharge of a capacitor through its resistance. The effective duration of the flash is 0.250 s, during which it produces an average 0.500 W from an average 3.00 V. (a) What energy does it dissipate? (b) How much charge moves through the lamp? (c) Find the capacitance. (d) What is the resistance of the lamp?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.6 DC Circuits Containing Resistors and Capacitors",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts A $$\\text{160-muF}$$ capacitor charged to 450 V is discharged through a $$31 \\text{.} \\text{2-k} \\Omega$$ resistor. (a) Find the time constant. (b) Calculate the temperature increase of the resistor, given that its mass is 2.50 g and its specific heat is $$1 \\text{.} \\text{67} \\frac{\\text{kJ}}{\\text{kg} \\cdot \\text{\u00baC}}$$ , noting that most of the thermal energy is retained in the short time of the discharge. (c) Calculate the new resistance, assuming it is pure carbon. (d) Does this change in resistance seem significant?",
+        "Image Links": [],
+        "Answer": "(a) 4.99 s (b) $$3 \\text{.} \\text{87\u00baC}$$ (c) $$\\text{31} \\text{.} \\text{1 k} \\Omega$$ (d) No",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.6 DC Circuits Containing Resistors and Capacitors",
+        "Problem Statement": "",
+        "Question": "Unreasonable Results (a) Calculate the capacitance needed to get an $$\\text{RC}$$ time constant of $$1.00 \\times 10^{3} \\text{s}$$ with a $$0 \\text{.} \\text{100-omega}$$ resistor. (b) What is unreasonable about this result? (c) Which assumptions are responsible?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.6 DC Circuits Containing Resistors and Capacitors",
+        "Problem Statement": "",
+        "Question": "Construct Your Own Problem Consider a camera\u2019s flash unit. Construct a problem in which you calculate the size of the capacitor that stores energy for the flash lamp. Among the things to be considered are the voltage applied to the capacitor, the energy needed in the flash and the associated charge needed on the capacitor, the resistance of the flash lamp during discharge, and the desired $$\\text{RC}$$ time constant.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.6 DC Circuits Containing Resistors and Capacitors",
+        "Problem Statement": "",
+        "Question": "Construct Your Own Problem Consider a rechargeable lithium cell that is to be used to power a camcorder. Construct a problem in which you calculate the internal resistance of the cell during normal operation. Also, calculate the minimum voltage output of a battery charger to be used to recharge your lithium cell. Among the things to be considered are the emf and useful terminal voltage of a lithium cell and the current it should be able to supply to a camcorder.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "21.6 DC Circuits Containing Resistors and Capacitors",
+        "Problem Statement": "",
+        "Question": "Critical Thinking A circuit has a voltage source producing $$1.00 \\times 10^{2} \\text{V}$$ and a $$2.50 \\times 10^{3} \\text{omega}$$ resistor. (a) If the circuit contains nothing else, how much power is dissipated by the resistor? (b) A second $$2.50 \\times 10^{3} \\text{omega}$$ resistor is added in parallel to the first resistor. Now how much power is dissipated by the resistors? (c) Now place the two resistors in series. How much power is dissipated by the resistors? (d) Why would a parallel arrangement of resistors dissipate more power than a series arrangement of resistors of the same value? (e) Which delivers more energy in a given time period, the parallel combination of resistors, the series combination of resistors, or is the energy delivered in a given time period the same?",
+        "Image Links": [],
+        "Answer": "(a) $$P = \\frac{V^{2}}{R} = \\frac{( 1.00 \\times 10^{2} )^{2}}{2.50 \\times 10^{3}} \\text{w} = 4.00 \\text{\u00a0W}$$ (b) $$\\left .\\begin{matrix}{a}\\frac{1}{R_{e q}} = \\frac{2}{R_{1}} \\\\ R_{e q} = \\frac{R_{1}}{2} = 1.25 \\times 10^{3} \\Omega \\\\ P = \\frac{V^{2}}{R} = \\frac{( 1.00 \\times 10^{2} )^{2}}{1.25 \\times 10^{3}} \\text{\u00a0W} = 8 \\text{W}\\end{matrix}\\right .$$ (c) $$\\left .\\begin{matrix}{a}R_{e q} = R_{1} + R_{2} = 2 R_{1} \\\\ P = \\frac{V^{2}}{R} = \\frac{( 1.00 \\times 10^{2} )^{2}}{5.00 \\times 10^{3}} \\text{W} = 2 \\text{W}\\end{matrix}\\right .$$ (d) In the parallel case current passes through each branch, so more current is passed through the resistor system. In the series, the higher resistance of the circuit allows less current to flow. $$P = I V$$ is proportional to the current when the voltage does not change. (e) The parallel combination delivers more energy in a given time period.",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Topic": "Checkpoint 3.50",
+        "Problem Statement": "",
+        "Question": "Find the derivative of $$h ( x ) = x e^{2 x} .$$",
+        "Image Links": [],
+        "Answer": "$$h^{\\prime} ( x ) = e^{2 x} + 2 x e^{2 x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.51",
+        "Problem Statement": "",
+        "Question": "If $$A ( t ) = 1000 e^{0.3 t}$$ describes the mosquito population after $$t$$ days, as in the preceding example, what is the rate of change of $$A ( t )$$ after 4 days?",
+        "Image Links": [],
+        "Answer": "996",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.52",
+        "Problem Statement": "",
+        "Question": "Differentiate: $$f ( x ) = \\text{ln} ( 3 x + 2 )^{5} .$$",
+        "Image Links": [],
+        "Answer": "$$f^{\\prime} ( x ) = \\frac{15}{3 x + 2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.53",
+        "Problem Statement": "",
+        "Question": "Find the slope for the line tangent to $$y = 3^{x}$$ at $$x = 2 .$$",
+        "Image Links": [],
+        "Answer": "$$9 \\text{ln} ( 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.54",
+        "Problem Statement": "",
+        "Question": "Use logarithmic differentiation to find the derivative of $$y = x^{x} .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{d y}{d x} = x^{x} ( 1 + \\text{ln} x )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 3.55",
+        "Problem Statement": "",
+        "Question": "Find the derivative of $$y = ( \\text{tan} x )^{\\pi} .$$",
+        "Image Links": [],
+        "Answer": "$$y^{\\prime} = \\pi ( \\text{tan} x )^{\\pi - 1} \\text{sec}^{2} x$$",
+        "Answer Image Links": []
+    }
+]

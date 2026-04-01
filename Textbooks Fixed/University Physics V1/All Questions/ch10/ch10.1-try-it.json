@@ -1,0 +1,12 @@
+[
+    {
+        "Topic": "Check Your Understanding 10.1",
+        "Problem Statement": "",
+        "Question": "The fan blades on a turbofan jet engine (shown below) accelerate from rest up to a rotation rate of 40.0 rev/s in 20 s. The increase in angular velocity of the fan is constant in time. (The GE90-110B1 turbofan engine mounted on a Boeing 777, as shown, is currently the largest turbofan engine in the world, capable of thrusts of 330-510 kN.) (a) What is the average angular acceleration? (b) What is the instantaneous angular acceleration at any time during the first 20 s? Figure 10.9 (credit: \u201cBubinator\u201d/ Wikimedia Commons)",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/646f4ca22b3ce0ce3ca9da5dc2d77b8d33d852b7"
+        ],
+        "Answer": "a. $$40.0 \\text{rev} \\text{/} \\text{s} = 2 \\pi ( 40.0 ) \\text{rad} \\text{/} \\text{s}$$ , $$\\overset{-}{\\alpha} = \\frac{\\text{Delta} \\upomega}{\\text{Delta} t} = \\frac{2 \\pi ( 40.0 ) - 0 \\text{rad/s}}{20.0 \\text{s}} = 2 \\pi ( 2.0 ) = 4.0 \\pi \\text{rad/} \\text{s}^{2}$$ ; b. Since the angular velocity increases linearly, there has to be a constant acceleration throughout the indicated time. Therefore, the instantaneous angular acceleration at any time is the solution to $$4.0 \\pi \\text{rad/} \\text{s}^{2}$$ .",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "Find a power series solution for the following differential equations.",
+        "Question": "$$y^{\\second} + 6 y^{\\prime} = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find a power series solution for the following differential equations.",
+        "Question": "$$5 y^{\\second} + y^{\\prime} = 0$$",
+        "Image Links": [],
+        "Answer": "$$y = c_{0} + 5 c_{1} \\sum_{n = 1}^{\\infty} \\frac{( \\text{unicode[:-]} x \\text{/} 5 )^{n}}{n !} = c_{0} + 5 c_{1} e^{\\text{unicode[:-]} x \\text{/} 5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find a power series solution for the following differential equations.",
+        "Question": "$$y^{\\second} + 25 y = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find a power series solution for the following differential equations.",
+        "Question": "$$y^{\\second} - y = 0$$",
+        "Image Links": [],
+        "Answer": "$$y = c_{0} \\sum_{n = 0}^{\\infty} \\frac{( x )^{2 n}}{( 2 n ) !} + c_{1} \\sum_{n = 0}^{\\infty} \\frac{( x )^{2 n + 1}}{( 2 n + 1 ) !}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find a power series solution for the following differential equations.",
+        "Question": "$$2 y^{\\prime} + y = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find a power series solution for the following differential equations.",
+        "Question": "$$y^{\\prime} - 2 x y = 0$$",
+        "Image Links": [],
+        "Answer": "$$y = c_{0} \\sum_{n = 0}^{\\infty} \\frac{x^{2 n}}{n !} = c_{0} e^{x^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find a power series solution for the following differential equations.",
+        "Question": "$$( x - 7 ) y^{\\prime} + 2 y = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find a power series solution for the following differential equations.",
+        "Question": "$$y^{\\second} - x y^{\\prime} - y = 0$$",
+        "Image Links": [],
+        "Answer": "$$y = c_{0} \\sum_{n = 0}^{\\infty} \\frac{x^{2 n}}{2^{n} n !} + c_{1} \\sum_{n = 0}^{\\infty} \\frac{x^{2 n + 1}}{1 \\cdot 3 \\cdot 5 \\cdot 7 \\cdots ( 2 n + 1 )}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find a power series solution for the following differential equations.",
+        "Question": "$$( 1 + x^{2} ) y^{\\second} - 4 x y^{\\prime} + 6 y = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find a power series solution for the following differential equations.",
+        "Question": "$$x^{2} y^{\\second} - x y^{\\prime} - 3 y = 0$$",
+        "Image Links": [],
+        "Answer": "$$y = c_{1} x^{3} + \\frac{c_{2}}{x}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find a power series solution for the following differential equations.",
+        "Question": "$$y^{\\second} - 8 y^{\\prime} = 0 , y ( 0 ) = -2 , \\text{} y^{\\prime} ( 0 ) = 10$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find a power series solution for the following differential equations.",
+        "Question": "$$y^{\\second} - 2 x y = 0 , y ( 0 ) = 1 , \\text{} y^{\\prime} ( 0 ) = -3$$",
+        "Image Links": [],
+        "Answer": "$$y = 1 - 3 x + \\frac{2 x^{3}}{3 !} - \\frac{12 x^{4}}{4 !} + \\frac{16 x^{6}}{6 !} - \\frac{120 x^{7}}{7 !} + \\text{cdots}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find a power series solution for the following differential equations.",
+        "Question": "The differential equation $$x^{2} y^{\\second} + x y^{\\prime} + ( x^{2} - 1 ) y = 0$$ is a Bessel equation of order 1. Use a power series of the form $$y = \\sum_{n = 0}^{\\infty} a_{n} x^{n}$$ to find the solution.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

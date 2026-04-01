@@ -1,0 +1,126 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Consider the process shown below. During steps AB and BC , 3600 J and 2400 J of heat, respectively, are added to the system. (a) Find the work done in each of the processes AB , BC , AD , and DC . (b) Find the internal energy change in processes AB and BC . (c) Find the internal energy difference between states C and A . (d) Find the total heat added in the ADC process. (e) From the information given, can you find the heat added in process AD ? Why or why not?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3fe66c0015099876798976da6847801b30ee9c50"
+        ],
+        "Answer": "a. $$W_{A B} = 0 , W_{B C} = 2026 \\text{J} , W_{A D} = 810.4 \\text{J} , W_{D C} = 0 ;$$ b. $$\\text{Delta} E_{A B} = 3600 \\text{J} , \\text{Delta} E_{B C} = 374 \\text{J;}$$ c. $$\\text{Delta} E_{A C} = 3974 \\text{J} ;$$ d. $$Q_{A D C} = 4784 \\text{J;}$$ e. No, because heat was added for both parts AD and DC . There is not enough information to figure out how much is from each segment of the path.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A car tire contains $$0.0380 \\text{m}^{3}$$ of air at a pressure of $$2.20 \\times 10^{5} \\text{Pa}$$ (about 32 psi). How much more internal energy does this gas have than the same volume has at zero gauge pressure (which is equivalent to normal atmospheric pressure)?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A helium-filled toy balloon has a gauge pressure of 0.200 atm and a volume of 10.0 L. How much greater is the internal energy of the helium in the balloon than it would be at zero gauge pressure?",
+        "Image Links": [],
+        "Answer": "300 J",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Steam to drive an old-fashioned steam locomotive is supplied at a constant gauge pressure of $$1.75 \\times 10^{6} \\text{N/m}^{2}$$ (about 250 psi) to a piston with a 0.200-m radius. (a) By calculating $$p \\text{Delta} V$$ , find the work done by the steam when the piston moves 0.800 m. Note that this is the net work output, since gauge pressure is used. (b) Now find the amount of work by calculating the force exerted times the distance traveled. Is the answer the same as in part (a)?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A hand-driven tire pump has a piston with a 2.50-cm diameter and a maximum stroke of 30.0 cm. (a) How much work do you do in one stroke if the average gauge pressure is $$2.4 \\times 10^{5} \\text{N/m}^{2}$$ (about 35 psi)? (b) What average force do you exert on the piston, neglecting friction and gravitational force?",
+        "Image Links": [],
+        "Answer": "a. 59.5 J; b. 170 N",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Calculate the net work output of a heat engine following path ABCDA as shown below.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/d3db69015c923d99ee78d2cbf8bc5881d6f7dbff"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "What is the net work output of a heat engine that follows path ABDA in the preceding problem with a straight line from B to D ? Why is the work output less than for path ABCDA ?",
+        "Image Links": [],
+        "Answer": "$$2.4 \\times 10^{3} \\text{J}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Five moles of a monatomic ideal gas in a cylinder at $$27 \\text{\u00b0} \\text{C}$$ is expanded isothermally from a volume of 5 L to 10 L. (a) What is the change in internal energy? (b) How much work was done on the gas in the process? (c) How much heat was transferred to the gas?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Four moles of a monatomic ideal gas in a cylinder at $$27 \\text{\u00b0} \\text{C}$$ is expanded at constant pressure equal to 1 atm until its volume doubles. (a) What is the change in internal energy? (b) How much work was done by the gas in the process? (c) How much heat was transferred to the gas?",
+        "Image Links": [],
+        "Answer": "a. 15,000 J; b. 10,000 J; c. 25,000 J",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Helium gas is cooled from $$20 \\text{\u00b0} \\text{C}$$ to $$10 \\text{\u00b0} \\text{C}$$ by expanding from 40 atm to 1 atm. If there is 1.4 mol of helium, (a) What is the final volume of helium? (b) What is the change in internal energy?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "In an adiabatic process, oxygen gas in a container is compressed along a path that can be described by the following pressure in atm as a function of volume V, with $$V_{0} = 1 L$$ : $$p = ( 3.0 \\text{atm} ) ( V \\text{/} V_{0} )^{-1.2}$$ . The initial and final volumes during the process were 2 L and 1.5 L, respectively. Find the amount of work done on the gas.",
+        "Image Links": [],
+        "Answer": "78 J",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A cylinder containing three moles of a monatomic ideal gas is heated at a constant pressure of 2 atm. The temperature of the gas changes from 300 K to 350 K as a result of the expansion. Find work done (a) on the gas; and (b) by the gas.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A cylinder containing three moles of nitrogen gas is heated at a constant pressure of 2 atm. The temperature of the gas changes from 300 K to 350 K as a result of the expansion. Find work done (a) on the gas, and (b) by the gas by using van der Waals equation of state instead of ideal gas law.",
+        "Image Links": [],
+        "Answer": "A cylinder containing three moles of nitrogen gas is heated at a constant pressure of 2 atm. a. - 1220 J; b. +1220 J",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Two moles of a monatomic ideal gas such as helium is compressed adiabatically and reversibly from a state (3 atm, 5 L) to a state with a pressure of 4 atm. (a) Find the volume and temperature of the final state. (b) Find the temperature of the initial state. (c) Find work done by the gas in the process. (d) Find the change in internal energy in the process. Assume $$C_{V} = 5 R$$ and $$C_{p} = C_{V} + R$$ for the diatomic ideal gas in the conditions given.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "An insulated vessel contains 1.5 moles of argon at 2 atm. The gas initially occupies a volume of 5 L. As a result of the adiabatic expansion the pressure of the gas is reduced to 1 atm. (a) Find the volume and temperature of the final state. (b) Find the temperature of the gas in the initial state. (c) Find the work done by the gas in the process. (d) Find the change in the internal energy of the gas in the process.",
+        "Image Links": [],
+        "Answer": "a. 7.6 L, 61.6 K; b. 81.3 K; c. $$3.63 \\text{L} \\cdotp \\text{atm} = 367 \\text{J}$$ ; d. -367 J",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "Topic": "Try It 9.21",
+        "Problem Statement": "",
+        "Question": "Complete the square to make a perfect square trinomial. Then write the result as a binomial squared. \u24d0 $$a^{2} - 20 a$$ \u24d1 $$m^{2} - 5 m$$ \u24d2 $$p^{2} + \\frac{1}{4} p$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$( a - 10 )^{2}$$ \u24d1 $$( b - \\frac{5}{2} )^{2}$$ \u24d2 $$( p + \\frac{1}{8} )^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.22",
+        "Problem Statement": "",
+        "Question": "Complete the square to make a perfect square trinomial. Then write the result as a binomial squared. \u24d0 $$b^{2} - 4 b$$ \u24d1 $$n^{2} + 13 n$$ \u24d2 $$q^{2} - \\frac{2}{3} q$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$( b - 2 )^{2}$$ \u24d1 $$( n + \\frac{13}{2} )^{2}$$ \u24d2 $$( q - \\frac{1}{3} )^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.23",
+        "Problem Statement": "",
+        "Question": "Solve by completing the square: $$x^{2} + 4 x = 5 .$$",
+        "Image Links": [],
+        "Answer": "$$x = -5 , x = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.24",
+        "Problem Statement": "",
+        "Question": "Solve by completing the square: $$y^{2} - 10 y = -9 .$$",
+        "Image Links": [],
+        "Answer": "$$y = 1 , y = 9$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.25",
+        "Problem Statement": "",
+        "Question": "Solve by completing the square: $$y^{2} - 10 y = -35 .$$",
+        "Image Links": [],
+        "Answer": "$$y = 5 \\pm \\sqrt{10} i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.26",
+        "Problem Statement": "",
+        "Question": "Solve by completing the square: $$z^{2} + 8 z = -19 .$$",
+        "Image Links": [],
+        "Answer": "$$z = -4 + \\sqrt{3} i , \\text{z} = -4 - \\sqrt{3} i$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.27",
+        "Problem Statement": "",
+        "Question": "Solve by completing the square: $$x^{2} - 16 x = -16 .$$",
+        "Image Links": [],
+        "Answer": "$$x = 8 + 4 \\sqrt{3} , \\text{} x = 8 - 4 \\sqrt{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.28",
+        "Problem Statement": "",
+        "Question": "Solve by completing the square: $$y^{2} + 8 y = 11 .$$",
+        "Image Links": [],
+        "Answer": "$$y = -4 + 3 \\sqrt{3} , \\text{y} = -4 - 3 \\sqrt{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.29",
+        "Problem Statement": "",
+        "Question": "Solve by completing the square: $$a^{2} + 4 a + 9 = 30 .$$",
+        "Image Links": [],
+        "Answer": "$$a = -7 , a = 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.30",
+        "Problem Statement": "",
+        "Question": "Solve by completing the square: $$b^{2} + 8 b - 4 = 16 .$$",
+        "Image Links": [],
+        "Answer": "$$b = -10 , b = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.31",
+        "Problem Statement": "",
+        "Question": "Solve by completing the square: $$p^{2} = 5 p + 9 .$$",
+        "Image Links": [],
+        "Answer": "$$p = \\frac{5}{2} + \\frac{\\sqrt{61}}{2} , \\text{} p = \\frac{5}{2} - \\frac{\\sqrt{61}}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.32",
+        "Problem Statement": "",
+        "Question": "Solve by completing the square: $$q^{2} = 7 q - 3 .$$",
+        "Image Links": [],
+        "Answer": "$$q = \\frac{7}{2} + \\frac{\\sqrt{37}}{2} , \\text{q} = \\frac{7}{2} - \\frac{\\sqrt{37}}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.33",
+        "Problem Statement": "",
+        "Question": "Solve by completing the square: $$( c - 2 ) ( c + 8 ) = 11 .$$",
+        "Image Links": [],
+        "Answer": "$$c = -9 , c = 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.34",
+        "Problem Statement": "",
+        "Question": "Solve by completing the square: $$( d - 7 ) ( d + 3 ) = 56 .$$",
+        "Image Links": [],
+        "Answer": "$$d = 11 , d = -7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.35",
+        "Problem Statement": "",
+        "Question": "Solve by completing the square: $$2 m^{2} + 16 m + 14 = 0 .$$",
+        "Image Links": [],
+        "Answer": "$$m = -7 , m = -1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.36",
+        "Problem Statement": "",
+        "Question": "Solve by completing the square: $$4 n^{2} - 24 n - 56 = 8 .$$",
+        "Image Links": [],
+        "Answer": "$$n = -2 , n = 8$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.37",
+        "Problem Statement": "",
+        "Question": "Solve by completing the square: $$3 r^{2} - 2 r = 21 .$$",
+        "Image Links": [],
+        "Answer": "$$r = - \\frac{7}{3} , r = 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.38",
+        "Problem Statement": "",
+        "Question": "Solve by completing the square: $$4 t^{2} + 2 t = 20 .$$",
+        "Image Links": [],
+        "Answer": "$$t = - \\frac{5}{2} , t = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.39",
+        "Problem Statement": "",
+        "Question": "Solve by completing the square: $$4 x^{2} + 3 x = 2 .$$",
+        "Image Links": [],
+        "Answer": "$$x = - \\frac{3}{8} + \\frac{\\sqrt{41}}{8} , \\text{} x = - \\frac{3}{8} - \\frac{\\sqrt{41}}{8}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 9.40",
+        "Problem Statement": "",
+        "Question": "Solve by completing the square: $$3 y^{2} - 10 y = -5 .$$",
+        "Image Links": [],
+        "Answer": "$$y = \\frac{5}{3} + \\frac{\\sqrt{10}}{3} , \\text{} y = \\frac{5}{3} - \\frac{\\sqrt{10}}{3}$$",
+        "Answer Image Links": []
+    }
+]

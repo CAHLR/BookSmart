@@ -1,0 +1,400 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "True or False? If vector field F is conservative on the open and connected region D , then line integrals of F are path independent on D , regardless of the shape of D .",
+        "Image Links": [],
+        "Answer": "True",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "True or False? Function $$\\mathbf{\\text{r}} ( t ) = \\mathbf{\\text{a}} + t ( \\mathbf{\\text{b}} - \\mathbf{\\text{a}} ) ,$$ where $$0 \\le t \\le 1 ,$$ parameterizes the straight-line segment from $$\\mathbf{\\text{a}} \\text{to} \\mathbf{\\text{b}} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "True or False? Vector field $$\\mathbf{\\text{F}} ( x , y , z ) = ( y \\text{sin} z ) \\mathbf{\\text{i}} + ( x \\text{sin} z ) \\mathbf{\\text{j}} + ( x y \\text{cos} z ) \\mathbf{\\text{k}}$$ is conservative.",
+        "Image Links": [],
+        "Answer": "True",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "True or False? Vector field $$\\mathbf{\\text{F}} ( x , y , z ) = y \\mathbf{\\text{i}} + ( x + z ) \\mathbf{\\text{j}} - y \\mathbf{\\text{k}}$$ is conservative.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Verify the Fundamental Theorem of Line Integrals for $$\\int_{C} \\mathbf{\\text{F}} \\cdotp d \\mathbf{\\text{r}}$$ by computing the integral using a parameterization and, separately, by finding a potential function for the case when $$\\mathbf{\\text{F}} ( x , y ) = ( 2 x + 2 y ) \\mathbf{\\text{i}} + ( 2 x + 2 y ) \\mathbf{\\text{j}}$$ and C is a portion of the positively oriented circle $$x^{2} + y^{2} = 25$$ from (5, 0) to (3, 4).",
+        "Image Links": [],
+        "Answer": "$$\\int_{C}^{} \\mathbf{\\text{F}} \\cdotp d \\mathbf{\\text{r}} = 24$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "[T] Find $$\\int_{C}^{} \\mathbf{\\text{F}} \\cdotp d \\mathbf{\\text{r}} ,$$ where $$\\mathbf{\\text{F}} ( x , y ) = ( y e^{x y} + \\text{cos} x ) \\mathbf{\\text{i}} + ( x e^{x y} + \\frac{1}{y^{2} + 1} ) \\mathbf{\\text{j}}$$ and C is a portion of curve $$y = \\text{sin} x$$ from $$x = 0$$ to $$x = \\frac{\\pi}{2} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "[T] Evaluate line integral $$\\int_{C}^{} \\mathbf{\\text{F}} \\cdotp d \\mathbf{\\text{r}} ,$$ where $$\\mathbf{\\text{F}} ( x , y ) = ( e^{x} \\text{sin} y - y ) \\mathbf{\\text{i}} + ( e^{x} \\text{cos} y - x - 2 ) \\mathbf{\\text{j}} ,$$ and C is the path given by $$r ( t ) = [ t^{3} \\text{sin} \\frac{\\pi t}{2} ] \\mathbf{\\text{i}} - [ \\frac{\\pi}{2} \\text{cos} ( \\frac{\\pi t}{2} + \\frac{\\pi}{2} ) ] \\mathbf{\\text{j}}$$ for $$0 \\le t \\le 1 .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b9d86cbc465af74f31e87be96a31aa0ddaf6b7b9"
+        ],
+        "Answer": "$$\\int_{C}^{} \\mathbf{\\text{F}} \\cdotp d \\mathbf{\\text{r}} = e - \\frac{3 \\pi}{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the vector field is conservative and, if it is, find the potential function.",
+        "Question": "$$\\mathbf{\\text{F}} ( x , y ) = 2 x y^{3} \\mathbf{\\text{i}} + 3 y^{2} x^{2} \\mathbf{\\text{j}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the vector field is conservative and, if it is, find the potential function.",
+        "Question": "$$\\mathbf{\\text{F}} ( x , y ) = ( \\text{unicode[:-]} y + e^{x} \\text{sin} y ) \\mathbf{\\text{i}} + [ ( x + 2 ) e^{x} \\text{cos} y ] \\mathbf{\\text{j}}$$",
+        "Image Links": [],
+        "Answer": "Not conservative",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the vector field is conservative and, if it is, find the potential function.",
+        "Question": "$$\\mathbf{\\text{F}} ( x , y ) = ( e^{2 x} \\text{sin} y ) \\mathbf{\\text{i}} + [ e^{2 x} \\text{cos} y ] \\mathbf{\\text{j}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the vector field is conservative and, if it is, find the potential function.",
+        "Question": "$$\\mathbf{\\text{F}} ( x , y ) = ( 6 x + 5 y ) \\mathbf{\\text{i}} + ( 5 x + 4 y ) \\mathbf{\\text{j}}$$",
+        "Image Links": [],
+        "Answer": "Conservative, $$f ( x , y ) = 3 x^{2} + 5 x y + 2 y^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the vector field is conservative and, if it is, find the potential function.",
+        "Question": "$$\\mathbf{\\text{F}} ( x , y ) = [ 2 x \\text{cos} ( y ) - y \\text{cos} ( x ) ] \\mathbf{\\text{i}} + [ \\text{unicode[:-]} x^{2} \\text{sin} ( y ) - \\text{sin} ( x ) ] \\mathbf{\\text{j}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the vector field is conservative and, if it is, find the potential function.",
+        "Question": "$$\\mathbf{\\text{F}} ( x , y ) = [ y e^{x} + \\text{sin} ( y ) ] \\mathbf{\\text{i}} + [ e^{x} + x \\text{cos} ( y ) ] \\mathbf{\\text{j}}$$",
+        "Image Links": [],
+        "Answer": "Conservative, $$f ( x , y ) = y e^{x} + x \\text{sin} ( y )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the line integrals using the Fundamental Theorem of Line Integrals.",
+        "Question": "$$\\int_{C} ( y \\mathbf{\\text{i}} + x \\mathbf{\\text{j}} ) \\cdotp d \\mathbf{\\text{r}} ,$$ where C is any path from (0, 0) to (2, 4)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the line integrals using the Fundamental Theorem of Line Integrals.",
+        "Question": "$$\\int_{C} ( 2 y d x + 2 x d y ) ,$$ where C is the line segment from (0, 0) to (4, 4)",
+        "Image Links": [],
+        "Answer": "$$\\int_{C} ( 2 y d x + 2 x d y ) = 32$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the line integrals using the Fundamental Theorem of Line Integrals.",
+        "Question": "[T] $$\\int_{C} [ \\text{arctan} \\frac{y}{x} - \\frac{x y}{x^{2} + y^{2}} ] d x + [ \\frac{x^{2}}{x^{2} + y^{2}} + e^{\\text{unicode[:-]} y} ( 1 - y ) ] d y ,$$ where C is any smooth curve from (1, 1) to $$( -1 , 2 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the line integrals using the Fundamental Theorem of Line Integrals.",
+        "Question": "Find the conservative vector field for the potential function $$f ( x , y ) = 5 x^{2} + 3 x y + 10 y^{2} .$$",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\text{F}} ( x , y ) = ( 10 x + 3 y ) \\mathbf{\\text{i}} + ( 3 x + 20 y ) \\mathbf{\\text{j}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the vector field is conservative and, if so, find a potential function.",
+        "Question": "$$\\mathbf{\\text{F}} ( x , y ) = ( 12 x y ) \\mathbf{\\text{i}} + 6 ( x^{2} + y^{2} ) \\mathbf{\\text{j}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the vector field is conservative and, if so, find a potential function.",
+        "Question": "$$\\mathbf{\\text{F}} ( x , y ) = ( e^{x} \\text{cos} y ) \\mathbf{\\text{i}} + 6 ( e^{x} \\text{sin} y ) \\mathbf{\\text{j}}$$",
+        "Image Links": [],
+        "Answer": "F is not conservative.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the vector field is conservative and, if so, find a potential function.",
+        "Question": "$$\\mathbf{\\text{F}} ( x , y ) = ( 2 x y e^{x^{2} y} ) \\mathbf{\\text{i}} + ( x^{2} e^{x^{2} y} ) \\mathbf{\\text{j}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the vector field is conservative and, if so, find a potential function.",
+        "Question": "$$\\mathbf{\\text{F}} ( x , y \\text{,} z ) = ( y e^{z} ) \\mathbf{\\text{i}} + ( x e^{z} ) \\mathbf{\\text{j}} + ( x y e^{z} ) \\mathbf{\\text{k}}$$",
+        "Image Links": [],
+        "Answer": "F is conservative and a potential function is $$f ( x , y \\text{,} z ) = x y e^{z} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the vector field is conservative and, if so, find a potential function.",
+        "Question": "$$\\mathbf{\\text{F}} ( x , y \\text{,} z ) = ( \\text{sin} y ) \\mathbf{\\text{i}} - ( x \\text{cos} y ) \\mathbf{\\text{j}} + \\mathbf{\\text{k}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the vector field is conservative and, if so, find a potential function.",
+        "Question": "$$\\mathbf{\\text{F}} ( x , y \\text{,} z ) = ( - \\frac{1}{y} ) \\mathbf{\\text{i}} + ( \\frac{x}{y^{2}} ) \\mathbf{\\text{j}} + ( 2 z - 1 ) \\mathbf{\\text{k}}$$",
+        "Image Links": [],
+        "Answer": "F is conservative and a potential function is $$f ( x , y , z ) = z^{2} - z - \\frac{x}{y} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the vector field is conservative and, if so, find a potential function.",
+        "Question": "$$\\mathbf{\\text{F}} ( x , y , z ) = 3 z^{2} \\mathbf{\\text{i}} - \\text{cos} y \\mathbf{\\text{j}} + 2 x z \\mathbf{\\text{k}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the vector field is conservative and, if so, find a potential function.",
+        "Question": "$$\\mathbf{\\text{F}} ( x , y \\text{,} z ) = ( 2 x y ) \\mathbf{\\text{i}} + ( x^{2} + 2 y z ) \\mathbf{\\text{j}} + y^{2} \\mathbf{\\text{k}}$$",
+        "Image Links": [],
+        "Answer": "F is conservative and a potential function is $$f ( x , y \\text{,} z ) = x^{2} y + y^{2} z .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the vector field is conservative and, if so, find a potential function.",
+        "Question": "$$\\mathbf{\\text{F}} ( x , y ) = ( e^{x} \\text{cos} y ) \\mathbf{\\text{i}} + 6 ( e^{x} \\text{sin} y ) \\mathbf{\\text{j}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, determine whether the vector field is conservative and, if so, find a potential function.",
+        "Question": "$$\\mathbf{\\text{F}} ( x , y ) = ( 2 x y e^{x^{2} y} ) \\mathbf{\\text{i}} + ( x^{2} e^{x^{2} y} ) \\mathbf{\\text{j}}$$",
+        "Image Links": [],
+        "Answer": "F is conservative and a potential function is $$f ( x , y ) = e^{x^{2} y}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the integral using the Fundamental Theorem of Line Integrals.",
+        "Question": "Evaluate $$\\int_{C} \\nabla f \\cdotp d \\mathbf{\\text{r}} ,$$ where $$f ( x , y \\text{,} z ) = \\text{cos} ( \\pi x ) + \\text{sin} ( \\pi y ) - x y z$$ and C is any path that starts at $$( 1 , \\frac{1}{2} , 2 )$$ and ends at $$( 2 , 1 , -1 ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the integral using the Fundamental Theorem of Line Integrals.",
+        "Question": "[T] Evaluate $$\\int_{C} \\nabla f \\cdotp d \\mathbf{\\text{r}} ,$$ where $$f ( x , y ) = x y + e^{x}$$ and C is a straight line from $$( 0 , 0 )$$ to $$( 2 , 1 ) .$$",
+        "Image Links": [],
+        "Answer": "$$\\int_{C} \\mathbf{\\text{F}} \\cdotp d r = e^{2} + 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the integral using the Fundamental Theorem of Line Integrals.",
+        "Question": "[T] Evaluate $$\\int_{C} \\nabla f \\cdotp d \\mathbf{\\text{r}} ,$$ where $$f ( x , y ) = x^{2} y - x$$ and C is any path in a plane from (1, 2) to (3, 2).",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, evaluate the integral using the Fundamental Theorem of Line Integrals.",
+        "Question": "Evaluate $$\\int_{C} \\nabla f \\cdotp d \\mathbf{\\text{r}} ,$$ where $$f ( x , y \\text{,} z ) = x y z^{2} - y z$$ and C has initial point (1, 2, 3) and terminal point (3, 5, 1).",
+        "Image Links": [],
+        "Answer": "$$\\int_{C} \\mathbf{\\text{F}} \\cdotp d r = -2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, let $$\\mathbf{\\text{F}} ( x , y ) = 2 x y^{2} \\mathbf{\\text{i}} + ( 2 y x^{2} + 2 y ) \\mathbf{\\text{j}}$$ and $$\\mathbf{G} ( x , y ) = ( y + x ) \\mathbf{\\text{i}} + ( y - x ) \\mathbf{\\text{j}} ,$$ and let C 1 be the curve consisting of the circle of radius 2, centered at the origin and oriented counterclockwise, and C 2 be the curve consisting of a line segment from (0, 0) to (1, 1) followed by a line segment from (1, 1) to (3, 1).  ",
+        "Question": "Calculate the line integral of F over C 1 .",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f83343c12d47dc0f71bff986a03c1c835dbcd109",
+            "https://openstax.org/apps/archive/20240812.170248/resources/bd9bb59772288edebb171bd8fbb40481cd28ef0c"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, let $$\\mathbf{\\text{F}} ( x , y ) = 2 x y^{2} \\mathbf{\\text{i}} + ( 2 y x^{2} + 2 y ) \\mathbf{\\text{j}}$$ and $$\\mathbf{G} ( x , y ) = ( y + x ) \\mathbf{\\text{i}} + ( y - x ) \\mathbf{\\text{j}} ,$$ and let C 1 be the curve consisting of the circle of radius 2, centered at the origin and oriented counterclockwise, and C 2 be the curve consisting of a line segment from (0, 0) to (1, 1) followed by a line segment from (1, 1) to (3, 1).  ",
+        "Question": "Calculate the line integral of G over C 1 .",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f83343c12d47dc0f71bff986a03c1c835dbcd109",
+            "https://openstax.org/apps/archive/20240812.170248/resources/bd9bb59772288edebb171bd8fbb40481cd28ef0c"
+        ],
+        "Answer": "$$\\int_{C_{1}} \\mathbf{\\text{G}} \\cdotp d \\mathbf{\\text{r}} = -8 \\pi$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, let $$\\mathbf{\\text{F}} ( x , y ) = 2 x y^{2} \\mathbf{\\text{i}} + ( 2 y x^{2} + 2 y ) \\mathbf{\\text{j}}$$ and $$\\mathbf{G} ( x , y ) = ( y + x ) \\mathbf{\\text{i}} + ( y - x ) \\mathbf{\\text{j}} ,$$ and let C 1 be the curve consisting of the circle of radius 2, centered at the origin and oriented counterclockwise, and C 2 be the curve consisting of a line segment from (0, 0) to (1, 1) followed by a line segment from (1, 1) to (3, 1).  ",
+        "Question": "Calculate the line integral of F over C 2 .",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f83343c12d47dc0f71bff986a03c1c835dbcd109",
+            "https://openstax.org/apps/archive/20240812.170248/resources/bd9bb59772288edebb171bd8fbb40481cd28ef0c"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, let $$\\mathbf{\\text{F}} ( x , y ) = 2 x y^{2} \\mathbf{\\text{i}} + ( 2 y x^{2} + 2 y ) \\mathbf{\\text{j}}$$ and $$\\mathbf{G} ( x , y ) = ( y + x ) \\mathbf{\\text{i}} + ( y - x ) \\mathbf{\\text{j}} ,$$ and let C 1 be the curve consisting of the circle of radius 2, centered at the origin and oriented counterclockwise, and C 2 be the curve consisting of a line segment from (0, 0) to (1, 1) followed by a line segment from (1, 1) to (3, 1).  ",
+        "Question": "Calculate the line integral of G over C 2 .",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f83343c12d47dc0f71bff986a03c1c835dbcd109",
+            "https://openstax.org/apps/archive/20240812.170248/resources/bd9bb59772288edebb171bd8fbb40481cd28ef0c"
+        ],
+        "Answer": "$$\\int_{C_{2}} \\mathbf{\\text{F}} \\cdotp d \\mathbf{\\text{r}} = 7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, let $$\\mathbf{\\text{F}} ( x , y ) = 2 x y^{2} \\mathbf{\\text{i}} + ( 2 y x^{2} + 2 y ) \\mathbf{\\text{j}}$$ and $$\\mathbf{G} ( x , y ) = ( y + x ) \\mathbf{\\text{i}} + ( y - x ) \\mathbf{\\text{j}} ,$$ and let C 1 be the curve consisting of the circle of radius 2, centered at the origin and oriented counterclockwise, and C 2 be the curve consisting of a line segment from (0, 0) to (1, 1) followed by a line segment from (1, 1) to (3, 1).  ",
+        "Question": "[T] Let $$\\mathbf{\\text{F}} ( x , y , z ) = x^{2} \\mathbf{\\text{i}} + z \\text{sin} ( y z ) \\mathbf{\\text{j}} + y \\text{sin} ( y z ) \\mathbf{\\text{k}} .$$ Calculate $$\\int_{C} \\mathbf{\\text{F}} \\cdotp d r ,$$ where C is a path from $$A = ( 0 , 0 , 1 )$$ to $$B = ( 3 , 1 , 2 ) .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f83343c12d47dc0f71bff986a03c1c835dbcd109",
+            "https://openstax.org/apps/archive/20240812.170248/resources/bd9bb59772288edebb171bd8fbb40481cd28ef0c"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, let $$\\mathbf{\\text{F}} ( x , y ) = 2 x y^{2} \\mathbf{\\text{i}} + ( 2 y x^{2} + 2 y ) \\mathbf{\\text{j}}$$ and $$\\mathbf{G} ( x , y ) = ( y + x ) \\mathbf{\\text{i}} + ( y - x ) \\mathbf{\\text{j}} ,$$ and let C 1 be the curve consisting of the circle of radius 2, centered at the origin and oriented counterclockwise, and C 2 be the curve consisting of a line segment from (0, 0) to (1, 1) followed by a line segment from (1, 1) to (3, 1).  ",
+        "Question": "[T] Find line integral $$\\int_{C} \\mathbf{\\text{F}} \\cdotp d r$$ of vector field $$\\mathbf{\\text{F}} ( x , y , z ) = 3 x^{2} z \\mathbf{\\text{i}} + z^{2} \\mathbf{\\text{j}} + ( x^{3} + 2 y z ) \\mathbf{\\text{k}}$$ along curve C parameterized by $$r ( t ) = ( \\frac{\\text{ln} t}{\\text{ln} 2} ) \\mathbf{\\text{i}} + t^{3 \\text{/} 2} \\mathbf{\\text{j}} + t \\text{cos} ( \\pi t ) \\text{,} 1 \\le t \\le 4 .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f83343c12d47dc0f71bff986a03c1c835dbcd109",
+            "https://openstax.org/apps/archive/20240812.170248/resources/bd9bb59772288edebb171bd8fbb40481cd28ef0c"
+        ],
+        "Answer": "$$\\int_{C} \\mathbf{\\text{F}} \\cdotp d \\mathbf{\\text{r}} = 159$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, show that the following vector fields are conservative by using a computer. Calculate $$\\int_{C} \\mathbf{\\text{F}} \\cdotp d \\mathbf{\\text{r}}$$ for the given curve.",
+        "Question": "$$\\mathbf{\\text{F}} = ( x y^{2} + 3 x^{2} y ) \\mathbf{\\text{i}} + ( x + y ) x^{2} \\mathbf{\\text{j}} ;$$ C is the curve consisting of line segments from $$( 1 , 1 )$$ to $$( 0 , 2 )$$ to $$( 3 , 0 ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, show that the following vector fields are conservative by using a computer. Calculate $$\\int_{C} \\mathbf{\\text{F}} \\cdotp d \\mathbf{\\text{r}}$$ for the given curve.",
+        "Question": "$$\\mathbf{\\text{F}} = \\frac{2 x}{y^{2} + 1} \\mathbf{\\text{i}} - \\frac{2 y ( x^{2} + 1 )}{( y^{2} + 1 )^{2}} \\mathbf{\\text{j}} ;$$ C is parameterized by $$x = t^{3} - 1 , y = t^{6} - t , 0 \\le t \\le 1 .$$",
+        "Image Links": [],
+        "Answer": "$$\\int_{C} \\mathbf{\\text{F}} \\cdotp d \\mathbf{\\text{r}} = -1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, show that the following vector fields are conservative by using a computer. Calculate $$\\int_{C} \\mathbf{\\text{F}} \\cdotp d \\mathbf{\\text{r}}$$ for the given curve.",
+        "Question": "[T] $$\\mathbf{\\text{F}} = [ \\text{cos} ( x y^{2} ) - x y^{2} \\text{sin} ( x y^{2} ) ] \\mathbf{\\text{i}} - 2 x^{2} y \\text{sin} ( x y^{2} ) \\mathbf{\\text{j}} ;$$ C is curve $$( e^{t} , e^{t + 1} ) , -1 \\le t \\le 0 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, show that the following vector fields are conservative by using a computer. Calculate $$\\int_{C} \\mathbf{\\text{F}} \\cdotp d \\mathbf{\\text{r}}$$ for the given curve.",
+        "Question": "The mass of Earth is approximately $$6 \\times 10^{27} \\text{g}$$ and that of the Sun is 330,000 times as much. The gravitational constant is $$6.7 \\times 10^{-8} \\text{cm}^{3} \\text{/} \\text{s}^{2} \\cdotp \\text{g} .$$ The distance of Earth from the Sun is about $$1.5 \\times 10^{12} \\text{cm} .$$ Compute, approximately, the work necessary to increase the distance of Earth from the Sun by $$1 \\text{cm} .$$",
+        "Image Links": [],
+        "Answer": "$$4 \\times 10^{31} \\text{erg}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, show that the following vector fields are conservative by using a computer. Calculate $$\\int_{C} \\mathbf{\\text{F}} \\cdotp d \\mathbf{\\text{r}}$$ for the given curve.",
+        "Question": "[T] Let $$\\mathbf{\\text{F}} = ( x , y , z ) = ( e^{x} \\text{sin} y ) \\mathbf{\\text{i}} + ( e^{x} \\text{cos} y ) \\mathbf{\\text{j}} + z^{2} \\mathbf{\\text{k}} .$$ Evaluate the integral $$\\int_{C} \\mathbf{\\text{F}} \\cdotp d s ,$$ where C is the curve $$( \\sqrt{t} , t^{3} , e^{\\sqrt{t}} ) , 0 \\le t \\le 1 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, show that the following vector fields are conservative by using a computer. Calculate $$\\int_{C} \\mathbf{\\text{F}} \\cdotp d \\mathbf{\\text{r}}$$ for the given curve.",
+        "Question": "[T] Let $$\\mathbf{\\text{c}} : [ 1 , 2 ] \\vec{} \\RR^{2}$$ be given by $$x = e^{t - 1} , y = \\text{sin} ( \\frac{\\pi}{t} ) .$$ Use a computer to compute the integral $$\\int_{C} \\mathbf{\\text{F}} \\cdotp d \\mathbf{\\text{s}} = \\int_{C} 2 x \\text{cos} y d x - x^{2} \\text{sin} y d y ,$$ where $$\\mathbf{\\text{F}} = ( 2 x \\text{cos} y ) \\mathbf{\\text{i}} - ( x^{2} \\text{sin} y ) \\mathbf{\\text{j}} .$$",
+        "Image Links": [],
+        "Answer": "$$\\int_{C} \\mathbf{\\text{F}} \\cdotp d \\mathbf{\\text{s}} = 0.4687$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, show that the following vector fields are conservative by using a computer. Calculate $$\\int_{C} \\mathbf{\\text{F}} \\cdotp d \\mathbf{\\text{r}}$$ for the given curve.",
+        "Question": "[T] Use a computer algebra system to find the mass of a wire that lies along curve $$\\mathbf{\\text{r}} ( t ) = ( t^{2} - 1 ) \\mathbf{\\text{j}} + 2 t \\mathbf{\\text{k}} , 0 \\le t \\le 1 ,$$ if the density is $$\\frac{3}{2} t .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, show that the following vector fields are conservative by using a computer. Calculate $$\\int_{C} \\mathbf{\\text{F}} \\cdotp d \\mathbf{\\text{r}}$$ for the given curve.",
+        "Question": "Find the circulation and flux of field $$\\mathbf{\\text{F}} = \\text{unicode[:-]} y \\mathbf{\\text{i}} + x \\mathbf{\\text{j}}$$ around and across the closed semicircular path that consists of semicircular arch $$\\mathbf{\\text{r}}_{1} ( t ) = ( a \\text{cos} t ) \\mathbf{\\text{i}} + ( a \\text{sin} t ) \\mathbf{\\text{j}} , 0 \\le t \\le \\pi ,$$ followed by line segment $$\\mathbf{\\text{r}}_{2} ( t ) = t \\mathbf{\\text{i}} , \\text{unicode[:-]} a \\le t \\le a .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/e81e4798d04629e4028878e067343648d1327457"
+        ],
+        "Answer": "$$\\text{circulation} = \\pi a^{2} \\text{and flux} = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, show that the following vector fields are conservative by using a computer. Calculate $$\\int_{C} \\mathbf{\\text{F}} \\cdotp d \\mathbf{\\text{r}}$$ for the given curve.",
+        "Question": "Compute $$\\int_{C} \\text{cos} x \\text{cos} y d x - \\text{sin} x \\text{sin} y d y ,$$ where $$\\mathbf{\\text{c}} ( t ) = ( t , t^{2} ) , 0 \\le t \\le 1 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following exercises, show that the following vector fields are conservative by using a computer. Calculate $$\\int_{C} \\mathbf{\\text{F}} \\cdotp d \\mathbf{\\text{r}}$$ for the given curve.",
+        "Question": "Complete the proof of The Path Independence Test for Conservative Fields by showing that $$f_{y} = Q ( x , y ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

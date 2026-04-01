@@ -1,0 +1,210 @@
+[
+    {
+        "Topic": "Try It 5.137",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{36}$$ \u24d1 $$\\sqrt{169} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 6 \u24d1 13",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.138",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{16}$$ \u24d1 $$\\sqrt{196} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 4 \u24d1 14",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.139",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$- \\sqrt{4}$$ \u24d1 $$- \\sqrt{225} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 -2 \u24d1 -15",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.140",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$- \\sqrt{81}$$ \u24d1 $$- \\sqrt{64} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 -9 \u24d1 -8",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.141",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{-196}$$ \u24d1 $$- \\sqrt{81} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 not a real number \u24d1 -9",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.142",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{-49}$$ \u24d1 $$- \\sqrt{121} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 not a real number \u24d1 -11",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.143",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{9} + \\sqrt{16}$$ \u24d1 $$\\sqrt{9 + 16} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 7 \u24d1 5",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.144",
+        "Problem Statement": "",
+        "Question": "Simplify: \u24d0 $$\\sqrt{64 + 225}$$ \u24d1 $$\\sqrt{64} + \\sqrt{225} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 17 \u24d1 23",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.145",
+        "Problem Statement": "",
+        "Question": "Estimate $$\\sqrt{38}$$ between two consecutive whole numbers.",
+        "Image Links": [],
+        "Answer": "$$6 < \\sqrt{38} < 7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.146",
+        "Problem Statement": "",
+        "Question": "Estimate $$\\sqrt{84}$$ between two consecutive whole numbers.",
+        "Image Links": [],
+        "Answer": "$$9 < \\sqrt{84} < 10$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.147",
+        "Problem Statement": "",
+        "Question": "Round $$\\sqrt{11}$$ to two decimal places.",
+        "Image Links": [],
+        "Answer": "\u2248 3.32",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.148",
+        "Problem Statement": "",
+        "Question": "Round $$\\sqrt{13}$$ to two decimal places.",
+        "Image Links": [],
+        "Answer": "\u2248 3.61",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.149",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\sqrt{y^{2}} .$$",
+        "Image Links": [],
+        "Answer": "y",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.150",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\sqrt{m^{2}} .$$",
+        "Image Links": [],
+        "Answer": "m",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.151",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\sqrt{64 x^{2}} .$$",
+        "Image Links": [],
+        "Answer": "8 x",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.152",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\sqrt{169 y^{2}} .$$",
+        "Image Links": [],
+        "Answer": "13 y",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.153",
+        "Problem Statement": "",
+        "Question": "Simplify: $$- \\sqrt{121 y^{2}} .$$",
+        "Image Links": [],
+        "Answer": "-11 y",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.154",
+        "Problem Statement": "",
+        "Question": "Simplify: $$- \\sqrt{100 p^{2}} .$$",
+        "Image Links": [],
+        "Answer": "-10 p",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.155",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\sqrt{100 a^{2} b^{2}} .$$",
+        "Image Links": [],
+        "Answer": "10 ab",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.156",
+        "Problem Statement": "",
+        "Question": "Simplify: $$\\sqrt{225 m^{2} n^{2}} .$$",
+        "Image Links": [],
+        "Answer": "15 mn",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.157",
+        "Problem Statement": "",
+        "Question": "Katie wants to plant a square lawn in her front yard. She has enough sod to cover an area of $$370$$ square feet. To the nearest tenth of a foot, how long can a side of her square lawn be?",
+        "Image Links": [],
+        "Answer": "19.2 feet",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.158",
+        "Problem Statement": "",
+        "Question": "Sergio wants to make a square mosaic as an inlay for a table he is building. He has enough tile to cover an area of $$2704$$ square centimeters. How long can a side of his mosaic be?",
+        "Image Links": [],
+        "Answer": "52 centimeters",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.159",
+        "Problem Statement": "",
+        "Question": "A helicopter drops a rescue package from a height of $$1296$$ feet. How many seconds does it take for the package to reach the ground?",
+        "Image Links": [],
+        "Answer": "9 seconds",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.160",
+        "Problem Statement": "",
+        "Question": "A window washer drops a squeegee from a platform $$196$$ feet above the sidewalk. How many seconds does it take for the squeegee to reach the sidewalk?",
+        "Image Links": [],
+        "Answer": "3.5 seconds",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.161",
+        "Problem Statement": "",
+        "Question": "An accident investigator measured the skid marks of a car and found their length was $$76$$ feet. To the nearest tenth, what was the speed of the car before the brakes were applied?",
+        "Image Links": [],
+        "Answer": "42.7 mph",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.162",
+        "Problem Statement": "",
+        "Question": "The skid marks of a vehicle involved in an accident were $$122$$ feet long. To the nearest tenth, how fast had the vehicle been going before the brakes were applied?",
+        "Image Links": [],
+        "Answer": "54.1 mph",
+        "Answer Image Links": []
+    }
+]

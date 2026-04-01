@@ -1,0 +1,386 @@
+[
+    {
+        "Topic": "2.1 Scalars and Vectors",
+        "Problem Statement": "",
+        "Question": "A scuba diver makes a slow descent into the depths of the ocean. His vertical position with respect to a boat on the surface changes several times. He makes the first stop 9.0 m from the boat but has a problem with equalizing the pressure, so he ascends 3.0 m and then continues descending for another 12.0 m to the second stop. From there, he ascends 4 m and then descends for 18.0 m, ascends again for 7 m and descends again for 24.0 m, where he makes a stop, waiting for his buddy. Assuming the positive direction up to the surface, express his net vertical displacement vector in terms of the unit vector. What is his distance to the boat?",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\vec{h}} = -49 \\text{m} \\mathbf{\\hat{u}}$$ , 49 m",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.1 Scalars and Vectors",
+        "Problem Statement": "",
+        "Question": "In a tug-of-war game on one campus, 15 students pull on a rope at both ends in an effort to displace the central knot to one side or the other. Two students pull with force 196 N each to the right, four students pull with force 98 N each to the left, five students pull with force 62 N each to the left, three students pull with force 150 N each to the right, and one student pulls with force 250 N to the left. Assuming the positive direction to the right, express the net pull on the knot in terms of the unit vector. How big is the net pull on the knot? In what direction?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.1 Scalars and Vectors",
+        "Problem Statement": "",
+        "Question": "Suppose you walk 18.0 m straight west and then 25.0 m straight north. How far are you from your starting point and what is the compass direction of a line connecting your starting point to your final position? Use a graphical method.",
+        "Image Links": [],
+        "Answer": "30.8 m, $$35.7 \\text{\u00b0}$$ west of north (equivalently, $$54.2 \\text{\u00b0}$$ north of west or $$125.7 \\text{\u00b0}$$ from east)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.1 Scalars and Vectors",
+        "Problem Statement": "",
+        "Question": "For the vectors given in the following figure, use a graphical method to find the following resultants: (a) $$\\mathbf{\\vec{A}} + \\mathbf{\\vec{B}}$$ , (b) $$\\mathbf{\\vec{C}} + \\mathbf{\\vec{B}}$$ , (c) $$\\mathbf{\\vec{D}} + \\mathbf{\\vec{F}}$$ , (d) $$\\mathbf{\\vec{A}} - \\mathbf{\\vec{B}}$$ , (e) $$\\mathbf{\\vec{D}} - \\mathbf{\\vec{F}}$$ , (f) $$\\mathbf{\\vec{A}} + 2 \\mathbf{\\vec{F}}$$ , (g) $$\\mathbf{\\vec{C}} - 2 \\mathbf{\\vec{D}} + 3 \\mathbf{\\vec{F}}$$ ; and (h) $$\\mathbf{\\vec{A}} - 4 \\mathbf{\\vec{D}} + 2 \\mathbf{\\vec{F}}$$ .",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/dcfeaa77f2cf474e8c4cbb1f2d6744b27fc9a996"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.1 Scalars and Vectors",
+        "Problem Statement": "",
+        "Question": "A delivery driver starts at the post office, drives 40 km north, then 20 km west, then 60 km northeast, and finally 50 km north to stop for lunch. Use a graphical method to find their net displacement vector.",
+        "Image Links": [],
+        "Answer": "134 km, $$80 \\text{\u00b0}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.1 Scalars and Vectors",
+        "Problem Statement": "",
+        "Question": "An adventurous dog strays from home, runs three blocks east, two blocks north, one block east, one block north, and two blocks west. Assuming that each block is about 100 m, how far from home and in what direction is the dog? Use a graphical method.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.1 Scalars and Vectors",
+        "Problem Statement": "",
+        "Question": "In an attempt to escape a desert island, a castaway builds a raft and sets out to sea. The wind shifts a great deal during the day and he is blown along the following directions: 2.50 km and $$45.0 \\text{\u00b0}$$ north of west, then 4.70 km and $$60.0 \\text{\u00b0}$$ south of east, then 1.30 km and $$25.0 \\text{\u00b0}$$ south of west, then 5.10 km straight east, then 1.70 km and $$5.00 \\text{\u00b0}$$ east of north, then 7.20 km and $$55.0 \\text{\u00b0}$$ south of west, and finally 2.80 km and $$10.0 \\text{\u00b0}$$ north of east. Use a graphical method to find the castaway\u2019s final position relative to the island.",
+        "Image Links": [],
+        "Answer": "7.34 km, $$63.5 \\text{\u00b0}$$ south of east",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.1 Scalars and Vectors",
+        "Problem Statement": "",
+        "Question": "A small plane flies 40.0 km in a direction $$60 \\text{\u00b0}$$ north of east and then flies 30.0 km in a direction $$15 \\text{\u00b0}$$ north of east. Use a graphical method to find the total distance the plane covers from the starting point and the direction of the path to the final position.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.1 Scalars and Vectors",
+        "Problem Statement": "",
+        "Question": "A trapper walks a 5.0-km straight-line distance from his cabin to the lake, as shown in the following figure. Use a graphical method (the parallelogram rule) to determine the trapper\u2019s displacement directly to the east and displacement directly to the north that sum up to his resultant displacement vector. If the trapper walked only in directions east and north, zigzagging his way to the lake, how many kilometers would he have to walk to get to the lake?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a41089f8e67390af15d1f40403ddc6eda9ab33c6"
+        ],
+        "Answer": "3.8 km east, 3.2 km north, 7.0 km",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.1 Scalars and Vectors",
+        "Problem Statement": "",
+        "Question": "A surveyor measures the distance across a river that flows straight north by the following method. Starting directly across from a tree on the opposite bank, the surveyor walks 100 m along the river to establish a baseline. She then sights across to the tree and reads that the angle from the baseline to the tree is $$35 \\text{\u00b0}$$ . How wide is the river?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.1 Scalars and Vectors",
+        "Problem Statement": "",
+        "Question": "A pedestrian walks 6.0 km east and then 13.0 km north. Use a graphical method to find the pedestrian\u2019s resultant displacement and geographic direction.",
+        "Image Links": [],
+        "Answer": "14.3 km, $$65 \\text{\u00b0}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.1 Scalars and Vectors",
+        "Problem Statement": "",
+        "Question": "The magnitudes of two displacement vectors are A = 20 m and B = 6 m. What are the largest and the smallest values of the magnitude of the resultant $$\\mathbf{\\vec{R}} = \\mathbf{\\vec{A}} + \\mathbf{\\vec{B}} ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.2 Coordinate Systems and Components of a Vector",
+        "Problem Statement": "",
+        "Question": "Assuming the + x -axis is horizontal and points to the right, resolve the vectors given in the following figure to their scalar components and express them in vector component form.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/42490af8a727394f8e40b7eb433b04a75078dec0"
+        ],
+        "Answer": "a. $$\\mathbf{\\vec{A}} = + 8.66 \\mathbf{\\hat{i}} + 5.00 \\mathbf{\\hat{j}}$$ , b. $$\\mathbf{\\vec{B}} = + 3.01 \\mathbf{\\hat{i}} + 3.99 \\mathbf{\\hat{j}}$$ , c. $$\\mathbf{\\vec{C}} = + 6.00 \\mathbf{\\hat{i}} - 10.39 \\mathbf{\\hat{j}}$$ , d. $$\\mathbf{\\vec{D}} = -15.97 \\mathbf{\\hat{i}} + 12.04 \\mathbf{\\hat{j}}$$ , f. $$\\mathbf{\\vec{F}} = -17.32 \\mathbf{\\hat{i}} - 10.00 \\mathbf{\\hat{j}}$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/42490af8a727394f8e40b7eb433b04a75078dec0"
+        ]
+    },
+    {
+        "Topic": "2.2 Coordinate Systems and Components of a Vector",
+        "Problem Statement": "",
+        "Question": "Suppose you walk 18.0 m straight west and then 25.0 m straight north. How far are you from your starting point? What is your displacement vector? What is the direction of your displacement? Assume the + x -axis is to the east.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.2 Coordinate Systems and Components of a Vector",
+        "Problem Statement": "",
+        "Question": "You drive 7.50 km in a straight line in a direction $$15 \\text{\u00b0}$$ east of north. (a) Find the distances you would have to drive straight east and then straight north to arrive at the same point. (b) Show that you still arrive at the same point if the east and north legs are reversed in order. Assume the + x -axis is to the east.",
+        "Image Links": [],
+        "Answer": "a. 1.94 km, 7.24 km; b. proof",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.2 Coordinate Systems and Components of a Vector",
+        "Problem Statement": "",
+        "Question": "A sledge is being pulled by two horses on a flat terrain. The net force on the sledge can be expressed in the Cartesian coordinate system as vector $$\\mathbf{\\vec{F}} = ( -2980.0 \\mathbf{\\hat{i}} + 8200.0 \\mathbf{\\hat{j}} ) \\text{N}$$ , where $$\\mathbf{\\hat{i}}$$ and $$\\mathbf{\\hat{j}}$$ denote directions to the east and north, respectively. Find the magnitude and direction of the pull.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.2 Coordinate Systems and Components of a Vector",
+        "Problem Statement": "",
+        "Question": "A trapper walks a 5.0-km straight-line distance from her cabin to the lake, as shown in the following figure. Determine the east and north components of her displacement vector. How many more kilometers would she have to walk if she walked along the component displacements? What is her displacement vector?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a41089f8e67390af15d1f40403ddc6eda9ab33c6"
+        ],
+        "Answer": "3.8 km east, 3.2 km north, 2.0 km, $$\\mathbf{\\vec{D}} = ( 3.8 \\mathbf{\\hat{i}} + 3.2 \\mathbf{\\hat{j}} ) \\text{km}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.2 Coordinate Systems and Components of a Vector",
+        "Problem Statement": "",
+        "Question": "The polar coordinates of a point are $$4 \\pi \\text{/} 3$$ and 5.50 m. What are its Cartesian coordinates?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.2 Coordinate Systems and Components of a Vector",
+        "Problem Statement": "",
+        "Question": "Two points in a plane have polar coordinates $$P_{1} ( 2.500 \\text{m} , \\pi \\text{/} 6 )$$ and $$P_{2} ( 3.800 \\text{m} , 2 \\pi \\text{/} 3 )$$ . Determine their Cartesian coordinates and the distance between them in the Cartesian coordinate system. Round the distance to a nearest centimeter.",
+        "Image Links": [],
+        "Answer": "$$P_{1} ( 2.165 \\text{m} , 1.250 \\text{m} )$$ , $$P_{2} ( -1.900 \\text{m} , 3.290 \\text{m} )$$ , 4.55 m",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.2 Coordinate Systems and Components of a Vector",
+        "Problem Statement": "",
+        "Question": "A chameleon is resting quietly on a lanai screen, waiting for an insect to come by. Assume the origin of a Cartesian coordinate system at the lower left-hand corner of the screen and the horizontal direction to the right as the + x -direction. If its coordinates are (2.000 m, 1.000 m), (a) how far is it from the corner of the screen? (b) What is its location in polar coordinates?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.2 Coordinate Systems and Components of a Vector",
+        "Problem Statement": "",
+        "Question": "Two points in the Cartesian plane are A (2.00 m, -4.00 m) and B (-3.00 m, 3.00 m). Find the distance between them and their polar coordinates.",
+        "Image Links": [],
+        "Answer": "8.60 m, $$A ( 2 \\sqrt{5} \\text{m} , 0.647 \\pi )$$ , $$B ( 3 \\sqrt{2} \\text{m} , 0.75 \\pi )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.2 Coordinate Systems and Components of a Vector",
+        "Problem Statement": "",
+        "Question": "A fly enters through an open window and zooms around the room. In a Cartesian coordinate system with three axes along three edges of the room, the fly changes its position from point b (4.0 m, 1.5 m, 2.5 m) to point e (1.0 m, 4.5 m, 0.5 m). Find the scalar components of the fly\u2019s displacement vector and express its displacement vector in vector component form. What is its magnitude?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.3 Algebra of Vectors",
+        "Problem Statement": "",
+        "Question": "For vectors $$\\mathbf{\\vec{B}} = \\text{unicode[:-]} \\mathbf{\\hat{i}} - 4 \\mathbf{\\hat{j}}$$ and $$\\mathbf{\\vec{A}} = -3 \\mathbf{\\hat{i}} - 2 \\mathbf{\\hat{j}}$$ , calculate (a) $$\\mathbf{\\vec{A}} + \\mathbf{\\vec{B}}$$ and its magnitude and direction angle, and (b) $$\\mathbf{\\vec{A}} - \\mathbf{\\vec{B}}$$ and its magnitude and direction angle.",
+        "Image Links": [],
+        "Answer": "a. $$\\mathbf{\\vec{A}} + \\mathbf{\\vec{B}} = -4 \\mathbf{\\hat{i}} - 6 \\mathbf{\\hat{j}}$$ , $$| \\mathbf{\\vec{A}} + \\mathbf{\\vec{B}} | = 7.211 , \\theta = 236 \\text{\u00b0}$$ ; b. $$\\mathbf{\\vec{A}} - \\mathbf{\\vec{B}} = -2 \\mathbf{\\hat{i}} + 2 \\mathbf{\\hat{j}}$$ , $$| \\mathbf{\\vec{A}} - \\mathbf{\\vec{B}} | = 2 \\sqrt{2} , \\theta = 135 \\text{\u00b0}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.3 Algebra of Vectors",
+        "Problem Statement": "",
+        "Question": "A particle undergoes three consecutive displacements given by vectors $$\\mathbf{\\vec{D}}_{1} = ( 3.0 \\mathbf{\\hat{i}} - 4.0 \\mathbf{\\hat{j}} - 2.0 \\mathbf{\\hat{k}} ) \\text{mm}$$ , $$\\mathbf{\\vec{D}}_{2} = ( 1.0 \\mathbf{\\hat{i}} - 7.0 \\mathbf{\\hat{j}} + 4.0 \\mathbf{\\hat{k}} ) \\text{mm}$$ , and $$\\mathbf{\\vec{D}}_{3} = ( -7.0 \\mathbf{\\hat{i}} + 4.0 \\mathbf{\\hat{j}} + 1.0 \\mathbf{\\hat{k}} ) \\text{mm}$$ . (a) Find the resultant displacement vector of the particle. (b) What is the magnitude of the resultant displacement? (c) If all displacements were along one line, how far would the particle travel?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.3 Algebra of Vectors",
+        "Problem Statement": "",
+        "Question": "Given two displacement vectors $$\\mathbf{\\vec{A}} = ( 3.00 \\mathbf{\\hat{i}} - 4.00 \\mathbf{\\hat{j}} + 4.00 \\mathbf{\\hat{k}} ) \\text{m}$$ and $$\\mathbf{\\vec{B}} = ( 2.00 \\mathbf{\\hat{i}} + 3.00 \\mathbf{\\hat{j}} - 7.00 \\mathbf{\\hat{k}} ) \\text{m}$$ , find the displacements and their magnitudes for (a) $$\\mathbf{\\vec{C}} = \\mathbf{\\vec{A}} + \\mathbf{\\vec{B}}$$ and (b) $$\\mathbf{\\vec{D}} = 2 \\mathbf{\\vec{A}} - \\mathbf{\\vec{B}}$$ .",
+        "Image Links": [],
+        "Answer": "a. $$\\mathbf{\\vec{C}} = ( 5.0 \\mathbf{\\hat{i}} - 1.0 \\mathbf{\\hat{j}} - 3.0 \\mathbf{\\hat{k}} ) \\text{m} , C = 5.92 \\text{m}$$ ; b. $$\\mathbf{\\vec{D}} = ( 4.0 \\mathbf{\\hat{i}} - 11.0 \\mathbf{\\hat{j}} + 15.0 \\mathbf{\\hat{k}} ) \\text{m} , D = 19.03 \\text{m}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.3 Algebra of Vectors",
+        "Problem Statement": "",
+        "Question": "A small plane flies $$40.0 \\text{km}$$ in a direction $$60 \\text{\u00b0}$$ north of east and then flies $$30.0 \\text{km}$$ in a direction $$15 \\text{\u00b0}$$ north of east. Use the analytical method to find the total distance the plane covers from the starting point, and the geographic direction of its displacement vector. What is its displacement vector?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.3 Algebra of Vectors",
+        "Problem Statement": "",
+        "Question": "In an attempt to escape a desert island, a castaway builds a raft and sets out to sea. The wind shifts a great deal during the day, and she is blown along the following straight lines: 2.50 km and $$45.0 \\text{\u00b0}$$ north of west, then 4.70 km and $$60.0 \\text{\u00b0}$$ south of east, then 1.30 km and $$25.0 \\text{\u00b0}$$ south of west, then 5.10 km due east, then 1.70 km and $$5.00 \\text{\u00b0}$$ east of north, then 7.20 km and $$55.0 \\text{\u00b0}$$ south of west, and finally 2.80 km and $$10.0 \\text{\u00b0}$$ north of east. Use the analytical method to find the resultant vector of all her displacement vectors. What is its magnitude and direction?",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\vec{D}} = ( 3.3 \\mathbf{\\hat{i}} - 6.6 \\mathbf{\\hat{j}} ) \\text{km}$$ , $$\\mathbf{\\hat{i}}$$ is to the east, 7.34 km, $$-63.5 \\text{\u00b0}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.3 Algebra of Vectors",
+        "Problem Statement": "",
+        "Question": "Assuming the + x -axis is horizontal to the right for the vectors given in the following figure, use the analytical method to find the following resultants: (a) $$11.67 \\mathbf{\\hat{i}} + 8.99 \\mathbf{\\hat{j}}$$ , (b) $$9.01 \\mathbf{\\hat{i}} - 6.40 \\mathbf{\\hat{j}}$$ , (c) $$\\mathbf{\\vec{D}} + \\mathbf{\\vec{F}}$$ , (d) $$5.65 \\mathbf{\\hat{i}} + 1.01 \\mathbf{\\hat{j}}$$ , (e) $$\\mathbf{\\vec{D}} - \\mathbf{\\vec{F}}$$ , (f) $$\\mathbf{\\vec{A}} + 2 \\mathbf{\\vec{F}}$$ , (g) $$\\mathbf{\\vec{C}} - 2 \\mathbf{\\vec{D}} + 3 \\mathbf{\\vec{F}}$$ , and (h) $$\\mathbf{\\vec{A}} - 4 \\mathbf{\\vec{D}} + 2 \\mathbf{\\vec{F}}$$ . Figure 2.33",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/42490af8a727394f8e40b7eb433b04a75078dec0"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.3 Algebra of Vectors",
+        "Problem Statement": "",
+        "Question": "Given the vectors in the preceding figure, find vector $$\\mathbf{\\vec{R}}$$ that solves equations (a) $$\\mathbf{\\vec{D}} + \\mathbf{\\vec{R}} = \\mathbf{\\vec{F}}$$ and (b) $$\\mathbf{\\vec{C}} - 2 \\mathbf{\\vec{D}} + 5 \\mathbf{\\vec{R}} = 3 \\mathbf{\\vec{F}}$$ . Assume the + x -axis is horizontal to the right.",
+        "Image Links": [],
+        "Answer": "a. $$\\mathbf{\\vec{R}} = -1.35 \\mathbf{\\hat{i}} - 22.04 \\mathbf{\\hat{j}}$$ , b. $$\\mathbf{\\vec{R}} = -17.98 \\mathbf{\\hat{i}} + 0.89 \\mathbf{\\hat{j}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.3 Algebra of Vectors",
+        "Problem Statement": "",
+        "Question": "A delivery driver starts at the post office, drives 40 km north, then 20 km west, then 60 km northeast, and finally 50 km north to stop for lunch. Use the analytical method to determine the following: (a) Find his net displacement vector. (b) How far is the restaurant from the post office? (c) If he returns directly from the restaurant to the post office, what is his displacement vector on the return trip? (d) What is his compass heading on the return trip? Assume the + x -axis is to the east.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.3 Algebra of Vectors",
+        "Problem Statement": "",
+        "Question": "An adventurous dog strays from home, runs three blocks east, two blocks north, and one block east, one block north, and two blocks west. Assuming that each block is about a 100 yd, use the analytical method to find the dog\u2019s net displacement vector, its magnitude, and its direction. Assume the + x -axis is to the east. How would your answer be affected if each block was about 100 m?",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\vec{D}} = ( 200 \\mathbf{\\hat{i}} + 300 \\mathbf{\\hat{j}} ) \\text{yd}$$ , D = 360.5 yd, $$56.3 \\text{\u00b0}$$ north of east; The numerical answers would stay the same but the physical unit would be meters. The physical meaning and distances would be about the same because 1 yd is comparable with 1 m.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.3 Algebra of Vectors",
+        "Problem Statement": "",
+        "Question": "If $$\\mathbf{\\vec{D}} = ( 6.00 \\mathbf{\\hat{i}} - 8.00 \\mathbf{\\hat{j}} ) \\text{m}$$ , $$\\mathbf{\\vec{B}} = ( -8.00 \\mathbf{\\hat{i}} + 3.00 \\mathbf{\\hat{j}} ) \\text{m}$$ , and $$\\mathbf{\\vec{A}} = ( 26.0 \\mathbf{\\hat{i}} + 19.0 \\mathbf{\\hat{j}} ) \\text{m}$$ , find the unknown constants a and b such that $$a \\mathbf{\\vec{D}} + b \\mathbf{\\vec{B}} + \\mathbf{\\vec{A}} = \\mathbf{\\vec{0}}$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.3 Algebra of Vectors",
+        "Problem Statement": "",
+        "Question": "Given the displacement vector $$\\mathbf{\\vec{D}} = ( 3 \\mathbf{\\hat{i}} - 4 \\mathbf{\\hat{j}} ) \\text{m,}$$ find the displacement vector $$\\mathbf{\\vec{R}}$$ so that $$\\mathbf{\\vec{D}} + \\mathbf{\\vec{R}} = -4 D \\mathbf{\\hat{j}}$$ .",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\vec{R}} = ( -3 \\mathbf{\\hat{i}} - 16 \\mathbf{\\hat{j}} ) \\text{m}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.3 Algebra of Vectors",
+        "Problem Statement": "",
+        "Question": "Find the unit vector of direction for the following vector quantities: (a) Force $$\\mathbf{\\vec{F}} = ( 3.0 \\mathbf{\\hat{i}} - 2.0 \\mathbf{\\hat{j}} ) \\text{N}$$ , (b) displacement $$\\mathbf{\\vec{D}} = ( -3.0 \\mathbf{\\hat{i}} - 4.0 \\mathbf{\\hat{j}} ) \\text{m}$$ , and (c) velocity $$\\mathbf{\\vec{v}} = ( -5.00 \\mathbf{\\hat{i}} + 4.00 \\mathbf{\\hat{j}} ) \\text{m/s}$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.3 Algebra of Vectors",
+        "Problem Statement": "",
+        "Question": "At one point in space, the direction of the electric field vector is given in the Cartesian system by the unit vector $$\\mathbf{\\hat{E}} = 1 \\text{/} \\sqrt{5} \\mathbf{\\hat{i}} - 2 \\text{/} \\sqrt{5} \\mathbf{\\hat{j}}$$ . If the magnitude of the electric field vector is E = 400.0 V/m, what are the scalar components $$E_{x}$$ , $$E_{y}$$ , and $$E_{z}$$ of the electric field vector $$\\vec{E}$$ at this point? What is the direction angle $$\\theta_{E}$$ of the electric field vector at this point?",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\vec{E}} = E \\mathbf{\\hat{E}}$$ , $$E_{x} = + 178.9 \\text{V} \\text{/} \\text{m}$$ , $$E_{y} = -357.8 \\text{V} \\text{/} \\text{m}$$ , $$E_{z} = 0.0 \\text{V} \\text{/} \\text{m}$$ , $$\\theta_{E} = \\text{unicode[:-]} \\text{tan}^{-1} ( 2 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.3 Algebra of Vectors",
+        "Problem Statement": "",
+        "Question": "A barge is pulled by the two tugboats shown in the following figure. One tugboat pulls on the barge with a force of magnitude 4000 units of force at $$15 \\text{\u00b0}$$ above the line AB (see the figure) and the other tugboat pulls on the barge with a force of magnitude 5000 units of force at $$12 \\text{\u00b0}$$ below the line AB. Resolve the pulling forces to their scalar components and find the components of the resultant force pulling on the barge. What is the magnitude of the resultant pull? What is its direction relative to the line AB? Figure 2.34",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/38e0c617f9106fd3a3287fe0af61fbb41a8404f4"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.3 Algebra of Vectors",
+        "Problem Statement": "",
+        "Question": "In the control tower at a regional airport, an air traffic controller monitors two aircraft that travel in straight paths directly away from the control tower. One plane is a cargo carrier Boeing 747 climbing at $$10 \\text{\u00b0}$$ above the horizontal, and moving $$30 \\text{\u00b0}$$ north of west.  At some moment in time, the controller notes that the Boeing is at an altitude of 2500 m and the DC-3 is at an altitude of 3000 m. The other plane is a Douglas DC-3 climbing at $$5 \\text{\u00b0}$$ above the horizontal, and cruising directly west. (a) Find the position vectors of the planes relative to the control tower at this time. (b) What is the distance between the planes at this time?",
+        "Image Links": [],
+        "Answer": "a. $$-34.290 \\mathbf{\\vec{R}}_{B} = ( -12.278 \\mathbf{\\hat{i}} + 7.089 \\mathbf{\\hat{j}} + 2.500 \\mathbf{\\hat{k}} ) \\text{km}$$ , $$\\mathbf{\\vec{R}}_{D} = ( -34.290 \\mathbf{\\hat{i}} + 3.000 \\mathbf{\\hat{k}} ) \\text{km}$$ ; b. $$| \\mathbf{\\vec{R}}_{B} - \\mathbf{\\vec{R}}_{D} | = 23.131 \\text{km}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.4 Products of Vectors",
+        "Problem Statement": "",
+        "Question": "Assuming the + x -axis is horizontal to the right for the vectors in the following figure, find the following scalar products: (a) $$\\mathbf{\\vec{A}} \\cdotp \\mathbf{\\vec{C}}$$ , (b) $$\\mathbf{\\vec{A}} \\cdotp \\mathbf{\\vec{F}}$$ , (c) $$\\mathbf{\\vec{D}} \\cdotp \\mathbf{\\vec{C}}$$ , (d) $$\\mathbf{\\vec{A}} \\cdotp ( \\mathbf{\\vec{F}} + 2 \\mathbf{\\vec{C}} )$$ , (e) $$\\mathbf{\\hat{i}} \\cdotp \\mathbf{\\vec{B}}$$ , (f) $$\\mathbf{\\hat{j}} \\cdotp \\mathbf{\\vec{B}}$$ , (g) $$( 3 \\mathbf{\\hat{i}} - \\mathbf{\\hat{j}} ) \\cdotp \\mathbf{\\vec{B}}$$ , and (h) $$\\hat{B} \\cdotp \\vec{B}$$ .",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/42490af8a727394f8e40b7eb433b04a75078dec0"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.4 Products of Vectors",
+        "Problem Statement": "",
+        "Question": "Assuming the + x -axis is horizontal to the right for the vectors in the preceding figure, find (a) the component of vector $$\\mathbf{\\vec{A}}$$ along vector $$\\mathbf{\\vec{C}}$$ , (b) the component of vector $$\\mathbf{\\vec{C}}$$ along vector $$\\mathbf{\\vec{A}}$$ , (c) the component of vector $$\\mathbf{\\hat{i}}$$ along vector $$\\mathbf{\\vec{F}}$$ , and (d) the component of vector $$\\mathbf{\\vec{F}}$$ along vector $$\\mathbf{\\hat{i}}$$ .",
+        "Image Links": [],
+        "Answer": "a. 0, b. 0, c. -0.866, d. -17.32",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.4 Products of Vectors",
+        "Problem Statement": "",
+        "Question": "Find the angle between vectors for (a) $$\\mathbf{\\vec{D}} = ( -3.0 \\mathbf{\\hat{i}} - 4.0 \\mathbf{\\hat{j}} ) \\text{m}$$ and $$\\mathbf{\\vec{A}} = ( -3.0 \\mathbf{\\hat{i}} + 4.0 \\mathbf{\\hat{j}} ) \\text{m}$$ and (b) $$\\mathbf{\\vec{D}} = ( 2.0 \\mathbf{\\hat{i}} - 4.0 \\mathbf{\\hat{j}} + \\mathbf{\\hat{k}} ) \\text{m}$$ and $$\\mathbf{\\vec{B}} = ( -2.0 \\mathbf{\\hat{i}} + 3.0 \\mathbf{\\hat{j}} + 2.0 \\mathbf{\\hat{k}} ) \\text{m}$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.4 Products of Vectors",
+        "Problem Statement": "",
+        "Question": "Find the angles that vector $$\\mathbf{\\vec{D}} = ( 2.0 \\mathbf{\\hat{i}} - 4.0 \\mathbf{\\hat{j}} + \\mathbf{\\hat{k}} ) \\text{m}$$ makes with the x -, y -, and z - axes.",
+        "Image Links": [],
+        "Answer": "$$\\theta_{i} = 64.12 \\text{\u00b0} , \\theta_{j} = 150.79 \\text{\u00b0} , \\theta_{k} = 77.39 \\text{\u00b0}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.4 Products of Vectors",
+        "Problem Statement": "",
+        "Question": "Show that the force vector $$\\mathbf{\\vec{D}} = ( 2.0 \\mathbf{\\hat{i}} - 4.0 \\mathbf{\\hat{j}} + \\mathbf{\\hat{k}} ) \\text{N}$$ is orthogonal to the force vector $$\\mathbf{\\vec{G}} = ( 3.0 \\mathbf{\\hat{i}} + 4.0 \\mathbf{\\hat{j}} + 10.0 \\mathbf{\\hat{k}} ) \\text{N}$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.4 Products of Vectors",
+        "Problem Statement": "",
+        "Question": "Assuming the + x -axis is horizontal to the right for the vectors in the previous figure, find the following vector products: (a) $$\\mathbf{\\vec{A}} \\times \\mathbf{\\vec{C}}$$ , (b) $$\\mathbf{\\vec{A}} \\times \\mathbf{\\vec{F}}$$ , (c) $$\\mathbf{\\vec{D}} \\times \\mathbf{\\vec{C}}$$ , (d) $$\\mathbf{\\vec{A}} \\times ( \\mathbf{\\vec{F}} + 2 \\mathbf{\\vec{C}} )$$ , (e) $$\\mathbf{\\hat{i}} \\times \\mathbf{\\vec{B}}$$ , (f) $$\\mathbf{\\hat{j}} \\times \\mathbf{\\vec{B}}$$ , (g) $$( 3 \\mathbf{\\hat{i}} - \\mathbf{\\hat{j}} ) \\times \\mathbf{\\vec{B}}$$ , and (h) $$\\mathbf{\\hat{B}} \\times \\mathbf{\\vec{B}}$$ .",
+        "Image Links": [],
+        "Answer": "a. $$-120 \\mathbf{\\hat{k}}$$ , b. $$0 \\mathbf{\\hat{k}}$$ , c. $$- 94 \\mathbf{\\hat{k}}$$ , d. $$-240 \\mathbf{\\hat{k}}$$ , e. $$4.0 \\mathbf{\\hat{k}}$$ , f. $$-3.0 \\mathbf{\\hat{k}}$$ , g. $$15 \\mathbf{\\hat{k}}$$ , h. 0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.4 Products of Vectors",
+        "Problem Statement": "",
+        "Question": "Find the cross product $$\\mathbf{\\vec{A}} \\times \\mathbf{\\vec{C}}$$ for (a) $$\\mathbf{\\vec{A}} = 2.0 \\mathbf{\\hat{i}} - 4.0 \\mathbf{\\hat{j}} + \\mathbf{\\hat{k}}$$ and $$\\mathbf{\\vec{C}} = 3.0 \\mathbf{\\hat{i}} + 4.0 \\mathbf{\\hat{j}} + 10.0 \\mathbf{\\hat{k}}$$ , (b) $$\\mathbf{\\vec{A}} = 3.0 \\mathbf{\\hat{i}} + 4.0 \\mathbf{\\hat{j}} + 10.0 \\mathbf{\\hat{k}}$$ and $$\\mathbf{\\vec{C}} = 2.0 \\mathbf{\\hat{i}} - 4.0 \\mathbf{\\hat{j}} + \\mathbf{\\hat{k}}$$ , (c) $$\\mathbf{\\vec{A}} = -3.0 \\mathbf{\\hat{i}} - 4.0 \\mathbf{\\hat{j}}$$ and $$\\mathbf{\\vec{C}} = -3.0 \\mathbf{\\hat{i}} + 4.0 \\mathbf{\\hat{j}}$$ , and (d) $$\\mathbf{\\vec{C}} = -2.0 \\mathbf{\\hat{i}} + 3.0 \\mathbf{\\hat{j}} + 2.0 \\mathbf{\\hat{k}}$$ and $$\\mathbf{\\vec{A}} = -9.0 \\mathbf{\\hat{j}}$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.4 Products of Vectors",
+        "Problem Statement": "",
+        "Question": "For the vectors in the earlier figure, find (a) $$( \\mathbf{\\vec{A}} \\times \\mathbf{\\vec{F}} ) \\cdotp \\mathbf{\\vec{D}}$$ , (b) $$( \\mathbf{\\vec{A}} \\times \\mathbf{\\vec{F}} ) \\cdotp ( \\mathbf{\\vec{D}} \\times \\mathbf{\\vec{B}} )$$ , and (c) $$( \\mathbf{\\vec{A}} \\cdotp \\mathbf{\\vec{F}} ) ( \\mathbf{\\vec{D}} \\times \\mathbf{\\vec{B}} )$$ .",
+        "Image Links": [],
+        "Answer": "a. 0, b. 0, c. $$+ -20,000 \\mathbf{\\hat{k}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "2.4 Products of Vectors",
+        "Problem Statement": "",
+        "Question": "(a) If $$\\mathbf{\\vec{A}} \\times \\mathbf{\\vec{F}} = \\mathbf{\\vec{B}} \\times \\mathbf{\\vec{F}}$$ , can we conclude $$\\mathbf{\\vec{A}} = \\mathbf{\\vec{B}}$$ ? (b) If $$\\mathbf{\\vec{A}} \\cdotp \\mathbf{\\vec{F}} = \\mathbf{\\vec{B}} \\cdotp \\mathbf{\\vec{F}}$$ , can we conclude $$\\mathbf{\\vec{A}} = \\mathbf{\\vec{B}}$$ ? (c) If $$F \\mathbf{\\vec{A}} = \\mathbf{\\vec{B}} F$$ , can we conclude $$\\mathbf{\\vec{A}} = \\mathbf{\\vec{B}}$$ ? Why or why not?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

@@ -1,0 +1,432 @@
+[
+    {
+        "Topic": "33.1 The Yukawa Particle and the Heisenberg Uncertainty Principle Revisited",
+        "Problem Statement": "",
+        "Question": "A virtual particle having an approximate mass of $$\\text{10}^{\\text{14}} \\text{GeV/} c^{2}$$ may be associated with the unification of the strong and electroweak forces. For what length of time could this virtual particle exist (in temporary violation of the conservation of mass-energy as allowed by the Heisenberg uncertainty principle)?",
+        "Image Links": [],
+        "Answer": "$$3 \\times \\text{10}^{- \\text{39}} \\text{s}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.1 The Yukawa Particle and the Heisenberg Uncertainty Principle Revisited",
+        "Problem Statement": "",
+        "Question": "Calculate the mass in $$\\text{GeV/} c^{2}$$ of a virtual carrier particle that has a range limited to $$\\text{10}^{- \\text{30}}$$ m by the Heisenberg uncertainty principle. Such a particle might be involved in the unification of the strong and electroweak forces.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.1 The Yukawa Particle and the Heisenberg Uncertainty Principle Revisited",
+        "Problem Statement": "",
+        "Question": "Another component of the strong nuclear force is transmitted by the exchange of virtual K -mesons. Taking K -mesons to have an average mass of $$\\text{495} \\text{MeV/} c^{2}$$ , what is the approximate range of this component of the strong force?",
+        "Image Links": [],
+        "Answer": "$$1 \\text{.} \\text{99} \\times \\text{10}^{- \\text{16}} \\text{m} ( 0 \\text{.} 2 \\text{fm} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.2 The Four Basic Forces",
+        "Problem Statement": "",
+        "Question": "(a) Find the ratio of the strengths of the weak and electromagnetic forces under ordinary circumstances. (b) What does that ratio become under circumstances in which the forces are unified?",
+        "Image Links": [],
+        "Answer": "(a) $$\\text{10}^{- \\text{11}}$$ to 1, weak to EM (b) 1 to 1",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.2 The Four Basic Forces",
+        "Problem Statement": "",
+        "Question": "The ratio of the strong to the weak force and the ratio of the strong force to the electromagnetic force become 1 under circumstances where they are unified. What are the ratios of the strong force to those two forces under normal circumstances?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.3 Accelerators Create Matter from Energy",
+        "Problem Statement": "",
+        "Question": "At full energy, protons in the 2.00-km-diameter Fermilab synchrotron travel at nearly the speed of light, since their energy is about 1000 times their rest mass energy. (a) How long does it take for a proton to complete one trip around? (b) How many times per second will it pass through the target area?",
+        "Image Links": [],
+        "Answer": "(a) $$2 \\text{.} \\text{09} \\times \\text{10}^{- 5} \\text{s}$$ (b) $$4 \\text{.} \\text{77} \\times \\text{10}^{4} \\text{Hz}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.3 Accelerators Create Matter from Energy",
+        "Problem Statement": "",
+        "Question": "Suppose a $$W^{- }$$ created in a bubble chamber lives for $$5 \\text{.} \\text{00} \\times \\text{10}^{- \\text{25}} \\text{s} .$$ What distance does it move in this time if it is traveling at 0.900 c ? Since this distance is too short to make a track, the presence of the $$W^{- }$$ must be inferred from its decay products. Note that the time is longer than the given $$W^{- }$$ lifetime, which can be due to the statistical nature of decay or time dilation.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.3 Accelerators Create Matter from Energy",
+        "Problem Statement": "",
+        "Question": "What length track does a $$\\pi^{+ }$$ traveling at 0.100 c leave in a bubble chamber if it is created there and lives for $$2 \\text{.} \\text{60} \\times \\text{10}^{- 8} \\text{s}$$ ? (Those moving faster or living longer may escape the detector before decaying.)",
+        "Image Links": [],
+        "Answer": "78.0 cm",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.3 Accelerators Create Matter from Energy",
+        "Problem Statement": "",
+        "Question": "The 3.20-km-long SLAC produces a beam of 50.0-GeV electrons. If there are 15,000 accelerating tubes, what average voltage must be across the gaps between them to achieve this energy?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.3 Accelerators Create Matter from Energy",
+        "Problem Statement": "",
+        "Question": "Because of energy loss due to synchrotron radiation in the LHC at CERN, only 5.00 MeV is added to the energy of each proton during each revolution around the main ring. How many revolutions are needed to produce 7.00-TeV (7000 GeV) protons, if they are injected with an initial energy of 8.00 GeV?",
+        "Image Links": [],
+        "Answer": "$$1 \\text{.} \\text{40} \\times \\text{10}^{6}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.3 Accelerators Create Matter from Energy",
+        "Problem Statement": "",
+        "Question": "A proton and an antiproton collide head-on, with each having a kinetic energy of 7.00 TeV (such as in the LHC at CERN). How much collision energy is available, taking into account the annihilation of the two masses? (Note that this is not significantly greater than the extremely relativistic kinetic energy.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.3 Accelerators Create Matter from Energy",
+        "Problem Statement": "",
+        "Question": "When an electron and positron collide at the SLAC facility, they each have 50.0 GeV kinetic energies. What is the total collision energy available, taking into account the annihilation energy? Note that the annihilation energy is insignificant, because the electrons are highly relativistic.",
+        "Image Links": [],
+        "Answer": "100 GeV",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.4 Particles, Patterns, and Conservation Laws",
+        "Problem Statement": "",
+        "Question": "The $$\\pi^{0}$$ is its own antiparticle and decays in the following manner: $$\\pi^{0} \\vec{} \\gamma + \\gamma$$ . What is the energy of each $$\\gamma$$ ray if the $$\\pi^{0}$$ is at rest when it decays?",
+        "Image Links": [],
+        "Answer": "67.5 MeV",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.4 Particles, Patterns, and Conservation Laws",
+        "Problem Statement": "",
+        "Question": "The primary decay mode for the negative pion is $$\\pi^{- } \\vec{} \\mu^{- } + \\overset{-}{\\nu}_{\\mu}$$ . What is the energy release in MeV in this decay?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.4 Particles, Patterns, and Conservation Laws",
+        "Problem Statement": "",
+        "Question": "The mass of a theoretical particle that may be associated with the unification of the electroweak and strong forces is $$\\text{10}^{\\text{14}} \\text{GeV/} c^{2}$$ . (a) How many proton masses is this? (b) How many electron masses is this? (This indicates how extremely relativistic the accelerator would have to be in order to make the particle, and how large the relativistic quantity $$\\gamma$$ would have to be.)",
+        "Image Links": [],
+        "Answer": "(a) $$1 \\times \\text{10}^{\\text{14}}$$ (b) $$2 \\times \\text{10}^{\\text{17}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.4 Particles, Patterns, and Conservation Laws",
+        "Problem Statement": "",
+        "Question": "The decay mode of the negative muon is $$\\mu^{- } \\vec{} e^{- } + \\overset{-}{\\nu}_{e} + \\nu_{\\mu}$$ . (a) Find the energy released in MeV. (b) Verify that charge and lepton family numbers are conserved.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.4 Particles, Patterns, and Conservation Laws",
+        "Problem Statement": "",
+        "Question": "The decay mode of the positive tau is $$\\tau^{+ } \\vec{} \\mu^{+ } + \\nu_{\\mu} + \\overset{-}{\\nu}_{\\tau}$$ . (a) What energy is released? (b) Verify that charge and lepton family numbers are conserved. (c) The $$\\tau^{+ }$$ is the antiparticle of the $$\\tau^{- }$$ .Verify that all the decay products of the $$\\tau^{+ }$$ are the antiparticles of those in the decay of the $$\\tau^{- }$$ given in the text.",
+        "Image Links": [],
+        "Answer": "(a) $$\\text{ 1671 MeV}$$ (b) $$\\left .\\begin{matrix}{a}Q = 1, Q \\prime = 1 + 0 + 0 = 1. L_{\\tau} = - 1; L \\prime \\tau = - 1; L \\mu = 0; L \\prime \\mu = - 1 + 1 = 0\\end{matrix}\\right .$$ (c) $$\\left .\\begin{matrix}{a}\\tau^{-} \\vec{\\mu^{- }} + v_{\\mu} + \\overline{v}_{\\tau}  \\\\ \\Rightarrow \\mu^{- } \\text{\u00a0 antiparticle of\u00a0 } \\mu^{+ } ;\u00a0  v_{\\mu} \\text{\u00a0 of\u00a0 } \\overline{v}_{\\mu} ;\u00a0  \\overline{v}_{\\tau} \\text{\u00a0 of\u00a0 } v_{\\tau}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.4 Particles, Patterns, and Conservation Laws",
+        "Problem Statement": "",
+        "Question": "The principal decay mode of the sigma zero is $$\\text{Sigma}^{0} \\vec{} \\text{Lambda}^{0} + \\gamma$$ . (a) What energy is released? (b) Considering the quark structure of the two baryons, does it appear that the $$\\text{Sigma}^{0}$$ is an excited state of the $$\\text{Lambda}^{0}$$ ? (c) Verify that strangeness, charge, and baryon number are conserved in the decay. (d) Considering the preceding and the short lifetime, can the weak force be responsible? State why or why not.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.4 Particles, Patterns, and Conservation Laws",
+        "Problem Statement": "",
+        "Question": "(a) What is the uncertainty in the energy released in the decay of a $$\\pi^{0}$$ due to its short lifetime? (b) What fraction of the decay energy is this, noting that the decay mode is $$\\pi^{0} \\vec{} \\gamma + \\gamma$$ (so that all the $$\\pi^{0}$$ mass is destroyed)?",
+        "Image Links": [],
+        "Answer": "(a) 3.9 eV (b) $$2 \\text{.} 9 \\times \\text{10}^{- 8}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.4 Particles, Patterns, and Conservation Laws",
+        "Problem Statement": "",
+        "Question": "(a) What is the uncertainty in the energy released in the decay of a $$\\tau^{- }$$ due to its short lifetime? (b) Is the uncertainty in this energy greater than or less than the uncertainty in the mass of the tau neutrino? Discuss the source of the uncertainty.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.5 Quarks: Is That All There Is?",
+        "Problem Statement": "",
+        "Question": "(a) Verify from its quark composition that the $$\\text{Delta}^{+ }$$ particle could be an excited state of the proton. (b) There is a spread of about 100 MeV in the decay energy of the $$\\text{Delta}^{+ }$$ , interpreted as uncertainty due to its short lifetime. What is its approximate lifetime? (c) Does its decay proceed via the strong or weak force?",
+        "Image Links": [],
+        "Answer": "(a) The $$\\text{uud}$$ composition is the same as for a proton. (b) $$3 \\text{.} 3 \\times \\text{10}^{- \\text{24}} \\text{s}$$ (c) Strong (short lifetime)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.5 Quarks: Is That All There Is?",
+        "Problem Statement": "",
+        "Question": "Accelerators such as the Triangle Universities Meson Facility (TRIUMF) in British Columbia produce secondary beams of pions by having an intense primary proton beam strike a target. Such \u201cmeson factories\u201d have been used for many years to study the interaction of pions with nuclei and, hence, the strong nuclear force. One reaction that occurs is $$\\pi^{+ } + p \\vec{} \\text{Delta}^{\\text{++}} \\vec{} \\pi^{+ } + p$$ , where the $$\\text{Delta}^{\\text{++}}$$ is a very short-lived particle. The graph in Figure 33.26 shows the probability of this reaction as a function of energy. The width of the bump is the uncertainty in energy due to the short lifetime of the $$\\text{Delta}^{\\text{++}}$$ . (a) Find this lifetime. (b) Verify from the quark composition of the particles that this reaction annihilates and then re-creates a d quark and a $$\\overset{-}{d}$$ antiquark by writing the reaction and decay in terms of quarks. (c) Draw a Feynman diagram of the production and decay of the $$\\text{Delta}^{\\text{++}}$$ showing the individual quarks involved. Figure 33.26 This graph shows the probability of an interaction between a $$\\pi^{+ }$$ and a proton as a function of energy. The bump is interpreted as a very short lived particle called a $$\\text{Delta}^{\\text{++}}$$ . The approximately 100-MeV width of the bump is due to the short lifetime of the $$\\text{Delta}^{\\text{++}}$$ .",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3432ae72a3a81e620985a459e06da62c62320659"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.5 Quarks: Is That All There Is?",
+        "Problem Statement": "",
+        "Question": "The reaction $$\\pi^{+ } + p \\vec{} \\text{Delta}^{\\text{++}}$$ (described in the preceding problem) takes place via the strong force. (a) What is the baryon number of the $$\\text{Delta}^{\\text{++}}$$ particle? (b) Draw a Feynman diagram of the reaction showing the individual quarks involved.",
+        "Image Links": [],
+        "Answer": "a) $$\\text{Delta}^{\\text{++}} ( \\text{uuu} ) ; B = \\frac{1}{3} + \\frac{1}{3} + \\frac{1}{3} = 1$$ b)",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/56231f758515d833a25fe7649cdfcba672d2cdcc"
+        ]
+    },
+    {
+        "Topic": "33.5 Quarks: Is That All There Is?",
+        "Problem Statement": "",
+        "Question": "One of the decay modes of the omega minus is $$\\Omega^{- } \\vec{} \\text{Xi}^{0} + \\pi^{- }$$ . (a) What is the change in strangeness? (b) Verify that baryon number and charge are conserved, while lepton numbers are unaffected. (c) Write the equation in terms of the constituent quarks, indicating that the weak force is responsible.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.5 Quarks: Is That All There Is?",
+        "Problem Statement": "",
+        "Question": "Repeat the previous problem for the decay mode $$\\Omega^{- } \\vec{} \\text{Lambda}^{0} + K^{- } .$$",
+        "Image Links": [],
+        "Answer": "(a) $$+ 1$$ (b) $$B = 1 = 1 + 0,\u00a0  Z =  = 0 + ( - 1 )$$ , all lepton numbers are 0 before and after (c) $$( \\text{sss} ) \\vec{} ( \\text{uds} ) + ( \\overset{-}{u} s )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.5 Quarks: Is That All There Is?",
+        "Problem Statement": "",
+        "Question": "One decay mode for the eta-zero meson is $$\\eta^{0} \\vec{} \\gamma + \u03b3.$$ (a) Find the energy released. (b) What is the uncertainty in the energy due to the short lifetime? (c) Write the decay in terms of the constituent quarks. (d) Verify that baryon number, lepton numbers, and charge are conserved.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.5 Quarks: Is That All There Is?",
+        "Problem Statement": "",
+        "Question": "One decay mode for the eta-zero meson is $$\\eta^{0} \\vec{} \\pi^{0} + \\pi^{0}$$ . (a) Write the decay in terms of the quark constituents. (b) How much energy is released? (c) What is the ultimate release of energy, given the decay mode for the pi zero is $$\\pi^{0} \\vec{} \\gamma + \\gamma$$ ?",
+        "Image Links": [],
+        "Answer": "(a) $$( u \\overset{-}{u} + d \\overline{d} ) \\vec{} ( u \\overset{-}{u} + d \\overline{d} ) + ( u \\overset{-}{u} + d \\overline{d} )$$ (b) 277.9 MeV (c) 547.9 MeV",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.5 Quarks: Is That All There Is?",
+        "Problem Statement": "",
+        "Question": "Is the decay $$n \\vec{} e^{+ } + e^{- }$$ possible considering the appropriate conservation laws? State why or why not.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.5 Quarks: Is That All There Is?",
+        "Problem Statement": "",
+        "Question": "Is the decay $$\\mu^{- } \\vec{} e^{- } + \\nu_{e} + \\nu_{\\mu}$$ possible considering the appropriate conservation laws? State why or why not.",
+        "Image Links": [],
+        "Answer": "No. $$\\text{Charge} = - 1$$ is conserved. $$L_{e_{\\text{i}}} = 0 \\ne L_{e_{\\text{f}}}  = 2$$ is not conserved. $$L_{\\mu} = 1$$ is conserved.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.5 Quarks: Is That All There Is?",
+        "Problem Statement": "",
+        "Question": "(a) Is the decay $$\\text{Lambda}^{0} \\vec{} n + \\pi^{0}$$ possible considering the appropriate conservation laws? State why or why not. (b) Write the decay in terms of the quark constituents of the particles.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.5 Quarks: Is That All There Is?",
+        "Problem Statement": "",
+        "Question": "(a) Is the decay $$\\text{Sigma}^{- } \\vec{} n + \\pi^{- }$$ possible considering the appropriate conservation laws? State why or why not. (b) Write the decay in terms of the quark constituents of the particles.",
+        "Image Links": [],
+        "Answer": "(a)Yes. $$Z = - 1 = 0 + ( - 1 )$$ , $$B = 1 = 1 + 0$$ , all lepton family numbers are 0 before and after, spontaneous since mass greater before reaction. (b) $$\\text{dds} \\vec{} \\text{udd} + \\overset{-}{u} d$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.5 Quarks: Is That All There Is?",
+        "Problem Statement": "",
+        "Question": "The only combination of quark colors that produces a white baryon is RGB . Identify all the color combinations that can produce a white meson.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.5 Quarks: Is That All There Is?",
+        "Problem Statement": "",
+        "Question": "(a) Three quarks form a baryon. How many combinations of the six known quarks are there if all combinations are possible? (b) This number is less than the number of known baryons. Explain why.",
+        "Image Links": [],
+        "Answer": "(a) 216 (b) There are more baryons observed because we have the 6 antiquarks and various mixtures of quarks (as for the \u03c0-meson) as well.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.5 Quarks: Is That All There Is?",
+        "Problem Statement": "",
+        "Question": "(a) Show that the conjectured decay of the proton, $$p \\vec{} \\pi^{0} + e^{+ }$$ , violates conservation of baryon number and conservation of lepton number. (b) What is the analogous decay process for the antiproton?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.5 Quarks: Is That All There Is?",
+        "Problem Statement": "",
+        "Question": "Verify the quantum numbers given for the $$\\Omega^{+ }$$ in Table 33.2 by adding the quantum numbers for its quark constituents as inferred from Table 33.4.",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{a}\\Omega^{+ } ( \\overset{-}{s} \\overset{-}{s} \\overset{-}{s} ) \\\\ B = - \\frac{1}{3} - \\frac{1}{3} - \\frac{1}{3} = - 1, \\\\ L_{e} , \\mu , \\tau = 0 + 0 + 0 = 0, \\\\ Q = \\frac{1}{3} + \\frac{1}{3} + \\frac{1}{3} = 1, \\\\ S = 1 + 1 + 1 = 3 \\text{.}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.5 Quarks: Is That All There Is?",
+        "Problem Statement": "",
+        "Question": "Verify the quantum numbers given for the proton and neutron in Table 33.2 by adding the quantum numbers for their quark constituents as given in Table 33.4.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.5 Quarks: Is That All There Is?",
+        "Problem Statement": "",
+        "Question": "(a) How much energy would be released if the proton did decay via the conjectured reaction $$p \\vec{} \\pi^{0} + e^{+ }$$ ? (b) Given that the $$\\pi^{0}$$ decays to two $$\\gamma$$ s and that the $$e^{+ }$$ will find an electron to annihilate, what total energy is ultimately produced in proton decay? (c) Why is this energy greater than the proton\u2019s total mass (converted to energy)?",
+        "Image Links": [],
+        "Answer": "(a)803 MeV (b) 938.8 MeV (c) The annihilation energy of an extra electron is included in the total energy.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.5 Quarks: Is That All There Is?",
+        "Problem Statement": "",
+        "Question": "(a) Find the charge, baryon number, strangeness, charm, and bottomness of the $$J / \\Psi$$ particle from its quark composition. (b) Do the same for the $$\u03d2$$ particle.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.5 Quarks: Is That All There Is?",
+        "Problem Statement": "",
+        "Question": "There are particles called D -mesons. One of them is the $$D^{+ }$$ meson, which has a single positive charge and a baryon number of zero, also the value of its strangeness, topness, and bottomness. It has a charm of $$+ 1.$$ What is its quark configuration?",
+        "Image Links": [],
+        "Answer": "$$c \\overline{d}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.5 Quarks: Is That All There Is?",
+        "Problem Statement": "",
+        "Question": "There are particles called bottom mesons or B -mesons. One of them is the $$B^{- }$$ meson, which has a single negative charge; its baryon number is zero, as are its strangeness, charm, and topness. It has a bottomness of $$- 1$$ . What is its quark configuration?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.5 Quarks: Is That All There Is?",
+        "Problem Statement": "",
+        "Question": "(a) What particle has the quark composition $$\\overset{-}{u} \\overset{-}{u} \\overset{-}{d}$$ ? (b) What should its decay mode be?",
+        "Image Links": [],
+        "Answer": "a)The antiproton b) $$\\overset{-}{p} \\vec{} \\pi^{0} + e^{- }$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.5 Quarks: Is That All There Is?",
+        "Problem Statement": "",
+        "Question": "(a) Show that all combinations of three quarks produce integral charges. Thus baryons must have integral charge. (b) Show that all combinations of a quark and an antiquark produce only integral charges. Thus mesons must have integral charge.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.6 GUTs: The Unification of Forces",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts The intensity of cosmic ray radiation decreases rapidly with increasing energy, but there are occasionally extremely energetic cosmic rays that create a shower of radiation from all the particles they create by striking a nucleus in the atmosphere as seen in the figure given below. Suppose a cosmic ray particle having an energy of $$\\text{10}^{\\text{10}} \\text{GeV}$$ converts its energy into particles with masses averaging $$\\text{200} \\text{MeV/} c^{2}$$ . (a) How many particles are created? (b) If the particles rain down on a $$1 \\text{.} \\text{00-km}^{2}$$ area, how many particles are there per square meter? Figure 33.27 An extremely energetic cosmic ray creates a shower of particles on earth. The energy of these rare cosmic rays can approach a joule (about $$\\text{10}^{\\text{10}} \\text{GeV}$$ ) and, after multiple collisions, huge numbers of particles are created from this energy. Cosmic ray showers have been observed to extend over many square kilometers.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/38723bcae0e7805cb29d6ef6cb30b854da740531"
+        ],
+        "Answer": "(a) $$5 \\times \\text{10}^{\\text{10}}$$ (b) $$5 \\times \\text{10}^{4} \\text{particles/m}^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.6 GUTs: The Unification of Forces",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts Assuming conservation of momentum, what is the energy of each $$\\gamma$$ ray produced in the decay of a neutral at rest pion, in the reaction $$\\pi^{0} \\vec{} \\gamma + \\gamma$$ ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.6 GUTs: The Unification of Forces",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts What is the wavelength of a 50-GeV electron, which is produced at SLAC? This provides an idea of the limit to the detail it can probe.",
+        "Image Links": [],
+        "Answer": "$$2.5 \\times \\text{10}^{- \\text{17}} \\text{m}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.6 GUTs: The Unification of Forces",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts (a) Calculate the relativistic quantity $$\\gamma = \\frac{1}{\\sqrt{1 - v^{2} / c^{2}}}$$ for 1.00-TeV protons produced at Fermilab. (b) If such a proton created a $$\\pi^{+ }$$ having the same speed, how long would its life be in the laboratory? (c) How far could it travel in this time?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.6 GUTs: The Unification of Forces",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts The primary decay mode for the negative pion is $$\\pi^{- } \\vec{} \\mu^{- } + \\overset{-}{\\nu}_{\\mu}$$ . (a) What is the energy release in MeV in this decay? (b) Using conservation of momentum, how much energy does each of the decay products receive, given the $$\\pi^{- }$$ is at rest when it decays? You may assume the muon antineutrino is massless and has momentum $$p = E / c$$ , just like a photon.",
+        "Image Links": [],
+        "Answer": "(a) 33.9 MeV (b) Muon antineutrino 29.8 MeV, muon 4.1 MeV (kinetic energy)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.6 GUTs: The Unification of Forces",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts Plans for an accelerator that produces a secondary beam of K -mesons to scatter from nuclei, for the purpose of studying the strong force, call for them to have a kinetic energy of 500 MeV. (a) What would the relativistic quantity $$\\gamma = \\frac{1}{\\sqrt{1 - v^{2} / c^{2}}}$$ be for these particles? (b) How long would their average lifetime be in the laboratory? (c) How far could they travel in this time?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.6 GUTs: The Unification of Forces",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts Suppose you are designing a proton decay experiment and you can detect 50 percent of the proton decays in a tank of water. (a) How many kilograms of water would you need to see one decay per month, assuming a lifetime of $$\\text{10}^{\\text{31}} \\text{y}$$ ? (b) How many cubic meters of water is this? (c) If the actual lifetime is $$\\text{10}^{\\text{33}} \\text{y}$$ , how long would you have to wait on an average to see a single proton decay?",
+        "Image Links": [],
+        "Answer": "(a) $$7 \\text{.} 2 \\times \\text{10}^{5} \\text{kg}$$ (b) $$7 \\text{.} 2 \\times \\text{10}^{2} \\text{m}^{3}$$ (c) $$\\text{100 months}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.6 GUTs: The Unification of Forces",
+        "Problem Statement": "",
+        "Question": "Integrated Concepts In supernovas, neutrinos are produced in huge amounts. They were detected from the 1987A supernova in the Magellanic Cloud, which is about 120,000 light years away from the Earth (relatively close to our Milky Way galaxy). If neutrinos have a mass, they cannot travel at the speed of light, but if their mass is small, they can get close. (a) Suppose a neutrino with a $$7 \\text{-eV/} c^{2}$$ mass has a kinetic energy of 700 keV. Find the relativistic quantity $$\\gamma = \\frac{1}{\\sqrt{1 - v^{2} / c^{2}}}$$ for it. (b) If the neutrino leaves the 1987A supernova at the same time as a photon and both travel to Earth, how much sooner does the photon arrive? This is not a large time difference, given that it is impossible to know which neutrino left with which photon and the poor efficiency of the neutrino detectors. Thus, the fact that neutrinos were observed within hours of the brightening of the supernova only places an upper limit on the neutrino\u2019s mass. (Hint: You may need to use a series expansion to find v for the neutrino, since its $$\\gamma$$ is so large.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.6 GUTs: The Unification of Forces",
+        "Problem Statement": "",
+        "Question": "Construct Your Own Problem Consider an ultrahigh-energy cosmic ray entering the Earth\u2019s atmosphere (some have energies approaching a joule). Construct a problem in which you calculate the energy of the particle based on the number of particles in an observed cosmic ray shower. Among the things to consider are the average mass of the shower particles, the average number per square meter, and the extent (number of square meters covered) of the shower. Express the energy in eV and joules.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.6 GUTs: The Unification of Forces",
+        "Problem Statement": "",
+        "Question": "Construct Your Own Problem Consider a detector needed to observe the proposed, but extremely rare, decay of an electron. Construct a problem in which you calculate the amount of matter needed in the detector to be able to observe the decay, assuming that it has a signature that is clearly identifiable. Among the things to consider are the estimated half life (long for rare events), and the number of decays per unit time that you wish to observe, as well as the number of electrons in the detector substance.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "33.6 GUTs: The Unification of Forces",
+        "Problem Statement": "",
+        "Question": "Critical Thinking (a) How much mass is converted to energy when a proton and antiproton annihilate each other? (b) How much energy is produced in the conversion above? (c) If energy were to produce a proton-antiproton pair, how much energy would this take? (d) What characteristic other than one being antimatter is different for a proton and an antiproton?",
+        "Image Links": [],
+        "Answer": "(a) $$2 ( 1.67 \\times 10^{- 27} \\text{\u00a0kg)} = 3.34 \\times 10^{- 27} \\text{\u00a0kg}$$ (b) $$3.34 \\times 10^{- 27} ( 3.00 \\times 10^{8} )^{2} \\text{\u00a0joules} = 3.01 \\times 10^{- 10} \\text{\u00a0joules}$$ (c) $$3.01 \\times 10^{- 10} \\text{\u00a0joules}$$ (d) The proton has a positive charge, and the antiproton has a negative charge.",
+        "Answer Image Links": []
+    }
+]

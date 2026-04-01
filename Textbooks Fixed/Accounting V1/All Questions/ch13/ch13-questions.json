@@ -1,0 +1,122 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO13.1What is the difference between callable and putable bonds?",
+        "Image Links": [],
+        "Answer": "Callable bonds can be bought back by the issuing company whenever they want to, but putable bonds can be cashed in by the holder whenever the holder wants to.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO13.1What is the difference between serial bonds and term bonds?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO13.1What is a junk bond?",
+        "Image Links": [],
+        "Answer": "A junk bond is typically titled as a high-yield bond; it sounds less unfavorable than junk. Its rating is below what is typically expected for investment-grade bonds. Investors and speculators might buy these bonds because if they don\u2019t default, the rate of return could be significantly higher than investment grade bonds. However, the possibility of the bonds defaulting and neither paying the interest nor principle at maturity is higher than with investment-grade bonds.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO13.1How are savings bonds different from a corporate bond?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO13.1What do you have to do to the interest rate and years of maturity if a bond pricing problem tells you that interest is compounded quarterly?",
+        "Image Links": [],
+        "Answer": "In bond pricing problems, if the interest compounds more than one a year, divide the interest rate by the number of compounding periods per year, and multiply the number of years by the number of compounding periods per year. If it is paid quarterly, divide the interest rate by 4 and multiply the number of years by 4.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO13.2An amortization table/schedule is created to compute the amount to be amortized each year. What are the four columns needed to prepare the table?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO13.2In the amortization table, how is the amortization of discount of premium computed?",
+        "Image Links": [],
+        "Answer": "It is the difference between the cash interest payment and the interest on the carrying value.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO13.2Does issuing a bond at a discount increase or decrease interest expense over the life of the bond?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO13.2What kind of account is the Discount on Bonds Payable? What kind of account is the Premium on Bonds Payable?",
+        "Image Links": [],
+        "Answer": "The Discount on Bonds Payable is a contra liability account and reduces the associated liability. The Premium on Bonds Payable is a liability account and increases the associated liability.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO13.2Why is the effective-interest method of amortization required under the International Financial Reporting Standards?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO13.3If there is neither a premium nor discount present, the journal entry to record bond interest payments is _______.",
+        "Image Links": [],
+        "Answer": "DR Interest Expense and CR Cash",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO13.3When do you use the Bond Discount Account?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO13.3A company issued bonds with a $100,000 face value, a 5-year term, a stated rate of 6%, and a market rate of 7%. Interest is paid annually. What is the amount of interest the bondholders will receive at the end of the year?",
+        "Image Links": [],
+        "Answer": "Bondholders receive the stated rate times the principle, so they would receive $6,000.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO13.3A company issued $100,000, 5-year bonds, receiving $97,000. What is the balance sheet presentation immediately after the sale?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "LO13.3Does interest expense increase or decrease when a bond premium is amortized?",
+        "Image Links": [],
+        "Answer": "Amortizing a bond premium reduces interest expense.",
+        "Answer Image Links": []
+    }
+]

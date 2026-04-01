@@ -1,0 +1,642 @@
+[
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$8 \\sqrt{2} - 5 \\sqrt{2}$$ \u24d1 $$5 \\sqrt[3]{m} + 2 \\sqrt[3]{m}$$ \u24d2 $$8 \\sqrt[4]{m} - 2 \\sqrt[4]{m}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$3 \\sqrt{2}$$ \u24d1 $$7 \\sqrt[3]{m}$$ \u24d2 $$6 \\sqrt[4]{m}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$7 \\sqrt{2} - 3 \\sqrt{2}$$ \u24d1 $$7 \\sqrt[3]{p} + 2 \\sqrt[3]{p}$$ \u24d2 $$5 \\sqrt[3]{x} - 3 \\sqrt[3]{x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$3 \\sqrt{5} + 6 \\sqrt{5}$$ \u24d1 $$9 \\sqrt[3]{a} + 3 \\sqrt[3]{a}$$ \u24d2 $$5 \\sqrt[4]{2 z} + \\sqrt[4]{2 z}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$9 \\sqrt{5}$$ \u24d1 $$12 \\sqrt[3]{a}$$ \u24d2 $$6 \\sqrt[4]{2 z}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$4 \\sqrt{5} + 8 \\sqrt{5}$$ \u24d1 $$\\sqrt[3]{m} - 4 \\sqrt[3]{m}$$ \u24d2 $$\\sqrt{n} + 3 \\sqrt{n}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$3 \\sqrt{2 a} - 4 \\sqrt{2 a} + 5 \\sqrt{2 a}$$ \u24d1 $$5 \\sqrt[4]{3 a b} - 3 \\sqrt[4]{3 a b} - 2 \\sqrt[4]{3 a b}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$4 \\sqrt{2 a}$$ \u24d1 0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$\\sqrt{11 b} - 5 \\sqrt{11 b} + 3 \\sqrt{11 b}$$ \u24d1 $$8 \\sqrt[4]{11 c d} + 5 \\sqrt[4]{11 c d} - 9 \\sqrt[4]{11 c d}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$8 \\sqrt{3 c} + 2 \\sqrt{3 c} - 9 \\sqrt{3 c}$$ \u24d1 $$2 \\sqrt[3]{4 p q} - 5 \\sqrt[3]{4 p q} + 4 \\sqrt[3]{4 p q}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\sqrt{3 c}$$ \u24d1 $$\\sqrt[3]{4 p q}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$3 \\sqrt{5 d} + 8 \\sqrt{5 d} - 11 \\sqrt{5 d}$$ \u24d1 $$11 \\sqrt[3]{2 r s} - 9 \\sqrt[3]{2 r s} + 3 \\sqrt[3]{2 r s}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$\\sqrt{27} - \\sqrt{75}$$ \u24d1 $$\\sqrt[3]{40} - \\sqrt[3]{320}$$ \u24d2 $$\\frac{1}{2} \\sqrt[4]{32} + \\frac{2}{3} \\sqrt[4]{162}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-2 \\sqrt{3}$$ \u24d1 $$-2 \\sqrt[3]{5}$$ \u24d2 $$3 \\sqrt[4]{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$\\sqrt{72} - \\sqrt{98}$$ \u24d1 $$\\sqrt[3]{24} + \\sqrt[3]{81}$$ \u24d2 $$\\frac{1}{2} \\sqrt[4]{80} - \\frac{2}{3} \\sqrt[4]{405}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$\\sqrt{48} + \\sqrt{27}$$ \u24d1 $$\\sqrt[3]{54} + \\sqrt[3]{128}$$ \u24d2 $$6 \\sqrt[4]{5} - \\frac{3}{2} \\sqrt[4]{80}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$7 \\sqrt{3}$$ \u24d1 $$7 \\sqrt[3]{2}$$ \u24d2 $$3 \\sqrt[4]{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$\\sqrt{45} + \\sqrt{80}$$ \u24d1 $$\\sqrt[3]{81} - \\sqrt[3]{192}$$ \u24d2 $$\\frac{5}{2} \\sqrt[4]{80} + \\frac{7}{3} \\sqrt[4]{405}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$\\sqrt{72 a^{5}} - \\sqrt{50 a^{5}}$$ \u24d1 $$9 \\sqrt[4]{80 p^{4}} - 6 \\sqrt[4]{405 p^{4}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$a^{2} \\sqrt{2 a}$$ \u24d1 0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$\\sqrt{48 b^{5}} - \\sqrt{75 b^{5}}$$ \u24d1 $$8 \\sqrt[3]{64 q^{6}} - 3 \\sqrt[3]{125 q^{6}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$\\sqrt{80 c^{7}} - \\sqrt{20 c^{7}}$$ \u24d1 $$2 \\sqrt[4]{162 r^{10}} + 4 \\sqrt[4]{32 r^{10}}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$2 c^{3} \\sqrt{5 c}$$ \u24d1 $$14 r^{2} \\sqrt[4]{2 r^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$\\sqrt{96 d^{9}} - \\sqrt{24 d^{9}}$$ \u24d1 $$5 \\sqrt[4]{243 s^{6}} + 2 \\sqrt[4]{3 s^{6}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$3 \\sqrt{128 y^{2}} + 4 y \\sqrt{162} - 8 \\sqrt{98 y^{2}}$$",
+        "Image Links": [],
+        "Answer": "$$4 y \\sqrt{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "$$3 \\sqrt{75 y^{2}} + 8 y \\sqrt{48} - \\sqrt{300 y^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$( -2 \\sqrt[]{3} ) ( 3 \\sqrt[]{18} )$$ \u24d1 $$( 8 \\sqrt[3]{4} ) ( -4 \\sqrt[3]{18} )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-18 \\sqrt{6}$$ \u24d1 $$-64 \\sqrt[3]{9}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$( -4 \\sqrt[]{5} ) ( 5 \\sqrt[]{10} )$$ \u24d1 $$( -2 \\sqrt[3]{9} ) ( 7 \\sqrt[3]{9} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$( 5 \\sqrt[]{6} ) ( \\text{unicode[:-]} \\sqrt[]{12} )$$ \u24d1 $$( -2 \\sqrt[4]{18} ) ( \\text{unicode[:-]} \\sqrt[4]{9} )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-30 \\sqrt{2}$$ \u24d1 $$6 \\sqrt[4]{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$( -2 \\sqrt{7} ) ( -2 \\sqrt{14} )$$ \u24d1 $$( -3 \\sqrt[4]{8} ) ( -5 \\sqrt[4]{6} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$( 4 \\sqrt{12 z^{3}} ) ( 3 \\sqrt{9 z} )$$ \u24d1 $$( 5 \\sqrt[3]{3 x^{3}} ) ( 3 \\sqrt[3]{18 x^{3}} )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$72 z^{2} \\sqrt{3}$$ \u24d1 $$45 x^{2} \\sqrt[3]{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$( 3 \\sqrt{2 x^{3}} ) ( 7 \\sqrt{18 x^{2}} )$$ \u24d1 $$( -6 \\sqrt[3]{20 a^{2}} ) ( -2 \\sqrt[3]{16 a^{3}} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$( -2 \\sqrt{7 z^{3}} ) ( 3 \\sqrt{14 z^{8}} )$$ \u24d1 $$( 2 \\sqrt[4]{8 y^{2}} ) ( -2 \\sqrt[4]{12 y^{3}} )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-42 z^{5} \\sqrt{2 z}$$ \u24d1 $$-8 y \\sqrt[4]{6 y}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, simplify.",
+        "Question": "\u24d0 $$( 4 \\sqrt{2 k^{5}} ) ( -3 \\sqrt{32 k^{6}} )$$ \u24d1 $$( \\text{unicode[:-]} \\sqrt[4]{6 b^{3}} ) ( 3 \\sqrt[4]{8 b^{3}} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "\u24d0 $$\\sqrt{7} ( 5 + 2 \\sqrt{7} )$$ \u24d1 $$\\sqrt[3]{6} ( 4 + \\sqrt[3]{18} )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$14 + 5 \\sqrt{7}$$ \u24d1 $$4 \\sqrt[3]{6} + 3 \\sqrt[3]{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "\u24d0 $$\\sqrt{11} ( 8 + 4 \\sqrt{11} )$$ \u24d1 $$\\sqrt[3]{3} ( \\sqrt[3]{9} + \\sqrt[3]{18} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "\u24d0 $$\\sqrt{11} ( -3 + 4 \\sqrt{11} )$$ \u24d1 $$\\sqrt[4]{3} ( \\sqrt[4]{54} + \\sqrt[4]{18} )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$44 - 3 \\sqrt{11}$$ \u24d1 $$3 \\sqrt[4]{2} + \\sqrt[4]{54}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "\u24d0 $$\\sqrt{2} ( -5 + 9 \\sqrt{2} )$$ \u24d1 $$\\sqrt[4]{2} ( \\sqrt[4]{12} + \\sqrt[4]{24} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( 7 + \\sqrt{3} ) ( 9 - \\sqrt{3} )$$",
+        "Image Links": [],
+        "Answer": "$$60 + 2 \\sqrt{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( 8 - \\sqrt{2} ) ( 3 + \\sqrt{2} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "\u24d0 $$( 9 - 3 \\sqrt{2} ) ( 6 + 4 \\sqrt{2} )$$ \u24d1 $$( \\sqrt[3]{x} - 3 ) ( \\sqrt[3]{x} + 1 )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$30 + 18 \\sqrt{2}$$ \u24d1 $$\\sqrt[3]{x^{2}} - 2 \\sqrt[3]{x} - 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "\u24d0 $$( 3 - 2 \\sqrt{7} ) ( 5 - 4 \\sqrt{7} )$$ \u24d1 $$( \\sqrt[3]{x} - 5 ) ( \\sqrt[3]{x} - 3 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "\u24d0 $$( 1 + 3 \\sqrt{10} ) ( 5 - 2 \\sqrt{10} )$$ \u24d1 $$( 2 \\sqrt[3]{x} + 6 ) ( \\sqrt[3]{x} + 1 )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$-55 + 13 \\sqrt{10}$$ \u24d1 $$2 \\sqrt[3]{x^{2}} + 8 \\sqrt[3]{x} + 6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "\u24d0 $$( 7 - 2 \\sqrt{5} ) ( 4 + 9 \\sqrt{5} )$$ \u24d1 $$( 3 \\sqrt[3]{x} + 2 ) ( \\sqrt[3]{x} - 2 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( \\sqrt{3} + \\sqrt{10} ) ( \\sqrt{3} + 2 \\sqrt{10} )$$",
+        "Image Links": [],
+        "Answer": "$$23 + 3 \\sqrt{30}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( \\sqrt{11} + \\sqrt{5} ) ( \\sqrt{11} + 6 \\sqrt{5} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( 2 \\sqrt{7} - 5 \\sqrt{11} ) ( 4 \\sqrt{7} + 9 \\sqrt{11} )$$",
+        "Image Links": [],
+        "Answer": "$$-439 - 2 \\sqrt{77}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( 4 \\sqrt{6} + 7 \\sqrt{13} ) ( 8 \\sqrt{6} - 3 \\sqrt{13} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "\u24d0 $$( 3 + \\sqrt{5} )^{2}$$ \u24d1 $$( 2 - 5 \\sqrt{3} )^{2}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$14 + 6 \\sqrt{5}$$ \u24d1 $$79 - 20 \\sqrt{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "\u24d0 $$( 4 + \\sqrt{11} )^{2}$$ \u24d1 $$( 3 - 2 \\sqrt{5} )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "\u24d0 $$( 9 - \\sqrt{6} )^{2}$$ \u24d1 $$( 10 + 3 \\sqrt{7} )^{2}$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$87 - 18 \\sqrt{6}$$ \u24d1 $$163 + 60 \\sqrt{7}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "\u24d0 $$( 5 - \\sqrt{10} )^{2}$$ \u24d1 $$( 8 + 3 \\sqrt{2} )^{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( 4 + \\sqrt{2} ) ( 4 - \\sqrt{2} )$$",
+        "Image Links": [],
+        "Answer": "14",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( 7 + \\sqrt{10} ) ( 7 - \\sqrt{10} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( 4 + 9 \\sqrt{3} ) ( 4 - 9 \\sqrt{3} )$$",
+        "Image Links": [],
+        "Answer": "$$-227$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( 1 + 8 \\sqrt{2} ) ( 1 - 8 \\sqrt{2} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( 12 - 5 \\sqrt{5} ) ( 12 + 5 \\sqrt{5} )$$",
+        "Image Links": [],
+        "Answer": "$$19$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( 9 - 4 \\sqrt{3} ) ( 9 + 4 \\sqrt{3} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( \\sqrt[3]{3 x} + 2 ) ( \\sqrt[3]{3 x} - 2 )$$",
+        "Image Links": [],
+        "Answer": "$$\\sqrt[3]{9 x^{2}} - 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, multiply.",
+        "Question": "$$( \\sqrt[3]{4 x} + 3 ) ( \\sqrt[3]{4 x} - 3 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$\\frac{2}{3} \\sqrt{27} + \\frac{3}{4} \\sqrt{48}$$",
+        "Image Links": [],
+        "Answer": "$$5 \\sqrt{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$\\sqrt{175 k^{4}} - \\sqrt{63 k^{4}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$\\frac{5}{6} \\sqrt{162} + \\frac{3}{16} \\sqrt{128}$$",
+        "Image Links": [],
+        "Answer": "$$9 \\sqrt{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$\\sqrt[3]{24} + \\sqrt[3]{\\text{/} 81}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$\\frac{1}{2} \\sqrt[4]{80} - \\frac{2}{3} \\sqrt[4]{405}$$",
+        "Image Links": [],
+        "Answer": "$$\\text{unicode[:-]} \\sqrt[4]{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$8 \\sqrt[4]{13} - 4 \\sqrt[4]{13} - 3 \\sqrt[4]{13}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$5 \\sqrt{12 c^{4}} - 3 \\sqrt{27 c^{6}}$$",
+        "Image Links": [],
+        "Answer": "$$10 c^{2} \\sqrt{3} - 9 c^{3} \\sqrt{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$\\sqrt{80 a^{5}} - \\sqrt{45 a^{5}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$\\frac{3}{5} \\sqrt{75} - \\frac{1}{4} \\sqrt{48}$$",
+        "Image Links": [],
+        "Answer": "$$2 \\sqrt{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$21 \\sqrt[3]{9} - 2 \\sqrt[3]{9}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$8 \\sqrt[3]{64 q^{6}} - 3 \\sqrt[3]{125 q^{6}}$$",
+        "Image Links": [],
+        "Answer": "$$17 q^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$11 \\sqrt{11} - 10 \\sqrt{11}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$\\sqrt{3} \\cdotp \\sqrt{21}$$",
+        "Image Links": [],
+        "Answer": "$$3 \\sqrt{7}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$( 4 \\sqrt{6} ) ( \\text{unicode[:-]} \\sqrt{18} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$( 7 \\sqrt[3]{4} ) ( -3 \\sqrt[3]{18} )$$",
+        "Image Links": [],
+        "Answer": "$$-42 \\sqrt[3]{9}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$( 4 \\sqrt{12 x^{5}} ) ( 2 \\sqrt{6 x^{3}} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$( \\sqrt{29} )^{2}$$",
+        "Image Links": [],
+        "Answer": "29",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$( -4 \\sqrt{17} ) ( -3 \\sqrt{17} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$( -4 + \\sqrt{17} ) ( -3 + \\sqrt{17} )$$",
+        "Image Links": [],
+        "Answer": "$$29 - 7 \\sqrt{17}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$( 3 \\sqrt[4]{8 a^{2}} ) ( \\sqrt[4]{12 a^{3}} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$( 6 - 3 \\sqrt{2} )^{2}$$",
+        "Image Links": [],
+        "Answer": "$$54 - 36 \\sqrt{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$\\sqrt{3} ( 4 - 3 \\sqrt{3} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$\\sqrt[3]{3} ( 2 \\sqrt[3]{9} + \\sqrt[3]{18} )$$",
+        "Image Links": [],
+        "Answer": "$$6 + 3 \\sqrt[3]{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "Mixed Practice",
+        "Question": "$$( \\sqrt{6} + \\sqrt{3} ) ( \\sqrt{6} + 6 \\sqrt{3} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "Explain when a radical expression is in simplest form.",
+        "Image Links": [],
+        "Answer": "Answers will vary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "Explain the process for determining whether two radicals are like or unlike. Make sure your answer makes sense for radicals containing both numbers and variables.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "\u24d0 Explain why $$( \\text{unicode[:-]} \\sqrt{n} )^{2}$$ is always non-negative, for $$n \\geq 0 .$$ \u24d1 Explain why $$- ( \\sqrt{n} )^{2}$$ is always non-positive, for $$n \\geq 0.$$",
+        "Image Links": [],
+        "Answer": "Answers will vary.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "Use the binomial square pattern to simplify $$( 3 + \\sqrt{2} )^{2} .$$ Explain all your steps.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

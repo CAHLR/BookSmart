@@ -1,0 +1,738 @@
+[
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, write each percent as a ratio.",
+        "Question": "$$\\text{32%}$$ admission rate for the university",
+        "Image Links": [],
+        "Answer": "$$\\frac{32}{100}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, write each percent as a ratio.",
+        "Question": "$$\\text{53.3%}$$ rate of college students with student loans",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, write as a ratio and then as a percent.",
+        "Question": "$$13$$ out of $$100$$ architects are women.",
+        "Image Links": [],
+        "Answer": "$$\\frac{13}{100} , \\text{13%}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, write as a ratio and then as a percent.",
+        "Question": "$$9$$ out of every $$100$$ nurses are men.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, convert each percent to a fraction.",
+        "Question": "$$\\text{48%}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{12}{25}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, convert each percent to a fraction.",
+        "Question": "$$\\text{175%}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, convert each percent to a fraction.",
+        "Question": "$$\\text{64.1%}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{641}{1000}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, convert each percent to a fraction.",
+        "Question": "$$8 \\frac{1}{4} %$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, convert each percent to a decimal.",
+        "Question": "$$\\text{6%}$$",
+        "Image Links": [],
+        "Answer": "0.06",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, convert each percent to a decimal.",
+        "Question": "$$\\text{23%}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, convert each percent to a decimal.",
+        "Question": "$$\\text{128%}$$",
+        "Image Links": [],
+        "Answer": "1.28",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, convert each percent to a decimal.",
+        "Question": "4.9%",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, convert each percent to \u24d0 a simplified fraction and \u24d1 a decimal.",
+        "Question": "In $$2012 , \\text{13.5%}$$ of the United States population was age $$65$$ or over. (Source: www.census.gov)",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{27}{200}$$ \u24d1 $$0.135$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, convert each percent to \u24d0 a simplified fraction and \u24d1 a decimal.",
+        "Question": "In $$2012 , \\text{6.5%}$$ of the United States population was under $$5$$ years old. (Source: www.census.gov)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, convert each percent to \u24d0 a simplified fraction and \u24d1 a decimal.",
+        "Question": "When a die is tossed, the probability it will land with an even number of dots on the top side is $$\\text{50%} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{1}{2}$$ \u24d1 $$0.5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, convert each percent to \u24d0 a simplified fraction and \u24d1 a decimal.",
+        "Question": "A couple plans to have three children. The probability they will all be girls is $$\\text{12.5%} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, convert each decimal to a percent.",
+        "Question": "$$0.04$$",
+        "Image Links": [],
+        "Answer": "4%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, convert each decimal to a percent.",
+        "Question": "$$0.15$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, convert each decimal to a percent.",
+        "Question": "$$2.82$$",
+        "Image Links": [],
+        "Answer": "282%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, convert each decimal to a percent.",
+        "Question": "$$3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, convert each decimal to a percent.",
+        "Question": "$$0.003$$",
+        "Image Links": [],
+        "Answer": "0.3%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, convert each decimal to a percent.",
+        "Question": "$$1.395$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, convert each fraction to a percent.",
+        "Question": "$$\\frac{3}{4}$$",
+        "Image Links": [],
+        "Answer": "75%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, convert each fraction to a percent.",
+        "Question": "$$\\frac{11}{5}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, convert each fraction to a percent.",
+        "Question": "$$3 \\frac{5}{8}$$",
+        "Image Links": [],
+        "Answer": "362.5%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, convert each fraction to a percent.",
+        "Question": "$$\\frac{2}{9}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, convert each fraction to a percent.",
+        "Question": "According to the Centers for Disease Control, $$\\frac{2}{5}$$ of adults do not take a vitamin or supplement.",
+        "Image Links": [],
+        "Answer": "40%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, convert each fraction to a percent.",
+        "Question": "According to the Centers for Disease Control, among adults who do take a vitamin or supplement, $$\\frac{3}{4}$$ take a multivitamin.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, translate and solve.",
+        "Question": "What number is $$\\text{46%}$$ of $$350 ?$$",
+        "Image Links": [],
+        "Answer": "161",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, translate and solve.",
+        "Question": "$$\\text{120%}$$ of $$55$$ is what number?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, translate and solve.",
+        "Question": "$$84$$ is $$\\text{35%}$$ of what number?",
+        "Image Links": [],
+        "Answer": "240",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, translate and solve.",
+        "Question": "$$15$$ is $$\\text{8%}$$ of what number?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, translate and solve.",
+        "Question": "$$\\text{200%}$$ of what number is $$50 ?$$",
+        "Image Links": [],
+        "Answer": "25",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, translate and solve.",
+        "Question": "$$\\text{7.9%}$$ of what number is $$\\text{$4.74} ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, translate and solve.",
+        "Question": "What percent of $$120$$ is $$81.6 ?$$",
+        "Image Links": [],
+        "Answer": "68%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Understand Percent",
+        "Problem Statement": "In the following exercises, translate and solve.",
+        "Question": "What percent of $$340$$ is $$595 ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve General Applications of Percents",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "When Aurelio and his family ate dinner at a restaurant, the bill was $$\\text{$83.50} .$$ Aurelio wants to leave $$\\text{20%}$$ of the total bill as a tip. How much should the tip be?",
+        "Image Links": [],
+        "Answer": "$16.70",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve General Applications of Percents",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "One granola bar has $$2$$ grams of fiber, which is $$\\text{8%}$$ of the recommended daily amount. What is the total recommended daily amount of fiber?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve General Applications of Percents",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "The nutrition label on a package of granola bars says that each granola bar has $$190$$ calories, and $$54$$ calories are from fat. What percent of the total calories is from fat?",
+        "Image Links": [],
+        "Answer": "28.4%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve General Applications of Percents",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "Elsa gets paid $$\\text{$4,600}$$ per month. Her car payment is $$\\text{$253} .$$ What percent of her monthly pay goes to her car payment?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve General Applications of Percents",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "Jorge got a raise in his hourly pay, from $$\\text{$19.00}$$ to $$\\text{$19.76} .$$ Find the percent increase.",
+        "Image Links": [],
+        "Answer": "4%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve General Applications of Percents",
+        "Problem Statement": "In the following exercises, solve.",
+        "Question": "Last year Bernard bought a new car for $$\\text{$30,000} .$$ This year the car is worth $$\\text{$24,000} .$$ Find the percent decrease.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Sales Tax, Commission, and Discount Applications",
+        "Problem Statement": "In the following exercises, find \u24d0 the sales tax \u24d1 the total cost.",
+        "Question": "The cost of a lawn mower was $$\\text{$750} .$$ The sales tax rate is $$\\text{6%}$$ of the purchase price.",
+        "Image Links": [],
+        "Answer": "\u24d0 $45 \u24d1 $795",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Sales Tax, Commission, and Discount Applications",
+        "Problem Statement": "In the following exercises, find \u24d0 the sales tax \u24d1 the total cost.",
+        "Question": "The cost of a water heater is $$\\text{$577} .$$ The sales tax rate is $$\\text{8.75%}$$ of the purchase price.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Sales Tax, Commission, and Discount Applications",
+        "Problem Statement": "In the following exercises, find the sales tax rate.",
+        "Question": "Andy bought a piano for $$\\text{$4,600} .$$ The sales tax on the purchase was $$\\text{$333.50} .$$",
+        "Image Links": [],
+        "Answer": "7.25%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Sales Tax, Commission, and Discount Applications",
+        "Problem Statement": "In the following exercises, find the sales tax rate.",
+        "Question": "Nahomi bought a purse for $$\\text{$200} .$$ The sales tax on the purchase was $$\\text{$16.75} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Sales Tax, Commission, and Discount Applications",
+        "Problem Statement": "In the following exercises, find the commission.",
+        "Question": "Ginny is a realtor. She receives $$\\text{3%}$$ commission when she sells a house. How much commission will she receive for selling a house for $$\\text{$380,000} ?$$",
+        "Image Links": [],
+        "Answer": "$11,400",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Sales Tax, Commission, and Discount Applications",
+        "Problem Statement": "In the following exercises, find the commission.",
+        "Question": "Jackson receives $$\\text{16.5%}$$ commission when he sells a dinette set. How much commission will he receive for selling a dinette set for $$\\text{$895} ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Sales Tax, Commission, and Discount Applications",
+        "Problem Statement": "In the following exercises, find the rate of commission.",
+        "Question": "Ruben received $$\\text{$675}$$ commission when he sold a $$\\text{$4,500}$$ painting at the art gallery where he works. What was the rate of commission?",
+        "Image Links": [],
+        "Answer": "15%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Sales Tax, Commission, and Discount Applications",
+        "Problem Statement": "In the following exercises, find the rate of commission.",
+        "Question": "Tori received $$\\text{$80.75}$$ for selling a $$\\text{$950}$$ membership at her gym. What was her rate of commission?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Sales Tax, Commission, and Discount Applications",
+        "Problem Statement": "In the following exercises, find the sale price.",
+        "Question": "Aya bought a pair of shoes that was on sale for $$\\text{$30}$$ off. The original price of the shoes was $$\\text{$75} .$$",
+        "Image Links": [],
+        "Answer": "$45",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Sales Tax, Commission, and Discount Applications",
+        "Problem Statement": "In the following exercises, find the sale price.",
+        "Question": "Takwanna saw a cookware set she liked on sale for $$\\text{$145}$$ off. The original price of the cookware was $$\\text{$312} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Sales Tax, Commission, and Discount Applications",
+        "Problem Statement": "In the following exercises, find \u24d0 the amount of discount and \u24d1 the sale price.",
+        "Question": "Nga bought a microwave for her office. The microwave was discounted $$\\text{30%}$$ from an original price of $$\\text{$84.90} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $25.47 \u24d1 $59.43",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Sales Tax, Commission, and Discount Applications",
+        "Problem Statement": "In the following exercises, find \u24d0 the amount of discount and \u24d1 the sale price.",
+        "Question": "Jarrett bought a tie that was discounted $$\\text{65%}$$ from an original price of $$\\text{$45} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Sales Tax, Commission, and Discount Applications",
+        "Problem Statement": "In the following exercises, find \u24d0 the amount of discount \u24d1 the discount rate. (Round to the nearest tenth of a percent if needed.)",
+        "Question": "Hilda bought a bedspread on sale for $$\\text{$37} .$$ The original price of the bedspread was $$\\text{$50} .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $13 \u24d1 26%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Sales Tax, Commission, and Discount Applications",
+        "Problem Statement": "In the following exercises, find \u24d0 the amount of discount \u24d1 the discount rate. (Round to the nearest tenth of a percent if needed.)",
+        "Question": "Tyler bought a phone on sale for $$\\text{$49.99} .$$ The original price of the phone was $$\\text{$79.99} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Sales Tax, Commission, and Discount Applications",
+        "Problem Statement": "In the following exercises, find",
+        "Question": "Manny paid $$\\text{$0.80}$$ a pound for apples. He added $$\\text{60%}$$ mark-up before selling them at his produce stand. What price did he charge for the apples?",
+        "Image Links": [],
+        "Answer": "\u24d0 $0.48 \u24d1 $1.28",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Sales Tax, Commission, and Discount Applications",
+        "Problem Statement": "In the following exercises, find",
+        "Question": "It cost Noelle $$\\text{$17.40}$$ for the materials she used to make a purse. She added a $$\\text{325%}$$ mark-up before selling it at her friend\u2019s store. What price did she ask for the purse?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Simple Interest Applications",
+        "Problem Statement": "In the following exercises, solve the simple interest problem.",
+        "Question": "Find the simple interest earned after $$4$$ years on $$\\text{$2,250}$$ invested at an interest rate of $$\\text{5%} .$$",
+        "Image Links": [],
+        "Answer": "$450",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Simple Interest Applications",
+        "Problem Statement": "In the following exercises, solve the simple interest problem.",
+        "Question": "Find the simple interest earned after $$7$$ years on $$\\text{$12,000}$$ invested at an interest rate of $$\\text{8.5%} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Simple Interest Applications",
+        "Problem Statement": "In the following exercises, solve the simple interest problem.",
+        "Question": "Find the principal invested if $$\\text{$660}$$ interest was earned in $$5$$ years at an interest rate of $$\\text{3%} .$$",
+        "Image Links": [],
+        "Answer": "$4400",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Simple Interest Applications",
+        "Problem Statement": "In the following exercises, solve the simple interest problem.",
+        "Question": "Find the interest rate if $$\\text{$2,898}$$ interest was earned from a principal of $$\\text{$23,000}$$ invested for $$3$$ years.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Simple Interest Applications",
+        "Problem Statement": "In the following exercises, solve the simple interest problem.",
+        "Question": "Kazuo deposited $$\\text{$10,000}$$ in a bank account with interest rate $$\\text{4.5%} .$$ How much interest was earned in $$2$$ years?",
+        "Image Links": [],
+        "Answer": "$900",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Simple Interest Applications",
+        "Problem Statement": "In the following exercises, solve the simple interest problem.",
+        "Question": "Brent invested $$\\text{$23,000}$$ in a friend\u2019s business. In $$5$$ years the friend paid him the $$\\text{$23,000}$$ plus $$\\text{$9,200}$$ interest. What was the rate of interest?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Simple Interest Applications",
+        "Problem Statement": "In the following exercises, solve the simple interest problem.",
+        "Question": "Fresia lent her son $$\\text{$5,000}$$ for college expenses. Three years later he repaid her the $$\\text{$5,000}$$ plus $$\\text{$375}$$ interest. What was the rate of interest?",
+        "Image Links": [],
+        "Answer": "2.5%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Simple Interest Applications",
+        "Problem Statement": "In the following exercises, solve the simple interest problem.",
+        "Question": "In $$6$$ years, a bond that paid $$\\text{5.5%}$$ earned $$\\text{$594}$$ interest. What was the principal of the bond?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Proportions and their Applications",
+        "Problem Statement": "In the following exercises, write each sentence as a proportion.",
+        "Question": "$$3$$ is to $$8$$ as $$12$$ is to $$32 .$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{3}{8} = \\frac{12}{32}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Proportions and their Applications",
+        "Problem Statement": "In the following exercises, write each sentence as a proportion.",
+        "Question": "$$95$$ miles to $$3$$ gallons is the same as $$475$$ miles to $$15$$ gallons.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Proportions and their Applications",
+        "Problem Statement": "In the following exercises, write each sentence as a proportion.",
+        "Question": "$$1$$ teacher to $$18$$ students is the same as $$23$$ teachers to $$414$$ students.",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{18} = \\frac{23}{414}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Proportions and their Applications",
+        "Problem Statement": "In the following exercises, write each sentence as a proportion.",
+        "Question": "$$\\text{$7.35}$$ for $$15$$ ounces is the same as $$\\text{$2.94}$$ for $$6$$ ounces.",
+        "Image Links": [],
+        "Answer": "135%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Proportions and their Applications",
+        "Problem Statement": "In the following exercises, determine whether each equation is a proportion.",
+        "Question": "$$\\frac{5}{13} = \\frac{30}{78}$$",
+        "Image Links": [],
+        "Answer": "yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Proportions and their Applications",
+        "Problem Statement": "In the following exercises, determine whether each equation is a proportion.",
+        "Question": "$$\\frac{16}{7} = \\frac{48}{23}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Proportions and their Applications",
+        "Problem Statement": "In the following exercises, determine whether each equation is a proportion.",
+        "Question": "$$\\frac{12}{18} = \\frac{6.99}{10.99}$$",
+        "Image Links": [],
+        "Answer": "no",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Proportions and their Applications",
+        "Problem Statement": "In the following exercises, determine whether each equation is a proportion.",
+        "Question": "$$\\frac{11.6}{9.2} = \\frac{37.12}{29.44}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Proportions and their Applications",
+        "Problem Statement": "In the following exercises, solve each proportion.",
+        "Question": "$$\\frac{x}{36} = \\frac{5}{9}$$",
+        "Image Links": [],
+        "Answer": "20",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Proportions and their Applications",
+        "Problem Statement": "In the following exercises, solve each proportion.",
+        "Question": "$$\\frac{7}{a} = \\frac{-6}{84}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Proportions and their Applications",
+        "Problem Statement": "In the following exercises, solve each proportion.",
+        "Question": "$$\\frac{1.2}{1.8} = \\frac{d}{6}$$",
+        "Image Links": [],
+        "Answer": "4",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Proportions and their Applications",
+        "Problem Statement": "In the following exercises, solve each proportion.",
+        "Question": "$$\\frac{\\frac{1}{2}}{2} = \\frac{m}{20}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Proportions and their Applications",
+        "Problem Statement": "In the following exercises, solve the proportion problem.",
+        "Question": "The children\u2019s dosage of acetaminophen is $$5$$ milliliters (ml) for every $$25$$ pounds of a child\u2019s weight. How many milliliters of acetaminophen will be prescribed for a $$60$$ pound child?",
+        "Image Links": [],
+        "Answer": "12 ml",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Proportions and their Applications",
+        "Problem Statement": "In the following exercises, solve the proportion problem.",
+        "Question": "After a workout, Dennis takes his pulse for $$10$$ sec and counts $$21$$ beats. How many beats per minute is this?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Proportions and their Applications",
+        "Problem Statement": "In the following exercises, solve the proportion problem.",
+        "Question": "An $$8$$ ounce serving of ice cream has $$272$$ calories. If Lavonne eats $$10$$ ounces of ice cream, how many calories does she get?",
+        "Image Links": [],
+        "Answer": "340 calories",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Proportions and their Applications",
+        "Problem Statement": "In the following exercises, solve the proportion problem.",
+        "Question": "Alma is going to Europe and wants to exchange $$\\text{$1,200}$$ into Euros. If each dollar is $$0.75$$ Euros, how many Euros will Alma get?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Proportions and their Applications",
+        "Problem Statement": "In the following exercises, solve the proportion problem.",
+        "Question": "Zack wants to drive from Omaha to Denver, a distance of $$494$$ miles. If his car gets $$38$$ miles to the gallon, how many gallons of gas will Zack need to get to Denver?",
+        "Image Links": [],
+        "Answer": "13 gallons",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Proportions and their Applications",
+        "Problem Statement": "In the following exercises, solve the proportion problem.",
+        "Question": "Teresa is planning a party for $$100$$ people. Each gallon of punch will serve $$18$$ people. How many gallons of punch will she need?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Proportions and their Applications",
+        "Problem Statement": "In the following exercises, translate to a proportion.",
+        "Question": "What number is $$\\text{62%}$$ of $$395 ?$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{n}{395} = \\frac{62}{100}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Proportions and their Applications",
+        "Problem Statement": "In the following exercises, translate to a proportion.",
+        "Question": "$$42$$ is $$\\text{70%}$$ of what number?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Proportions and their Applications",
+        "Problem Statement": "In the following exercises, translate to a proportion.",
+        "Question": "What percent of $$1,000$$ is $$15 ?$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{15}{1000} = \\frac{p}{100}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Proportions and their Applications",
+        "Problem Statement": "In the following exercises, translate to a proportion.",
+        "Question": "What percent of $$140$$ is $$210 ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Proportions and their Applications",
+        "Problem Statement": "In the following exercises, translate and solve using proportions.",
+        "Question": "What number is $$\\text{85%}$$ of $$900 ?$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{n}{900} = \\frac{85}{100} , 765$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Proportions and their Applications",
+        "Problem Statement": "In the following exercises, translate and solve using proportions.",
+        "Question": "$$\\text{6%}$$ of what number is $$\\text{$24} ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Proportions and their Applications",
+        "Problem Statement": "In the following exercises, translate and solve using proportions.",
+        "Question": "$$\\text{$3.51}$$ is $$\\text{4.5%}$$ of what number?",
+        "Image Links": [],
+        "Answer": "$$\\frac{3.51}{n} = \\frac{4.5}{100} , $78$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Solve Proportions and their Applications",
+        "Problem Statement": "In the following exercises, translate and solve using proportions.",
+        "Question": "What percent of $$3,100$$ is $$930 ?$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

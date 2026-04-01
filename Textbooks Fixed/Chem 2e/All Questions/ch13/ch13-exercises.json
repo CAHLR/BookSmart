@@ -1,0 +1,716 @@
+[
+    {
+        "Topic": "13.1 Chemical Equilibria",
+        "Problem Statement": "",
+        "Question": "What does it mean to describe a reaction as \u201creversible\u201d?",
+        "Image Links": [],
+        "Answer": "The reaction can proceed in both the forward and reverse directions.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.1 Chemical Equilibria",
+        "Problem Statement": "",
+        "Question": "When writing an equation, how is a reversible reaction distinguished from a nonreversible reaction?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.1 Chemical Equilibria",
+        "Problem Statement": "",
+        "Question": "If a reaction is reversible, when can it be said to have reached equilibrium?",
+        "Image Links": [],
+        "Answer": "When a system has reached equilibrium, no further changes in the reactant and product concentrations occur; the forward and reverse reactions continue to proceed, but at equal rates.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.1 Chemical Equilibria",
+        "Problem Statement": "",
+        "Question": "Is a system at equilibrium if the rate constants of the forward and reverse reactions are equal?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.1 Chemical Equilibria",
+        "Problem Statement": "",
+        "Question": "If the concentrations of products and reactants are equal, is the system at equilibrium?",
+        "Image Links": [],
+        "Answer": "Not necessarily. A system at equilibrium is characterized by constant reactant and product concentrations, but the values of the reactant and product concentrations themselves need not be equal.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.2 Equilibrium Constants",
+        "Problem Statement": "",
+        "Question": "Explain why there may be an infinite number of values for the reaction quotient of a reaction at a given temperature but there can be only one value for the equilibrium constant at that temperature.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.2 Equilibrium Constants",
+        "Problem Statement": "",
+        "Question": "Explain why an equilibrium between Br_2( l ) and Br_2( g ) would not be established if the container were not a closed vessel shown in Figure 13.4.",
+        "Image Links": [],
+        "Answer": "Equilibrium cannot be established between the liquid and the gas phase if the top is removed from the bottle because the system is not closed; one of the components of the equilibrium, the Br_2 vapor, would escape from the bottle until all liquid disappeared. Thus, more liquid would evaporate than can condense back from the gas phase to the liquid phase.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.2 Equilibrium Constants",
+        "Problem Statement": "",
+        "Question": "If you observe the following reaction at equilibrium, is it possible to tell whether the reaction started with pure NO_2 or with pure N_2O_4? $$2 \\text{NO}_{2} ( g ) \\rightleftharpoons \\text{N}_{2} \\text{O}_{4} ( g )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.2 Equilibrium Constants",
+        "Problem Statement": "",
+        "Question": "Among the solubility rules previously discussed is the statement: All chlorides are soluble except Hg_2Cl_2, AgCl, PbCl_2, and CuCl. (a) Write the expression for the equilibrium constant for the reaction represented by the equation $$\\text{AgCl} ( s ) \\rightleftharpoons \\text{Ag}^{\\text{+}} ( a q ) + \\text{Cl}^{\\text{unicode[:-]}} ( a q ) .$$ Is K_c > 1, < 1, or \u2248 1? Explain your answer. (b) Write the expression for the equilibrium constant for the reaction represented by the equation $$\\text{Pb}^{2+} ( a q ) + 2 \\text{Cl}^{\\text{unicode[:-]}} ( a q ) \\rightleftharpoons \\text{PbCl}_{2} ( s ) .$$ Is K_c > 1, < 1, or \u2248 1? Explain your answer.",
+        "Image Links": [],
+        "Answer": "(a) K_c = [Ag^+][Cl^-] < 1. AgCl is insoluble; thus, the concentrations of ions are much less than 1 M ; (b) $$K_{c} = \\frac{1}{[ \\text{Pb}^{2+} ] [ \\text{Cl}^{\\text{unicode[:-]}} ]^{2}}$$ > 1 because PbCl_2 is insoluble and formation of the solid will reduce the concentration of ions to a low level (<1 M ).",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.2 Equilibrium Constants",
+        "Problem Statement": "",
+        "Question": "Among the solubility rules previously discussed is the statement: Carbonates, phosphates, borates, and arsenates-except those of the ammonium ion and the alkali metals-are insoluble. (a) Write the expression for the equilibrium constant for the reaction represented by the equation $$\\text{CaCO}_{3} ( s ) \\rightleftharpoons \\text{Ca}^{2+} ( a q ) + \\text{CO}_{3} ^{2-} ( \\text{aq} ) .$$ Is K_c > 1, < 1, or \u2248 1? Explain your answer. (b) Write the expression for the equilibrium constant for the reaction represented by the equation $$3 \\text{Ba}^{2+} ( a q ) + 2 \\text{PO}_{4} ^{3-} ( a q ) \\rightleftharpoons \\text{Ba}_{3} ( \\text{PO}_{4} )_{2} ( s ) .$$ Is K_c > 1, < 1, or \u2248 1? Explain your answer.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.2 Equilibrium Constants",
+        "Problem Statement": "",
+        "Question": "Benzene is one of the compounds used as octane enhancers in unleaded gasoline. It is manufactured by the catalytic conversion of acetylene to benzene: $$3 \\text{C}_{2} \\text{H}_{2} ( g ) \\rightleftharpoons \\text{C}_{6} \\text{H}_{6} ( g ) .$$ Which value of K_c would make this reaction most useful commercially? K_c \u2248 0.01, K_c \u2248 1, or K_c \u2248 10. Explain your answer.",
+        "Image Links": [],
+        "Answer": "Since $$K_{c} = \\frac{[ \\text{C}_{6} \\text{H}_{6} ]}{[ \\text{C}_{2} \\text{H}_{2} ]^{3}} ,$$ a value of K_c \u2248 10 means that C_6H_6 predominates over C_2H_2. In such a case, the reaction would be commercially feasible if the rate to equilibrium is suitable.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.2 Equilibrium Constants",
+        "Problem Statement": "",
+        "Question": "Show that the complete chemical equation, the total ionic equation, and the net ionic equation for the reaction represented by the equation $$\\text{KI} ( a q ) + \\text{I}_{2} ( a q ) \\rightleftharpoons \\text{KI}_{3} ( a q )$$ give the same expression for the reaction quotient. KI_3 is composed of the ions K^+ and $$\\text{I}_{3} ^{\\text{unicode[:-]}} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.2 Equilibrium Constants",
+        "Problem Statement": "",
+        "Question": "For a titration to be effective, the reaction must be rapid and the yield of the reaction must essentially be 100%. Is K_c > 1, < 1, or \u2248 1 for a titration reaction?",
+        "Image Links": [],
+        "Answer": "K_c > 1",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.2 Equilibrium Constants",
+        "Problem Statement": "",
+        "Question": "For a precipitation reaction to be useful in a gravimetric analysis, the product of the reaction must be insoluble. Is K_c > 1, < 1, or \u2248 1 for a useful precipitation reaction?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.2 Equilibrium Constants",
+        "Problem Statement": "",
+        "Question": "Write the mathematical expression for the reaction quotient, Q_c , for each of the following reactions: (a) $$\\text{CH}_{4} ( g ) + \\text{Cl}_{2} ( g ) \\rightleftharpoons \\text{CH}_{3} \\text{Cl} ( g ) + \\text{HCl} ( g )$$ (b) $$\\text{N}_{2} ( g ) + \\text{O}_{2} ( g ) \\rightleftharpoons 2 \\text{NO} ( g )$$ (c) $$2 \\text{SO}_{2} ( g ) + \\text{O}_{2} ( g ) \\rightleftharpoons 2 \\text{SO}_{3} ( g )$$ (d) $$\\text{BaSO}_{3} ( s ) \\rightleftharpoons \\text{BaO} ( s ) + \\text{SO}_{2} ( g )$$ (e) $$\\text{P}_{4} ( g ) + 5 \\text{O}_{2} ( g ) \\rightleftharpoons \\text{P}_{4} \\text{O}_{10} ( s )$$ (f) $$\\text{Br}_{2} ( g ) \\rightleftharpoons 2 \\text{Br} ( g )$$ (g) $$\\text{CH}_{4} ( g ) + 2 \\text{O}_{2} ( g ) \\rightleftharpoons \\text{CO}_{2} ( g ) + 2 \\text{H}_{2} \\text{O} ( l )$$ (h) $$\\text{CuSO}_{4} \\text{\u00b7} 5 \\text{H}_{2} \\text{O} ( s ) \\rightleftharpoons \\text{CuSO}_{4} ( s ) + 5 \\text{H}_{2} \\text{O} ( g )$$",
+        "Image Links": [],
+        "Answer": "(a) $$Q_{c} = \\frac{[ \\text{CH}_{3} \\text{Cl} ] [ \\text{HCl} ]}{[ \\text{CH}_{4} ] [ \\text{Cl}_{2} ]} ;$$ (b) $$Q_{c} = \\frac{[ \\text{NO} ]^{2}}{[ \\text{N}_{2} ] [ \\text{O}_{2} ]} ;$$ (c) $$Q_{c} = \\frac{[ \\text{SO}_{3} ]^{2}}{[ \\text{SO}_{2} ]^{2} [ \\text{O}_{2} ]} ;$$ (d) Q_c = [SO_2]; (e) $$Q_{c} = \\frac{1}{[ \\text{P}_{4} ] [ \\text{O}_{2} ]^{5}} ;$$ (f) $$Q_{c} = \\frac{[ \\text{Br} ]^{2}}{[ \\text{Br}_{2} ]} ;$$ (g) $$Q_{c} = \\frac{[ \\text{CO}_{2} ]}{[ \\text{CH}_{4} ] [ \\text{O}_{2} ]^{2}} ;$$ (h) Q_c = [H_2O]^5",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.2 Equilibrium Constants",
+        "Problem Statement": "",
+        "Question": "Write the mathematical expression for the reaction quotient, Q_c , for each of the following reactions: (a) $$\\text{N}_{2} ( g ) + 3 \\text{H}_{2} ( g ) \\rightleftharpoons 2 \\text{NH}_{3} ( g )$$ (b) $$4 \\text{NH}_{3} ( g ) + 5 \\text{O}_{2} ( g ) \\rightleftharpoons 4 \\text{NO} ( g ) + 6 \\text{H}_{2} \\text{O} ( g )$$ (c) $$\\text{N}_{2} \\text{O}_{4} ( g ) \\rightleftharpoons 2 \\text{NO}_{2} ( g )$$ (d) $$\\text{CO}_{2} ( g ) + \\text{H}_{2} ( g ) \\rightleftharpoons \\text{CO} ( g ) + \\text{H}_{2} \\text{O} ( g )$$ (e) $$\\text{NH}_{4} \\text{Cl} ( s ) \\rightleftharpoons \\text{NH}_{3} ( g ) + \\text{HCl} ( g )$$ (f) $$2 \\text{Pb} ( \\text{NO}_{3} )_{2} ( s ) \\rightleftharpoons 2 \\text{PbO} ( s ) + 4 \\text{NO}_{2} ( g ) + \\text{O}_{2} ( g )$$ (g) $$2 \\text{H}_{2} ( g ) + \\text{O}_{2} ( g ) \\rightleftharpoons 2 \\text{H}_{2} \\text{O} ( l )$$ (h) $$\\text{S}_{8} ( g ) \\rightleftharpoons 8 \\text{S} ( g )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.2 Equilibrium Constants",
+        "Problem Statement": "",
+        "Question": "The initial concentrations or pressures of reactants and products are given for each of the following systems. Calculate the reaction quotient and determine the direction in which each system will proceed to reach equilibrium. (a) $$2 \\text{NH}_{3} ( g ) \\rightleftharpoons \\text{N}_{2} ( g ) + 3 \\text{H}_{2} ( g ) K_{c} = 17 ;$$ [NH_3] = 0.20 M , [N_2] = 1.00 M , [H_2] = 1.00 M (b) $$2 \\text{NH}_{3} ( g ) \\rightleftharpoons \\text{N}_{2} ( g ) + 3 \\text{H}_{2} ( g ) K_{P} = 6.8 \\times 10^{4} ;$$ NH_3 = 3.0 atm, N_2 = 2.0 atm, H_2 = 1.0 atm (c) $$2 \\text{SO}_{3} ( g ) \\rightleftharpoons 2 \\text{SO}_{2} ( g ) + \\text{O}_{2} ( g ) K_{c} = 0.230 ;$$ [SO_3] = 0.00 M , [SO_2] = 1.00 M , [O_2] = 1.00 M (d) $$2 \\text{SO}_{3} ( g ) \\rightleftharpoons 2 \\text{SO}_{2} ( g ) + \\text{O}_{2} ( g ) K_{P} = 16.5 ;$$ SO_3 = 1.00 atm, SO_2 = 1.00 atm, O_2 = 1.00 atm (e) $$2 \\text{NO} ( g ) + \\text{Cl}_{2} ( g ) \\rightleftharpoons 2 \\text{NOCl} ( g ) K_{c} = 4.6 \\times 10^{4} ;$$ [NO] = 1.00 M , [Cl_2] = 1.00 M , [NOCl] = 0 M (f) $$\\text{N}_{2} ( g ) + \\text{O}_{2} ( g ) \\rightleftharpoons 2 \\text{NO} ( g ) K_{P} = 0.050 ;$$ NO = 10.0 atm, N_2 = O_2 = 5 atm",
+        "Image Links": [],
+        "Answer": "(a) Q _c 25 proceeds left; (b) Q_P 0.22 proceeds right; (c) Q_c undefined proceeds left; (d) Q_P 1.00 proceeds right; (e) Q_P 0 proceeds right; (f) Q_c 4 proceeds left",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.2 Equilibrium Constants",
+        "Problem Statement": "",
+        "Question": "The initial concentrations or pressures of reactants and products are given for each of the following systems. Calculate the reaction quotient and determine the direction in which each system will proceed to reach equilibrium. (a) $$2 \\text{NH}_{3} ( g ) \\rightleftharpoons \\text{N}_{2} ( g ) + 3 \\text{H}_{2} ( g ) K_{c} = 17 ;$$ [NH_3] = 0.50 M , [N_2] = 0.15 M , [H_2] = 0.12 M (b) $$2 \\text{NH}_{3} ( g ) \\rightleftharpoons \\text{N}_{2} ( g ) + 3 \\text{H}_{2} ( g ) K_{P} = 6.8 \\times 10^{4} ;$$ NH_3 = 2.00 atm, N_2 = 10.00 atm, H_2 = 10.00 atm (c) $$2 \\text{SO}_{3} ( g ) \\rightleftharpoons 2 \\text{SO}_{2} ( g ) + \\text{O}_{2} ( g ) K_{c} = 0.230 ;$$ [SO_3] = 2.00 M , [SO_2] = 2.00 M , [O_2] = 2.00 M (d) $$2 \\text{SO}_{3} ( g ) \\rightleftharpoons 2 \\text{SO}_{2} ( g ) + \\text{O}_{2} ( g ) K_{P} = 6.5 \\text{atm;}$$ SO_2 = 1.00 atm, O_2 = 1.130 atm, SO_3 = 0 atm (e) $$2 \\text{NO} ( g ) + \\text{Cl}_{2} ( g ) \\rightleftharpoons 2 \\text{NOCl} ( g ) K_{P} = 2.5 \\times 10^{3} ;$$ NO = 1.00 atm, Cl_2 = 1.00 atm, NOCl = 0 atm (f) $$\\text{N}_{2} ( g ) + \\text{O}_{2} ( g ) \\rightleftharpoons 2 \\text{NO} ( g ) K_{c} = 0.050 ;$$ [N_2] = 0.100 M , [O_2] = 0.200 M , [NO] = 1.00 M",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.2 Equilibrium Constants",
+        "Problem Statement": "",
+        "Question": "The following reaction has K_P = 4.50 $$\\times$$ 10^-5 at 720 K. $$\\text{N}_{2} ( g ) + 3 \\text{H}_{2} ( g ) \\rightleftharpoons 2 \\text{NH}_{3} ( g )$$ If a reaction vessel is filled with each gas to the partial pressures listed, in which direction will it shift to reach equilibrium? P (NH_3) = 93 atm, P (N_2) = 48 atm, and P (H_2) = 52 atm",
+        "Image Links": [],
+        "Answer": "The system will shift toward the reactants to reach equilibrium.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.2 Equilibrium Constants",
+        "Problem Statement": "",
+        "Question": "Determine if the following system is at equilibrium. If not, in which direction will the system need to shift to reach equilibrium? $$\\text{SO}_{2} \\text{Cl}_{2} ( g ) \\rightleftharpoons \\text{SO}_{2} ( g ) + \\text{Cl}_{2} ( g )$$ [SO_2Cl_2] = 0.12 M , [Cl_2] = 0.16 M and [SO_2] = 0.050 M . K_c for the reaction is 0.078.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.2 Equilibrium Constants",
+        "Problem Statement": "",
+        "Question": "Which of the systems described in Exercise 13.15 are homogeneous equilibria? Which are heterogeneous equilibria?",
+        "Image Links": [],
+        "Answer": "(a) homogenous; (b) homogenous; (c) homogenous; (d) heterogeneous; (e) heterogeneous; (f) homogenous; (g) heterogeneous; (h) heterogeneous",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.2 Equilibrium Constants",
+        "Problem Statement": "",
+        "Question": "Which of the systems described in Exercise 13.16 are homogeneous equilibria? Which are heterogeneous equilibria?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.2 Equilibrium Constants",
+        "Problem Statement": "",
+        "Question": "For which of the reactions in Exercise 13.15 does K_c (calculated using concentrations) equal K_P (calculated using pressures)?",
+        "Image Links": [],
+        "Answer": "This situation occurs in (a) and (b).",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.2 Equilibrium Constants",
+        "Problem Statement": "",
+        "Question": "For which of the reactions in Exercise 13.16 does K_c (calculated using concentrations) equal K_P (calculated using pressures)?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.2 Equilibrium Constants",
+        "Problem Statement": "",
+        "Question": "Convert the values of K_c to values of K_P or the values of K_P to values of K_c . (a) $$\\text{N}_{2} ( g ) + 3 \\text{H}_{2} ( g ) \\rightleftharpoons 2 \\text{NH}_{3} ( g ) K_{c} = 0.50 \\text{at} 400 \\text{\u00b0C}$$ (b) $$\\text{H}_{2} ( g ) + \\text{I}_{2} ( g ) \\rightleftharpoons 2 \\text{HI} ( g ) K_{c} = 50.2 \\text{at} 448 \\text{\u00b0C}$$ (c) $$\\text{Na}_{2} \\text{SO}_{4} \\text{\u00b7} 10 \\text{H}_{2} \\text{O} ( s ) \\rightleftharpoons \\text{Na}_{2} \\text{SO}_{4} ( s ) + 10 \\text{H}_{2} \\text{O} ( g ) K_{P} = 4.08 \\times 10^{-25} \\text{at} 25 \\text{\u00b0C}$$ (d) $$\\text{H}_{2} \\text{O} ( l ) \\rightleftharpoons \\text{H}_{2} \\text{O} ( g ) K_{P} = 0.122 \\text{at} 50 \\text{\u00b0C}$$",
+        "Image Links": [],
+        "Answer": "(a) K_P = 1.6 $$\\times$$ 10^-4; (b) K_P = 50.2; (c) K_c = 5.31 $$\\times$$ 10^-39; (d) K_c = 4.60 $$\\times$$ 10^-3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.2 Equilibrium Constants",
+        "Problem Statement": "",
+        "Question": "Convert the values of K_c to values of K_P or the values of K_P to values of K_c . (a) $$\\text{Cl}_{2} ( g ) + \\text{Br}_{2} ( g ) \\rightleftharpoons 2 \\text{BrCl} ( g ) K_{c} = 4.7 \\times 10^{-2} \\text{at} 25 \\text{\u00b0C}$$ (b) $$2 \\text{SO}_{2} ( g ) + \\text{O}_{2} ( g ) \\rightleftharpoons 2 \\text{SO}_{3} ( g ) K_{P} = 48.2 \\text{at} 500 \\text{\u00b0C}$$ (c) $$\\text{CaCl}_{2} \\text{\u00b7} 6 \\text{H}_{2} \\text{O} ( s ) \\rightleftharpoons \\text{CaCl}_{2} ( s ) + 6 \\text{H}_{2} \\text{O} ( g ) K_{P} = 5.09 \\times 10^{-44} \\text{at} 25 \\text{\u00b0C}$$ (d) $$\\text{H}_{2} \\text{O} ( l ) \\rightleftharpoons \\text{H}_{2} \\text{O} ( g ) K_{P} = 0.196 \\text{at} 60 \\text{\u00b0C}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.2 Equilibrium Constants",
+        "Problem Statement": "",
+        "Question": "What is the value of the equilibrium constant expression for the change $$\\text{H}_{2} \\text{O} ( l ) \\rightleftharpoons \\text{H}_{2} \\text{O} ( g )$$ at 30 \u00b0C? (See Appendix E.)",
+        "Image Links": [],
+        "Answer": "$$K_{P} = P_{\\text{H}_{2} \\text{O}} = 0.042 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.2 Equilibrium Constants",
+        "Problem Statement": "",
+        "Question": "Write the expression of the reaction quotient for the ionization of HOCN in water.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.2 Equilibrium Constants",
+        "Problem Statement": "",
+        "Question": "Write the reaction quotient expression for the ionization of NH_3 in water.",
+        "Image Links": [],
+        "Answer": "$$Q_{c} = \\frac{[ \\text{NH}_{4} ^{\\text{+}} ] [ \\text{OH}^{\\text{unicode[:-]}} ]}{[ \\text{NH}_{3} ]}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.2 Equilibrium Constants",
+        "Problem Statement": "",
+        "Question": "What is the approximate value of the equilibrium constant K_P for the change $$\\text{C}_{2} \\text{H}_{5} \\text{OC}_{2} \\text{H}_{5} ( l ) \\rightleftharpoons \\text{C}_{2} \\text{H}_{5} \\text{OC}_{2} \\text{H}_{5} ( g )$$ at 25 \u00b0C. (The equilibrium vapor pressure for this substance is 570 torr at 25 \u00b0C.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.3 Shifting Equilibria: Le Ch\u00e2telier\u2019s Principle",
+        "Problem Statement": "",
+        "Question": "The following equation represents a reversible decomposition: $$\\text{CaCO}_{3} ( s ) \\rightleftharpoons \\text{CaO} ( s ) + \\text{CO}_{2} ( g )$$ Under what conditions will decomposition in a closed container proceed to completion so that no CaCO_3 remains?",
+        "Image Links": [],
+        "Answer": "The amount of CaCO_3 must be so small that $$P_{\\text{CO}_{2}}$$ is less than K_P when the CaCO_3 has completely decomposed. In other words, the starting amount of CaCO_3 cannot completely generate the full $$P_{\\text{CO}_{2}}$$ required for equilibrium.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.3 Shifting Equilibria: Le Ch\u00e2telier\u2019s Principle",
+        "Problem Statement": "",
+        "Question": "Explain how to recognize the conditions under which changes in volume will affect gas-phase systems at equilibrium.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.3 Shifting Equilibria: Le Ch\u00e2telier\u2019s Principle",
+        "Problem Statement": "",
+        "Question": "What property of a reaction can we use to predict the effect of a change in temperature on the value of an equilibrium constant?",
+        "Image Links": [],
+        "Answer": "The change in enthalpy may be used. If the reaction is exothermic, the heat produced can be thought of as a product. If the reaction is endothermic the heat added can be thought of as a reactant. Additional heat would shift an exothermic reaction back to the reactants but would shift an endothermic reaction to the products. Cooling an exothermic reaction causes the reaction to shift toward the product side; cooling an endothermic reaction would cause it to shift to the reactants\u2019 side.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.3 Shifting Equilibria: Le Ch\u00e2telier\u2019s Principle",
+        "Problem Statement": "",
+        "Question": "The following reaction occurs when a burner on a gas stove is lit: $$\\text{CH}_{4} ( g ) + 2 \\text{O}_{2} ( g ) \\rightleftharpoons \\text{CO}_{2} ( g ) + 2 \\text{H}_{2} \\text{O} ( g )$$ Is an equilibrium among CH_4, O_2, CO_2, and H_2O established under these conditions? Explain your answer.",
+        "Image Links": [],
+        "Answer": "No, it is not at equilibrium. Because the system is not confined, products continuously escape from the region of the flame; reactants are also added continuously from the burner and surrounding atmosphere.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.3 Shifting Equilibria: Le Ch\u00e2telier\u2019s Principle",
+        "Problem Statement": "",
+        "Question": "A necessary step in the manufacture of sulfuric acid is the formation of sulfur trioxide, SO_3, from sulfur dioxide, SO_2, and oxygen, O_2, shown here. At high temperatures, the rate of formation of SO_3 is higher, but the equilibrium amount (concentration or partial pressure) of SO_3 is lower than it would be at lower temperatures. $$2 \\text{SO}_{2} ( g ) + \\text{O}_{2} ( g ) \\rightleftharpoons 2 \\text{SO}_{3} ( g )$$ (a) Does the equilibrium constant for the reaction increase, decrease, or remain about the same as the temperature increases? (b) Is the reaction endothermic or exothermic?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.3 Shifting Equilibria: Le Ch\u00e2telier\u2019s Principle",
+        "Problem Statement": "",
+        "Question": "Suggest four ways in which the concentration of hydrazine, N_2H_4, could be increased in an equilibrium described by the following equation: $$\\text{N}_{2} ( g ) + 2 \\text{H}_{2} ( g ) \\rightleftharpoons \\text{N}_{2} \\text{H}_{4} ( g ) \\text{Delta} H = 95 \\text{kJ}$$",
+        "Image Links": [],
+        "Answer": "Add N_2; add H_2; decrease the container volume; heat the mixture.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.3 Shifting Equilibria: Le Ch\u00e2telier\u2019s Principle",
+        "Problem Statement": "",
+        "Question": "Suggest four ways in which the concentration of PH_3 could be increased in an equilibrium described by the following equation: $$\\text{P}_{4} ( g ) + 6 \\text{H}_{2} ( g ) \\rightleftharpoons 4 \\text{PH}_{3} ( g ) \\text{Delta} H = 110.5 \\text{kJ}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.3 Shifting Equilibria: Le Ch\u00e2telier\u2019s Principle",
+        "Problem Statement": "",
+        "Question": "How will an increase in temperature affect each of the following equilibria? How will a decrease in the volume of the reaction vessel affect each? (a) $$2 \\text{NH}_{3} ( g ) \\rightleftharpoons \\text{N}_{2} ( g ) + 3 \\text{H}_{2} ( g ) \\text{Delta} H = 92 \\text{kJ}$$ (b) $$\\text{N}_{2} ( g ) + \\text{O}_{2} ( g ) \\rightleftharpoons 2 \\text{NO} ( g ) \\text{Delta} H = 181 \\text{kJ}$$ (c) $$2 \\text{O}_{3} ( g ) \\rightleftharpoons 3 \\text{O}_{2} ( g ) \\text{Delta} H = -285 \\text{kJ}$$ (d) $$\\text{CaO} ( s ) + \\text{CO}_{2} ( g ) \\rightleftharpoons \\text{CaCO}_{3} ( s ) \\text{Delta} H = -176 \\text{kJ}$$",
+        "Image Links": [],
+        "Answer": "(a) T increase = shift right, V decrease = shift left; (b) T increase = shift right, V = no effect; (c) T increase = shift left, V decrease = shift left; (d) T increase = shift left, V decrease = shift right.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.3 Shifting Equilibria: Le Ch\u00e2telier\u2019s Principle",
+        "Problem Statement": "",
+        "Question": "How will an increase in temperature affect each of the following equilibria? How will a decrease in the volume of the reaction vessel affect each? (a) $$2 \\text{H}_{2} \\text{O} ( g ) \\rightleftharpoons 2 \\text{H}_{2} ( g ) + \\text{O}_{2} ( g ) \\text{Delta} H = 484 \\text{kJ}$$ (b) $$\\text{N}_{2} ( g ) + 3 \\text{H}_{2} ( g ) \\rightleftharpoons 2 \\text{NH}_{3} ( g ) \\text{Delta} H = -92.2 \\text{kJ}$$ (c) $$2 \\text{Br} ( g ) \\rightleftharpoons \\text{Br}_{2} ( g ) \\text{Delta} H = -224 \\text{kJ}$$ (d) $$\\text{H}_{2} ( g ) + \\text{I}_{2} ( s ) \\rightleftharpoons 2 \\text{HI} ( g ) \\text{Delta} H = 53 \\text{kJ}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.3 Shifting Equilibria: Le Ch\u00e2telier\u2019s Principle",
+        "Problem Statement": "",
+        "Question": "Methanol can be prepared from carbon monoxide and hydrogen at high temperature and pressure in the presence of a suitable catalyst. (a) Write the expression for the equilibrium constant ( K_c ) for the reversible reaction $$2 \\text{H}_{2} ( g ) + \\text{CO} ( g ) \\rightleftharpoons \\text{CH}_{3} \\text{OH} ( g ) \\text{Delta} H = -90.2 \\text{kJ}$$ (b) What will happen to the concentrations of H_2, CO, and CH_3OH at equilibrium if more H_2 is added? (c) What will happen to the concentrations of H_2, CO, and CH_3OH at equilibrium if CO is removed? (d) What will happen to the concentrations of H_2, CO, and CH_3OH at equilibrium if CH_3OH is added? (e) What will happen to the concentrations of H_2, CO, and CH_3OH at equilibrium if the temperature of the system is increased? (f) What will happen to the concentrations of H_2, CO, and CH_3OH at equilibrium if more catalyst is added?",
+        "Image Links": [],
+        "Answer": "(a) $$K_{c} = \\frac{[ \\text{CH}_{3} \\text{OH} ]}{[ \\text{H}_{2} ]^{2} [ \\text{CO} ]} ;$$ (b) [H_2] increases, [CO] decreases, [CH_3OH] increases; (c), [H_2] increases, [CO] decreases, [CH_3OH] decreases; (d), [H_2] increases, [CO] increases, [CH_3OH] increases; (e), [H_2] increases, [CO] increases, [CH_3OH] decreases; (f), no changes.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.3 Shifting Equilibria: Le Ch\u00e2telier\u2019s Principle",
+        "Problem Statement": "",
+        "Question": "Nitrogen and oxygen react at high temperatures. (a) Write the expression for the equilibrium constant ( K_c ) for the reversible reaction $$\\text{N}_{2} ( g ) + \\text{O}_{2} ( g ) \\rightleftharpoons 2 \\text{NO} ( g ) \\text{Delta} H = 181 \\text{kJ}$$ (b) What will happen to the concentrations of N_2, O_2, and NO at equilibrium if more O_2 is added? (c) What will happen to the concentrations of N_2, O_2, and NO at equilibrium if N_2 is removed? (d) What will happen to the concentrations of N_2, O_2, and NO at equilibrium if NO is added? (e) What will happen to the concentrations of N_2, O_2, and NO at equilibrium if the volume of the reaction vessel is decreased? (f) What will happen to the concentrations of N_2, O_2, and NO at equilibrium if the temperature of the system is increased? (g) What will happen to the concentrations of N_2, O_2, and NO at equilibrium if a catalyst is added?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.3 Shifting Equilibria: Le Ch\u00e2telier\u2019s Principle",
+        "Problem Statement": "",
+        "Question": "Water gas, a mixture of H_2 and CO, is an important industrial fuel produced by the reaction of steam with red hot coke, essentially pure carbon. (a) Write the expression for the equilibrium constant for the reversible reaction $$\\text{C} ( s ) + \\text{H}_{2} \\text{O} ( g ) \\rightleftharpoons \\text{CO} ( g ) + \\text{H}_{2} ( g ) \\text{Delta} H = 131.30 \\text{kJ}$$ (b) What will happen to the concentration of each reactant and product at equilibrium if more C is added? (c) What will happen to the concentration of each reactant and product at equilibrium if H_2O is removed? (d) What will happen to the concentration of each reactant and product at equilibrium if CO is added? (e) What will happen to the concentration of each reactant and product at equilibrium if the temperature of the system is increased?",
+        "Image Links": [],
+        "Answer": "(a) $$K_{c} = \\frac{[ \\text{CO} ] [ \\text{H}_{2} ]}{[ \\text{H}_{2} \\text{O} ]} ;$$ (b) [H_2O] no change, [CO] no change, [H_2] no change; (c) [H_2O] decreases, [CO] decreases, [H_2] decreases; (d) [H_2O] increases, [CO] increases, [H_2] decreases; (e) [H_2O] decreases, [CO] increases, [H_2] increases. In (b), (c), (d), and (e), the mass of carbon will change, but its concentration (activity) will not change.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.3 Shifting Equilibria: Le Ch\u00e2telier\u2019s Principle",
+        "Problem Statement": "",
+        "Question": "Pure iron metal can be produced by the reduction of iron(III) oxide with hydrogen gas. (a) Write the expression for the equilibrium constant ( K_c ) for the reversible reaction $$\\text{Fe}_{2} \\text{O}_{3} ( s ) + 3 \\text{H}_{2} ( g ) \\rightleftharpoons 2 \\text{Fe} ( s ) + 3 \\text{H}_{2} \\text{O} ( g ) \\text{Delta} H = 98.7 \\text{kJ}$$ (b) What will happen to the concentration of each reactant and product at equilibrium if more Fe is added? (c) What will happen to the concentration of each reactant and product at equilibrium if H_2O is removed? (d) What will happen to the concentration of each reactant and product at equilibrium if H_2 is added? (e) What will happen to the concentration of each reactant and product at equilibrium if the volume of the reaction vessel is decreased? (f) What will happen to the concentration of each reactant and product at equilibrium if the temperature of the system is increased?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.3 Shifting Equilibria: Le Ch\u00e2telier\u2019s Principle",
+        "Problem Statement": "",
+        "Question": "Ammonia is a weak base that reacts with water according to this equation: $$\\text{NH}_{3} ( a q ) + \\text{H}_{2} \\text{O} ( l ) \\rightleftharpoons \\text{NH}_{4} ^{\\text{+}} ( a q ) + \\text{OH}^{\\text{unicode[:-]}} ( a q )$$ Will any of the following increase the percent of ammonia that is converted to the ammonium ion in water? (a) Addition of NaOH (b) Addition of HCl (c) Addition of NH_4Cl",
+        "Image Links": [],
+        "Answer": "Only (b)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.3 Shifting Equilibria: Le Ch\u00e2telier\u2019s Principle",
+        "Problem Statement": "",
+        "Question": "Acetic acid is a weak acid that reacts with water according to this equation: $$\\text{CH}_{3} \\text{CO}_{2} \\text{H} ( a q ) + \\text{H}_{2} \\text{O} ( a q ) \\rightleftharpoons \\text{H}_{3} \\text{O}^{\\text{+}} ( a q ) + \\text{CH}_{3} \\text{CO}_{2} ^{\\text{unicode[:-]}} ( a q )$$ Will any of the following increase the percent of acetic acid that reacts and produces $$\\text{CH}_{3} \\text{CO}_{2} ^{\\text{unicode[:-]}}$$ ion? (a) Addition of HCl (b) Addition of NaOH (c) Addition of NaCH_3CO_2",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.3 Shifting Equilibria: Le Ch\u00e2telier\u2019s Principle",
+        "Problem Statement": "",
+        "Question": "Suggest two ways in which the equilibrium concentration of Ag^+ can be reduced in a solution of Na^+, Cl^-, Ag^+, and $$\\text{NO}_{3} ^{\\text{unicode[:-]}} ,$$ in contact with solid AgCl. $$\\text{Na}^{\\text{+}} ( a q ) + \\text{Cl}^{\\text{unicode[:-]}} ( a q ) + \\text{Ag}^{\\text{+}} ( a q ) + \\text{NO}_{3} ^{\\text{unicode[:-]}} ( a q ) \\rightleftharpoons \\text{AgCl} ( s ) + \\text{Na}^{\\text{+}} ( a q ) + \\text{NO}_{3} ^{\\text{unicode[:-]}} ( a q )$$ $$\\text{Delta} H = -65.9 \\text{kJ}$$",
+        "Image Links": [],
+        "Answer": "Add NaCl or some other salt that produces Cl^- to the solution. Cooling the solution forces the equilibrium to the right, precipitating more AgCl( s ).",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.3 Shifting Equilibria: Le Ch\u00e2telier\u2019s Principle",
+        "Problem Statement": "",
+        "Question": "How can the pressure of water vapor be increased in the following equilibrium? $$\\text{H}_{2} \\text{O} ( l ) \\rightleftharpoons \\text{H}_{2} \\text{O} ( g ) \\text{Delta} H = 41 \\text{kJ}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.3 Shifting Equilibria: Le Ch\u00e2telier\u2019s Principle",
+        "Problem Statement": "",
+        "Question": "A solution is saturated with silver sulfate and contains excess solid silver sulfate: $$\\text{Ag}_{2} \\text{SO}_{4} ( s ) \\rightleftharpoons 2 \\text{Ag}^{\\text{+}} ( a q ) + \\text{SO}_{4} ^{2-} ( a q )$$ A small amount of solid silver sulfate containing a radioactive isotope of silver is added to this solution. Within a few minutes, a portion of the solution phase is sampled and tests positive for radioactive Ag^+ ions. Explain this observation.",
+        "Image Links": [],
+        "Answer": "Though the solution is saturated, the dynamic nature of the solubility equilibrium means the opposing processes of solid dissolution and precipitation continue to occur (just at equal rates, meaning the dissolved ion concentrations and the amount of undissolved solid remain constant). The radioactive Ag^+ ions detected in the solution phase come from dissolution of the added solid, and their presence is countered by precipitation of nonradioactive Ag^+.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.3 Shifting Equilibria: Le Ch\u00e2telier\u2019s Principle",
+        "Problem Statement": "",
+        "Question": "When equal molar amounts of HCl and HOCl are dissolved separately in equal amounts of water, the solution of HCl freezes at a lower temperature. Which compound has the larger equilibrium constant for acid ionization? (a) HCl (b) H^+ + Cl^- (c) HOCl (d) H^+ + OCl^-",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "A reaction is represented by this equation: $$\\text{A} ( a q ) + 2 \\text{B} ( a q ) \\rightleftharpoons 2 \\text{C} ( a q ) K_{c} = 1 \\times 10^{3}$$ (a) Write the mathematical expression for the equilibrium constant. (b) Using concentrations \u22641 M , identify two sets of concentrations that describe a mixture of A, B, and C at equilibrium.",
+        "Image Links": [],
+        "Answer": "$$K_{c} = \\frac{[ \\text{C} ]^{2}}{[ \\text{A} ] [ \\text{B} ]^{2}} .$$ [A] = 0.1 M , [B] = 0.1 M , [C] = 1 M ; and [A] = 0.01, [B] = 0.250, [C] = 0.791.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "A reaction is represented by this equation: $$2 \\text{W} ( a q ) \\rightleftharpoons \\text{X} ( a q ) + 2 \\text{Y} ( a q ) K_{c} = 5 \\times 10^{-4}$$ (a) Write the mathematical expression for the equilibrium constant. (b) Using concentrations of \u22641 M , identify two sets of concentrations that describe a mixture of W, X, and Y at equilibrium.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "What is the value of the equilibrium constant at 500 \u00b0C for the formation of NH_3 according to the following equation? $$\\text{N}_{2} ( g ) + 3 \\text{H}_{2} ( g ) \\rightleftharpoons 2 \\text{NH}_{3} ( g )$$ An equilibrium mixture of NH_3( g ), H_2( g ), and N_2( g ) at 500 \u00b0C was found to contain 1.35 M H_2, 1.15 M N_2, and 4.12 $$\\times$$ 10^-1 M NH_3.",
+        "Image Links": [],
+        "Answer": "K_c = 6.00 $$\\times$$ 10^-2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "Hydrogen is prepared commercially by the reaction of methane and water vapor at elevated temperatures. $$\\text{CH}_{4} ( g ) + \\text{H}_{2} \\text{O} ( g ) \\rightleftharpoons 3 \\text{H}_{2} ( g ) + \\text{CO} ( g )$$ What is the equilibrium constant for the reaction if a mixture at equilibrium contains gases with the following concentrations: CH_4, 0.126 M ; H_2O, 0.242 M ; CO, 0.126 M ; H_2 1.15 M , at a temperature of 760 \u00b0C?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "A 0.72-mol sample of PCl_5 is put into a 1.00-L vessel and heated. At equilibrium, the vessel contains 0.40 mol of PCl_3( g ) and 0.40 mol of Cl_2( g ). Calculate the value of the equilibrium constant for the decomposition of PCl_5 to PCl_3 and Cl_2 at this temperature.",
+        "Image Links": [],
+        "Answer": "K_c = 0.50",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "At 1 atm and 25 \u00b0C, NO_2 with an initial concentration of 1.00 M is 0.0033% decomposed into NO and O_2. Calculate the value of the equilibrium constant for the reaction. $$2 \\text{NO}_{2} ( g ) \\rightleftharpoons 2 \\text{NO} ( g ) + \\text{O}_{2} ( g )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "Calculate the value of the equilibrium constant K_P for the reaction $$2 \\text{NO} ( g ) + \\text{Cl}_{2} ( g ) \\rightleftharpoons 2 \\text{NOCl} ( g )$$ from these equilibrium pressures: NO, 0.050 atm; Cl_2, 0.30 atm; NOCl, 1.2 atm.",
+        "Image Links": [],
+        "Answer": "K_P = 1.9 $$\\times$$ 10^3",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "When heated, iodine vapor dissociates according to this equation: $$\\text{I}_{2} ( g ) \\rightleftharpoons 2 \\text{I} ( g )$$ At 1274 K, a sample exhibits a partial pressure of I_2 of 0.1122 atm and a partial pressure due to I atoms of 0.1378 atm. Determine the value of the equilibrium constant, K_P , for the decomposition at 1274 K.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "A sample of ammonium chloride was heated in a closed container. $$\\text{NH}_{4} \\text{Cl} ( s ) \\rightleftharpoons \\text{NH}_{3} ( g ) + \\text{HCl} ( g )$$ At equilibrium, the pressure of NH_3( g ) was found to be 1.75 atm. What is the value of the equilibrium constant K_P for the decomposition at this temperature?",
+        "Image Links": [],
+        "Answer": "K_P = 3.06",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "At a temperature of 60 \u00b0C, the vapor pressure of water is 0.196 atm. What is the value of the equilibrium constant K_P for the vaporization equilibrium at 60 \u00b0C? $$\\text{H}_{2} \\text{O} ( l ) \\rightleftharpoons \\text{H}_{2} \\text{O} ( g )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "Complete the following partial ICE tables. (a) $$\\left .\\begin{matrix}{aaaaa} & 2 \\text{SO}_{3} ( g ) & \\rightleftharpoons & 2 \\text{SO}_{2} ( g ) + & \\text{O}_{2} ( g ) \\\\ \\text{change} & \\text{ululul} &  & \\text{ululul} & + x\\end{matrix}\\right .$$ (b) $$\\left .\\begin{matrix}{aaaaaa} & 4 \\text{NH}_{3} ( g ) & + 3 \\text{O}_{2} ( g ) & \\rightleftharpoons & 2 \\text{N}_{2} ( g ) + & 6 \\text{H}_{2} \\text{O} ( g ) \\\\ \\text{change} & \\text{ululul} & + x &  & \\text{ululul} & \\text{ululul}\\end{matrix}\\right .$$ (c) $$\\left .\\begin{matrix}{aaaaa} & 2 \\text{CH}_{4} ( g ) & \\rightleftharpoons & \\text{C}_{2} \\text{H}_{2} ( g ) + & 3 \\text{H}_{2} ( g ) \\\\ \\text{change} & \\text{ululul} &  & + x & \\text{ululul}\\end{matrix}\\right .$$ (d) $$\\left .\\begin{matrix}{aaaaaa} & \\text{CH}_{4} ( g ) + & \\text{H}_{2} \\text{O} ( g ) & \\rightleftharpoons & \\text{CO} ( g ) + & 3 \\text{H}_{2} ( g ) \\\\ \\text{change} & \\text{ululul} & + x &  & \\text{ululul} & \\text{ululul}\\end{matrix}\\right .$$ (e) $$\\left .\\begin{matrix}{aaaa}\\text{NH}_{4} \\text{Cl} ( s ) & \\rightleftharpoons & \\text{NH}_{3} ( g ) + & \\text{HCl} ( g ) \\\\ \\text{change} &  & + x & \\text{ululul}\\end{matrix}\\right .$$ (f) $$\\left .\\begin{matrix}{aaaa}\\text{Ni} ( s ) + & 4 \\text{CO} ( g ) & \\rightleftharpoons & \\text{Ni} ( \\text{CO} )_{4} ( g ) \\\\ \\text{change} & + x &  & \\text{ululul}\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "(a) -2 x , +2 x ;\n(b) $$\\frac{4}{3} x$$ , $$- \\frac{2}{3} x$$ , -2 x ;\n(c) -2 x , 3 x ;\n(d) x , - x , -3 x ;\n(e) + x ;\n(f) $$- \\frac{1}{4} x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "Complete the following partial ICE tables. (a) $$\\left .\\begin{matrix}{aaaaa} & 2 \\text{H}_{2} ( g ) + & \\text{O}_{2} ( g ) & \\rightleftharpoons & 2 \\text{H}_{2} \\text{O} ( g ) \\\\ \\text{change} & \\text{ululul} & \\text{ululul} &  & + x\\end{matrix}\\right .$$ (b) $$\\left .\\begin{matrix}{aaaaaa} & \\text{CS}_{2} ( g ) + & 4 \\text{H}_{2} ( g ) & \\rightleftharpoons & \\text{CH}_{4} ( g ) + & 2 \\text{H}_{2} \\text{S} ( g ) \\\\ \\text{change} & + x & \\text{ululul} &  & \\text{ululul} & \\text{ululul}\\end{matrix}\\right .$$ (c) $$\\left .\\begin{matrix}{aaaaa} & \\text{H}_{2} ( g ) + & \\text{Cl}_{2} ( g ) & \\rightleftharpoons & 2 \\text{HCl} ( g ) \\\\ \\text{change} & + x & \\text{ululul} &  & \\text{ululul}\\end{matrix}\\right .$$ (d) $$\\left .\\begin{matrix}{aaaaaa} & 2 \\text{NH}_{3} ( g ) & + 2 \\text{O}_{2} ( g ) & \\rightleftharpoons & \\text{N}_{2} \\text{O} ( g ) + & 3 \\text{H}_{2} \\text{O} ( g ) \\\\ \\text{change} & \\text{ululul} & \\text{ululul} &  & \\text{ululul} & + x\\end{matrix}\\right .$$ (e) $$\\left .\\begin{matrix}{aaaa}\\text{NH}_{4} \\text{HS} ( s ) & \\rightleftharpoons & \\text{NH}_{3} ( g ) + & \\text{H}_{2} \\text{S} ( g ) \\\\ \\text{change} &  & + x & \\text{ululul}\\end{matrix}\\right .$$ (f) $$\\left .\\begin{matrix}{aaaa}\\text{Fe} ( s ) + & 5 \\text{CO} ( g ) & \\rightleftharpoons & \\text{Fe} ( \\text{CO} )_{5} ( g ) \\\\ \\text{change} & \\text{ululul} &  & + x\\end{matrix}\\right .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "Why are there no changes specified for Ni in Exercise 13.60, part (f)? What property of Ni does change?",
+        "Image Links": [],
+        "Answer": "Activities of pure crystalline solids equal 1 and are constant; however, the mass of Ni does change.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "Why are there no changes specified for NH_4HS in Exercise 13.61, part (e)? What property of NH_4HS does change?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "Analysis of the gases in a sealed reaction vessel containing NH_3, N_2, and H_2 at equilibrium at 400 \u00b0C established the concentration of N_2 to be 1.2 M and the concentration of H_2 to be 0.24 M . $$\\text{N}_{2} ( g ) + 3 \\text{H}_{2} ( g ) \\rightleftharpoons 2 \\text{NH}_{3} ( g ) K_{c} = 0.50 \\text{at} 400 \\text{\u00b0} \\text{C}$$ Calculate the equilibrium molar concentration of NH_3.",
+        "Image Links": [],
+        "Answer": "[NH_3] = 9.1 $$\\times$$ 10^-2 M",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "Calculate the number of moles of HI that are at equilibrium with 1.25 mol of H_2 and 1.25 mol of I_2 in a 5.00-L flask at 448 \u00b0C. $$\\text{H}_{2} + \\text{I}_{2} \\rightleftharpoons 2 \\text{HI} K_{c} = 50.2 \\text{at} 448 \\text{\u00b0} \\text{C}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "What is the pressure of BrCl in an equilibrium mixture of Cl_2, Br_2, and BrCl if the pressure of Cl_2 in the mixture is 0.115 atm and the pressure of Br_2 in the mixture is 0.450 atm? $$\\text{Cl}_{2} ( g ) + \\text{Br}_{2} ( g ) \\rightleftharpoons 2 \\text{BrCl} ( g ) K_{P} = 4.7 \\times 10^{-2}$$",
+        "Image Links": [],
+        "Answer": "P _BrCl = 4.9 $$\\times$$ 10^-2 atm",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "What is the pressure of CO_2 in a mixture at equilibrium that contains 0.50 atm H_2, 2.0 atm of H_2O, and 1.0 atm of CO at 990 \u00b0C? $$\\text{H}_{2} ( g ) + \\text{CO}_{2} ( g ) \\rightleftharpoons \\text{H}_{2} \\text{O} ( g ) + \\text{CO} ( g ) K_{P} = 1.6 \\text{at} 990 \\text{\u00b0C}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "Cobalt metal can be prepared by reducing cobalt(II) oxide with carbon monoxide. $$\\text{CoO} ( s ) + \\text{CO} ( g ) \\rightleftharpoons \\text{Co} ( s ) + \\text{CO}_{2} ( g ) K_{c} = 4.90 \\times 10^{2} \\text{at} 550 \\text{\u00b0C}$$ What concentration of CO remains in an equilibrium mixture with [CO_2] = 0.100 M ?",
+        "Image Links": [],
+        "Answer": "[CO] = 2.04 $$\\times$$ 10^-4 M",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "Carbon reacts with water vapor at elevated temperatures. $$\\text{C} ( s ) + \\text{H}_{2} \\text{O} ( g ) \\rightleftharpoons \\text{CO} ( g ) + \\text{H}_{2} ( g ) K_{c} = 0.2 \\text{at} 1000 \\text{\u00b0C}$$ Assuming a reaction mixture initially contains only reactants, what is the concentration of CO in an equilibrium mixture with [H_2O] = 0.500 M at 1000 \u00b0C?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "Sodium sulfate 10-hydrate, Na_2SO_4\u00b710H_2O, dehydrates according to the equation $$\\text{Na}_{2} \\text{SO}_{4} \\text{\u00b7} 10 \\text{H}_{2} \\text{O} ( s ) \\rightleftharpoons \\text{Na}_{2} \\text{SO}_{4} ( s ) + 10 \\text{H}_{2} \\text{O} ( g ) K_{P} = 4.08 \\times 10^{-25} \\text{at} 25 \\text{\u00b0C}$$ What is the pressure of water vapor at equilibrium with a mixture of Na_2SO_4\u00b710H_2O and NaSO_4?",
+        "Image Links": [],
+        "Answer": "$$P_{\\text{H}_{\\text{2}}} _{\\text{O}} = 3.64 \\times 10^{\\text{unicode[:-]3}} \\text{atm}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "Calcium chloride 6-hydrate, CaCl_2\u00b76H_2O, dehydrates according to the equation $$\\text{CaCl}_{\\text{2}} \\text{\u00b7} 6 \\text{H}_{2} \\text{O} ( s ) \\rightleftharpoons \\text{CaCl}_{2} ( s ) + 6 \\text{H}_{2} \\text{O} ( g ) K_{P} = 5.09 \\times 10^{-44} \\text{at} 25 \\text{\u00b0C}$$ What is the pressure of water vapor at equilibrium with a mixture of CaCl_2\u00b76H_2O and CaCl_2 at 25 \u00b0C?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "A student solved the following problem and found the equilibrium concentrations to be [SO_2] = 0.590 M , [O_2] = 0.0450 M , and [SO_3] = 0.260 M . How could this student check the work without reworking the problem? The problem was: For the following reaction at 600 \u00b0C: $$2 \\text{SO}_{2} ( g ) + \\text{O}_{2} ( g ) \\rightleftharpoons 2 \\text{SO}_{3} ( g ) K_{c} = 4.32$$",
+        "Image Links": [],
+        "Answer": "Calculate Q based on the calculated concentrations and see if it is equal to K_c . Because Q does equal 4.32, the system must be at equilibrium.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "A student solved the following problem and found [N_2O_4] = 0.16 M at equilibrium. How could this student recognize that the answer was wrong without reworking the problem? The problem was: What is the equilibrium concentration of N_2O_4 in a mixture formed from a sample of NO_2 with a concentration of 0.10 M ? $$2 \\text{NO}_{2} ( g ) \\rightleftharpoons \\text{N}_{2} \\text{O}_{4} ( g ) K_{c} = 160$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "Assume that the change in concentration of N_2O_4 is small enough to be neglected in the following problem. (a) Calculate the equilibrium concentration of both species in 1.00 L of a solution prepared from 0.129 mol of N_2O_4 with chloroform as the solvent. $$\\text{N}_{2} \\text{O}_{4} ( g ) \\rightleftharpoons 2 \\text{NO}_{2} ( g ) K_{c} = 1.07 \\times 10^{-5}$$ in chloroform (b) Confirm that the change is small enough to be neglected.",
+        "Image Links": [],
+        "Answer": "(a) [NO_2] = 1.17 $$\\times$$ 10^-3 M ; [N_2O_4] = 0.128 M ; (b) The assumption that x is negligibly small compared to 0.129 is confirmed by comparing the initial concentration of the N_2O_4 to its concentration at equilibrium (they differ by just 1 in the least significant digit\u2019s place).",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "Assume that the change in concentration of COCl_2 is small enough to be neglected in the following problem. (a) Calculate the equilibrium concentration of all species in an equilibrium mixture that results from the decomposition of COCl_2 with an initial concentration of 0.3166 M . $$\\text{COCl}_{2} ( g ) \\rightleftharpoons \\text{CO} ( g ) + \\text{Cl}_{2} ( g ) K_{c} = 2.2 \\times 10^{-10}$$ (b) Confirm that the change is small enough to be neglected.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "Assume that the change in pressure of H_2S is small enough to be neglected in the following problem. (a) Calculate the equilibrium pressures of all species in an equilibrium mixture that results from the decomposition of H_2S with an initial pressure of 0.824 atm. $$2 \\text{H}_{2} \\text{S} ( g ) \\rightleftharpoons 2 \\text{H}_{2} ( g ) + \\text{S}_{2} ( g ) K_{P} = 2.2 \\times 10^{-6}$$ (b) Confirm that the change is small enough to be neglected.",
+        "Image Links": [],
+        "Answer": "(a) [H_2S] = 0.810 atm, [H_2] = 0.014 atm, [S_2] = 0.0072 atm; (b) The assumption that 2 x is negligibly small compared to 0.824 is confirmed by comparing the initial concentration of the H_2S to its concentration at equilibrium (0.824 atm versus 0.810 atm, a difference of less than 2%).",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "What are all concentrations after a mixture that contains [H_2O] = 1.00 M and [Cl_2O] = 1.00 M comes to equilibrium at 25 \u00b0C? $$\\text{H}_{2} \\text{O} ( g ) + \\text{Cl}_{2} \\text{O} ( g ) \\rightleftharpoons 2 \\text{HOCl} ( g ) K_{c} = 0.0900$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "What are the concentrations of PCl_5, PCl_3, and Cl_2 in an equilibrium mixture produced by the decomposition of a sample of pure PCl_5 with [PCl_5] = 2.00 M ? $$\\text{PCl}_{5} ( g ) \\rightleftharpoons \\text{PCl}_{3} ( g ) + \\text{Cl}_{2} ( g ) K_{c} = 0.0211$$",
+        "Image Links": [],
+        "Answer": "[PCl_5] = 1.80 M ; [Cl_2] = 0.195 M ; [PCl_3] = 0.195 M .",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "Calculate the number of grams of HI that are at equilibrium with 1.25 mol of H_2 and 63.5 g of iodine at 448 \u00b0C. $$\\text{H}_{2} + \\text{I}_{2} \\rightleftharpoons 2 \\text{HI} K_{c} = 50.2 \\text{at} 448 \\text{\u00b0C}$$",
+        "Image Links": [],
+        "Answer": "507 g",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "Butane exists as two isomers, n -butane and isobutane. K_P = 2.5 at 25 \u00b0C What is the pressure of isobutane in a container of the two isomers at equilibrium with a total pressure of 1.22 atm?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/455e7d773bc7a9763687b8d88475260d822444bb"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "What is the minimum mass of CaCO_3 required to establish equilibrium at a certain temperature in a 6.50-L container if the equilibrium constant ( K_c ) is 0.50 for the decomposition reaction of CaCO_3 at that temperature? $$\\text{CaCO}_{3} ( s ) \\rightleftharpoons \\text{CaO} ( s ) + \\text{CO}_{2} ( g )$$",
+        "Image Links": [],
+        "Answer": "330 g",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "The equilibrium constant ( K_c ) for this reaction is 1.60 at 990 \u00b0C: $$\\text{H}_{2} ( g ) + \\text{CO}_{2} ( g ) \\rightleftharpoons \\text{H}_{2} \\text{O} ( g ) + \\text{CO} ( g )$$ Calculate the number of moles of each component in the final equilibrium mixture obtained from adding 1.00 mol of H_2, 2.00 mol of CO_2, 0.750 mol of H_2O, and 1.00 mol of CO to a 5.00-L container at 990 \u00b0C.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "In a 3.0-L vessel, the following equilibrium partial pressures are measured: N_2, 190 torr; H_2, 317 torr; NH_3, 1.00 $$\\times$$ 10^3 torr. $$\\text{N}_{2} ( g ) + 3 \\text{H}_{2} ( g ) \\rightleftharpoons 2 \\text{NH}_{3} ( g )$$ (a) How will the partial pressures of H_2, N_2, and NH_3 change if H_2 is removed from the system? Will they increase, decrease, or remain the same? (b) Hydrogen is removed from the vessel until the partial pressure of nitrogen, at equilibrium, is 250 torr. Calculate the partial pressures of the other substances under the new conditions.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "The equilibrium constant ( K_c ) for this reaction is 5.0 at a given temperature. $$\\text{CO} ( g ) + \\text{H}_{2} \\text{O} ( g ) \\rightleftharpoons \\text{CO}_{2} ( g ) + \\text{H}_{2} ( g )$$ (a) On analysis, an equilibrium mixture of the substances present at the given temperature was found to contain 0.20 mol of CO, 0.30 mol of water vapor, and 0.90 mol of H_2 in a liter. How many moles of CO_2 were there in the equilibrium mixture? (b) Maintaining the same temperature, additional H_2 was added to the system, and some water vapor was removed by drying. A new equilibrium mixture was thereby established containing 0.40 mol of CO, 0.30 mol of water vapor, and 1.2 mol of H_2 in a liter. How many moles of CO_2 were in the new equilibrium mixture? Compare this with the quantity in part (a), and discuss whether the second value is reasonable. Explain how it is possible for the water vapor concentration to be the same in the two equilibrium solutions even though some vapor was removed before the second equilibrium was established.",
+        "Image Links": [],
+        "Answer": "(a) 0.33 mol. (b) [CO_2] = 0.50 M . Added H_2 forms some water as a result of a shift to the left after H_2 is added.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "Antimony pentachloride decomposes according to this equation: $$\\text{SbCl}_{5} ( g ) \\rightleftharpoons \\text{SbCl}_{3} ( g ) + \\text{Cl}_{2} ( g )$$ An equilibrium mixture in a 5.00-L flask at 448 \u00b0C contains 3.85 g of SbCl_5, 9.14 g of SbCl_3, and 2.84 g of Cl_2. How many grams of each will be found if the mixture is transferred into a 2.00-L flask at the same temperature?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "Consider the equilibrium $$4 \\text{NO}_{2} ( g ) + 6 \\text{H}_{2} \\text{O} ( g ) \\rightleftharpoons 4 \\text{NH}_{3} ( g ) + 7 \\text{O}_{2} ( g )$$ (a) What is the expression for the equilibrium constant ( K_c ) of the reaction? (b) How must the concentration of NH_3 change to reach equilibrium if the reaction quotient is less than the equilibrium constant? (c) If the reaction were at equilibrium, how would an increase in the volume of the reaction vessel affect the pressure of NO_2? (d) If the change in the pressure of NO_2 is 28 torr as a mixture of the four gases reaches equilibrium, how much will the pressure of O_2 change?",
+        "Image Links": [],
+        "Answer": "(a) $$K_{c} = \\frac{[ \\text{NH}_{3} ]^{4} [ \\text{O}_{2} ]^{7}}{[ \\text{NO}_{2} ]^{4} [ \\text{H}_{2} \\text{O} ]^{6}} .$$ (b) [NH_3] must increase for Q_c to reach K_c . (c) The increase in system volume would lower the partial pressures of all reactants (including NO_2). (d) $$P_{\\text{O}_{\\text{2}}} = 49 \\text{torr}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "The binding of oxygen by hemoglobin (Hb), giving oxyhemoglobin (HbO_2), is partially regulated by the concentration of H_3O^+ and dissolved CO_2 in the blood. Although the equilibrium is complicated, it can be summarized as $$\\text{HbO}_{2} ( a q ) + \\text{H}_{3} \\text{O}^{\\text{+}} ( a q ) + \\text{CO}_{2} ( g ) \\rightleftharpoons \\text{CO}_{2} \\text{unicode[:-]} \\text{Hb} \\text{unicode[:-]} \\text{H}^{\\text{+}} + \\text{O}_{2} ( g ) + \\text{H}_{2} \\text{O} ( l )$$ (a) Write the equilibrium constant expression for this reaction. (b) Explain why the production of lactic acid and CO_2 in a muscle during exertion stimulates release of O_2 from the oxyhemoglobin in the blood passing through the muscle.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "Liquid N_2O_3 is dark blue at low temperatures, but the color fades and becomes greenish at higher temperatures as the compound decomposes to NO and NO_2. At 25 \u00b0C, a value of K_P = 1.91 has been established for this decomposition. If 0.236 moles of N_2O_3 are placed in a 1.52-L vessel at 25 \u00b0C, calculate the equilibrium partial pressures of N_2O_3( g ), NO_2( g ), and NO( g ).",
+        "Image Links": [],
+        "Answer": "$$P_{\\text{N}_{\\text{2}}} _{\\text{O}_{\\text{3}}} = 1.90 \\text{atm and} P_{\\text{NO}} = P_{\\text{NO}_{\\text{2}}} = 1.90 \\text{atm}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "13.4 Equilibrium Calculations",
+        "Problem Statement": "",
+        "Question": "A 1.00-L vessel at 400 \u00b0C contains the following equilibrium concentrations: N_2, 1.00 M ; H_2, 0.50 M ; and NH_3, 0.25 M . How many moles of hydrogen must be removed from the vessel to increase the concentration of nitrogen to 1.1 M ? The equilibrium reaction is $$\\text{N}_{2} ( g ) + 3 \\text{H}_{2} ( g ) \\rightleftharpoons 2 \\text{NH}_{3} ( g )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

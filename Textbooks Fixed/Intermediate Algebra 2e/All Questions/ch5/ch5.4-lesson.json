@@ -1,0 +1,434 @@
+[
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide the monomials.",
+        "Question": "$$15 r^{4} s^{9} \\div ( 15 r^{4} s^{9} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide the monomials.",
+        "Question": "$$20 m^{8} n^{4} \\div ( 30 m^{5} n^{9} )$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{2 m^{3}}{3 n^{5}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide the monomials.",
+        "Question": "$$\\frac{18 a^{4} b^{8}}{-27 a^{9} b^{5}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide the monomials.",
+        "Question": "$$\\frac{45 x^{5} y^{9}}{-60 x^{8} y^{6}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{-3 y^{3}}{4 x^{3}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide the monomials.",
+        "Question": "$$\\frac{( 10 m^{5} n^{4} ) ( 5 m^{3} n^{6} )}{25 m^{7} n^{5}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide the monomials.",
+        "Question": "$$\\frac{( -18 p^{4} q^{7} ) ( -6 p^{3} q^{8} )}{-36 p^{12} q^{10}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{-3 q^{5}}{p^{5}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide the monomials.",
+        "Question": "$$\\frac{( 6 a^{4} b^{3} ) ( 4 a b^{5} )}{( 12 a^{2} b ) ( a^{3} b )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide the monomials.",
+        "Question": "$$\\frac{( 4 u^{2} v^{5} ) ( 15 u^{3} v )}{( 12 u^{3} v ) ( u^{4} v )}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{5 v^{4}}{u^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide each polynomial by the monomial.",
+        "Question": "$$( 9 n^{4} + 6 n^{3} ) \\div 3 n$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide each polynomial by the monomial.",
+        "Question": "$$( 8 x^{3} + 6 x^{2} ) \\div 2 x$$",
+        "Image Links": [],
+        "Answer": "$$4 x^{2} + 3 x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide each polynomial by the monomial.",
+        "Question": "$$( 63 m^{4} - 42 m^{3} ) \\div ( -7 m^{2} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide each polynomial by the monomial.",
+        "Question": "$$( 48 y^{4} - 24 y^{3} ) \\div ( -8 y^{2} )$$",
+        "Image Links": [],
+        "Answer": "$$-6 y^{2} + 3 y$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide each polynomial by the monomial.",
+        "Question": "$$\\frac{66 x^{3} y^{2} - 110 x^{2} y^{3} - 44 x^{4} y^{3}}{11 x^{2} y^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide each polynomial by the monomial.",
+        "Question": "$$\\frac{72 r^{5} s^{2} + 132 r^{4} s^{3} - 96 r^{3} s^{5}}{12 r^{2} s^{2}}$$",
+        "Image Links": [],
+        "Answer": "$$6 r^{3} + 11 r^{2} s - 8 r s^{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide each polynomial by the monomial.",
+        "Question": "$$\\frac{10 x^{2} + 5 x - 4}{-5 x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide each polynomial by the monomial.",
+        "Question": "$$\\frac{20 y^{2} + 12 y - 1}{-4 y}$$",
+        "Image Links": [],
+        "Answer": "$$-5 y - 3 + \\frac{1}{4 y}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide each polynomial by the binomial.",
+        "Question": "$$( y^{2} + 7 y + 12 ) \\div ( y + 3 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide each polynomial by the binomial.",
+        "Question": "$$( a^{2} - 2 a - 35 ) \\div ( a + 5 )$$",
+        "Image Links": [],
+        "Answer": "$$a - 7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide each polynomial by the binomial.",
+        "Question": "$$( 6 m^{2} - 19 m - 20 ) \\div ( m - 4 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide each polynomial by the binomial.",
+        "Question": "$$( 4 x^{2} - 17 x - 15 ) \\div ( x - 5 )$$",
+        "Image Links": [],
+        "Answer": "$$4 x + 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide each polynomial by the binomial.",
+        "Question": "$$( q^{2} + 2 q + 20 ) \\div ( q + 6 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide each polynomial by the binomial.",
+        "Question": "$$( p^{2} + 11 p + 16 ) \\div ( p + 8 )$$",
+        "Image Links": [],
+        "Answer": "$$p + 3 - \\frac{8}{p + 8}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide each polynomial by the binomial.",
+        "Question": "$$( 3 b^{3} + b^{2} + 4 ) \\div ( b + 1 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide each polynomial by the binomial.",
+        "Question": "$$( 2 n^{3} - 10 n + 28 ) \\div ( n + 3 )$$",
+        "Image Links": [],
+        "Answer": "$$2 n^{2} - 6 n + 8 + \\frac{4}{n + 3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide each polynomial by the binomial.",
+        "Question": "$$( z^{3} + 1 ) \\div ( z + 1 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide each polynomial by the binomial.",
+        "Question": "$$( m^{3} + 1000 ) \\div ( m + 10 )$$",
+        "Image Links": [],
+        "Answer": "$$m^{2} - 10 m + 100$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide each polynomial by the binomial.",
+        "Question": "$$( 64 x^{3} - 27 ) \\div ( 4 x - 3 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Practice Makes Perfect",
+        "Problem Statement": "In the following exercises, divide each polynomial by the binomial.",
+        "Question": "$$( 125 y^{3} - 64 ) \\div ( 5 y - 4 )$$",
+        "Image Links": [],
+        "Answer": "$$25 y^{2} + 20 y + 16$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use synthetic Division to find the quotient and remainder.",
+        "Question": "$$x^{3} - 6 x^{2} + 5 x + 14$$ is divided by $$x + 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use synthetic Division to find the quotient and remainder.",
+        "Question": "$$x^{3} - 3 x^{2} - 4 x + 12$$ is divided by $$x + 2$$",
+        "Image Links": [],
+        "Answer": "$$x^{2} - 5 x + 6 \\text{;} 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use synthetic Division to find the quotient and remainder.",
+        "Question": "$$2 x^{3} - 11 x^{2} + 11 x + 12$$ is divided by $$x - 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use synthetic Division to find the quotient and remainder.",
+        "Question": "$$2 x^{3} - 11 x^{2} + 16 x - 12$$ is divided by $$x - 4$$",
+        "Image Links": [],
+        "Answer": "$$2 x^{2} - 3 x + 4 \\text{;} 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use synthetic Division to find the quotient and remainder.",
+        "Question": "$$x^{4} - 5 x^{2} + 13 x + 3$$ is divided by $$x + 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use synthetic Division to find the quotient and remainder.",
+        "Question": "$$x^{4} + x^{2} + 6 x - 10$$ is divided by $$x + 2$$",
+        "Image Links": [],
+        "Answer": "$$x^{3} - 2 x^{2} + 5 x - 4 \\text{;} \\text{unicode[:-]} 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use synthetic Division to find the quotient and remainder.",
+        "Question": "$$2 x^{4} - 9 x^{3} + 5 x^{2} - 3 x - 6$$ is divided by $$x - 4$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use synthetic Division to find the quotient and remainder.",
+        "Question": "$$3 x^{4} - 11 x^{3} + 2 x^{2} + 10 x + 6$$ is divided by $$x - 3$$",
+        "Image Links": [],
+        "Answer": "$$3 x^{3} - 2 x^{2} - 4 x - 2 \\text{;} 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "For functions $$f ( x ) = x^{2} - 13 x + 36$$ and $$g ( x ) = x - 4 ,$$ find \u24d0 $$( \\frac{f}{g} ) ( x )$$ \u24d1 $$( \\frac{f}{g} ) ( -1 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "For functions $$f ( x ) = x^{2} - 15 x + 54$$ and $$g ( x ) = x - 9 ,$$ find \u24d0 $$( \\frac{f}{g} ) ( x )$$ \u24d1 $$( \\frac{f}{g} ) ( -5 )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$( \\frac{f}{g} ) ( x ) = x - 6$$ \u24d1 $$( \\frac{f}{g} ) ( -5 ) = -11$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "For functions $$f ( x ) = x^{3} + x^{2} - 7 x + 2$$ and $$g ( x ) = x - 2 ,$$ find \u24d0 $$( \\frac{f}{g} ) ( x )$$ \u24d1 $$( \\frac{f}{g} ) ( 2 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "For functions $$f ( x ) = x^{3} + 2 x^{2} - 19 x + 12$$ and $$g ( x ) = x - 3 ,$$ find \u24d0 $$( \\frac{f}{g} ) ( x )$$ \u24d1 $$( \\frac{f}{g} ) ( 0 )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$( \\frac{f}{g} ) ( x ) = x^{2} + 5 x - 4$$ \u24d1 $$( \\frac{f}{g} ) ( 0 ) = -4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "For functions $$f ( x ) = x^{2} - 3 x + 2$$ and $$g ( x ) = x + 3 ,$$ find \u24d0 $$( \\frac{f}{g} ) ( x )$$ \u24d1 $$( \\frac{f}{g} ) ( 3 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, divide.",
+        "Question": "For functions $$f ( x ) = x^{2} + 2 x - 3$$ and $$g ( x ) = x + 3$$ find \u24d0 $$( \\frac{f}{g} ) ( x )$$ \u24d1 $$( \\frac{f}{g} ) ( 3 )$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$( f \\cdotp g ) ( x ) = x^{4} + 6 x^{3} + 9 x^{2} + 10 x - 12 ;$$ \u24d1 $$( f \\cdotp g ) ( 1 ) = 14$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the Remainder Theorem to find the remainder.",
+        "Question": "$$f ( x ) = x^{3} - 8 x + 7$$ is divided by $$x + 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the Remainder Theorem to find the remainder.",
+        "Question": "$$f ( x ) = x^{3} - 4 x - 9$$ is divided by $$x + 2$$",
+        "Image Links": [],
+        "Answer": "$$-9$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the Remainder Theorem to find the remainder.",
+        "Question": "$$f ( x ) = 2 x^{3} - 6 x - 24$$ divided by $$x - 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the Remainder Theorem to find the remainder.",
+        "Question": "$$f ( x ) = 7 x^{2} - 5 x - 8$$ divided by $$x - 1$$",
+        "Image Links": [],
+        "Answer": "-6",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the Factor Theorem to determine if $$x - c$$ is a factor of the polynomial function.",
+        "Question": "Determine whether $$x + 3$$ a factor of $$x^{3} + 8 x^{2} + 21 x + 18$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the Factor Theorem to determine if $$x - c$$ is a factor of the polynomial function.",
+        "Question": "Determine whether $$x + 4$$ a factor of $$x^{3} + x^{2} - 14 x + 8$$",
+        "Image Links": [],
+        "Answer": "no",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the Factor Theorem to determine if $$x - c$$ is a factor of the polynomial function.",
+        "Question": "Determine whether $$x - 2$$ a factor of $$x^{3} - 7 x^{2} + 7 x - 6$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the Factor Theorem to determine if $$x - c$$ is a factor of the polynomial function.",
+        "Question": "Determine whether $$x - 3$$ a factor of $$x^{3} - 7 x^{2} + 11 x + 3$$",
+        "Image Links": [],
+        "Answer": "yes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "James divides $$48 y + 6$$ by 6 this way: $$\\frac{48 y + 6}{6} = 48 y .$$ What is wrong with his reasoning?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "Divide $$\\frac{10 x^{2} + x - 12}{2 x}$$ and explain with words how you get each term of the quotient.",
+        "Image Links": [],
+        "Answer": "answer will vary",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "Explain when you can use synthetic division.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Writing Exercises",
+        "Problem Statement": "",
+        "Question": "In your own words, write the steps for synthetic division for $$x^{2} + 5 x + 6$$ divided by $$x - 2 .$$",
+        "Image Links": [],
+        "Answer": "Answers will vary.",
+        "Answer Image Links": []
+    }
+]

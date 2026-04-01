@@ -1,0 +1,398 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Given $$\\mathbf{\\text{r}} ( t ) = ( 3 t^{2} - 2 ) \\mathbf{\\text{i}} + ( 2 t - \\text{sin} ( t ) ) \\mathbf{\\text{j}} ,$$ find the velocity of a particle moving along this curve.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/a4ed256e248f0f00ce9bac422ec04d89359aa354"
+        ],
+        "Answer": "$$\\mathbf{\\text{v}} ( t ) = ( 6 t ) \\mathbf{\\text{i}} + ( 2 - \\text{cos} ( t ) ) \\mathbf{\\text{j}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Given $$\\mathbf{\\text{r}} ( t ) = ( 3 t^{2} - 2 ) \\mathbf{\\text{i}} + ( 2 t - \\text{sin} ( t ) ) \\mathbf{\\text{j}} ,$$ find the acceleration vector of a particle moving along the curve in the preceding exercise.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Given the following position functions, find the velocity, acceleration, and speed in terms of the parameter t .",
+        "Question": "$$\\mathbf{\\text{r}} ( t ) = \\langle 3 \\text{cos} t , 3 \\text{sin} t , t^{2} \\rangle$$",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\text{v}} ( t ) = \\langle -3 \\text{sin} t , 3 \\text{cos} t , 2 t \\rangle ,$$ $$\\mathbf{\\text{a}} ( t ) = \\langle -3 \\text{cos} t , -3 \\text{sin} t , 2 \\rangle ,$$ $$\\text{speed} = \\sqrt{9 + 4 t^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Given the following position functions, find the velocity, acceleration, and speed in terms of the parameter t .",
+        "Question": "$$\\mathbf{\\text{r}} ( t ) = e^{\\text{unicode[:-]} t} \\mathbf{\\text{i}} + t^{2} \\mathbf{\\text{j}} + \\text{tan} t \\mathbf{\\text{k}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Given the following position functions, find the velocity, acceleration, and speed in terms of the parameter t .",
+        "Question": "$$\\mathbf{\\text{r}} ( t ) = 2 \\text{cos} t \\mathbf{\\text{j}} + 3 \\text{sin} t \\mathbf{\\text{k}} .$$ The graph is shown here:",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/070c03f63413533a92c3dec99942a5968000a8d2"
+        ],
+        "Answer": "$$\\mathbf{v} ( t ) = -2 \\sin{} t \\mathbf{j} + 3 \\cos{} t \\mathbf{k} ,$$ $$\\mathbf{\\text{a}} ( t ) = -2 \\text{cos} t \\mathbf{\\text{j}} - 3 \\text{sin} t \\mathbf{\\text{k}} ,$$ $$\\text{speed} = \\sqrt{4 \\text{sin}^{2} t + 9 \\text{cos}^{2} t}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the velocity, acceleration, and speed of a particle with the given position function.",
+        "Question": "$$\\mathbf{\\text{r}} ( t ) = \\langle t^{2} - 1 , t \\rangle$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the velocity, acceleration, and speed of a particle with the given position function.",
+        "Question": "$$\\mathbf{\\text{r}} ( t ) = \\langle e^{t} , e^{\\text{unicode[:-]} t} \\rangle$$ . The graph is shown here:",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f67f2bfe5742fb19425b26c96dc32e41cfd05d8a"
+        ],
+        "Answer": "$$\\mathbf{\\text{v}} ( t ) = e^{t} \\mathbf{\\text{i}} - e^{\\text{unicode[:-]} t} \\mathbf{\\text{j}} ,$$ $$\\mathbf{\\text{a}} ( t ) = e^{t} \\mathbf{\\text{i}} + e^{\\text{unicode[:-]} t} \\mathbf{\\text{j}} ,$$ speed = $$\\Vert \\mathbf{\\text{v}} ( t ) \\Vert = \\sqrt{e^{2 t} + e^{-2 t}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the velocity, acceleration, and speed of a particle with the given position function.",
+        "Question": "$$\\mathbf{\\text{r}} ( t ) = \\langle \\text{sin} t , t , \\text{cos} t \\rangle .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the velocity, acceleration, and speed of a particle with the given position function.",
+        "Question": "The position function of an object is given by $$\\mathbf{\\text{r}} ( t ) = \\langle t^{2} , 5 t , t^{2} - 16 t \\rangle .$$ At what time is the speed a minimum?",
+        "Image Links": [],
+        "Answer": "$$t = 4$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the velocity, acceleration, and speed of a particle with the given position function.",
+        "Question": "Let $$\\mathbf{\\text{r}} ( t ) = r \\text{cosh} ( \\upomega t ) \\mathbf{\\text{i}} + r \\text{sinh} ( \\upomega t ) \\mathbf{\\text{j}} .$$ Find the velocity and acceleration vectors and show that the acceleration is proportional to $$\\mathbf{\\text{r}} ( t ) .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Consider the motion of a point on the circumference of a rolling circle. As the circle rolls, it generates the cycloid $$\\mathbf{\\text{r}} ( t ) = ( \\upomega t - \\text{sin} ( \\upomega t ) ) \\mathbf{\\text{i}} + ( 1 - \\text{cos} ( \\upomega t ) ) \\mathbf{\\text{j}} ,$$ where $$\\upomega$$ is the angular velocity of the circle: ",
+        "Question": "Find the equations for the velocity, acceleration, and speed of the particle at any time.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/f54ea99a963baf485dfbfa7beb1ddc04f3e2da7e"
+        ],
+        "Answer": "$$\\mathbf{\\text{v}} ( t ) = ( \\upomega - \\upomega \\text{cos} ( \\upomega t ) ) \\mathbf{\\text{i}} + ( \\upomega \\text{sin} ( \\upomega t ) ) \\mathbf{\\text{j}} ,$$ $$\\mathbf{\\text{a}} ( t ) = ( \\upomega^{2} \\text{sin} ( \\upomega t ) ) \\mathbf{\\text{i}} + ( \\upomega^{2} \\text{cos} ( \\upomega t ) ) \\mathbf{\\text{j}} ,$$ $$\\text{speed} = \\sqrt{\\upomega^{2} - 2 \\upomega^{2} \\text{cos} ( \\upomega t ) + \\upomega^{2} \\text{cos}^{2} ( \\upomega t ) + \\upomega^{2} \\text{sin}^{2} ( \\upomega t )} \\text{=} \\sqrt{2 \\upomega^{2} ( 1 - \\text{cos} ( \\upomega t ) )}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the following quantities:",
+        "Question": "The velocity and acceleration vectors",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the following quantities:",
+        "Question": "The glider\u2019s speed at any time",
+        "Image Links": [],
+        "Answer": "$$\\Vert \\mathbf{\\text{v}} ( t ) \\Vert = \\sqrt{9 + 4 t^{2}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the following quantities:",
+        "Question": "The times, if any, at which the glider\u2019s acceleration is orthogonal to its velocity",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Given that $$\\mathbf{\\text{r}} ( t ) = \\langle e^{-5 t} \\text{sin} t , e^{-5 t} \\text{cos} t , 4 e^{-5 t} \\rangle$$ is the position vector of a moving particle, find the following quantities:",
+        "Question": "The velocity of the particle",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\text{v}} ( t ) = \\langle e^{-5 t} ( \\text{cos} t - 5 \\text{sin} t ) , \\text{unicode[:-]} e^{-5 t} ( \\text{sin} t + 5 \\text{cos} t ) , -20 e^{-5 t} \\rangle$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Given that $$\\mathbf{\\text{r}} ( t ) = \\langle e^{-5 t} \\text{sin} t , e^{-5 t} \\text{cos} t , 4 e^{-5 t} \\rangle$$ is the position vector of a moving particle, find the following quantities:",
+        "Question": "The speed of the particle",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Given that $$\\mathbf{\\text{r}} ( t ) = \\langle e^{-5 t} \\text{sin} t , e^{-5 t} \\text{cos} t , 4 e^{-5 t} \\rangle$$ is the position vector of a moving particle, find the following quantities:",
+        "Question": "The acceleration of the particle",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\text{a}} ( t ) = \\langle e^{-5 t} ( \\text{unicode[:-]} \\text{sin} t - 5 \\text{cos} t ) - 5 e^{-5 t} ( \\text{cos} t - 5 \\text{sin} t ) ,$$ $$\\text{unicode[:-]} e^{-5 t} ( \\text{cos} t - 5 \\text{sin} t ) + 5 e^{-5 t} ( \\text{sin} t + 5 \\text{cos} t ) , 100 e^{-5 t} \\rangle$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Given that $$\\mathbf{\\text{r}} ( t ) = \\langle e^{-5 t} \\text{sin} t , e^{-5 t} \\text{cos} t , 4 e^{-5 t} \\rangle$$ is the position vector of a moving particle, find the following quantities:",
+        "Question": "Find the maximum speed of a point on the circumference of an automobile tire of radius 1 ft when the automobile is traveling at 55 mph.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "A projectile is shot in the air from ground level with an initial velocity of 500 m/sec at an angle of 60\u00b0 with the horizontal. The graph is shown here: ",
+        "Question": "At what time does the projectile reach maximum height?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/97dda6a5666738239bfc804c76a103ab939385b0"
+        ],
+        "Answer": "44.185 sec",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "A projectile is shot in the air from ground level with an initial velocity of 500 m/sec at an angle of 60\u00b0 with the horizontal. The graph is shown here: ",
+        "Question": "What is the approximate maximum height of the projectile?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/97dda6a5666738239bfc804c76a103ab939385b0"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "A projectile is shot in the air from ground level with an initial velocity of 500 m/sec at an angle of 60\u00b0 with the horizontal. The graph is shown here: ",
+        "Question": "At what time is the maximum range of the projectile attained?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/97dda6a5666738239bfc804c76a103ab939385b0"
+        ],
+        "Answer": "$$t = 88.37$$ sec",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "A projectile is shot in the air from ground level with an initial velocity of 500 m/sec at an angle of 60\u00b0 with the horizontal. The graph is shown here: ",
+        "Question": "What is the maximum range?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/97dda6a5666738239bfc804c76a103ab939385b0"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "A projectile is shot in the air from ground level with an initial velocity of 500 m/sec at an angle of 60\u00b0 with the horizontal. The graph is shown here: ",
+        "Question": "What is the total flight time of the projectile?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/97dda6a5666738239bfc804c76a103ab939385b0"
+        ],
+        "Answer": "88.37 sec",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "A projectile is fired at a height of 1.5 m above the ground with an initial velocity of 100 m/sec and at an angle of 30\u00b0 above the horizontal. Use this information to answer the following questions:",
+        "Question": "Determine the maximum height of the projectile.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "A projectile is fired at a height of 1.5 m above the ground with an initial velocity of 100 m/sec and at an angle of 30\u00b0 above the horizontal. Use this information to answer the following questions:",
+        "Question": "Determine the range of the projectile.",
+        "Image Links": [],
+        "Answer": "The range is approximately 886.29 m.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "A projectile is fired at a height of 1.5 m above the ground with an initial velocity of 100 m/sec and at an angle of 30\u00b0 above the horizontal. Use this information to answer the following questions:",
+        "Question": "A golf ball is hit in a horizontal direction off the top edge of a building that is 100 ft tall. How fast must the ball be launched to land 450 ft away?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "A projectile is fired at a height of 1.5 m above the ground with an initial velocity of 100 m/sec and at an angle of 30\u00b0 above the horizontal. Use this information to answer the following questions:",
+        "Question": "A projectile is fired from ground level at an angle of 8\u00b0 with the horizontal. The projectile is to have a range of 50 m. Find the minimum velocity necessary to achieve this range.",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\text{v}} = 42.16$$ m/sec",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "A projectile is fired at a height of 1.5 m above the ground with an initial velocity of 100 m/sec and at an angle of 30\u00b0 above the horizontal. Use this information to answer the following questions:",
+        "Question": "Prove that an object moving in a straight line at a constant speed has an acceleration of zero.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "A projectile is fired at a height of 1.5 m above the ground with an initial velocity of 100 m/sec and at an angle of 30\u00b0 above the horizontal. Use this information to answer the following questions:",
+        "Question": "The acceleration of an object is given by $$\\mathbf{\\text{a}} ( t ) = t \\mathbf{\\text{j}} + t \\mathbf{\\text{k}} .$$ The velocity at $$t = 1$$ sec is $$\\mathbf{\\text{v}} ( 1 ) = 5 \\mathbf{\\text{j}}$$ and the position of the object at $$t = 1$$ sec is $$\\mathbf{\\text{r}} ( 1 ) = 0 \\mathbf{\\text{i}} + 0 \\mathbf{\\text{j}} + 0 \\mathbf{\\text{k}} .$$ Find the object\u2019s position at any time.",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\text{r}} ( t ) = 0 \\mathbf{\\text{i}} + ( \\frac{1}{6} t^{3} + 4.5 t - \\frac{14}{3} ) \\mathbf{\\text{j}} + ( \\frac{t^{3}}{6} - \\frac{1}{2} t + \\frac{1}{3} ) \\mathbf{\\text{k}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "A projectile is fired at a height of 1.5 m above the ground with an initial velocity of 100 m/sec and at an angle of 30\u00b0 above the horizontal. Use this information to answer the following questions:",
+        "Question": "Find $$\\mathbf{\\text{r}} ( t )$$ given that $$\\mathbf{\\text{a}} ( t ) = -32 \\mathbf{\\text{j}} ,$$ $$\\mathbf{\\text{v}} ( 0 ) = 600 \\sqrt{3} \\mathbf{\\text{i}} + 600 \\mathbf{\\text{j}} ,$$ and $$\\mathbf{\\text{r}} ( 0 ) = \\mathbf{0} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "A projectile is fired at a height of 1.5 m above the ground with an initial velocity of 100 m/sec and at an angle of 30\u00b0 above the horizontal. Use this information to answer the following questions:",
+        "Question": "Find the tangential and normal components of acceleration for $$\\mathbf{\\text{r}} ( t ) = a \\text{cos} ( \\upomega t ) \\mathbf{\\text{i}} + a \\text{sin} ( \\upomega t ) \\mathbf{\\text{j}}$$ at $$t = 0 .$$",
+        "Image Links": [],
+        "Answer": "$$a_{T} = 0 ,$$ $$a_{N} = a \\upomega^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "A projectile is fired at a height of 1.5 m above the ground with an initial velocity of 100 m/sec and at an angle of 30\u00b0 above the horizontal. Use this information to answer the following questions:",
+        "Question": "Given $$\\mathbf{\\text{r}} ( t ) = t^{2} \\mathbf{\\text{i}} + 2 t \\mathbf{\\text{j}}$$ and $$t = 1 ,$$ find the tangential and normal components of acceleration.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, find the tangential and normal components of acceleration.",
+        "Question": "$$\\mathbf{\\text{r}} ( t ) = \\langle e^{t} \\text{cos} t , e^{t} \\text{sin} t , e^{t} \\rangle .$$ The graph is shown here:",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/8a9c773220896ae10e0a57dee0567460b9b08162"
+        ],
+        "Answer": "$$a_{T} = \\sqrt{3} e^{t} ,$$ $$a_{N} = \\sqrt{2} e^{t}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, find the tangential and normal components of acceleration.",
+        "Question": "$$\\mathbf{\\text{r}} ( t ) = \\langle \\text{cos} ( 2 t ) , \\text{sin} ( 2 t ) , 1 \\rangle$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, find the tangential and normal components of acceleration.",
+        "Question": "$$\\mathbf{\\text{r}} ( t ) = \\langle 2 t , t^{2} , \\frac{t^{3}}{3} \\rangle$$",
+        "Image Links": [],
+        "Answer": "$$a_{T} = 2 t ,$$ $$a_{N} = 2$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, find the tangential and normal components of acceleration.",
+        "Question": "$$\\mathbf{\\text{r}} ( t ) = \\langle \\frac{2}{3} ( 1 + t )^{3 \\text{/} 2} , \\frac{2}{3} ( 1 - t )^{3 \\text{/} 2} , \\sqrt{2} t \\rangle$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, find the tangential and normal components of acceleration.",
+        "Question": "$$\\mathbf{\\text{r}} ( t ) = \\langle 6 t , 3 t^{2} , 2 t^{3} \\rangle$$",
+        "Image Links": [],
+        "Answer": "$$a_{T} \\frac{6 t + 12 t^{3}}{\\sqrt{1 + t^{4} + t^{2}}} ,$$ $$a_{N} = 6 \\sqrt{\\frac{1 + 4 t^{2} + t^{4}}{1 + t^{2} + t^{4}}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, find the tangential and normal components of acceleration.",
+        "Question": "$$\\mathbf{\\text{r}} ( t ) = t^{2} \\mathbf{\\text{i}} + t^{2} \\mathbf{\\text{j}} + t^{3} \\mathbf{\\text{k}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, find the tangential and normal components of acceleration.",
+        "Question": "$$\\mathbf{\\text{r}} ( t ) = 3 \\text{cos} ( 2 \\pi t ) \\mathbf{\\text{i}} + 3 \\text{sin} ( 2 \\pi t ) \\mathbf{\\text{j}}$$",
+        "Image Links": [],
+        "Answer": "$$a_{T} = 0 ,$$ $$a_{N} = 12 \\pi^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, find the tangential and normal components of acceleration.",
+        "Question": "Find the position vector-valued function $$\\mathbf{\\text{r}} ( t ) ,$$ given that $$\\mathbf{\\text{a}} ( t ) = \\mathbf{\\text{i}} + e^{t} \\mathbf{\\text{j}} ,$$ $$\\mathbf{\\text{v}} ( 0 ) = 2 \\mathbf{\\text{j}} ,$$ and $$\\mathbf{\\text{r}} ( 0 ) = 2 \\mathbf{\\text{i}} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, find the tangential and normal components of acceleration.",
+        "Question": "The force on a particle is given by $$\\mathbf{\\text{f}} ( t ) = ( \\text{cos} t ) \\mathbf{\\text{i}} + ( \\text{sin} t ) \\mathbf{\\text{j}} .$$ The particle is located at point $$( c , 0 )$$ at $$t = 0 .$$ The initial velocity of the particle is given by $$\\mathbf{\\text{v}} ( 0 ) = v_{0} \\mathbf{\\text{j}} .$$ Find the path of the particle of mass m . (Recall, $$\\mathbf{\\text{F}} = m \\cdotp \\mathbf{\\text{a}} . )$$",
+        "Image Links": [],
+        "Answer": "$$\\mathbf{\\text{r}} ( t ) = ( \\frac{-1}{m} \\text{cos} t + c + \\frac{1}{m} ) \\mathbf{\\text{i}} + ( \\frac{\\text{unicode[:-]} \\text{sin} t}{m} + ( v_{0} + \\frac{1}{m} ) t ) \\mathbf{\\text{j}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, find the tangential and normal components of acceleration.",
+        "Question": "An automobile that weighs 2700 lb makes a turn on a flat road while traveling at 56 ft/sec. If the radius of the turn is 70 ft, what is the required frictional force to keep the car from skidding?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, find the tangential and normal components of acceleration.",
+        "Question": "Using Kepler\u2019s laws, it can be shown that $$v_{0} = \\sqrt{\\frac{2 G M}{r_{0}}}$$ is the minimum speed needed when $$\\theta = 0$$ so that an object will escape from the pull of a central force resulting from mass M . Use this result to find the minimum speed when $$\\theta = 0$$ for a space capsule to escape from the gravitational pull of Earth if the probe is at an altitude of 300 km above Earth\u2019s surface.",
+        "Image Links": [],
+        "Answer": "10.94 km/sec",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For each of the following problems, find the tangential and normal components of acceleration.",
+        "Question": "Find the time in years it takes the dwarf planet Pluto to make one orbit about the Sun given that $$a = 39.5$$ A.U.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Suppose that the position function for an object in three dimensions is given by the equation $$\\mathbf{\\text{r}} ( t ) = t \\text{cos} ( t ) \\mathbf{\\text{i}} + t \\text{sin} ( t ) \\mathbf{\\text{j}} + 3 t \\mathbf{\\text{k}} .$$",
+        "Question": "Show that the particle moves on a circular cone.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Suppose that the position function for an object in three dimensions is given by the equation $$\\mathbf{\\text{r}} ( t ) = t \\text{cos} ( t ) \\mathbf{\\text{i}} + t \\text{sin} ( t ) \\mathbf{\\text{j}} + 3 t \\mathbf{\\text{k}} .$$",
+        "Question": "Find the angle between the velocity and acceleration vectors when $$t = 1.5 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Suppose that the position function for an object in three dimensions is given by the equation $$\\mathbf{\\text{r}} ( t ) = t \\text{cos} ( t ) \\mathbf{\\text{i}} + t \\text{sin} ( t ) \\mathbf{\\text{j}} + 3 t \\mathbf{\\text{k}} .$$",
+        "Question": "Find the tangential and normal components of acceleration when $$t = 1.5 .$$",
+        "Image Links": [],
+        "Answer": "$$a_{T} = 0.43 \\text{m/sec}^{2} ,$$ $$a_{N} = 2.46 \\text{m/sec}^{2}$$",
+        "Answer Image Links": []
+    }
+]

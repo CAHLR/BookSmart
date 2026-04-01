@@ -1,0 +1,10 @@
+[
+    {
+        "Topic": "Check Your Understanding 9.14",
+        "Problem Statement": "",
+        "Question": "What is the physical difference (or relationship) between $$\\frac{d m}{d t}$$ and $$\\frac{d m_{g}}{d t}$$ in this example?",
+        "Image Links": [],
+        "Answer": "The notation $$m_{g}$$ stands for the mass of the fuel and m stands for the mass of the rocket plus the initial mass of the fuel. Note that $$m_{g}$$ changes with time, so we write it as $$m_{g} ( t )$$ . Using $$m_{R}$$ as the mass of the rocket with no fuel, the total mass of the rocket plus fuel is $$m = m_{R} + m_{g} ( t )$$ . Differentiation with respect to time gives $$\\frac{d m}{d t} = \\frac{d m_{R}}{d t} + \\frac{d m_{g} ( t )}{d t} = \\frac{d m_{g} ( t )}{d t}$$ where we used $$\\frac{d m_{R}}{d t} = 0$$ because the mass of the rocket does not change. Thus, time rate of change of the mass of the rocket is the same as that of the fuel.",
+        "Answer Image Links": []
+    }
+]

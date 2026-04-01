@@ -1,0 +1,668 @@
+[
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "How can an exponential equation be solved?",
+        "Image Links": [],
+        "Answer": "Determine first if the equation can be rewritten so that each side uses the same base. If so, the exponents can be set equal to each other. If the equation cannot be rewritten so that each side uses the same base, then apply the logarithm to each side and use properties of logarithms to solve.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "When does an extraneous solution occur? How can an extraneous solution be recognized?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Verbal",
+        "Problem Statement": "",
+        "Question": "When can the one-to-one property of logarithms be used to solve an equation? When can it not be used?",
+        "Image Links": [],
+        "Answer": "The one-to-one property can be used if both sides of the equation can be rewritten as a single logarithm with the same base. If so, the arguments can be set equal to each other, and the resulting equation can be solved algebraically. The one-to-one property cannot be used when each side of the equation cannot be rewritten as a single logarithm with the same base.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use like bases to solve the exponential equation.",
+        "Question": "$$4^{- 3 v - 2} = 4^{- v}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use like bases to solve the exponential equation.",
+        "Question": "$$64 \\cdot 4^{3 x} = 16$$",
+        "Image Links": [],
+        "Answer": "$$x = - \\frac{1}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use like bases to solve the exponential equation.",
+        "Question": "$$3^{2 x + 1} \\cdot 3^{x} = 243$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use like bases to solve the exponential equation.",
+        "Question": "$$2^{- 3 n} \\cdot \\frac{1}{4} = 2^{n + 2}$$",
+        "Image Links": [],
+        "Answer": "$$n = - 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use like bases to solve the exponential equation.",
+        "Question": "$$625 \\cdot 5^{3 x + 3} = 125$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use like bases to solve the exponential equation.",
+        "Question": "$$\\frac{36^{3 b}}{36^{2 b}} = 216^{2 - b}$$",
+        "Image Links": [],
+        "Answer": "$$b = \\frac{6}{5}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use like bases to solve the exponential equation.",
+        "Question": "$$( \\frac{1}{64} )^{3 n} \\cdot 8 = 2^{6}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use logarithms to solve.",
+        "Question": "$$9^{x - 10} = 1$$",
+        "Image Links": [],
+        "Answer": "$$x = 10$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use logarithms to solve.",
+        "Question": "$$2 e^{6 x} = 13$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use logarithms to solve.",
+        "Question": "$$e^{r + 10} - 10 = -42$$",
+        "Image Links": [],
+        "Answer": "No solution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use logarithms to solve.",
+        "Question": "$$2 \\cdot 10^{9 a} = 29$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use logarithms to solve.",
+        "Question": "$$- 8 \\cdot 10^{p + 7} - 7 = -24$$",
+        "Image Links": [],
+        "Answer": "$$p = \\log ( \\frac{17}{8} ) - 7$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use logarithms to solve.",
+        "Question": "$$7 e^{3 n - 5} + 5 = -89$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use logarithms to solve.",
+        "Question": "$$e^{- 3 k} + 6 = 44$$",
+        "Image Links": [],
+        "Answer": "$$k = - \\frac{\\ln{( 38 )}}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use logarithms to solve.",
+        "Question": "$$- 5 e^{9 x - 8} - 8 = -62$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use logarithms to solve.",
+        "Question": "$$- 6 e^{9 x + 8} + 2 = -74$$",
+        "Image Links": [],
+        "Answer": "$$x = \\frac{\\ln{( \\frac{38}{3} )} - 8}{9}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use logarithms to solve.",
+        "Question": "$$2^{x + 1} = 5^{2 x - 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use logarithms to solve.",
+        "Question": "$$e^{2 x} - e^{x} - 132 = 0$$",
+        "Image Links": [],
+        "Answer": "$$x = \\ln{} 12$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use logarithms to solve.",
+        "Question": "$$7 e^{8 x + 8} - 5 = -95$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use logarithms to solve.",
+        "Question": "$$10 e^{8 x + 3} + 2 = 8$$",
+        "Image Links": [],
+        "Answer": "$$x = \\frac{\\ln{( \\frac{3}{5} )} - 3}{8}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use logarithms to solve.",
+        "Question": "$$4 e^{3 x + 3} - 7 = 53$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use logarithms to solve.",
+        "Question": "$$8 e^{- 5 x - 2} - 4 = -90$$",
+        "Image Links": [],
+        "Answer": "no solution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use logarithms to solve.",
+        "Question": "$$3^{2 x + 1} = 7^{x - 2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use logarithms to solve.",
+        "Question": "$$e^{2 x} - e^{x} - 6 = 0$$",
+        "Image Links": [],
+        "Answer": "$$x = \\ln{} ( 3 )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use logarithms to solve.",
+        "Question": "$$3 e^{3 - 3 x} + 6 = -31$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the definition of a logarithm to rewrite the equation as an exponential equation.",
+        "Question": "$$\\log ( \\frac{1}{100} ) = -2$$",
+        "Image Links": [],
+        "Answer": "$$10^{- 2} = \\frac{1}{100}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the definition of a logarithm to rewrite the equation as an exponential equation.",
+        "Question": "$$\\log_{324} ( 18 ) = \\frac{1}{2}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the definition of a logarithm to solve the equation.",
+        "Question": "$$5 \\log_{7} n = 10$$",
+        "Image Links": [],
+        "Answer": "$$n = 49$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the definition of a logarithm to solve the equation.",
+        "Question": "$$- 8 \\log_{9} x = 16$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the definition of a logarithm to solve the equation.",
+        "Question": "$$4 + \\log_{2} ( 9 k ) = 2$$",
+        "Image Links": [],
+        "Answer": "$$k = \\frac{1}{36}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the definition of a logarithm to solve the equation.",
+        "Question": "$$2 \\log ( 8 n + 4 ) + 6 = 10$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the definition of a logarithm to solve the equation.",
+        "Question": "$$10 - 4 \\ln{} ( 9 - 8 x ) = 6$$",
+        "Image Links": [],
+        "Answer": "$$x = \\frac{9 - e}{8}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the one-to-one property of logarithms to solve.",
+        "Question": "$$\\ln{( 10 - 3 x )} = \\ln{} ( - 4 x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the one-to-one property of logarithms to solve.",
+        "Question": "$$\\log_{13} ( 5 n - 2 ) = \\log_{13} ( 8 - 5 n )$$",
+        "Image Links": [],
+        "Answer": "$$n = 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the one-to-one property of logarithms to solve.",
+        "Question": "$$\\log ( x + 3 ) - \\log ( x ) = \\log ( 74 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the one-to-one property of logarithms to solve.",
+        "Question": "$$\\ln{( - 3 x )} = \\ln{} ( x^{2} - 6 x )$$",
+        "Image Links": [],
+        "Answer": "No solution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the one-to-one property of logarithms to solve.",
+        "Question": "$$\\log_{4} ( 6 - m ) = \\log_{4} 3 m$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the one-to-one property of logarithms to solve.",
+        "Question": "$$\\ln{( x - 2 )} - \\ln{} ( x ) = \\ln{} ( 54 )$$",
+        "Image Links": [],
+        "Answer": "No solution",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the one-to-one property of logarithms to solve.",
+        "Question": "$$\\log_{9} ( 2 n^{2} - 14 n ) = \\log_{9} ( - 45 + n^{2} )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, use the one-to-one property of logarithms to solve.",
+        "Question": "$$\\ln{( x^{2} - 10 )} + \\ln{} ( 9 ) = \\ln{} ( 10 )$$",
+        "Image Links": [],
+        "Answer": "$$x = \\pm \\frac{10}{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve each equation for $$x .$$",
+        "Question": "$$\\log ( x + 12 ) = \\log ( x ) + \\log ( 12 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve each equation for $$x .$$",
+        "Question": "$$\\ln{(} x ) + \\ln{} ( x - 3 ) = \\ln{} ( 7 x )$$",
+        "Image Links": [],
+        "Answer": "$$x = 10$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve each equation for $$x .$$",
+        "Question": "$$\\log_{2} ( 7 x + 6 ) = 3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve each equation for $$x .$$",
+        "Question": "$$\\ln{( 7 )} + \\ln{} ( 2 - 4 x^{2} ) = \\ln{} ( 14 )$$",
+        "Image Links": [],
+        "Answer": "$$x = 0$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve each equation for $$x .$$",
+        "Question": "$$\\log_{8} ( x + 6 ) - \\log_{8} ( x ) = \\log_{8} ( 58 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve each equation for $$x .$$",
+        "Question": "$$\\ln{( 3 )} - \\ln{} ( 3 - 3 x ) = \\ln{} ( 4 )$$",
+        "Image Links": [],
+        "Answer": "$$x = \\frac{3}{4}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Algebraic",
+        "Problem Statement": "For the following exercises, solve each equation for $$x .$$",
+        "Question": "$$\\log_{3} ( 3 x ) - \\log_{3} ( 6 ) = \\log_{3} ( 77 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, solve the equation for $$x ,$$ if there is a solution . Then graph both sides of the equation, and observe the point of intersection (if it exists) to verify the solution.",
+        "Question": "$$\\log_{9} ( x ) - 5 = -4$$",
+        "Image Links": [],
+        "Answer": "$$x = 9$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3fe0e2f43202f502257d985e055ced31224346d5"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, solve the equation for $$x ,$$ if there is a solution . Then graph both sides of the equation, and observe the point of intersection (if it exists) to verify the solution.",
+        "Question": "$$\\log_{3} ( x ) + 3 = 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, solve the equation for $$x ,$$ if there is a solution . Then graph both sides of the equation, and observe the point of intersection (if it exists) to verify the solution.",
+        "Question": "$$\\ln{( 3 x )} = 2$$",
+        "Image Links": [],
+        "Answer": "$$x = \\frac{e^{2}}{3} \\approx 2.5$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/aa20cfc2d8c8b808657478b2643481eb7d5d308f"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, solve the equation for $$x ,$$ if there is a solution . Then graph both sides of the equation, and observe the point of intersection (if it exists) to verify the solution.",
+        "Question": "$$\\ln{( x - 5 )} = 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, solve the equation for $$x ,$$ if there is a solution . Then graph both sides of the equation, and observe the point of intersection (if it exists) to verify the solution.",
+        "Question": "$$\\log ( 4 ) + \\log ( - 5 x ) = 2$$",
+        "Image Links": [],
+        "Answer": "$$x = - 5$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5111d9ce3c2679a78ce803a8546023236ad739d2"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, solve the equation for $$x ,$$ if there is a solution . Then graph both sides of the equation, and observe the point of intersection (if it exists) to verify the solution.",
+        "Question": "$$- 7 + \\log_{3} ( 4 - x ) = -6$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, solve the equation for $$x ,$$ if there is a solution . Then graph both sides of the equation, and observe the point of intersection (if it exists) to verify the solution.",
+        "Question": "$$\\ln{( 4 x - 10 )} - 6 = - 5$$",
+        "Image Links": [],
+        "Answer": "$$x = \\frac{e + 10}{4} \\approx 3.2$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/03929f4173a6b8d61fde98f034ad9548b28ee0f6"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, solve the equation for $$x ,$$ if there is a solution . Then graph both sides of the equation, and observe the point of intersection (if it exists) to verify the solution.",
+        "Question": "$$\\log ( 4 - 2 x ) = \\log ( - 4 x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, solve the equation for $$x ,$$ if there is a solution . Then graph both sides of the equation, and observe the point of intersection (if it exists) to verify the solution.",
+        "Question": "$$\\log_{11} ( - 2 x^{2} - 7 x ) = \\log_{11} ( x - 2 )$$",
+        "Image Links": [],
+        "Answer": "No solution",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b4eab4218b937e55c62b5bb505a625468db098a0"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, solve the equation for $$x ,$$ if there is a solution . Then graph both sides of the equation, and observe the point of intersection (if it exists) to verify the solution.",
+        "Question": "$$\\ln{( 2 x + 9 )} = \\ln{} ( - 5 x )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, solve the equation for $$x ,$$ if there is a solution . Then graph both sides of the equation, and observe the point of intersection (if it exists) to verify the solution.",
+        "Question": "$$\\log_{9} ( 3 - x ) = \\log_{9} ( 4 x - 8 )$$",
+        "Image Links": [],
+        "Answer": "$$x = \\frac{11}{5} \\approx 2.2$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/beb66399ac3b42df2d403ede3f976e2304c2ba57"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, solve the equation for $$x ,$$ if there is a solution . Then graph both sides of the equation, and observe the point of intersection (if it exists) to verify the solution.",
+        "Question": "$$\\log ( x^{2} + 13 ) = \\log ( 7 x + 3 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, solve the equation for $$x ,$$ if there is a solution . Then graph both sides of the equation, and observe the point of intersection (if it exists) to verify the solution.",
+        "Question": "$$\\frac{3}{\\log_{2} ( 10 )} - \\log ( x - 9 ) = \\log ( 44 )$$",
+        "Image Links": [],
+        "Answer": "$$x = \\frac{101}{11} \\approx 9.2$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/2beb4e9c3abfb3c2dd40fcd3029a05de3fd9c5ae"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, solve the equation for $$x ,$$ if there is a solution . Then graph both sides of the equation, and observe the point of intersection (if it exists) to verify the solution.",
+        "Question": "$$\\ln{( x )} - \\ln{} ( x + 3 ) = \\ln{} ( 6 )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, solve for the indicated value, and graph the situation showing the solution point.",
+        "Question": "An account with an initial deposit of $$\\text{$6,500}$$ earns $$7.25 %$$ annual interest, compounded continuously. How much will the account be worth after 20 years?",
+        "Image Links": [],
+        "Answer": "about $$$ 27 , 710.24$$",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/5ed09f1c45087811f3bc8e9f058527fc51ef30e3"
+        ]
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, solve for the indicated value, and graph the situation showing the solution point.",
+        "Question": "The formula for measuring sound intensity in decibels $$D$$ is defined by the equation $$D = 10 \\log ( \\frac{I}{I_{0}} ) ,$$ where $$I$$ is the intensity of the sound in watts per square meter and $$I_{0} = 10^{- 12}$$ is the lowest level of sound that the average person can hear. How many decibels are emitted from a jet plane with a sound intensity of $$8.3 \\cdot 10^{2}$$ watts per square meter?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Graphical",
+        "Problem Statement": "For the following exercises, solve for the indicated value, and graph the situation showing the solution point.",
+        "Question": "The population of a small town is modeled by the equation $$P = 1650 e^{0.5 t}$$ where $$t$$ is measured in years. In approximately how many years will the town\u2019s population reach $$\\text{20,000?}$$",
+        "Image Links": [],
+        "Answer": "about 5 years",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/ddca62e723756e199ab1c6964d7901018e80a12e"
+        ]
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, solve each equation by rewriting the exponential expression using the indicated logarithm. Then use a calculator to approximate the variable to 3 decimal places.",
+        "Question": "$$1000 ( 1.03 )^{t} = 5000$$ using the common log.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, solve each equation by rewriting the exponential expression using the indicated logarithm. Then use a calculator to approximate the variable to 3 decimal places.",
+        "Question": "$$e^{5 x} = 17$$ using the natural log",
+        "Image Links": [],
+        "Answer": "$$\\frac{\\ln{(} 17 )}{5} \\approx 0.567$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, solve each equation by rewriting the exponential expression using the indicated logarithm. Then use a calculator to approximate the variable to 3 decimal places.",
+        "Question": "$$3 ( 1.04 )^{3 t} = 8$$ using the common log",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, solve each equation by rewriting the exponential expression using the indicated logarithm. Then use a calculator to approximate the variable to 3 decimal places.",
+        "Question": "$$3^{4 x - 5} = 38$$ using the common log",
+        "Image Links": [],
+        "Answer": "$$x = \\frac{\\log ( 38 ) + 5 \\log ( 3 ) \\text{quad}}{4 \\log ( 3 )} \\approx 2.078$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, solve each equation by rewriting the exponential expression using the indicated logarithm. Then use a calculator to approximate the variable to 3 decimal places.",
+        "Question": "$$50 e^{- 0.12 t} = 10$$ using the natural log",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to solve the equation. Unless indicated otherwise, round all answers to the nearest ten-thousandth.",
+        "Question": "$$7 e^{3 x - 5} + 7.9 = 47$$",
+        "Image Links": [],
+        "Answer": "$$x \\approx 2.2401$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to solve the equation. Unless indicated otherwise, round all answers to the nearest ten-thousandth.",
+        "Question": "$$\\ln{( 3 )} + \\ln{} ( 4.4 x + 6.8 ) = 2$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to solve the equation. Unless indicated otherwise, round all answers to the nearest ten-thousandth.",
+        "Question": "$$\\log ( - 0.7 x - 9 ) = 1 + 5 \\log ( 5 )$$",
+        "Image Links": [],
+        "Answer": "$$x \\approx - \\text{44655} . \\text{7143}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to solve the equation. Unless indicated otherwise, round all answers to the nearest ten-thousandth.",
+        "Question": "Atmospheric pressure $$P$$ in pounds per square inch is represented by the formula $$P = 14.7 e^{- 0.21 x} ,$$ where $$x$$ is the number of miles above sea level. To the nearest foot, how high is the peak of a mountain with an atmospheric pressure of $$8.369$$ pounds per square inch? ( Hint : there are 5280 feet in a mile)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Technology",
+        "Problem Statement": "For the following exercises, use a calculator to solve the equation. Unless indicated otherwise, round all answers to the nearest ten-thousandth.",
+        "Question": "The magnitude M of an earthquake is represented by the equation $$M = \\frac{2}{3} \\log ( \\frac{E}{E_{0}} )$$ where $$E$$ is the amount of energy released by the earthquake in joules and $$E_{0} = 10^{4.4}$$ is the assigned minimal measure released by an earthquake. To the nearest hundredth, what would the magnitude be of an earthquake releasing $$1.4 \\cdot 10^{13}$$ joules of energy?",
+        "Image Links": [],
+        "Answer": "about $$5.83$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Use the definition of a logarithm along with the one-to-one property of logarithms to prove that $$b^{\\log_{b} x} = x .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Recall the formula for continually compounding interest, $$y = A e^{k t} .$$ Use the definition of a logarithm along with properties of logarithms to solve the formula for time $$t$$ such that $$t$$ is equal to a single logarithm.",
+        "Image Links": [],
+        "Answer": "$$t = \\ln{} ( ( \\frac{y}{A} )^{\\frac{1}{k}} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Recall the compound interest formula $$A = a ( 1 + \\frac{r}{k} )^{k t} .$$ Use the definition of a logarithm along with properties of logarithms to solve the formula for time $$t .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Extensions",
+        "Problem Statement": "",
+        "Question": "Newton\u2019s Law of Cooling states that the temperature $$T$$ of an object at any time t can be described by the equation $$T = T_{s} + ( T_{0} - T_{s} ) e^{- k t} ,$$ where $$T_{s}$$ is the temperature of the surrounding environment, $$T_{0}$$ is the initial temperature of the object, and $$k$$ is the cooling rate. Use the definition of a logarithm along with properties of logarithms to solve the formula for time $$t$$ such that $$t$$ is equal to a single logarithm.",
+        "Image Links": [],
+        "Answer": "$$t = \\ln{} ( ( \\frac{T - T_{s}}{T_{0} - T_{s}} )^{- \\frac{1}{k}} )$$",
+        "Answer Image Links": []
+    }
+]

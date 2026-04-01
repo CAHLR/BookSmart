@@ -1,0 +1,218 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "True or False ? Justify your answer with a proof or a counterexample.",
+        "Question": "A function is always one-to-one.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "True or False ? Justify your answer with a proof or a counterexample.",
+        "Question": "$$f \\vysmwhtcircle g = g \\vysmwhtcircle f ,$$ assuming f and g are functions.",
+        "Image Links": [],
+        "Answer": "False",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "True or False ? Justify your answer with a proof or a counterexample.",
+        "Question": "A relation that passes the horizontal and vertical line tests is a one-to-one function.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "True or False ? Justify your answer with a proof or a counterexample.",
+        "Question": "A relation passing the horizontal line test is a function.",
+        "Image Links": [],
+        "Answer": "False",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "$$f = x^{2} + 2 x - 3 , g = \\text{ln} ( x - 5 ) , h = \\frac{1}{x + 4}$$",
+        "Question": "h",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "$$f = x^{2} + 2 x - 3 , g = \\text{ln} ( x - 5 ) , h = \\frac{1}{x + 4}$$",
+        "Question": "g",
+        "Image Links": [],
+        "Answer": "Domain: $$x > 5 ,$$ range: all real numbers",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "$$f = x^{2} + 2 x - 3 , g = \\text{ln} ( x - 5 ) , h = \\frac{1}{x + 4}$$",
+        "Question": "$$h \\vysmwhtcircle f$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "$$f = x^{2} + 2 x - 3 , g = \\text{ln} ( x - 5 ) , h = \\frac{1}{x + 4}$$",
+        "Question": "$$g \\vysmwhtcircle f$$",
+        "Image Links": [],
+        "Answer": "Domain: $$x > 2$$ and $$x < - 4 ,$$ range: all real numbers",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the degree, y -intercept, and zeros for the following polynomial functions.",
+        "Question": "$$f ( x ) = 2 x^{2} + 9 x - 5$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Find the degree, y -intercept, and zeros for the following polynomial functions.",
+        "Question": "$$f ( x ) = x^{3} + 2 x^{2} - 2 x$$",
+        "Image Links": [],
+        "Answer": "Degree of 3, $$y$$ -intercept: 0, zeros: 0, $$\\sqrt{3} - 1 , -1 - \\sqrt{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Simplify the following trigonometric expressions.",
+        "Question": "$$\\frac{\\text{tan}^{2} x}{\\text{sec}^{2} x} + \\text{cos}^{2} x$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Simplify the following trigonometric expressions.",
+        "Question": "$$\\text{cos}^{2} x - \\text{sin}^{2} x$$",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{a}\\cos{}^{2} x - \\sin{}^{2} x = \\cos{} 2 x \\\\ = 1 - 2 \\sin{}^{2} x \\\\ = 2 \\cos{}^{2} x - 1\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the following trigonometric equations on the interval $$x = [ -2 \\pi , 2 \\pi ]$$ exactly.",
+        "Question": "$$6 \\text{cos}^{2} x - 3 = 0$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the following trigonometric equations on the interval $$x = [ -2 \\pi , 2 \\pi ]$$ exactly.",
+        "Question": "$$\\text{sec}^{2} x - 2 \\text{sec} x + 1 = 0$$",
+        "Image Links": [],
+        "Answer": "$$0 , \\pm 2 \\pi$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the following logarithmic equations.",
+        "Question": "$$5^{x} = 16$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Solve the following logarithmic equations.",
+        "Question": "$$\\text{log}_{2} ( x + 4 ) = 3$$",
+        "Image Links": [],
+        "Answer": "4",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Are the following functions one-to-one over their domain of existence? Does the function have an inverse? If so, find the inverse $$f^{-1} ( x )$$ of the function. Justify your answer.",
+        "Question": "$$f ( x ) = x^{2} + 2 x + 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Are the following functions one-to-one over their domain of existence? Does the function have an inverse? If so, find the inverse $$f^{-1} ( x )$$ of the function. Justify your answer.",
+        "Question": "$$f ( x ) = \\frac{1}{x}$$",
+        "Image Links": [],
+        "Answer": "One-to-one; yes, the function has an inverse; inverse: $$f^{-1} ( x ) = \\frac{1}{y}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, determine the largest domain on which the function is one-to-one and find the inverse on that domain.",
+        "Question": "$$f ( x ) = \\sqrt{9 - x}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, determine the largest domain on which the function is one-to-one and find the inverse on that domain.",
+        "Question": "$$f ( x ) = x^{2} + 3 x + 4$$",
+        "Image Links": [],
+        "Answer": "$$x \\geq - \\frac{3}{2} , f^{-1} ( x ) = - \\frac{3}{2} + \\frac{1}{2} \\sqrt{4 y - 7}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, determine the largest domain on which the function is one-to-one and find the inverse on that domain.",
+        "Question": "A car is racing along a circular track with diameter of 1 mi. A trainer standing in the center of the circle marks his progress every 5 sec. After 5 sec, the trainer has to turn 55\u00b0 to keep up with the car. How fast is the car traveling?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, consider a restaurant owner who wants to sell T-shirts advertising his brand. He recalls that there is a fixed cost and variable cost, although he does not remember the values. He does know that the T-shirt printing company charges $440 for 20 shirts and $1000 for 100 shirts.",
+        "Question": "a. Find the equation $$C = f ( x )$$ that describes the total cost as a function of number of shirts and b. determine how many shirts he must sell to break even if he sells the shirts for $10 each.",
+        "Image Links": [],
+        "Answer": "a. $$C ( x ) = 300 + 7 x$$ b. 100 shirts",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, consider a restaurant owner who wants to sell T-shirts advertising his brand. He recalls that there is a fixed cost and variable cost, although he does not remember the values. He does know that the T-shirt printing company charges $440 for 20 shirts and $1000 for 100 shirts.",
+        "Question": "a. Find the inverse function $$x = f^{-1} ( C )$$ and describe the meaning of this function. b. Determine how many shirts the owner can buy if he has $8000 to spend.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, consider the population of Ocean City, New Jersey, which is cyclical by season.",
+        "Question": "The population can be modeled by $$P ( t ) = 82.5 - 67.5 \\text{cos} [ ( \\pi \\text{/} 6 ) t ] ,$$ where $$t$$ is time in months $$( t = 0$$ represents January 1) and $$P$$ is population (in thousands). During a year, in what intervals is the population less than 20,000? During what intervals is the population more than 140,000?",
+        "Image Links": [],
+        "Answer": "The population is less than 20,000 from December 8 through January 23 and more than 140,000 from May 29 through August 2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, consider the population of Ocean City, New Jersey, which is cyclical by season.",
+        "Question": "In reality, the overall population is most likely increasing or decreasing throughout each year. Let\u2019s reformulate the model as $$P ( t ) = 82.5 - 67.5 \\text{cos} [ ( \\pi \\text{/} 6 ) t ] + t ,$$ where $$t$$ is time in months ( $$t = 0$$ represents January 1) and $$P$$ is population (in thousands). When is the first time the population reaches 200,000?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, consider radioactive dating. A human skeleton is found in an archeological dig. Carbon dating is implemented to determine how old the skeleton is by using the equation $$y = e^{r t} ,$$ where $$y$$ is the ratio of radiocarbon still present in the material, $$t$$ is the number of years passed, and $$r = -0.0001210$$ is the decay rate of radiocarbon.",
+        "Question": "If the skeleton is expected to be 2000 years old, what percentage of radiocarbon should be present?",
+        "Image Links": [],
+        "Answer": "78.51%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For the following problems, consider radioactive dating. A human skeleton is found in an archeological dig. Carbon dating is implemented to determine how old the skeleton is by using the equation $$y = e^{r t} ,$$ where $$y$$ is the ratio of radiocarbon still present in the material, $$t$$ is the number of years passed, and $$r = -0.0001210$$ is the decay rate of radiocarbon.",
+        "Question": "Find the inverse of the carbon-dating equation. What does it mean? If there is 25% radiocarbon, how old is the skeleton?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

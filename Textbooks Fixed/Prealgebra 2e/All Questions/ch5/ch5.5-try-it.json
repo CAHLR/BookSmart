@@ -1,0 +1,146 @@
+[
+    {
+        "Topic": "Try It 5.97",
+        "Problem Statement": "",
+        "Question": "Find the mean of the numbers: $$8 , 9 , 7 , 12 , 10 , 5 .$$",
+        "Image Links": [],
+        "Answer": "8.5",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.98",
+        "Problem Statement": "",
+        "Question": "Find the mean of the numbers: $$9 , 13 , 11 , 7 , 5 .$$",
+        "Image Links": [],
+        "Answer": "9",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.99",
+        "Problem Statement": "",
+        "Question": "The ages of the four students in Ben\u2019s carpool are $$25 , 18 , 21 , \\text{and} 22 .$$ Find the mean age of the students.",
+        "Image Links": [],
+        "Answer": "21.5 years",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.100",
+        "Problem Statement": "",
+        "Question": "Yen counted the number of emails she received last week. The numbers were $$4 , 9 , 15 , 12 , 10 , 12 , \\text{and} 8 .$$ Find the mean number of emails.",
+        "Image Links": [],
+        "Answer": "10",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.101",
+        "Problem Statement": "",
+        "Question": "Last week Ray recorded how much he spent for lunch each workday. He spent $$\\text{$6.50} , \\text{$7.25} , \\text{$4.90} , \\text{$5.30} , \\text{and} \\text{$12.00} .$$ Find the mean of how much he spent each day.",
+        "Image Links": [],
+        "Answer": "$7.19",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.102",
+        "Problem Statement": "",
+        "Question": "Lisa has kept the receipts from the past four trips to the gas station. The receipts show the following amounts: $$\\text{$34.87} , \\text{$42.31} , \\text{$38.04} , \\text{and} \\text{$43.26} .$$ Find the mean.",
+        "Image Links": [],
+        "Answer": "$39.62",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.103",
+        "Problem Statement": "",
+        "Question": "Find the median of the data set: $$43 , 38 , 51 , 40 , 46 .$$",
+        "Image Links": [],
+        "Answer": "43",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.104",
+        "Problem Statement": "",
+        "Question": "Find the median of the data set: $$15 , 35 , 20 , 45 , 50 , 25 , 30 .$$",
+        "Image Links": [],
+        "Answer": "30",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.105",
+        "Problem Statement": "",
+        "Question": "Find the median of the data set: $$8 , 7 , 5 , 10 , 9 , 12 .$$",
+        "Image Links": [],
+        "Answer": "8.5",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.106",
+        "Problem Statement": "",
+        "Question": "Find the median of the data set: $$21 , 25 , 19 , 17 , 22 , 18 , 20 , 24 .$$",
+        "Image Links": [],
+        "Answer": "20.5",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.107",
+        "Problem Statement": "",
+        "Question": "The number of sick days employees used last year: $$3 , 6 , 2 , 3 , 7 , 5 , 6 , 2 , 4 , 2 .$$ Identify the mode.",
+        "Image Links": [],
+        "Answer": "2",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.108",
+        "Problem Statement": "",
+        "Question": "The number of handbags owned by women in a book club: $$5 , 6 , 3 , 1 , 5 , 8 , 1 , 5 , 8 , 5 .$$ Identify the mode.",
+        "Image Links": [],
+        "Answer": "5",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.109",
+        "Problem Statement": "",
+        "Question": "The ages of the students in a statistics class are listed here: $$19$$ , $$20$$ , $$23$$ , $$23$$ , $$38$$ , $$21$$ , $$19$$ , $$21$$ , $$19$$ , $$21$$ , $$20$$ , $$43$$ , $$20$$ , $$23$$ , $$17$$ , $$21$$ , $$21$$ , $$20$$ , $$29$$ , $$18$$ , $$28$$ . What is the mode?",
+        "Image Links": [],
+        "Answer": "21",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.110",
+        "Problem Statement": "",
+        "Question": "Students listed the number of members in their household as follows: $$6$$ , $$2$$ , $$5$$ , $$6$$ , $$3$$ , $$7$$ , $$5$$ , $$6$$ , $$5$$ , $$3$$ , $$4$$ , $$4$$ , $$5$$ , $$7$$ , $$6$$ , $$4$$ , $$5$$ , $$2$$ , $$1$$ , $$5$$ . What is the mode?",
+        "Image Links": [],
+        "Answer": "5",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.111",
+        "Problem Statement": "",
+        "Question": "Ignaly is attending a fashion show where the guests are seated at tables of ten. One guest from each table will be selected at random to receive a door prize. \u24d0 Find the probability Ignaly will win the door prize for her table. \u24d1 Convert the fraction to a decimal.",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{1}{10}$$ \u24d1 $$0.1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.112",
+        "Problem Statement": "",
+        "Question": "Hoang is among $$20$$ people available to sit on a jury. One person will be chosen at random from the $$20 .$$ \u24d0 Find the probability Hoang will be chosen. \u24d1 Convert the fraction to a decimal.",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{1}{20}$$ \u24d1 $$0.05$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.113",
+        "Problem Statement": "",
+        "Question": "A bowl of Halloween candy contains $$5$$ chocolate candies and $$3$$ lemon candies. Tanya will choose one piece of candy at random. \u24d0 Find the probability Tanya will choose a chocolate candy. \u24d1 Convert the fraction to a decimal.",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{5}{8}$$ \u24d1 $$0.625$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Try It 5.114",
+        "Problem Statement": "",
+        "Question": "Dan has $$2$$ pairs of black socks and $$6$$ pairs of blue socks. He will choose one pair at random to wear tomorrow. \u24d0 Find the probability Dan will choose a pair of black socks \u24d1 Convert the fraction to a decimal.",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\frac{2}{8}$$ \u24d1 $$0.25$$",
+        "Answer Image Links": []
+    }
+]

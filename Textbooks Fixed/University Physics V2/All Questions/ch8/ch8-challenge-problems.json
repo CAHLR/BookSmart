@@ -1,0 +1,74 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A spherical capacitor is formed from two concentric spherical conducting spheres separated by vacuum. The inner sphere has radius 12.5 cm and the outer sphere has radius 14.8 cm. A potential difference of 120 V is applied to the capacitor. (a) What is the capacitance of the capacitor? (b) What is the magnitude of the electrical field at $$r = 12.6 \\text{cm}$$ , just outside the inner sphere? (c) What is the magnitude of the electrical field at $$r = 14.7 \\text{cm}$$ , just inside the outer sphere? (d) For a parallel-plate capacitor the electrical field is uniform in the region between the plates, except near the edges of the plates. Is this also true for a spherical capacitor?",
+        "Image Links": [],
+        "Answer": "a. 89.6 pF; b. 6.09 kV/m; c. 4.47 kV/m; d. no",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "The network of capacitors shown below are all uncharged when a 300-V potential is applied between points A and B with the switch S open. (a) What is the potential difference $$V_{E} - V_{D}$$ ? (b) What is the potential at point E after the switch is closed? (c) How much charge flows through the switch after it is closed?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/67379085a6f2c7fd2c80c4f5bab64ffaede48f04"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Electronic flash units for cameras contain a capacitor for storing the energy used to produce the flash. In one such unit the flash lasts for 1/675 fraction of a second with an average light power output of 270 kW. (a) If the conversion of electrical energy to light is 95% efficient (because the rest of the energy goes to thermal energy), how much energy must be stored in the capacitor for one flash? (b) The capacitor has a potential difference between its plates of 125 V when the stored energy equals the value stored in part (a). What is the capacitance?",
+        "Image Links": [],
+        "Answer": "a. 421 J; b. 53.9 mF",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A spherical capacitor is formed from two concentric spherical conducting shells separated by a vacuum. The inner sphere has radius 12.5 cm and the outer sphere has radius 14.8 cm. A potential difference of 120 V is applied to the capacitor. (a) What is the energy density at $$r = 12.6 \\text{cm}$$ , just outside the inner sphere? (b) What is the energy density at $$r = 14.7 \\text{cm}$$ , just inside the outer sphere? (c) For the parallel-plate capacitor the energy density is uniform in the region between the plates, except near the edges of the plates. Is this also true for the spherical capacitor?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A metal plate of thickness t is held in place between two capacitor plates by plastic pegs, as shown below. The effect of the pegs on the capacitance is negligible. The area of each capacitor plate and the area of the top and bottom surfaces of the inserted plate are all A . What is the capacitance of this system?",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/22edeb7544bd75a5fdee421f7b84bcecb7ec3f54"
+        ],
+        "Answer": "$$C = \\varepsilon_{0} A \\text{/} ( d_{1} + d_{2} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A parallel-plate capacitor is filled with two dielectrics, as shown below. When the plate area is A and separation between plates is d , show that the capacitance is given by $$C = \\varepsilon_{0} \\frac{A}{d} \\frac{\\kappa_{1} + \\kappa_{2}}{2} .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/81eea3d4a9d67af3736cea488f2ce0c3a4a008e6"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A parallel-plate capacitor is filled with two dielectrics, as shown below. Show that the capacitance is given by $$C = 2 \\varepsilon_{0} \\frac{A}{d} \\frac{\\kappa_{1} \\kappa_{2}}{\\kappa_{1} + \\kappa_{2}} .$$",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/dc6c9252b4068916522c6eecff6e34c258155575"
+        ],
+        "Answer": "proof",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "A capacitor has parallel plates of area $$12 \\text{cm}^{2}$$ separated by 2.0 mm. The space between the plates is filled with polystyrene. (a) Find the maximum permissible voltage across the capacitor to avoid dielectric breakdown. (b) When the voltage equals the value found in part (a), find the surface charge density on the surface of the dielectric.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

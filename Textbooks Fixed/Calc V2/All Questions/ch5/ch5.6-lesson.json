@@ -1,0 +1,498 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "Use the ratio test to determine whether $$\\sum_{n = 1}^{\\infty} a_{n}$$ converges, where $$a_{n}$$ is given in the following problems. State if the ratio test is inconclusive.",
+        "Question": "$$a_{n} = 1 \\text{/} n \\text{!}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n + 1} \\text{/} a_{n} \\vec{} 0 .$$ Converges.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the ratio test to determine whether $$\\sum_{n = 1}^{\\infty} a_{n}$$ converges, where $$a_{n}$$ is given in the following problems. State if the ratio test is inconclusive.",
+        "Question": "$$a_{n} = 10^{n} \\text{/} n \\text{!}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the ratio test to determine whether $$\\sum_{n = 1}^{\\infty} a_{n}$$ converges, where $$a_{n}$$ is given in the following problems. State if the ratio test is inconclusive.",
+        "Question": "$$a_{n} = n^{2} \\text{/} 2^{n}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{a_{n + 1}}{a_{n}} = \\frac{1}{2} ( \\frac{n + 1}{n} )^{2} \\vec{} 1 \\text{/} 2 < 1 .$$ Converges.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the ratio test to determine whether $$\\sum_{n = 1}^{\\infty} a_{n}$$ converges, where $$a_{n}$$ is given in the following problems. State if the ratio test is inconclusive.",
+        "Question": "$$a_{n} = n^{10} \\text{/} 2^{n}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the ratio test to determine whether $$\\sum_{n = 1}^{\\infty} a_{n}$$ converges, where $$a_{n}$$ is given in the following problems. State if the ratio test is inconclusive.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{( n \\text{!} )^{3}}{( 3 n ) \\text{!}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{a_{n + 1}}{a_{n}} \\vec{} 1 \\text{/} 27 < 1 .$$ Converges.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the ratio test to determine whether $$\\sum_{n = 1}^{\\infty} a_{n}$$ converges, where $$a_{n}$$ is given in the following problems. State if the ratio test is inconclusive.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{2^{3 n} ( n \\text{!} )^{3}}{( 3 n ) \\text{!}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the ratio test to determine whether $$\\sum_{n = 1}^{\\infty} a_{n}$$ converges, where $$a_{n}$$ is given in the following problems. State if the ratio test is inconclusive.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{( 2 n ) \\text{!}}{n^{2 n}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{a_{n + 1}}{a_{n}} \\vec{} 4 \\text{/} e^{2} < 1 .$$ Converges.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the ratio test to determine whether $$\\sum_{n = 1}^{\\infty} a_{n}$$ converges, where $$a_{n}$$ is given in the following problems. State if the ratio test is inconclusive.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{( 2 n ) \\text{!}}{( 2 n )^{n}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the ratio test to determine whether $$\\sum_{n = 1}^{\\infty} a_{n}$$ converges, where $$a_{n}$$ is given in the following problems. State if the ratio test is inconclusive.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{n \\text{!}}{( n \\text{/} e )^{n}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{a_{n + 1}}{a_{n}} \\vec{} 1 .$$ Ratio test is inconclusive.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the ratio test to determine whether $$\\sum_{n = 1}^{\\infty} a_{n}$$ converges, where $$a_{n}$$ is given in the following problems. State if the ratio test is inconclusive.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{( 2 n ) \\text{!}}{( n \\text{/} e )^{2 n}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the ratio test to determine whether $$\\sum_{n = 1}^{\\infty} a_{n}$$ converges, where $$a_{n}$$ is given in the following problems. State if the ratio test is inconclusive.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{( 2^{n} n \\text{!} )^{2}}{( 2 n )^{2 n}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{a_{n}}{a_{n + 1}} \\vec{} 1 \\text{/} e^{2} .$$ Converges.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the root test to determine whether $$\\sum_{n = 1}^{\\infty} a_{n}$$ converges, where $$a_{n}$$ is as follows.",
+        "Question": "$$a_{k} = ( \\frac{k - 1}{2 k + 3} )^{k}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the root test to determine whether $$\\sum_{n = 1}^{\\infty} a_{n}$$ converges, where $$a_{n}$$ is as follows.",
+        "Question": "$$a_{k} = ( \\frac{2 k^{2} - 1}{k^{2} + 3} )^{k}$$",
+        "Image Links": [],
+        "Answer": "$$( a_{k} )^{1 \\text{/} k} \\vec{} 2 > 1 .$$ Diverges.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the root test to determine whether $$\\sum_{n = 1}^{\\infty} a_{n}$$ converges, where $$a_{n}$$ is as follows.",
+        "Question": "$$a_{n} = \\frac{( \\text{ln} n )^{2 n}}{n^{n}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the root test to determine whether $$\\sum_{n = 1}^{\\infty} a_{n}$$ converges, where $$a_{n}$$ is as follows.",
+        "Question": "$$a_{n} = n \\text{/} 2^{n}$$",
+        "Image Links": [],
+        "Answer": "$$( a_{n} )^{1 \\text{/} n} \\vec{} 1 \\text{/} 2 < 1 .$$ Converges.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the root test to determine whether $$\\sum_{n = 1}^{\\infty} a_{n}$$ converges, where $$a_{n}$$ is as follows.",
+        "Question": "$$a_{n} = n \\text{/} e^{n}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the root test to determine whether $$\\sum_{n = 1}^{\\infty} a_{n}$$ converges, where $$a_{n}$$ is as follows.",
+        "Question": "$$a_{k} = \\frac{k^{e}}{e^{k}}$$",
+        "Image Links": [],
+        "Answer": "$$( a_{k} )^{1 \\text{/} k} \\vec{} 1 \\text{/} e < 1 .$$ Converges.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the root test to determine whether $$\\sum_{n = 1}^{\\infty} a_{n}$$ converges, where $$a_{n}$$ is as follows.",
+        "Question": "$$a_{k} = \\frac{\\pi^{k}}{k^{\\pi}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the root test to determine whether $$\\sum_{n = 1}^{\\infty} a_{n}$$ converges, where $$a_{n}$$ is as follows.",
+        "Question": "$$a_{n} = ( \\frac{1}{e} + \\frac{1}{n} )^{n}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n}^{1 \\text{/} n} = \\frac{1}{e} + \\frac{1}{n} \\vec{} \\frac{1}{e} < 1 .$$ Converges.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the root test to determine whether $$\\sum_{n = 1}^{\\infty} a_{n}$$ converges, where $$a_{n}$$ is as follows.",
+        "Question": "$$a_{k} = \\frac{1}{( 1 + \\text{ln} k )^{k}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "For this exercise, let n start at 2.",
+        "Question": "$$a_{n} = \\frac{( \\text{ln} ( 1 + \\text{ln} n ) )^{n}}{( \\text{ln} n )^{n}}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n}^{1 \\text{/} n} = \\frac{( \\text{ln} ( 1 + \\text{ln} n ) )}{( \\text{ln} n )} \\vec{} 0$$ by L\u2019H\u00f4pital\u2019s rule. Converges.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use either the ratio test or the root test as appropriate to determine whether the series $$\\sum_{k = 1}^{\\infty} a_{k}$$ with given terms $$a_{k}$$ converges, or state if the test is inconclusive.",
+        "Question": "$$a_{k} = \\frac{k \\text{!}}{1 \\cdotp 3 \\cdotp 5 \\text{cdots} ( 2 k - 1 )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use either the ratio test or the root test as appropriate to determine whether the series $$\\sum_{k = 1}^{\\infty} a_{k}$$ with given terms $$a_{k}$$ converges, or state if the test is inconclusive.",
+        "Question": "$$a_{k} = \\frac{2 \\cdotp 4 \\cdotp 6 \\text{cdots} 2 k}{( 2 k ) \\text{!}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{a_{k + 1}}{a_{k}} = \\frac{1}{2 k + 1} \\vec{} 0 .$$ Converges by ratio test.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use either the ratio test or the root test as appropriate to determine whether the series $$\\sum_{k = 1}^{\\infty} a_{k}$$ with given terms $$a_{k}$$ converges, or state if the test is inconclusive.",
+        "Question": "$$a_{k} = \\frac{1 \\cdotp 4 \\cdotp 7 \\text{cdots} ( 3 k - 2 )}{3^{k} k \\text{!}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use either the ratio test or the root test as appropriate to determine whether the series $$\\sum_{k = 1}^{\\infty} a_{k}$$ with given terms $$a_{k}$$ converges, or state if the test is inconclusive.",
+        "Question": "$$a_{n} = ( 1 - \\frac{1}{n} )^{n^{2}}$$",
+        "Image Links": [],
+        "Answer": "$$( a_{n} )^{1 \\text{/} n} \\vec{} 1 \\text{/} e .$$ Converges by root test.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use either the ratio test or the root test as appropriate to determine whether the series $$\\sum_{k = 1}^{\\infty} a_{k}$$ with given terms $$a_{k}$$ converges, or state if the test is inconclusive.",
+        "Question": "$$a_{k} = ( \\frac{1}{k + 1} + \\frac{1}{k + 2} + \\text{cdots} + \\frac{1}{2 k} )^{k}$$ ( Hint: Compare $$a_{k}^{1 \\text{/} k}$$ to $$\\int_{k}^{2 k} \\frac{d t}{t} . )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use either the ratio test or the root test as appropriate to determine whether the series $$\\sum_{k = 1}^{\\infty} a_{k}$$ with given terms $$a_{k}$$ converges, or state if the test is inconclusive.",
+        "Question": "$$a_{k} = ( \\frac{1}{k + 1} + \\frac{1}{k + 2} + \\text{cdots} + \\frac{1}{3 k} )^{k}$$",
+        "Image Links": [],
+        "Answer": "$$a_{k}^{1 \\text{/} k} \\vec{} \\text{ln} ( 3 ) > 1 .$$ Diverges by root test.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use either the ratio test or the root test as appropriate to determine whether the series $$\\sum_{k = 1}^{\\infty} a_{k}$$ with given terms $$a_{k}$$ converges, or state if the test is inconclusive.",
+        "Question": "$$a_{n} = ( n^{1 \\text{/} n} - 1 )^{n}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the ratio test to determine whether $$\\sum_{n = 1}^{\\infty} a_{n}$$ converges, or state if the ratio test is inconclusive.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{3^{n^{2}}}{2^{n^{3}}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{a_{n + 1}}{a_{n}} =$$ $$\\frac{3^{2 n + 1}}{2^{3 n^{2} + 3 n + 1}} \\vec{} 0 .$$ Converge.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the ratio test to determine whether $$\\sum_{n = 1}^{\\infty} a_{n}$$ converges, or state if the ratio test is inconclusive.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{2^{n^{2}}}{n^{n} n \\text{!}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the root and limit comparison tests to determine whether $$\\sum_{n = 1}^{\\infty} a_{n}$$ converges.",
+        "Question": "$$a_{n} = 1 \\text{/} x_{n}^{n}$$ where $$x_{n + 1} = \\frac{1}{2} x_{n} + \\frac{1}{x_{n}} ,$$ $$x_{1} = 1$$ ( Hint: Find limit of $$\\{ x_{n} \\} . )$$",
+        "Image Links": [],
+        "Answer": "Converges by root test and limit comparison test since $$x_{n} \\vec{} \\sqrt{2} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use an appropriate test to determine whether the series converges.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{( n + 1 )}{n^{3} + n^{2} + n + 1}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use an appropriate test to determine whether the series converges.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{( -1 )^{n + 1} ( n + 1 )}{n^{3} + 3 n^{2} + 3 n + 1}$$",
+        "Image Links": [],
+        "Answer": "Converges absolutely by limit comparison with $$p - \\text{series,}$$ $$p = 2 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use an appropriate test to determine whether the series converges.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{( n + 1 )^{2}}{n^{3} + ( 1.1 )^{n}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use an appropriate test to determine whether the series converges.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{( n - 1 )^{n}}{( n + 1 )^{n}}$$",
+        "Image Links": [],
+        "Answer": "$$\\underset{n \\rightarrow \\infty}{\\text{lim}} a_{n} = 1 / e^{2} \\neq 0 .$$ Series diverges.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use an appropriate test to determine whether the series converges.",
+        "Question": "$$a_{n} = ( 1 + \\frac{1}{n^{2}} )^{n}$$ ( Hint: $$( 1 + \\frac{1}{n^{2}} )^{n^{2}} \\approx e . )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use an appropriate test to determine whether the series converges.",
+        "Question": "$$a_{k} = 1 \\text{/} 2^{\\text{sin}^{2} k}$$",
+        "Image Links": [],
+        "Answer": "Terms do not tend to zero: $$a_{k} \\geq 1 \\text{/} 2 ,$$ since $$\\text{sin}^{2} x \\le 1 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use an appropriate test to determine whether the series converges.",
+        "Question": "$$a_{k} = 2^{\\text{unicode[:-]} \\text{sin} ( 1 \\text{/} k )}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use an appropriate test to determine whether the series converges.",
+        "Question": "$$a_{n} = 1 \\text{/} \\left (\\begin{matrix}n + 2 \\\\ n\\end{matrix}\\right )$$ where $$\\left (\\begin{matrix}n \\\\ k\\end{matrix}\\right ) = \\frac{n \\text{!}}{k \\text{!} ( n - k ) \\text{!}}$$",
+        "Image Links": [],
+        "Answer": "$$a_{n} = \\frac{2}{( n + 1 ) ( n + 2 )} ,$$ which converges by comparison with $$p - \\text{series}$$ for $$p = 2 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use an appropriate test to determine whether the series converges.",
+        "Question": "$$a_{k} = 1 \\text{/} \\left (\\begin{matrix}2 k \\\\ k\\end{matrix}\\right )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use an appropriate test to determine whether the series converges.",
+        "Question": "$$a_{k} = 2^{k} \\text{/} \\left (\\begin{matrix}3 k \\\\ k\\end{matrix}\\right )$$",
+        "Image Links": [],
+        "Answer": "$$a_{k} = \\frac{2^{k} 1 \\cdotp 2 \\text{cdots} k}{( 2 k + 1 ) ( 2 k + 2 ) \\text{cdots} 3 k} \\le ( 2 \\text{/} 3 )^{k}$$ converges by comparison with geometric series.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use an appropriate test to determine whether the series converges.",
+        "Question": "$$a_{k} = ( \\frac{k}{k + \\text{ln} k} )^{k}$$ ( Hint: $$a_{k} = ( 1 + \\frac{\\text{ln} k}{k} )^{\\text{unicode[:-]} ( k \\text{/} \\text{ln} k ) \\text{ln} k} \\approx e^{\\text{unicode[:-]} \\text{ln} k} . )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use an appropriate test to determine whether the series converges.",
+        "Question": "$$a_{k} = ( \\frac{k}{k + \\text{ln} k} )^{2 k}$$ ( Hint: $$a_{k} = ( 1 + \\frac{\\text{ln} k}{k} )^{\\text{unicode[:-]} ( k \\text{/} \\text{ln} k ) \\text{ln} k^{2}} . )$$",
+        "Image Links": [],
+        "Answer": "$$a_{k} \\approx e^{\\text{unicode[:-]} \\text{ln} k^{2}} = 1 \\text{/} k^{2} .$$ Series converges by limit comparison with $$p - \\text{series,}$$ $$p = 2 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The following series converge by the ratio test. Use summation by parts, $$\\sum_{k = 1}^{n} a_{k} ( b_{k + 1} - b_{k} ) = [ a_{n + 1} b_{n + 1} - a_{1} b_{1} ] - \\sum_{k = 1}^{n} b_{k + 1} ( a_{k + 1} - a_{k} ) ,$$ to find the sum of the given series.",
+        "Question": "$$\\sum_{k = 1}^{\\infty} \\frac{k}{2^{k}}$$ ( Hint: Take $$a_{k} = k$$ and $$b_{k} = 2^{1 - k} . )$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The following series converge by the ratio test. Use summation by parts, $$\\sum_{k = 1}^{n} a_{k} ( b_{k + 1} - b_{k} ) = [ a_{n + 1} b_{n + 1} - a_{1} b_{1} ] - \\sum_{k = 1}^{n} b_{k + 1} ( a_{k + 1} - a_{k} ) ,$$ to find the sum of the given series.",
+        "Question": "$$\\sum_{k = 1}^{\\infty} \\frac{k}{c^{k}} ,$$ where $$c > 1$$ ( Hint: Take $$a_{k} = k$$ and $$b_{k} = c^{1 - k} \\text{/} ( c - 1 ) . )$$",
+        "Image Links": [],
+        "Answer": "If $$b_{k} = c^{1 - k} \\text{/} ( c - 1 )$$ and $$a_{k} = k ,$$ then $$b_{k + 1} - b_{k} = \\text{unicode[:-]} c^{\\text{unicode[:-]} k}$$ and $$\\sum_{n = 1}^{\\infty} \\frac{k}{c^{k}} = a_{1} b_{1} + \\frac{1}{c - 1} \\sum_{k = 1}^{\\infty} c^{\\text{unicode[:-]} k} = \\frac{c}{( c - 1 )^{2}} .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The following series converge by the ratio test. Use summation by parts, $$\\sum_{k = 1}^{n} a_{k} ( b_{k + 1} - b_{k} ) = [ a_{n + 1} b_{n + 1} - a_{1} b_{1} ] - \\sum_{k = 1}^{n} b_{k + 1} ( a_{k + 1} - a_{k} ) ,$$ to find the sum of the given series.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{n^{2}}{2^{n}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The following series converge by the ratio test. Use summation by parts, $$\\sum_{k = 1}^{n} a_{k} ( b_{k + 1} - b_{k} ) = [ a_{n + 1} b_{n + 1} - a_{1} b_{1} ] - \\sum_{k = 1}^{n} b_{k + 1} ( a_{k + 1} - a_{k} ) ,$$ to find the sum of the given series.",
+        "Question": "$$\\sum_{n = 1}^{\\infty} \\frac{( n + 1 )^{2}}{2^{n}}$$",
+        "Image Links": [],
+        "Answer": "$$6 + 4 + 1 = 11$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The k th term of each of the following series has a factor $$x^{k} .$$ Find the range of $$x$$ for which the ratio test implies that the series converges.",
+        "Question": "$$\\sum_{k = 1}^{\\infty} \\frac{x^{k}}{k^{2}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The k th term of each of the following series has a factor $$x^{k} .$$ Find the range of $$x$$ for which the ratio test implies that the series converges.",
+        "Question": "$$\\sum_{k = 1}^{\\infty} \\frac{x^{2 k}}{k^{2}}$$",
+        "Image Links": [],
+        "Answer": "$$| x | \\le 1$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The k th term of each of the following series has a factor $$x^{k} .$$ Find the range of $$x$$ for which the ratio test implies that the series converges.",
+        "Question": "$$\\sum_{k = 1}^{\\infty} \\frac{x^{2 k}}{3^{k}}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The k th term of each of the following series has a factor $$x^{k} .$$ Find the range of $$x$$ for which the ratio test implies that the series converges.",
+        "Question": "$$\\sum_{k = 1}^{\\infty} \\frac{x^{k}}{k \\text{!}}$$",
+        "Image Links": [],
+        "Answer": "$$| x | < \\infty$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The k th term of each of the following series has a factor $$x^{k} .$$ Find the range of $$x$$ for which the ratio test implies that the series converges.",
+        "Question": "Does there exist a number $$p$$ such that $$\\sum_{n = 1}^{\\infty} \\frac{2^{n}}{n^{p}}$$ converges?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The k th term of each of the following series has a factor $$x^{k} .$$ Find the range of $$x$$ for which the ratio test implies that the series converges.",
+        "Question": "Let $$0 < r < 1 .$$ For which real numbers $$p$$ does $$\\sum_{n = 1}^{\\infty} n^{p} r^{n}$$ converge?",
+        "Image Links": [],
+        "Answer": "All real numbers $$p$$ by the ratio test.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The k th term of each of the following series has a factor $$x^{k} .$$ Find the range of $$x$$ for which the ratio test implies that the series converges.",
+        "Question": "Suppose that $$\\underset{n \\rightarrow \\infty}{\\text{lim}} \\left|\\right. \\frac{a_{n + 1}}{a_{n}} \\left|\\right. = p .$$ For which values of $$p$$ must $$\\sum_{n = 1}^{\\infty} 2^{n} a_{n}$$ converge?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The k th term of each of the following series has a factor $$x^{k} .$$ Find the range of $$x$$ for which the ratio test implies that the series converges.",
+        "Question": "Suppose that $$\\underset{n \\rightarrow \\infty}{\\text{lim}} \\left|\\right. \\frac{a_{n + 1}}{a_{n}} \\left|\\right. = p .$$ For which values of $$r > 0$$ is $$\\sum_{n = 1}^{\\infty} r^{n} a_{n}$$ guaranteed to converge?",
+        "Image Links": [],
+        "Answer": "$$r < 1 \\text{/} p$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The k th term of each of the following series has a factor $$x^{k} .$$ Find the range of $$x$$ for which the ratio test implies that the series converges.",
+        "Question": "Suppose that $$| \\frac{a_{n + 1}}{a_{n}} | \\le ( n + 1 )^{p}$$ for all $$n = 1 , 2 \\text{,unicode[:ddot.]}$$ where $$p$$ is a fixed real number. For which values of $$p$$ is $$\\sum_{n = 1}^{\\infty} n \\text{!} a_{n}$$ guaranteed to converge?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The k th term of each of the following series has a factor $$x^{k} .$$ Find the range of $$x$$ for which the ratio test implies that the series converges.",
+        "Question": "For which values of $$r > 0 ,$$ if any, does $$\\sum_{n = 1}^{\\infty} r^{\\sqrt{n}}$$ converge? ( Hint: $$\\sum_{n = 1}^{\\infty} a_{n} = \\sum_{k = 1}^{\\infty} \\sum_{n = k^{2}}^{( k + 1 )^{2} - 1} a_{n} . )$$",
+        "Image Links": [],
+        "Answer": "$$0 < r < 1 .$$ Note that the ratio and root tests are inconclusive. Using the hint, there are $$2 k$$ terms $$r^{\\sqrt{n}}$$ for $$k^{2} \\le n < ( k + 1 )^{2} ,$$ and for $$r < 1$$ each term is at least $$r^{k} .$$ Thus, $$\\sum_{n = 1}^{\\infty} r^{\\sqrt{n}} = \\sum_{k = 1}^{\\infty} \\sum_{n = k^{2}}^{( k + 1 )^{2} - 1} r^{\\sqrt{n}}$$ $$\\geq \\sum_{k = 1}^{\\infty} 2 k r^{k} ,$$ which converges by the ratio test for $$r < 1 .$$ For $$r \\geq 1$$ the series diverges by the divergence test.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The k th term of each of the following series has a factor $$x^{k} .$$ Find the range of $$x$$ for which the ratio test implies that the series converges.",
+        "Question": "Suppose that $$| \\frac{a_{n + 2}}{a_{n}} | \\le r < 1$$ for all $$n .$$ Can you conclude that $$\\sum_{n = 1}^{\\infty} a_{n}$$ converges?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The k th term of each of the following series has a factor $$x^{k} .$$ Find the range of $$x$$ for which the ratio test implies that the series converges.",
+        "Question": "Let $$a_{n} = 2^{\\text{unicode[:-]} [ n \\text{/} 2 ]}$$ where $$[ x ]$$ is the greatest integer less than or equal to $$x .$$ Determine whether $$\\sum_{n = 1}^{\\infty} a_{n}$$ converges and justify your answer.",
+        "Image Links": [],
+        "Answer": "One has $$a_{1} = 1 ,$$ $$a_{2} = a_{3} = 1 \\text{/} 2 \\text{,unicode[:ddot.]} a_{2 n} = a_{2 n + 1} = 1 \\text{/} 2^{n} .$$ The ratio test does not apply because $$a_{n + 1} \\text{/} a_{n} = 1$$ if $$n$$ is even. However, $$a_{n + 2} \\text{/} a_{n} = 1 \\text{/} 2 ,$$ so the series converges according to the previous exercise. Of course, the series is just a duplicated geometric series.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The following advanced exercises use a generalized ratio test to determine convergence of some series that arise in particular applications when tests in this chapter, including the ratio and root test, are not powerful enough to determine their convergence. The test states that if $$\\underset{n \\rightarrow \\infty}{\\text{lim}} \\frac{a_{2 n}}{a_{n}} < 1 / 2 ,$$ then $$\\sum a_{n}$$ converges, while if $$\\underset{n \\rightarrow \\infty}{\\text{lim}} \\frac{a_{2 n + 1}}{a_{n}} > 1 / 2 ,$$ then $$\\sum a_{n}$$ diverges.",
+        "Question": "Let $$a_{n} = \\frac{1}{4} \\frac{3}{6} \\frac{5}{8} \\text{cdots} \\frac{2 n - 1}{2 n + 2} = \\frac{1 \\cdotp 3 \\cdotp 5 \\cdots ( 2 n - 1 )}{2^{n} ( n + 1 ) \\text{!}} .$$ Explain why the ratio test cannot determine convergence of $$\\sum_{n = 1}^{\\infty} a_{n} .$$ Use the fact that $$1 - 1 \\text{/} ( 4 k )$$ is increasing $$k$$ to estimate $$\\underset{n \\rightarrow \\infty}{\\text{lim}} \\frac{a_{2 n}}{a_{n}} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The following advanced exercises use a generalized ratio test to determine convergence of some series that arise in particular applications when tests in this chapter, including the ratio and root test, are not powerful enough to determine their convergence. The test states that if $$\\underset{n \\rightarrow \\infty}{\\text{lim}} \\frac{a_{2 n}}{a_{n}} < 1 / 2 ,$$ then $$\\sum a_{n}$$ converges, while if $$\\underset{n \\rightarrow \\infty}{\\text{lim}} \\frac{a_{2 n + 1}}{a_{n}} > 1 / 2 ,$$ then $$\\sum a_{n}$$ diverges.",
+        "Question": "Let $$a_{n} = \\frac{1}{1 + x} \\frac{2}{2 + x} \\text{cdots} \\frac{n}{n + x} \\frac{1}{n} = \\frac{( n - 1 ) \\text{!}}{( 1 + x ) ( 2 + x ) \\text{cdots} ( n + x )} .$$ Show that $$a_{2 n} \\text{/} a_{n} \\le e^{\\text{unicode[:-]} x \\text{/} 2} \\text{/} 2 .$$ For which $$x > 0$$ does the generalized ratio test imply convergence of $$\\sum_{n = 1}^{\\infty} a_{n} \\text{?}$$ ( Hint: Write $$2 a_{2 n} \\text{/} a_{n}$$ as a product of $$n$$ factors each smaller than $$1 \\text{/} ( 1 + x \\text{/} ( 2 n ) ) . )$$",
+        "Image Links": [],
+        "Answer": "$$a_{2 n} \\text{/} a_{n} = \\frac{1}{2} \\cdotp \\frac{n + 1}{n + 1 + x} \\frac{n + 2}{n + 2 + x} \\text{cdots} \\frac{2 n}{2 n + x} .$$ The inverse of the $$k \\text{th}$$ factor is $$( n + k + x ) \\text{/} ( n + k ) > 1 + x \\text{/} ( 2 n )$$ so the product is less than $$( 1 + x \\text{/} ( 2 n ) )^{\\text{unicode[:-]} n} \\approx e^{\\text{unicode[:-]} x \\text{/} 2} .$$ Thus for $$x > 0 ,$$ $$\\frac{a_{2 n}}{a_{n}} \\le \\frac{1}{2} e^{\\text{unicode[:-]} x \\text{/} 2} .$$ The series converges for $$x > 0 .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "The following advanced exercises use a generalized ratio test to determine convergence of some series that arise in particular applications when tests in this chapter, including the ratio and root test, are not powerful enough to determine their convergence. The test states that if $$\\underset{n \\rightarrow \\infty}{\\text{lim}} \\frac{a_{2 n}}{a_{n}} < 1 / 2 ,$$ then $$\\sum a_{n}$$ converges, while if $$\\underset{n \\rightarrow \\infty}{\\text{lim}} \\frac{a_{2 n + 1}}{a_{n}} > 1 / 2 ,$$ then $$\\sum a_{n}$$ diverges.",
+        "Question": "Let $$a_{n} = \\frac{n^{\\text{ln} n}}{( \\text{ln} n )^{n}} .$$ Show that $$\\frac{a_{2 n}}{a_{n}} \\vec{} 0$$ as $$n \\vec{} \\infty .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

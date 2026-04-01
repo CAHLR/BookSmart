@@ -1,0 +1,249 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "For the functions, $$f ( x ) = 6 x + 1$$ and $$g ( x ) = 8 x - 3 ,$$ find \u24d0 $$( f \\vysmwhtcircle g ) ( x ) ,$$ \u24d1 $$( g \\vysmwhtcircle f ) ( x ) ,$$ and \u24d2 $$( f \\cdotp g ) ( x ) .$$",
+        "Image Links": [],
+        "Answer": "\u24d0 $$48 x - 17$$ \u24d1 $$48 x + 5$$ \u24d2 $$48 x^{2} - 10 x - 3$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Determine if the following set of ordered pairs represents a function and if so, is the function one-to-one. $$\\{ ( -2 , 2 ) , ( -1 , -3 ) , ( 0 , 1 ) , ( 1 , -2 ) , ( 2 , -3 ) \\}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Determine whether each graph is the graph of a function and if so, is it one-to-one. \u24d0 \u24d1",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b82f03c6689ef9bd173e78a6993e2e1ec1a489e3",
+            "https://openstax.org/apps/archive/20240812.170248/resources/7ef1438af150f7b82d045ce0db95552374c1bae4"
+        ],
+        "Answer": "\u24d0 Not a function \u24d1 One-to-one function",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Graph, on the same coordinate system, the inverse of the one-to-one function shown.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/18fe17f891b05145698e1a2d12de3ec75719caf5"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Find the inverse of the function $$f ( x ) = x^{5} - 9 .$$",
+        "Image Links": [],
+        "Answer": "$$f^{-1} ( x ) = \\sqrt[5]{x + 9}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Graph the function $$g ( x ) = 2^{x - 3} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Solve the equation $$2^{2 x - 4} = 64 .$$",
+        "Image Links": [],
+        "Answer": "$$x = 5$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Solve the equation $$\\frac{e^{x^{2}}}{e^{4}} = e^{3 x} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Megan invested $$\\text{$} 21,000$$ in a savings account. If the interest rate is $$5 \\text{%} ,$$ how much will be in the account in 8 years by each method of compounding? \u24d0 compound quarterly \u24d1 compound monthly \u24d2 compound continuously.",
+        "Image Links": [],
+        "Answer": "\u24d0 $$\\text{$} 31,250.74$$ \u24d1 $$\\text{$} 31,302.29$$ \u24d2 $$\\text{$} 31,328.32$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Convert the equation from exponential to logarithmic form: $$10^{-2} = \\frac{1}{100} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Convert the equation from logarithmic equation to exponential form: $$3 = \\text{log}_{7} 343$$",
+        "Image Links": [],
+        "Answer": "$$343 = 7^{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Solve for x : $$\\text{log}_{5} x = -3$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Evaluate $$\\text{log}_{11} 1 .$$",
+        "Image Links": [],
+        "Answer": "0",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Evaluate $$\\text{log}_{4} \\frac{1}{64} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Graph the function $$y = \\text{log}_{3} x .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/88cd293d5e5f6af35effd5e33bb70ababa24509e"
+        ]
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Solve for x : $$\\text{log} ( x^{2} - 39 ) = 1$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "What is the decibel level of a small fan with intensity $$10^{-8}$$ watts per square inch?",
+        "Image Links": [],
+        "Answer": "40 dB",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "",
+        "Question": "Evaluate each. \u24d0 $$6^{\\text{log}_{6} 17}$$ \u24d1 $$\\text{log}_{9} 9^{-3}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use properties of logarithms to write each expression as a sum of logarithms, simplifying if possible.",
+        "Question": "$$\\text{log}_{5} 25 a b$$",
+        "Image Links": [],
+        "Answer": "$$2 + \\text{log}_{5} a + \\text{log}_{5} b$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use properties of logarithms to write each expression as a sum of logarithms, simplifying if possible.",
+        "Question": "$$\\text{ln} \\frac{e^{12}}{8}$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use properties of logarithms to write each expression as a sum of logarithms, simplifying if possible.",
+        "Question": "$$\\text{log}_{2} \\sqrt[4]{\\frac{5 x^{3}}{16 y^{2} z^{7}}}$$",
+        "Image Links": [],
+        "Answer": "$$\\frac{1}{4} ( \\text{log}_{2} 5 + 3 \\text{log}_{2} x - 4 - 2 \\text{log}_{2} y$$ $$- 7 \\text{log}_{2} z )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the Properties of Logarithms to condense the logarithm, simplifying if possible.",
+        "Question": "$$5 \\text{log}_{4} x + 3 \\text{log}_{4} y$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the Properties of Logarithms to condense the logarithm, simplifying if possible.",
+        "Question": "$$\\frac{1}{6} \\text{log} x - 3 \\text{log} ( x + 5 )$$",
+        "Image Links": [],
+        "Answer": "$$\\text{log} \\frac{\\sqrt[6]{x}}{( x + 5 )^{3}}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the Properties of Logarithms to condense the logarithm, simplifying if possible.",
+        "Question": "Rounding to three decimal places, approximate $$\\text{log}_{4} 73 .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, use the Properties of Logarithms to condense the logarithm, simplifying if possible.",
+        "Question": "Solve for x : $$\\text{log}_{7} ( x + 2 ) + \\text{log}_{7} ( x - 3 ) = \\text{log}_{7} 24$$",
+        "Image Links": [],
+        "Answer": "$$x = 6$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places.",
+        "Question": "$$( \\frac{1}{5} )^{x} = 9$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places.",
+        "Question": "$$5 e^{x - 4} = 40$$",
+        "Image Links": [],
+        "Answer": "$$x = \\text{ln} 8 + 4 \\approx 6.079$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places.",
+        "Question": "Jacob invests $14,000 in an account that compounds interest quarterly and earns $$4 \\text{%} .$$ How long will it take for his money to double?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places.",
+        "Question": "Researchers recorded that a certain bacteria population grew from 500 to 700 in 5 hours. At this rate of growth, how many bacteria will there be in 20 hours?",
+        "Image Links": [],
+        "Answer": "1,921 bacteria",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places.",
+        "Question": "A certain beetle population can double in 3 months $$( A = 2 A_{0} ) .$$ How long will it take for that beetle population to triple?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

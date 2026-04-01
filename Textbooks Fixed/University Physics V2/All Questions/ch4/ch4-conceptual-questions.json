@@ -1,0 +1,138 @@
+[
+    {
+        "Topic": "4.1 Reversible and Irreversible Processes",
+        "Problem Statement": "",
+        "Question": "State an example of a process that occurs in nature that is as close to reversible as it can be.",
+        "Image Links": [],
+        "Answer": "Some possible solutions are frictionless movement; restrained compression or expansion; energy transfer as heat due to infinitesimal temperature nonuniformity; electric current flow through a zero resistance; restrained chemical reaction; and mixing of two samples of the same substance at the same state.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.2 Heat Engines",
+        "Problem Statement": "",
+        "Question": "Explain in practical terms why efficiency is defined as $$W \\text{/} Q_{\\text{h}} .$$",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Refrigerators and Heat Pumps",
+        "Problem Statement": "",
+        "Question": "If the refrigerator door is left open, what happens to the temperature of the kitchen?",
+        "Image Links": [],
+        "Answer": "The temperature increases since the heat output behind the refrigerator is greater than the cooling from the inside of the refrigerator.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.3 Refrigerators and Heat Pumps",
+        "Problem Statement": "",
+        "Question": "Is it possible for the efficiency of a reversible engine to be greater than 1.0? Is it possible for the coefficient of performance of a reversible refrigerator to be less than 1.0?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.4 Statements of the Second Law of Thermodynamics",
+        "Problem Statement": "",
+        "Question": "In the text, we showed that if the Clausius statement is false, the Kelvin statement must also be false. Now show the reverse, such that if the Kelvin statement is false, it follows that the Clausius statement is false.",
+        "Image Links": [],
+        "Answer": "If we combine a perfect engine and a real refrigerator with the engine converting heat Q from the hot reservoir into work $$W = Q$$ to drive the refrigerator, then the heat dumped to the hot reservoir by the refrigerator will be $$W + \\text{Delta} Q$$ , resulting in a perfect refrigerator transferring heat $$\\text{Delta} Q$$ from the cold reservoir to hot reservoir without any other effect.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.4 Statements of the Second Law of Thermodynamics",
+        "Problem Statement": "",
+        "Question": "Why don\u2019t we operate ocean liners by extracting heat from the ocean or operate airplanes by extracting heat from the atmosphere?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.4 Statements of the Second Law of Thermodynamics",
+        "Problem Statement": "",
+        "Question": "Discuss the practical advantages and disadvantages of heat pumps and electric heating.",
+        "Image Links": [],
+        "Answer": "Heat pumps can efficiently extract heat from the ground to heat on cooler days or pull heat out of the house on warmer days. The disadvantage of heat pumps are that they are more costly than alternatives, require maintenance, and will not work efficiently when temperature differences between the inside and outside are very large. Electric heating is much cheaper to purchase than a heat pump; however, it may be more costly to run depending on the electric rates and amount of usage.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.4 Statements of the Second Law of Thermodynamics",
+        "Problem Statement": "",
+        "Question": "The energy output of a heat pump is greater than the energy used to operate the pump. Why doesn\u2019t this statement violate the first law of thermodynamics?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.4 Statements of the Second Law of Thermodynamics",
+        "Problem Statement": "",
+        "Question": "Speculate as to why nuclear power plants are less efficient than fossil-fuel plants based on temperature arguments.",
+        "Image Links": [],
+        "Answer": "A nuclear reactor needs to have a lower temperature to operate, so its efficiency will not be as great as a fossil-fuel plant. This argument does not take into consideration the amount of energy per reaction: Nuclear power has a far greater energy output than fossil fuels.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.4 Statements of the Second Law of Thermodynamics",
+        "Problem Statement": "",
+        "Question": "An ideal gas goes from state $$( p_{\\text{i}} , V_{\\text{i}} )$$ to state $$( p_{\\text{f}} , V_{\\text{f}} )$$ when it is allowed to expand freely. Is it possible to represent the actual process on a pV diagram? Explain.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.5 The Carnot Cycle",
+        "Problem Statement": "",
+        "Question": "To increase the efficiency of a Carnot engine, should the temperature of the hot reservoir be raised or lowered? What about the cold reservoir?",
+        "Image Links": [],
+        "Answer": "In order to increase the efficiency, the temperature of the hot reservoir should be raised, and the cold reservoir should be lowered as much as possible. This can be seen in Equation 4.3.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.5 The Carnot Cycle",
+        "Problem Statement": "",
+        "Question": "How could you design a Carnot engine with $$100 \\text{%}$$ efficiency?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.5 The Carnot Cycle",
+        "Problem Statement": "",
+        "Question": "What type of processes occur in a Carnot cycle?",
+        "Image Links": [],
+        "Answer": "adiabatic and isothermal processes",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.6 Entropy",
+        "Problem Statement": "",
+        "Question": "Does the entropy increase for a Carnot engine for each cycle?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.6 Entropy",
+        "Problem Statement": "",
+        "Question": "Is it possible for a system to have an entropy change if it neither absorbs nor emits heat during a reversible transition? What happens if the process is irreversible?",
+        "Image Links": [],
+        "Answer": "Entropy will not change if it is a reversible transition but will change if the process is irreversible.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.7 Entropy on a Microscopic Scale",
+        "Problem Statement": "",
+        "Question": "Are the entropy changes of the systems in the following processes positive or negative? (a) water vapor that condenses on a cold surface; (b) gas in a container that leaks into the surrounding atmosphere; (c) an ice cube that melts in a glass of lukewarm water; (d) the lukewarm water of part (c); (e) a real heat engine performing a cycle; (f) food cooled in a refrigerator.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "4.7 Entropy on a Microscopic Scale",
+        "Problem Statement": "",
+        "Question": "Discuss the entropy changes in the systems of Question 21.10 in terms of disorder.",
+        "Image Links": [],
+        "Answer": "Entropy is a function of disorder, so all the answers apply here as well.",
+        "Answer Image Links": []
+    }
+]

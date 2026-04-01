@@ -1,0 +1,34 @@
+[
+    {
+        "Topic": "Checkpoint 5.23",
+        "Problem Statement": "",
+        "Question": "Evaluate the triple integral $$\\iiint_{B} z \\text{sin} x \\text{cos} y d V$$ where $$B = \\{ ( x , y , z ) | 0 \\le x \\le \\pi , \\frac{3 \\pi}{2} \\le y \\le 2 \\pi , 1 \\le z \\le 3 \\} .$$",
+        "Image Links": [],
+        "Answer": "$$\\iiint_{B} z \\text{sin} x \\text{cos} y d V = 8$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.24",
+        "Problem Statement": "",
+        "Question": "Consider the solid sphere $$E = \\{ ( x , y , z ) | x^{2} + y^{2} + z^{2} \\le 9 \\} .$$ Write the triple integral $$\\iiint_{E} f ( x , y , z ) d V$$ for an arbitrary function $$f$$ as an iterated integral. Then evaluate this triple integral with $$f ( x , y , z ) = 1 .$$ Notice that this gives the volume of a sphere using a triple integral.",
+        "Image Links": [],
+        "Answer": "$$\\iiint_{E} 1 d V = \\int_{x = -3}^{x = 3} \\int_{y = \\text{unicode[:-]} \\sqrt{9 - x^{2}}}^{y = \\sqrt{9 - x^{2}}} \\int_{z = \\text{unicode[:-]} \\sqrt{9 - x^{2} - y^{2}}}^{z = \\sqrt{9 - x^{2} - y^{2}}} 1 d z d y d x = 36 \\pi .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.25",
+        "Problem Statement": "",
+        "Question": "Write five different iterated integrals equal to the given integral $$\\int_{z = 0}^{z = 4} \\int_{y = 0}^{y = 4 - z} \\int_{x = 0}^{x = \\sqrt{y}} f ( x , y , z ) d x d y d z .$$",
+        "Image Links": [],
+        "Answer": "(i) $$\\int_{z = 0}^{z = 4} \\int_{x = 0}^{x = \\sqrt{4 - z}} \\int_{y = x^{2}}^{y = 4 - z} f ( x , y , z ) d y d x d z ,$$ (ii) $$\\int_{y = 0}^{y = 4} \\int_{z = 0}^{z = 4 - y} \\int_{x = 0}^{x = \\sqrt{y}} f ( x , y , z ) d x d z d y ,$$ (iii) $$\\int_{y = 0}^{y = 4} \\int_{x = 0}^{x = \\sqrt{y}} \\int_{z = 0}^{z = 4 - y} f ( x , y , z ) d z d x d y ,$$ (iv) $$\\int_{x = 0}^{x = 2} \\int_{y = x^{2}}^{y = 4} \\int_{z = 0}^{z = 4 - y} f ( x , y , z ) d z d y d x ,$$ (v) $$\\int_{x = 0}^{x = 2} \\int_{z = 0}^{z = 4 - x^{2}} \\int_{y = x^{2}}^{y = 4 - z} f ( x , y , z ) d y d z d x$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "Checkpoint 5.26",
+        "Problem Statement": "",
+        "Question": "Find the average value of the function $$f ( x , y , z ) = x y z$$ over the cube with sides of length $$4$$ units in the first octant with one vertex at the origin and edges parallel to the coordinate axes.",
+        "Image Links": [],
+        "Answer": "$$f_{\\text{ave}} = 8$$",
+        "Answer Image Links": []
+    }
+]

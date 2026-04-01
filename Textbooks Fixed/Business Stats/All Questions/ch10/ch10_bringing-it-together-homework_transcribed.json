@@ -1,0 +1,98 @@
+[
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next ten exercises. indicate which of the following choices best identifies the hypothesis test. a) independent group means, population standard deviations and/or variances known b) independent group means, population standard deviations and/or variances unknown c) matched or paired samples d) single mean e) two proportions f) single proportion",
+        "Question": "A powder diet is tested on 49 people, and a liquid diet is tested on 36 different people. The population standard deviations are two pounds and three pounds, respectively. Of interest is whether the liquid diet yields a higher mean weight loss than the powder diet.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next ten exercises. indicate which of the following choices best identifies the hypothesis test. a) independent group means, population standard deviations and/or variances known b) independent group means, population standard deviations and/or variances unknown c) matched or paired samples d) single mean e) two proportions f) single proportion",
+        "Question": "A new chocolate bar is taste-tested on consumers. Of interest is whether the proportion of children who like the new chocolate bar is greater than the proportion of adults who like it.",
+        "Image Links": [],
+        "Answer": "e",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next ten exercises. indicate which of the following choices best identifies the hypothesis test. a) independent group means, population standard deviations and/or variances known b) independent group means, population standard deviations and/or variances unknown c) matched or paired samples d) single mean e) two proportions f) single proportion",
+        "Question": "The mean number of English courses taken in a two-year time period by men and women college students is believed to be about the same. An experiment is conducted and data are collected from nine men and 16 women.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next ten exercises. indicate which of the following choices best identifies the hypothesis test. a) independent group means, population standard deviations and/or variances known b) independent group means, population standard deviations and/or variances unknown c) matched or paired samples d) single mean e) two proportions f) single proportion",
+        "Question": "A football league reported that the mean number of touchdowns per game was five. A study is done to determine if the mean number of touchdowns has decreased.",
+        "Image Links": [],
+        "Answer": "d",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next ten exercises. indicate which of the following choices best identifies the hypothesis test. a) independent group means, population standard deviations and/or variances known b) independent group means, population standard deviations and/or variances unknown c) matched or paired samples d) single mean e) two proportions f) single proportion",
+        "Question": "A study is done to determine if students in the California state university system take longer to graduate than students enrolled in private universities. One hundred students from both the California state university system and private universities are surveyed. From years of research, it is known that the population standard deviations are 1.5811 years and one year, respectively.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next ten exercises. indicate which of the following choices best identifies the hypothesis test. a) independent group means, population standard deviations and/or variances known b) independent group means, population standard deviations and/or variances unknown c) matched or paired samples d) single mean e) two proportions f) single proportion",
+        "Question": "According to a YWCA Rape Crisis Center newsletter, 75% of rape victims know their attackers. A study is done to verify this.",
+        "Image Links": [],
+        "Answer": "f",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next ten exercises. indicate which of the following choices best identifies the hypothesis test. a) independent group means, population standard deviations and/or variances known b) independent group means, population standard deviations and/or variances unknown c) matched or paired samples d) single mean e) two proportions f) single proportion",
+        "Question": "According to a recent study, U.S. companies have a mean maternity-leave of six weeks.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next ten exercises. indicate which of the following choices best identifies the hypothesis test. a) independent group means, population standard deviations and/or variances known b) independent group means, population standard deviations and/or variances unknown c) matched or paired samples d) single mean e) two proportions f) single proportion",
+        "Question": "A recent drug survey showed an increase in use of drugs and alcohol among local high school students as compared to the national percent. Suppose that a survey of 100 local youths and 100 national youths is conducted to see if the proportion of drug and alcohol use is higher locally than nationally.",
+        "Image Links": [],
+        "Answer": "e",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next ten exercises. indicate which of the following choices best identifies the hypothesis test. a) independent group means, population standard deviations and/or variances known b) independent group means, population standard deviations and/or variances unknown c) matched or paired samples d) single mean e) two proportions f) single proportion",
+        "Question": "A new SAT study course is tested on 12 individuals. Pre-course and post-course scores are recorded. Of interest is the mean increase in SAT scores. The following data are collected: \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|}\n\\hline\nPre-course score & Post-course score \\\\ \\hline\n1 & 300 \\\\ \\hline\n960 & 920 \\\\ \\hline\n1010 & 1100 \\\\ \\hline\n840 & 880 \\\\ \\hline\n1100 & 1070 \\\\ \\hline\n1250 & 1320 \\\\ \\hline\n860 & 860 \\\\ \\hline\n1330 & 1370 \\\\ \\hline\n790 & 770 \\\\ \\hline\n990 & 1040 \\\\ \\hline\n1110 & 1200 \\\\ \\hline\n740 & 850 \\\\ \\hline\n\\end{tabular}\n\\end{table}",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next ten exercises. indicate which of the following choices best identifies the hypothesis test. a) independent group means, population standard deviations and/or variances known b) independent group means, population standard deviations and/or variances unknown c) matched or paired samples d) single mean e) two proportions f) single proportion",
+        "Question": "University of Michigan researchers reported in the Journal of the National Cancer Institute that quitting smoking is especially beneficial for those under age 49. In this American Cancer Society study, the risk (probability) of dying of lung cancer was about the same as for those who had never smoked.",
+        "Image Links": [],
+        "Answer": "f",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next ten exercises. indicate which of the following choices best identifies the hypothesis test. a) independent group means, population standard deviations and/or variances known b) independent group means, population standard deviations and/or variances unknown c) matched or paired samples d) single mean e) two proportions f) single proportion",
+        "Question": "Lesley E. Tan investigated the relationship between left-handedness vs. right-handedness and motor competence in preschool children. Random samples of 41 left-handed preschool children and 41 right-handed preschool children were given several tests of motor skills to determine if there is evidence of a difference between the children based on this experiment. The experiment produced the means and standard deviations shown Table 10.34 . Determine the appropriate test and best distribution to use for that test. \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|}\n\\hline\n & Left-handed & Right-handed \\\\ \\hline\nSample size & 41 & 41 \\\\ \\hline\nSample mean & 97.5 & 98.1 \\\\ \\hline\nSample standard deviation & 17.5 & 19.2 \\\\ \\hline\n\\end{tabular}\n\\end{table} a) Two independent means, normal distribution b) Two independent means, Student\u2019s-t distribution c) Matched or paired samples, Student\u2019s-t distribution d) Two population proportions, normal distribution",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "",
+        "Problem Statement": "Use the following information to answer the next ten exercises. indicate which of the following choices best identifies the hypothesis test. a) independent group means, population standard deviations and/or variances known b) independent group means, population standard deviations and/or variances unknown c) matched or paired samples d) single mean e) two proportions f) single proportion",
+        "Question": "A golf instructor is interested in determining if a new technique for improving players\u2019 golf scores is effective. The instructor takes four (4) new students and records their 18-hole scores before learning the technique and then after having taken the class. The instructor conducts a hypothesis test. The data are as Table 10.35 . \\begin{table}[h]\n\\centering\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\n & Player 1 & Player 2 & Player 3 & Player 4 \\\\ \\hline\nMean score before class & 83 & 78 & 93 & 87 \\\\ \\hline\nMean score after class & 80 & 80 & 86 & 86 \\\\ \\hline\n\\end{tabular}\n\\end{table} This is: a) a test of two independent means. b) a test of two proportions. c) a test of a single mean. d) a test of a single proportion.",
+        "Image Links": [],
+        "Answer": "a",
+        "Answer Image Links": []
+    }
+]

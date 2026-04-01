@@ -1,0 +1,10 @@
+[
+    {
+        "Topic": "Check Your Understanding 4.1",
+        "Problem Statement": "",
+        "Question": "The position function of a particle is $$\\mathbf{\\vec{r}} ( t ) = 3.0 t^{3} \\mathbf{\\hat{i}} + 4.0 \\mathbf{\\hat{j}} .$$ (a) What is the instantaneous velocity at t = 3 s? (b) Is the average velocity between 2 s and 4 s equal to the instantaneous velocity at t = 3 s?",
+        "Image Links": [],
+        "Answer": "(a) Taking the derivative with respect to time of the position function, we have $$\\mathbf{\\vec{v}} ( t ) = 9.0 t^{2} \\mathbf{\\hat{i}} \\text{and} \\mathbf{\\vec{v}} \\text{(3.0s)} = 81.0 \\mathbf{\\hat{i}} \\text{m/s} .$$ (b) Since the velocity function is nonlinear, we suspect the average velocity is not equal to the instantaneous velocity. We check this and find $$\\mathbf{\\vec{v}}_{\\text{avg}} = \\frac{\\mathbf{\\vec{r}} ( t_{2} ) - \\mathbf{\\vec{r}} ( t_{1} )}{t_{2} - t_{1}} = \\frac{\\mathbf{\\vec{r}} ( 4.0 \\text{s} ) - \\mathbf{\\vec{r}} ( 2.0 \\text{s} )}{4.0 \\text{s} - 2.0 \\text{s}} = \\frac{( 194 \\mathbf{\\hat{i}} - 24 \\mathbf{\\hat{i}} ) \\text{m}}{2.0 \\text{s}} = 84 \\mathbf{\\hat{i}} \\text{m/s} ,$$ which is different from $$\\mathbf{\\vec{v}} \\text{(3.0s)} = 81.0 \\mathbf{\\hat{i}} \\text{m/s} .$$",
+        "Answer Image Links": []
+    }
+]

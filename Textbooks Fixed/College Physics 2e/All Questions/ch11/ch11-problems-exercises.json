@@ -1,0 +1,706 @@
+[
+    {
+        "Topic": "11.2 Density",
+        "Problem Statement": "",
+        "Question": "Gold is sold by the troy ounce (31.103 g). What is the volume of 1 troy ounce of pure gold?",
+        "Image Links": [],
+        "Answer": "$$1 \\text{.} \\text{610} \\text{cm}^{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Density",
+        "Problem Statement": "",
+        "Question": "Mercury is commonly supplied in flasks containing 34.5 kg (about 76 lb). What is the volume in liters of this much mercury?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Density",
+        "Problem Statement": "",
+        "Question": "(a) What is the mass of a deep breath of air having a volume of 2.00 L? (b) Discuss the effect taking such a breath has on your body\u2019s volume and density.",
+        "Image Links": [],
+        "Answer": "(a) 2.58 g (b) The volume of your body increases by the volume of air you inhale. The average density of your body decreases when you take a deep breath, because the density of air is substantially smaller than the average density of the body before you took the deep breath.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Density",
+        "Problem Statement": "",
+        "Question": "A straightforward method of finding the density of an object is to measure its mass and then measure its volume by submerging it in a graduated cylinder. What is the density of a 240-g rock that displaces $$\\text{89} \\text{.} 0 \\text{cm}^{3}$$ of water? (Note that the accuracy and practical applications of this technique are more limited than a variety of others that are based on Archimedes\u2019 principle.)",
+        "Image Links": [],
+        "Answer": "$$2 \\text{.} \\text{70} \\text{g/cm}^{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Density",
+        "Problem Statement": "",
+        "Question": "Suppose you have a coffee mug with a circular cross section and vertical sides (uniform radius). What is its inside radius if it holds 375 g of coffee when filled to a depth of 7.50 cm? Assume coffee has the same density as water.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Density",
+        "Problem Statement": "",
+        "Question": "(a) A rectangular gasoline tank can hold 50.0 kg of gasoline when full. What is the depth of the tank if it is 0.500-m wide by 0.900-m long? (b) Discuss whether this gas tank has a reasonable volume for a passenger car.",
+        "Image Links": [],
+        "Answer": "(a) 0.163 m (b) Equivalent to 19.4 gallons, which is reasonable",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Density",
+        "Problem Statement": "",
+        "Question": "A trash compactor can reduce the volume of its contents to 0.350 their original value. Neglecting the mass of air expelled, by what factor is the density of the rubbish increased?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Density",
+        "Problem Statement": "",
+        "Question": "A 2.50-kg steel gasoline can holds 20.0 L of gasoline when full. What is the average density of the full gas can, taking into account the volume occupied by steel as well as by gasoline?",
+        "Image Links": [],
+        "Answer": "$$7 \\text{.} 9 \\times \\text{10}^{2} \\text{kg/m}^{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Density",
+        "Problem Statement": "",
+        "Question": "What is the density of 18.0-karat gold that is a mixture of 18 parts gold, 5 parts silver, and 1 part copper? (These values are parts by mass, not volume.) Assume that this is a simple mixture having an average density equal to the weighted densities of its constituents.",
+        "Image Links": [],
+        "Answer": "$$15.8 \\text{g/cm}^{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.2 Density",
+        "Problem Statement": "",
+        "Question": "There is relatively little empty space between atoms in solids and liquids, so that the average density of an atom is about the same as matter on a macroscopic scale-approximately $$\\text{10}^{3} \\text{kg/m}^{3}$$ . The nucleus of an atom has a radius about $$\\text{10}^{- 5}$$ that of the atom and contains nearly all the mass of the entire atom. (a) What is the approximate density of a nucleus? (b) One remnant of a supernova, called a neutron star, can have the density of a nucleus. What would be the radius of a neutron star with a mass 10 times that of our Sun (the radius of the Sun is $$7 \\times \\text{10}^{8} \\text{m}$$ )?",
+        "Image Links": [],
+        "Answer": "(a) $$\\text{10}^{\\text{18}} \\text{kg/m}^{3}$$ (b) $$2 \\times \\text{10}^{4} \\text{m}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Pressure",
+        "Problem Statement": "",
+        "Question": "As a woman walks, her entire weight is momentarily placed on one heel of her high-heeled shoes. Calculate the pressure exerted on the floor by the heel if it has an area of $$1 \\text{.} \\text{50} \\text{cm}^{2}$$ and the woman\u2019s mass is 55.0 kg. Express the pressure in Pa. (In the early days of commercial flight, women were not allowed to wear high-heeled shoes because aircraft floors were too thin to withstand such large pressures.)",
+        "Image Links": [],
+        "Answer": "$$3.59 \\times \\text{10}^{6} \\text{Pa}$$ ; or $$\\text{521} \\text{lb/in}^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Pressure",
+        "Problem Statement": "",
+        "Question": "The pressure exerted by a phonograph needle on a record is surprisingly large. If the equivalent of 1.00 g is supported by a needle, the tip of which is a circle 0.200 mm in radius, what pressure is exerted on the record in $$\\text{N/m}^{2}$$ ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.3 Pressure",
+        "Problem Statement": "",
+        "Question": "Nail tips exert tremendous pressures when they are hit by hammers because they exert a large force over a small area. What force must be exerted on a nail with a circular tip of 1.00 mm diameter to create a pressure of $$3 \\text{.} \\text{00} \\times \\text{10}^{9} \\text{N/m}^{2} ?$$ (This high pressure is possible because the hammer striking the nail is brought to rest in such a short distance.)",
+        "Image Links": [],
+        "Answer": "$$2.36 \\times \\text{10}^{3} \\text{N}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Variation of Pressure with Depth in a Fluid",
+        "Problem Statement": "",
+        "Question": "What depth of mercury creates a pressure of 1.00 atm?",
+        "Image Links": [],
+        "Answer": "0.760 m",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Variation of Pressure with Depth in a Fluid",
+        "Problem Statement": "",
+        "Question": "The greatest ocean depths on the Earth are found in the Marianas Trench near the Philippines. Calculate the pressure due to the ocean at the bottom of this trench, given its depth is 11.0 km and assuming the density of seawater is constant all the way down.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Variation of Pressure with Depth in a Fluid",
+        "Problem Statement": "",
+        "Question": "Verify that the SI unit of $$h\u03c1g$$ is $$\\text{N/m}^{2}$$ .",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{aaa}( h \\rho g )_{\\text{units}} & = & ( \\text{m} ) ( \\text{kg/m}^{3} ) ( \\text{m/s}^{2} ) = ( \\text{kg} \\cdot \\text{m}^{2} ) / ( \\text{m}^{3} \\cdot \\text{s}^{2} ) \\\\  & = & ( \\text{kg} \\cdot \\text{m/s}^{2} ) ( \\text{1/m}^{2} ) \\\\  & = & \\text{N/m}^{2}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Variation of Pressure with Depth in a Fluid",
+        "Problem Statement": "",
+        "Question": "Water towers store water above the level of consumers for times of heavy use, eliminating the need for high-speed pumps. How high above a user must the water level be to create a gauge pressure of $$3 \\text{.} \\text{00} \\times \\text{10}^{5} \\text{N/m}^{2}$$ ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Variation of Pressure with Depth in a Fluid",
+        "Problem Statement": "",
+        "Question": "The aqueous humor in a person\u2019s eye is exerting a force of 0.300 N on the $$1 \\text{.} \\text{10} \\text{-cm}^{2}$$ area of the cornea. (a) What pressure is this in mm Hg? (b) Is this value within the normal range for pressures in the eye?",
+        "Image Links": [],
+        "Answer": "(a) 20.5 mm Hg (b) The range of pressures in the eye is 12-24 mm Hg, so the result in part (a) is within that range",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Variation of Pressure with Depth in a Fluid",
+        "Problem Statement": "",
+        "Question": "How much force is exerted on one side of an 8.50 cm by 11.0 cm sheet of paper by the atmosphere? How can the paper withstand such a force?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Variation of Pressure with Depth in a Fluid",
+        "Problem Statement": "",
+        "Question": "What pressure is exerted on the bottom of a 0.500-m-wide by 0.900-m-long gas tank that can hold 50.0 kg of gasoline by the weight of the gasoline in it when it is full?",
+        "Image Links": [],
+        "Answer": "$$1 \\text{.} \\text{09} \\times \\text{10}^{3} \\text{N/m}^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Variation of Pressure with Depth in a Fluid",
+        "Problem Statement": "",
+        "Question": "Calculate the average pressure exerted on the palm of a shot-putter\u2019s hand by the shot if the area of contact is $$\\text{50} \\text{.} 0 \\text{cm}^{2}$$ and he exerts a force of 800 N on it. Express the pressure in $$\\text{N/m}^{2}$$ and compare it with the $$1 \\text{.} \\text{00} \\times \\text{10}^{6} \\text{Pa}$$ pressures sometimes encountered in the skeletal system.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Variation of Pressure with Depth in a Fluid",
+        "Problem Statement": "",
+        "Question": "The left side of the heart creates a pressure of 120 mm Hg by exerting a force directly on the blood over an effective area of $$\\text{15} \\text{.} 0 \\text{cm}^{2} .$$ What force does it exert to accomplish this?",
+        "Image Links": [],
+        "Answer": "24.0 N",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.4 Variation of Pressure with Depth in a Fluid",
+        "Problem Statement": "",
+        "Question": "Show that the total force on a rectangular dam due to the water behind it increases with the square of the water depth. In particular, show that this force is given by $$F = \\rho gh^{2} L / 2$$ , where $$\\rho$$ is the density of water, $$h$$ is its depth at the dam, and $$L$$ is the length of the dam. You may assume the face of the dam is vertical. (Hint: Calculate the average pressure exerted and multiply this by the area in contact with the water. (See Figure 11.39.) Figure 11.39",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/dacf6dd663f448c33a6a99ce2dcb527b63d7a711"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.5 Pascal\u2019s Principle",
+        "Problem Statement": "",
+        "Question": "How much pressure is transmitted in the hydraulic system considered in Example 11.6? Express your answer in pascals and in atmospheres.",
+        "Image Links": [],
+        "Answer": "$$2.55 \\times 10^{7} \\text{Pa}$$ ; or 251 atm",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.5 Pascal\u2019s Principle",
+        "Problem Statement": "",
+        "Question": "What force must be exerted on the pedal cylinder of a hydraulic lift to support the weight of a 2000-kg car (a large car) resting on the wheel cylinder? The pedal cylinder has a 2.00-cm diameter and the wheel has a 24.0-cm diameter.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.5 Pascal\u2019s Principle",
+        "Problem Statement": "",
+        "Question": "A crass host pours the remnants of several bottles of wine into a jug after a party. He then inserts a cork with a 2.00-cm diameter into the bottle, placing it in direct contact with the wine. He is amazed when he pounds the cork into place and the bottom of the jug (with a 14.0-cm diameter) breaks away. Calculate the extra force exerted against the bottom if he pounded the cork with a 120-N force.",
+        "Image Links": [],
+        "Answer": "$$5 \\text{.} \\text{76} \\times \\text{10}^{3} \\text{N}$$ extra force",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.5 Pascal\u2019s Principle",
+        "Problem Statement": "",
+        "Question": "A certain hydraulic system is designed to exert a force 100 times as large as the one put into it. (a) What must be the ratio of the area of the wheel cylinder to the area of the pedal cylinder? (b) What must be the ratio of their diameters? (c) By what factor is the distance through which the output force moves reduced relative to the distance through which the input force moves? Assume no losses to friction.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.5 Pascal\u2019s Principle",
+        "Problem Statement": "",
+        "Question": "(a) Verify that work input equals work output for a hydraulic system assuming no losses to friction. Do this by showing that the distance the output force moves is reduced by the same factor that the output force is increased. Assume the volume of the fluid is constant. (b) What effect would friction within the fluid and between components in the system have on the output force? How would this depend on whether or not the fluid is moving?",
+        "Image Links": [],
+        "Answer": "(a) $$V = d_{\\text{i}} A_{\\text{i}} = d_{\\text{o}} A_{\\text{o}} \\Rightarrow d_{\\text{o}} = d_{\\text{i}} ( \\frac{A_{\\text{i}}}{A_{\\text{o}}} ) \\text{.}$$ Now, using equation: $$\\frac{F_{1}}{A_{1}} = \\frac{F_{2}}{A_{2}} \\Rightarrow F_{\\text{o}} = F_{\\text{i}} ( \\frac{A_{\\text{o}}}{A_{\\text{i}}} ) \\text{.}$$ Finally, $$W_{\\text{o}} = F_{\\text{o}} d_{\\text{o}} = ( \\frac{F_{\\text{i}} A_{\\text{o}}}{A_{\\text{i}}} ) ( \\frac{d_{\\text{i}} A_{\\text{i}}}{A_{\\text{o}}} ) = F_{\\text{i}} d_{\\text{i}} = W_{\\text{i}}  .$$ In other words, the work output equals the work input. (b) If the system is not moving, friction would not play a role. With friction, we know there are losses, so that $$W_{\\text{out}} = W_{\\text{in}} - W_{\\text{f}}$$ ; therefore, the work output is less than the work input. In other words, with friction, you need to push harder on the input piston than was calculated for the nonfriction case.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.6 Gauge Pressure, Absolute Pressure, and Pressure Measurement",
+        "Problem Statement": "",
+        "Question": "Find the gauge and absolute pressures in the balloon and peanut jar shown in Figure 11.14, assuming the manometer connected to the balloon uses water whereas the manometer connected to the jar contains mercury. Express in units of centimeters of water for the balloon and millimeters of mercury for the jar, taking $$h = 0 \\text{.} \\text{0500 m}$$ for each.",
+        "Image Links": [],
+        "Answer": "Balloon: $$\\left .\\begin{matrix}{aaa}P_{\\text{g}} & = & 5.00 cm \\text{ H}_{2} \\text{O,} \\\\ P_{\\text{abs}} & = & 1.035 \\times \\text{10}^{3} \\text{cm} \\text{H}_{2} \\text{O.}\\end{matrix}\\right .$$ Jar: $$\\left .\\begin{matrix}{aaa}P_{\\text{g}} & = & - \\text{50.0 mm Hg} \\text{,} \\\\ P_{\\text{abs}} & = & \\text{710 mm Hg.}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.6 Gauge Pressure, Absolute Pressure, and Pressure Measurement",
+        "Problem Statement": "",
+        "Question": "(a) Convert normal blood pressure readings of 120 over 80 mm Hg to newtons per meter squared using the relationship for pressure due to the weight of a fluid $$( P = h\u03c1g )$$ rather than a conversion factor. (b) Discuss why blood pressures for an infant could be smaller than those for an adult. Specifically, consider the smaller height to which blood must be pumped.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.6 Gauge Pressure, Absolute Pressure, and Pressure Measurement",
+        "Problem Statement": "",
+        "Question": "How tall must a water-filled manometer be to measure blood pressures as high as 300 mm Hg?",
+        "Image Links": [],
+        "Answer": "4.08 m",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.6 Gauge Pressure, Absolute Pressure, and Pressure Measurement",
+        "Problem Statement": "",
+        "Question": "Pressure cookers have been around for more than 300 years, although their use has strongly declined in recent years (early models had a nasty habit of exploding). How much force must the latches holding the lid onto a pressure cooker be able to withstand if the circular lid is $$\\text{25.0 cm}$$ in diameter and the gauge pressure inside is 300 atm? Neglect the weight of the lid.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.6 Gauge Pressure, Absolute Pressure, and Pressure Measurement",
+        "Problem Statement": "",
+        "Question": "Suppose you measure a standing person\u2019s blood pressure by placing the cuff on his leg 0.500 m below the heart. Calculate the pressure you would observe (in units of mm Hg) if the pressure at the heart were 120 over 80 mm Hg. Assume that there is no loss of pressure due to resistance in the circulatory system (a reasonable assumption, since major arteries are large).",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{a}\u0394 P = \\text{38.7 mm Hg,} \\\\ \\text{Leg blood pressure} = \\frac{\\text{159}}{\\text{119}} \\text{.}\\end{matrix}\\right .$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.6 Gauge Pressure, Absolute Pressure, and Pressure Measurement",
+        "Problem Statement": "",
+        "Question": "A submarine is stranded on the bottom of the ocean with its hatch 25.0 m below the surface. Calculate the force needed to open the hatch from the inside, given it is circular and 0.450 m in diameter. Air pressure inside the submarine is 1.00 atm.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.6 Gauge Pressure, Absolute Pressure, and Pressure Measurement",
+        "Problem Statement": "",
+        "Question": "Assuming bicycle tires are perfectly flexible and support the weight of bicycle and rider by pressure alone, calculate the total area of the tires in contact with the ground. The bicycle plus rider has a mass of 80.0 kg, and the gauge pressure in the tires is $$3 \\text{.} \\text{50} \\times \\text{10}^{5} \\text{Pa}$$ .",
+        "Image Links": [],
+        "Answer": "$$\\text{22} \\text{.} 4 \\text{cm}^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.7 Archimedes\u2019 Principle",
+        "Problem Statement": "",
+        "Question": "What fraction of ice is submerged when it floats in freshwater, given the density of water at 0\u00b0C is very close to $$\\text{1000 kg} \\text{/m}^{3}$$ ?",
+        "Image Links": [],
+        "Answer": "$$\\text{91} \\text{.} 7% \\text{}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.7 Archimedes\u2019 Principle",
+        "Problem Statement": "",
+        "Question": "Logs sometimes float vertically in a lake because one end has become water-logged and denser than the other. What is the average density of a uniform-diameter log that floats with $$20.0%$$ of its length above water?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.7 Archimedes\u2019 Principle",
+        "Problem Statement": "",
+        "Question": "Find the density of a fluid in which a hydrometer having a density of $$0 \\text{.} \\text{750 g} \\text{/mL}$$ floats with $$\\text{92.0%}$$ of its volume submerged.",
+        "Image Links": [],
+        "Answer": "$$\\text{815 kg} \\text{/m}^{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.7 Archimedes\u2019 Principle",
+        "Problem Statement": "",
+        "Question": "If your body has a density of $$\\text{995 kg} \\text{/m}^{3}$$ , what fraction of you will be submerged when floating gently in: (a) freshwater? (b) salt water, which has a density of $$\\text{1027 kg} \\text{/m}^{3}$$ ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.7 Archimedes\u2019 Principle",
+        "Problem Statement": "",
+        "Question": "Bird bones have air pockets in them to reduce their weight-this also gives them an average density significantly less than that of the bones of other animals. Suppose an ornithologist weighs a bird bone in air and in water and finds its mass is $$\\text{45.0 g}$$ and its apparent mass when submerged is $$3.60 g$$ (the bone is watertight). (a) What mass of water is displaced? (b) What is the volume of the bone? (c) What is its average density?",
+        "Image Links": [],
+        "Answer": "(a) 41.4 g (b) $$\\text{41} \\text{.} 4 \\text{cm}^{3}$$ (c) $$1 \\text{.} \\text{09 g} \\text{/cm}^{3}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.7 Archimedes\u2019 Principle",
+        "Problem Statement": "",
+        "Question": "A rock with a mass of 540 g in air is found to have an apparent mass of 342 g when submerged in water. (a) What mass of water is displaced? (b) What is the volume of the rock? (c) What is its average density? Is this consistent with the value for granite?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.7 Archimedes\u2019 Principle",
+        "Problem Statement": "",
+        "Question": "Archimedes\u2019 principle can be used to calculate the density of a fluid as well as that of a solid. Suppose a chunk of iron with a mass of 390.0 g in air is found to have an apparent mass of 350.5 g when completely submerged in an unknown liquid. (a) What mass of fluid does the iron displace? (b) What is the volume of iron, using its density as given in Table 11.1 (c) Calculate the fluid\u2019s density and identify it.",
+        "Image Links": [],
+        "Answer": "(a) 39.5 g (b) $$\\text{50} \\text{cm}^{3}$$ (c) $$0 \\text{.} \\text{79} \\text{g/cm}^{3}$$ It is ethyl alcohol.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.7 Archimedes\u2019 Principle",
+        "Problem Statement": "",
+        "Question": "In an immersion measurement of a woman\u2019s density, she is found to have a mass of 62.0 kg in air and an apparent mass of 0.0850 kg when completely submerged with lungs empty. (a) What mass of water does she displace? (b) What is her volume? (c) Calculate her density. (d) If her lung capacity is 1.75 L, is she able to float without treading water with her lungs filled with air?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.7 Archimedes\u2019 Principle",
+        "Problem Statement": "",
+        "Question": "Some fish have a density slightly less than that of water and must exert a force (swim) to stay submerged. What force must an 85.0-kg grouper exert to stay submerged in salt water if its body density is $$\\text{1015} \\text{kg/m}^{3}$$ ?",
+        "Image Links": [],
+        "Answer": "8.21 N",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.7 Archimedes\u2019 Principle",
+        "Problem Statement": "",
+        "Question": "(a) Calculate the buoyant force on a 2.00-L helium balloon. (b) Given the mass of the rubber in the balloon is 1.50 g, what is the net vertical force on the balloon if it is let go? You can neglect the volume of the rubber.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.7 Archimedes\u2019 Principle",
+        "Problem Statement": "",
+        "Question": "(a) What is the density of a woman who floats in freshwater with $$4.00%$$ of her volume above the surface? This could be measured by placing her in a tank with marks on the side to measure how much water she displaces when floating and when held under water (briefly). (b) What percent of her volume is above the surface when she floats in seawater?",
+        "Image Links": [],
+        "Answer": "(a) $$\\text{960} \\text{kg/m}^{3}$$ (b) $$6.34%$$ She indeed floats more in seawater.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.7 Archimedes\u2019 Principle",
+        "Problem Statement": "",
+        "Question": "A certain man has a mass of 80 kg and a density of $$\\text{955} \\text{kg/m}^{3}$$ (excluding the air in his lungs). (a) Calculate his volume. (b) Find the buoyant force air exerts on him. (c) What is the ratio of the buoyant force to his weight?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.7 Archimedes\u2019 Principle",
+        "Problem Statement": "",
+        "Question": "A simple compass can be made by placing a small bar magnet on a cork floating in water. (a) What fraction of a plain cork will be submerged when floating in water? (b) If the cork has a mass of 10.0 g and a 20.0-g magnet is placed on it, what fraction of the cork will be submerged? (c) Will the bar magnet and cork float in ethyl alcohol?",
+        "Image Links": [],
+        "Answer": "(a) $$0 \\text{.} \\text{24}$$ (b) $$0 \\text{.} \\text{68}$$ (c) Yes, the cork will float because $$\\rho_{\\text{obj}} < \\rho_{\\text{ethyl alcohol}} ( 0 \\text{.} \\text{678} \\text{g/cm}^{3} < 0 \\text{.} \\text{79} \\text{g/cm}^{3} )$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.7 Archimedes\u2019 Principle",
+        "Problem Statement": "",
+        "Question": "What fraction of an iron anchor\u2019s weight will be supported by buoyant force when submerged in saltwater?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.7 Archimedes\u2019 Principle",
+        "Problem Statement": "",
+        "Question": "Scurrilous con artists have been known to represent gold-plated tungsten ingots as pure gold and sell them at prices much below gold value but deservedly far above the cost of tungsten. With what accuracy must you be able to measure the mass of such an ingot in and out of water to tell that it is almost pure tungsten rather than pure gold?",
+        "Image Links": [],
+        "Answer": "The difference is $$0.006%.$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.7 Archimedes\u2019 Principle",
+        "Problem Statement": "",
+        "Question": "A twin-sized air mattress used for camping has dimensions of 100 cm by 200 cm by 15 cm when blown up. The weight of the mattress is 2 kg. How heavy a person could the air mattress hold if it is placed in freshwater?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.7 Archimedes\u2019 Principle",
+        "Problem Statement": "",
+        "Question": "Referring to Figure 11.19, prove that the buoyant force on the cylinder is equal to the weight of the fluid displaced (Archimedes\u2019 principle). You may assume that the buoyant force is $$F_{2} - F_{1}$$ and that the ends of the cylinder have equal areas $$A$$ . Note that the volume of the cylinder (and that of the fluid it displaces) equals $$( h_{2} - h_{1} ) A$$ .",
+        "Image Links": [],
+        "Answer": "$$F_{\\text{net}} = F_{2} - F_{1} = P_{2} A - P_{1} A = ( P_{2} - P_{1} ) A$$ $$= ( h_{2} \\rho_{\\text{fl}} g - h_{1} \\rho_{\\text{fl}} g ) A$$ $$= ( h_{2} - h_{1} ) \\rho_{\\text{fl}} \\text{gA}$$ where $$\\rho_{\\text{fl}}$$ = density of fluid. Therefore, $$F_{\\text{net}} = ( h_{2} - h_{1} ) A\u03c1_{\\text{fl}} g = V_{\\text{fl}} \\rho_{\\text{fl}} g = m_{\\text{fl}} g = w_{\\text{fl}}$$ where is $$w_{\\text{fl}}$$ the weight of the fluid displaced.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.7 Archimedes\u2019 Principle",
+        "Problem Statement": "",
+        "Question": "(a) A 75.0-kg man floats in freshwater with $$3.00%$$ of his volume above water when his lungs are empty, and $$5.00%$$ of his volume above water when his lungs are full. Calculate the volume of air he inhales-called his lung capacity-in liters. (b) Does this lung volume seem reasonable?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.8 Cohesion and Adhesion in Liquids: Surface Tension and Capillary Action",
+        "Problem Statement": "",
+        "Question": "What is the pressure inside an alveolus having a radius of $$2 \\text{.} \\text{50} \\times \\text{10}^{- 4} \\text{m}$$ if the surface tension of the fluid-lined wall is the same as for soapy water? You may assume the pressure is the same as that created by a spherical bubble.",
+        "Image Links": [],
+        "Answer": "$$\\text{592} \\text{N/m}^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.8 Cohesion and Adhesion in Liquids: Surface Tension and Capillary Action",
+        "Problem Statement": "",
+        "Question": "(a) The pressure inside an alveolus with a $$2 \\text{.} \\text{00} \\times \\text{10}^{- 4}$$ -m radius is $$1 \\text{.} \\text{40} \\times \\text{10}^{3} \\text{Pa}$$ , due to its fluid-lined walls. Assuming the alveolus acts like a spherical bubble, what is the surface tension of the fluid? (b) Identify the likely fluid. (You may need to extrapolate between values in Table 11.3.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.8 Cohesion and Adhesion in Liquids: Surface Tension and Capillary Action",
+        "Problem Statement": "",
+        "Question": "What is the gauge pressure in millimeters of mercury inside a soap bubble 0.100 m in diameter?",
+        "Image Links": [],
+        "Answer": "$$2 \\text{.} \\text{23} \\times \\text{10}^{- 2} \\text{mm Hg}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.8 Cohesion and Adhesion in Liquids: Surface Tension and Capillary Action",
+        "Problem Statement": "",
+        "Question": "Calculate the force on the slide wire in Figure 11.26 if it is 3.50 cm long and the fluid is ethyl alcohol.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.8 Cohesion and Adhesion in Liquids: Surface Tension and Capillary Action",
+        "Problem Statement": "",
+        "Question": "Figure 11.32(a) shows the effect of tube radius on the height to which capillary action can raise a fluid. (a) Calculate the height $$h$$ for water in a glass tube with a radius of 0.900 cm-a rather large tube like the one on the left. (b) What is the radius of the glass tube on the right if it raises water to 4.00 cm?",
+        "Image Links": [],
+        "Answer": "(a) $$1 \\text{.} \\text{65} \\times \\text{10}^{- 3} \\text{m}$$ (b) $$3 \\text{.} \\text{71} \\times \\text{10}^{-4} \\text{m}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.8 Cohesion and Adhesion in Liquids: Surface Tension and Capillary Action",
+        "Problem Statement": "",
+        "Question": "We stated in Example 11.12 that a xylem tube is of radius $$2 \\text{.} \\text{50} \\times \\text{10}^{- 5} \\text{m}$$ . Verify that such a tube raises sap less than a meter by finding $$h$$ for it, making the same assumptions that sap\u2019s density is $$\\text{1050} \\text{kg/m}^{3}$$ , its contact angle is zero, and its surface tension is the same as that of water at $$20.0\u00ba C$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.8 Cohesion and Adhesion in Liquids: Surface Tension and Capillary Action",
+        "Problem Statement": "",
+        "Question": "What fluid is in the device shown in Figure 11.26 if the force is $$3 \\text{.} \\text{16} \\times \\text{10}^{- 3} \\text{N}$$ and the length of the wire is 2.50 cm? Calculate the surface tension $$\\gamma$$ and find a likely match from Table 11.3.",
+        "Image Links": [],
+        "Answer": "$$6 \\text{.} \\text{32} \\times \\text{10}^{- 2} \\text{N/m}$$ Based on the values in table, the fluid is probably glycerin.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.8 Cohesion and Adhesion in Liquids: Surface Tension and Capillary Action",
+        "Problem Statement": "",
+        "Question": "If the gauge pressure inside a rubber balloon with a 10.0-cm radius is 1.50 cm of water, what is the effective surface tension of the balloon?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.8 Cohesion and Adhesion in Liquids: Surface Tension and Capillary Action",
+        "Problem Statement": "",
+        "Question": "Calculate the gauge pressures inside 2.00-cm-radius bubbles of water, alcohol, and soapy water. Which liquid forms the most stable bubbles, neglecting any effects of evaporation?",
+        "Image Links": [],
+        "Answer": "$$\\left .\\begin{matrix}{aaa}P_{\\text{w}} & = & \\text{14} \\text{.} 6 \\text{N/m}^{2} , \\\\ P_{\\text{a}} & = & \\text{4.46} \\text{N/m}^{2} , \\\\ P_{\\text{sw}} & = & \\text{7.40} \\text{N/m}^{2} \\text{.}\\end{matrix}\\right .$$ Alcohol forms the most stable bubble, since the absolute pressure inside is closest to atmospheric pressure.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.8 Cohesion and Adhesion in Liquids: Surface Tension and Capillary Action",
+        "Problem Statement": "",
+        "Question": "Suppose water is raised by capillary action to a height of 5.00 cm in a glass tube. (a) To what height will it be raised in a paraffin tube of the same radius? (b) In a silver tube of the same radius?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.8 Cohesion and Adhesion in Liquids: Surface Tension and Capillary Action",
+        "Problem Statement": "",
+        "Question": "Calculate the contact angle $$\\theta$$ for olive oil if capillary action raises it to a height of 7.07 cm in a glass tube with a radius of 0.100 mm. Is this value consistent with that for most organic liquids?",
+        "Image Links": [],
+        "Answer": "$$5.1\u00ba$$ This is near the value of $$\\theta = 0\u00ba$$ for most organic liquids.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.8 Cohesion and Adhesion in Liquids: Surface Tension and Capillary Action",
+        "Problem Statement": "",
+        "Question": "When two soap bubbles touch, the larger is inflated by the smaller until they form a single bubble. (a) What is the gauge pressure inside a soap bubble with a 1.50-cm radius? (b) Inside a 4.00-cm-radius soap bubble? (c) Inside the single bubble they form if no air is lost when they touch?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.8 Cohesion and Adhesion in Liquids: Surface Tension and Capillary Action",
+        "Problem Statement": "",
+        "Question": "Calculate the ratio of the heights to which water and mercury are raised by capillary action in the same glass tube.",
+        "Image Links": [],
+        "Answer": "$$- 2 \\text{.} \\text{78}$$ The ratio is negative because water is raised whereas mercury is lowered.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.8 Cohesion and Adhesion in Liquids: Surface Tension and Capillary Action",
+        "Problem Statement": "",
+        "Question": "What is the ratio of heights to which ethyl alcohol and water are raised by capillary action in the same glass tube?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.9 Pressures in the Body",
+        "Problem Statement": "",
+        "Question": "During forced exhalation, such as when blowing up a balloon, the diaphragm and chest muscles create a pressure of 60.0 mm Hg between the lungs and chest wall. What force in newtons does this pressure create on the $$\\text{600} \\text{cm}^{2}$$ surface area of the diaphragm?",
+        "Image Links": [],
+        "Answer": "479 N",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.9 Pressures in the Body",
+        "Problem Statement": "",
+        "Question": "You can chew through very tough objects with your incisors because they exert a large force on the small area of a pointed tooth. What pressure in pascals can you create by exerting a force of $$\\text{500 N}$$ with your tooth on an area of $$1.00 \\text{mm}^{2}$$ ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.9 Pressures in the Body",
+        "Problem Statement": "",
+        "Question": "One way to force air into an unconscious person\u2019s lungs is to squeeze on a balloon appropriately connected to the subject. What force must you exert on the balloon with your hands to create a gauge pressure of 4.00 cm water, assuming you squeeze on an effective area of $$\\text{50} \\text{.} 0 \\text{cm}^{2}$$ ?",
+        "Image Links": [],
+        "Answer": "1.96 N",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.9 Pressures in the Body",
+        "Problem Statement": "",
+        "Question": "Heroes in movies hide beneath water and breathe through a hollow reed (villains never catch on to this trick). In practice, you cannot inhale in this manner if your lungs are more than 60.0 cm below the surface. What is the maximum negative gauge pressure you can create in your lungs on dry land, assuming you can achieve $$- 3.00 cm$$ water pressure with your lungs 60.0 cm below the surface?",
+        "Image Links": [],
+        "Answer": "$$- \\text{63.0 cm} \\text{H}_{2} \\text{O}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.9 Pressures in the Body",
+        "Problem Statement": "",
+        "Question": "Gauge pressure in the fluid surrounding an infant\u2019s brain may rise as high as 85.0 mm Hg (5 to 12 mm Hg is normal), creating an outward force large enough to make the skull grow abnormally large. (a) Calculate this outward force in newtons on each side of an infant\u2019s skull if the effective area of each side is $$\\text{70} \\text{.} 0 \\text{cm}^{2}$$ . (b) What is the net force acting on the skull?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.9 Pressures in the Body",
+        "Problem Statement": "",
+        "Question": "A full-term fetus typically has a mass of 3.50 kg. (a) What pressure does the weight of such a fetus create if it rests on the mother\u2019s bladder, supported on an area of $$\\text{90} \\text{.} 0 \\text{cm}^{2}$$ ? (b) Convert this pressure to millimeters of mercury and determine if it alone is great enough to trigger the micturition reflex (it will add to any pressure already existing in the bladder).",
+        "Image Links": [],
+        "Answer": "(a) $$3 \\text{.} \\text{81} \\times \\text{10}^{3} \\text{N/m}^{2}$$ (b) $$\\text{28.7 mm Hg}$$ , which is sufficient to trigger micturition reflex",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.9 Pressures in the Body",
+        "Problem Statement": "",
+        "Question": "If the pressure in the esophagus is $$- 2.00 mm Hg$$ while that in the stomach is $$+ \\text{20.0 mm Hg}$$ , to what height could stomach fluid rise in the esophagus, assuming a density of 1.10 g/mL? (This movement will not occur if the muscle closing the lower end of the esophagus is working properly.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.9 Pressures in the Body",
+        "Problem Statement": "",
+        "Question": "Pressure in the spinal fluid is measured as shown in Figure 11.40. If the pressure in the spinal fluid is 10.0 mm Hg: (a) What is the reading of the water manometer in cm water? (b) What is the reading if the person sits up, placing the top of the fluid 60 cm above the tap? The fluid density is 1.05 g/mL. Figure 11.40 A water manometer used to measure pressure in the spinal fluid. The height of the fluid in the manometer is measured relative to the spinal column, and the manometer is open to the atmosphere. The measured pressure will be considerably greater if the person sits up.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/b4eab147f1a6c6fb1d412f56025ca238ecaa77a7"
+        ],
+        "Answer": "(a) 13.6 m water (b) 76.5 cm water",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.9 Pressures in the Body",
+        "Problem Statement": "",
+        "Question": "Calculate the maximum force in newtons exerted by the blood on an aneurysm, or ballooning, in a major artery, given the maximum blood pressure for this person is 150 mm Hg and the effective area of the aneurysm is $$\\text{20} \\text{.} 0 \\text{cm}^{2}$$ . Note that this force is great enough to cause further enlargement and subsequently greater force on the ever-thinner vessel wall.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.9 Pressures in the Body",
+        "Problem Statement": "",
+        "Question": "During heavy lifting, a disk between spinal vertebrae is subjected to a 5000-N compressional force. (a) What pressure is created, assuming that the disk has a uniform circular cross section 2.00 cm in radius? (b) What deformation is produced if the disk is 0.800 cm thick and has a Young\u2019s modulus of $$1 \\text{.} 5 \\times \\text{10}^{9} \\text{N/m}^{2}$$ ?",
+        "Image Links": [],
+        "Answer": "(a) $$3 \\text{.} \\text{98} \\times \\text{10}^{6} \\text{Pa}$$ (b) $$2 \\text{.} 1 \\times \\text{10}^{- 3} \\text{cm}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.9 Pressures in the Body",
+        "Problem Statement": "",
+        "Question": "When a person sits erect, increasing the vertical position of their brain by 36.0 cm, the heart must continue to pump blood to the brain at the same rate. (a) What is the gain in gravitational potential energy for 100 mL of blood raised 36.0 cm? (b) What is the drop in pressure, neglecting any losses due to friction? (c) Discuss how the gain in gravitational potential energy and the decrease in pressure are related.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.9 Pressures in the Body",
+        "Problem Statement": "",
+        "Question": "(a) How high will water rise in a glass capillary tube with a 0.500-mm radius? (b) How much gravitational potential energy does the water gain? (c) Discuss possible sources of this energy.",
+        "Image Links": [],
+        "Answer": "(a) 2.97 cm (b) $$3 \\text{.} \\text{39} \\times \\text{10}^{- 6} \\text{J}$$ (c) Work is done by the surface tension force through an effective distance $$h / 2$$ to raise the column of water.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.9 Pressures in the Body",
+        "Problem Statement": "",
+        "Question": "A negative pressure of 25.0 atm can sometimes be achieved with the device in Figure 11.41 before the water separates. (a) To what height could such a negative gauge pressure raise water? (b) How much would a steel wire of the same diameter and length as this capillary stretch if suspended from above? Figure 11.41 (a) When the piston is raised, it stretches the liquid slightly, putting it under tension and creating a negative absolute pressure $$P = - F / A$$ (b) The liquid eventually separates, giving an experimental limit to negative pressure in this liquid.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/31068032a32ca5e1601e2e5b01a5555d06b61751"
+        ],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.9 Pressures in the Body",
+        "Problem Statement": "",
+        "Question": "Suppose you hit a steel nail with a 0.500-kg hammer, initially moving at $$\\text{15.0 m/s}$$ and brought to rest in 2.80 mm. (a) What average force is exerted on the nail? (b) How much is the nail compressed if it is 2.50 mm in diameter and 6.00-cm long? (c) What pressure is created on the 1.00-mm-diameter tip of the nail?",
+        "Image Links": [],
+        "Answer": "(a) $$2 \\text{.} \\text{01} \\times \\text{10}^{4} \\text{N}$$ (b) $$1 \\text{.} \\text{17} \\times \\text{10}^{- 3} \\text{m}$$ (c) $$2 \\text{.} \\text{56} \\times \\text{10}^{10} \\text{N/m}^{2}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.9 Pressures in the Body",
+        "Problem Statement": "",
+        "Question": "Calculate the pressure due to the ocean at the bottom of the Marianas Trench near the Philippines, given its depth is $$\\text{11.0 km}$$ and assuming the density of sea water is constant all the way down. (b) Calculate the percent decrease in volume of sea water due to such a pressure, assuming its bulk modulus is the same as water and is constant. (c) What would be the percent increase in its density? Is the assumption of constant density valid? Will the actual pressure be greater or smaller than that calculated under this assumption?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.9 Pressures in the Body",
+        "Problem Statement": "",
+        "Question": "The hydraulic system of a backhoe is used to lift a load as shown in Figure 11.42. (a) Calculate the force $$F$$ the secondary cylinder must exert to support the 400-kg load and the 150-kg brace and shovel. (b) What is the pressure in the hydraulic fluid if the secondary cylinder is 2.50 cm in diameter? (c) What force would you have to exert on a lever with a mechanical advantage of 5.00 acting on a primary cylinder 0.800 cm in diameter to create this pressure? Figure 11.42 Hydraulic and mechanical lever systems are used in heavy machinery such as this back hoe.",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/4a716539593e2f354993859ed12924650867b39c"
+        ],
+        "Answer": "(a) $$1 \\text{.} \\text{38} \\times \\text{10}^{4} \\text{N}$$ (b) $$2 \\text{.} \\text{81} \\times \\text{10}^{7} \\text{N/} \\text{m}^{2}$$ (c) 283 N",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.9 Pressures in the Body",
+        "Problem Statement": "",
+        "Question": "Some miners wish to remove water from a mine shaft. A pipe is lowered to the water 90 m below, and a negative pressure is applied to raise the water. (a) Calculate the pressure needed to raise the water. (b) What is unreasonable about this pressure? (c) What is unreasonable about the premise?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.9 Pressures in the Body",
+        "Problem Statement": "",
+        "Question": "You are pumping up a bicycle tire with a hand pump, the piston of which has a 2.00-cm radius. (a) What force in newtons must you exert to create a pressure of $$6 \\text{.} \\text{90} \\times \\text{10}^{5} \\text{Pa}$$ (b) What is unreasonable about this (a) result? (c) Which premises are unreasonable or inconsistent?",
+        "Image Links": [],
+        "Answer": "(a) 867 N (b) This is too much force to exert with a hand pump. (c) The assumed radius of the pump is too large; it would be nearly two inches in diameter-too large for a pump or even a master cylinder. The pressure is reasonable for bicycle tires.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.9 Pressures in the Body",
+        "Problem Statement": "",
+        "Question": "Consider a group of people trying to stay afloat after their boat strikes a log in a lake. Construct a problem in which you calculate the number of people that can cling to the log and keep their heads out of the water. Among the variables to be considered are the size and density of the log, and what is needed to keep a person\u2019s head and arms above water without swimming or treading water.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "11.9 Pressures in the Body",
+        "Problem Statement": "",
+        "Question": "The alveoli in emphysema victims are damaged and effectively form larger sacs. Construct a problem in which you calculate the loss of pressure due to surface tension in the alveoli because of their larger average diameters. (Part of the lung\u2019s ability to expel air results from pressure created by surface tension in the alveoli.) Among the things to consider are the normal surface tension of the fluid lining the alveoli, the average alveolar radius in normal individuals and its average in emphysema sufferers.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]

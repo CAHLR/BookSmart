@@ -1,0 +1,516 @@
+[
+    {
+        "Topic": "15.1 The First Law of Thermodynamics",
+        "Problem Statement": "",
+        "Question": "What is the change in internal energy of a car if you put 12.0 gal of gasoline into its tank? The energy content of gasoline is $$\n1\n          \\text{\n.\n         } \n3\n           \n\u00d7\n           \\text{\n10\n           }^{\n8\n               } \\text{\nJ/gal\n         }$$ . All other factors, such as the car\u2019s temperature, are constant.",
+        "Image Links": [],
+        "Answer": "$$1 \\text{.} 6 \\times \\text{10}^{9} \\text{ J}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 The First Law of Thermodynamics",
+        "Problem Statement": "",
+        "Question": "How much heat transfer occurs from a system, if its internal energy decreased by 150 J while it was doing 30.0 J of work?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 The First Law of Thermodynamics",
+        "Problem Statement": "",
+        "Question": "A system does $$1 \\text{.} \\text{80} \\times \\text{10}^{8} \\text{ J}$$ of work while $$7 \\text{.} \\text{50} \\times \\text{10}^{8} \\text{ J}$$ of heat transfer occurs to the environment. What is the change in internal energy of the system assuming no other changes (such as in temperature or by the addition of fuel)?",
+        "Image Links": [],
+        "Answer": "$$- 9 \\text{.} \\text{30} \\times \\text{10}^{8} \\text{ J}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 The First Law of Thermodynamics",
+        "Problem Statement": "",
+        "Question": "What is the change in internal energy of a system which does $$4 \\text{.} \\text{50} \\times \\text{10}^{5} \\text{ J}$$ of work while $$3 \\text{.} \\text{00} \\times \\text{10}^{6} \\text{ J}$$ of heat transfer occurs into the system, and $$8 \\text{.} \\text{00} \\times \\text{10}^{6} \\text{ J}$$ of heat transfer occurs to the environment?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 The First Law of Thermodynamics",
+        "Problem Statement": "",
+        "Question": "Suppose a woman does 500 J of work and 9500 J of heat transfer occurs into the environment in the process. (a) What is the decrease in her internal energy, assuming no change in temperature or consumption of food? (That is, there is no other energy transfer.) (b) What is her efficiency?",
+        "Image Links": [],
+        "Answer": "(a) $$\n-\n           \n1\n           \\text{\n.\n         } \n0\n           \n\u00d7\n           \\text{\n10\n           }^{\n4\n               } \\text{J}$$ , or $$\n-\n           2 \\text{\n.\n         } \\text{\n39 kcal\n         }$$ (b) 5.00%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 The First Law of Thermodynamics",
+        "Problem Statement": "",
+        "Question": "(a) How much food energy will a man metabolize in the process of doing 35.0 kJ of work with an efficiency of 5.00%? (b) How much heat transfer occurs to the environment to keep his temperature constant? Explicitly show how you follow the steps in the Problem-Solving Strategy for thermodynamics found in Problem-Solving Strategies for Thermodynamics.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 The First Law of Thermodynamics",
+        "Problem Statement": "",
+        "Question": "(a) What is the average metabolic rate in watts of a man who metabolizes 10,500 kJ of food energy in one day? (b) What is the maximum amount of work in joules he can do without breaking down fat, assuming a maximum efficiency of 20.0%? (c) Compare his work output with the daily output of a 187-W (0.250-horsepower) motor.",
+        "Image Links": [],
+        "Answer": "(a) 122 W (b) $$2 \\text{.} \\text{10} \\times \\text{10}^{6} \\text{ J}$$ (c) Work done by the motor is $$1 \\text{.} \\text{61} \\times \\text{10}^{7} \\text{ J}$$ ;thus the motor produces 7.67 times the work done by the man",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 The First Law of Thermodynamics",
+        "Problem Statement": "",
+        "Question": "(a) How long will the energy in a 1470-kJ (350-kcal) cup of yogurt last in a woman doing work at the rate of 150 W with an efficiency of 20.0% (such as in leisurely climbing stairs)? (b) Does the time found in part (a) imply that it is easy to consume more food energy than you can reasonably expect to work off with exercise?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.1 The First Law of Thermodynamics",
+        "Problem Statement": "",
+        "Question": "(a) A woman climbing the Washington Monument metabolizes $$\n6\n          \\text{\n.\n         } \\text{\n00\n          } \n\u00d7\n           \\text{\n10\n           }^{\n2\n               } \\text{\nkJ\n         }$$ of food energy. If her efficiency is 18.0%, how much heat transfer occurs to the environment to keep her temperature constant? (b) Discuss the amount of heat transfer found in (a). Is it consistent with the fact that you quickly warm up when exercising?",
+        "Image Links": [],
+        "Answer": "(a) 492 kJ (b) This amount of heat is consistent with the fact that you warm quickly when exercising. Since the body is inefficient, the excess heat produced must be dissipated through sweating, breathing, etc.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 The First Law of Thermodynamics and Some Simple Processes",
+        "Problem Statement": "",
+        "Question": "A car tire contains $$0 \\text{.} \\text{0380} m^{3}$$ of nitrogen at a gauge pressure of $$2 \\text{.} \\text{20} \\times \\text{10}^{5} \\text{ N/m}^{2}$$ (about 32 psi). How much more internal energy does this gas have than the same volume has at zero gauge pressure (which is equivalent to normal atmospheric pressure)? (Use $$E_{\\text{int}} = \\frac{5}{2} N k T$$ for the internal energy of nitrogen, a diatomic gas.)",
+        "Image Links": [],
+        "Answer": "$$\n2.09\n          \n\u00d7\n           \\text{\n10\n           }^{\n4\n               } \\text{\nJ\n         }$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 The First Law of Thermodynamics and Some Simple Processes",
+        "Problem Statement": "",
+        "Question": "A helium-filled rigid ball has a gauge pressure of 0.200 atm and a volume of 10.0 L. How much greater is the internal energy of the helium in the ball than it would be at zero gauge pressure?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 The First Law of Thermodynamics and Some Simple Processes",
+        "Problem Statement": "",
+        "Question": "Steam to drive an old-fashioned steam locomotive is supplied at a constant gauge pressure of $$1 \\text{.} \\text{75} \\times \\text{10}^{6} \\text{ N/m}^{2}$$ (about 250 psi) to a piston with a 0.200-m radius. (a) By calculating $$P \\text{Delta} V$$ , find the work done by the steam when the piston moves 0.800 m. Note that this is the net work output, since gauge pressure is used. (b) Now find the amount of work by calculating the force exerted times the distance traveled. Is the answer the same as in part (a)?",
+        "Image Links": [],
+        "Answer": "(a) $$\nW\n            \n=\n            P \\text{Delta} V \n=\n           \n1\n              \\text{\n.\n             } \\text{\n76\n              } \n\u00d7\n               \\text{\n10\n               }^{\n5\n                   } \\text{\nJ\n             }$$ (b) $$W = \\text{Fd} = 1 \\text{.} \\text{76} \\times \\text{10}^{5} \\text{ J}$$ . Yes, the answer is the same.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 The First Law of Thermodynamics and Some Simple Processes",
+        "Problem Statement": "",
+        "Question": "A hand-driven tire pump has a piston with a 2.50-cm diameter and a maximum stroke of 30.0 cm. (a) How much work do you do in one stroke if the average gauge pressure is $$2 \\text{.} \\text{40} \\times \\text{10}^{5} \\text{ N/m}^{2}$$ (about 35 psi)? (b) What average force do you exert on the piston, neglecting friction and gravitational force?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 The First Law of Thermodynamics and Some Simple Processes",
+        "Problem Statement": "",
+        "Question": "Calculate the net work output of a heat engine following path ABCDA in the figure below. Figure 15.41",
+        "Image Links": [
+            "https://openstax.org/apps/archive/20240812.170248/resources/3d618d27155afb2890b8da1f4514cc8ca782214d"
+        ],
+        "Answer": "$$\nW\n           \n=\n           \n4\n           \\text{\n.\n         } \n5\n           \n\u00d7\n           \\text{\n10\n           }^{\n3\n               } \\text{J}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 The First Law of Thermodynamics and Some Simple Processes",
+        "Problem Statement": "",
+        "Question": "What is the net work output of a heat engine that follows path ABDA in the figure above, with a straight line from B to D? Why is the work output less than for path ABCDA? Explicitly show how you follow the steps in the Problem-Solving Strategies for Thermodynamics.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 The First Law of Thermodynamics and Some Simple Processes",
+        "Problem Statement": "",
+        "Question": "Unreasonable Results What is wrong with the claim that a cyclical heat engine does 4.00 kJ of work on an input of 24.0 kJ of heat transfer while 16.0 kJ of heat transfers to the environment?",
+        "Image Links": [],
+        "Answer": "$$W$$ is not equal to the difference between the heat input and the heat output.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 The First Law of Thermodynamics and Some Simple Processes",
+        "Problem Statement": "",
+        "Question": "(a) A cyclical heat engine, operating between temperatures of $$\\text{450\u00ba C}$$ and $$\\text{150\u00ba C}$$ produces 4.00 MJ of work on a heat transfer of 5.00 MJ into the engine. How much heat transfer occurs to the environment? (b) What is unreasonable about the engine? (c) Which premise is unreasonable?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 The First Law of Thermodynamics and Some Simple Processes",
+        "Problem Statement": "",
+        "Question": "Construct Your Own Problem Consider a car\u2019s gasoline engine. Construct a problem in which you calculate the maximum efficiency this engine can have. Among the things to consider are the effective hot and cold reservoir temperatures. Compare your calculated efficiency with the actual efficiency of car engines.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.2 The First Law of Thermodynamics and Some Simple Processes",
+        "Problem Statement": "",
+        "Question": "Construct Your Own Problem Consider a car trip into the mountains. Construct a problem in which you calculate the overall efficiency of the car for the trip as a ratio of kinetic and potential energy gained to fuel consumed. Compare this efficiency to the thermodynamic efficiency quoted for gasoline engines and discuss why the thermodynamic efficiency is so much greater. Among the factors to be considered are the gain in altitude and speed, the mass of the car, the distance traveled, and typical fuel economy.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 Introduction to the Second Law of Thermodynamics: Heat Engines and Their Efficiency",
+        "Problem Statement": "",
+        "Question": "A certain heat engine does 10.0 kJ of work and 8.50 kJ of heat transfer occurs to the environment in a cyclical process. (a) What was the heat transfer into this engine? (b) What was the engine\u2019s efficiency?",
+        "Image Links": [],
+        "Answer": "(a) $$\\text{18.5} \\text{kJ}$$ (b) 54.1%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 Introduction to the Second Law of Thermodynamics: Heat Engines and Their Efficiency",
+        "Problem Statement": "",
+        "Question": "With $$2 \\text{.} \\text{56} \\times \\text{10}^{6} \\text{J}$$ of heat transfer into this engine, a given cyclical heat engine can do only $$1 \\text{.} \\text{50} \\times \\text{10}^{5} \\text{J}$$ of work. (a) What is the engine\u2019s efficiency? (b) How much heat transfer to the environment takes place?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 Introduction to the Second Law of Thermodynamics: Heat Engines and Their Efficiency",
+        "Problem Statement": "",
+        "Question": "(a) What is the work output of a cyclical heat engine having a 22.0% efficiency and $$6 \\text{.} \\text{00} \\times \\text{10}^{9} \\text{ J}$$ of heat transfer into the engine? (b) How much heat transfer occurs to the environment?",
+        "Image Links": [],
+        "Answer": "(a) $$\\text{1.32 xx 10}^{\\text{9}} \\text{J}$$ (b) $$\\text{4.68 xx 10}^{\\text{9}} \\text{J}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 Introduction to the Second Law of Thermodynamics: Heat Engines and Their Efficiency",
+        "Problem Statement": "",
+        "Question": "(a) What is the efficiency of a cyclical heat engine in which 75.0 kJ of heat transfer occurs to the environment for every 95.0 kJ of heat transfer into the engine? (b) How much work does it produce for 100 kJ of heat transfer into the engine?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 Introduction to the Second Law of Thermodynamics: Heat Engines and Their Efficiency",
+        "Problem Statement": "",
+        "Question": "The engine of a large ship does $$2 \\text{.} \\text{00} \\times \\text{10}^{8} \\text{ J}$$ of work with an efficiency of 5.00%. (a) How much heat transfer occurs to the environment? (b) How many barrels of fuel are consumed, if each barrel produces $$6 \\text{.} \\text{00} \\times \\text{10}^{9} \\text{ J}$$ of heat transfer when burned?",
+        "Image Links": [],
+        "Answer": "(a) $$\\text{3.80 xx 10}^{\\text{9}} \\text{J}$$ (b) 0.667 barrels",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 Introduction to the Second Law of Thermodynamics: Heat Engines and Their Efficiency",
+        "Problem Statement": "",
+        "Question": "(a) How much heat transfer occurs to the environment by an electrical power station that uses $$1 \\text{.} \\text{25} \\times \\text{10}^{\\text{14}} \\text{ J}$$ of heat transfer into the engine with an efficiency of 42.0%? (b) What is the ratio of heat transfer to the environment to work output? (c) How much work is done?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 Introduction to the Second Law of Thermodynamics: Heat Engines and Their Efficiency",
+        "Problem Statement": "",
+        "Question": "Assume that the turbines at a coal-powered power plant were upgraded, resulting in an improvement in efficiency of 3.32%. Assume that prior to the upgrade the power station had an efficiency of 36% and that the heat transfer into the engine in one day is still the same at $$2 \\text{.} \\text{50} \\times \\text{10}^{\\text{14}} \\text{ J}$$ . (a) How much more electrical energy is produced due to the upgrade? (b) How much less heat transfer occurs to the environment due to the upgrade?",
+        "Image Links": [],
+        "Answer": "(a) $$\\text{8.30 xx 10}^{\\text{12}} \\text{J}$$ ,\n\nwhich is 3.32% of $$\\text{2.50 xx 10}^{\\text{14}} \\text{J}$$ . (b) $$\\text{-8.30 xx 10}^{\\text{12}} \\text{J}$$ , where the negative sign indicates a reduction in heat transfer to the environment.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.3 Introduction to the Second Law of Thermodynamics: Heat Engines and Their Efficiency",
+        "Problem Statement": "",
+        "Question": "This problem compares the energy output and heat transfer to the environment by two different types of nuclear power stations-one with the normal efficiency of 34.0%, and another with an improved efficiency of 40.0%. Suppose both have the same heat transfer into the engine in one day, $$2 \\text{.} \\text{50} \\times \\text{10}^{\\text{14}} \\text{ J}$$ . (a) How much more electrical energy is produced by the more efficient power station? (b) How much less heat transfer occurs to the environment by the more efficient power station? (One type of more efficient nuclear power station, the gas-cooled reactor, has not been reliable enough to be economically feasible in spite of its greater efficiency.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.4 Carnot\u2019s Perfect Heat Engine: The Second Law of Thermodynamics Restated",
+        "Problem Statement": "",
+        "Question": "A certain gasoline engine has an efficiency of 30.0%. What would the hot reservoir temperature be for a Carnot engine having that efficiency, if it operates with a cold reservoir temperature of $$2 \\text{00} \\text{\u00ba} \\text{C}$$ ?",
+        "Image Links": [],
+        "Answer": "$$\\text{403} \\text{\u00ba} \\text{C}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.4 Carnot\u2019s Perfect Heat Engine: The Second Law of Thermodynamics Restated",
+        "Problem Statement": "",
+        "Question": "A gas-cooled nuclear reactor operates between hot and cold reservoir temperatures of $$\\text{700} \\text{\u00ba} \\text{C}$$ and $$\\text{27} \\text{.} 0 \\text{\u00ba} \\text{C}$$ . (a) What is the maximum efficiency of a heat engine operating between these temperatures? (b) Find the ratio of this efficiency to the Carnot efficiency of a standard nuclear reactor (found in Example 15.4).",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.4 Carnot\u2019s Perfect Heat Engine: The Second Law of Thermodynamics Restated",
+        "Problem Statement": "",
+        "Question": "(a) What is the hot reservoir temperature of a Carnot engine that has an efficiency of 42.0% and a cold reservoir temperature of $$\\text{27} \\text{.} 0 \\text{\u00ba} \\text{C}$$ ? (b) What must the hot reservoir temperature be for a real heat engine that achieves 0.700 of the maximum efficiency, but still has an efficiency of 42.0% (and a cold reservoir at $$\\text{27} \\text{.} 0 \\text{\u00ba} \\text{C}$$ )? (c) Does your answer imply practical limits to the efficiency of car gasoline engines?",
+        "Image Links": [],
+        "Answer": "(a) $$2 \\text{44} \\text{\u00ba} \\text{C}$$ (b) $$\\text{477} \\text{\u00ba} \\text{C}$$ (c)Yes,\nsince\nautomobiles\nengines\ncannot\nget\ntoo\nhot\nwithout\noverheating,\ntheir\nefficiency\nis\nlimited.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.4 Carnot\u2019s Perfect Heat Engine: The Second Law of Thermodynamics Restated",
+        "Problem Statement": "",
+        "Question": "Steam locomotives have an efficiency of 17.0% and operate with a hot steam temperature of $$\\text{425} \\text{\u00ba} \\text{C}$$ . (a) What would the cold reservoir temperature be if this were a Carnot engine? (b) What would the maximum efficiency of this steam engine be if its cold reservoir temperature were $$\\text{150} \\text{\u00ba} \\text{C}$$ ?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.4 Carnot\u2019s Perfect Heat Engine: The Second Law of Thermodynamics Restated",
+        "Problem Statement": "",
+        "Question": "Practical steam engines utilize $$\\text{450} \\text{\u00ba} \\text{C}$$ steam, which is later exhausted at $$\\text{270} \\text{\u00ba} \\text{C}$$ . (a) What is the maximum efficiency that such a heat engine can have? (b) Since $$\\text{270} \\text{\u00ba} \\text{C}$$ steam is still quite hot, a second steam engine is sometimes operated using the exhaust of the first. What is the maximum efficiency of the second engine if its exhaust has a temperature of $$\\text{150} \\text{\u00ba} \\text{C}$$ ? (c) What is the overall efficiency of the two engines? (d) Show that this is the same efficiency as a single Carnot engine operating between $$\\text{450} \\text{\u00ba} \\text{C}$$ and $$\\text{150} \\text{\u00ba} \\text{C}$$ . Explicitly show how you follow the steps in the Problem-Solving Strategies for Thermodynamics.",
+        "Image Links": [],
+        "Answer": "(a) $$\\left(\\textit{Eff }\\right)_{\\text{1 }} = 1 - \\frac{T_{\\text{c},\\text{1 }}}{T_{\\text{h},\\text{1 }}} = 1 - \\frac{\\text{543 K }}{\\text{723 K }} = 0 .\\text{ } \\text{249 } \\text{or } \\text{24 } .\\text{ } 9%$$ (b) $$\\left(\\textit{Eff }\\right)_{2} = 1 - \\frac{\\text{423 K }}{\\text{543 K }} = 0 .\\text{ } \\text{221 } \\text{or } \\text{22 } .\\text{ } 1%$$ (c) $$\\left(\\textit{Eff}\\right)_{1} = 1 - \\frac{T_{\\text{c},\\text{1 }}}{T_{\\text{h},\\text{1 }}} \\Rightarrow T_{\\text{c},\\text{1 }} = T_{\\text{h},\\text{1 }} \\left(1,-,\\left(\\textit{eff }\\right)_{1}\\right)$$ $$\\text{similarly},\\text{ } T_{\\text{c},\\text{2 }} = T_{\\text{h},\\text{2 }} \\left(1 - \\left(\\textit{Eff }\\right)_{2}\\right)$$ $$\\left .\\begin{matrix}{a}\\text{\nusing\n           } \nT\n             _{\\text{\nh,2\n                 }} \n=\n             \nT\n             _{\\text{\nc,1\n                 }} \\text{\nin\n           } \\text{\nabove\n           } \\text{\nequation\n           } \\text{\ngives\n           } \\end{matrix}\\right .$$ $$T_{\\text{c},\\text{2 }} = T_{\\text{h},\\text{1 }} \\left(1 - \\left(\\textit{Eff }\\right)_{1}\\right) \\left(1 - \\left(\\textit{Eff }\\right)_{2}\\right) \\equiv T_{\\text{h},\\text{1 }} \\left(1 - \\left(Eff\\right)_{\\text{overall }}\\right) \\\\ \\therefore \\left(1 - \\left(Eff\\right)_{\\text{overall }}\\right) = \\left(1 - \\left(\\textit{Eff }\\right)_{1}\\right) \\left(1 - \\left(\\textit{Eff }\\right)_{2}\\right) \\\\ \\left(Eff\\right)_{\\text{overall }} = 1 - \\left(1 - 0 .\\text{ } \\text{249 }\\right) \\left(1 - 0 .\\text{ } \\text{221 }\\right) = \\text{41 } .\\text{ } 5%$$ (d) $$\\text{#unicode[:<]Plurimath::Math::Symbols::Symbol:0x000000013de68fa0unicode[:>]}_{\\text{\noverall\n                  }} \n=\n            \n1\n             \n-\n             \\frac{\\text{\n423 K\n               }}{\\text{\n723 K\n               }} \n=\n           \n0\n           \\text{\n.\n         } \\text{\n415\n         } \\text{\nor\n         } \\text{\n41\n         } \\text{\n.\n         } \n5%\n          \\text{}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.4 Carnot\u2019s Perfect Heat Engine: The Second Law of Thermodynamics Restated",
+        "Problem Statement": "",
+        "Question": "A coal-fired electrical power station has an efficiency of 38%. The temperature of the steam leaving the boiler is $$\\text{550} \\text{\u00ba} \\text{C}$$ . What percentage of the maximum efficiency does this station obtain? (Assume the temperature of the environment is $$\\text{20} \\text{\u00ba} \\text{C}$$ .)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.4 Carnot\u2019s Perfect Heat Engine: The Second Law of Thermodynamics Restated",
+        "Problem Statement": "",
+        "Question": "Would you be willing to financially back an inventor who is marketing a device that she claims has 25 kJ of heat transfer at 600 K, has heat transfer to the environment at 300 K, and does 12 kJ of work? Explain your answer.",
+        "Image Links": [],
+        "Answer": "The heat transfer to the cold reservoir is $$\nQ\n            _{\\text{\nc\n                }} \n=\n            \nQ\n             _{\\text{\nh\n                 }} \n-\n             \nW\n             \n=\n           \\text{\n25\n          } \\text{\nkJ\n          } \n-\n           \\text{\n12\n          } \\text{\nkJ\n          } \n=\n           \\text{\n13\n          } \\text{\nkJ\n         }$$ , so the efficiency is $$\\mathit{\nEff\n              } \n=\n             \n1\n              \n-\n              \\frac{\nQ\n                 _{\\text{\nc\n                     }}}{\nQ\n                 _{\\text{\nh\n                     }}} \n=\n            \n1\n             \n-\n             \\frac{\\text{\n13\n               } \\text{\nkJ\n               }}{\\text{\n25\n               } \\text{\nkJ\n               }} \n=\n           \n0\n           \\text{\n.\n         } \\text{\n48\n         }$$ . The Carnot efficiency is $$\\left(\\textit{Eff }\\right)_{\\text{C }} = 1 - \\frac{T_{\\text{c }}}{T_{\\text{h }}} = 1 - \\frac{\\text{300 } \\text{K }}{\\text{600 } \\text{K }} = 0 .\\text{ } \\text{50 }$$ . The actual efficiency is 96% of the Carnot efficiency, which is much higher than the best-ever achieved of about 70%, so her scheme is likely to be fraudulent.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.4 Carnot\u2019s Perfect Heat Engine: The Second Law of Thermodynamics Restated",
+        "Problem Statement": "",
+        "Question": "Unreasonable Results (a) Suppose you want to design a steam engine that has heat transfer to the environment at $$\\text{270\u00baC}$$ and has a Carnot efficiency of 0.800. What temperature of hot steam must you use? (b) What is unreasonable about the temperature? (c) Which premise is unreasonable?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.4 Carnot\u2019s Perfect Heat Engine: The Second Law of Thermodynamics Restated",
+        "Problem Statement": "",
+        "Question": "Unreasonable Results Calculate the cold reservoir temperature of a steam engine that uses hot steam at $$\\text{450} \\text{\u00ba} \\text{C}$$ and has a Carnot efficiency of 0.700. (b) What is unreasonable about the temperature? (c) Which premise is unreasonable?",
+        "Image Links": [],
+        "Answer": "(a) $$\\text{-56.3\u00baC}$$ (b) The temperature is too cold for the output of a steam engine (the local environment). It is below the freezing point of water. (c) The assumed efficiency is too high.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.5 Applications of Thermodynamics: Heat Pumps and Refrigerators",
+        "Problem Statement": "",
+        "Question": "What is the coefficient of performance of an ideal heat pump that has heat transfer from a cold temperature of $$- \\text{25} \\text{.} 0 \\text{\u00ba} \\text{C}$$ to a hot temperature of $$\\text{40} \\text{.} 0 \\text{\u00ba} \\text{C}$$ ?",
+        "Image Links": [],
+        "Answer": "4.82",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.5 Applications of Thermodynamics: Heat Pumps and Refrigerators",
+        "Problem Statement": "",
+        "Question": "Suppose you have an ideal refrigerator that cools an environment at $$- \\text{20} \\text{.} 0 \\text{\u00ba} \\text{C}$$ and has heat transfer to another environment at $$\\text{50} \\text{.} 0 \\text{\u00ba} \\text{C}$$ . What is its coefficient of performance?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.5 Applications of Thermodynamics: Heat Pumps and Refrigerators",
+        "Problem Statement": "",
+        "Question": "What is the best coefficient of performance possible for a hypothetical refrigerator that could make liquid nitrogen at $$- \\text{200} \\text{\u00ba} \\text{C}$$ and has heat transfer to the environment at $$\\text{35} \\text{.} 0 \\text{\u00ba} \\text{C}$$ ?",
+        "Image Links": [],
+        "Answer": "0.311",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.5 Applications of Thermodynamics: Heat Pumps and Refrigerators",
+        "Problem Statement": "",
+        "Question": "In a very mild winter climate, a heat pump has heat transfer from an environment at $$5 \\text{.} \\text{00} \\text{\u00ba} \\text{C}$$ to one at $$\\text{35} \\text{.} 0 \\text{\u00ba} \\text{C}$$ . What is the best possible coefficient of performance for these temperatures? Explicitly show how you follow the steps in the Problem-Solving Strategies for Thermodynamics.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.5 Applications of Thermodynamics: Heat Pumps and Refrigerators",
+        "Problem Statement": "",
+        "Question": "(a) What is the best coefficient of performance for a heat pump that has a hot reservoir temperature of $$\\text{50} \\text{.} 0 \\text{\u00ba} \\text{C}$$ and a cold reservoir temperature of $$- \\text{20} \\text{.0\u00baC}$$ ? (b) How much heat transfer occurs into the warm environment if $$3 \\text{.60} \\times \\text{10}^{7} \\text{ J}$$ of work ( $$\\text{10} \\text{.} 0 \\text{ kW} \\cdot \\text{h}$$ ) is put into it? (c) If the cost of this work input is $$\\text{10.0 cents/kW} \\cdot \\text{h}$$ , how does its cost compare with the direct heat transfer achieved by burning natural gas at a cost of 85.0 cents per therm. (A therm is a common unit of energy for natural gas and equals $$1 \\text{.} \\text{055} \\times \\text{10}^{8} \\text{ J}$$ .)",
+        "Image Links": [],
+        "Answer": "(a) 4.61 (b) $$\n1\n        \\text{\n.\n       } \\text{\n66\n        } \n\u00d7\n         \\text{\n10\n         }^{\n8\n           } \\text{\nJ\n       } \\text{\nor 3\n       } \\text{\n.\n       } \\text{\n97\n        } \n\u00d7\n         \\text{\n10\n         }^{\n4\n           } \\text{\nkcal\n       }$$ (c) To transfer $$\n1\n        \\text{\n.\n       } \\text{\n66\n        } \n\u00d7\n         \\text{\n10\n         }^{\n8\n           } \\text{\nJ\n       }$$ , heat pump costs $1.00, natural gas costs $1.34.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.5 Applications of Thermodynamics: Heat Pumps and Refrigerators",
+        "Problem Statement": "",
+        "Question": "(a) What is the best coefficient of performance for a refrigerator that cools an environment at $$- \\text{30} \\text{.} 0 \\text{\u00ba} \\text{C}$$ and has heat transfer to another environment at $$\\text{45} \\text{.} 0\u00ba \\text{C}$$ ? (b) How much work in joules must be done for a heat transfer of 4186 kJ from the cold environment? (c) What is the cost of doing this if the work costs 10.0 cents per $$3 \\text{.} \\text{60} \\times \\text{10}^{6} \\text{ J}$$ (a kilowatt-hour)? (d) How many kJ of heat transfer occurs into the warm environment? (e) Discuss what type of refrigerator might operate between these temperatures.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.5 Applications of Thermodynamics: Heat Pumps and Refrigerators",
+        "Problem Statement": "",
+        "Question": "Suppose you want to operate an ideal refrigerator with a cold temperature of $$- \\text{10} \\text{.} 0\u00ba \\text{C}$$ , and you would like it to have a coefficient of performance of 7.00. What is the hot reservoir temperature for such a refrigerator?",
+        "Image Links": [],
+        "Answer": "$$\\text{27.6\u00baC}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.5 Applications of Thermodynamics: Heat Pumps and Refrigerators",
+        "Problem Statement": "",
+        "Question": "An ideal heat pump is being considered for use in heating an environment with a temperature of $$\\text{22} \\text{.} 0 \\text{\u00ba} \\text{C}$$ . What is the cold reservoir temperature if the pump is to have a coefficient of performance of 12.0?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.5 Applications of Thermodynamics: Heat Pumps and Refrigerators",
+        "Problem Statement": "",
+        "Question": "A 4-ton air conditioner removes $$5 \\text{.} \\text{06} \\times \\text{10}^{7} \\text{ J}$$ (48,000 British thermal units) from a cold environment in 1.00 h. (a) What energy input in joules is necessary to do this if the air conditioner has an energy efficiency rating ( $$\\text{#unicode[:<]Plurimath::Math::Symbols::Symbol:0x00000001038bdcc0unicode[:>]}$$ ) of 12.0? (b) What is the cost of doing this if the work costs 10.0 cents per $$3 \\text{.} \\text{60} \\times \\text{10}^{6} \\text{ J}$$ (one kilowatt-hour)? (c) Discuss whether this cost seems realistic. Note that the energy efficiency rating ( $$\\text{EER}$$ ) of an air conditioner or refrigerator is defined to be the number of British thermal units of heat transfer from a cold environment per hour divided by the watts of power input.",
+        "Image Links": [],
+        "Answer": "(a) $$\n1\n        \\text{\n.\n       } \\text{\n44\n        } \n\u00d7\n         \\text{\n10\n         }^{\n7\n           } \\text{J}$$ (b) 40 cents (c) This cost seems quite realistic; it says that running an air conditioner all day would cost $9.59 (if it ran continuously).",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.5 Applications of Thermodynamics: Heat Pumps and Refrigerators",
+        "Problem Statement": "",
+        "Question": "Show that the coefficients of performance of refrigerators and heat pumps are related by $$\\text{#unicode[:<]Plurimath::Math::Symbols::Symbol:0x000000015908d310unicode[:>]}_{\\text{ref}} = \\text{#unicode[:<]Plurimath::Math::Symbols::Symbol:0x000000014b823b00unicode[:>]}_{\\text{hp}} - 1$$ . Start with the definitions of the $$\\text{#unicode[:<]Plurimath::Math::Symbols::Symbol:0x000000010a8d3578unicode[:>]}$$ s and the conservation of energy relationship between $$Q_{\\text{h}}$$ , $$Q_{\\text{c}}$$ , and $$W$$ .",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.6 Entropy and the Second Law of Thermodynamics: Disorder and the Unavailability of Energy",
+        "Problem Statement": "",
+        "Question": "(a) On a winter day, a certain house loses $$5 \\text{.} \\text{00} \\times \\text{10}^{8} \\text{ J}$$ of heat to the outside (about 500,000 Btu). What is the total change in entropy due to this heat transfer alone, assuming an average indoor temperature of $$\\text{21.0\u00ba C}$$ and an average outdoor temperature of $$5.00\u00ba C$$ ? (b) This large change in entropy implies a large amount of energy has become unavailable to do work. Where do we find more energy when such energy is lost to us?",
+        "Image Links": [],
+        "Answer": "(a) $$9.78 \\times \\text{10}^{4} \\text{ J/K}$$ (b) In order to gain more energy, we must generate it from things within the house, like a heat pump, human bodies, and other appliances. As you know, we use a lot of energy to keep our houses warm in the winter because of the loss of heat to the outside.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.6 Entropy and the Second Law of Thermodynamics: Disorder and the Unavailability of Energy",
+        "Problem Statement": "",
+        "Question": "On a hot summer day, $$4 \\text{.} \\text{00} \\times \\text{10}^{6} \\text{ J}$$ of heat transfer into a parked car takes place, increasing its temperature from $$\\text{35.0\u00ba C}$$ to $$\\text{45.0\u00ba C}$$ . What is the increase in entropy of the car due to this heat transfer alone?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.6 Entropy and the Second Law of Thermodynamics: Disorder and the Unavailability of Energy",
+        "Problem Statement": "",
+        "Question": "A hot rock ejected from a volcano\u2019s lava fountain cools from $$\\text{1100\u00ba C}$$ to $$\\text{40.0\u00ba C}$$ , and its entropy decreases by 950 J/K. How much heat transfer occurs from the rock?",
+        "Image Links": [],
+        "Answer": "$$8.01 \\times \\text{10}^{5} \\text{ J}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.6 Entropy and the Second Law of Thermodynamics: Disorder and the Unavailability of Energy",
+        "Problem Statement": "",
+        "Question": "When $$1 \\text{.} \\text{60} \\times \\text{10}^{5} \\text{ J}$$ of heat transfer occurs into a meat pie initially at $$\\text{20.0\u00ba C}$$ , its entropy increases by 480 J/K. What is its final temperature?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.6 Entropy and the Second Law of Thermodynamics: Disorder and the Unavailability of Energy",
+        "Problem Statement": "",
+        "Question": "The Sun radiates energy at the rate of $$3 \\text{.} \\text{80} \\times \\text{10}^{\\text{26}} \\text{ W}$$ from its $$\\text{5500\u00ba C}$$ surface into dark empty space (a negligible fraction radiates onto Earth and the other planets). The effective temperature of deep space is $$- \\text{270\u00ba C}$$ . (a) What is the increase in entropy in one day due to this heat transfer? (b) How much work is made unavailable?",
+        "Image Links": [],
+        "Answer": "(a) $$1 \\text{.} \\text{04} \\times \\text{10}^{\\text{31}} \\text{ J/K}$$ (b) $$3 \\text{.} \\text{28} \\times \\text{10}^{\\text{31}} \\text{ J}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.6 Entropy and the Second Law of Thermodynamics: Disorder and the Unavailability of Energy",
+        "Problem Statement": "",
+        "Question": "(a) In reaching equilibrium, how much heat transfer occurs from 1.00 kg of water at $$\\text{40.0\u00ba C}$$ when it is placed in contact with 1.00 kg of $$\\text{20.0\u00ba C}$$ water in reaching equilibrium? (b) What is the change in entropy due to this heat transfer? (c) How much work is made unavailable, taking the lowest temperature to be $$\\text{20.0\u00ba C}$$ ? Explicitly show how you follow the steps in the Problem-Solving Strategies for Entropy.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.6 Entropy and the Second Law of Thermodynamics: Disorder and the Unavailability of Energy",
+        "Problem Statement": "",
+        "Question": "What is the decrease in entropy of 25.0 g of water that condenses on a bathroom mirror at a temperature of $$\\text{35.0\u00ba C}$$ , assuming no change in temperature and given the latent heat of vaporization to be 2450 kJ/kg?",
+        "Image Links": [],
+        "Answer": "199 J/K",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.6 Entropy and the Second Law of Thermodynamics: Disorder and the Unavailability of Energy",
+        "Problem Statement": "",
+        "Question": "Find the increase in entropy of 1.00 kg of liquid nitrogen that starts at its boiling temperature, boils, and warms to $$\\text{20.0\u00ba C}$$ at constant pressure.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.6 Entropy and the Second Law of Thermodynamics: Disorder and the Unavailability of Energy",
+        "Problem Statement": "",
+        "Question": "A large electrical power station generates 1000 MW of electricity with an efficiency of 35.0%. (a) Calculate the heat transfer to the power station, $$Q_{\\text{h}}$$ , in one day. (b) How much heat transfer $$Q_{\\text{c}}$$ occurs to the environment in one day? (c) If the heat transfer in the cooling towers is from $$\\text{35.0\u00ba C}$$ water into the local air mass, which increases in temperature from $$\\text{18.0\u00ba C}$$ to $$\\text{20.0\u00ba C}$$ , what is the total increase in entropy due to this heat transfer? (d) How much energy becomes unavailable to do work because of this increase in entropy, assuming an $$\\text{18.0\u00ba C}$$ lowest temperature? (Part of $$Q_{\\text{c}}$$ could be utilized to operate heat engines or for simply heating the surroundings, but it rarely is.)",
+        "Image Links": [],
+        "Answer": "(a) $$2 \\text{.} \\text{47} \\times \\text{10}^{\\text{14}} \\text{ J}$$ (b) $$1 \\text{.} \\text{60} \\times \\text{10}^{\\text{14}} \\text{ J}$$ (c) $$2.85 \\times \\text{10}^{\\text{10}} \\text{ J/K}$$ (d) $$8.29 \\times \\text{10}^{\\text{12}} \\text{ J}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.6 Entropy and the Second Law of Thermodynamics: Disorder and the Unavailability of Energy",
+        "Problem Statement": "",
+        "Question": "(a) How much heat transfer occurs from 20.0 kg of $$\\text{90.0\u00ba C}$$ water placed in contact with 20.0 kg of $$\\text{10.0\u00ba C}$$ water, producing a final temperature of $$\\text{50.0\u00ba C}$$ ? (b) How much work could a Carnot engine do with this heat transfer, assuming it operates between two reservoirs at constant temperatures of $$\\text{90.0\u00ba C}$$ and $$\\text{10.0\u00ba C}$$ ? (c) What increase in entropy is produced by mixing 20.0 kg of $$\\text{90.0\u00ba C}$$ water with 20.0 kg of $$\\text{10.0\u00ba C}$$ water? (d) Calculate the amount of work made unavailable by this mixing using a low temperature of $$\\text{10.0\u00ba C}$$ , and compare it with the work done by the Carnot engine. Explicitly show how you follow the steps in the Problem-Solving Strategies for Entropy. (e) Discuss how everyday processes make increasingly more energy unavailable to do work, as implied by this problem.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.7 Statistical Interpretation of Entropy and the Second Law of Thermodynamics: The Underlying Explanation",
+        "Problem Statement": "",
+        "Question": "Using Table 15.4, verify the contention that if you toss 100 coins each second, you can expect to get 100 heads or 100 tails once in $$2 \\times \\text{10}^{\\text{22}}$$ years; calculate the time to two-digit accuracy.",
+        "Image Links": [],
+        "Answer": "It should happen twice in every $$1.27 \\times \\text{10}^{\\text{30}} \\text{ s}$$ or once in every $$6.35 \\times \\text{10}^{\\text{29}} \\text{ s}$$ $$\\left(\\right. 6.35 \\times \\left(\\text{10}\\right)^{\\text{29}} \\text{ s} \\left.\\right) \\left(\\right. \\frac{\\text{1 h}}{\\text{ 3600 s}} \\left.\\right) & \\left(\\right. \\frac{\\text{1 d}}{\\text{24 h}} \\left.\\right) \\left(\\right. \\frac{\\text{1 y}}{\\text{365}.\\text{25 d}} \\left.\\right) \\\\ = & 2.0 \\times \\left(\\text{10}\\right)^{\\text{22}} \\text{ y}$$",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.7 Statistical Interpretation of Entropy and the Second Law of Thermodynamics: The Underlying Explanation",
+        "Problem Statement": "",
+        "Question": "What percent of the time will you get something in the range from 60 heads and 40 tails through 40 heads and 60 tails when tossing 100 coins? The total number of microstates in that range is $$1 \\text{.} \\text{22} \\times \\text{10}^{\\text{30}}$$ . (Consult Table 15.4.)",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.7 Statistical Interpretation of Entropy and the Second Law of Thermodynamics: The Underlying Explanation",
+        "Problem Statement": "",
+        "Question": "(a) If tossing 100 coins, how many ways (microstates) are there to get the three most likely macrostates of 49 heads and 51 tails, 50 heads and 50 tails, and 51 heads and 49 tails? (b) What percent of the total possibilities is this? (Consult Table 15.4.)",
+        "Image Links": [],
+        "Answer": "(a) $$3 \\text{.} 0 \\times \\text{10}^{\\text{29}}$$ (b) 24%",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.7 Statistical Interpretation of Entropy and the Second Law of Thermodynamics: The Underlying Explanation",
+        "Problem Statement": "",
+        "Question": "(a) What is the change in entropy if you start with 100 coins in the 45 heads and 55 tails macrostate, toss them, and get 51 heads and 49 tails? (b) What if you get 75 heads and 25 tails? (c) How much more likely is 51 heads and 49 tails than 75 heads and 25 tails? (d) Does either outcome violate the second law of thermodynamics?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.7 Statistical Interpretation of Entropy and the Second Law of Thermodynamics: The Underlying Explanation",
+        "Problem Statement": "",
+        "Question": "(a) What is the change in entropy if you start with 10 coins in the 5 heads and 5 tails macrostate, toss them, and get 2 heads and 8 tails? (b) How much more likely is 5 heads and 5 tails than 2 heads and 8 tails? (Take the ratio of the number of microstates to find out.) (c) If you were betting on 2 heads and 8 tails would you accept odds of 252 to 45? Explain why or why not.",
+        "Image Links": [],
+        "Answer": "(a) $$- 2 \\text{.} \\text{38} \\times \\text{10}^{- \\text{23}} \\text{ J/K}$$ (b) 5.6 times more likely (c) If you were betting on two heads and 8 tails, the odds of breaking even are 252 to 45, so on average you would break even. So, no, you wouldn\u2019t bet on odds of 252 to 45.",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.7 Statistical Interpretation of Entropy and the Second Law of Thermodynamics: The Underlying Explanation",
+        "Problem Statement": "",
+        "Question": "(a) If you toss 10 coins, what percent of the time will you get the three most likely macrostates (6 heads and 4 tails, 5 heads and 5 tails, 4 heads and 6 tails)? (b) You can realistically toss 10 coins and count the number of heads and tails about twice a minute. At that rate, how long will it take on average to get either 10 heads and 0 tails or 0 heads and 10 tails?",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.7 Statistical Interpretation of Entropy and the Second Law of Thermodynamics: The Underlying Explanation",
+        "Problem Statement": "",
+        "Question": "(a) Construct a table showing the macrostates and all of the individual microstates for tossing 6 coins. (Use Table 15.5 as a guide.) (b) How many macrostates are there? (c) What is the total number of microstates? (d) What percent chance is there of tossing 5 heads and 1 tail? (e) How much more likely are you to toss 3 heads and 3 tails than 5 heads and 1 tail? (Take the ratio of the number of microstates to find out.)",
+        "Image Links": [],
+        "Answer": "(b) 7 (c) 64 (d) 9.38% (e) 3.33 times more likely (20 to 6)",
+        "Answer Image Links": []
+    },
+    {
+        "Topic": "15.7 Statistical Interpretation of Entropy and the Second Law of Thermodynamics: The Underlying Explanation",
+        "Problem Statement": "",
+        "Question": "In an air conditioner, 12.65 MJ of heat transfer occurs from a cold environment in 1.00 h. (a) What mass of ice melting would involve the same heat transfer? (b) How many hours of operation would be equivalent to melting 900 kg of ice? (c) If ice costs 20 cents per kg, do you think the air conditioner could be operated more cheaply than by simply using ice? Describe in detail how you evaluate the relative costs.",
+        "Image Links": [],
+        "Answer": "",
+        "Answer Image Links": []
+    }
+]
