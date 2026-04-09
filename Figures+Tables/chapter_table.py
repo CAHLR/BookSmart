@@ -5,6 +5,7 @@ import math
 import re
 import subprocess
 from pathlib import Path
+from typing import Optional
 
 DEFAULT_MODELS = ["o3", "deepseek-chat", "gemini-2.5-pro", "o4-mini", "gpt-5"]
 WILSON_Z_95 = 1.959963984540054
@@ -23,6 +24,14 @@ def parse_args():
         "--repo-root",
         default=str(Path(__file__).resolve().parent),
         help="Path to Final Paper Repo root (default: directory containing this script)",
+    )
+    parser.add_argument(
+        "--textbooks-dir",
+        default=None,
+        help=(
+            "Top-level textbook directory under the repo root. "
+            "Defaults to 'Textbooks Fixed' when present, otherwise 'Textbooks'."
+        ),
     )
     parser.add_argument(
         "--questions-subdir",
@@ -69,6 +78,11 @@ def parse_args():
         "--chapter-only",
         action="store_true",
         help="Only include chapter totals; omit section rows.",
+    )
+    parser.add_argument(
+        "--include-min-subchapter-row",
+        action="store_true",
+        help="Include a bottom row showing each model's minimum chapter accuracy.",
     )
     parser.add_argument(
         "--copy",
@@ -151,6 +165,27 @@ def metric_cell(correct: int, total: int):
     pct = round((100 * correct) / total, 1)
     low, high = wilson_interval(correct, total)
     return pct, f"{pct:.1f} [{low:.1f}, {high:.1f}]"
+
+
+def compute_min_accuracy_metrics(chapter_data, models):
+    min_metrics = {model: None for model in models}
+    for chapter in chapter_data.values():
+        chapter_n = chapter["n"]
+        if chapter_n == 0:
+            continue
+        for model in models:
+            pct, display = metric_cell(chapter["correct"][model], chapter_n)
+            current = min_metrics[model]
+            if current is None or pct < current[0]:
+                min_metrics[model] = (pct, display)
+    return min_metrics
+
+
+def format_chapter_label(chapter_num: int, chapter_title: str) -> str:
+    generic_title = f"Chapter {chapter_num}"
+    if chapter_title.strip().lower() == generic_title.lower():
+        return generic_title
+    return f"{generic_title}: {chapter_title}"
 
 
 def extract_chapter_titles(preface_path: Path):
@@ -268,9 +303,15 @@ def build_latex_table(
     label: str,
     include_all_row: bool,
     chapter_only: bool,
+    include_min_subchapter_row: bool,
 ):
     has_any_sections = any(chapter["sections"] for chapter in chapter_data.values())
     effective_chapter_only = chapter_only or not has_any_sections
+    min_accuracy_metrics = (
+        compute_min_accuracy_metrics(chapter_data, models)
+        if include_min_subchapter_row
+        else None
+    )
 
     lines = []
     lines.append(r"\begingroup")
@@ -308,7 +349,7 @@ def build_latex_table(
 
     for chapter_num in sorted(chapter_data):
         chapter = chapter_data[chapter_num]
-        chapter_title = latex_escape(chapter["title"])
+        chapter_label = latex_escape(format_chapter_label(chapter_num, chapter["title"]))
         chapter_n = chapter["n"]
         chapter_metrics = {model: metric_cell(chapter["correct"][model], chapter_n) for model in models}
         chapter_best = max((metric[0] for metric in chapter_metrics.values()), default=0.0)
@@ -320,10 +361,10 @@ def build_latex_table(
             chapter_cells.append(value)
         if effective_chapter_only:
             lines.append(
-                rf"\textbf{{Chapter {chapter_num}: {chapter_title}}} & {chapter_n:,} & " + " & ".join(chapter_cells) + r" \\"
+                rf"\textbf{{{chapter_label}}} & {chapter_n:,} & " + " & ".join(chapter_cells) + r" \\"
             )
         else:
-            lines.append(rf"\multicolumn{{7}}{{l}}{{\textbf{{Chapter {chapter_num}: {chapter_title}}}}} \\" )
+            lines.append(rf"\multicolumn{{7}}{{l}}{{\textbf{{{chapter_label}}}}} \\" )
             for section_id in sorted(chapter["sections"], key=section_sort_key):
                 section = chapter["sections"][section_id]
                 section_n = section["n"]
@@ -374,18 +415,46 @@ def build_latex_table(
             overall_cells.append(value)
         lines.append(rf"\textbf{{{latex_escape(textbook)} Total}} & {overall_n:,} & " + " & ".join(overall_cells) + r" \\" )
 
+    if min_accuracy_metrics and all(metric is not None for metric in min_accuracy_metrics.values()):
+        min_best = max((min_accuracy_metrics[model][0] for model in models), default=0.0)
+        min_cells = []
+        for model in models:
+            value = min_accuracy_metrics[model][1]
+            if min_accuracy_metrics[model][0] == min_best and value != "--":
+                value = rf"\textbf{{{value}}}"
+            min_cells.append(value)
+        lines.append(
+            r"\textbf{Min. Chapter Accuracy} & -- & " + " & ".join(min_cells) + r" \\"
+        )
+
     lines.append(r"\end{longtable}")
     lines.append(r"\endgroup")
     return "\n".join(lines)
+
+
+def resolve_textbook_root(repo_root: Path, textbook: str, textbooks_dir: Optional[str]) -> Path:
+    if textbooks_dir:
+        textbook_root = repo_root / textbooks_dir / textbook
+        if not textbook_root.is_dir():
+            raise SystemExit(f"Textbook directory not found: {textbook_root}")
+        return textbook_root
+
+    for candidate in ("Textbooks Fixed", "Textbooks"):
+        textbook_root = repo_root / candidate / textbook
+        if textbook_root.is_dir():
+            return textbook_root
+
+    raise SystemExit(
+        f"Textbook directory not found for '{textbook}' under "
+        f"{repo_root / 'Textbooks Fixed'} or {repo_root / 'Textbooks'}"
+    )
 
 
 def main():
     args = parse_args()
     repo_root = Path(args.repo_root).resolve()
     textbook = args.textbook
-    textbook_root = repo_root / "Textbooks" / textbook
-    if not textbook_root.is_dir():
-        raise SystemExit(f"Textbook directory not found: {textbook_root}")
+    textbook_root = resolve_textbook_root(repo_root, textbook, args.textbooks_dir)
 
     models = [model.strip() for model in args.models.split(",") if model.strip()]
     if not models:
@@ -421,6 +490,7 @@ def main():
         label=label,
         include_all_row=args.include_all_row,
         chapter_only=args.chapter_only,
+        include_min_subchapter_row=args.include_min_subchapter_row,
     )
 
     if args.copy:

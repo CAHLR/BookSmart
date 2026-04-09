@@ -1,0 +1,131 @@
+textbook,model,textbook_questions_n,avg_accuracy_pct,min_chapter_accuracy_pct,min_chapter_number,min_chapter_label,min_chapter_questions_n
+Accounting V1,o3,318,95.6,88.9,4,Chapter 4: Job Order Costing,18
+Accounting V1,deepseek-chat,318,89.3,81.5,7,Chapter 7: Budgeting,27
+Accounting V1,gemini-2.5-pro,318,94.3,87.0,14,Chapter 14: Corporation Accounting,23
+Accounting V1,o4-mini,318,93.7,82.6,14,Chapter 14: Corporation Accounting,23
+Accounting V1,gpt-5,318,97.2,92.0,9,Chapter 9: Responsibility Accounting and Decentralization,25
+Accounting V2,o3,230,96.5,85.7,10,Chapter 10: Short-Term Decision-Making,14
+Accounting V2,deepseek-chat,230,88.7,80.0,11,Chapter 11: Capital Budgeting Decisions,20
+Accounting V2,gemini-2.5-pro,230,93.9,70.0,11,Chapter 11: Capital Budgeting Decisions,20
+Accounting V2,o4-mini,230,94.8,80.0,7,Chapter 7: Budgeting,15
+Accounting V2,gpt-5,230,94.8,80.0,11,Chapter 11: Capital Budgeting Decisions,20
+Algebra and Trig 2e,o3,3092,96.2,89.1,4,Chapter 4: Linear Functions,128
+Algebra and Trig 2e,deepseek-chat,3092,90.0,76.4,8,Chapter 8: Periodic Functions,89
+Algebra and Trig 2e,gemini-2.5-pro,3092,95.2,89.1,4,Chapter 4: Linear Functions,128
+Algebra and Trig 2e,o4-mini,3092,95.5,89.1,4,Chapter 4: Linear Functions,128
+Algebra and Trig 2e,gpt-5,3092,95.9,90.6,4,Chapter 4: Linear Functions,128
+American Gov 3e,o3,161,93.8,77.8,17,Chapter 17,9
+American Gov 3e,deepseek-chat,161,87.6,66.7,1,Chapter 1,6
+American Gov 3e,gemini-2.5-pro,161,91.3,75.0,12,Chapter 12,8
+American Gov 3e,o4-mini,161,92.5,66.7,1,Chapter 1,6
+American Gov 3e,gpt-5,161,88.8,75.0,16,Chapter 16,8
+Business Ethics,o3,193,91.7,83.3,6,Chapter 6,18
+Business Ethics,deepseek-chat,193,87.6,69.2,3,Chapter 3,13
+Business Ethics,gemini-2.5-pro,193,90.7,80.0,7,Chapter 7,25
+Business Ethics,o4-mini,193,89.6,76.0,7,Chapter 7,25
+Business Ethics,gpt-5,193,87.0,72.0,7,Chapter 7,25
+Business Law,o3,79,94.9,75.0,11,Chapter 11,8
+Business Law,deepseek-chat,79,91.1,75.0,11,Chapter 11,8
+Business Law,gemini-2.5-pro,79,94.9,80.0,13,Chapter 13,5
+Business Law,o4-mini,79,91.1,62.5,11,Chapter 11,8
+Business Law,gpt-5,79,92.4,75.0,11,Chapter 11,8
+Business Stats,o3,377,84.4,56.8,6,Chapter 6,37
+Business Stats,deepseek-chat,377,75.6,51.4,6,Chapter 6,37
+Business Stats,gemini-2.5-pro,377,82.2,48.6,6,Chapter 6,37
+Business Stats,o4-mini,377,85.9,54.1,6,Chapter 6,37
+Business Stats,gpt-5,377,84.9,59.5,6,Chapter 6,37
+Calc V1,o3,1059,94.3,89.0,2,Chapter 2: Vectors in Space,109
+Calc V1,deepseek-chat,1059,84.9,78.0,2,Chapter 2: Vectors in Space,109
+Calc V1,gemini-2.5-pro,1059,93.0,85.8,6,Chapter 6: Vector Calculus,162
+Calc V1,o4-mini,1059,92.9,88.3,6,Chapter 6: Vector Calculus,162
+Calc V1,gpt-5,1059,94.7,87.7,6,Chapter 6: Vector Calculus,162
+Calc V2,o3,1219,93.9,86.1,4,Chapter 4: Differentiation of Functions of Several Variables,108
+Calc V2,deepseek-chat,1219,88.4,77.8,4,Chapter 4: Differentiation of Functions of Several Variables,108
+Calc V2,gemini-2.5-pro,1219,91.8,85.2,4,Chapter 4: Differentiation of Functions of Several Variables,108
+Calc V2,o4-mini,1219,91.6,84.3,4,Chapter 4: Differentiation of Functions of Several Variables,108
+Calc V2,gpt-5,1219,93.2,82.4,4,Chapter 4: Differentiation of Functions of Several Variables,108
+Calc V3,o3,1108,92.5,88.3,7,Chapter 7: Second-Order Differential Equations,77
+Calc V3,deepseek-chat,1108,82.5,69.3,3,Chapter 3: Vector-Valued Functions,88
+Calc V3,gemini-2.5-pro,1108,92.8,87.5,3,Chapter 3: Vector-Valued Functions,88
+Calc V3,o4-mini,1108,94.0,88.6,3,Chapter 3: Vector-Valued Functions,88
+Calc V3,gpt-5,1108,93.3,90.9,3,Chapter 3: Vector-Valued Functions,88
+Chem 2e,o3,714,92.7,68.3,15,Chapter 15,41
+Chem 2e,deepseek-chat,714,87.7,61.0,15,Chapter 15,41
+Chem 2e,gemini-2.5-pro,714,91.2,65.9,15,Chapter 15,41
+Chem 2e,o4-mini,714,90.3,73.2,15,Chapter 15,41
+Chem 2e,gpt-5,714,92.3,68.3,15,Chapter 15,41
+College Algebra,o3,2341,96.2,89.1,4,Chapter 4: Linear Functions,129
+College Algebra,deepseek-chat,2341,90.6,79.8,4,Chapter 4: Linear Functions,129
+College Algebra,gemini-2.5-pro,2341,95.0,88.4,4,Chapter 4: Linear Functions,129
+College Algebra,o4-mini,2341,95.4,89.1,4,Chapter 4: Linear Functions,129
+College Algebra,gpt-5,2341,95.6,90.7,4,Chapter 4: Linear Functions,129
+College Physics 2e,o3,999,88.5,62.5,1,Chapter 1,16
+College Physics 2e,deepseek-chat,999,76.1,20.0,9,Chapter 9,15
+College Physics 2e,gemini-2.5-pro,999,87.2,61.1,5,Chapter 5,18
+College Physics 2e,o4-mini,999,85.1,53.3,9,Chapter 9,15
+College Physics 2e,gpt-5,999,88.1,73.3,9,Chapter 9,15
+Elementary Algebra 2e,o3,4495,97.3,92.9,9,Chapter 9: Roots and Radical,622
+Elementary Algebra 2e,deepseek-chat,4495,94.7,84.4,4,Chapter 4: Graphs,282
+Elementary Algebra 2e,gemini-2.5-pro,4495,97.1,92.0,9,Chapter 9: Roots and Radical,622
+Elementary Algebra 2e,o4-mini,4495,96.6,91.5,9,Chapter 9: Roots and Radical,622
+Elementary Algebra 2e,gpt-5,4495,97.2,93.6,9,Chapter 9: Roots and Radical,622
+Intellectual Property,o3,175,85.1,78.3,2,Chapter 2,23
+Intellectual Property,deepseek-chat,175,84.6,81.1,4,Chapter 4,37
+Intellectual Property,gemini-2.5-pro,175,90.3,82.6,2,Chapter 2,23
+Intellectual Property,o4-mini,175,87.4,82.6,2,Chapter 2,23
+Intellectual Property,gpt-5,175,86.9,78.3,2,Chapter 2,23
+Intermediate Algebra 2e,o3,3262,96.8,91.9,4,Chapter 4: Systems of Linear Equations,236
+Intermediate Algebra 2e,deepseek-chat,3262,93.9,81.6,3,Chapter 3: Graphs and Functions,201
+Intermediate Algebra 2e,gemini-2.5-pro,3262,97.1,91.6,8,Chapter 8: Roots and Radical,431
+Intermediate Algebra 2e,o4-mini,3262,95.9,87.3,4,Chapter 4: Systems of Linear Equations,236
+Intermediate Algebra 2e,gpt-5,3262,96.9,89.0,4,Chapter 4: Systems of Linear Equations,236
+Microbiology,o3,760,95.7,85.7,16,Chapter 16: Disease and Epidemiology,14
+Microbiology,deepseek-chat,760,93.7,84.2,9,Chapter 9: Microbial Growth,38
+Microbiology,gemini-2.5-pro,760,95.4,86.8,9,Chapter 9: Microbial Growth,38
+Microbiology,o4-mini,760,95.5,88.5,20,Chapter 20: Laboratory Analysis of the Immune Response,26
+Microbiology,gpt-5,760,95.5,88.5,15,Chapter 15: Microbial Mechanisms of Pathogenicity,26
+Prealgebra 2e,o3,3729,98.3,94.0,11,Chapter 11: Graphs,100
+Prealgebra 2e,deepseek-chat,3729,96.6,82.0,11,Chapter 11: Graphs,100
+Prealgebra 2e,gemini-2.5-pro,3729,98.7,97.0,11,Chapter 11: Graphs,100
+Prealgebra 2e,o4-mini,3729,98.3,95.8,5,Chapter 5: Decimals,478
+Prealgebra 2e,gpt-5,3729,98.3,96.7,5,Chapter 5: Decimals,478
+Precalc,o3,2594,95.6,87.4,12,Chapter 12: Introduction to Calculus,143
+Precalc,deepseek-chat,2594,89.5,76.4,6,Chapter 6: Periodic Functions,89
+Precalc,gemini-2.5-pro,2594,94.5,88.8,6,Chapter 6: Periodic Functions,89
+Precalc,o4-mini,2594,94.6,84.6,12,Chapter 12: Introduction to Calculus,143
+Precalc,gpt-5,2594,95.3,89.5,12,Chapter 12: Introduction to Calculus,143
+Sociology,o3,185,94.6,77.8,12,Chapter 12,9
+Sociology,deepseek-chat,185,90.3,70.0,16,Chapter 16,10
+Sociology,gemini-2.5-pro,185,94.6,77.8,12,Chapter 12,9
+Sociology,o4-mini,185,89.7,70.0,16,Chapter 16,10
+Sociology,gpt-5,185,94.6,77.8,12,Chapter 12,9
+Statistics High School,o3,583,90.1,80.0,12,Chapter 12: Linear Regression and Correlation,35
+Statistics High School,deepseek-chat,583,81.3,60.5,2,Chapter 2: Descriptive Statistics,43
+Statistics High School,gemini-2.5-pro,583,86.3,68.6,12,Chapter 12: Linear Regression and Correlation,35
+Statistics High School,o4-mini,583,88.7,71.4,12,Chapter 12: Linear Regression and Correlation,35
+Statistics High School,gpt-5,583,90.2,80.0,12,Chapter 12: Linear Regression and Correlation,35
+Stats 2e,o3,508,90.6,76.7,12,Chapter 12,30
+Stats 2e,deepseek-chat,508,82.3,50.0,2,Chapter 2,40
+Stats 2e,gemini-2.5-pro,508,89.0,77.5,2,Chapter 2,40
+Stats 2e,o4-mini,508,89.6,73.3,12,Chapter 12,30
+Stats 2e,gpt-5,508,91.1,76.7,12,Chapter 12,30
+US History,o3,218,92.7,66.7,18,Chapter 18,6
+US History,deepseek-chat,218,90.4,66.7,16,Chapter 16,6
+US History,gemini-2.5-pro,218,95.0,66.7,18,Chapter 18,6
+US History,o4-mini,218,94.5,71.4,5,Chapter 5,7
+US History,gpt-5,218,95.0,66.7,18,Chapter 18,6
+University Physics V1,o3,909,91.5,84.2,12,Chapter 12: Sources of Magnetic Fields,38
+University Physics V1,deepseek-chat,909,77.3,44.7,12,Chapter 12: Sources of Magnetic Fields,38
+University Physics V1,gemini-2.5-pro,909,88.9,81.6,12,Chapter 12: Sources of Magnetic Fields,38
+University Physics V1,o4-mini,909,90.6,81.6,12,Chapter 12: Sources of Magnetic Fields,38
+University Physics V1,gpt-5,909,92.6,78.9,12,Chapter 12: Sources of Magnetic Fields,38
+University Physics V2,o3,775,89.2,76.8,11,Chapter 11: Particle Physics and Cosmology,56
+University Physics V2,deepseek-chat,775,72.5,47.8,13,Chapter 13: Electromagnetic Induction,46
+University Physics V2,gemini-2.5-pro,775,86.5,71.4,11,Chapter 11: Particle Physics and Cosmology,56
+University Physics V2,o4-mini,775,88.0,76.6,10,Chapter 10: Nuclear Physics,47
+University Physics V2,gpt-5,775,89.0,75.0,11,Chapter 11: Particle Physics and Cosmology,56
+University Physics V3,o3,585,88.0,81.6,7,Chapter 7: Quantum Mechanics,49
+University Physics V3,deepseek-chat,585,78.1,67.8,2,Chapter 2: Geometric Optics and Image Formation,59
+University Physics V3,gemini-2.5-pro,585,86.3,79.6,7,Chapter 7: Quantum Mechanics,49
+University Physics V3,o4-mini,585,87.2,80.4,1,Chapter 1: The Nature of Light,46
+University Physics V3,gpt-5,585,87.4,74.6,2,Chapter 2: Geometric Optics and Image Formation,59

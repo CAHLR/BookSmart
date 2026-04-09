@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BookSmart Accuracy Explorer</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div>
+          <div class="eyebrow">BookSmart</div>
+          <h1>Accuracy Explorer</h1>
+          <p class="subtitle">
+            Search textbooks, switch models, and drill down from textbook to chapter to section accuracy.
+          </p>
+        </div>
+      </header>
+
+      <section class="controls card">
+        <div class="control-block">
+          <label for="search-input">Search textbooks</label>
+          <input id="search-input" type="search" placeholder="Start typing a textbook name..." />
+        </div>
+        <div class="control-block">
+          <span class="label">Model</span>
+          <div id="model-tabs" class="model-tabs"></div>
+        </div>
+      </section>
+
+      <section id="summary-strip" class="summary-strip"></section>
+
+      <section id="breadcrumbs" class="breadcrumbs"></section>
+
+      <main id="view-root" class="view-root">
+        <div class="loading card">Loading textbook accuracy data...</div>
+      </main>
+    </div>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
