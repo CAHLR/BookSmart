@@ -194,6 +194,22 @@ function setHash(view) {
   window.location.hash = hash;
 }
 
+function scrollCardToViewportTop(selector) {
+  const target = document.querySelector(selector);
+  if (!target) return;
+  const top = window.scrollY + target.getBoundingClientRect().top;
+  window.scrollTo({ top, behavior: "smooth" });
+}
+
+function navigateWithScroll(view, scrollSelector = "#view-root .plot-card") {
+  setHash(view);
+  window.requestAnimationFrame(() => {
+    window.requestAnimationFrame(() => {
+      scrollCardToViewportTop(scrollSelector);
+    });
+  });
+}
+
 function renderModelSelector() {
   modelTabs.innerHTML = state.data.models
     .map((model, idx) => {
@@ -624,6 +640,7 @@ function renderExploreList() {
       if (!row || !row.next) return;
       state.explore = row.next;
       renderExploreList();
+      scrollCardToViewportTop("#explore-root .explore-card");
     });
   }
 }
@@ -702,8 +719,8 @@ function groupBarsHtml(group) {
             .join("")}
         </div>
       </div>
+      <div class="x-meta">${group.n.toLocaleString()} questions</div>
       <div class="x-label">${escapeHtml(group.label)}</div>
-      <div class="x-meta">${group.n.toLocaleString()} q</div>
     </article>
   `;
 }
@@ -719,7 +736,10 @@ function renderPlot() {
   viewRoot.innerHTML = `
     <section class="plot-card card">
       <div class="plot-head">
-        <h2>${escapeHtml(payload.title)}</h2>
+        <div>
+          <h2>${escapeHtml(payload.title)}</h2>
+          <div class="plot-hint">Click a cluster to expand</div>
+        </div>
         ${legendHtml()}
       </div>
       <div class="plot-columns">
@@ -752,7 +772,7 @@ function renderPlot() {
         }
       }
 
-      setHash(nextView);
+      navigateWithScroll(nextView, "#view-root .plot-card");
     });
   }
 }

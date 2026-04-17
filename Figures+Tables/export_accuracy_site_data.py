@@ -96,7 +96,31 @@ def section_sort_key(section_id: str):
     return parts
 
 
+def load_chapter_titles_cache(repo_root: Path) -> dict[str, dict[str, str]]:
+    cache_path = repo_root / "Figures+Tables" / "chapter_titles_cache.json"
+    if not cache_path.is_file():
+        return {}
+    try:
+        data = json.loads(cache_path.read_text(encoding="utf-8"))
+    except Exception:
+        return {}
+    if not isinstance(data, dict):
+        return {}
+    # Expected shape: { textbook_name: { "1": "Title", ... } }
+    return {
+        str(textbook): {
+            str(chapter_num): str(title)
+            for chapter_num, title in chapter_map.items()
+            if isinstance(chapter_map, dict) and isinstance(title, str)
+        }
+        for textbook, chapter_map in data.items()
+        if isinstance(chapter_map, dict)
+    }
+
+
 def build_site_payload(textbooks_root: Path, questions_subdir: str, html_subdir: str, models):
+    repo_root = textbooks_root.parent
+    chapter_titles_cache = load_chapter_titles_cache(repo_root)
     textbooks = []
     for textbook_root in sorted(path for path in textbooks_root.iterdir() if path.is_dir()):
         if not (textbook_root / questions_subdir).is_dir():
@@ -123,6 +147,14 @@ def build_site_payload(textbooks_root: Path, questions_subdir: str, html_subdir:
         chapters = []
         for chapter_num in sorted(chapter_data):
             chapter = chapter_data[chapter_num]
+            chapter_title = chapter["title"]
+            cached_title = chapter_titles_cache.get(textbook, {}).get(str(chapter_num))
+            # Replace generic placeholders like "Chapter 6", "Chapter 6:", etc.
+            normalized = chapter_title.strip().lower()
+            is_generic_chapter = normalized.startswith(f"chapter {chapter_num}")
+            if cached_title and is_generic_chapter:
+                chapter_title = cached_title
+
             sections = []
             for section_id in sorted(chapter["sections"], key=section_sort_key):
                 section = chapter["sections"][section_id]
@@ -150,8 +182,8 @@ def build_site_payload(textbooks_root: Path, questions_subdir: str, html_subdir:
             chapters.append(
                 {
                     "number": chapter_num,
-                    "title": chapter["title"],
-                    "label": format_chapter_label(chapter_num, chapter["title"]),
+                    "title": chapter_title,
+                    "label": format_chapter_label(chapter_num, chapter_title),
                     "n": chapter["n"],
                     "metrics": metrics_for_models(chapter["correct"], chapter["n"], models),
                     "sections": sections,
